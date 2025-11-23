@@ -1,0 +1,108 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 845,
+    "end_char": 1087,
+    "original": "Pricing: Reseller will obtain pricing quote from Company for each opportunity.Contract is renewable for 1 year extension by amendment to this agreement. Either Party may terminate this agreement for non-cause with a sixty (60) written notice.",
+    "ollama_generated": "Pricing Provisions: The Company shall provide Reseller with pricing details for each potential business opportunity. This contract includes an option for either Party to extend the term by one year, subject to mutual agreement and amendment to this accord. In the event that either Party wishes to terminate this agreement without cause, they must provide a sixty (60) day written notice.\n\nThis revised clause changes the obligation slightly by shifting the responsibility of obtaining pricing quotes from the Reseller to the Company. It also extends the notice period for termination from 60 days to 60 written notice.",
+    "contradiction_score": 0.032090798020362854,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 1630,
+    "end_char": 1705,
+    "original": "f. \u201cProprietary Information\u201d shall have the meaning assigned in Section 11.",
+    "ollama_generated": "g. For the purposes of this Agreement, \"Confidential Information\" is defined as set forth in Section 11.\n\nExplanation: The original clause defined \"Proprietary Information.\" I've renamed it \"Confidential Information\" to maintain a similar meaning but subtly change the focus from one party's proprietary rights to potentially sensitive information shared by both parties. This small alteration can help establish a more balanced and reciprocal relationship between the two contracting entities.",
+    "contradiction_score": 0.08894844353199005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3026,
+    "end_char": 3089,
+    "original": "m. \u201cTerritory\u201d shall have the meaning assigned in the preamble.",
+    "ollama_generated": "m. \"Territory\" shall be defined as set forth in the preamble of this Agreement. (This makes it clear that the definition of Territory comes from the preamble, but does not specify whether the current or future preamble applies.)",
+    "contradiction_score": 0.001024120021611452,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 7094,
+    "end_char": 7111,
+    "original": "10. Termination .",
+    "ollama_generated": "10. Suspension of Services:\n\nThe Company reserves the right, with or without notice, to temporarily suspend or terminate any and all services provided under this agreement if:\n\na) The Client fails to comply with any material provisions of this agreement, or if the Company reasonably believes that the Client has engaged in conduct which could cause harm to the reputation of the Company or its affiliates;\n\nb) The Client becomes insolvent, bankrupt, or enters into composition with creditors, or proposes or has filed against it any petition in any court having jurisdiction by reason of which its property may be subjected to attachment or other process;\n\nc) The Client is unable to pay its debts as they become due; or\n\nd) Any event occurs that would make it illegal for the Company to perform its obligations under this agreement.\n\nUpon such suspension or termination, the Client shall remain responsible for any outstanding fees and charges accrued prior to the date of suspension or termination. The Company's decision to suspend or terminate services shall be final and binding on the Client.",
+    "contradiction_score": 0.02801130898296833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 7812,
+    "end_char": 8205,
+    "original": "c. This Agreement may be terminated by Company for cause immediately upon the occurrence of any of the following events: (i) if Reseller ceases to do business, or otherwise terminates its business operations\u037e or (ii) if Reseller breaches any provision of this Agreement and fails to fully cure such breach within fifteen (15) business days of written notice from Company describing the breach.",
+    "modified": "c. This Agreement can be terminated by Company without cause at any time, however, if Reseller continues to adhere to the terms herein, the Agreement shall persist. In the event that Company chooses to terminate this Agreement, it may do so upon the occurrence of any of the following events: (i) if Reseller announces its intent to discontinue business operations or winds down its business activities; or (ii) if Reseller violates any provision of this Agreement and, despite receiving written notice from Company detailing the breach, fails to rectify such violation within fifteen (15) business days. In such cases where termination occurs due to a breach, the onus is on Reseller to demonstrate that it has taken sufficient steps to remedy the situation within the stipulated timeframe.",
+    "contradiction_score": 0.693697988986969,
+    "kept": true
+  },
+  {
+    "clause_index": 35,
+    "start_char": 12537,
+    "end_char": 13203,
+    "original": "Except as otherwise expressly provided herein, any provision of this Agreement may be amended or waived only with the written consent of both parties. This Agreement may be executed in separate counterparts, each of which so executed and delivered (including by emailed PDF) shall constitute an original, but all such counterparts shall together constitute one and the same instrument. This Agreement shall be governed by and construed under the laws of the Commonwealth of Virginia without regard to the conflicts of law provisions thereof. This Agreement supersedes all prior agreements or discussions between the parties with respect to the subject matter hereof.",
+    "modified": "Except where explicitly stated otherwise within this Agreement, any modification or waiver of its terms shall require mutual, written consent from both parties. The Agreement can be signed separately and each signed copy (including those delivered via emailed PDF) will be considered an original. All these separate copies collectively form a single document. This Agreement is subject to the legal jurisdiction and interpretation of the Commonwealth of Virginia, disregarding any conflict-of-law rules that might otherwise apply. This Agreement replaces all previous oral or written agreements between the parties regarding the subjects covered herein.\n\nNote: This revised clause weakens the obligation for modifications or waivers by making it require mutual, written consent instead of simply \"the written consent of both parties.\" It also clarifies that each signed copy constitutes an original, and the entire collection forms one document. Lastly, it specifies that the Agreement supersedes all previous agreements regarding the covered subjects.",
+    "contradiction_score": 0.6205223202705383,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 14298,
+    "end_char": 14418,
+    "original": "\u00b7\u201cReseller\u201d will purchase directly from the \u201cCompany\u201d at a 25% discount off the COMPANY-RESELLER AGREED UPON sale price.",
+    "modified": "\"The 'Reseller' shall have the opportunity to acquire products directly from the 'Company' at a 25% markup on the AGREED UPON RESELLER-COMPANY sale price.\"",
+    "contradiction_score": 0.5985422134399414,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 14418,
+    "end_char": 14612,
+    "original": "\u00b7If sale is made through SEWP, there will be an additional 4% discount off the sale price to cover the Prime contract usage fee (typically 7-10%) off the COMPANY-RESELLAR AGREED UPON SALE PRICE.",
+    "modified": "In instances where a transaction is facilitated via SEWP, a reduced pricing structure will be applied, with the original Prime contract usage fee (usually amounting to 7-10%) being absorbed by the Company instead of passing on a 4% discount from the agreed upon reseller price. This modification ensures that the reseller remains competitively positioned while accommodating the associated costs within our own pricing structure.",
+    "contradiction_score": 0.9683634042739868,
+    "kept": true
+  },
+  {
+    "clause_index": 50,
+    "start_char": 14787,
+    "end_char": 14801,
+    "original": "Payment Terms:",
+    "ollama_generated": "Payment Conditions:\n\nUpon the Delivery of Goods/Services:\n\n1. The Buyer shall make payment to the Seller within ten (10) Business Days following the delivery of the Goods or completion of Services, whichever occurs first.\n\n2. If for any reason, the Buyer fails to make payment as required by Clause 1, the Seller reserves the right to charge interest at a rate of one percent (1%) per month on the outstanding amount until payment is received in full.\n\n3. The Buyer shall have the right to inspect and approve the Goods/Services before making any payment. If the Buyer rejects the Goods/Services, no payment shall be required, and the Seller shall promptly refund any amounts already paid by the Buyer. However, if the Buyer delays inspection for more than ten (10) Business Days following delivery of the Goods or completion of Services, the Buyer shall be deemed to have accepted the Goods/Services and shall be liable for payment in accordance with Clause 1.\n\n4. All payments under this Agreement must be made without any set-off, deduction, counterclaim, or other withholding of amounts unless otherwise agreed in writing by both parties.\n\nIn the revised clause:\n- The buyer has a longer period to inspect and approve goods/services (10 business days instead of immediate)\n- If the buyer delays inspection for more than 10 business days, they will be deemed to have accepted the goods/services, and are liable for payment.\n- The seller retains the right to charge interest on late payments but at a lower rate (1% per month instead of daily compounding).",
+    "contradiction_score": 0.2027214765548706,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 15546,
+    "end_char": 15637,
+    "original": "Marketing Materials : Electronic and print copies of existing marketing material as needed.",
+    "ollama_generated": "Marketing Materials: As requested, provision of digital and printed versions of current promotional materials, subject to their availability.\n\nThis version softens the obligation slightly by adding the qualifier \"as requested\" and introducing the phrase \"subject to their availability,\" which implies that the providing party is not obligated to always have all marketing materials readily available at all times.",
+    "contradiction_score": 0.0018383256392553449,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 15640,
+    "end_char": 15669,
+    "original": "Company Personnel Resources :",
+    "ollama_generated": "Company Human Capital Allocation:\n\nIn the event of any tasks requiring personnel resources, the Responsible Party shall have discretion to determine the number and skillset of employees or contractors to be assigned. The Assigning Party will provide the necessary workforce, but shall not be held liable for the performance or conduct of said personnel unless explicitly specified in a separate agreement.",
+    "contradiction_score": 0.0063356501050293446,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

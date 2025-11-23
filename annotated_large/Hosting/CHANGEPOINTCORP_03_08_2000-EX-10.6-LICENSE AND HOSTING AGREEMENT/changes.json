@@ -1,0 +1,645 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 52,
+    "original": "CONFIDENTIAL TREATMENT - REDACTED VERSION CORIO INC.",
+    "ollama_generated": "DISCRETIONARY NON-DISCLOSURE - MODIFIED VERSION OF CORIO INC.\n\nCorio Inc. hereby grants to the Recipient, on a discretionary and limited basis, the right to access and review the Confidential Information in a redacted form only. It is understood that the Recipient shall make all reasonable efforts to protect and maintain the confidentiality of the Redacted Version, but shall not be held liable for any unintended disclosure of the underlying unredacted Confidential Information if it can demonstrate that it acted in good faith and without negligence.",
+    "contradiction_score": 0.05557713657617569,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1455,
+    "end_char": 1509,
+    "original": "The following terms shall have the following meanings:",
+    "ollama_generated": "In this agreement, the following terms will be understood as follows:\n\nTo ensure clarity and consistency, let us define the key terms used herein:\n\n1. \"Obligations\" encompasses the tasks, duties, or responsibilities that one party is bound to perform under this agreement, but does not necessarily imply a strict liability or consequence for non-performance; rather, it signifies an expectation of good faith and reasonable effort.\n\n2. \"Event of Default\" refers to any condition or circumstance that breaches the terms set forth in this agreement, however minor, which may trigger the right of the non-breaching party to seek remedies under applicable law. It is important to note that such an event is not a prerequisite for a party to exercise its rights or remedies under this agreement.\n\n3. \"Force Majeure Event\" encompasses any external, unforeseeable, and insurmountable circumstances beyond the control of either party, which may prevent a party from fulfilling its obligations under this agreement. Such events include but are not limited to acts of God, government actions, war, terrorism, or other catastrophic events, provided that such circumstances were neither foreseeable nor avoidable by the affected party.",
+    "contradiction_score": 0.03558560460805893,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2843,
+    "end_char": 2990,
+    "original": "1.5      \"CORIO SERVICES\" means the hosting services offered by Corio to its Customers in which Corio allows Customers to access the Corio Servers.",
+    "ollama_generated": "1.5    \"Corio SERVICES\" denotes the web-hosting facilities made accessible by Corio to its Clients, wherein Corio grants its clients permissions to utilize and interact with the Corio Server Infrastructure. It is understood that the client bears responsibility for ensuring compliance with any specific access requirements or protocols as outlined in the Service Level Agreement or otherwise communicated by Corio.",
+    "contradiction_score": 0.002163091441616416,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3739,
+    "end_char": 4134,
+    "original": "1.10     \"SOFTWARE\" means Changepoint's proprietary software described in EXHIBIT A attached hereto and made a part hereof, in object code form only, and any Updates or Upgrades (as defined below) thereto. The Software shall also include any Application Programming Interfaces (\"API\") provided by Changepoint to Corio, but such API intellectual property shall not be sublicenseable to Customers.",
+    "ollama_generated": "1.10   \"SOFTWARE\" refers to the proprietary software detailed in EXHIBIT A appended herein and integral to this Agreement, exclusively in object code format. Any modifications, enhancements, or advancements (as hereinafter defined) to the Software are included within this definition. The Software encompasses any Application Programming Interfaces (\"API\") furnished by Changepoint to Corio; however, it is expressly understood that such API intellectual property may not be sublicensed to the customers.\n\nIn this revised clause, the focus has been shifted from the customers having access to the APIs (sublicenseable) to them not having access (not sublicensable). Additionally, the phrase \"defined below\" has been replaced with \"hereinafter defined\" for a more formal touch.",
+    "contradiction_score": 0.005350111983716488,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 7582,
+    "end_char": 7607,
+    "original": "2.       GRANT OF RIGHTS.",
+    "ollama_generated": "2. AWARDED PRIVILEGES.\n\nUpon the fulfillment of all obligations by the Client under this Agreement, the Service Provider hereby grants the Client a non-exclusive, revocable, and limited license to use the Services provided hereunder, subject to the terms and conditions set forth herein. Any failure by the Client to adhere to these terms may result in the immediate termination of this license. The Service Provider reserves the right to modify, suspend, or discontinue the Services at any time without prior notice to the Client.",
+    "contradiction_score": 0.06147606670856476,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 7607,
+    "end_char": 9079,
+    "original": "2.1      HOSTING SOFTWARE LICENSE. Subject to the terms and conditions of this Agreement, Changepoint hereby grants to Corio a fee-bearing, irrevocable, nonexclusive, nontransferable (except in accordance with Section 14.1 of this Agreement) license in the Territory to (i) reproduce the Software in machine executable object code format only for installation on the Corio Servers\u037e (ii) install multiple copies of the Software on Corio's Servers which will be made remotely accessible to Corio's Customers for their internal business purposes, (iii) permit limited access to and use of the Software by Customers through Corio Servers solely for such Customer's internal business purposes\u037e (iv) sublicense an unlimited number of Customers to access and use the Software only through the installation on Corio Servers solely for such Customer's internal business purposes\u037e and (v) use Changepoint's tools and utilities, if any, subject to any restrictions placed on the Changepoint by third party software providers and payment of any applicable fees required by such third parties, to configure, integrate and manage the Software. Corio shall not authorize Customers to download or reproduce the Software for use except as necessary in connection with the Corio Services. Except as specifically authorized by this Agreement, no license is granted under this Agreement to Corio to distribute the Software to its Customers or for use other than as part of the Corio Services.",
+    "modified": "2.1 LICENSE GRANT FOR HOSTING SOFTWARE. In accordance with the provisions of this Agreement, Changepoint grants to Corio, on a fee-bearing, revocable (at Changepoint's sole discretion), nonexclusive, nontransferable (except as expressly permitted under Section 14.1 of this Agreement) basis, a license within the Territory to:\n\n(i) Reproduce the Software in machine executable object code format for installation on Corio Servers.\n(ii) Install an unlimited number of copies of the Software on Corio's Servers, which may be made remotely accessible to Corio's Customers for their internal business purposes.\n(iii) Provide limited access and use of the Software to Customers via Corio Servers, solely for their internal business needs.\n(iv) Sublicense an unlimited number of Customers to access and utilize the Software, exclusively through installation on Corio Servers, for their respective internal business purposes.\n(v) Utilize Changepoint's tools and utilities (if any), subject to any restrictions imposed by third-party software providers and payment of any necessary fees as demanded by such third parties, for configuring, integrating, and managing the Software.\n\nHowever, Corio is prohibited from authorizing Customers to download or reproduce the Software unless essential for Corio Services provision. This Agreement does not grant any license to Corio for the distribution of the Software to its Customers beyond the scope of the Corio Services, nor for uses other than those explicitly stipulated within this Agreement, except as expressly authorized herein.",
+    "contradiction_score": 0.8191516995429993,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 11930,
+    "end_char": 12949,
+    "original": "2.4      DEMONSTRATION LICENSE. Subject to the terms and conditions of this Agreement, Changepoint hereby grants to Corio a nonexclusive, nontransferable (except in accordance with Section 14.1 of this Agreement) royalty-free, fully paid up right and license in the Territory, on Corio Servers, to make a reasonable number of copies of the Demonstration Software solely for demonstration purposes to potential Customers. Demonstration Software shall be made available to Corio's sales personnel and the parties agree to cooperate to make the Changepoint demonstration database available to Corio sales personnel on an ongoing basis. Corio shall not distribute any demonstration copies of the Software. Corio shall not demonstrate the Software to any one Customer for more than sixty (60) days from the start of that Customer demonstration, and Corio shall not demonstrate the Software to more than ten (10) Software Users at any one time. Further, the demonstration copies shall not permit the entry of additional data.",
+    "modified": "2.4 DEMONSTRATION PERIOD LICENSE: In accordance with this Agreement's terms and conditions, Changepoint grants Corio a non-exclusive, non-assignable (except as specified in Section 14.1), royalty-free, fully paid license, within the defined Territory, to install an unlimited number of copies of the Demonstration Software for demonstration purposes towards prospective clients. It is expected that both parties will collaborate to ensure the continuous availability of a Changepoint demonstration database to Corio's sales team.\n\nHowever, it should be noted that Changepoint reserves the right to determine the appropriate number of copies installed on Corio Servers. Corio may distribute demonstration copies of the Software, but only upon written approval from Changepoint. Furthermore, Corio is permitted to demonstrate the Software to an individual Customer for a period exceeding sixty (60) days, provided that the duration does not exceed ninety (90) days and subject to Changepoint's prior consent. Similarly, there is no limitation on the number of Software Users Corio can demonstrate the Software to simultaneously. Lastly, while the demonstration copies will allow basic functionality, they will not support data entry or modification beyond that which was initially input by Changepoint.",
+    "contradiction_score": 0.7466866374015808,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 12949,
+    "end_char": 15715,
+    "original": "2.5      DISTRIBUTION LICENSE: Corio shall have the right to resell licenses for the Software to any Corio Customer according to the terms and conditions of Changepoint's standard Distribution Agreement (\"Changepoint's Distribution Agreement\"). Corio and Changepoint shall enter into Changepoint's Distribution Agreement within sixty (60) days following the Effective Date, the terms of which shall be in substantial accordance with the copy of Changepoint's Distribution Agreement provided to Corio. Any conflict or inconsistency between the terms of this Agreement and the terms of Changepoint's distribution license with respect to the distribution license granted in this Section 2.5 shall be controlled by the terms of this Agreement. Under Changepoint's Distribution Agreement, Changepoint shall give a *** discount from the then-current Changepoint list price for such Software licenses to Corio for the first Two Million Dollars ($2,000,000U.S.) of such cumulative calendar year sales based on Changepoint's list price, and a *** discount based on Changepoint's then-current list price thereafter. This pricing formula shall apply for each calendar year during the term of this Agreement which Corio has distribution rights under this Section 2.5. For those Corio Customers who purchase Changepoint Software licenses from Corio pursuant to this Section 2.5 and Changepoint's Distribution Agreement, Corio shall pay to Changepoint a Software Support and Maintenance fee equal to *** of Changepoint's standard support and maintenance services for the Software Support and Maintenance services provided by Changepoint as specified in Section 5.3 of this Agreement and EXHIBIT C attached hereto and made a part hereof, and for Updates and Upgrades. Subject to Corio's payment of the Software support and maintenance fee as set forth in this Section 2.5, Changepoint's Software Support and Maintenance obligation with respect to Software distributed by Corio pursuant to this Section 2.5 shall continue after termination or expiration of this Agreement with respect to all Software Users granted access to the Software prior to termination or expiration of this Agreement, for the remaining duration of each such Software Users' rights to use the Software pursuant to agreements between Corio and its Customers. Under no circumstances shall Changepoint contact Corio Customers regarding a non-hosting license sale, unless requested to do so by Corio. Further, if a Corio Customer contacts Changepoint to purchase the Software license independent of the Corio Services, Changepoint shall immediately refer that Customer *** The omitted material has been filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.",
+    "ollama_generated": "2.5 LICENSE FOR DISTRIBUTION: Corio is granted the privilege to offer licenses for the Software to any of its clients (hereinafter referred to as \"Corio Clients\") under Corio's terms and conditions, consistent with Changepoint's standard Distribution Agreement (\"Changepoint's Distribution Agreement\"). It is understood that Corio and Changepoint will enter into Changepoint's Distribution Agreement within sixty (60) days following the Effective Date. The agreement's terms shall closely mirror the copy of Changepoint's Distribution Agreement provided to Corio, with any discrepancies or inconsistencies being resolved in favor of this Agreement.\n\nUnder Changepoint's Distribution Agreement, Changepoint will offer Corio a **discount from its standard list price for such Software licenses up to Two Million Dollars ($2,000,000U.S.) per calendar year based on their respective list prices, and a regular discount thereafter. This pricing structure shall apply for each calendar year during which Corio holds distribution rights under this Section 2.5. For Corio Clients who acquire Changepoint Software licenses from Corio in accordance with this Section 2.5 and Changepoint's Distribution Agreement, Corio shall remit to Changepoint a Software Support and Maintenance fee equivalent to ** of the fees charged for Changepoint's standard support and maintenance services for the Software Support and Maintenance services provided by Changepoint as detailed in Section 5.3 of this Agreement and EXHIBIT C attached herein and incorporated by reference, as well as for Updates and Upgrades.\n\nProvided that Corio fulfills its obligations to pay the Software support and maintenance fee as outlined in this Section 2.5, Changepoint's responsibility for providing Software Support and Maintenance shall continue after the termination or expiration of this Agreement for all Users granted access to the Software prior to such termination or expiration, for the duration of their rights to use the Software under agreements between Corio and its Clients. Under no circumstances will Changepoint contact Corio Clients regarding non-hosting license sales unless explicitly requested by Corio. Furthermore, if a Corio Client reaches out to Changepoint to purchase a Software license independently of Corio's services, Changepoint shall redirect that client to Corio. Any confidential information related to this matter has been submitted separately to the Securities and Exchange Commission in accordance with a request for confidential treatment.",
+    "contradiction_score": 0.07960186153650284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 23906,
+    "end_char": 23936,
+    "original": "3.       DELIVERY OF SOFTWARE.",
+    "ollama_generated": "3. SOFTWARE DELIVERY PROVISIONS:\n\nIn this Agreement, the Contractor shall make all reasonable efforts to provide the Client with access to the Software in a timely and functional manner, subject to the following conditions:\n\na) The Contractor shall not be liable for any delays or failures in the delivery of the Software due to factors beyond its control, such as internet service interruptions or software incompatibilities that were not reasonably foreseeable.\n\nb) In the event that the Client encounters any issues with the Software, it is the Client's responsibility to report these problems promptly to the Contractor so that appropriate actions can be taken to resolve them. The Contractor shall make reasonable attempts to rectify the issues reported by the Client in a timely manner.\n\nc) The Contractor shall not be obligated to support or maintain the Software beyond the term of this Agreement, unless otherwise agreed upon in writing between the parties.\n\nd) In case the Software is found to contain any errors or defects that were not reasonably foreseeable at the time of delivery, the Client agrees to provide the Contractor with a reasonable amount of time to correct these issues, subject to the terms and conditions set forth in this Agreement.",
+    "contradiction_score": 0.23132872581481934,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 27179,
+    "end_char": 27328,
+    "original": "3.3      ADDITIONAL MATERIALS. Changepoint shall use all commercially reasonable efforts to promptly provide Corio with, at a minimum, the following:",
+    "ollama_generated": "3.3 SUPPLEMENTARY INFORMATION. Corio acknowledges and agrees that Changepoint's provision of supplementary information is contingent upon the availability thereof and the resources required for its extraction and transmission. In the event that such information is available, Changepoint shall make reasonable efforts to deliver it to Corio in a timely manner. However, Changepoint assumes no liability for any delays or failure to provide the information due to unforeseen circumstances beyond its control.",
+    "contradiction_score": 0.35942837595939636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 28393,
+    "end_char": 28407,
+    "original": "4        FEES.",
+    "ollama_generated": "4. FEE ARRANGEMENTS.\n\nIn this Agreement, the Client shall not be obligated to pay any fees until the Services have been completed by the Service Provider to the satisfaction of both parties and accepted by the Client. Upon such acceptance, the Client will remit payment within ten (10) business days. If, during the provision of Services, the Client requests a modification or additional work that was not initially agreed upon, such modifications or additional work shall be charged at the Service Provider's then-current hourly rate.",
+    "contradiction_score": 0.030510148033499718,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 31150,
+    "end_char": 31831,
+    "original": "4.5      REPORTING. Within thirty (30) days following the end of each calendar month, Corio will submit to Changepoint a report in a form reasonably acceptable to both parties setting forth the number of Customers and Software Users which have been licensed to use the Software during the preceding month, as well as the Application Management Revenue received by Corio during the preceding month. The report shall also set forth all amounts collected by Corio pursuant to the Distribution License granted under Section 2.5 of this Agreement during the preceding month, and a calculation of all amounts due to Changepoint for such distributions by Corio during the preceding month.",
+    "ollama_generated": "4.5 REPORTING MODIFICATIONS: Changepoint shall have the right to request, within a reasonable timeframe following the end of each calendar month, a report from Corio in a mutually agreeable format. The report should include an estimation of the number of Customers and Software Users who are actively using the Software during that specific period, as well as the Application Management Revenue generated by Changepoint during the same timeframe. Furthermore, the report will encompass all amounts received by Corio from sales made under the Distribution License, as outlined in Section 2.5, for the preceding month. Additionally, the report shall contain a calculation of any distributions owed to Corio based on this revenue and the timeframe mentioned above.\n\nThis modification ensures that Changepoint's request for reports does not have to be made within thirty (30) days following the end of each calendar month, allowing for more flexibility in timing while still maintaining the essential reporting requirements outlined.",
+    "contradiction_score": 0.06603891402482986,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 32794,
+    "end_char": 32850,
+    "original": "5        INSTALLATION SUPPORT, MAINTENANCE AND TRAINING.",
+    "modified": "5. POST-INSTALLATION ASSISTANCE, MALFUNCTION RESPONSE, AND USER EDUCATION.\n\nIn this revised clause, the focus has shifted from proactive actions like installation support and training to reactive ones such as malfunction response and user education. This slight change implies that the provider will only step in when an issue arises, rather than actively assisting with initial setup or ongoing training.",
+    "contradiction_score": 0.7051507234573364,
+    "kept": true
+  },
+  {
+    "clause_index": 54,
+    "start_char": 33041,
+    "end_char": 33185,
+    "original": "*** The omitted material has been filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.",
+    "ollama_generated": "**** Confidential materials, as defined by this agreement, have been submitted separately to the Securities and Exchange Commission at their discretion, in accordance with their process for granting requests for non-public treatment of sensitive information.",
+    "contradiction_score": 0.009185009635984898,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 34796,
+    "end_char": 36163,
+    "original": "Changepoint agrees to provide Level 2 support and maintenance to Corio for the first four (4) months after the first Customer commences using the Software in connection with the Corio Services. Corio shall escalate any technical support questions or problems it is unable to answer or resolve directly to Changepoint for Changepoint to resolve as described in the schedule set forth in EXHIBIT C hereto. The support described in this Section 5.3 and EXHIBIT C hereto shall be provided to Corio, but Changepoint shall have no obligation to provide any Software Support or Maintenance services to other third parties. Subject to Corio's payment of the Software revenue sharing fees as set forth in EXHIBIT B hereto and the Software Support and Maintenance fee as provided in Section 2.5 of this Agreement, Changepoint's Software Support and Maintenance obligation shall continue after termination or expiration of this Agreement with respect to all Software Users granted access to the Software prior to termination or expiration of this Agreement for the remaining duration of each such Software Users' rights to use the Software pursuant to agreements between Corio and its Customers. Corio shall assign up to five (5) trained persons to contact Changepoint on Software Support and Maintenance matters within the scope of Changepoint's responsibility under EXHIBIT C.",
+    "ollama_generated": "Changepoint acknowledges its commitment to offering Level 2 technical assistance and maintenance to Corio for an initial period of four (4) months, commencing from when the first Customer initiates utilizing the Software in conjunction with the Corio Services. In the event that Corio encounters any technical questions or issues beyond its capability to resolve autonomously, it shall promptly forward these matters to Changepoint for appropriate resolution as outlined in EXHIBIT C appended herein. It is understood that the support detailed in this Section 5.3 and EXHIBIT C serves exclusively Corio; however, Changepoint maintains no obligation to extend any Software Support or Maintenance services to external parties.\n\nPursuant to Corio's timely remittance of the Software revenue sharing fees as specified in EXHIBIT B and the Software Support and Maintenance fee as stated in Section 2.5 of this Agreement, Changepoint's Software Support and Maintenance obligation persists post-termination or expiration of this contract, solely for those Software Users who have previously been granted access to the Software before the termination or expiration of this agreement. These users may continue to benefit from Changepoint's Software Support and Maintenance for the remaining period of their rights to employ the Software as per agreements between Corio and its Customers.\n\nCorio is obliged to designate up to five (5) adequately trained individuals to serve as primary points of contact for all matters concerning Software Support and Maintenance within Changepoint's area of responsibility, as outlined in EXHIBIT C.",
+    "contradiction_score": 0.006318273488432169,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 36163,
+    "end_char": 36582,
+    "original": "5.4      MANAGEMENT MEETINGS. The parties agree to meet either in person or via teleconference on no less than a quarterly basis to discuss, without limitation, engineering, feature-functionality and architecture-related issues as they pertain to the Software. The specific topics of the meetings will be determined on a meeting-by-meeting basis. Each party shall appoint a product manager to coordinate these meetings.",
+    "ollama_generated": "5.4 MANAGEMENT MEETINGS. While it is encouraged, the frequency of these meetings may be adjusted at the discretion of either party, with a minimum recommendation of once every three months. These meetings can occur in person or via teleconference and will focus on engineering, feature-functionality, and architecture-related matters related to the Software, without limitation. The topics for each meeting will be determined on an ad hoc basis as needs arise. Each party retains the autonomy to appoint, or change at their discretion, a product manager responsible for coordinating these meetings.",
+    "contradiction_score": 0.14142905175685883,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 38770,
+    "end_char": 39062,
+    "original": "5.6      OTHER SERVICES. Upon Corio's request, Changepoint shall provide certain professional services, including without limitation, consulting services, to Corio or its Customers, subject to the mutual written agreement on the scope of such services, pricing and other terms and conditions.",
+    "ollama_generated": "5.6 OTHER SERVICES. At Changepoint's discretion, and upon reaching a mutually agreed-upon written contract, Changepoint may choose to offer professional services, including but not limited to consulting services, to Corio or its Customers. Changepoint reserves the right to determine the scope, pricing, and other terms and conditions of these services, and Corio's acceptance of such services does not imply any obligation to proceed further unless expressly stated otherwise in the written contract.",
+    "contradiction_score": 0.017616817727684975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 44126,
+    "end_char": 44161,
+    "original": "7        WARRANTIES AND DISCLAIMER.",
+    "modified": "7. IMPLIED WARRANTIES AND LIMITATIONS ON LIABILITY.\n\nIn contrast to the previous clause, this section outlines the implicit assurances we provide in our services and sets boundaries for our liability. While we strive for excellence, it's essential to understand that our services are provided \"as is\" and \"as available,\" with no implied warranties of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.\n\nRegarding liability, in the event that any claims, losses, or damages (including consequential damages) arise from the use of our services, our total aggregate liability shall be limited to the amount paid by you for the relevant service during the period when the cause of action arose. This limitation applies regardless of legal theory, whether in contract, tort, or otherwise.\n\nBy engaging with our services, you acknowledge and accept this limitation on our liability and the absence of any implied warranties.",
+    "contradiction_score": 0.7877134680747986,
+    "kept": true
+  },
+  {
+    "clause_index": 74,
+    "start_char": 44561,
+    "end_char": 45220,
+    "original": "7.2      INTELLECTUAL PROPERTY WARRANTY. Changepoint represents and warrants to Corio that (a) Changepoint is the sole and exclusive owner of the Software or is a licensee of the Software\u037e (b) Changepoint has full and sufficient right, title and authority to grant the rights and/or licenses granted to Corio under this Agreement\u037e (c) the Software does not contain any materials developed by a third party used by Changepoint except pursuant to a license agreement\u037e and (d) the Software does not, to the best of Changepoint's knowledge and belief, infringe any patent, copyright, trade secret, trademark or other intellectual property rights of a third party.",
+    "modified": "7.2 INTELLECTUAL PROPERTY DISCLAIMER AND LIMITATIONS. Corio acknowledges and agrees that (a) Changepoint does not guarantee the exclusive ownership of the Software; (b) Changepoint may have acquired the rights to use the Software through various means, including licensing agreements; (c) The Software may incorporate materials developed by third parties, provided such use complies with the relevant license agreements; and (d) While Changepoint takes reasonable measures to ensure no infringement of any intellectual property rights, it does not warrant that the Software will not violate any patent, copyright, trade secret, trademark or other intellectual property rights of a third party. In case of such an infringement claim, Corio shall bear the responsibility for any costs, damages, or liabilities arising therefrom, and Changepoint shall have no liability in such circumstances.",
+    "contradiction_score": 0.8868630528450012,
+    "kept": true
+  },
+  {
+    "clause_index": 75,
+    "start_char": 45220,
+    "end_char": 45903,
+    "original": "7.3      PRODUCT WARRANTY. Changepoint warrants that the Software will perform in substantial accordance with the Documentation, and the media on which the Software is distributed will be free from defects in materials and workmanship under normal use, for a period of one hundred twenty (120) days after delivery of the Software to Corio for Acceptance Testing (the \"Warranty Period\"). In addition, Changepoint warrants that during the Warranty Period the Software is free of any willfully introduced computer virus, or any other similar harmful, malicious or hidden program or data, which is designed to disable, erase, or alter the Software, or any other files, data, or software.",
+    "modified": "7.3 WARRANTY ON SOFTWARE PERFORMANCE. Corio acknowledges and agrees that it is solely responsible for ensuring that the Software, upon installation and use, functions as intended in a reasonable manner, based on the Documentation provided by Changepoint. The media on which the Software is distributed will be free from defects in materials and workmanship under normal conditions of use, for a period of one hundred twenty (120) days following Corio's acceptance testing (the \"Warranty Period\"). However, Changepoint makes no warranties that the Software will operate without interruption or error during this period. Furthermore, Corio acknowledges and agrees that it is responsible for implementing suitable measures to protect its systems from any willfully introduced computer virus, or any other similar harmful, malicious, or hidden programs or data, which may be designed to disable, erase, or alter the Software or any other files, data, or software. In no event shall Changepoint be liable for any damage resulting from such events occurring outside of the Warranty Period.",
+    "contradiction_score": 0.704082190990448,
+    "kept": true
+  },
+  {
+    "clause_index": 79,
+    "start_char": 46736,
+    "end_char": 46991,
+    "original": "(a)      the Software has been not properly installed and used at all times and in accordance with the Documentation\u037e and (b)      Corio has requested modifications, alterations or additions to the Software that cause it to deviate from the Documentation.",
+    "ollama_generated": "(a) The User acknowledges and agrees that any issues arising from the Software's operation may be due to improper installation or usage not strictly adhering to the guidelines provided in the Documentation. However, the onus is on the User to ensure proper installation and usage.\n\n   (b) In the event that Corio deems it necessary for modifications, alterations, or additions to the Software, such changes may deviate from the Documentation's specified procedures. The User understands and accepts this deviation as a requirement of service, with the understanding that Corio will use reasonable efforts to minimize any potential impacts on the Software's performance.",
+    "contradiction_score": 0.00512324646115303,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 54054,
+    "end_char": 54237,
+    "original": "Changepoint shall cooperate with Corio, at Corio's expense, in defending or settling any such claims and Changepoint may join in defense with counsel of its choice at its own expense.",
+    "ollama_generated": "Changepoint is not obligated to act on behalf of Corio regarding any such claims unless explicitly requested by Corio. However, if Changepoint chooses to participate, it shall do so at its own expense, while Corio will cover the costs associated with their collaboration. Changepoint retains the right to engage counsel of its preference in such cases.",
+    "contradiction_score": 0.09904173761606216,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 57913,
+    "end_char": 57943,
+    "original": "11       TERM AND TERMINATION.",
+    "ollama_generated": "11. DURATION AND DISCONTINUANCE.\n\nIn the event of any Party's desire to terminate this Agreement prior to its natural expiration, they shall have the right to provide written notice to the other Party at least thirty (30) days before such discontinuance. The Parties acknowledge and accept that upon termination, each shall be responsible for fulfilling their obligations up to the date of termination, and no further obligations or liabilities will arise thereafter unless explicitly agreed upon in writing by both Parties.",
+    "contradiction_score": 0.3155067265033722,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 60035,
+    "end_char": 61571,
+    "original": "11.3     EFFECT OF TERMINATION OR EXPIRATION. The following Sections shall survive the termination or expiration of this Agreement according to the provisions of this Section 11.3: 2.1, 2,2, 2.3, 4.2, 4,5, 4.6, 4.7, 5.3, 7, 8, 9, 10, 12, 14 and Exhibits B and C. Corio's right to allow its then-existing Customers and their Software Users to use and access the Software in accordance with Sections 2.1 and 2.5 of this Agreement and all payment obligations related thereto shall survive any termination or expiration of this Agreement only for the remaining term of any contracts Corio has with its Customers to continue providing the Corio Services. Changepoint's obligation to provide Software Support and Maintenance to Corio and its Customers shall survive any termination or expiration of this Agreement for the remaining term of any contracts Corio has with such Customers to continue providing the Corio Services, provided Corio continues to make its revenue share fee payments (and Software Support and Maintenance payments under Section 2.5 of this Agreement with respect to those licenses) to Changepoint as specified in this Agreement. Notwithstanding the foregoing, the license grants in Sections 2.1 and 2.2 of this Agreement, and Changepoint's continuing obligation to provide Software Support and Maintenance under Sections 4.2 and 5.3 of this Agreement shall terminate if Changepoint terminates this Agreement for Corio's non-payment or other material breach according to the provisions of Section 11.2 of this Agreement.",
+    "ollama_generated": "11.3 SURVIVING OBLIGATIONS UPON TERMINATION OR EXPIRATION. The following Sections shall remain binding upon termination or expiration of this Agreement as outlined in Section 11.3: 2.1, 2.2, 2.3, 4.2, 4.5, 4.6, 4.7, 5.3, 7, 8, 9, 10, 12, 14, and Exhibits B and C. Changepoint grants Corio the right to permit its then-current Customers and their Software Users to utilize and access the Software in accordance with Sections 2.1 and 2.5 of this Agreement, as well as all payment obligations associated therewith, during the duration of any contracts between Corio and its Customers for continued provision of the Corio Services. However, Changepoint's obligation to deliver Software Support and Maintenance to Corio and its Customers shall terminate upon termination or expiration of this Agreement if Corio fails to comply with its obligations under this Agreement, as specified in Section 11.2. In such a case, the license grants in Sections 2.1 and 2.2, and Changepoint's continuing obligation to provide Software Support and Maintenance under Sections 4.2 and 5.3 of this Agreement, shall immediately cease. This clause clarifies that the survival of obligations is contingent upon Corio's compliance with its contractual duties.",
+    "contradiction_score": 0.1296684741973877,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 65323,
+    "end_char": 66836,
+    "original": "12.3     LICENSE. Upon the release of the Source Code to Corio pursuant to Section 12.2 of this Agreement, Corio shall have a royalty-free, nonexclusive, nontransferable, right and license at its head office to use and modify the Source Code to support and maintain the Software until the expiration or termination of Corio's Customers' License Agreements for the Corio Services. The object code derived from the Source Code so modified shall be subject to the same rights and restrictions on use, reproduction and disclosure that are contained in this Agreement with respect to the Software. Corio shall not distribute, sell or sublicense the Source Code or use the Source Code to develop new products or for commercial purposes other than to support Customers of the Corio Services. Subject to the licenses expressly granted in this Agreement, Changepoint shall retain all right, title and interest in and to the Source Code. Corio may disclose the Source Code to a contractor(s) for the purposes set forth in this Section 12.3 provided that such contractor is not a direct or indirect competitor of Changepoint of any affiliate of Changepoint, and provided further that such contractor(s) agrees to maintain the Source Code in strict confidence and to use the Source Code only as expressly permitted under this Section 12. Access to the Source Code shall be on a need to know only basis and shall be retained by contractors only for so long as reasonably required for the purposes set forth in this Section 12.",
+    "ollama_generated": "12.3 LICENSE GRANT AND RESTRICTIONS. Upon receipt of the Source Code from Changepoint in accordance with Section 12.2, Changepoint grants Corio a limited, non-exclusive, non-transferable license to use and modify the Source Code solely for the purpose of providing technical support and maintenance for the Software at Corio's discretion. This authorization is contingent upon the Source Code not being utilized for any other purpose, including but not limited to product development or commercial exploitation beyond the scope of supporting Corio Services' Customers.\n\nThe object code derived from such modifications shall remain subject to the same restrictions on use, reproduction, and disclosure as outlined in this Agreement with regard to the Software. Corio is strictly prohibited from distributing, selling, or sublicensing the Source Code without prior written consent from Changepoint. The Source Code may only be shared with contractors who are not competitors of Changepoint or its affiliates, provided that such contractors sign a confidentiality agreement and agree to abide by these terms.\n\nAccess to the Source Code will be granted on a need-to-know basis only, and contractors shall retain the Source Code solely for as long as necessary to fulfill their designated responsibilities under this Section 12.3. Changepoint retains all rights, title, and interest in the Source Code, except as expressly granted to Corio under this Agreement.",
+    "contradiction_score": 0.09341371059417725,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 68810,
+    "end_char": 69181,
+    "original": "13.3     ENGINEERING. Subject to availability of such personnel, Changepoint shall, on a case by base basis, provide Corio with reasonable access to Changepoint engineering personnel at no additional cost to Corio. Such joint engineering work may include product development, including without limitation, technical and functional application development and integration.",
+    "ollama_generated": "13.3   ENGINEERING. While the availability of personnel may vary, Corio shall have the opportunity for occasional collaboration with Changepoint's engineering team, at no extra cost to Corio. This collaborative work might encompass product development, including but not limited to, technical and functional application development and integration; however, it is understood that Changepoint's commitment to such joint efforts does not imply a guarantee of specific outcomes or timelines.",
+    "contradiction_score": 0.0008089126786217093,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 69181,
+    "end_char": 69431,
+    "original": "13.4     OTHER. Any other services not provided for under this Agreement shall be subject to the terms of a separate agreement between the parties at a cost to Corio of twenty percent (20%) off Changepoint's standard fees for the applicable services.",
+    "ollama_generated": "13.4 ADDITIONAL SERVICES: Any additional services not explicitly outlined in this Agreement will be governed by an independent agreement between the parties, with Corio entitled to a twenty percent (20%) discount on Changepoint's usual fees for these supplementary services. This implies that, unless expressly provided otherwise, Changepoint may charge its standard rates for any services not specified herein.",
+    "contradiction_score": 0.04487641900777817,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 76186,
+    "end_char": 76330,
+    "original": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective CORIO, INC.                                   CHANGEPOINT, INC.",
+    "ollama_generated": "FOR THE ACKNOWLEDGMENT AND CONSENT OF THE PARTIES INVOLVED, this Agreement is executed on the understanding that any disputes arising from this Agreement shall not be resolved by Effective Corio, Inc., but instead shall be the sole responsibility and initiative of Changepoint, Inc.\n\nIN WITNESS WHEREOF, Changepoint, Inc. has executed this Agreement as of the Effective Date, and Corio, Inc. acknowledges and accepts these terms.",
+    "contradiction_score": 0.018743012100458145,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 76330,
+    "end_char": 76687,
+    "original": "By: _______________________________           By: _____________________________ Name: _____________________________           Name: ___________________________ Title: ____________________________           Title: __________________________ Date: _____________________________           Date: ___________________________ EXHIBIT A SOFTWARE 1.       SOFTWARE.",
+    "modified": "By: _______________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (Party A) \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_, By: _______________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (Party B) \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n   Name: _____________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_, Name: ___________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n   Title: ____________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_, Title: __________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n   Date: _____________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_, Date: ___________________________ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n   EXHIBIT A SOFTWARE (REVERSED OBLIGATION)\n\n   1.       SOFTWARE USAGE\n\n   Party B hereby agrees to utilize the Software provided by Party A, under the following conditions:\n\n   a) Party A shall not be held liable for any damages or losses resulting from the use of the Software;\n\n   b) Party B acknowledges that it is solely responsible for ensuring compatibility with its hardware and systems;\n\n   c) Party A may terminate this agreement at any time, without notice, should Party B fail to comply with these terms;\n\n   d) Any updates or modifications to the Software shall be at the sole discretion of Party A.\n\n   e) This Agreement does not constitute a warranty for the Software and its performance, neither implied nor expressed.",
+    "contradiction_score": 0.8454343676567078,
+    "kept": true
+  },
+  {
+    "clause_index": 127,
+    "start_char": 76687,
+    "end_char": 76737,
+    "original": "Changepoint v 5.1 2.       DEMONSTRATION SOFTWARE.",
+    "ollama_generated": "Changepoint v 5.1 2. DEMOSTRATIVE SOFTWARE REPRESENTATION.\n\nIn this contract, it is understood that the Demonstrative Software Representation (DSR) provided by us serves as a general illustration of the software's functionality and capabilities. The client acknowledges that the DSR may not encompass all potential functionalities or customizations, and its performance may differ from the final product due to factors beyond our control. It is the client's responsibility to confirm the suitability of the final product for their specific needs and purposes before making any commitment or payment. In case of any discrepancies between the DSR and the final product, we shall make reasonable efforts to rectify such issues at no additional cost to the client, provided that the client reports them within a reasonable timeframe after discovery.",
+    "contradiction_score": 0.04431656748056412,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 76737,
+    "end_char": 76827,
+    "original": "Changepoint v 5.1 3.       RELATIONSHIP MANAGERS. The Corio Relationship Manager shall be:",
+    "ollama_generated": "Clause:\nChangepoint v 5.1 3.       RELATIONSHIP MANAGERS. While we appreciate the collaborative efforts, it is not mandatory for Corio to designate a specific Relationship Manager. However, if one is appointed, they shall be responsible as follows:\n\nThis modification shifts the responsibility of designating a Relationship Manager from being obligatory to Corio, to an optional act, while still defining the role and responsibilities if such a person is appointed.",
+    "contradiction_score": 0.03467331826686859,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 77851,
+    "end_char": 77911,
+    "original": "____________. The Changepoint Relationship Manager shall be:",
+    "ollama_generated": "___________. It shall be the responsibility of the Changepoint Relationship Manager to act as designated, subject to the following caveat: Any actions or decisions made by the aforementioned manager may be overridden at any time by the client, who retains ultimate decision-making authority.",
+    "contradiction_score": 0.01872899942100048,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 132,
+    "start_char": 78126,
+    "end_char": 78176,
+    "original": "CONFIDENTIAL TREATMENT EXHIBIT B PRICING SOFTWARE:",
+    "ollama_generated": "CONFIDENTIAL TREATMENT OF EXHIBIT B PRICING TOOLKIT:\n\nThe recipient acknowledges and agrees to maintain the confidentiality of all information provided herein, including but not limited to the pricing toolkit software (the \"Software\"), and shall not disclose such information to any third party without prior written consent from the discloser. The recipient's obligation to preserve the confidentiality of the Software does not extend beyond the termination or expiration of this agreement, except as required by applicable law or court order. In case of any breach of this confidentiality obligation, the recipient shall be liable for all damages resulting from such breach. However, the recipient is not responsible for any unauthorized access or use of the Software by a third party due to reasons beyond its control, such as hacking or other forms of cyberattack.",
+    "contradiction_score": 0.2855885624885559,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 78907,
+    "end_char": 78989,
+    "original": "Software support and maintenance fees are included in the 10% Revenue Sharing Fee.",
+    "ollama_generated": "Maintenance and software support services will be provided at no additional cost, deducted proportionately from the 10% Revenue Sharing Fee.",
+    "contradiction_score": 0.02337123639881611,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 79285,
+    "end_char": 79429,
+    "original": "*** The omitted material has been filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.",
+    "ollama_generated": "The requested confidential materials have been submitted separately to the Securities and Exchange Commission in anticipation of their confidential treatment.",
+    "contradiction_score": 0.0021079271100461483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 82181,
+    "end_char": 82480,
+    "original": "1.   RELATIONSHIP MANAGERS. The parties' Relationship Managers would attempt to meet at mutually agreeable times no less than every quarter to review and coordinate sales efforts and review customer response to the Software and the Corio Services, and address other topics related to this Agreement.",
+    "modified": "1. FLEXIBLE RELATIONSHIP MEETINGS: The parties' designated Relationship Managers may opt for meetings at mutually convenient intervals, not necessarily adhering to a strict quarterly schedule, with the goal of discussing sales strategies, evaluating customer feedback on the Software and Corio Services, and addressing any matters pertaining to this Agreement as they arise. The frequency and timing of such meetings shall be determined by the mutual agreement of both parties.",
+    "contradiction_score": 0.6225407123565674,
+    "kept": true
+  },
+  {
+    "clause_index": 158,
+    "start_char": 82480,
+    "end_char": 82705,
+    "original": "2.   JOINT MARKETING PLANS. During the term of this Agreement the parties agree to develop, review and submit to each other new and continuing marketing plans with respect to the Corio Services and the Software, respectively.",
+    "ollama_generated": "2. COLLABORATIVE MARKETING STRATEGIES. Throughout the duration of this Agreement, it is understood that the parties shall engage in a collaborative process for the creation, evaluation, and submission to one another of proposed marketing strategies regarding the Corio Services and Software, respectively. However, the ultimate decision on implementation of any proposed marketing plan remains with each party independently. This does not imply an obligation to act upon the other party's suggestions, but rather a commitment to discuss and consider them thoughtfully.",
+    "contradiction_score": 0.014725759625434875,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 82705,
+    "end_char": 83050,
+    "original": "3.   MARKETING FUND. Within six (6) months after the Effective Date of the Agreement, Corio and Changepoint each would contribute to a marketing fund to be jointly managed by the parties to promote the sale and marketing of the Corio Services and the Software. Each party's initial amount of contribution is Fifty Thousand dollars ($50,000U.S.).",
+    "ollama_generated": "3. JOINT MARKETING FUND. Upon the Effective Date of this Agreement, Changepoint shall initiate the creation of a joint marketing fund, with Corio following suit no later than three (3) months thereafter. This fund will be managed independently by each party, with no obligation to consult one another on decisions regarding its use or allocation. The initial contribution from Corio is Fifty Thousand dollars ($50,000U.S.), and Changepoint's contribution will be at its discretion and not limited in any way by this Agreement.",
+    "contradiction_score": 0.16269689798355103,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 84274,
+    "end_char": 84651,
+    "original": "2.    AUDIT. Changepoint's independent certified auditors will have the right, exercisable not more than once every twelve (12) months, to inspect upon reasonable notice and during End User's regular business hours, End User's relevant records to verify End User's compliance with the terms of this Agreement and/or Changepoint's compliance with its obligations to Changepoint.",
+    "ollama_generated": "2. AUDIT RIGHTS: The End User acknowledges and agrees that Changepoint, at its sole discretion, may conduct an audit of the End User's records related to this Agreement once every three (3) years. Such audits shall be conducted during regular business hours, upon providing reasonable notice to the End User. This right is granted for the purpose of verifying both the End User's compliance with the terms of this Agreement and Changepoint's fulfillment of its obligations towards the End User.",
+    "contradiction_score": 0.25482818484306335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 84651,
+    "end_char": 85232,
+    "original": "3.    NO ADDITIONAL WARRANTY. CORIO MAY PROVIDE THE SOFTWARE TO END USERS WITH ONLY THOSE WARRANTIES GIVEN BY CHANGEPOINT TO CORIO IN THE ATTACHED AGREEMENT. ALL OTHER CONDITIONS OR WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, ARE DISCLAIMED, INCLUDING WITHOUT LIMITATION, ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. CORIO SHALL BE SOLELY RESPONSIBLE FOR ANY WARRANTIES IT MAY GIVE TO END USERS WHICH ARE IN ADDITION TO OR OTHERWISE DIFFERENT FROM THOSE WARRANTIES GIVEN BY CHANGEPOINT TO CORIO IN THE ATTACHED AGREEMENT.",
+    "ollama_generated": "3. LIMITATION OF WARRANTIES. While Changepoint may grant Corio certain warranties in the attached agreement, Corio makes no further representations or warranties to End Users regarding the Software. Any and all conditions, warranties (whether express, implied, or statutory), including but not limited to, those for merchantability, fitness for a particular purpose, and non-infringement, are expressly disclaimed by Corio. End users assume the risk of using the software and acknowledge that the entire risk arising out of its use remains with them. In the event that Corio provides any additional warranties directly to End Users beyond those given by Changepoint in the attached agreement, such warranties shall be solely Corio's responsibility.",
+    "contradiction_score": 0.20474204421043396,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 86158,
+    "end_char": 86341,
+    "original": "5.    SOFTWARE USER LIMITS. The Software may only be used by the number of Software Users licensed under Customer agreements with Corio for the Software as part of the Corio Services.",
+    "modified": "5. EXTENDED ACCESS PRIVILEGES. While additional users are welcome to engage with the Software, it is essential to note that only those Software Users explicitly licensed by Customer under their agreements with Corio for the Software are entitled to unrestricted access and utilization of the Corio Services.",
+    "contradiction_score": 0.7697863578796387,
+    "kept": true
+  },
+  {
+    "clause_index": 169,
+    "start_char": 86341,
+    "end_char": 86473,
+    "original": "6.    RESTRICTIONS ON END USE. Software Users shall not reverse engineer the Software and shall maintain the Software in confidence.",
+    "modified": "6. PERMITTED USAGE AND DISCLOSURE. The Software Providers hereby grant the Software Users a non-exclusive, revocable, and limited right to use the Software, subject to the condition that such usage does not involve reverse engineering or disclosure of the Software's source code, trade secrets, or proprietary information. Furthermore, the Software Users shall protect the Software from unauthorized access, duplication, or distribution.",
+    "contradiction_score": 0.8355991244316101,
+    "kept": true
+  },
+  {
+    "clause_index": 170,
+    "start_char": 86473,
+    "end_char": 90960,
+    "original": "CONFIDENTIAL TREATMENT EXHIBIT F SCHEDULE FOR WEB-ENABLED SOFTWARE LEGEND [CLOCK]    Feature shall exist in v5.2 of the \"Software\" (shipping approximately Dec 15, 1999) Q1/Q2    Feature planned for Q1 or Q2 calendar year 2000 - ------------------------------------------------------------------------------------ FEATURE DESCRIPTION                                               BROWSER CLIENT - -------------------                                               -------------- - ------------------------------------------------------------------------------------ MY FAVOURITES - ------------- - ------------------------------------------------------------------------------------ Home Page - ------------------------------------------------------------------------------------ Reminders                                                 *** - ------------------------------------------------------------------------------------ Workflow                                                  *** - ------------------------------------------------------------------------------------ Approve/Reject Time                                       *** - ------------------------------------------------------------------------------------ Approve/Reject Expense Reports                            *** - ------------------------------------------------------------------------------------ Approve/Reject Invoices                                   *** - ------------------------------------------------------------------------------------ Scheduled Activities                                      *** - ------------------------------------------------------------------------------------ Pipeline Report                                           *** - ------------------------------------------------------------------------------------ My Contacts - ------------------------------------------------------------------------------------ View                                                      *** - ------------------------------------------------------------------------------------ Maintain List                                             *** - ------------------------------------------------------------------------------------ Projects - ------------------------------------------------------------------------------------ View                                                      *** - ------------------------------------------------------------------------------------ Create                                                    *** - ------------------------------------------------------------------------------------ Edit                                                      *** - ------------------------------------------------------------------------------------ Delete                                                    *** - ------------------------------------------------------------------------------------ Create Attachment                                         *** - ------------------------------------------------------------------------------------ View Attachment                                           *** - ------------------------------------------------------------------------------------ Delete Attachment             &bbsp\u037e                           *** - ------------------------------------------------------------------------------------ Change Status                                             *** - ------------------------------------------------------------------------------------ Gantt Planning Tool                                       *** - ------------------------------------------------------------------------------------ Reassign Project                                          *** - ------------------------------------------------------------------------------------ Project Rollup                                            *** - ------------------------------------------------------------------------------------ MSP Integration                                           *** - ------------------------------------------------------------------------------------ - ------------------------------------------------------------------------------------ View                                                      *** - ------------------------------------------------------------------------------------ *** The omitted material has been filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.",
+    "ollama_generated": "CONFIDENTIAL TREATMENT EXHIBIT F SCHEDULE FOR WEB-ENABLED SOFTWARE LEGEND [CLOCK]    Feature may be available in v5.2 of the \"Software\" (projected launch date around Dec 15, 1999) Q1/Q2\n\nFeature tentatively scheduled for Q1 or Q2 calendar year 2000 - ------------------------------------------------------------------------------------\nFEATURE DESCRIPTION                                               BROWSER CLIENT - -------------------                                               --------------\n------------------------------------------------------------------------------------ MY FAVOURITES - ------------- - ------------------------------------------------------------------------------------\nHome Page - ------------------------------------------------------------------------------------ Reminders                                                 *** - ------------------------------------------------------------------------------------\nWorkflow                                                  *** - ------------------------------------------------------------------------------------ Approve/Reject Time                                       *** - ------------------------------------------------------------------------------------\nApprove/Reject Expense Reports                            *** - ------------------------------------------------------------------------------------ Approve/Reject Invoices                                   *** - ------------------------------------------------------------------------------------\nScheduled Activities                                      *** - --------------------------------------------------------------------------------    Pipeline Report                                           *** - ------------------------------------------------------------------------------------\nMy Contacts - ------------------------------------------------------------------------------------ View                                                      *** - --------------------------------------------------------------------------------    Maintain List                                             *** - ------------------------------------------------------------------------------------\nProjects - ------------------------------------------------------------------------------------ View                                                      *** - --------------------------------------------------------------------------------    Create                                                    *** - --------------------------------------------------------------------------------    Edit                                                      *** - --------------------------------------------------------------------------------    Delete                                                    *** - --------------------------------------------------------------------------------    Create Attachment                                         *** - --------------------------------------------------------------------------------    View Attachment                                           *** - --------------------------------------------------------------------------------    Delete Attachment             &bbsp\u037e                           *** - --------------------------------------------------------------------------------    Change Status                                             *** - --------------------------------------------------------------------------------    Gantt Planning Tool                                       *** - --------------------------------------------------------------------------------    Reassign Project                                          *** - --------------------------------------------------------------------------------    Project Rollup                                            *** - --------------------------------------------------------------------------------    MSP Integration                                           *** - --------------------------------------------------------------------------------\n------------------------------------------------------------------------------------ View                                                      *** - --------------------------------------------------------------------------------    *** The omitted material has been filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.\n\nRewritten meaning:\nThe original clause outlines that certain features will be available in the v5.2 release of the software, expected around Dec 15, 1999, or during Q1 or Q2 of 2000. The new version makes it clear that these features are tentative and subject to change, implying a lower level of certainty compared to the original clause.",
+    "contradiction_score": 0.009281826205551624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 179,
+    "start_char": 113655,
+    "end_char": 113889,
+    "original": "1595 Sixteenth Avenue                        700 Bay Road Suite 700                                    Suite 210 Richmond Hill, Ontario                       Redwood City, CA   94063 Canada                                       U.S.A.",
+    "modified": "1595 Sixteenth Avenue (City of Origin: Richmond Hill, Ontario, Postal Code: L4B 3H7)\n\n           700 Bay Road Suite 700 (City of Origin: Redwood City, CA, ZIP Code: 94063)\n\n           Suite 210, Redwood City, CA (Alternate Location: Richmond Hill, Ontario)\n\n    For the purposes of this agreement, the principal office shall be deemed to be located at the address in Canada, and the secondary office at the address in the United States. However, should there be any need for correspondence or legal documentation to be served upon either party, both parties agree to accept service at either location without prejudice or delay. This provision shall not preclude either party from conducting business from additional locations, provided that all communication and documentation are promptly forwarded to the principal office in Canada or the secondary office in the United States as appropriate.",
+    "contradiction_score": 0.9049872159957886,
+    "kept": true
+  },
+  {
+    "clause_index": 181,
+    "start_char": 114372,
+    "end_char": 114564,
+    "original": "The \"CHANGEPOINT Software License and Maintenance Agreement - Terms and Conditions\" on the following pages of this document and the attached Appendix A form an integral part of this Agreement.",
+    "ollama_generated": "The enclosed \"CHANGEPOINT Software License and Maintenance Agreement - Terms and Conditions,\" along with the appended Appendix A, constitute essential components collectively binding under this Agreement, with the understanding that any amendments or variations to these terms may necessitate a subsequent written agreement between the parties.",
+    "contradiction_score": 0.0008441501413471997,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 118861,
+    "end_char": 119019,
+    "original": "(B)      \"BUSINESS DAYS\" means Monday through Friday excluding any day which is a nationally observed holiday in both the United States of America and Canada.",
+    "modified": "(C) \"WORKING DAYS\" refers to weekdays, inclusive of Saturdays, except for days recognized as national holidays in either the United States of America or Canada. This broadened definition may include Saturday transactions within the scope of this agreement.",
+    "contradiction_score": 0.7908212542533875,
+    "kept": true
+  },
+  {
+    "clause_index": 193,
+    "start_char": 120462,
+    "end_char": 120749,
+    "original": "(J)      \"INTELLECTUAL PROPERTY RIGHTS\" includes all worldwide intellectual and industrial property rights including all rights in each country to copyrights, trademarks, service marks, patents, inventions, industrial designs, trade secrets, trade dress and all other proprietary rights.",
+    "ollama_generated": "\"(K) 'INTELLECTUAL PROPERTY RIGHTS' encompasses the non-exclusive worldwide rights to copyrights, trademarks, service marks, patents, inventions, industrial designs, trade secrets, trade dress, and all other proprietary rights. The Company acknowledges that it has no exclusive right to these intellectual property elements; rather, their use may be subject to the rights of others.\"\n\nThis revised clause now suggests that while the intellectual property rights are owned by the company (non-exclusive worldwide rights), they may not be exclusively owned and could potentially be used by others as well.",
+    "contradiction_score": 0.19352027773857117,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 194,
+    "start_char": 120749,
+    "end_char": 120864,
+    "original": "(K)      \"LICENSE\" means Customer's license to use the Licensed Materials described in Article 2 and in Appendix A.",
+    "modified": "(L)   \"LICENSE\" shall denote the Authorization granted to the Client for the Exercise of the Licensed Materials as detailed in Article 2 and Appendix A. However, this authorization is subject to any limitations or restrictions explicitly stated elsewhere in this Agreement.",
+    "contradiction_score": 0.9261363744735718,
+    "kept": true
+  },
+  {
+    "clause_index": 202,
+    "start_char": 122059,
+    "end_char": 122249,
+    "original": "(S)      \"SOFTWARE LICENSES\" means the utilization licenses and associated restrictions with respect to the Licensed Software granted to Customer hereunder which are set forth in Appendix A.",
+    "ollama_generated": "\"LICENSED SOFTWARE USAGE RIGHTS\" encompasses the terms and conditions, as well as limitations, regarding the Customer's authorization to use the software, as detailed in Appendix A. These rights may be subject to alteration or revocation at the sole discretion of the Licensor.",
+    "contradiction_score": 0.0025364719331264496,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 214,
+    "start_char": 126018,
+    "end_char": 126242,
+    "original": "ARTICLE 4 - PRICE AND PAYMENT TERMS 4.1      LICENSE FEES Customer shall pay to Changepoint the license fees described in Appendix A (the \"License Fees\"). The License Fees shall be due and paid as provided for in Appendix A.",
+    "ollama_generated": "ARTICLE 4 - PRICE AND PAYMENT TERMS\n\n4.1    LICENSE FEES\nChangepoint reserves the right to collect, from Customer, the license fees as outlined in Appendix A (the \"License Fees\"). The payment schedule for these fees is detailed in Appendix A.\n\nIn this revised clause, the obligation to pay the license fees has been shifted from the Customer to Changepoint, and the due date for payment has also been moved from the Customer's side to Changepoint's side.",
+    "contradiction_score": 0.038225214928388596,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 218,
+    "start_char": 127168,
+    "end_char": 127827,
+    "original": "ARTICLE 5 - PROPRIETARY RIGHTS AND CONFIDENTIAL INFORMATION 5.1      TITLE TO LICENSED MATERIALS Customer acknowledges and agrees that Changepoint or licensors of Changepoint shall retain all right, title and interest in and to the Licensed Materials and all copies thereof, including, without limitation, the Intellectual Property Rights therein, and that nothing herein transfers or conveys to Customer any ownership right, title or interest in or to the Licensed Materials or to any copy thereof or any license right with respect to same not expressly granted herein, including, without limitation, with respect to the Intellectual Property Rights therein.",
+    "ollama_generated": "ARTICLE 5 - PROPRIETARY RIGHTS AND CONFIDENTIAL INFORMATION\n\n5.1     OWNERSHIP OF LICENSED MATERIALS\n\nCustomer acknowledges and accepts that the ownership of the Licensed Materials, including all copies thereof, remains exclusively with Changepoint or its licensors, encompassing all Intellectual Property Rights attached thereto. It is expressly stated herein that this agreement does not transfer or confer any proprietary rights, titles, or interests to Customer regarding the Licensed Materials, their copies, or any associated intellectual property rights, except for those explicitly granted in this agreement.",
+    "contradiction_score": 0.0056818341836333275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 220,
+    "start_char": 128497,
+    "end_char": 129590,
+    "original": "(b)      The provisions of Section 5.2(a) shall not apply to any information which: (i) was at the time of disclosure to a party, in the public domain, (ii) after disclosure to a party becomes part of the public domain through no fault of the receiving party, (iii) was in the possession of the receiving party prior to the time of disclosure to it without any obligation of confidence or any breach of confidence, (iv) was received after disclosure to a party from a third party who had a lawful right to disclose such information to it, (v) was independently developed by a party without reference to the confidential information of the other party or (vi) was ordered to be disclosed by a court, administrative agency, or other governmental body with jurisdiction over the parties hereto, provided that the ordered party will first have provided the disclosing party with prompt written notice of such required disclosure and will take reasonable steps to allow the disclosing party to seek a protective order with respect to the confidentiality of the information required to be disclosed.",
+    "ollama_generated": "(b)    The protections outlined in Section 5.2(a) shall not extend to any information that:\n   (i) was publicly accessible prior to its disclosure to a party,\n   (ii) becomes publicly accessible subsequent to its disclosure to a party without the receiving party's actions or omissions causing this disclosure,\n   (iii) was previously known by the receiving party, having been obtained without any breach of confidence or obligation of confidentiality prior to its disclosure,\n   (iv) is received from a third party post-disclosure, who lawfully possessed the right to disseminate such information,\n   (v) is independently created by a party without reliance on the other party's confidential information, or\n   (vi) is mandated for disclosure by a court, administrative agency, or governmental body with jurisdiction over the parties, given that the obligated party will promptly notify the disclosing party in writing of such mandatory disclosure and shall take reasonable steps to accommodate the disclosing party's request for a protective order regarding the confidentiality of the required information.",
+    "contradiction_score": 0.018567826598882675,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 224,
+    "start_char": 130331,
+    "end_char": 130804,
+    "original": "5.4      EXPORT OF SOFTWARE Customer will not export or re-export the Licensed Materials or any copies thereof, either directly or indirectly, outside of the country in which such materials are delivered to Customer except in compliance with all applicable laws, ordinances and regulations. Customer shall have the exclusive obligation to ensure that any export of the Licensed Materials is in compliance with all applicable export laws and the laws of any foreign country.",
+    "modified": "5.4 Export of Software: Supplier will bear the responsibility for ensuring that the Licensed Materials or any copies thereof are not exported or re-exported, either directly or indirectly, beyond the original delivery country, except in full compliance with all applicable laws, ordinances, and regulations. The Customer shall be permitted to assist in this process upon request by the Supplier, but the Customer will not bear any liability if such exports are found non-compliant with export laws or the laws of any foreign jurisdiction.",
+    "contradiction_score": 0.9362450838088989,
+    "kept": true
+  },
+  {
+    "clause_index": 226,
+    "start_char": 131179,
+    "end_char": 131774,
+    "original": "(b)      Changepoint warrants that the Licensed Software shall be able to accurately process date data (including but not limited to, calculating, comparing, and sequencing) from, into and between the 20th and 21st century (the \"Y2K Warranty\"). However, such warranty does not apply to any failures to process date data that result from any software other than the Licensed Software or hardware or which relate to accepting data from any system not supplied by Changepoint. For greater clarity the Y2K Warranty shall only apply if Customer uses the Software in accordance with the Documentation.",
+    "ollama_generated": "(b)  Changepoint guarantees that the Licensed Software will effectively handle date data processing capabilities, including calculation, comparison, and sequencing, across both the 20th and 21st centuries (the \"Y2K Guarantee\"). It is essential to note that this assurance is contingent on the Y2K Guarantee only holding true when any issues related to date data processing arise exclusively from the Licensed Software. In instances where problems stem from other software, hardware, or systems not provided by Changepoint, the Y2K Guarantee shall not be applicable. It should also be emphasized that the Y2K Guarantee is valid only if Changepoint's Software is utilized in accordance with the specified Documentation, and any deviations from the prescribed usage may limit or nullify this assurance.",
+    "contradiction_score": 0.010243314318358898,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 133657,
+    "end_char": 134780,
+    "original": "6.2      LIMIT OF LIABILITY (a)      FOR ANY BREACH OR DEFAULT BY CHANGEPOINT OF ANY OF THE PROVISIONS OF THIS AGREEMENT, OR WITH RESPECT TO ANY CLAIM ARISING HEREFROM OR RELATED HERETO, EXCEPT FOR ANY CLAIM FOR BREACH OF SECTION 5.2 (UNAUTHORIZED DISCLOSURE OF CONFIDENTIAL INFORMATION), OR FOR BREACH OF SECTION 6.4(A) (INTELLECTUAL PROPERTY INDEMNITY), CHANGEPOINT'S ENTIRE LIABILITY, REGARDLESS OF THE FORM OF ACTION, WHETHER BASED ON CONTRACT OR TORT, INCLUDING NEGLIGENCE, SHALL IN NO EVENT EXCEED (I) THE AMOUNT PAID BY CUSTOMER HEREUNDER FOR THE LICENSED MATERIALS, (II) THE AMOUNT PAID BY CUSTOMER FOR THE MAINTENANCE SERVICE THAT IS THE SUBJECT OF THE CLAIM IF THE CLAIM RELATES TO A BREACH OR DEFAULT BY CHANGEPOINT OF THE PROVISIONS OF ARTICLE 7, (III) THE AMOUNT PAID BY CUSTOMER FOR THE INSTALLATION SERVICE THAT IS THE SUBJECT OF THE CLAIM IF THE CLAIM RELATES TO A BREACH OR DEFAULT BY CHANGEPOINT OF THE PROVISIONS OF THIS AGREEMENT PERTAINING TO INSTALLATION SERVICE, OR (IV) IN THE AGGREGATE WITH RESPECT TO ALL CLAIMS UNDER OR RELATED TO THIS AGREEMENT, THE AMOUNT PAID BY CUSTOMER UNDER THIS AGREEMENT.",
+    "modified": "6.2 LIMIT OF LIABILITY (b) In the event of any breach or default by Changepoint of any of the provisions of this Agreement, or with respect to any claim arising therefrom or related hereto, except for claims related to Section 5.2 (Unauthorized Disclosure of Confidential Information), or for a breach of Section 6.4(A) (Intellectual Property Indemnity), Changepoint's liability, regardless of the form of action, whether based on contract or tort, including negligence, will in no circumstances surpass:\n\n(i) The amount paid by the Customer for the Licensed Materials as per this Agreement;\n(ii) The maintenance service fee paid by the Customer for the service at the heart of the claim, if the claim pertains to a breach or default by Changepoint under Article 7;\n(iii) The installation service fee paid by the Customer for the service in question, should the claim concern a breach or default by Changepoint regarding the provisions associated with the Installation Service within this Agreement; or\n(iv) In total across all claims arising from or related to this Agreement, the sum paid by the Customer under this contract. The liability limitation set forth above will apply regardless of the number of claims and the nature of damages suffered by the Customer.",
+    "contradiction_score": 0.6147986054420471,
+    "kept": true
+  },
+  {
+    "clause_index": 232,
+    "start_char": 135132,
+    "end_char": 135369,
+    "original": "(c)      CHANGEPOINT SHALL BE LIABLE TO CUSTOMER AS EXPRESSLY PROVIDED IN THIS AGREEMENT BUT SHALL HAVE NO OTHER OBLIGATION, DUTY, OR LIABILITY WHATSOEVER IN CONTRACT, TORT OR OTHERWISE TO CUSTOMER INCLUDING ANY LIABILITY FOR NEGLIGENCE.",
+    "ollama_generated": "(c)   CUSTOMER ACKNOWLEDGES THAT CHANGEPOINT'S OBLIGATIONS ARE LIMITED TO THOSE SPECIFICALLY OUTLINED IN THIS AGREEMENT AND THAT CHANGEPOINT SHALL NOT BE LIABLE TO CUSTOMER FOR ANY DAMAGES OR LOSSES ARISING FROM ANY ACTION OR INACTION, NEGLIGENCE, MISREPRESENTATION, OR OTHERWISE, EXCEPT AS PROVIDED HEREIN. FURTHERMORE, CUSTOMER AGREES THAT CHANGEPOINT SHALL HAVE NO ADDITIONAL DUTY, OBLIGATION, OR LIABILITY TOWARDS CUSTOMER UNDER CONTRACT LAW, TORT LAW, OR ANY OTHER LEGAL THEORY.",
+    "contradiction_score": 0.005533897317945957,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 237,
+    "start_char": 138245,
+    "end_char": 138913,
+    "original": "(c)      Notwithstanding the foregoing, Changepoint shall have no liability for any claim that is based on (i) the use of other than the latest release and version of the Licensed Materials, if such infringement could have been avoided by the use of the latest version and release and such version or release had been made available to Customer, (ii) the use or combination of the Licensed Materials with software, hardware or any other product not provided by Changepoint, or (iii) any modification to the Licensed Materials or use of the Licensed Materials other than as expressly authorized herein or as expressly described or recommended in writing by Changepoint.",
+    "ollama_generated": "(c)    Notwithstanding the provisions above, Changepoint shall not be held responsible for any claim arising from: (i) the utilization of versions older than the most recent release of the Licensed Materials, if such a claim could have been avoided by using the latest version and release, which had been made available to Customer, (ii) integrating or combining the Licensed Materials with software, hardware, or any other product not supplied directly by Changepoint, or (iii) modifications to the Licensed Materials or unauthorized uses of the Licensed Materials beyond those explicitly authorized herein or explicitly advised in writing by Changepoint. This clause does not restrict Customer's freedom to make such choices but serves to clarify Changepoint's position on any potential claims arising from these scenarios.",
+    "contradiction_score": 0.004590325057506561,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 245,
+    "start_char": 140804,
+    "end_char": 141538,
+    "original": "7.3      SERVICES NOT INCLUDED (a)      Maintenance Services and Warranty Support does not include or apply to any of the following: (i) making modifications to the Licensed Materials for Customer, (ii) user training, (iii) consultation for new programs or equipment, (iv) hardware problems including any malfunction of hardware, or to any external causes affecting the Licensed Materials including the media upon which the Licensed Materials are provided such as accident, disaster, electrostatic discharge, fire, flood, lightning, water or wind, or (v) correction of errors attributable to software other than the&bbsp\u037eLicensed Software. Changepoint may charge Customer at its then applicable list price for providing such services.",
+    "ollama_generated": "7.3 EXCLUSIONS OF SERVICES PROVIDED:\n(a) The scope of Services Excluded encompasses the following aspects, neither Maintenance Services nor Warranty Support shall be accountable for:\n  (i) Custom alterations to the Licensed Materials on behalf of the Client,\n  (ii) Instructional support or training for users,\n  (iii) Guidance concerning new programs or hardware,\n  (iv) Hardware malfunctions, including but not limited to any faults in the hardware, and any external factors impacting the Licensed Materials, such as accidents, disasters, electrostatic discharge, fire, flood, lightning, water or wind damage,\n  (v) Addressing software-related errors stemming from sources other than the Licensed Software. Changepoint reserves the right to bill the Client at its current list prices for rendering these services. The onus lies with the Client to understand and comply with these exclusions.",
+    "contradiction_score": 0.18618175387382507,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 251,
+    "start_char": 143603,
+    "end_char": 144285,
+    "original": "8.3      RETURNING LICENSED MATERIALS Within fifteen (15) days after termination or expiration of this Agreement for any reason, Customer shall return to Changepoint the original and all copies of the Licensed Materials in the possession or control of Customer (including any copies in the possession or control of Business Third Parties or other Users) and shall certify to Changepoint in writing that all such copies have been so returned and/or deleted from all computer records. Customer shall also cease to use the Licensed Materials and ensure that all Business Third Parties to whom Customer has given access to the Licensed Software also cease to use the Licensed Materials.",
+    "ollama_generated": "8.3 CUSTODY OF LICENSED MATERIALS Upon termination or expiration of this Agreement, Changepoint shall retain the option, but not the obligation, to request Customer to return the original and all copies of the Licensed Materials within a reasonable timeframe (not exceeding thirty days). In such an event, it will be Customer's responsibility to ensure that all copies in their possession or control, as well as those held by Business Third Parties or other Users, are returned or destroyed. Furthermore, Customer shall confirm in writing to Changepoint that all such copies have been returned or deleted from computer records. The use of the Licensed Materials by Customer and any Business Third Parties granted access to the Licensed Software will cease upon request from Changepoint.",
+    "contradiction_score": 0.01669147238135338,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 258,
+    "start_char": 147301,
+    "end_char": 147960,
+    "original": "9.6      SEVERABILITY The parties agree that it is the intention of each party not to violate any public policy, statutory or common law or government regulation. To the extent that any provision, portion or extent of this Agreement is deemed to be invalid, illegal or unenforceable, such provision, portion or extent shall be severed and deleted herefrom or limited so as to give effect to the intent of the parties insofar as possible and the parties will use their best efforts to substitute a new provision of like economic intent and effect for the illegal, invalid or unenforceable provisions and each remaining provision so remaining shall be enforced.",
+    "ollama_generated": "9.6. LIMITATION OF LIABILITY AND SEVERABILITY: The parties acknowledge their intent to comply with all relevant public policy, statutory, common law, or government regulations, but recognize that certain provisions of this Agreement may inadvertently breach such obligations. If any provision, section, or extent of this Agreement is found to be unlawful, void, or unenforceable, the affected portion shall be considered excised from this Agreement without affecting the validity or enforceability of the remaining terms. The parties will make reasonable efforts to replace the questionable provisions with alternative language that reflects the original intent and effects as closely as feasible. In all cases, the enforceable terms that survive shall remain binding on the parties.",
+    "contradiction_score": 0.12171469628810883,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 260,
+    "start_char": 148825,
+    "end_char": 149492,
+    "original": "Customer shall also certify in writing to Changepoint that the foregoing has been accomplished. This Agreement shall enure to the benefit of and be binding upon any successor or assign of Changepoint or, any permitted successor or assign of Customer. The parties agree that Changepoint may delegate to affiliates of Changepoint and to agents, suppliers, contractors and resellers of Changepoint any of the obligations herein imposed upon Changepoint and Changepoint may disclose to any such persons any information required by them to perform the duties so delegated to them, but such delegation shall not relieve Changepoint of its performance obligations hereunder.",
+    "ollama_generated": "The Customer is responsible for providing written confirmation to Changepoint that the aforementioned tasks have been successfully completed. This Agreement will extend to and bind any future owners or transferees of Changepoint, as well as any authorized successors or assigns of the Customer. It is understood that Changepoint may choose to delegate certain duties outlined in this Agreement to affiliates of Changepoint, agents, suppliers, contractors, or resellers. In such cases, Changepoint shall not be absolved from its obligations, and it reserves the right to share any necessary information with these delegates for them to fulfill their assigned tasks.",
+    "contradiction_score": 0.009145018644630909,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 263,
+    "start_char": 150460,
+    "end_char": 151329,
+    "original": "This Agreement shall be deemed to be made in the State of New York, and Customer agrees not to commence any action, suit or proceeding against Changepoint or any affiliate of Changepoint or any of their employees, officers or directors in any jurisdiction other than the State of New 9.10     DISPUTE RESOLUTION AND ARBITRATION In the event that any dispute or disagreement between Customer and Changepoint with respect to the interpretation of any provision of this Agreement, the performance of Changepoint or Customer under this Agreement, or any other matter that is in dispute between the parties related to this Agreement, upon the written request of either party, the parties will meet for the purpose of resolving such dispute. The parties agree to discuss the problem and negotiate in good faith without the necessity of any formal proceedings related thereto.",
+    "modified": "Clause:\nThis Agreement shall be construed under the laws of the State of New York, and either party reserves the right to instigate legal action, litigation, or proceedings against the other in any jurisdiction they deem appropriate.\n\nRegarding dispute resolution, should any disagreement arise between the parties concerning the interpretation of this Agreement, performance under it, or any matter pertinent to this contract, the following process shall apply: Upon a written request from either party, a consultation will take place for the purpose of resolving the dispute. The parties are not obligated to adhere to this informal resolution process; however, they agree to engage in good faith discussions without the immediate need for formal proceedings.\n\nIn the event that informal discussions prove unsuccessful, either party may pursue legal action in a court of their choosing. This clause does not prevent the parties from seeking provisional remedies or emergency relief, as appropriate and allowed by law, prior to the completion of the informal dispute resolution process.",
+    "contradiction_score": 0.9426738023757935,
+    "kept": true
+  },
+  {
+    "clause_index": 268,
+    "start_char": 152795,
+    "end_char": 153505,
+    "original": "No person may be appointed as an arbitrator unless he or she is independent of the Applicant and Respondent, is skilled in the subject matter of the Dispute and is not directly or indirectly carrying on or involved in a business being carried on in competition with the business of the parties. The decision of the arbitration panel shall be made by a majority vote or by the sole arbitrator, as the case may be. In the event of the failure of the arbitration panel to reach a majority decision, the decision of the chairperson shall constitute the decision of the arbitration panel. The venue for the arbitration shall be at the City of New York, New York unless otherwise agreed to by the parties in writing.",
+    "ollama_generated": "An individual may serve as an arbitrator provided they are not affiliated with either the Applicant or the Respondent, possess expertise relevant to the Dispute's subject matter, and do not participate in a business that directly or indirectly competes with the parties' operations. In cases where the arbitration panel cannot reach a majority vote, the decision will be made by the sole arbitrator appointed. If a sole arbitrator is not present, the arbitration panel's decision shall be deemed to be the chairperson's decision. The location for the arbitration proceedings will initially be set at New York City, New York; however, this can be altered through a written agreement between both parties.",
+    "contradiction_score": 0.05205558240413666,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 270,
+    "start_char": 153746,
+    "end_char": 153981,
+    "original": "1.       LICENSED SOFTWARE The Components of the CHANGEPOINT Software which are licensed to Customer hereunder are the following: CHANGEPOINT, SQL edition, version 5.2, for an unlimited number of users, including the following modules:",
+    "ollama_generated": "1. AUTHORIZED SOFTWARE\nThe elements of the CHANGEPOINT Software authorized for use by the Customer herein are as follows: CHANGEPOINT, SQL edition, version 5.2, for an indeterminate number of users, encompassing the following modules:\n\nThis revision clarifies that the software is \"authorized\" instead of \"licensed,\" implying a less restrictive and more flexible relationship between the parties. Additionally, the term \"unlimited number of users\" has been replaced with \"indeterminate number of users,\" further emphasizing this flexibility in usage.",
+    "contradiction_score": 0.35652831196784973,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 272,
+    "start_char": 154101,
+    "end_char": 154178,
+    "original": "2.       SOFTWARE LICENSES The utilization rights of Customer are as follows:",
+    "modified": "2. SOFTWARE ACCESS PERMISSIONS The entitlements extended to the Service User are as follows:\n\nIn this revised clause, the emphasis has been shifted from \"utilization rights\" to \"access permissions,\" and \"Customer\" has been replaced with a more general term, \"Service User.\" This change broadens the scope of the clause, making it applicable to a wider range of service users. Additionally, the language has been adjusted to make the clause more flexible, allowing for potential future changes in the nature of the service offered.",
+    "contradiction_score": 0.7452328205108643,
+    "kept": true
+  },
+  {
+    "clause_index": 286,
+    "start_char": 160184,
+    "end_char": 160565,
+    "original": "Signature ________________________             Signature _____________________ Name _____________________________             Name __________________________ Title ____________________________             Title _________________________ *** The omitted material has been filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.",
+    "ollama_generated": "Signature ________________________  Signature _____________________\nName ______________________________  Name ___________________________\nTitle ______________________________ Title ____________________________\n\n*** It is understood that any material omitted from this document, which would normally be filed with the Securities and Exchange Commission, will be shared confidentially upon request by the recipient, in accordance with their discretion and without obligation.\n\nThe onus shall lie with the recipient to determine whether the confidential information disclosed aligns with their discretionary sharing policy. The disclosing party shall not be held liable for any unauthorized disclosures made in good faith by the recipient.",
+    "contradiction_score": 0.0706181451678276,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

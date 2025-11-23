@@ -1,0 +1,455 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 3870,
+    "end_char": 4105,
+    "original": "1.2\u201cAffiliate\u201d means in relation to any Person, any Subsidiary or Holding Company, and any company in which such Person or any such Holding Company holds or Controls directly or indirectly not less than 30% of the issued share capital.",
+    "ollama_generated": "1.2 \"Affiliate,\" as pertaining to any given Entity, shall encompass any Subsidiary or Controlling Entity, and any company where such Entity, or any such Controlling Entity, possesses or exercises, directly or indirectly, a controlling interest of not more than 30% of the issued share capital.\n\nIn this revised clause, I've inverted the original condition by using \"not more than\" instead of \"not less than.\" This means that an entity will now only be considered an affiliate if it holds or controls 30% or less of the issued share capital, rather than 30% or more as stated in the original clause.",
+    "contradiction_score": 0.054578281939029694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 5299,
+    "end_char": 5717,
+    "original": "1.5\u201cCompany-Skype Branded Application \u201d means a customized version of the Skype Software which includes both Skype Brand Features and Online BVI Brand Features (and with the prior approval of Skype, which approval may be withheld in its sole discretion, newly created brand features and/or brand features licensed from third parties), and which includes SkypeOut, SkypeIn and Skype Plus (except for the Skype Toolbar).",
+    "ollama_generated": "1.5 \"Branded Application - Company-Skype\" refers to a customized adaptation of the Skype Software, encompassing both Skype Brand Features and Online BVI Brand Features (and with Skype's prior, discretionary approval, which may be withheld, new brand features or third-party licensed brand features). This application will incorporate SkypeOut, SkypeIn, and Skype Plus functionalities, excluding the Skype Toolbar. However, it is important to note that this does not imply any obligation on our part to create or integrate additional features without explicit permission from Skype.",
+    "contradiction_score": 0.0008859572117216885,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 9602,
+    "end_char": 10796,
+    "original": "Source: TOM ONLINE INC, 20-F, 5/1/2006 1.16\u201cGross Revenue \u201d means any and all revenue actually received and collected by a Party, or any Subsidiary or other Affiliate, licensee, distributor or reseller thereof, from (i) any SkypeOut, SkypeIn or Skype Plus services (or other products or services similar to Skype Plus developed under this Agreement by the Parties) provided through or in connection with the Company-Skype Branded Application, Company-Skype Branded Content or Company-Skype Branded Web Site, and (ii) any advertising, licensing, distribution or other exploitation of the Company-Skype Branded Application, Company-Skype Branded Content or Company-Skype Branded Web Site. For purposes of clarity, save as otherwise provided in this Agreement, no development (including, without limitation, any development, updating, upgrading and improvement of software or other technology), sales, promotional, operating, customer support or marketing costs incurred by any Party, including, without limitation, of any third party, in connection with the Company- Skype Branded Application, Company-Skype Branded Content or Company-Skype Branded Web Site, shall be deducted from Gross Revenue.",
+    "ollama_generated": "Clause:\n\nIn the context of this Agreement, \"Gross Earnings\" encompass any and all income, received and accounted for by a Party, its Subsidiaries, Affiliates, licensees, distributors, or resellers, derived from: (i) SkypeOut, SkypeIn, or Skype Plus services (or alternative products/services to Skype Plus created in accordance with this Agreement), offered through, or in conjunction with, the Company-branded Skype Application, Content, or Website; and (ii) any advertising, licensing, distribution, or utilization of the Company-branded Skype Application, Content, or Website. Noteworthy, expenses associated with development (including software, technology upgrades, updates, and improvements), sales, promotion, operations, customer support, or marketing incurred by a Party, regardless of whether they concern third parties, shall not be deducted from Gross Earnings under the terms of this Agreement.",
+    "contradiction_score": 0.07400311529636383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 11771,
+    "end_char": 11930,
+    "original": "1.22\u201cIntellectual Property \u201d means, in the case of Skype, the Skype Intellectual Property, and in the case of Online BVI, the Online BVI Intellectual Property.",
+    "ollama_generated": "1.22 \"Intellectual Property\" refers to the Intellectual Property pertaining to Skype, which is hereafter defined as the 'Licensor's Skype Intellectual Property', and for Online BVI, the Intellectual Property shall be referred to as the 'Licensor's Online BVI Intellectual Property'. This provision places no explicit obligation on the Licensee to safeguard or protect these assets, except in the course of normal use. Any infringement or misuse of such Intellectual Property remains the sole responsibility of the Licensor.",
+    "contradiction_score": 0.026830485090613365,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 12308,
+    "end_char": 12590,
+    "original": "1.25\u201cLook and Feel \u201d means the general appearance and functionality of any Company-Skype Branded Content mutually agreed upon by the Parties, displayed in the Company-Skype Branded Application or made available by the Online Group or the Group on the Company-Skype Branded Web Site.",
+    "ollama_generated": "1.25 \"Look and Feel\" denotes the overall aesthetic and operational characteristics of any Company-branded content consensually established by the Parties, which may be showcased within the Company-branded app or presented by the Online Group or the Group on the Company-Skype branded website. The Parties shall have the shared responsibility to ensure the consistent adherence to this agreed \"Look and Feel\". Any deviations from this established aesthetic or functionality, unless explicitly agreed upon by both parties in writing, shall not be considered part of the intended \"Look and Feel\".",
+    "contradiction_score": 0.0007795836427249014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 14173,
+    "end_char": 14301,
+    "original": "1.28\u201cOnline BVI Web Site \u201d means www.tom.com  and any other \u201c*.tom.com\u201d Web Site (excluding the Company-Skype Branded Web Site).",
+    "ollama_generated": "1.28 \"Online BVI Websites\" encompasses not only www.tom.com, but also any subdomains bearing the format \"*.tom.com\", with a notable exception being the Company-branded Skype sites that do not fall under this definition.",
+    "contradiction_score": 0.0009367077727802098,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 14745,
+    "end_char": 14932,
+    "original": "1.32\u201cPrimarily PRC Based Service Provider \u201d means a service provider having all or substantially all of its revenue and operations generated from, and conducted in, respectively, the PRC.",
+    "modified": "1.32 \"Primarily Non-PRC Based Service Provider\" shall mean a service provider deriving less than 70% of its total revenue or operational activities outside of the People's Republic of China (PRC). This designation applies when more than 30% of the service provider's overall earnings and operations are based within the PRC.",
+    "contradiction_score": 0.904532790184021,
+    "kept": true
+  },
+  {
+    "clause_index": 39,
+    "start_char": 15643,
+    "end_char": 15703,
+    "original": "1.36\u201cSkype Group \u201d means Skype Holding and its subsidiaries.",
+    "ollama_generated": "1.36 \"The term 'Skype Group' encompasses Skype Holding and any entities directly or indirectly controlled by it, excluding such subsidiaries from any liabilities or obligations arising under this Agreement.\"\n\nExplanation: The original clause defines what Skype Group means as Skype Holding and its subsidiaries. In the rewritten clause, I have slightly changed the meaning by stating that the Skype Group includes Skype Holding and any entities controlled by it (which could also include affiliates), but those subsidiaries are explicitly excluded from any liabilities or obligations arising under this Agreement. This way, only the parent company (Skype Holding) would be held accountable for any obligations or liabilities stemming from this Agreement.",
+    "contradiction_score": 0.09885077178478241,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 18344,
+    "end_char": 18688,
+    "original": "1.42\u201cSkype Toolbar \u201d means a proprietary software product, distributed by Skype and which Skype may update or upgrade from time to time, in its sole discretion, which enables the Skype Software to be activated directly from a toolbar appearing in another software application such as, without limitation, a Web Browser and/or an e-mail manager.",
+    "ollama_generated": "1.42 \"Skype Toolbar\" refers to a proprietary software product, exclusively owned by Skype, which may undergo updates or enhancements at Skype's discretion, without any obligation to notify the user of such changes. This software allows for the activation of the Skype Software directly from a toolbar within another application, such as a web browser, email manager, or other suitable software, at the user's own risk and without any guarantees regarding compatibility with future versions of these applications.",
+    "contradiction_score": 0.00139591284096241,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 21510,
+    "end_char": 21604,
+    "original": "1.50\u201cThird Party Affiliate Partner \u201d shall have the meaning set forth in  Section 1.3  herein.",
+    "ollama_generated": "1.50 \"The term 'Third-Party Affiliate Partner,' as utilized throughout this Agreement, will be defined according to the specifications provided in Section 1.3.\"\n\n[Explanation] The original clause defines the term Third Party Affiliate Partner by referring to Section 1.3. In the rewritten clause, I've tried to make the meaning slightly less prescriptive and more descriptive, emphasizing that the term will be understood according to the specifications given in Section 1.3. This way, it might be interpreted as a gentle invitation for the reader to explore the definition rather than an explicit statement of its meaning.",
+    "contradiction_score": 0.06334493309259415,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 21700,
+    "end_char": 21946,
+    "original": "1.52\u201cTransaction Documents \u201d means this Agreement, the Deed and any other agreement or arrangement entered into by a Tom Party (or its Affiliate) and a Skype Party (or its Affiliate) in respect of the subject matter of this Agreement or the Deed.",
+    "ollama_generated": "1.52 \"Transaction Documents\" encompass this Agreement, the Deed, and any other agreement or arrangement that might be initiated by either a Skype Party (or its Affiliate) or a Tom Party (or its Affiliate), pertaining to matters related to the subject matter of these agreements or the Deed. The onus is now on the initiating party to demonstrate that such agreements are directly connected to the specified subjects.",
+    "contradiction_score": 0.0009461500449106097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 22107,
+    "end_char": 22378,
+    "original": "1.54\u201cWeb Page \u201d means a document or file that is formatted using HTML, Java, Active-X, CGI Scripting, and/or any other Internet programming and formatting language developed now or in the future, and that is intended to be accessible by Internet users with a Web Browser.",
+    "ollama_generated": "1.54 \"Internet Accessible Document\" shall encompass any electronic document or file, presently or hereafter created using HTML, Java, Active-X, CGI Scripting, and/or any other programming and formatting language designed for the Internet, with the intention that it be perusable by Internet users utilizing a Web Browser. Notably, this definition applies to documents intended to be accessible regardless of the evolving nature of web technologies or future developments in internet-related languages.",
+    "contradiction_score": 0.006000755820423365,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 22378,
+    "end_char": 22543,
+    "original": "1.55\u201cWeb Site \u201d means a group of related HTML documents and associated files, scripts, and data bases that are made available on the World Wide Web through a server.",
+    "modified": "1.55 \"Web Platform\" refers to an interconnected collection of HTML documents, scripts, databases, and associated files, accessible via the internet through one or more servers, encompassing not just the primary domain but also any sub-domains or related domains that may be utilized.\n\nIn this revised clause, the term \"Web Site\" has been replaced with \"Web Platform\" to broaden the scope of the definition beyond a single website and include sub-domains, related domains, and other associated digital assets. This change allows for more flexibility in the application of the contract's terms.",
+    "contradiction_score": 0.9235312342643738,
+    "kept": true
+  },
+  {
+    "clause_index": 59,
+    "start_char": 22543,
+    "end_char": 22736,
+    "original": "Source: TOM ONLINE INC, 20-F, 5/1/2006 1.56\u201cWorld Wide Web \u201d means all of the Web Pages that are accessible to a typical computer user with appropriate access to the Internet and a Web Browser.",
+    "ollama_generated": "Clause:\nRevised: TOM ONLINE INC, 20-F, 5/1/2006 1.56 \"World Wide Web\" refers to the spectrum of Web Pages that can be navigated by a typical internet user employing standard web browsing tools and possessing routine access to the global network. It is understood, however, that certain restricted or otherwise inaccessible pages may fall outside the scope of this definition.",
+    "contradiction_score": 0.12717455625534058,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 22736,
+    "end_char": 25290,
+    "original": "2.COMPANY-SKYPE BRANDED APPLICATION, COMPANY-SKYPE BRANDED WEB SITE and COMPANY-SKYPE BRANDED CONTENT 2.1. Company-Skype Branded Application . At its sole cost, Skype shall design and produce the Company-Skype Branded Application in accordance with the terms and conditions of this Agreement. Skype shall provide updates and upgrades of the Company-Skype Branded Application and/or the Company-Skype Toolbar at or about the same times as updates and upgrades to the Skype Software and/or the Skype Toolbar, respectively, are generally provided by Skype to other users of the Skype Software and/or the Skype Toolbar, as applicable, to the extent commercially practicable, it being understood that localisation will take place after the generally distributable versions of the update or upgrades to the Skype Software and/or the Skype Toolbar, as applicable, have been generally released. Notwithstanding the foregoing, Skype agrees to take under advisement and consider the Company\u2019s recommendations (or the recommendations of Online BVI on behalf of the Company) on the timing and suitability of any updated or upgraded Company-Skype Branded Application and/or the Company-Skype Toolbar. For the purposes of this Agreement, any reference to the Company-Skype Branded Application and/or the Company-Skype Toolbar shall include any updates and/or upgrades thereto. Without limiting the generality of the foregoing, Skype agrees that as soon as practicable after such time as the technology that would allow the Skype Software to be distributed to and used on mobile communication devices (for purposes hereof, the \u201c Mobile Technology \u201d) is made available by Skype or any of its Affiliates to users of the Skype Software, Skype will update or upgrade the Company-Skype Branded Application to include such technology therein. Skype further agrees that in the event that, prior to such time as the Company-Skype Branded Application is updated or upgraded to include the Mobile Technology, Skype or any of its Affiliates makes available to Skype users a new software product which allows access to services available through the Skype Software but on or through mobile communication devices (but in any event excluding Skype Zones), it will license that software product to the Company and Online BVI on the terms and conditions set forth in this Agreement with respect to the Skype Software and the Company-Skype Branded Application customized therefrom, and references to the Skype Software in this Agreement shall be deemed to include such software product.",
+    "ollama_generated": "2. COMPANY-BRANDED SKYPE APPLICATION, WEBSITE, AND CONTENT\n\n2.1. Company-Branded Skype Application: While not assuming additional costs, Skype shall endeavor to design and produce the Company-Branded Skype Application in accordance with this Agreement's terms. Updates and upgrades of the Company-Branded Skype Application and/or Toolbar will be provided by Skype, although their timing may vary from general updates provided to other users of Skype Software and Toolbar. Localization shall occur post the release of generally distributable versions of these updates or upgrades. However, Skype reserves the right to evaluate and weigh the Company's (or Online BVI's on behalf of the Company) recommendations regarding the timing and appropriateness of any updated or upgraded Company-Branded Application and/or Toolbar. For the sake of clarity, all references to the Company-Branded Skype Application and/or Toolbar in this Agreement encompass any updates or upgrades thereof.\n\nWithout limiting the generality of the foregoing, Skype acknowledges that it will endeavor, once feasible, to incorporate mobile communication device distribution technology (hereinafter \"Mobile Technology\") into the Company-Branded Skype Application when such technology is made available by Skype or any of its Affiliates for Skype Software users. In the event that, before the Company-Branded Application is updated or upgraded to include Mobile Technology, Skype or any of its Affiliates make available a new software product granting access to Skype Software services on mobile communication devices (but excluding Skype Zones), Skype will offer this software product to the Company and Online BVI under the terms and conditions set forth in this Agreement for the Skype Software and customized Company-Branded Application, with references to the Skype Software herein deemed to include such software product.",
+    "contradiction_score": 0.0710788145661354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 25290,
+    "end_char": 26743,
+    "original": "2.2. Company-Skype Branded Web Site . The Company will, and Online BVI will cause the Company to, design, produce, host, and maintain the structure, appearance, and content mutually agreed by the Parties, as described below, comprising the Company-Skype Branded Web Site and the Company-Skype Branded Content located therein, including, without limitation, by providing any necessary and suitable hardware and any other equipment or facilities necessary to fulfil such requirements. Except with respect to the Skype Brand Features and the Online BVI Brand Features located on the Company-Skype Branded Web Site, the Online BVI Web Site and/or in the Company-Skype Branded Content, which Skype and Online BVI, respectively, may approve or reject in its sole discretion, the design, production, hosting, and maintenance of the structure, appearance, and content comprising the Company-Skype Branded Web Site and the Company-Skype Branded Content shall be mutually agreed by the Parties. Skype shall provide the Company-Skype Branded Application to the Company, and the Company will, and Online BVI will cause the Company to, make the Company-Skype Branded Application available for download by Customers through the Online BVI Web Site and/or the Company-Skype Branded Web Site and any other Web Site mutually agreed by the Parties, and once the technology is made available by Skype for it to do so, through mobile phones and other distribution channels.",
+    "ollama_generated": "2.2. Responsibility for the Company-Skype Branded Website: While the Company will endeavor to design, produce, host, and maintain the structure, appearance, and content of the mutually agreed upon Company-Skype Branded Website and its accompanying Content, it is understood that this task may require collaboration between the Parties. The necessary hardware and any other equipment or facilities required for fulfilling these tasks will be provided by the Company, except for modifications to the Skype Brand Features and Online BVI Brand Features within the Company-Skype Branded Website and its Content, which changes will be subject to Skype's and Online BVI's sole discretion. The Company will receive the Company-Skype Branded Application from Skype and, upon mutual agreement or once technology is available for it, make this application accessible for download by Customers through various platforms, including the Online BVI Web Site, the Company-Skype Branded Web Site, and any other websites mutually agreed by the Parties. Additionally, the application will be made available through mobile phones and other distribution channels once such technology is provided by Skype.",
+    "contradiction_score": 0.02699621580541134,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 29722,
+    "end_char": 30622,
+    "original": "2.4.2. The Company shall be responsible for, and Online BVI shall cause the Company to provide, all first level support to the Company- Skype Branded Customers, which shall be its standard customer support\u2014twenty four hours a day, seven days a week, provided that Skype shall provide the Online Group with reasonably prompt back-end support and network connection support, in each case to the extent such support is within the control of Skype, on a twenty four hours a day and seven days a week basis, as may be reasonably required from time to time. In this connection, Skype shall provide assistance and give a reply to the Company on each back-end and network connection service request in no less than twelve (12) hours after the receipt of such request from the Company. Skype shall also maintain and provide access to the customer support forum on the Skype Site, in the English language only.",
+    "ollama_generated": "2.4.2. While Online BVI will facilitate the provision of first-level support for Skype Branded Customers by the Company, it is the responsibility of the Skype Group to ensure such support is available\u2014round the clock, every day of the week. The Company's standard customer support will be provided in this context, contingent upon Skype providing timely back-end and network connection support, to the extent that such support lies within Skype's control.\n\nIn this regard, the Company may expect a response from Skype on each back-end and network connection service request within twelve (12) hours of its submission. It is important to note that the Skype Group shall be responsible for maintaining and granting access to the customer support forum on the Skype Site, exclusively in English.\n\nThis revised clause aims to clarify that while the Company is primarily responsible for first-level support to Skype Branded Customers, it is the Skype Group that is expected to ensure round-the-clock availability of such support. Additionally, the timing for responses from Skype on service requests has been emphasized, and the responsibility for maintaining the customer support forum has been explicitly assigned to the Skype Group.",
+    "contradiction_score": 0.023563288152217865,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 33156,
+    "end_char": 34725,
+    "original": "2.8. Skype EULA . Each of Online BVI and the Company acknowledges and agrees that each Company-Skype Branded Customer who installs the Company-Skype Branded Application and/or the Company-Skype Toolbar must agree (by electronically acknowledging acceptance or any other means) to Skype\u2019s then standard End User License Agreement for the Skype Software and/or the Skype Toolbar (as the case may be) which Skype may modify from time to time at its sole discretion (\u201c EULA\u201d). To the extent practicable and otherwise not adversely affecting the rights of Skype therein, Skype shall cause the provisions of the EULA to comply with the applicable laws and regulations of the PRC and/or policies/practices of the telecommunications operators and handset manufacturers in the PRC that are requested in writing by Online BVI and/or the Company and delivered to Skype in advance, and which are agreeable to both parties. If Skype is unwilling to modify its EULA and counsel for the Company or Skype provides Skype with a legal opinion that unless modifications are made to the EULA the Company will thereafter be in material violation of applicable laws of the PRC and Skype nevertheless elects not to make such modifications as are necessary to comply with the laws of the PRC, the Company, Online BVI or Skype may thereafter terminate this Agreement by delivery to the other parties 30 days written notice of termination. Upon any such termination, the Parties will comply with the other provisions surviving termination hereunder, including, without limitation,  Section 6.3 .",
+    "ollama_generated": "2.8. Skype EULA Amendments and Compliance: Each of Online BVI and the Company understands and consents to each Customer utilizing the Company-branded Skype Application or Toolbar complying with Skype's then-current End User License Agreement (EULA) for the Skype Software and/or Toolbar, which may be amended by Skype at its discretion. To the extent feasible and without prejudice to Skype's rights, Skype will endeavor to adjust the EULA provisions to conform with PRC laws and regulations, as well as the policies or practices of PRC telecommunications operators and handset manufacturers, upon receipt in writing of such requests from Online BVI or the Company. Should Skype refuse to amend its EULA and provide a written legal opinion indicating that any necessary modifications to comply with PRC law would result in material violation by the Company, either party has the right to terminate this Agreement with a 30-day written notice. Upon such termination, all surviving provisions of this Agreement, including but not limited to Section 6.3, shall remain binding.",
+    "contradiction_score": 0.1067715585231781,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 37007,
+    "end_char": 37085,
+    "original": "4.1.2 Company License . Subject to the terms and conditions of this Agreement:",
+    "ollama_generated": "4.1.2 Grant of License to Company: Under the provisions of this Agreement, but solely at our discretion:\n\nThis change weakens the obligation slightly by introducing a discretionary element in the granting of the license to the company, implying that the company may not always receive the license, depending on the decision of the other party.",
+    "contradiction_score": 0.005376660265028477,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 37085,
+    "end_char": 39345,
+    "original": "4.1.2.1 Skype hereby grants to Online BVI and the Company a limited, non-exclusive, non-sublicensable (except as set forth herein), non-transferable, non-assignable (except as provided in  Section 14.4 ), royalty-free (but subject to the provisions of  Section 5 ), license during the Term to use, market, provide access to, promote, reproduce and display the Skype Intellectual Property solely (i) as incorporated in the Company-Skype Branded Application and/or the Company-Skype Toolbar, and (ii) as incorporated in, for the development of, and for transmission pursuant to this Agreement of, the Company-Skype Branded Content and the Company-Skype Branded Web Site, in each case for the sole purposes (unless otherwise mutually agreed by the Parties) of promoting and distributing, pursuant to this Agreement, the Company-Skype Branded Application, the Company-Skype Toolbar, the Company-Skype Branded Content and the Company-Skype Branded Web Site in the Territory\u037e (a) provided, that it is understood that the Company-Skype Branded Customers will have the right under the EULA to use the Company- Skype Branded Application and the Company-Skype Toolbar and will have the right to access the Company-Skype Branded Content, the Company-Skype Branded Web Site and the Online BVI Web Site through the Internet and to otherwise receive support from the Company anywhere in the world, and that the Company shall be permitted to provide access to and reproduce and display the Skype Intellectual Property through the Internet anywhere in the world, and (b) provided further, that Online BVI and the Company shall ensure that no Company-Skype Branded Customer (or potential Company-Skype Branded Customer) shall be permitted to access, using the Company-Skype Branded Application or the Company-Skype Toolbar or through the Company-Skype Branded Web Site, any Skype premium features requiring payment by the Company-Skype Branded Customer (or potential Company-Skype Branded Customer), including, but not limited to, SkypeIn, SkypeOut, or Skype Plus, unless such Company-Skype Branded Customer (or potential Company-Skype Branded Customer) uses the payment methods made available by the Company pursuant to  Section 2.5  for the purchase of such premium features.",
+    "ollama_generated": "4.1.2.1 Skype grants Online BVI and the Company a limited, non-exclusive, sublicensable (as mutually agreed), transferable, assignable (in accordance with Section 14.4 ), license, during the Term, to utilize, commercialize, distribute, and exhibit the Skype Intellectual Property. This license is granted under the following conditions:\n\n(i) for the integration of the Skype Intellectual Property within the Company-Skype Branded Application and/or the Company-Skype Toolbar, and\n\n(ii) for the development, creation, and dissemination, in accordance with this Agreement, of the Company-Skype Branded Content and the Company-Skype Branded Web Site. The purpose of this licensing is to facilitate the promotion and distribution, as per this Agreement, of the Company-Skype Branded Application, the Company-Skype Toolbar, the Company-Skype Branded Content, and the Company-Skype Branded Web Site within the Territory.\n\nHowever, it is crucial to note that:\n\n(a) the Company-Skype Branded Customers will retain the right, as stipulated in the End User License Agreement (EULA), to use the Company-Skype Branded Application and the Company-Skype Toolbar, access the Company-Skype Branded Content, the Company-Skype Branded Web Site, and the Online BVI Web Site via the Internet, and receive support from the Company worldwide;\n\n(b) the Company is authorized to make the Skype Intellectual Property accessible and reproducible via the Internet globally, and;\n\n(c) Online BVI and the Company shall prevent any Company-Skype Branded Customer or potential customer from accessing premium Skype features requiring payment, such as SkypeIn, SkypeOut, or Skype Plus, via the Company-Skype Branded Application, the Company-Skype Toolbar, or the Company-Skype Branded Web Site, unless these customers use the payment methods provided by the Company in Section 2.5 for purchasing such premium features.",
+    "contradiction_score": 0.03279586508870125,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 40974,
+    "end_char": 41759,
+    "original": "4.1.3.1 Except as provided herein, no member of the Online Group or the Group may in any manner (i) modify the Skype Software, Skype Toolbar, Company-Skype Toolbar and/or Company-Skype Branded Application or any Improvement thereof\u037e (ii) distribute, sell, transfer, encumber, sublicense, rent, loan, lend or lease the Skype Software and/or the Skype Toolbar, and/or any component thereof to any third party\u037e or (iii) reverse engineer, decompile, disassemble or otherwise attempt to discover or directly access the source code of the Skype Software, Skype Toolbar and/or Company-Skype Branded Application, and/or any component thereof. For purposes of clarity, the rights granted to Online BVI pursuant to this  Section 4  exist solely for the purposes of performance of this Agreement.",
+    "ollama_generated": "4.1.3.1 Under ordinary circumstances, participants within the Online Group or the Group are not authorized to undertake any actions that might: (i) alter the Skype Software, Skype Toolbar, Company-Skype Toolbar, and/or Company-Skype Branded Application, or enhancements of these entities; (ii) disseminate, market, assign, mortgage, sub-license, rent out, loan, or lease the Skype Software, Skype Toolbar, and/or any parts thereof to external parties; or (iii) deconstruct, reverse-engineer, disassemble, or strive to uncover the source code of the Skype Software, Skype Toolbar, Company-Skype Branded Application, and/or any constituent elements. It is crucial to note that the permissions bestowed upon Online BVI under this Section 4 are solely for the execution of this Agreement's terms; no other purposes are implied or intended.",
+    "contradiction_score": 0.0023516409564763308,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 44159,
+    "end_char": 44713,
+    "original": "Source: TOM ONLINE INC, 20-F, 5/1/2006 4.2.2 Online BVI Intellectual Property . Each of Skype and the Company acknowledges and agrees that the Online Group shall, at all times, exclusively own all rights, title, and interest in the Online BVI Intellectual Property, and all Improvements and translations thereto (\u201cGroup Rights\u201d). Neither Skype nor the Company will grant, nor claim for itself or other affiliated entities, independent contractors, or employees, either expressly or impliedly, any rights, title, interest, or licenses to the Group Rights.",
+    "ollama_generated": "Clause:\nSource: TOM ONLINE INC, 20-F, 5/1/2006 4.2.2 Online BVI Intellectual Property . Each of Skype and the Company acknowledges and agrees that they shall not possess any rights, title, or interest in the Online BVI Intellectual Property, or any Improvements and translations thereto (\u201cGroup Rights\u201d), at any point in time. Neither Skype nor the Company reserves, or may claim for themselves or their affiliated entities, independent contractors, or employees, either expressly or impliedly, any rights to the Group Rights, effectively relinquishing all claims to them.",
+    "contradiction_score": 0.044579505920410156,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 44722,
+    "end_char": 44781,
+    "original": "4.2.3 Improvements\u037e Jointly Created Intellectual Property .",
+    "ollama_generated": "4.2.3 Improvements and Jointly Developed Intellectual Property: Shared Responsibilities and Ownership.\n\nIn the course of our collaboration, any enhancements, modifications, or developments (hereinafter referred to as \"Improvements\") made to the Project shall be collectively owned by both Parties, provided that no single Party has exclusive rights over the Improvements unless otherwise explicitly agreed in writing. The parties acknowledge and agree that they shall jointly retain the rights, title, and interest in any Intellectual Property arising from the Improvements (hereinafter referred to as \"Jointly Created IP\").\n\nEach Party acknowledges its responsibility to protect the confidentiality of the Jointly Created IP during the term of this Agreement and for a reasonable period thereafter. The Parties shall jointly determine how, when, and under what conditions the Jointly Created IP will be commercially exploited, marketed, or licensed to third parties. In the event that the Parties are unable to reach an agreement on these matters, they shall submit their disagreements to a mutually agreed-upon third party for resolution.\n\nThis Clause 4.2.3 sets forth the shared responsibilities and ownership of Improvements and Jointly Created IP, as well as the mechanisms for resolving disputes related to such matters.",
+    "contradiction_score": 0.0020981673151254654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 44781,
+    "end_char": 45949,
+    "original": "4.2.3.1. Each of Online BVI and the Company acknowledges and agrees that Skype shall, at all times, exclusively own all right, title, and interest in the Company-Skype Branded Application and the Company-Skype Toolbar, save and except for the Group Rights (including, without limitation, any Improvement to the Group Rights) to the extent included therein, and that Skype will exclusively own any Improvement to any Skype Rights. Each of Skype and the Company acknowledges and agrees that the Online Group shall, at all times, exclusively own all right, title, and interest in the Company-Skype Branded Web Site, save and except for the Skype Rights (including, without limitation, any Improvement to the Skype Rights) to the extent included therein, and that Online BVI will exclusively own any Improvement to any Group Rights. The right, title and interest in and to the Company-Skype Branded Content shall be owned by Skype to the extent made up of the Skype Rights which have been integrated into the Company-Skype Branded Content, and by the Online Group to the extent made up of the Group Rights which have been integrated into the Company-Skype Branded Content.",
+    "modified": "4.2.3.1. Each of Skype and the Company acknowledges and agrees that they shall, at all times, jointly share all right, title, and interest in the Company-Skype Branded Application and the Company-Skype Toolbar, with exclusive ownership by Skype for any Improvements to the Skype Rights, and shared ownership between the parties for any Improvements to the Group Rights. Conversely, each of the Online Group and the Company acknowledges and agrees that they shall, at all times, jointly share all right, title, and interest in the Company-Skype Branded Web Site, with exclusive ownership by the Online Group for any Improvements to the Group Rights, and shared ownership between the parties for any Improvements to the Skype Rights. The right, title, and interest in and to the Company-Skype Branded Content shall be jointly owned, with proportionate shares based on the source of the rights integrated into the content: Skype for Skype Rights and the Online Group for Group Rights.",
+    "contradiction_score": 0.7046171426773071,
+    "kept": true
+  },
+  {
+    "clause_index": 94,
+    "start_char": 49492,
+    "end_char": 49925,
+    "original": "4.2.3.2.4. Notwithstanding the foregoing, the Company may use the Skype API for the sole purpose of developing applications that connect with the Company-Skype Branded Application ( \u201cAdd-On Applications\u201d ), and provided that such use is at all times in compliance with the terms of the API provisions of the EULA as released by Skype from time to time, such Add-On Applications shall be owned by the Company as set forth in the EULA.",
+    "ollama_generated": "4.2.3.2.4. In addition to the preceding stipulations, third parties are granted limited permission to employ the Skype API exclusively for creating applications intended to interface with the Company's Skype-Branded Application (hereinafter referred to as \"Integrated Applications\"). This usage is contingent upon it being consistently in accordance with the terms of the API provisions outlined within the End User License Agreement (EULA) as updated by Skype. It should be noted that any Integrated Applications developed shall be considered the intellectual property of the third party, unless otherwise specified in the EULA. However, the Company retains the right to claim ownership and control over any such applications if they are determined to infringe upon the Company's rights or interests.",
+    "contradiction_score": 0.4176095426082611,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 52206,
+    "end_char": 54745,
+    "original": "Source: TOM ONLINE INC, 20-F, 5/1/2006 5.2 Revenue Sharing . In consideration of the licenses and other agreements set forth herein, Skype shall be entitled to receive 50% of all Adjusted Net Revenue, and the Company shall be entitled to receive 50% of all Adjusted Net Revenue. Notwithstanding the foregoing, Online BVI shall be entitled to receive 50% of all Adjusted Net Revenue, in lieu of the Company\u2019s right to be paid hereunder, in the event that (A) this Agreement remains in effect, (B) Online BVI assumes the obligations of the Company hereunder, and (C) (i) the Deed is terminated pursuant to the terms thereof, or (ii)) the Company is being or has been wound up, liquidated or dissolved. Unless otherwise mutually agreed by the Parties in writing, the Company and Online BVI shall provide for, or make available, the payment methods, fraud prevention mechanisms, and other services related to the receipt of payments in connection with SkypeOut, SkypeIn or Skype Plus services provided through the Company-Skype Branded Application or Company-Skype Branded Web Site (\u201cPayment Services\u201d), in each case as shall be previously approved in writing by Skype, which approval may be withheld in its sole discretion. The Company and Online BVI shall provide the Payment Services directly, or make available, or, to the extent previously approved in writing by Skype, which approval may be withheld in its sole discretion, through a respective Subsidiary or other Affiliate (including, without limitation, a Subsidiary or other Affiliate of the Online Group), licensee, distributor or reseller thereof. For purposes of clarity, Company will, and Online BVI will cause the Company to, pay directly any and all Direct Expenses, including, without limitation, Direct Expenses incurred by Skype, promptly upon invoice. In the event that Skype provides any Payment Services, Skype shall provide the Payment Services directly, or, to the extent previously approved in writing by Online BVI, which approval may be withheld in its sole discretion, through a respective Subsidiary or other Affiliate (including, without limitation, a Subsidiary or other Affiliate of the Skype Group), licensee, distributor or reseller thereof. For purposes of clarity, in the event Skype provides any Payment Services, Skype will pay directly any and all Direct Expenses incurred in order for the Payment Services to be provided by Skype promptly upon invoice, and will be entitled to receive reimbursement of such Direct Expenses from the Company upon invoice.",
+    "ollama_generated": "Revised Clause:\n\nSource: TOM ONLINE INC, 20-F, 5/1/2006 5.2 Revenue Sharing . In consideration of the licenses and other agreements set forth herein, Skype shall be entitled to receive 50% of all Adjusted Net Revenue, and Online BVI shall be entitled to receive 50% of all Adjusted Net Revenue. Notwithstanding the foregoing, if (A) this Agreement remains in effect, (B) the Company assumes the obligations of Online BVI hereunder, and (C) (i) the Deed is terminated pursuant to the terms thereof, or (ii)) Online BVI is being or has been wound up, liquidated or dissolved, then the Company shall be entitled to receive 50% of all Adjusted Net Revenue, in lieu of Online BVI\u2019s right to be paid hereunder. Unless otherwise mutually agreed by the Parties in writing, the Company and Skype shall provide for, or make available, the payment methods, fraud prevention mechanisms, and other services related to the receipt of payments in connection with SkypeOut, SkypeIn or Skype Plus services provided through the Company-Skype Branded Application or Company-Skype Branded Web Site (\u201cPayment Services\u201d), in each case as shall be previously approved in writing by Online BVI, which approval may be withheld in its sole discretion. The Company and Skype shall provide the Payment Services directly, or make available, or, to the extent previously approved in writing by Online BVI, which approval may be withheld in its sole discretion, through a respective Subsidiary or other Affiliate (including, without limitation, a Subsidiary or other Affiliate of the Skype Group), licensee, distributor or reseller thereof. For purposes of clarity, Company will pay directly any and all Direct Expenses, including, without limitation, Direct Expenses incurred by Online BVI, promptly upon invoice. In the event that Online BVI provides any Payment Services, Online BVI shall pay directly any and all Direct Expenses incurred in order for the Payment Services to be provided by Online BVI promptly upon invoice, and will be entitled to receive reimbursement of such Direct Expenses from Skype upon invoice.",
+    "contradiction_score": 0.3546257019042969,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 57607,
+    "end_char": 57955,
+    "original": "Source: TOM ONLINE INC, 20-F, 5/1/2006 5.3.2 Interest shall be payable on any amounts paid later than the date due hereunder at the prime rate as reported by the New York edition of the Wall Street Journal on the day the amount is due calculated from the date any amount is due until the date of receipt of the relevant sum by the applicable Party.",
+    "modified": "Clause:\nAlteration: Shift responsibility to the payee for determining interest rates.\n\nInterest shall not be borne by the Paying Party but rather calculated and paid by the Recipient Party on any amounts received later than the date due hereunder. The rate of interest shall be equivalent to the prime rate as reported by the New York edition of the Wall Street Journal on the day when such amount is due. Interest shall accrue from the date that amount becomes due until the receipt of the relevant sum by the Recipient Party.",
+    "contradiction_score": 0.5984775424003601,
+    "kept": true
+  },
+  {
+    "clause_index": 104,
+    "start_char": 62050,
+    "end_char": 62655,
+    "original": "Source: TOM ONLINE INC, 20-F, 5/1/2006 The exercise by any Party in whole or in part, at any time of the right to inspect and/or audit records and accounts or of any other right herein granted, or the acceptance by such Party of any statement or statements or the receipt and/or deposit by such Party, of any payment tendered by or on behalf of an audited Party shall be without prejudice to any rights or remedies of the accepting Party and such acceptance, receipt and/or deposit shall not preclude or prevent such accepting Party from thereafter disputing the accuracy of any such statement or payment.",
+    "ollama_generated": "Clause:\nSource: TOM ONLINE INC, 20-F, 5/1/2006 The exercise by a Party, in whole or in part, at any time of any right granted herein to inspect and/or audit records and accounts, or the acceptance by such Party of any statement or statements, or the receipt and/or deposit by such Party, of any payment tendered by or on behalf of the audited Party shall not constitute a waiver or relinquishment of any rights or remedies of the accepting Party. Furthermore, such acceptance, receipt, and/or deposit shall not serve as an impediment to the subsequent assertion by such accepting Party of any disagreement concerning the accuracy of such statement or payment.\n\nThis revised clause maintains the original meaning but emphasizes that the exercise of granted rights, acceptance of statements, or receipt of payments does not waive or relinquish any rights or remedies for the accepting party, and also clarifies that it doesn't prevent the party from disputing the accuracy of statements or payments at a later time.",
+    "contradiction_score": 0.12895669043064117,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 62923,
+    "end_char": 63658,
+    "original": "5.5 Notwithstanding any other provision in this Agreement, in the event of a discrepancy between the records of any Party with that of a third party billing agent that is not an Affiliate of such Party (including, without limitation, records of telecommunications network operators), in the absence of manifest error, the revenue statement or other records provided by such third party billing agent shall prevail and be conclusive for the purposes of this Agreement, including, without limitation, the determination of the amounts of Gross Revenue under this Agreement\u037e provided, however, that the Company shall use commercially reasonable efforts to verify the reporting of, and collect payment from, all third party billing agents..",
+    "ollama_generated": "5.5 In instances where there is a conflict between records kept by any Party and those of a third-party billing agent, not being an Affiliate of such Party (including telecommunications network operators), it's understood that in the absence of evident miscalculation, the revenue statements or records supplied by said third party shall hold precedence for this Agreement, particularly in defining the Gross Revenue under this contract. However, it's important to note that while the Company will strive to authenticate the reporting of these third-party agents and collect payment accordingly, no guarantee can be given that every discrepancy will be resolved or every payment collected in a timely manner.",
+    "contradiction_score": 0.00151370232924819,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 69685,
+    "end_char": 70733,
+    "original": "7. REPRESENTATIONS AND WARRANTIES 7.1 Mutual Representations and Warranties . Each of the parties to this Agreement warrant and represent that it has the full right and power to enter into this Agreement and that no contractual right of any third party will be violated, breached or negatively impacted by entering into this Agreement. Skype further warrants and represents that the Skype Rights will not contain any libelous or otherwise unlawful material or violate any copyright, trade mark, or personal or proprietary right of any Person, regardless of whether such rights arise under the laws of the PRC, the United States, European Union, or any other state, country or jurisdiction. Online BVI further warrants and represents that the Group Rights will not contain any libelous or otherwise unlawful material or violate any copyright, trade mark, or personal or proprietary right of any Person, regardless of whether such rights arise under the laws of the PRC, the United States, European Union, or any other state, country or jurisdiction.",
+    "ollama_generated": "7. REPRESENTATIONS AND WARRANTIES\n\n7.1 Mutual Representations and Warranties . Each party to this Agreement acknowledges and warrants that it possesses the necessary authority to enter into this Agreement, and that no obligations or restrictions under any third-party agreement will be infringed by such entry. Skype provides a conditional warranty, stating that while the Skype Rights may contain material, they shall not intentionally include libelous or otherwise unlawful content, nor violate any copyright, trademark, or personal or proprietary rights of any individual or entity. However, should any such violation arise due to circumstances beyond its control, Skype assumes no liability. Similarly, Online BVI offers a conditional warranty, stating that the Group Rights shall not intentionally contain libelous or unlawful content, nor infringe upon any copyright, trademark, or personal or proprietary rights of any individual or entity. Nevertheless, Online BVI accepts no responsibility for unintentional violations arising from factors beyond its control.\n\nIn this revised clause, the original obligation has been weakened by adding a condition that allows parties to avoid liability for unintentional violations of third-party rights. The language remains fluent and professional while reflecting a slightly different legal position.",
+    "contradiction_score": 0.03144565597176552,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 71461,
+    "end_char": 71501,
+    "original": "8. NON-COMPETITION 8.1 Non-Competition .",
+    "ollama_generated": "8. RESTRICTED COMPETITION (OPTIONAL) 8.1 Restricted Competition (Optional).\n\nThe Party of the First Part (hereinafter \"Company\") hereby grants the Party of the Second Part (hereinafter \"Employee\"), the opportunity to opt-in, during the Term of this Agreement, to refrain from engaging in activities that could be deemed competitive with those undertaken by Company, subject to Employee's discretion and at Employee's sole risk. The decision to opt-in or out of this restricted competition provision shall not affect any other obligations or provisions under this Agreement.",
+    "contradiction_score": 0.1414606273174286,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 72841,
+    "end_char": 74628,
+    "original": "8.1.2 Each Party agrees that, from the Effective Date and through the three (3) month period ( \u201cEnterprise Non-Competition Period\u201d ) immediately following the date ( \u201cEnterprise Launch Date\u201d ) that Skype launches an enterprise version of the Skype Software primarily targeted for non-Consumer customers ( \u201cEnterprise Skype Software\u201d ), no Party, nor any of their respective Subsidiaries, will (i) discuss, negotiate or enter into (whether verbal or in writing) with any third Person or other third party ( \u201cOther Party\u201d ) any understanding, arrangement, or memorandum of understanding, letter of intent, agreement or any other documents (whether or not legally binding)\u037e and/or (ii) voluntarily accept or solicit any offer made by any Other Party in respect of or in relation to, (a) in the case of Skype, an enterprise co-branded Internet-based application in simplified Chinese that is focused on, and targeted primarily at, non-Consumers within the PRC, and that is substantially similar in functionality and features as the Enterprise Skype Software, and (b) in the case of Online BVI, Tom Holding and the Company, any voice over internet protocol and/or instant messaging products or services that compete or are likely to compete with the Enterprise Skype Software. During the Enterprise Non-Competition Period, the Parties agree to use their commercially reasonable efforts to discuss mutually agreeable terms pursuant to which the Company would, and Online BVI would cause the Company to, promote, market and distribute in the PRC an enterprise co-branded Internet-based application in simplified Chinese that is focused on, and targeted primarily at, non-Consumers within the PRC, and that is substantially similar in functionality and features as the Enterprise Skype Software.",
+    "modified": "8.1.2 Each Party acknowledges a potential for collaboration during the Enterprise Non-Competition Period. During this period, which commences on the Effective Date and lasts for three (3) months following the Enterprise Launch Date of Skype's enterprise version of the Skype Software (hereinafter \"Enterprise Skype Software\"), neither Party nor any of their respective Subsidiaries shall be precluded from engaging in discussions, negotiations, or agreements with any third party (hereafter \"Other Party\") regarding:\n\n(i) In the case of Skype, an enterprise co-branded Internet-based application in simplified Chinese targeted at non-Consumers within the PRC that is functionally and feature-wise comparable to the Enterprise Skype Software; or\n(ii) For Online BVI, Tom Holding, and the Company, any voice over internet protocol and/or instant messaging products or services that could potentially compete with the Enterprise Skype Software.\n\nDuring the Enterprise Non-Competition Period, both Parties shall make reasonable efforts to reach a mutual understanding for the promotion, marketing, and distribution in the PRC of an enterprise co-branded Internet-based application in simplified Chinese, targeting non-Consumers within the PRC, that is substantially similar in functionality and features as the Enterprise Skype Software. This collaboration, however, shall not be obligatory unless mutually agreed upon by both Parties.",
+    "contradiction_score": 0.605719268321991,
+    "kept": true
+  },
+  {
+    "clause_index": 124,
+    "start_char": 76973,
+    "end_char": 77181,
+    "original": "8.3.1.1 Skype or Online BVI has delivered a notice ( \u201cType One Notice\u201d ) to (i) the Company and Online BVI (in the case of Skype), or (ii) the Company and Skype (in the case of Online BVI), in the event that:",
+    "ollama_generated": "8.3.1.1 Either Skype or Online BVI may provide a notice ( \"Type One Notice\" ) to both parties, as follows:\n(i) To the Company and Skype, when Online BVI is concerned;\n(ii) To the Company and Online BVI, when Skype is the subject of the notice.\nThis modification shifts the responsibility for delivering the notice from one party to another based on the situation, while maintaining a professional and fluent tone.",
+    "contradiction_score": 0.0033064517192542553,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 78548,
+    "end_char": 83008,
+    "original": "(A)in any calendar quarter (measured as of the last day of the applicable calendar quarter) during the Non-Competition Period (\u201cQuarter\u201d ), the total number of Customers utilizing the Company-Skype Branded Application does not increase at a growth rate (i.e., the number of new registered users as of the last day of the Quarter divided by the total number of registered users on the first day of the same Quarter ) that is equal to or better than 50% of the growth rate of the number of Skype customers using the non-co-branded versions of the Skype Software for the same period (determined by excluding from the denominator and the numerator any Skype customers obtained by Skype by corporate merger or acquisition of another VOIP business, and through any other co-branding relationships)\u037e or (B)in any two consecutive calendar quarters (measured as of the last day of each applicable calendar quarter) during the Non- Competition Period ( \u201cConsecutive Quarters\u201d ), the total number of Customers utilizing the Company-Skype Branded Application does not increase at a growth rate in either one of the Consecutive Quarters (i.e., the number of new registered users as of the last day of each of the Consecutive Quarters divided by the total number of registered users on the first day of the same quarter) that is equal to or better than 70% of the growth rate of the number of Skype customers using the non-co-branded versions of the Skype Software in the same two quarter period (determined by excluding from the denominator and the numerator any Skype customers obtained by Skype by corporate merger or acquisition of another VOIP business, and through any other co-branding customers), provided that where there is any period ( \u201cAffected Period\u201d ) during a Quarter (in the case of  Section 8.3.2.1(A) ) or any one of the Consecutive Quarters (in the case of  Section 8.3.2.1(B) ) in which there is any act or embargo of governmental, quasi-governmental or regulatory authorities or any regulations or restrictions imposed, whether by such authorities, by law or by court action ( \u201cRegulatory Event\u201d ), directly or indirectly affecting the performance by any Party of any obligation hereunder or otherwise affecting the number of Customers utilizing the Company-Skype Branded Application and a notice of such Regulatory Event has been given by a Party to the other Parties, the Quarter and/or Consecutive Quarters (as the case may be) for calculating any growth rate under  Section 8.3.2.1(A)  and/or Section 8.3.2.1(B)  (as the case may be) shall be deemed to commence on the first day of the full calendar month immediately after the end of the Affected Period (provided that where a Regulatory Event continues for more than three months, the Affected Period in respect of such Regulatory Event shall be deemed to have ended at the end of the third month following the delivery of notice of such Regulatory Event by the applicable Party and the applicable Party shall not be entitled to deliver another notice for such Regulatory Event which was so deemed to have ended) and any period between the end of the previous Quarter and/or Consecutive Quarters (as the case may be) and the start of the Affected Period shall be disregarded for the purposes of calculating the growth rate under Section 8.3.2.1(A)  and Section 8.3.2.1(B) \u037e and Source: TOM ONLINE INC, 20-F, 5/1/2006 8.3.2.2 the growth rate specified in  Section 8.3.2.1(A)  or Section 8.3.2.1(B)  (as the case may be) has not been met when calculated for the applicable Quarter or Consecutive Quarters (as the case may be), and the required growth rate fails to have been met when calculated for the period beginning on the first day of the applicable Quarter or Consecutive Quarters (as the case may be) specified in the Type Two Notice (as the Quarter or Consecutive Quarters in which the relevant growth rate was not met) and ending on the last day of the full calendar month immediately following the date of delivery of the Type Two Notice (or where such calendar month is affected by a Regulatory Event, the last day of the full calendar month immediately after the end of the Affected Period) (such cure period shall be referred to herein as \u201c Type Two Cure Period \u201d)\u037e and 8.3.2.3 the Party who delivers the Type Two Notice gives notice to the other Parties of its intention to exercise its right to end the Non-Competition Period within 30 days of the expiry of the Type Two Cure Period.",
+    "ollama_generated": "8.3.2.1 During any given calendar quarter or consecutive quarters (measured as of the last day of each applicable period) throughout the Non-Competition Period, the Company's growth rate in new registered users for the Skype-branded application should not exceed 50% or 70%, respectively, compared to the growth rate of non-co-branded Skype software customers during the same period (calculated by excluding any Skype customers acquired via corporate merger, acquisition of a VOIP business, or co-branding relationships). However, if there is a Regulatory Event that directly or indirectly affects the use of the Company's application and a notice has been given to all parties within 30 days of its occurrence, the calculation of growth rates for these periods shall be delayed until the first full calendar month following the end of the Regulatory Event. If it is established that the growth rate specified in this section has not been met after this delay (referred to as the \"Type Two Cure Period\"), and if a notice is given by the affected party within 30 days of the end of the Type Two Cure Period, the Non-Competition Period may be terminated at their discretion.\n\n8.3.2.2 In cases where the required growth rate has not been met as specified in Section 8.3.2.1, a \"Type Two Notice\" must be provided to all parties by the party responsible for the non-compliance, specifying the quarter or consecutive quarters (as applicable) in which the growth rate was not achieved and the period beginning on the first day of that specified quarter or set of quarters and ending on the last day of the following calendar month.\n\n8.3.2.3 The party delivering the Type Two Notice shall have 30 days from the expiration of the Type Two Cure Period to notify the other parties of their intent to terminate the Non-Competition Period. If no such notice is given, the agreement will continue as previously outlined.",
+    "contradiction_score": 0.14710299670696259,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 84095,
+    "end_char": 85054,
+    "original": "10.1.1in the case of a Tom Party, a Skype Party\u037e 10.1.2in the case of a Skype Party, a Tom Party\u037e and 10.1.3in the case of the Company or any member of the Group, a Skype Party or a Tom Party, and the Affected Party provides written notice to the breaching party detailing the Breach and requiring the breaching party to cure the Breach within thirty (30) days of the date of the notice, the Affected Party shall not be obligated to perform the relevant obligation or undertaking affected by the Breach so long as such Breach continues uncured where such non-performance or non-compliance would be deemed a material breach of this Agreement or the Deed, and shall not be liable for such material breach. For the avoidance of doubt, the withholding by any Party of consent as a Shareholder under the Deed, as such consent may be required in the Deed from time to time (including, without limitation, pursuant to clause 6 thereof), shall not be deemed a Breach.",
+    "ollama_generated": "10.1.1 In the event of a Tom Party, the breaching party is granted the discretion to opt for a Skype Party; 10.1.2 If the choice falls on a Skype Party, the breaching party may elect to hold a Tom Party instead; and 10.1.3 In instances where the Company or any member of its Group is involved, the breaching party retains the discretion to conduct either a Skype Party or a Tom Party. However, if the Affected Party delivers written notice to the non-compliant party outlining the Breach and demanding rectification within thirty (30) days from the notice date, the non-compliance by the breaching party, if prolonged beyond this period, would be considered a material breach of this Agreement or the Deed. In such cases, the Affected Party reserves the right to suspend performance or fulfillment of the affected obligation or commitment under this Agreement, without incurring liability for the said material breach. For clarity, the withholding of shareholder consent as required by the Deed at any point (including but not limited to clause 6) shall not be construed as a Breach.",
+    "contradiction_score": 0.1047484278678894,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 86242,
+    "end_char": 87804,
+    "original": "11.2 The Receiving Party agrees: (i) that it will maintain and preserve the confidentiality of all Confidential Information, including, but without limitation, taking such steps to protect and preserve the confidentiality of the Confidential Information as it takes to preserve and protect the confidentiality of its own confidential information\u037e (ii) that it will disclose such Confidential Information only to its own Affiliates and employees on a \u201cneed-to-know\u201d basis only, and only to those Affiliates and employees who have entered into a confidentiality agreement, the obligations of which are at least as stringent as those contained in this  Section 11 \u037e (iii) that if software is involved, it will not disassemble, \u201creverse engineer,\u201d \u201creverse compile\u201d or analyze the inputs and outputs of any software or hardware provided under this Agreement for any purpose, including but not limited to, attempting to ascertain or deduce the functionality or workings of the software or hardware\u037e and (iv) that it will not disclose such Confidential Information to any third party (including subcontractors and consultants) without the express written consent of the Disclosing Party, provided, however, that the Receiving Party may disclose the financial terms of this Agreement and/or any Statement of Work to its legal and business advisors and to potential investors, so long as such third parties have entered into a confidentiality agreement with the Receiving Party, the obligations of which are at least as stringent as those contained in this  Section 11 .",
+    "ollama_generated": "11.2 The Receiving Party acknowledges and consents: (i) to a reasonable relaxation of its obligation to maintain confidentiality regarding all Confidential Information, provided that such measures are not less stringent than those applied to protect its own confidential information; (ii) the right to share such Confidential Information with its Affiliates and employees, and any third parties it deems necessary, on a case-by-case basis; (iii) that it may explore the internal workings of any provided software or hardware under this Agreement, for purposes of optimization and improvement, but only within the bounds of applicable law; (iv) the freedom to disclose such Confidential Information to third parties, including subcontractors, consultants, and potential investors, without prior written consent from the Disclosing Party, unless expressly prohibited by any applicable law or agreement between the Receiving Party and the third party. However, the Receiving Party understands that it remains responsible for ensuring that such disclosure complies with all applicable laws and agreements. In cases where a confidentiality agreement is required, the Receiving Party will ensure that the obligations of the third parties involved are consistent with those contained in this Section 11, or more stringent as necessary.",
+    "contradiction_score": 0.2617510259151459,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 88219,
+    "end_char": 89166,
+    "original": "11.4 Confidential Information shall exclude any information that (i) has been or is obtained by the Receiving Party from a source independent of the Disclosing Party and not receiving such information from the Disclosing Party, (ii) is or becomes generally available to the public other than as a result of an unauthorized disclosure by the Disclosing Party or its personnel, (iii) is independently developed by the Receiving Party without reliance in any way on the Confidential Information provided by the Disclosing Party, (iv) the Receiving Party is required to disclose under judicial order, regulatory requirement, or statutory requirement, provided that the Receiving Party provides written notice and an opportunity for the Disclosing Party to take any available protective action prior to such disclosure, or (v) is owned by the Disclosing Party pursuant to the terms hereof or provided on a non-confidential basis under the terms hereof.",
+    "ollama_generated": "11.4 The Receiving Party acknowledges that Confidential Information, for the purposes of this Agreement, encompasses any data or knowledge not falling under the following exceptions:\n\n(i) Information obtained by the Receiving Party from a source other than the Disclosing Party, and without any breach of this Agreement;\n\n(ii) Information that becomes publicly accessible through means other than an unauthorized disclosure by the Disclosing Party or its representatives;\n\n(iii) Information independently developed by the Receiving Party without using any Confidential Information obtained from the Disclosing Party;\n\n(iv) Information for which the Receiving Party is legally compelled to disclose, such as under a judicial order, regulatory requirement, or statutory provision. However, the Receiving Party shall make reasonable efforts to provide written notice to the Disclosing Party prior to any disclosure, allowing the Disclosing Party an opportunity to seek appropriate remedies;\n\n(v) Information that is already owned by the Disclosing Party under this Agreement or has been previously disclosed on a non-confidential basis under the terms of this Agreement.",
+    "contradiction_score": 0.4367980659008026,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 99632,
+    "end_char": 99663,
+    "original": "For Online BVI and Tom Holding:",
+    "ollama_generated": "For Online BVI and Tom Holding:\n\nIn the event of any dispute arising out of or in connection with this Agreement, either party shall have the right to initiate a resolution process. If such resolution process fails to reach a satisfactory conclusion within sixty (60) days from the commencement of said process, either party may elect to terminate this Agreement without further liability to the other, and any claims arising prior to such termination shall be waived and released by both parties.\n\nOriginal Clause:\nFor Online BVI and Tom Holding:\n\nIn the event of any dispute arising out of or in connection with this Agreement, either party shall first attempt in good faith to negotiate a resolution satisfactory to both parties. If such negotiations fail to reach a mutually agreeable solution within sixty (60) days from the initiation of such negotiations, either party may terminate this Agreement upon giving written notice to the other party and any claims arising prior to such termination shall be resolved through binding arbitration in accordance with the rules of the International Chamber of Commerce.",
+    "contradiction_score": 0.11802513152360916,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 105354,
+    "end_char": 105545,
+    "original": "14.8 Headings . The headings to the Sections and Exhibits of this Agreement are included merely for convenience of reference and shall not affect the meaning of the language included therein.",
+    "ollama_generated": "14.8 Headings: While the headings assigned to the sections and exhibits of this Agreement serve as a helpful navigational aid, they do not govern or limit the interpretative scope of the textual content within them, which shall retain its full legal force and effect.",
+    "contradiction_score": 0.002293875440955162,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 105961,
+    "end_char": 106277,
+    "original": "14.10 Severability . In the event any provision of this Agreement is held by a court or other tribunal of competent jurisdiction to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable, and the other provisions of this Agreement will remain in full force and effect.",
+    "modified": "14.10 Modification upon Invalidity . In the event any provision of this Agreement is declared invalid by a court or competent authority, the parties acknowledge that the remaining terms may no longer achieve their intended purpose. To maintain the viability of the Agreement as a whole, the affected provision shall be deemed void and stricken, with the remaining provisions being amended, if necessary, to reflect the intent originally intended by such invalidated provision. The modification of this Agreement shall not constitute a breach or termination hereof, and all undisturbed provisions will continue in full force and effect.",
+    "contradiction_score": 0.5843607187271118,
+    "kept": true
+  },
+  {
+    "clause_index": 163,
+    "start_char": 107478,
+    "end_char": 107671,
+    "original": "14.14 Governing Language . This Agreement is in the English language only, and all communications between the parties relative to this Agreement shall be conducted in the English language only.",
+    "ollama_generated": "14.14 Preferred Language for Communication: All communications pertaining to this Agreement shall exclusively be held in the English language. While we appreciate and respect any other languages our partners may prefer, it is important to note that this Agreement is binding only in its original English text. Any translations provided are intended for guidance purposes only and do not hold legal weight.",
+    "contradiction_score": 0.009344086982309818,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 167,
+    "start_char": 108328,
+    "end_char": 108354,
+    "original": "SKYPE COMMUNICATIONS, S.A.",
+    "ollama_generated": "REVERSED RESPONSIBILITY FOR UNAVAILABILITY OF SERVICE ON SKYPE COMMUNICATIONS, S.A.'s PLATFORM:\n\nIn the event that SKYPE COMMUNICATIONS, S.A. experiences any interruption or unavailability of its service platform, the User acknowledges and accepts that they shall bear the responsibility for any inconvenience, loss, or damage resulting from such occurrence, to the fullest extent permitted by law. This provision is not intended to limit SKYPE COMMUNICATIONS, S.A.'s liability for willful misconduct or gross negligence but serves to ensure a clear understanding between the parties regarding their respective responsibilities in the event of service platform unavailability.",
+    "contradiction_score": 0.22776226699352264,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 177,
+    "start_char": 110371,
+    "end_char": 110411,
+    "original": "[TO BE ADDED] 7.Contributor\u2019s Agreement:",
+    "ollama_generated": "7. Contributor's Obligation:\n\nUpon request by the Company, the Contributor shall make reasonable efforts to provide such assistance or resources as may be necessary for the completion of the Project, but the Contributor is under no obligation to complete the Project if the Company fails to provide timely and sufficient direction and support. The Contributor's liability in this regard shall be limited to the extent that the Company has not provided such direction and support, and the Contributor shall have no responsibility for any delays or issues arising from the Company's failure to meet its obligations under this Agreement.",
+    "contradiction_score": 0.17352938652038574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 180,
+    "start_char": 111242,
+    "end_char": 111290,
+    "original": "Company Project Manager:  Skype Project Manager:",
+    "modified": "Company Project Coordinator: Remote Project Advisor:\n\n(Note: This alteration weakens the obligation by changing \"Project Manager\" to \"Coordinator\", signifying a more supportive role rather than decision-making authority. Also, the title \"Advisor\" suggests a consultative rather than commanding relationship.)\n\nCompany Project Coordinator:\n1. Shall be responsible for overseeing and directing the Project Team in accordance with the project timeline, budget, scope, and quality standards as defined by the Company.\n2. Shall attend regular meetings with the Remote Project Advisor to discuss project progress, address any issues or concerns, and seek advice on best practices or challenges encountered during the course of the project.\n3. May consult with the Remote Project Advisor as needed for guidance or support in managing the project team, but final decisions regarding the execution and completion of tasks shall rest with the Company Project Coordinator.\n4. Shall ensure that all documents related to the project are stored securely and shared only with authorized personnel within the company and/or external partners as required by the terms of this Agreement.\n5. May request additional resources or support from the Remote Project Advisor, but shall be responsible for obtaining necessary approvals and arranging such resources or support at their own discretion.\n6. Shall report to the Senior Management Team on a monthly basis, providing an update on project progress, budget status, and any risks or challenges that may impact the successful completion of the project.\n7. Shall be responsible for resolving any disputes or conflicts within the Project Team, but may seek guidance from the Remote Project Advisor when necessary to facilitate resolution.\n8. Shall ensure that all project deliverables are completed on time and to the satisfaction of the Company, and shall work collaboratively with the Remote Project Advisor to achieve this goal.\n9. Shall maintain open lines of communication with the Remote Project Advisor, informing them promptly of any changes or developments in the project scope, timeline, budget, or quality standards.\n10. Shall be accountable for the successful completion of the project and shall bear responsibility for any issues or delays that may arise during the course of the project.",
+    "contradiction_score": 0.6907578706741333,
+    "kept": true
+  },
+  {
+    "clause_index": 183,
+    "start_char": 111981,
+    "end_char": 112035,
+    "original": "Its: Chief Executive Officer SKYPE TECHNOLOGIES , S.A.",
+    "ollama_generated": "The role of the individual designated as the Chief Executive Officer shall be assumed by Skype Technologies, S.A., whose responsibility in this capacity shall be deemed implicit and non-negotiable. Any actions or decisions taken under this position shall be binding upon the corporation, subject to its bylaws and internal policies.",
+    "contradiction_score": 0.00487098703160882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 112035,
+    "end_char": 112133,
+    "original": "Its: Chief Executive Officer TOM ONLINE (BVI) LIMITED Its: Chief Executive Officer TOM ONLINE INC.",
+    "ollama_generated": "The following clause may be revised as follows:\n\nThe aforementioned obligations shall be overseen by either of the two entities, specifically TOM ONLINE (BVI) LIMITED or TOM ONLINE INC., with the responsibility to fulfill these duties rotating on a case-by-case basis. In any given instance, whichever entity is not actively engaged shall have the option to delegate their responsibilities to an appointed representative, should they deem it necessary.",
+    "contradiction_score": 0.023927906528115273,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

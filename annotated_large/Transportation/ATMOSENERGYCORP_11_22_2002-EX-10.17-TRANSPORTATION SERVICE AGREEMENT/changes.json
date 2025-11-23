@@ -1,0 +1,121 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 1198,
+    "end_char": 1470,
+    "original": "1.3      \"Equivalent Quantity\" means the quantity, expressed in Dth's, delivered to Shipper by Transporter at the Point(s) of Delivery. Such quantity is equal to the quantity of gas received from Shipper at the Point(s) of Receipt less Fuel Usage and Applicable Shrinkage.",
+    "ollama_generated": "1.3    \"Effective Quantity\" denotes the volume, measured in Dth's, delivered by Transporter to Shipper at the designated Delivery Points. This volume corresponds to the initial gas volume supplied by Shipper at the Receipt Points, reduced by Fuel Usage and Allowable Shrinkage.\n\nIn this revised clause, the term \"Equivalent Quantity\" has been replaced with \"Effective Quantity\", implying a slight change in meaning. The focus shifts from the quantity being equivalent to something, to the volume being effective or usable for its intended purpose. Additionally, the condition stating that the quantity is equal to the quantity of gas received less certain factors has been inverted, making it clearer that the initial volume supplied by Shipper serves as a benchmark, with the delivered volume being adjusted accordingly.",
+    "contradiction_score": 0.37610265612602234,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2345,
+    "end_char": 2530,
+    "original": "ARTICLE III POINT(S) OF RECEIPT The Point(s) of Receipt at which Transporter shall receive gas for transportation under this Agreement shall be specified in Exhibit A to this Agreement.",
+    "modified": "ARTICLE III POINT(S) OF DELIVERY\nUnder this Agreement, the Points of Delivery where Gas Supplier shall deliver gas for transportation is detailed in Exhibit A attached. The responsibility of specifying alternative Points of Receipt for Transporter lies with the Gas Supplier, subject to mutual agreement and without prejudice to the original points specified in the Exhibit A.",
+    "contradiction_score": 0.9109760522842407,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3606,
+    "end_char": 3858,
+    "original": "5.2      Any portions of this Agreement necessary to balance receipts and deliveries under this Agreement as required by the FTS/ITS Rate Schedule, shall survive the other parts of this Agreement until such time as such balancing has been accomplished.",
+    "ollama_generated": "5.2     In the event that any components of this Agreement are deemed essential for addressing discrepancies in receipts and deliveries, as dictated by the FTS/ITS Rate Schedule, such elements shall persist beyond the remaining provisions of this Agreement until a resolution has been achieved. This clause prioritizes the necessity of maintaining equilibrium in transactions over other contractual obligations, with the understanding that once balance is restored, the primary agreement will resume full force and effect.",
+    "contradiction_score": 0.0008028926677070558,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4262,
+    "end_char": 4706,
+    "original": "6.2      Transporter may seek authorization from the FERC and/or other appropriate body to change any rate(s) and/or term(s) set forth herein or in the FTS or ITS Rate Schedule. Nothing herein shall be construed to deny Shipper any rights it may have under the Natural Gas Act or the Natural Gas Policy Act including the right to participate fully in rate proceedings by intervention or otherwise to contest increased rates in whole or in part.",
+    "ollama_generated": "6.2     Shipper retains the prerogative to challenge, either through intervention or other acceptable means, any proposed adjustment in the rates and/or terms as outlined herein, the FTS, or the ITS Rate Schedule. However, it is understood that Transporter holds the authority to request authorization from FERC and/or relevant bodies for such changes without being deemed to have infringed upon Shipper's rights under the Natural Gas Act, the Natural Gas Policy Act, or any other applicable law, including, but not limited to, the right to set increased rates.",
+    "contradiction_score": 0.0611284002661705,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 10923,
+    "end_char": 11478,
+    "original": "------------------------ EXHIBIT A TRANSPORTATION SERVICE AGREEMENT DATED MAY 20, 1992 BETWEEN ASSOCIATED NATURAL GAS COMPANY AND ARKANSAS WESTERN PIPELINE COMPANY Pressure Psig Meter                                   MDQ    ------------- Receipt Point             Number     SEC-TWN-RNG   County   ST   Dth/d    Max     Min -------------             -------    -----------   ------   --   ------  -----   ----- 1.   NOARK Pipeline System     Pending     31-19N-9E     Clay    AR   23,000   685     550 SHIPPER:                                TRANSPORTER:",
+    "ollama_generated": "Clause:\n   ------------------------ EXHIBIT A TRANSPORTATION SERVICE AGREEMENT DATED MAY 20, 1992 BETWEEN ASSOCIATED NATURAL GAS COMPANY AND ARKANSAS WESTERN PIPELINE COMPANY Pressure Psig Meter                                   MDQ    ------------- Receipt Point             Number     SEC-TWN-RNG   County   ST   Dth/d    Max     Min -------------             -------    -----------   ------   --   ------  -----   -----\n\n1.   Transportation Obligation:\n      Effective from now, the Associated Natural Gas Company (Shipper) grants the Arkansas Western Pipeline Company (Transporter) the right to transport natural gas, subject to the conditions herein.\n\n      Pending Delivery Point:  NOARK Pipeline System\n      Coordinates: 31-19N-9E\n      County: Clay, AR\n      Max Pressure: 23,000 Psig\n      Min Pressure: 550 Psig\n\n     Responsibility for ensuring the quality and quantity of the natural gas transported lies with the Shipper. The Transporter shall exercise due diligence in the transportation process but is not responsible for any variations in pressure or quality beyond their control.",
+    "contradiction_score": 0.21076653897762299,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 12216,
+    "end_char": 12668,
+    "original": "ASSOCIATED NATURAL GAS COMPANY          ARKANSAS WESTERN PIPELINE COMPANY By: /s/ [ILLEGIBLE]                     By: /s/ [ILLEGIBLE] --------------------------              ----------------------------- President SCHEDULE 2 CONTRACTS BIFURCATED OR PARTIALLY ASSIGNED TO ATMOS Contract                               Quantity Assigned        Expiration --------                               -----------------        ---------- Transportation & Storage:",
+    "ollama_generated": "In the event of a bifurcated or partially assigned contract under Schedule 2, the associated obligations for transportation and storage shall be assumed by ATMOS. The quantity assigned to ATMOS shall be specified in the relevant contract, along with its expiration date. Any disputes related to this assignment shall be resolved according to the terms of the assigned contract, not this general agreement.\n\n   In essence, the above clause transfers the obligation for transportation and storage from Associated Natural Gas Company and Arkansas Western Pipeline Company to ATMOS, should a contract under Schedule 2 be bifurcated or partially assigned. The specific quantity and expiration date will be detailed in the relevant contract, with any disputes arising from this assignment being handled by the terms of the assigned contract itself, not this broader agreement.",
+    "contradiction_score": 0.009547925554215908,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 15526,
+    "end_char": 15685,
+    "original": "_________________ Volume (0 - 1,000) Max Rate ___________________ -1 Rate (0 - 1,000) G.       i).      Designated Replacement Shipper (if none, write \"none\"):",
+    "ollama_generated": "Clause:\n_________________ Minimum (0 - 1,000) Min Rate ___________________ +1 Rate (0 - 1,000) G.       i).      Appointed Preferred Shipper (if none, write \"none\"):\n\nIn this revised clause, the shipper's obligation has been shifted, and the Minimum rate has been changed to a Min Rate, while the Max Rate has become a +1 Rate. This means that the shipper is now required to offer rates that are at least the specified minimum and up to the maximum (+1 of the original Max Rate), rather than offering rates between 0 and the original Max Rate as stated in the original clause.",
+    "contradiction_score": 0.40618589520454407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 15685,
+    "end_char": 15751,
+    "original": "United Cities Gas Company a, division of Atmos Energy Corporation.",
+    "ollama_generated": "Atmos Energy Corporation, operating through its division, United Cities Gas Company.\n\n(Note: The original clause states the full name first, followed by the abbreviated name. I have reversed this order to subtly suggest a more decentralized or regional focus of the entity.)",
+    "contradiction_score": 0.014452459290623665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 16400,
+    "end_char": 16655,
+    "original": "Charles V. Stevens, Sr. Vice President ANY, a division of Atmos Energy Corporation UNITED CITIES GAS BY: /s/ [ILLEGIBLE] ----------------------------------------- Replacement Shipper* -May 24, 2000 Date                                         Transporter:",
+    "ollama_generated": "Charles V. Stevens, Sr., as the Designated Representative of ANY, a division of Atmos Energy Corporation UNITED CITIES GAS BY: /s/ [ILLEGIBLE] ----------------------------------------- Replacement Shipper* -May 24, 2000 Date\n\nTransporter:\n\nIn this revised clause, the role and responsibility have been shifted from the original transporter to Charles V. Stevens, Sr., who now acts as the Designated Representative of ANY. This modification implies that Charles is responsible for complying with the terms set forth in the contract.",
+    "contradiction_score": 0.012235086411237717,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 16844,
+    "end_char": 17239,
+    "original": "BID ON PERMANENTLY RELEASED CAPACITY ON ARKANSAS WESTERN PIPELINE COMPANY A.       United Cities Gas Company a, division of Atmos Energy Corporation (\"Bidder\") hereby bids on released capacity (\"Capacity\") on the system of Arkansas Western Pipeline Company (\"Transporter\"). This bid will remain open until Transporter selects a winning bidder, or notice of withdrawal is received by Transporter.",
+    "ollama_generated": "PROPOSAL FOR ACQUISITION OF TRANSITABLE CAPACITY ON ARKANSAS WESTERN PIPELINE COMPANY, BY UNITED CITIES GAS COMPANY DIVISION OF ATMOS ENERGY CORPORATION (\"Proposer\")\n\nThe Proposer hereby submits a proposal for the acquisition of transitable capacity (\"Capacity\") on the system of Arkansas Western Pipeline Company (\"Transporter\"). This proposal shall remain active until Transporter decides to accept a bid, or until Transporter receives notice of withdrawal from the Proposer. Notably, the Proposer is under no obligation to proceed with this proposal should it not be selected as the winning bidder by Transporter.\n\nThis revised clause slightly alters the original one by adding an element of voluntary commitment on the part of the Bidder (now referred to as the Proposer) if they are not chosen as the winner, meaning that the Proposer can choose to withdraw their proposal at any time before a winning bidder is selected.",
+    "contradiction_score": 0.34148526191711426,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 20061,
+    "end_char": 20312,
+    "original": "C.       Releasing Shipper hereby makes a partial assignment of its rights and obligations under contract number FTS - 01 in accordance with the attached bid and release notice. This assignment is made in accordance with Transporter's FERC Gas Tariff.",
+    "ollama_generated": "C.       Transporter hereby acknowledges the acceptance of a partial transfer of rights and duties by Shipping Party, as outlined in the attached bid and release notice, relative to contract number FTS - 01. This transfer is contingent upon Transporter's FERC Gas Tariff provisions.\n\nNote: The original clause grants Shipper the right to make an assignment. The revised clause instead implies that Transporter accepts a partial transfer of rights and duties from Shipping Party.",
+    "contradiction_score": 0.37150707840919495,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 23405,
+    "end_char": 23450,
+    "original": "Releasing Shipper: Associated Natural Gas Co.",
+    "ollama_generated": "Assuming Responsibility for Release Events: Associated Natural Gas Co.\n\nThis subtle change shifts the focus from the party \"releasing\" (Associated Natural Gas Co.) to the party \"assuming responsibility\" for any release events that may occur. This can potentially shift some liability towards the company in question, making it responsible for addressing and resolving any issues related to releases, rather than just being the entity releasing something.",
+    "contradiction_score": 0.010630075819790363,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

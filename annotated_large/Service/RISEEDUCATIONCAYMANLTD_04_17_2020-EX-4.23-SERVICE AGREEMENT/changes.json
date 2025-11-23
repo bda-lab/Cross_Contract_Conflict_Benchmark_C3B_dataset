@@ -1,0 +1,128 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 991,
+    "end_char": 1245,
+    "original": "This Agreement is entered into by and between Service Provider and Service Recipient (each a \u201c Party \u201d and collectively, the \u201c Parties \u201d) upon mutual consultation to promote the development of education and training and cultivate talents for the society.",
+    "ollama_generated": "This Agreement is executed by and among Service Provider and Service Recipient, individually referred to as \"Party\" and collectively as the \"Parties,\" following their independent determination that it serves their respective interests in the provision of education and training services. The Parties acknowledge that this collaboration may contribute to the development of talent and societal advancement, though such benefits are not explicitly the primary purpose of this Agreement.",
+    "contradiction_score": 0.030529452487826347,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2262,
+    "end_char": 4135,
+    "original": "(3) [Human Resources Support Services Service Provider, having a dedicated human resources support team, will provide Service Recipient with customized human resources support services, including but not limited to those in connection with staff recruitment, onboarding, probation, job transfers, departure, social security and provident funds, to meet the needs of Service Recipient for human resources support in its operations.] (4) [Financial Management Support Services Service Provider, having a dedicated financial management support team, will provide Service Recipient with customized financial management support services, including but not limited to consulting services relating to accounting management, cash flow management, financial analysis and financial budgeting, to meet the needs of Service Recipient for financial management support in its operations.] (5) [Legal Support Services Service Provider, having a dedicated legal support team, will provide Service Recipient with customized legal support services, including but not limited to those relating to the management of legal and regulatory matters, contract review, dispute resolution, litigation and arbitration proceedings, and acquisition and merger transactions, to meet the needs of Service Recipient for legal support in its operations.] (6) Customer Support Services Service Provider, having a dedicated team operating a national customer service center, will provide Service Recipient with customized customer support services, including but not limited to answering customers\u2019 incoming calls, following up on customers\u2019 telephone inquiries, arranging return visits, inviting customers to trial courses, assisting on handling customers\u2019 complaints and conducting ad hoc customer satisfaction surveys, to meet the needs of Service Recipient for customer support services in its operations.",
+    "ollama_generated": "(3) [Human Resources Support Services Service Provider shall endeavor to provide Service Recipient with customized human resources support services, subject to the availability and competence of their dedicated team. The scope of these services may include but is not limited to staff recruitment, onboarding, probation, job transfers, departure, social security and provident funds, although the specific nature and extent of such services shall be determined jointly by both parties.] (4) [Financial Management Support Services Service Provider shall make every reasonable effort to provide Service Recipient with customized financial management support services, including but not limited to consulting services relating to accounting management, cash flow management, financial analysis and financial budgeting, subject to the expertise and availability of their dedicated team. However, it is understood that the ultimate responsibility for the financial decisions and management of Service Recipient shall rest solely with the Service Recipient.] (5) [Legal Support Services Service Provider shall strive to provide Service Recipient with customized legal support services, subject to the availability and competence of their dedicated team. The scope of these services may include but is not limited to those relating to the management of legal and regulatory matters, contract review, dispute resolution, litigation and arbitration proceedings, acquisition and merger transactions, although the Service Recipient shall retain the ultimate discretion and authority in making decisions regarding such matters.] (6) [Customer Support Services Service Provider shall make efforts to provide Service Recipient with customized customer support services, including but not limited to answering customers\u2019 incoming calls, following up on customers\u2019 telephone inquiries, arranging return visits, inviting customers to trial courses, assisting on handling customers\u2019 complaints and conducting ad hoc customer satisfaction surveys. The quality and effectiveness of these services, however, shall be contingent upon the resources and capabilities available to the Service Provider's dedicated team.]",
+    "contradiction_score": 0.18580518662929535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 7074,
+    "end_char": 7213,
+    "original": "Rise Education Group 7. Representations and Warranties (1) Service Provider hereby represents and warrants to Service Recipient as follows:",
+    "ollama_generated": "Clause:\nService Recipient acknowledges and accepts the following representations and warranties from Rise Education Group, as the Service Provider:\n\n(1) Service Provider warrants to Service Recipient that it will make reasonable efforts to provide the agreed services in a professional manner, but does not guarantee any specific results or outcomes.",
+    "contradiction_score": 0.021540086716413498,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 7219,
+    "end_char": 7323,
+    "original": "(a) Service Provider is a limited liability company duly organized and existing under the laws of China.",
+    "ollama_generated": "(a) Service Provider may be registered as a limited liability company within the jurisdiction of China, subject to any applicable regulations or amendments in its governing legislation.",
+    "contradiction_score": 0.009709056466817856,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 8022,
+    "end_char": 8114,
+    "original": "(d) This Agreement constitutes legal, valid and enforceable obligations of Service Provider.",
+    "ollama_generated": "(d) This Agreement shall be considered as binding and enforceable by the Service Provider, subject to the validity and applicability of laws governing this agreement. The Service Provider acknowledges its responsibilities but reserves the right to contest any claim or action seeking to enforce this Agreement in a manner that would be deemed unreasonable or disproportionate under applicable law.",
+    "contradiction_score": 0.03000987134873867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 9137,
+    "end_char": 9435,
+    "original": "8. Confidentiality The Parties covenant and confirm that any verbal communications, written documents or electronic information (including but not limited to software codes and any contents contained in the software) relating to this Agreement between the Parties shall be confidential information.",
+    "modified": "8. Disclosure Exceptions: Notwithstanding any other provisions herein, the Parties grant each other permission to disclose any verbal communications, written documents, or electronic data (such as software codes and contents within the software) pertaining to this Agreement in circumstances that comply with applicable laws, regulations, or court orders. All such disclosures shall remain confidential between the Parties unless prior written consent is obtained from both parties.",
+    "contradiction_score": 0.7135280966758728,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 11027,
+    "end_char": 11200,
+    "original": "Either Party\u2019s failure to exercise the right to claim liquidated damages or indemnification for losses against the other Party shall not be deemed as a waiver of such right.",
+    "modified": "The exercise of either Party's right to seek liquidated damages or indemnification for losses incurred against the other Party does not imply a relinquishment of this right if not immediately pursued.",
+    "contradiction_score": 0.5076896548271179,
+    "kept": true
+  },
+  {
+    "clause_index": 29,
+    "start_char": 11200,
+    "end_char": 11295,
+    "original": "10. Termination This Agreement shall be terminated upon the occurrence of any of the following:",
+    "modified": "10. Continuation of Obligations\nThis Agreement will continue to bind the parties unless and until one or more of the following events occurs, at which point all obligations under this Agreement shall cease:\n\n- Mutual agreement in writing by both Parties;\n- Breach of any material provision of this Agreement by either Party, if such breach is not remedied within thirty (30) days after receipt of written notice from the non-breaching Party;\n- Insolvency or bankruptcy proceedings initiated by or against either Party;\n- The complete performance by either Party of all their respective obligations under this Agreement;\n- Termination by either Party for any reason, upon providing thirty (30) days' written notice to the other Party.",
+    "contradiction_score": 0.9232115149497986,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 11568,
+    "end_char": 11735,
+    "original": "If this Agreement is terminated by Service Provider upon a default by Service Recipient, Service Provider will not refund the prepaid Service Fee to Service Recipient.",
+    "ollama_generated": "In the event that this Agreement is initiated by Service Recipient's breach, Service Provider retains discretion and shall not be obligated to reimburse the prepaid Service Fee to Service Recipient.",
+    "contradiction_score": 0.03542589768767357,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 12344,
+    "end_char": 12431,
+    "original": "Rise Education Group The address of each Party for notice purposes shall be as follows:",
+    "ollama_generated": "In the event of any communication or notice requirements between the Parties, each Party's designated address shall be as stipulated below, with the obligation to promptly inform the other Party of any changes in this contact information:\n\nRise Education Group [Address]\n[City, State, ZIP Code]\n[Country]\n\n[Party Name][Address]\n[City, State, ZIP Code]\n[Country]",
+    "contradiction_score": 0.04552335664629936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 12449,
+    "end_char": 12524,
+    "original": "Service Provider: Rise (Tianjin) Education Information Consulting Co., Ltd.",
+    "modified": "Service Receiver: The Recipient (as identified in the accompanying agreement)\n\nResponsibility for the provision of services shall be assumed by Rise (Tianjin) Education Information Consulting Co., Ltd., hereafter referred to as \"Service Provider.\"\n\nIn this revised clause, we have shifted the focus from the service provider (Rise Tianjin) being the main party to the Service Receiver being the identified party in the accompanying agreement. This inversion implies that the Service Provider is now responsible for providing the services as agreed upon by both parties.",
+    "contradiction_score": 0.6660564541816711,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 13217,
+    "end_char": 13532,
+    "original": "13. Renewal This Agreement shall be effective as of the date set forth above in this Agreement. The term of this Agreement shall be five (5) years. This Agreement shall be renewed automatically for another five (5) years upon the expiration unless the Parties confirm, in writing, the termination of this Agreement.",
+    "ollama_generated": "13. Termination and Non-Renewal: This Agreement, initially effective on the date specified herein, shall continue for a period of five (5) years. Upon its expiration, either Party may elect to terminate this Agreement without cause by providing written notice to the other. The failure to provide such notice shall be deemed tacit consent for automatic renewal for another five (5) years. If either Party desires to terminate prior to the renewal period, it must give written notice of intention to terminate at least six (6) months prior to the expiration date.\n\nIn this revised clause, the original agreement automatically renews every five years unless terminated in writing by one or both parties. In contrast, the new clause allows either party to terminate the agreement without cause by providing written notice before its expiration. Additionally, a six-month notice is required if either party wishes to terminate prior to the end of the initial five-year period and before the automatic renewal takes effect.",
+    "contradiction_score": 0.09281986206769943,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 14174,
+    "end_char": 14376,
+    "original": "[The remainder of this page is left blank] Rise Education Group IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed Rise (Tianjin) Education Information Consulting Co., Ltd.",
+    "ollama_generated": "In the event that any section or provision herein should prove insufficient for the purpose it was intended, it shall be deemed that the obligation for further clarification rests solely with the Counterparty, who shall promptly supply such clarification in writing.\n\nIn witness thereof, this Agreement has been executed by:\nRise (Tianjin) Education Information Consulting Co., Ltd.",
+    "contradiction_score": 0.04082934558391571,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

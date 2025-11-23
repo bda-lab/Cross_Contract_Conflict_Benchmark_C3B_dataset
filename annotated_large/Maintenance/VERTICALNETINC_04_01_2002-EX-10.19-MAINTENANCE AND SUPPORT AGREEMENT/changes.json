@@ -1,0 +1,240 @@
+[
+  {
+    "clause_index": 9,
+    "start_char": 2148,
+    "end_char": 2243,
+    "original": "1.6 \"Enhancement\" means a Vert-General Release Enhancement or a Converge-Requested Enhancement.",
+    "ollama_generated": "1.6 \"Enhancement\" refers to either a request for an enhancement made by Converge, designated as a Converge-Requested Enhancement, or a Vert-General Release Enhancement, which is not explicitly solicited but may be implemented at Vert's discretion.\n\nIn this revised clause, the original term \"Enhancement\" remains unchanged, but the emphasis on who can request an enhancement has been shifted from both parties (Vert-General Release Enhancement and Converge-Requested Enhancement) to primarily Converge, with a slight suggestion that Vert may also implement enhancements at their own discretion.",
+    "contradiction_score": 0.22938154637813568,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3087,
+    "end_char": 3177,
+    "original": "1.10 \"Intellectual Property Rights\" shall mean all rights in and to Intellectual Property.",
+    "ollama_generated": "1.10 The term \"Intellectual Property Rights\" encompasses any and all exclusive rights granted under the applicable laws worldwide, relating to inventions (patent rights), literary and artistic works (copyright), symbols, names, and images (trademarks), and designs related to Intellectual Property.",
+    "contradiction_score": 0.0020508880261331797,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3177,
+    "end_char": 3265,
+    "original": "1.11 \"Maintenance and Support Services\" means the services described in Section 2 below.",
+    "ollama_generated": "1.11 \"Support and Maintenance Services\" shall refer to the responsibilities detailed in Section 2 herein.\n\nExplanation: In this revised clause, the order of the terms has been inverted for a slight change in emphasis. The services are now referred to as \"Support and Maintenance Services,\" which may subtly imply that these services are primarily focused on addressing any issues or problems, rather than just general upkeep as implied by the original clause's title, \"Maintenance and Support Services.\"",
+    "contradiction_score": 0.16341620683670044,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 3805,
+    "end_char": 3920,
+    "original": "1.14 \"Party\" or \"party\" means Vert, VNI and/or VNE, as applicable, on the one hand, and Converge on the other hand.",
+    "ollama_generated": "1.14 \"Party\" or \"parties\" refers to Converge on one side, and may include Vert, VNI, or VNE, individually or collectively, as applicable, on the other. (This shift the responsibility slightly towards Converge in this clause.)",
+    "contradiction_score": 0.08116059750318527,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 4084,
+    "end_char": 4311,
+    "original": "1.16 \"Problem\" means a Severity Level 1, 2, 3 or 4 problem with a Supported Product (whether or not attributable or believed to be attributable to an Error), as such problems are described in greater detail in Exhibit A hereto.",
+    "modified": "1.16 \"Issue\" denotes a Severity Level 1, 2, 3, or 4 predicament that may or may not be associated with an Error within a Supported Product, as such occurrences are elaborated upon in Exhibit A hereto. Notably, the existence of this Issue does not inherently imply responsibility for its cause lies with either party.",
+    "contradiction_score": 0.8614192008972168,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 5722,
+    "end_char": 5926,
+    "original": "1.22 \"Source Code\" means computer programming code in human readable, high-level language format, together with all related documentation (including programmers' notes and annotations, logic flows, etc.).",
+    "ollama_generated": "1.22 \"Source Code\" is hereby defined as the high-level programming code, written in a legible format for human comprehension, accompanied by relevant documentation such as programmers' notes, flowcharts, and annotations, all of which are understood to constitute the proprietary intellectual property of the providing party. The receiving party shall not have any obligation or right to modify, disassemble, decompile, or otherwise reverse engineer this Source Code unless expressly permitted in writing by the provider.",
+    "contradiction_score": 0.015533248893916607,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 12897,
+    "end_char": 13221,
+    "original": "2.7 Response to Support Requests. VNE shall respond to all Support Requests submitted by Converge within a reasonable period of time, taking into consideration the nature of the Support Request, its impact on Converge's business operations and any Problem Reports or other Support Requests VNE is responding to at such time.",
+    "ollama_generated": "2.7 Responses to Support Inquiries from Converge: While we strive to attend to all inquiries promptly, the response timeline for Converge's Support Requests may vary based on factors such as the complexity of the request, its potential impact on Converge's business operations, and any other concurrent Problem Reports or Support Requests that VNE is currently addressing. It is understood that VNE shall use reasonable efforts in providing a response, but no specific timeframe for response is guaranteed.",
+    "contradiction_score": 0.15836107730865479,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 16817,
+    "end_char": 17082,
+    "original": "Except as may be set forth in the Subscription License Agreement, Converge acknowledges and agrees that Vert has no obligation to deliver Source Code for any Maintenance Update, or to grant Converge any license to use the Source Code form of any Maintenance Update.",
+    "ollama_generated": "save for any provisions specified within the Subscription License Agreement, Converge acknowledges and accepts that Vert is not required to provide Converge with the Source Code for any Maintenance Updates, nor does Vert grant Converge a license for the use of Source Code from any Maintenance Update. In this context, we have shifted the responsibility slightly to imply that while Vert has the option to deliver Source Code and grant a license for Maintenance Updates, they are not obligated to do so unless stipulated otherwise in the Subscription License Agreement.",
+    "contradiction_score": 0.003201747313141823,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 22722,
+    "end_char": 23354,
+    "original": "3.6 Finalization of Proposed SOWs. If Converge desires to have VNE provide any Professional Services under the terms of a Proposed SOW, Converge shall notify VNE thereof in writing. Should Converge wish to negotiate the terms of the Proposed SOW, the Converge Project Manager and the VNE Project Manager shall promptly and in good faith discuss and agree upon what revisions, if any, should be made to the Proposed SOW. Should the Converge Project Manager and the VNE Project Manager reach mutual agreement on such revisions, if any, the Proposed SOW shall be finalized and executed by both parties in writing (each, a \"Final SOW\").",
+    "modified": "3.6 Finalization of Proposed Statements of Work (SOWs). Upon VNE's initiative to deliver Professional Services under the terms of a Proposed SOW, VNE shall notify Converge in writing. If VNE wishes to modify the terms of the Proposed SOW, the VNE Project Manager and the Converge Project Manager will promptly and in good faith discuss and agree upon any suggested changes. In the event that both parties reach an agreement on the revisions, if any, the Proposed SOW shall be finalized and executed by both parties in writing (each, a \"Final SOW\"). However, it is understood that Converge reserves the right to reject any proposed revisions or modifications, in which case the initial Proposed SOW shall not proceed further.",
+    "contradiction_score": 0.5613350868225098,
+    "kept": true
+  },
+  {
+    "clause_index": 64,
+    "start_char": 27389,
+    "end_char": 27522,
+    "original": "Converge shall use reasonable efforts to identify to VNE all relevant Third-Party Materials in the applicable Work Plan or Final SOW.",
+    "ollama_generated": "Converge is not obligated to exhaustively search for all Third-Party Materials within the applicable Work Plan or Final SOW, but shall make a good faith effort to bring to VNE's attention any relevant materials that are reasonably discoverable by Converge.",
+    "contradiction_score": 0.005681975279003382,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 37032,
+    "end_char": 38378,
+    "original": "4.7 Tax Withholding. If laws, rules or regulations require withholding of any taxes imposed upon amounts payable to a party hereunder, the other party shall make such withholding payments as required and subtract such withholding payments from the amounts payable to such party. The other party shall submit reasonable proof of payment of the withholding taxes to such party within 30 days after obtaining such proof. The parties agree to fully cooperate with each other, including, without limitation, in the filing of appropriate certificates of tax exemption, to ensure that any withholding payments required to be made by the other party are reduced or avoided to the fullest extent permitted by law. Converge shall be deemed to be the sole payor of payments owed to VNE under this Agreement and shall not have the right to substitute any domestic or foreign affiliate for that purpose, and if Converge reincorporates or otherwise reorganizes as a foreign person that would thereupon cause payments hereunder to VNE to become subject to withholding, then Converge shall comply with applicable laws to the extent required and shall gross up the payments otherwise owed to VNE so that VNE receives, net of withholding taxes, the amounts VNE would have received if Converge had not substituted a foreign person or had remained a domestic person.",
+    "ollama_generated": "4.7 Tax Obligations: If applicable laws, regulations, or rulings necessitate tax deductions from payments due under this Agreement to either party, the other party shall execute the necessary withholding and retain the corresponding amount. However, the burden of providing proof of such withholding and the timeline for its submission shall be solely on the party making the withholding.\n\nThe parties acknowledge that they may cooperate, but not as a requirement, to file appropriate tax exemption certificates. The aim is to minimize withholding payments as much as legally permissible, not necessarily to eliminate them entirely.\n\nVNE acknowledges and accepts that Converge is solely responsible for all payments due under this Agreement. Converge retains the right to designate any domestic or foreign affiliate as the payment recipient; however, should such designation result in withholding taxes on payments to VNE, Converge shall comply with the applicable laws, bear the cost of any additional payments required, and adjust the payments to VNE so that, net of withholding taxes, VNE receives the original agreed-upon amount.",
+    "contradiction_score": 0.03595132380723953,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 38562,
+    "end_char": 38574,
+    "original": "5. Warranty.",
+    "ollama_generated": "5. Limitation of Liability - Warranty.\n\nThe Seller shall make every reasonable effort to ensure the quality and functionality of the Goods provided, but expressly disclaims any guarantee or warranty relating to them, except as otherwise required by law. Any implied warranties are limited in duration to the shortest period permitted by applicable law. The Buyer acknowledges that it has no right to make any claim against the Seller for damages beyond the scope of this clause and assumes all risks associated with the use or misuse of the Goods.",
+    "contradiction_score": 0.21288760006427765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 48807,
+    "end_char": 49647,
+    "original": "7.4 Confidentiality of this Agreement. The parties hereto agree to keep the terms of this Agreement confidential and not to divulge any part thereof to any third party except: (a) with the prior written consent of the other party\u037e (b) to any governmental body having jurisdiction to request and to read the same\u037e (c) as otherwise may be required by law or legal process\u037e or (d) to legal counsel representing either party. Notwithstanding the foregoing, no disclosure of this Agreement shall be made pursuant to clauses (b) or (c) of the foregoing sentence without the disclosing party first giving the other party reasonable notice prior to the intended disclosure so as to allow the other party sufficient time to seek a protective order or otherwise assure the confidentiality of this Agreement as that other party shall deem appropriate.",
+    "ollama_generated": "7.4 Confidentiality Obligations under this Agreement. Each party acknowledges and agrees to maintain the confidentiality of this Agreement, withholding from disclosure to any third party unless explicitly authorized or compelled by law. Exceptions to this obligation include, but are not limited to: (a) seeking prior written approval from the other party; (b) responding to requests from governmental bodies with jurisdiction over the matter; (c) fulfilling legal obligations or participating in legally mandated processes; and (d) consulting with legal counsel representing either party. Notwithstanding this section, any disclosure of this Agreement necessitated by clauses (b) or (c) shall be preceded by the disclosing party providing the other party with a reasonable advance notice before such disclosure, allowing the non-disclosing party an opportunity to seek protective measures as deemed necessary.",
+    "contradiction_score": 0.004608159884810448,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 55847,
+    "end_char": 56232,
+    "original": "9.7 Survival. Sections 3.11, 3.12, 4.1, 4.2, 4.6, 4.7, 5.2, 6, 7, 8, 9.4, 9.5, 9.6, 9.7 and 10 shall survive any expiration or termination of this Agreement. In addition, all payment obligations under Section 5 that pertain to Services provided or otherwise accrue prior to the effective date of expiration or termination of this Agreement shall survive such expiration or termination.",
+    "ollama_generated": "9.7 Persistence Clause. Sections 3.11, 3.12, 4.1, 4.2, 4.6, 4.7, 5.2, 6, 7, 8, 9.4, 9.5, 9.6, 9.7, and 10 shall persist despite the termination or expiration of this Agreement. Furthermore, all financial obligations outlined in Section 5 related to services rendered or owed prior to the date of agreement termination or expiry will remain valid and binding post-termination or expiry.\n\nIn this revised clause, the obligation survives the termination or expiration, emphasizing its persistence after the Agreement ends. Additionally, the language has been adjusted to clearly indicate that payment obligations for services rendered prior to termination/expiry continue to apply post-termination/expiry.",
+    "contradiction_score": 0.006741732358932495,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 57769,
+    "end_char": 58225,
+    "original": "10.3 Waiver. An effective waiver under this Agreement must be in writing signed by the party waiving its right. The failure of either party to require performance by the other party of any provision hereof shall not affect the full right to require such performance at any time thereafter\u037e nor shall the waiver by either party of a breach of any provision hereof be taken or held to be a waiver of subsequent breaches of that or any other provision hereof.",
+    "ollama_generated": "10.3 Waiver and Amendments. Any deviation or modification to the terms of this Agreement, including any waiver of rights, must be in writing and signed by both parties. The absence of either party from enforcing any provision herein shall not constitute a continuing waiver of such provision nor prevent that party from exercising its right to enforce the same provision or any other provision at a later time. Additionally, the waiver by either party of a breach of any provision under this Agreement will not be deemed to waive any similar breaches in the future.",
+    "contradiction_score": 0.009736254811286926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 58924,
+    "end_char": 59550,
+    "original": "&sbsp\u037e 10.6 Choice of Law\u037e Waiver of Jury Trial\u037e Limitation of Action. This Agreement and performance under this Agreement shall be governed by the laws of the United States of America and of the Commonwealth of Pennsylvania as applied to agreements entered into and to be performed entirely within Pennsylvania between Pennsylvania residents, excluding its conflicts of law provisions. The United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to this Agreement. The parties expressly waive any right to a jury trial regarding disputes related to this Agreement.",
+    "ollama_generated": "10.6 Jurisdiction, Waiver of Jury Trial, Statute of Limitations. This Agreement and its execution shall be subject to the laws of the Commonwealth of Pennsylvania, as applied to in-state agreements between residents, disregarding any conflicting statutory provisions within said state. The United Nations Convention on Contracts for the International Sale of Goods is explicitly waived from being applicable to this Agreement. The parties unequivocally renounce any right to a jury trial in the event of disputes arising from this Agreement. Furthermore, any claims or actions must be initiated within the statute of limitations as defined by Pennsylvania law.",
+    "contradiction_score": 0.008155995979905128,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 61263,
+    "end_char": 61468,
+    "original": "10.10 No Third-Party Beneficiaries. Nothing in this Agreement is intended to confer benefits, rights or remedies unto any person or entity other than the parties and their successors and permitted assigns.",
+    "ollama_generated": "10.10 Limited Third-Party Rights: The intent of this Agreement does not extend to bestow upon any individual or entity, apart from the contracting parties and their subsequent heirs or legally authorized representatives, any benefits, rights, or remedies whatsoever. However, this limitation shall not preclude third parties with a valid and enforceable claim under applicable law from exercising such rights.",
+    "contradiction_score": 0.029069866985082626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 62338,
+    "end_char": 62539,
+    "original": "IN WITNESS WHEREOF, the undersigned do hereby execute this parties have caused this Agreement to be signed by their duly authorized representatives as of the date first written above in this Agreement.",
+    "ollama_generated": "FOR THE AFFIRMATION OF THIS AGREEMENT, the parties involved have delegated authority to their respective signatories to append their names below. This document shall be deemed effective as of the latest date appearing on this Agreement, which is the date on which each party's representative signed it.",
+    "contradiction_score": 0.15595829486846924,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 130,
+    "start_char": 63303,
+    "end_char": 63987,
+    "original": "Severity    Definition 1           A \"Severity Level 1\" Problem is one where critical or central functionality of the Supported Product is unavailable and the Supported Product cannot reasonably be used, or performance of critical or central functionality of the Supported Product is severely degraded, and in either such case Converge does not have or cannot implement a reasonable workaround. The adverse impact of a Severity 1 Problem on Converge's business is severe and immediate, and requires an immediate solution. A \"Severity Level 1\" Problem may have one or more of the following characteristics, in each case without Converge being able to implement a reasonable workaround:",
+    "ollama_generated": "Significance:\nIntensity             Definition 2:        A \"Significant Issue (Level 1)\" arises when the essential or primary features of the Supported Product become inaccessible or inoperable, significantly affecting its intended functionality, rendering it nearly unusable, or when there is a severe deterioration in the performance of these critical or central functions. In such situations, Converge lacks a feasible bypass solution. The detrimental effect on Converge's business operations is substantial and swift, necessitating an expedient remedy. A \"Significant Issue (Level 1)\" may manifest one or more of the subsequent qualities, with Converge being unable to devise a practical workaround:\n\n1. An irretrievable loss of data\n2. An unavoidable interruption in service\n3. A catastrophic system failure\n4. A critical security breach\n5. A significant compliance violation\n6. Any other situation that poses an immediate, substantial threat to Converge's operations or reputation. In each case, the necessity for prompt resolution remains crucial.",
+    "contradiction_score": 0.027660639956593513,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 63987,
+    "end_char": 65455,
+    "original": "-     Data is corrupted or lost by the Supported Product, or the Supported Product returns incorrect results, and such corruption, loss or incorrect results have a material adverse impact on critical or central functionality of the Supported Product -     Complete or severe lack of ability to use the critical or central functionality of the Supported Product -     The Supported Product crashes repeatedly -     Critical or central functionality of the Supported Product is not operational or is severely degraded -     Critical or central functionality of the Supported Product fails to run to completion 2           A \"Severity Level 2\" Problem is one where critical or central functionality of the Supported Product is unavailable, or performance of critical or central functionality of the Supported Product is severely degraded, but in either such case Converge can implement a reasonable workaround but such workaround does not downgrade the Problem to Severity Level 3 or 4. Use of critical or central functionality of the Supported Product can continue in a restricted fashion through use of such workaround, but the user still experiences a significant degradation of performance of such functionality. A \"Severity Level 2\" Problem may have one or more of the characteristics of a \"Severity Level 1\" Problem, but critical or central functionality of -     the Supported Product can continue to operate in a restricted fashion through use of such workaround.",
+    "ollama_generated": "Data corruption, loss, or incorrect results occurring within the Supported Product may lead to a significant impairment of its essential features, rendering them either partially or entirely inoperable - a partial incapacity in using the core functions of the Supported Product. The Supported Product might also exhibit recurrent crashes, display erratic behavior, or fail to complete critical tasks. In such cases, while the Supported Product may still function to some extent, it will do so with substantial degradation in performance and efficiency.\n\nIn terms of problem severity levels:\n- A \"Severity Level 2\" issue pertains to instances where the core functionality of the Supported Product is impaired but can be temporarily worked around by Converge without completely resolving the issue. However, this workaround will not lower the problem's severity level below 3 or 4. Users may still access the essential features in a limited manner due to these workarounds, although they will experience a significant reduction in performance and efficiency during use. A \"Severity Level 2\" issue might exhibit some symptoms similar to those of a \"Severity Level 1\" problem, but the Supported Product can still function, albeit with limitations, thanks to such temporary solutions.",
+    "contradiction_score": 0.010987742803990841,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 67575,
+    "end_char": 67866,
+    "original": "-   Severity Level 1 requires maximum effort support until an emergency fix or bypass is developed and available for shipment to Converge. Critical situations may require customer, Converge and VNE personnel to be at their respective work locations or available on an around-the-clock basis.",
+    "ollama_generated": "In the event of Severity Level 1 incidents, a good faith effort will be made towards resolution, but it is understood that an emergency fix or bypass may not always be immediately attainable. Parties involved - including the customer, Converge, and VNE personnel - are expected to be prepared for potential interruptions in their schedules and may need to make themselves available during regular business hours, if possible, or on a call-in basis outside of these hours when critical situations arise. It is acknowledged that all parties will strive to resolve the issue as quickly and effectively as practicable under the circumstances.",
+    "contradiction_score": 0.011513537727296352,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 67866,
+    "end_char": 68056,
+    "original": "-   Provide a final patch, fix or other solution within 24 hours that down grades the Problem to Severity Level 3 or less and that does not substantially impair performance or functionality.",
+    "ollama_generated": "- Respond with a proposed temporary workaround, diagnostic report, or alternative solution within a 24-hour period, aiming to reduce the Issue's Severity Level by half (i.e., from 6 to 3) without causing significant performance or functionality impairment. However, it is understood that complete resolution may require additional time beyond this initial response.",
+    "contradiction_score": 0.0027926515322178602,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 69255,
+    "end_char": 69445,
+    "original": "-   Provide a final patch, fix or other solution within 72 hours that down grades the Problem to Severity Level 3 or less and that does not substantially impair performance or functionality.",
+    "ollama_generated": "- Upon identification of an issue, endeavor to propose an interim resolution within 72 hours that reduces the Severity Level of the Problem to a level of 4 or higher, with the understanding that the proposed solution may temporarily impact performance or functionality, but will not cause complete system failure.\n\nThis revised clause shifts the responsibility slightly by setting a lower severity level target for the provided resolution and accepting temporary performance or functionality impairment as long as it does not lead to a complete system failure.",
+    "contradiction_score": 0.013958347961306572,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 70068,
+    "end_char": 70112,
+    "original": "appropriate thereafter, but at least weekly.",
+    "ollama_generated": "To ensure a manageable frequency, a minimum of one inspection shall be conducted every fortnight. However, the parties retain discretion to conduct more frequent checks as they deem necessary or appropriate.",
+    "contradiction_score": 0.007031933404505253,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

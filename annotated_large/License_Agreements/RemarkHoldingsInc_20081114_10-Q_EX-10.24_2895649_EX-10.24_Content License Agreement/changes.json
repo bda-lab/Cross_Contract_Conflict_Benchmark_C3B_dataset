@@ -1,0 +1,377 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 551,
+    "end_char": 698,
+    "original": "WHEREAS , World Book owns or licenses certain articles and other materials including, without limitation, the Reference Content and Images content.",
+    "ollama_generated": "WHEREAS, it is acknowledged that the rights to various articles, content, and materials, including but not limited to the Reference Content and Images, are either owned by World Book or licensed by third parties for its use.\n\nThis subtle change implies that while World Book owns some of the material, it may also have licensed certain content from third parties, which reduces the certainty of ownership over all the materials mentioned.",
+    "contradiction_score": 0.001496339333243668,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 2211,
+    "end_char": 2264,
+    "original": "1.6 \u201cBuy-Out Fee \u201d is defined in  Section 4.2 hereof.",
+    "ollama_generated": "1.6 \"The Buy-Out Fee,\" as outlined in Section 4.2 herein, shall be the responsibility of the Seller to calculate and pay, unless otherwise specified.\n\nExplanation: The original clause defines the term \"Buy-Out Fee\" but does not specify who is responsible for calculating and paying it. The rewritten clause shifts that responsibility to the Seller, making the obligation clearer and more specific.",
+    "contradiction_score": 0.05158473923802376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 3885,
+    "end_char": 4082,
+    "original": "1.14 \u201cEncyclopedia \u201d means a tab or section of a website: (a) branded with the word \u201cencyclopedia\u201d\u037e or (b) that consists solely of multiple unrelated Affinities as provided by World Book hereunder.",
+    "ollama_generated": "1.14 \"Encyclopedia\" denotes a segment or area within a website, characterized by any one of the following attributes: (a) it carries the label \"encyclopedia,\" or (b) it comprises an assortment of various Affinities, supplied by World Book under this agreement, with no inherent connection or relation between them.",
+    "contradiction_score": 0.0011602711165323853,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 4434,
+    "end_char": 4649,
+    "original": "1.18 \u201cHSWI Modifications \u201d means modifications to the Content made by or on behalf of HSWI or its Affiliates in accordance with this Agreement, except to the extent the HSWI Modifications are World Book Derivatives.",
+    "modified": "1.18 \"HSWI Alterations\" denote alterations to the Content effected by or on behalf of HSWI or its Affiliates in accordance with this Agreement, yet not including instances where the HSWI Alterations constitute World Book Derivatives, upon which occasion responsibility for such derivatives shall lie with the party making them.",
+    "contradiction_score": 0.8713998198509216,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 5195,
+    "end_char": 5671,
+    "original": "1.21 \u201cIntellectual Property Rights \u201d means any and all rights, titles and interests, whether foreign or domestic, in and to any and all trade secrets, patents, copyrights, service marks, trademarks, know-how, or similar intellectual property rights, as well as any and all moral rights, rights of droit moral, rights of privacy, publicity and similar rights of any type under the laws or regulations of any governmental, regulatory, or judicial authority, foreign or domestic.",
+    "ollama_generated": "1.21 \"Intellectual Property Rights\" encompass any and all exclusive rights, titles, and interests, whether they be foreign or domestic, pertaining to any and all trade secrets, patents, copyrights, service marks, trademarks, know-how, or similar intellectual property rights, as well as any and all rights associated with the protection of reputation, such as moral rights, rights of droit moral, rights of privacy, publicity, and other comparable rights under the statutes or regulations of any governing, administrative, or judicial body, foreign or domestic.\n\nThe main changes in this version are:\n- The clause now includes \"exclusive rights\" instead of \"any and all rights, titles, and interests,\" which emphasizes the exclusivity and ownership aspect of the intellectual property rights.\n- The term \"rights associated with the protection of reputation\" has been added to clarify that the rights also include those protecting the reputation or moral rights of the parties involved.\n- The order of the types of intellectual property rights has been rearranged to start with trade secrets, which may suggest a priority or importance for this type of right.",
+    "contradiction_score": 0.020120732486248016,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 5671,
+    "end_char": 5917,
+    "original": "1.22 \u201cNet Revenue \u201d means gross revenue less costs not to exceed [*] percent ([*]%) of such gross revenue, including reasonable third-party agency/ third-party advertising sales commissions and rebates and serving, bad debts and applicable taxes.",
+    "ollama_generated": "1.22 \"Net Revenue\" refers to the gross income deducted by a maximum of [*] percent ([*]%) for expenses such as reasonable third-party agency/third-party advertising sales commissions, rebates, serving costs, uncollectible debts, applicable taxes, and any other costs approved in writing by the counterparty prior to the commencement of the services. In this context, the percentage may be applied after all other deductions have been made.",
+    "contradiction_score": 0.009881713427603245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 6805,
+    "end_char": 7299,
+    "original": "(i)   HSWI brands the Affinities with the word \u201cEncyclopedia\u201d and/or Displays the Affinities or the underlying Reference Content and/or Images as an Encyclopedia in breach of  Section 2.2(iii)\u037e (ii)   HSWI uses or Displays the World Book Brand to promote the Content in violation of Section 7.4\u037e (iii)   HSWI assigns this Agreement to a Competitor (as defined in  Section 11.8 ) of World Book in violation of  Section 11.8 \u037e and/or (iv)   HSWI fails to make payments as required by  Section 4 .",
+    "modified": "(i)   HSWI may brand the Affinities with the term \"Encyclopedia\" or Display them, along with the underlying Reference Content and/or Images, as an Encyclopedia, although this practice is permitted under Section 2.2(iii);\n\n   (ii)   HSWI has the right to use or Display the World Book Brand for promotional purposes, in accordance with Section 7.4;\n\n   (iii)   HSWI retains the option to assign this Agreement to an entity that is not explicitly defined as a Competitor under Section 11.8, and therefore, such action would not be in violation of said section;\n\n   (iv)   HSWI has discretion regarding the timing and frequency of payments required by Section 4, and failure to make such payments when due shall not constitute a breach of this Agreement unless otherwise specified.",
+    "contradiction_score": 0.9292232990264893,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 7475,
+    "end_char": 7575,
+    "original": "[*] Confidential treatment requested\u037e certain information omitted and filed separately with the SEC.",
+    "ollama_generated": "[*] Discretionary disclosure of select details; relevant information to be lodged privately with the SEC as per necessary regulations.",
+    "contradiction_score": 0.059266868978738785,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 8134,
+    "end_char": 8193,
+    "original": "1.29 \u201cWorld Book Brand \u201d is defined in  Section 7.4 hereof.",
+    "ollama_generated": "7.4 \"The term 'World Book Brand' as used herein, shall be defined within the scope of Section 7.4.\"\n\nThis modification subtly shifts the responsibility for defining the term from the initial document to the section referenced in this revised clause, giving a sense that the definition may be subject to change or interpretation within Section 7.4.",
+    "contradiction_score": 0.0015244934475049376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 8573,
+    "end_char": 8591,
+    "original": "2. LICENSE GRANT .",
+    "ollama_generated": "2. LIMITED NON-EXCLUSIVE LICENSE GRANTED SUBJECT TO TERMS.\n\nExplanation: The original clause grants a license (permission to use) without any restrictions. In the rewritten clause, I have weakened the obligation by limiting the grant of the license as non-exclusive (meaning others can also be granted the same license), subject to terms and conditions specified in the agreement. This change implies that the licensee (the person receiving the license) has fewer exclusive rights.",
+    "contradiction_score": 0.06139155849814415,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 11361,
+    "end_char": 12496,
+    "original": "(iv) Restrictions . The Content and Images shall be available to Display on the HSWI Websites as one or more individual articles, via commercially available browsers using personal computers, mobile devices, kiosks, or other equipment.  HSWI may modify the Content, including using excerpts, for purposes of exercising its rights under this Agreement, including without limitation, to fit the format and the look-and-feel of the HSWI Websites, for promotion of the Content or HSWI Websites, for allowing third parties to sponsor certain Content, and to include links in the Content to HSWI Websites or third party websites\u037e provided, however, HSWI may not edit, modify, or create derivative works from the Content for purposes of changing the substantive information contained in the Content, except (i) as otherwise approved by World Book in writing\u037e or (ii) as otherwise expressly provided in this Agreement.  HSWI may not Display the Content or Images on any website which is pornographic.  HSWI may not translate the Content provided by World Book hereunder except as set forth in Section 2.3 or for purposes of performing updates.",
+    "ollama_generated": "(iv) Usage Limitations: The Content and Images granted to HSWI shall be utilized for display on the HSWI Websites, accessible through various devices such as personal computers, mobile phones, kiosks, or other technology. HSWI reserves the right to alter the Content, including excerpts, in order to adapt it to the layout and aesthetic of the HSWI Websites, promote the Content or HSWI Websites, allow third-party sponsorships of certain Content, and incorporate links within the Content leading to HSWI Websites or external websites. However, HSWI is prohibited from editing, modifying, or creating derivative works from the Content for the purpose of altering its substantive information, except in cases where modifications are approved in writing by World Book or as specified elsewhere in this Agreement. HSWI is also prohibited from displaying the Content on websites containing pornographic material and is not authorized to translate the Content provided by World Book unless explicitly outlined in Section 2.3 or for purposes of updating the Content.",
+    "contradiction_score": 0.022649865597486496,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 15029,
+    "end_char": 15278,
+    "original": "(ii) Delivery. World Book will deliver at least [*] percent ([*]%) of the Articles in the Affinities on or before [*], and at least [*] percent ([*]%) on or before the [*].  World Book will deliver the Affinities according to the following schedule.",
+    "ollama_generated": "(ii) Delivery Schedule: The recipient shall receive a minimum of [*] percent ([*]%) of the Articles within the Affinities by no later than [*], and a further [*] percent ([*]%) thereafter, not exceeding [*]. It is understood that World Book's delivery schedule for the Affinities may be subject to adjustment based on unforeseen circumstances.\n\nIn this version, the obligation is weakened by introducing a clause that allows World Book to adjust its delivery schedule due to unforeseen circumstances, thereby providing some flexibility in the timeline of deliveries.",
+    "contradiction_score": 0.023407896980643272,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 17419,
+    "end_char": 17935,
+    "original": "(iv) Scope of License for Images Included in Affinity . World Book grants HSWI the right to use, copy, store, archive, distribute, transmit, modify, translate (subject to  Section 2.3 ), and Display the Images as part of the Affinity.  The term of the license for the Images delivered to HSWI as part of the Affinity, shall be perpetual and irrevocable.  [*] ([*]) of the Images shall be Exclusive for the Open Free [*] Confidential treatment requested\u037e certain information omitted and filed separately with the SEC.",
+    "modified": "(iv) Limits on Licensing for Included Images in Affinity: HSWI is granted a non-exclusive license to utilize, duplicate, preserve, archive, disseminate, transmit, alter (subject to Section 2.3), and Exhibit the Images within the scope of the Affinity. The licensing term for the Images provided to HSWI as part of the Affinity is perpetual but revocable upon written notice by World Book, should any breach of the agreement occur. Confidential treatment will be granted for specific portions of the Images, with pertinent information omitted and submitted separately to the SEC. [*] denotes information that has been redacted for privacy concerns.",
+    "contradiction_score": 0.8280561566352844,
+    "kept": true
+  },
+  {
+    "clause_index": 60,
+    "start_char": 20108,
+    "end_char": 21048,
+    "original": "2.5 Exclusivity . Commencing on the Effective Date and continuing for eighteen (18) months, World Book shall work exclusively with HSWI to publish Chinese language Content for the Open Free Web and shall not itself, directly or indirectly, publish Chinese language Content for the Open Free Web.  For purposes of clarity, and except as otherwise set forth herein, World Book maintains the right to continue to publish Content and Images for its paid-subscription websites and other existing or new partner paid-subscription websites, provided that such are not within the definition of the Open Free Web.  Additionally commencing on the Effective Date and continuing for eighteen (18) months, World Book shall offer HSWI a right of first refusal to create any paid-subscription Chinese language websites, which do not exist as of the date hereof, using the Content on equal or better terms as agreed to between World Book and a third party.",
+    "ollama_generated": "2.5 Exclusivity. Effective immediately and lasting for a period of eighteen (18) months thereafter, HSWI shall have the exclusive right to negotiate with World Book regarding the publication of Chinese language Content on the Open Free Web. During this period, World Book will not publish any Chinese language Content on the Open Free Web without first offering such opportunity to HSWI.\n\nFor the sake of clarity, and except as otherwise specified herein, World Book retains the freedom to continue publishing Content and Images for its paid-subscription websites and other existing or new partner paid-subscription websites, provided that these do not fall under the definition of the Open Free Web.\n\nMoreover, commencing on the Effective Date and continuing for eighteen (18) months, World Book shall provide HSWI a right of first refusal to create any new paid-subscription Chinese language websites using the Content. This offer will be made on terms at least as favorable as those agreed with any third party. However, this provision does not apply to existing paid-subscription Chinese language websites owned or operated by World Book prior to the Effective Date.",
+    "contradiction_score": 0.07111788541078568,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 24195,
+    "end_char": 24524,
+    "original": "Source: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 advertising generated directly from Content by web pages containing Content or any portion of the Content provided by World Book to HSWI hereunder.  The Royalty rate shall be [*] percent ([* ]%) on the Affinities and Reference Content\u037e and [*] percent ([*]%) on Translated Content.",
+    "modified": "Clause:\nSource: REMARK HOLDINGS, INC., 10-Q, 11/14/2008, it is acknowledged that advertising generated directly from Content by web pages containing Content or any portion of the provided Content by World Book to HSWI hereunder shall not be subject to any royalty payments. However, for the purpose of clarity, a flat fee may be negotiated and agreed upon separately for the use of Affinities, Reference, and Translated Content. The specified percentage rates for royalties as stated in this clause do not apply under these new terms.",
+    "contradiction_score": 0.813273012638092,
+    "kept": true
+  },
+  {
+    "clause_index": 77,
+    "start_char": 27841,
+    "end_char": 29504,
+    "original": "5. AUDIT. HSWI shall maintain complete and accurate records to support and document the Royalties owed under this Agreement in accordance with generally accepted accounting principles consistently applied and to document compliance with the terms of this Agreement.  HSWI shall also provide reasonable assistance to World Book or its designated agent to conduct audits to confirm the payments hereunder.  Any such audit will be conducted upon [*] ([*]) days notice and during regular business hours, and shall be at [*] expense, unless such audit reveals a discrepancy of more than [*] percent ([*]%) in the total applicable amount reported by HSWI, in which case [*] shall pay for, or reimburse [*] the cost of, such audit.  Any such audit shall be conducted by an independent certified public accounting firm which is not engaged in performing other work for World Book or its affiliates\u037e which agrees to enter into a confidentiality agreement with HSWI\u037e and which is not compensated in any manner of contingency arrangements on the basis of its findings.  HSWI further agrees that until the expiration of [*] ([*]) year after the termination of this Agreement, HSWI will make available upon written request to World Book or any of its duly authorized representatives, this Agreement and books, documents, and records of HSWI that are necessary to verify the nature and extent of the revenue derived by HSWI from advertising related to the Content hereunder.  No more than [*] audit may be conducted in any [*] month period, unless the then-most-recent audit reveals a discrepancy of more than [*] percent ([*]%) in the total applicable amount reported by HSWI.",
+    "ollama_generated": "5. AUDIT PROVISIONS: World Book shall have the right to conduct periodic audits, at its sole discretion, to verify the accuracy of the Royalties reported by HSWI under this Agreement. The audits will be conducted during regular business hours and with reasonable notice, although HSWI reserves the right to negotiate the specific timing within mutually agreed parameters. World Book shall bear the costs associated with these audits unless the audit reveals a discrepancy of more than [*] percent ([*]%) in the total applicable amount reported by HSWI.\n\nIn case an independent certified public accounting firm is engaged for such audit, it should not be currently engaged in any work for World Book or its affiliates. The firm must also agree to a confidentiality agreement with HSWI and shall not be compensated based on contingency arrangements related to its findings.\n\nFor a period of [*] ([*]) years following the termination of this Agreement, upon written request from World Book or any duly authorized representatives, HSWI will make available the necessary books, documents, and records to verify the revenue derived by HSWI from advertising related to the Content hereunder.\n\nIt's important to note that while World Book has the right to conduct multiple audits, the frequency is subject to negotiation and may be limited depending on the results of previous audits.",
+    "contradiction_score": 0.009364712052047253,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 29906,
+    "end_char": 30233,
+    "original": "(ii) Term of Licenses . Notwithstanding  Subsection (i) , certain license grants for Content, Images and Affinities extend beyond the expiration or earlier termination of this Agreement as set forth herein. With respect to such Content, Images and Affinities, the terms and conditions of this Agreement shall continue to apply.",
+    "ollama_generated": "(ii) Duration of Licenses: Despite Subsection (i), certain licenses for Content, Images, and Affinities may persist even after the termination or expiration of this Agreement as specified herein. It is important to note that for these specific items, the terms and conditions of this Agreement will still be binding, post-termination, until otherwise notified in writing by the Licensor.",
+    "contradiction_score": 0.0010753447422757745,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 30344,
+    "end_char": 31497,
+    "original": "(i) any material default in, or material breach of, any of the material terms and conditions of this Agreement by the other party, which default continues in effect after the defaulting party has been provided with written notice of default and sixty (60) days to cure such default\u037e (ii) the commencement of a voluntary case or other voluntary proceeding seeking liquidation, reorganization or other relief with respect to the other party of its debts under any bankruptcy, insolvency, or other similar law now or hereafter in effect, that authorizes the reorganization or liquidation of such other party or its debt or the appointment of a trustee, receiver, liquidator, custodian or other similar official of it or any substantial part of its property\u037e (iii) the other party\u2019s consent to any such relief or to the appointment of or taking possession by any such official in an involuntary case or other proceeding commenced against it\u037e or (iv) the other party\u2019s making a general assignment for the benefit of creditors\u037e or the other party\u2019s being adjudicated insolvent\u037e or the other party taking any corporate action to authorize any of the foregoing.",
+    "ollama_generated": "(i) persistent material non-compliance with, or recurring breaches of, significant provisions of this Agreement by the other party, following their receipt of written notification outlining the default and a period of thirty (30) days to rectify the issue;\n\n   (ii) initiation by the counterparty of a voluntary petition or proceeding under bankruptcy, insolvency, or any comparable legislation aimed at the resolution of its financial difficulties, which could lead to the reorganization, liquidation, or other relief for its debts; such proceedings may involve the appointment of a trustee, receiver, liquidator, custodian, or similar agent over the party or a substantial portion of its assets. This does not exclude situations where such appointment occurs involuntarily;\n\n   (iii) the consent by the other party to any such relief, or to the intervention of an appointed official in the aforementioned proceedings;\n\n   (iv) the counterparty submitting a petition for bankruptcy or insolvency, making a general assignment for the benefit of creditors, or being declared insolvent under applicable law; or\n\n   (v) the initiation by the other party of corporate actions aimed at authorizing any of the foregoing events.",
+    "contradiction_score": 0.03582662343978882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 31497,
+    "end_char": 32209,
+    "original": "6.3 Effect of Termination . Upon the expiration or termination of this Agreement, HSWI shall pay World Book all amounts due and owing up to the date of termination, within [*] ([*]) days after such expiration or termination.  In addition, upon the expiration or termination of the applicable license, HSWI shall cease to Display the applicable Content that is not licensed under a perpetual license, return or destroy such Content within [*] ([*]) days after such expiration or termination at the direction of World Book, and, upon request by World Book, certify completion of the return or destruction in writing.  There shall be no effect upon the applicable Content that is licensed under a perpetual license.",
+    "ollama_generated": "6.3 Consequences of Termination. Upon the initiation of termination of this Agreement by either party, World Book will have no immediate obligation to receive payment from HSWI for any amounts owed prior to such termination. However, within [*] ([*]) days following the effective date of termination, HSWI shall settle all outstanding debts due.\n\nIn the event that a license is terminated, HSWI will be responsible for discontinuing the public display of any non-perpetual licensed Content within [*] ([*]) days after the effective date of termination. Additionally, HSWI must either return or destroy the specified Content at World Book's discretion, with the same timeframe of [*] ([*]) days following the effective date of termination. Upon request by World Book, HSWI will provide a written certification confirming the completion of the return or destruction process. It is worth noting that any Content licensed under a perpetual license remains unaffected by this agreement's termination.\n\nThis revised clause maintains a professional tone while shifting some obligations onto World Book and providing HSWI with more time to settle outstanding debts before termination takes effect, as well as granting discretion to World Book regarding the return or destruction of non-perpetual licensed Content.",
+    "contradiction_score": 0.026019537821412086,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 33062,
+    "end_char": 33654,
+    "original": "6.5 Equitable Relief . Each party acknowledges that its breach of certain provisions of this Agreement would cause irreparable injury to the other party for which monetary damages may not be an adequate remedy. Accordingly, each party will be entitled to seek injunctions and other equitable remedies in the event of such a breach or threatened breach by the other party, or to seek specific performance of any provision hereof. A party\u2019s right to seek equitable relief shall not limit in any manner such party\u2019s respective rights to seek other and/or additional remedies at law or in equity.",
+    "ollama_generated": "6.5 Remedies for Breach . Recognizing that a non-breaching party may suffer significant inconvenience rather than irreparable harm upon the other party's breach of certain provisions within this Agreement, both parties reserve the right to pursue legal or equitable remedies in response to such breach or threatened breach. These remedies may include seeking injunctions and other forms of equitable relief, as well as demanding specific performance for any provision herein. However, each party's pursuit of equitable relief shall not preclude their right to seek alternative legal or equitable remedies.",
+    "contradiction_score": 0.00823703221976757,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 35725,
+    "end_char": 36567,
+    "original": "Source: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 7.2 Disclosures Required by Law . If a party is required to disclose Confidential Information received from the other party, by law or a governmental authority, including, without limitation, pursuant to a subpoena, court order, interrogatories, civil investigation demand, or other process, such Confidential Information may be disclosed, provided that the disclosing party, if permitted: (a) promptly notifies the other party  of the disclosure requirement\u037e (b) cooperates with the other party\u2019s efforts to resist or narrow the disclosure and to obtain an order or other reliable assurance that confidential treatment will be accorded Confidential Information\u037e and (c) furnishes only Confidential Information that is legally compelled to be disclosed according to advice of its legal counsel.",
+    "ollama_generated": "Clause:\n\nSource: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 7.2 Disclosures Required by Law . If a party is faced with a compulsion to disclose Confidential Information received from the other party, due to legal obligation or governmental demand, such as subpoenas, court orders, interrogatories, civil investigation demands, or other processes, it may do so, given that: (a) the compelled party immediately informs the other party about this compulsion; (b) the compelled party collaborates with the efforts of the other party to contest or restrict the disclosure and seeks protection against disclosure for Confidential Information, including seeking orders or other reliable assurances that the Confidential Information will be treated confidentially; and (c) the disclosure is limited strictly to the minimum amount of Confidential Information that is absolutely necessary to comply with the legal requirement, as advised by its legal counsel.",
+    "contradiction_score": 0.08034452795982361,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 36885,
+    "end_char": 38511,
+    "original": "7.4 Use of World Book Brand . Except as set forth herein, neither party shall issue any press releases or public statements concerning this Agreement or the subject matter herein without the other party\u2019s prior written agreement, except as required by law.  World Book grants no right to HSWI for the use or Display of World Book\u2019s brands, logos, service marks, or other trade names or trademarks of World Book (\u201c World Book Brand \u201d) in any manner, except as permitted in this Section.  HSWI may not use the World Book Brand to promote the Content on any of the HSWI Websites to existing or potential users.  HSWI may use World Book\u2019s name solely to promote advertising or investment to potential advertising clients or financial investors or institutions.  Notwithstanding the foregoing, and subject to the terms and conditions of this Agreement, HSWI may identify the Content on the HSWI Websites and elsewhere as \u201cFrom the editors of World Book, Inc.,\u201d in simplified Chinese language as set forth in  Schedule E  or such other credit or credits as the parties hereto may mutually agree in writing, except for any of that Content which has been modified without the approval of World Book.  Additionally, World Book agrees to cooperate with HSWI\u2019s issuing a press  release within one month of entering into this Agreement which identifies HSWI as receiving exclusive content created by World Book and includes relevant quotes from World Book executives.  Any press releases issued by HSWI including the World Book Brand shall be previously approved in writing by World Book, which consent shall not be unreasonably withheld.",
+    "ollama_generated": "7.4 Utilization of World Book Brand:\n\nWith some exceptions outlined herein, neither party will release any press communications or public statements regarding this Agreement or its contents without the prior written consent of the other party, unless mandated by law. It is important to note that World Book does not grant HSWI any rights for the utilization or display of World Book's brands, logos, service marks, or other trade names or trademarks (\"World Book Brand\"), except as detailed in this section.\n\nHSWI is prohibited from using the World Book Brand to promote Content on any HSWI Websites to current or potential users. However, HSWI may utilize World Book's name solely for advertising or investment purposes, targeting potential advertisers, financial investors, or institutions. With the exception of modified Content that has not received World Book\u2019s approval, HSWI is allowed to identify Content on the HSWI Websites and elsewhere with \"From the editors of World Book, Inc.\" in simplified Chinese language as specified in Schedule E, or any other mutually agreed-upon credit or credits in writing.\n\nIn accordance with this Agreement's terms and conditions, HSWI is granted permission to issue a press release within one month of the agreement's execution. This press release will acknowledge that HSWI has been provided exclusive content created by World Book, and may include quotes from World Book executives. Any press releases issued by HSWI that incorporate the World Book Brand are subject to World Book's prior written approval; such approval shall not be unreasonably withheld.\n\nThis revised clause maintains a professional tone while weakening HSWI\u2019s restrictions on using the World Book Brand, expanding its ability to identify Content, and requiring World Book's cooperation in issuing an initial press release.",
+    "contradiction_score": 0.12324001640081406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 39540,
+    "end_char": 39575,
+    "original": "8. REPRESENTATIONS AND WARRANTIES .",
+    "ollama_generated": "8. LIMITATIONS ON REPRESENTATIONS AND WARRANTIES.\n\nIn this agreement, the representations and warranties made by each party are expressly limited to the specific statements contained herein, and no other implied or incidental representations or warranties, whether based on course of performance, course of dealing, or otherwise, shall be deemed to exist. Any such implied or incidental representations or warranties are hereby excluded and disclaimed in their entirety. All parties acknowledge that they have entered into this agreement with full knowledge of all relevant facts, and any reliance on representations or warranties made outside of the written terms of this agreement is at the party's sole risk and discretion.",
+    "contradiction_score": 0.14393052458763123,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 102,
+    "start_char": 42575,
+    "end_char": 43405,
+    "original": "(i) it has all applicable rights in and to the Content and the Content does not and will not infringe or misappropriate any Intellectual Property Rights of any third persons\u037e (ii) it will perform all services in a professional, diligent, and workmanlike manner\u037e (iii) the Content will be free from material errors or inaccuracies\u037e (iv) the Content will comply with all laws and regulations of the People\u2019s Republic of China, including without limitation for distribution, publication and educational use as contemplated herein\u037e and, (v) the Content as delivered by World Book is expressly approved by or within the applicable guidelines of the national government, any ministries, and provincial governments, as applicable, of the People\u2019s  Republic of China for distribution, publication and education use as contemplated herein.",
+    "ollama_generated": "(i) It represents that it owns all necessary rights in and to the Content, and the Content does not and will not violate or infringe upon any Intellectual Property Rights held by third parties; (ii) It agrees to perform all services in a manner that is skilled, attentive, and in accordance with industry standards; however, no liability shall be assumed for incidental or consequential damages arising from the services; (iii) While every effort will be made to ensure accuracy, the Content may contain minor errors or inaccuracies; (iv) The Content complies with all applicable laws and regulations of the People's Republic of China related to distribution, publication, and educational use as outlined in this agreement, but it is solely responsible for ensuring compliance; and (v) World Book does not guarantee that the Content has been expressly approved by the national government, any ministries, or provincial governments of the People\u2019s Republic of China for distribution, publication, and educational use. Any such approval remains the sole responsibility of the provider.",
+    "contradiction_score": 0.02957666665315628,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 43598,
+    "end_char": 44054,
+    "original": "8.4 Disclaimer . EXCEPT AS SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES ANY OTHER REPRESENTATIONS OR WARRANTIES, INCLUDING, WITHOUT LIMITATION, AS TO THE ACCURACY OR COMPLETENESS OF THE CONTENT.  TO THE FULL EXTENT ALLOWED BY APPLICABLE LAW, EACH PARTY DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR USE OR PURPOSE.",
+    "ollama_generated": "8.4 Disclaimer . Beyond the provisions stated in this Agreement, neither Party assumes any additional representations or warranties, be it regarding the precision or exhaustiveness of the Content. To the maximum extent permissible by law, each Party disclaims all other warranties, whether expressed, implied, statutory, or otherwise, including but not limited to any implied warranties concerning merchantability and fitness for a specific purpose or application. In this regard, it is understood that each Party provides the Content \"as is,\" without any guarantee or promise of its quality, suitability, or compatibility with any particular purpose or need.",
+    "contradiction_score": 0.0037247822619974613,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 44054,
+    "end_char": 44122,
+    "original": "Source: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 9. INDEMNIFICATION .",
+    "ollama_generated": "Clause:\nREMARK HOLDINGS, INC., 10-Q, 11/14/2008 9. REVERSED INDEMNIFICATION .\n\nNew Clause:\nIn the event that any third party institutes a legal claim against the Company or its officers, directors, or employees (collectively, \"Indemnitees\") for damages arising out of or resulting from their actions taken in connection with the performance of their duties, the Indemnitee shall not be obligated to indemnify the third party, but instead, the Company shall have the obligation to defend, indemnify and hold harmless such Indemnitee against any losses, liabilities, costs or expenses (including reasonable attorneys' fees) arising from such claim.",
+    "contradiction_score": 0.27708321809768677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 44122,
+    "end_char": 45664,
+    "original": "9.1 HSWI HSWI hereby agrees to defend, indemnify and hold harmless World Book and its officers, directors, agents, and employees from all costs, damages, liabilities and expenses (including reasonable attorneys fees) arising out of: (a) any third party claim or action alleging that any of the following infringe or misappropriate the Intellectual Property Rights of a third party: (i) the HSWI Websites or the HSWI trade dress utilized in the Display of the Content on the HSWI Websites\u037e (ii) any Translated Content\u037e or (iii) any HSWI Modifications and any World Book Derivatives independently created by or on behalf of HSWI\u037e and/or (b) any third party claim or action arising out of HSWI\u2019s material breach of this Agreement\u037e provided that (i) World Book notifies HSWI promptly in writing of any such threat, claim, and/or proceedings related thereto\u037e (ii) HSWI is given the opportunity to assume sole control over the defense and all related settlement negotiations, except that World Book shall have sole authority over approval of any settlement that admits fault or liability on the part of World Book\u037e and, (iii) World Book provides HSWI with all reasonably necessary assistance, information and authority to perform the foregoing at HSW\u2019s expense.  Notwithstanding anything to the contrary, the indemnity under this Section shall not apply to the extent the Content provided by World Book, or any accurate translation, contributes or results in an infringement or misappropriation of the Intellectual Property Rights of a third party.",
+    "ollama_generated": "9.1 HSWI acknowledges its responsibility for and agrees to compensate World Book and its representatives \u2013 officers, directors, agents, and employees \u2013 for any costs, damages, liabilities, and expenses (including attorney fees) associated with: (a) third-party claims or actions alleging that the intellectual property rights of a third party have been infringed or misappropriated by: (i) the HSWI Websites or the trade dress employed in the presentation of Content on the HSWI Websites; (ii) any Translated Content; or (iii) any modifications made by HSWI to the content initially provided by World Book (referred to as \"HSWI Modifications\") and any derivatives created independently by or on behalf of HSWI (referred to as \"World Book Derivatives\"). This also covers actions arising from HSWI's breach of this Agreement, but only under the condition that: (i) World Book informs HSWI in writing without delay about any such claim, action, or legal proceedings; (ii) HSWI is granted the opportunity to manage the defense and all related settlement negotiations, except that World Book retains exclusive authority to approve any settlement admitting fault or liability on its part; and, (iii) World Book offers HSWI all necessary aid, information, and authorization to fulfill these obligations at HSW's expense. It is worth noting that the indemnity under this section does not extend to instances where the content provided by World Book, or any accurate translation of it, is found to contribute to or result in the infringement or misappropriation of a third party's intellectual property rights.",
+    "contradiction_score": 0.024306373670697212,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 45664,
+    "end_char": 46954,
+    "original": "9.2 World Book . World Book hereby agrees to defend, indemnify and hold harmless HSWI, its Affiliates, and their officers, directors, agents, employees, advertisers, service providers, end users and related entities from all costs, damages, liabilities and expenses (including reasonable attorneys fees) arising out of: (a) any third party claim or action alleging that the Content, Affinities and Images (excluding any World Book Derivatives independently created by or on behalf of HSWI) in the manner delivered by World Book or as contemplated for HSWI\u2019s use hereunder infringes or misappropriates any Intellectual Property  Rights of any third party\u037e and/or (b) any third party claim or action arising out of World Book\u2019s material breach of this Agreement\u037e provided that: (i) HSWI notifies World Book promptly in writing of any such threat, claim, and/or proceedings related thereto\u037e (ii) World Book is given the opportunity to assume sole control over the defense and all related settlement negotiations, except that HSWI shall have sole authority over approval of any settlement that admits fault or liability on the part of HSWI\u037e and, (iii) HSWI provides World Book with all reasonably necessary assistance, information and authority to perform the foregoing at World Book\u2019s expense.",
+    "ollama_generated": "9.2 World Book's Obligations Regarding Intellectual Property and Breach Claims:\n\nWorld Book acknowledges and assumes responsibility for any and all costs, damages, liabilities, expenses (including reasonable attorneys' fees), arising from third-party claims or actions resulting from: (a) alleged infringement or misappropriation of any Intellectual Property Rights in the Content, Affinities, and Images (excluding independently created World Book Derivatives for HSWI's use), as provided or intended for use under this Agreement; and/or (b) a material breach of this Agreement by World Book.\n\nHowever, this obligation is subject to the following conditions: (i) HSWI must promptly notify World Book in writing about any such claim, action, or proceedings connected thereto; (ii) World Book retains the right to manage the defense and all related settlement negotiations, except that HSWI holds the final authority to approve any settlement that implies fault or liability on its part; and (iii) upon request by World Book, HSWI shall provide all reasonably necessary assistance, information, and authority for World Book to defend such claims at its own expense.\n\nIn this revised clause, the obligation of World Book to indemnify and hold harmless HSWI has been shifted to World Book assuming responsibility for any costs, damages, liabilities, etc., arising from third-party claims or actions related to the infringement or misappropriation of Intellectual Property Rights in the Content, Affinities, and Images (excluding independently created World Book Derivatives), as well as material breaches of this Agreement by World Book.",
+    "contradiction_score": 0.004070916213095188,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 47032,
+    "end_char": 47381,
+    "original": "10.1 EXCEPT FOR EITHER PARTY\u2019S VIOLATION OF THE CONFIDENTIALITY OBLIGATIONS AND FOR EITHER PARTY\u2019S INDEMNIFICATION OBLIGATIONS, NEITHER PARTY SHALL BE LIABLE UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY, OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY AMOUNTS IN EXCESS IN THE AGGREGATE OF THE AMOUNT OF THE FEES PAID OR PAYABLE UNDER THIS AGREEMENT.",
+    "ollama_generated": "10.1 Except for breaches of Confidentiality Obligations or failure to fulfill Indemnification Obligations, each Party shall have no responsibility or liability towards the other for any amounts surpassing the aggregate sum of the fees received or payable under this Agreement, arising from any contractual obligation, act of negligence, strict liability, or other legal or equitable claim. In essence, this means that neither Party will be accountable for exceeding the payment amount specified in this Agreement beyond the breach of Confidentiality or Indemnification commitments.",
+    "contradiction_score": 0.0023068103473633528,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 47890,
+    "end_char": 47920,
+    "original": "11. MISCELLANEOUS PROVISIONS .",
+    "ollama_generated": "11. MISCELLANEOUS PROVISIONS.\n\nIn the event of any discrepancy or ambiguity in the interpretation of this Agreement, the parties shall endeavor to resolve such issues amicably and promptly through good-faith negotiations. In case a mutually acceptable resolution cannot be reached, either party may seek a binding determination from a neutral third-party mediator whose decision shall be final and binding on both parties. The costs of such mediation shall be shared equally by the parties unless otherwise determined by the mediator.",
+    "contradiction_score": 0.04312615841627121,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 49096,
+    "end_char": 49112,
+    "original": "World Book, Inc.",
+    "ollama_generated": "Responsibility for any and all claims, disputes, or litigation arising out of or in connection with the use of the Product shall be exclusively vested upon the User, with World Book, Inc. being fully indemnified against any costs, liabilities, damages, or expenses resulting therefrom. In the event of such claims, the User expressly waives any right to seek recourse from World Book, Inc., thereby assuming all risks associated with the use of the Product.\n\nIn other words: The User is solely responsible for any and all claims, disputes, or litigation that may arise from their use of the Product, absolving World Book, Inc. entirely of any costs, liabilities, damages, or expenses resulting therefrom. In the case of such claims, the User renounces any right to seek redress against World Book, Inc., and takes upon themselves all risks associated with the use of the Product.",
+    "contradiction_score": 0.22245684266090393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 50737,
+    "end_char": 52386,
+    "original": "11.7 Arbitration . If any dispute arises under this Agreement that is not settled promptly in the ordinary course of business, the Parties shall seek to resolve any such dispute between them\u037e first, by negotiating promptly with each other in face-to-face negotiations.  Any controversy or claim arising out of or relating to the interpretation, enforcement or breach of this Agreement that cannot be resolved within fifteen (15) business days (or such period as the Parties shall otherwise agree) through face-to-face negotiations shall be resolved by binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association.  Arbitration shall be by a single arbitrator mutually acceptable to the  parties and experienced in the matters at issue and selected by the Parties in accordance with the Commercial Arbitration Rules of the American Arbitration Association.  If the parties are unable to agree upon a single arbitrator, each party shall select an arbitrator and the two arbitrators shall select the third arbitrator.  The arbitration shall only be held in New York, New York.  The decision of the arbitrator shall be final and binding and may be enforced in any court having jurisdiction over the subject matter or either of the Parties, except that each party reserves all rights of appeal. The arbitrator(s) shall determine to what extent each of the Parties shall bear the costs and expenses incurred in connection with any such arbitration proceeding (including reasonable attorneys\u2019 fees and expenses) on the basis of the arbitrator\u2019s assessment of the relative merits of the Parties\u2019 positions.",
+    "ollama_generated": "11.7 Dispute Resolution Mechanism: In the event that a disagreement concerning this Agreement arises and remains unresolved within a reasonable timeframe as determined by either party, either party may initiate binding arbitration without prior negotiation attempts. This arbitration will abide by the Commercial Arbitration Rules of the American Arbitration Association.\n\nThe arbitration will be conducted by a single arbitrator, selected jointly by both parties, who should have expertise in matters pertinent to this Agreement. If the parties cannot agree on a sole arbitrator within fifteen (15) business days (or such extended period as the Parties may mutually consent), each party shall appoint an arbitrator independently. The two appointed arbitrators will then select a third arbitrator.\n\nThe arbitration proceedings will take place in New York, New York. The decision rendered by the arbitrator(s) shall be final and binding, subject to enforcement by any court possessing jurisdiction over the matter or either of the Parties. Each party reserves the right to appeal the decision.\n\nIn determining the allocation of costs and expenses associated with the arbitration proceedings (including attorneys' fees), the arbitrator(s) shall consider the relative merits of each party's position in their assessment.",
+    "contradiction_score": 0.03156790882349014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 55174,
+    "end_char": 55362,
+    "original": "11.10 Headings . Section headings contained in this Agreement are inserted for convenience or reference only, shall not in no way affect the interpretation of any of the provisions herein.",
+    "ollama_generated": "11.10 Headings. The section headings included within this Agreement serve solely as aids to navigation and understanding; they do not impact or influence the interpretation of the Agreement's substantive provisions in any manner. (This revision subtly emphasizes that while the headings are useful, they should not be considered when interpreting the actual terms and conditions.)",
+    "contradiction_score": 0.0027603809721767902,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 130,
+    "start_char": 56185,
+    "end_char": 56359,
+    "original": "[Signatures Follow On Next Page] Source: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of its Effective Date.",
+    "ollama_generated": "[Acknowledgment of Execution: Signatures] Source: REMARK HOLDINGS, INC., 10-Q, 11/14/2008\n\nIn witness thereof, this Agreement has been voluntarily and knowingly executed by the parties involved. This act of execution signifies their understanding and acceptance of its terms, which shall take effect from its signing date, regardless of any future discrepancies or misunderstandings that may arise.\n\nThis modification emphasizes the intentional agreement of the parties involved, strengthening the validity and enforceability of the document in case of disputes or misinterpretations.",
+    "contradiction_score": 0.002262197667732835,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 56456,
+    "end_char": 57043,
+    "original": "By: /s/ Bradley T. Zimmer     By: /s/ Donald Keller Name: Bradley T. Zimmer Name: Donald Keller Title: Executive Vice President & General Counsel Title: VP & CFO LIST OF ATTACHMENTS Attachment A  List of HSWI Affiliates Attachment B  List of Competitors II Attachment C  List of Competitors Schedule A  Taxonomy Schedule Schedule B  Article Schedule Schedule C  Format and Delivery Schedule Schedule D  Updating Format Schedule E  World Book Brand Translation Source: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 Attachment A HSWI AFFILIATES 1.HSW (HK) Inc. Limited 2.HSWI (HK) Holdings, Ltd.",
+    "ollama_generated": "By: /s/ Donald Keller       By: /s/ Bradley T. Zimmer\nName: Donald Keller          Name: Bradley T. Zimmer\nTitle: VP & CFO               Title: Executive Vice President & General Counsel\n\nLIST OF ATTACHMENTS\nAttachment A  List of Potential Competitors (Note: This list may expand or contract over time)\nAttachment B  List of Previous Affiliates (Subject to change as corporate restructuring occurs)\nAttachment C  List of Current and Future Competitors (As defined by market trends and industry developments)\nAttachment D  Historical Taxonomy (May be amended based on the evolution of our business strategies)\nAttachment E  Article Schedule (Modifiable in response to changes in editorial policies or content focus)\nAttachment F  Format and Delivery Schedule (Adjustable according to technological advancements and operational efficiencies)\nAttachment G  Updating Format Schedule (Revised as necessary, based on feedback and performance metrics)\n\nSource: REMARK HOLDINGS, INC., 10-Q, 11/14/2008\n\nAttachment A - Potential Competitors (Note: This list may expand or contract over time)\n1.HSW (HK) Inc. Limited\n2.HSWI (HK) Holdings, Ltd. (Subject to potential acquisitions or mergers)",
+    "contradiction_score": 0.024570735171437263,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 134,
+    "start_char": 57083,
+    "end_char": 57128,
+    "original": "3.HSW Brasil - Tecnologia e Informacao, Ltda.",
+    "ollama_generated": "3. Shift of Obligation: In the event that HSW Brasil - Tecnologia e Informa\u00e7\u00e3o, Ltda. assumes any duty or obligation arising out of this agreement, such responsibility shall be assumed voluntarily and at its sole discretion, without any prior or subsequent obligation for reimbursement or indemnity by the other party. The assumption of such duty or obligation does not constitute a precedent for future similar cases.",
+    "contradiction_score": 0.16847462952136993,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 57203,
+    "end_char": 57267,
+    "original": "6.BoNet (Beijing) Technology Limited 7.Intac International, Inc.",
+    "ollama_generated": "6. Intac International, Inc. (hereinafter \"Intac\") shall have the discretionary right to appoint a subcontractor or delegate any of its obligations under this Agreement to BoNet (Beijing) Technology Limited (hereinafter \"BoNet\"), without prior written consent from BoNet, provided that such appointment or delegation does not materially and adversely affect the performance of BoNet's obligations under this Agreement. BoNet shall be responsible for any actions or omissions of its appointed subcontractor or delegate, as if they were its own.\n\nExplanation: The original clause obligates both parties to perform their respective duties without delegating them to third parties. In the rewritten clause, Intac is given discretionary power to appoint a subcontractor or delegate its obligations to BoNet, and BoNet will be responsible for any actions or omissions of that appointed subcontractor or delegate, as if they were its own. This shifts some responsibility from Intac to BoNet when it comes to third-party performance.",
+    "contradiction_score": 0.038587503135204315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 57557,
+    "end_char": 57753,
+    "original": "Source: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 Attachment C COMPETITORS World Book Competitors [*] Confidential treatment requested\u037e certain information omitted and filed separately with the SEC.",
+    "modified": "Clause:\nSource: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 Attachment C POTENTIAL COMPETITORS [*] Confidential treatment requested\u037e certain information omitted and filed separately with the SEC.\n\n[Explanation of changes: The term \"Competitors\" has been replaced with \"Potential Competitors\". This change is subtle but it implies that these entities may pose a threat to the company in the future rather than at the present moment.]",
+    "contradiction_score": 0.7526199221611023,
+    "kept": true
+  }
+]

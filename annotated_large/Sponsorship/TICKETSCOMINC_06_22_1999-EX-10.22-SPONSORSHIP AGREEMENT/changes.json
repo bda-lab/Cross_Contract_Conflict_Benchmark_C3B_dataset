@@ -1,0 +1,32 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 272,
+    "end_char": 299,
+    "original": "EXHIBIT 10.22 MP3.com, Inc.",
+    "ollama_generated": "EXHIBIT 10.22 Music Platform Corp., formerly known as MP3.com, Inc.\n\nIn the event that this agreement is breached or terminated by either party, it shall be understood that Music Platform Corp., and not the other party, bears the primary responsibility for resolving any disputes arising therefrom, unless otherwise specified in writing by both parties. Additionally, Music Platform Corp. hereby waives its right to seek damages from the other party for such breach or termination, unless explicitly stipulated as a consequence of said breach or termination in this agreement. This clause does not restrict either party from pursuing any legal remedies available under applicable law.",
+    "contradiction_score": 0.2847692370414734,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 775,
+    "end_char": 1318,
+    "original": "1. Form of Sponsorship. During the term of this Agreement, Tickets shall be MP3.com's exclusive partner/source for sports, entertainment, and travel tickets, and MP3.com shall include a Tickets Portal on the \"Music\" page and the \"Pop,\" \"Rock\" and \"Alternative\" genre pages on the Website. A \"Portal\" is defined as a web graphic with the dimensions not to exceed 125 x 125 pixels and 20Kb in size. The content of the Portal shall be supplied by Tickets and shall conform with reasonable technical and content specifications supplied by MP3.com.",
+    "ollama_generated": "1. Flexibility in Sponsorship Form. Throughout the duration of this Agreement, Tickets shall serve as a preferred partner for sports, entertainment, and travel tickets, although MP3.com maintains the right to source from additional partners at its discretion. MP3.com may optionally include a Tickets Portal on the \"Music\" page and the \"Pop,\" \"Rock,\" and \"Alternative\" genre pages of the Website, but is under no obligation to do so. A \"Portal\" is defined as a web graphic with dimensions not exceeding 125 x 125 pixels and a size of 20Kb or less. The content of the Portal shall be supplied by Tickets and shall adhere to reasonable technical and content specifications provided by MP3.com, unless otherwise agreed upon in writing between the parties.",
+    "contradiction_score": 0.07477188855409622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 7338,
+    "end_char": 7693,
+    "original": "/s/ Greg Flores, VP Sales                    Adam Epstein, SVP Counsel - -----------------------------------          ----------------------------------- Printed Name & Position                      Printed Name & Position - -----------------------------------          ----------------------------------- Date                                         Date",
+    "ollama_generated": "/s/ Greg Flores, VP Sales                    Adam Epstein, SVP Counsel - -----------------------------------          ----------------------------------- Printed Name & Position                      Printed Name & Position - -----------------------------------          ----------------------------------- Date                                         Date\n\nAltered Clause:\nThe obligation to adhere to the terms and conditions set forth herein shall primarily rest with Greg Flores, VP Sales, while Adam Epstein, SVP Counsel, shall provide advisory services in case of any questions or concerns regarding compliance.\n\nIn this revised clause, we have shifted responsibility for adhering to the terms and conditions from both parties to Greg Flores, making him primarily responsible. Meanwhile, Adam Epstein's role is restricted to providing advisory services instead of ensuring compliance actively.",
+    "contradiction_score": 0.009794424287974834,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

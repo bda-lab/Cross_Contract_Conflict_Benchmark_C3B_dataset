@@ -1,0 +1,61 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 1665,
+    "end_char": 1752,
+    "original": "D. In ESSI product-related press releases (of which only ESSI may produce and publish).",
+    "ollama_generated": "D. With regard to ESSI product-specific media communications (it is understood that such announcements may be issued by authorized representatives of ESSI at their discretion).",
+    "contradiction_score": 0.016034690663218498,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3473,
+    "end_char": 3644,
+    "original": "A. Equity Payment:  ESSI will provide Talent with one-million (1,000,000) shares of restricted common stock issued within ten business days of execution of this Agreement.",
+    "modified": "Shares Distribution: Upon the execution of this Agreement, Talent will receive from ESSI, within a period of thirty business days, one-million (1,000,000) unregistered shares of common stock, subject to restrictions and registration rights as described in the accompanying schedule.",
+    "contradiction_score": 0.7635132670402527,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4497,
+    "end_char": 4588,
+    "original": "(a) Payments shall be made to Talent in the following manner, and to the following address:",
+    "ollama_generated": "(b) The Recipient shall receive payments from Talent as specified below, with delivery to the following address:\n\n[This modification shifts the responsibility from Talent to the Recipient in terms of receiving the payments.]",
+    "contradiction_score": 0.014091570861637592,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 8571,
+    "end_char": 8875,
+    "original": "10. Notices.  All notices provided for herein shall be given in writing by hand delivery, courier service, or by certified mail return receipt requested to the addresses of the parties set forth as follows (unless change of address by notice to the other party is given as provided in this paragraph 10):",
+    "ollama_generated": "10. Notifications: Any notices required under this agreement shall be considered duly delivered when made in writing via email, fax, or registered post with proof of delivery, to the email addresses, fax numbers, or physical addresses of the parties as originally set forth below, unless a change of address has been communicated through written notice as specified within this clause 10:\n\nIn this version, I have added an electronic means of communication (email and fax) for delivering notices. This may be seen as broadening the options for providing notices, thereby potentially weakening the requirement slightly compared to specifying only hand delivery, courier service, or certified mail.",
+    "contradiction_score": 0.10740092396736145,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 8941,
+    "end_char": 9023,
+    "original": "Mr. Stephen Marley 16115 SW 117 th Ave Suite 21-A Miami, Florida 33177 If to ESSI:",
+    "ollama_generated": "Mrs. Jane Doe, c/o 4567 Elm Street, Anytown, Anystate 12345\nIn the event of correspondences with RESPONSIBLE PARTY (RP):\n\nIn case there is a need for communication between the involved parties:\n\n* RP will send all communications to Mrs. Jane Doe at the above-mentioned address,\n* Responsible Party shall not be held liable if the correspondence is lost in transit or misdirected due to errors beyond its control, and\n* If Mrs. Jane Doe is unavailable for any reason, RP may communicate with any other authorized representative of hers, at the same address, until otherwise notified by Mrs. Jane Doe.",
+    "contradiction_score": 0.05957493931055069,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 17686,
+    "end_char": 17849,
+    "original": "Source: ECO SCIENCE SOLUTIONS, INC., 8-K, 11/17/2017 The parties hereto have caused this Agreement to be executed and delivered as of the date first above written.",
+    "ollama_generated": "Clause:\nSource: ECO SCIENCE SOLUTIONS, INC., 8-K, 11/17/2017 The Agreement between the parties herein was initiated and finalized, effective as of the date first stated above.\n\nExplanation: The original clause states that the parties \"caused\" the agreement to be executed and delivered, indicating an active action. In the rewritten clause, the verb tense is changed from the past perfect continuous (\"have caused\") to the simple past (\"initiated and finalized\"), which implies a less active role in creating the agreement but still maintains that they were involved in its completion. The wording \"between the parties herein\" is maintained, as it refers to the contractual relationship between the parties named in the document. Lastly, \"as of the date first stated above\" is used instead of \"above written,\" emphasizing that the agreement's effectiveness began on the date mentioned earlier in the document rather than when the document itself was written.",
+    "contradiction_score": 0.26523250341415405,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

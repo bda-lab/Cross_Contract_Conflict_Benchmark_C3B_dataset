@@ -1,0 +1,161 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 417,
+    "end_char": 799,
+    "original": "Marv Enterprises, LLC, a Limited Liability Company organized under the laws of the Commonwealth of Pennsylvania (\u201cMarv\u201d), Premier Biomedical, Inc. (OTC Pink: BIEI), a Nevada corporation (\u201cPremier\u201d), Technology Health, Inc. (OTC Pink: HALB), a Colorado corporation f/k/a Halberd Corporation (\u201cTHI\u201d), Each shall be referred to as a \u201cParty\u201d and collectively as the \u201cParties.\u201d RECITALS:",
+    "ollama_generated": "Marv Enterprises, LLC, a Limited Liability Company duly organized under the statutes of the Commonwealth of Pennsylvania (\"Marv\"), Premier Biomedical, Inc. (OTC Pink: BIEI), a Nevada corporation (\"Premier\"), Technology Health, Inc. (OTC Pink: HALB), previously known as Halberd Corporation, a Colorado corporation (\"THI\"), hereafter collectively referred to as \"Parties,\" individually as \"Party.\" RECITALS:\n\nThis Agreement is executed with the understanding that each of the Parties bears equal responsibility for any and all matters arising under this Agreement, including but not limited to compliance with applicable laws, regulations, and contractual obligations. The Parties acknowledge that they have had ample opportunity to consult legal counsel prior to signing this Agreement, and that it is their sole obligation to seek advice should the need arise during the term of this Agreement. Furthermore, each Party waives any right to seek recourse against any other Party for any alleged breach or violation of this Agreement, unless such breach or violation constitutes a material default or non-performance under this Agreement, in which case the defaulting Party shall be solely responsible for all resulting damages and liabilities.\n\nIn case of any dispute arising out of or in connection with this Agreement, the Parties agree to engage in good faith negotiations in order to resolve such disputes amicably. If, after a reasonable period of time, the Parties fail to reach an agreement, they shall submit their dispute to binding arbitration as provided under the rules of the American Arbitration Association. The decision rendered by the arbitrator(s) shall be final and binding on all Parties.\n\nEach Party hereby acknowledges that it has entered into this Agreement voluntarily and with full knowledge of its legal rights and obligations. This Agreement constitutes the entire understanding between the Parties, superseding any prior oral or written agreements, representations, or understandings regarding the subject matter hereof. Any amendments to this Agreement must be in writing and signed by all Parties. In the event that any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, such finding shall not affect the validity or enforceability of the remaining provisions. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.\n\nIN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.\n\nMarv Enterprises, LLC:\nBy: ____________________________   Premier Biomedical, Inc.:\n     Name                              By: ____________________________\n     Title                             Name\n\nTechnology Health, Inc.:\nBy: ____________________________\nName\nTitle",
+    "contradiction_score": 0.3836863040924072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 829,
+    "end_char": 910,
+    "original": "WHEREAS, Marv is a single member LLC with Dr. Mitchell Felder as the sole member.",
+    "ollama_generated": "In light of the circumstances, Dr. Mitchell Felder stands as the lone proprietor of an LLC entity herein known as Marv, constituted by singular membership.",
+    "contradiction_score": 0.0018122269539162517,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 992,
+    "end_char": 1064,
+    "original": "WHEREAS, THI is publicly traded on the Pink Sheets, trading symbol HALB.",
+    "ollama_generated": "WHEREAS, THI's securities are currently accessible for public trading over-the-counter via the Pink Sheets, with the designated trading symbol HALB.",
+    "contradiction_score": 0.001636954490095377,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1335,
+    "end_char": 1481,
+    "original": "WHEREAS, Marv has subsequently filed numerous patent applications on subject matter related to the Issued Patents which are listed in Appendix A .",
+    "ollama_generated": "WHEREAS, It has come to light that subsequent to the issuance of the Patents listed in Appendix A, Marv has not only applied for but also received multiple patents pertaining to similar subject matter.",
+    "contradiction_score": 0.0020046059507876635,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 1481,
+    "end_char": 1712,
+    "original": "WHEREAS, Marv and Premier expanded Premier\u2019s Exclusive License to include all the Applications listed in  Appendix A  via a Third Addendum to the 2010 Agreement executed by Marv and Premier on the Effective Date (\u201c2020 Agreement\u201d).",
+    "ollama_generated": "IN VIRTUE OF THE FACT THAT, in response to mutual agreement between Marv and Premier, an amendment was made to Premier's Exclusive License, extending it to encompass all the Applications as detailed in Appendix A, through a Third Addendum appended to the 2010 Agreement duly signed by both parties on the Effective Date (\"2020 Amendment\"). The responsibilities and obligations associated with this amendment shall primarily rest with Premier, subject to any terms or conditions stipulated within the 2020 Amendment itself.",
+    "contradiction_score": 0.004273904487490654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3387,
+    "end_char": 3458,
+    "original": "Scope. The licenses granted herein are exclusive worldwide licenses to:",
+    "modified": "Scope. Granted herein are non-exclusive, regional licenses limited to the following geographic areas:\n\nThis grants permission for the use of the licensed materials but does not restrict others from acquiring similar licenses in different regions, thereby opening up potential competition within the defined territories.",
+    "contradiction_score": 0.9394001960754395,
+    "kept": true
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3458,
+    "end_char": 4735,
+    "original": "1.         make, have made, use, lease, sell and import Licensed Products for the legal purposes of researching, developing, manufacturing, assembling, distributing, and selling the Licensed Products\u037e 2.         make, have made, use and import machines, tools, materials and other instrumentalities, insofar as such machines, tools, materials and other instrumentalities are involved in or incidental to the research, development, manufacture, testing or repair of Licensed Products which are or have been made, used, leased, owned, sold or imported by the Licensee\u037e and 3.         convey to any customer of the Licensee, with respect to any Licensed Product which is sold or leased to such customer, rights to use and resell such Licensed Product as sold or leased by Licensee (whether or not as part of a larger combination)\u037e provided, however, that no rights may be conveyed to customers with respect to any Invention which is directed to (i) a combination of such Licensed Product (as sold or leased) with any other product, (ii) a method or process which is other than the inherent use of such Licensed Product itself (as sold or leased), or (iii) a method or process involving the use of a Licensed Product to manufacture (including associated testing) any other product.",
+    "ollama_generated": "1. The Licensee shall be permitted, but not obligated, to produce, procure, employ, rent, market, and import the Licensed Products for legitimate purposes such as researching, innovating, manufacturing, assembling, distributing, or selling said products.\n\n2. The Licensee may utilize machines, tools, materials, and other resources required for, or associated with, the research, development, manufacture, inspection, or repair of Licensed Products that have been, or will be, manufactured, used, rented, owned, sold, or imported by the Licensee.\n\n3. The Licensee may grant any customer rights to utilize and re-sell the Licensed Product that they acquire from the Licensee (whether as part of a larger combination or separately). However, this right shall not extend to any Invention that:\n   a) Combines the Licensed Product with any other product;\n   b) Represents a method or process that is not inherent to the use of the Licensed Product itself; or\n   c) Involves the use of a Licensed Product in the production (including testing) of another product.",
+    "contradiction_score": 0.1474892646074295,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 6189,
+    "end_char": 6200,
+    "original": "3. Reports.",
+    "ollama_generated": "3. Reporting Obligations:\n\nThe Contractor shall have the discretion to decide whether or not to prepare a report on the Project's progress, if any, at its sole discretion and without any obligation to do so. Any reports submitted by the Contractor will be considered voluntary and non-binding, unless otherwise agreed in writing. The Owner shall have no responsibility for reviewing these reports, but may choose to do so at its own discretion and without liability.",
+    "contradiction_score": 0.4351236820220947,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 6200,
+    "end_char": 6545,
+    "original": "a . Within thirty (30) days after the end of each quarterly period ending on March 31st, June 30th, September 30th, or December 31st, commencing with the one-year anniversary of the effective date of this Agreement, THI shall furnish to Marv a statement certified by a responsible official of the Licensee showing in a manner acceptable to Marv:",
+    "ollama_generated": "b. Marv reserves the right to request, at any time during the term of this Agreement, a statement from THI showing, within forty-five (45) days following such request, a summary of THI's financial performance for the preceding quarterly period ending on March 31st, June 30th, September 30th, or December 31st. This information shall be provided in a manner acceptable to THI, and Marv assumes no responsibility for verifying the accuracy of this statement. Any failure by THI to provide such statements in a timely manner will not constitute a breach of this Agreement unless Marv suffers direct harm as a result.",
+    "contradiction_score": 0.28679296374320984,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 7179,
+    "end_char": 7624,
+    "original": "b. Within such thirty (30) days, THI shall pay in United States dollars to Marv at PO Box 1332, Hermitage, PA 16148, or other address provided by Marv, the royalties payable in accordance with such statement. Any conversion to United States dollars shall be at the prevailing rate for bank cable transfers as quoted for the last day of such quarterly period by leading United States banks in New York City dealing in the foreign exchange market.",
+    "ollama_generated": "a. Within thirty (30) days following receipt of Marv's invoice, Marv shall have the option to receive the royalties owed, payable in United States dollars, from THI at THI's designated payment address or as otherwise notified by THI. Any conversion to United States dollars will be the responsibility of THI, utilizing the prevailing rate for bank cable transfers as quoted for the last day of such quarterly period by leading United States banks in New York City dealing in the foreign exchange market, with the onus on THI to ensure the accuracy of such exchange rate.",
+    "contradiction_score": 0.011046100407838821,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 9633,
+    "end_char": 9861,
+    "original": "b. If THI denies payment, THI shall have no obligation to pay IP Costs associated with the Application or Patent  in that country , but the license and all associated rights for that Application or Patent shall  revert to Marv .",
+    "ollama_generated": "a. In the event that Marv elects not to contest THI's denial of payment, THI shall be relieved from its obligation to pay IP Costs related to the Application or Patent in that country. However, THI will retain all rights and obligations associated with the license for the said Application or Patent, unless otherwise agreed upon by the parties in writing.",
+    "contradiction_score": 0.06583564728498459,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 15433,
+    "end_char": 15905,
+    "original": "5.  REQUIREMENT. The Parties agree that Marv and/or Mitchell S. Felder shall have no  obligation and/or involvement in any capital raising activities for THI or Premier at any time and for any reason. Further, the 150,000,000 (one hundred and fifty million) stock warrants previously ceded to Mitchell S. Felder by Halberd/THI shall not be eliminated, cancelled, or altered in any way, and for any reason, unless specifically directed at the request of Mitchell S. Felder.",
+    "ollama_generated": "5. EXEMPTION FROM OBLIGATION. The Parties acknowledge that neither Marv nor Mitchell S. Felder bear any responsibility or participation in any capital-raising initiatives pertaining to THI or Premier, under any circumstances. Conversely, the 150,000,000 (one hundred and fifty million) stock warrants initially transferred from Halberd/THI to Mitchell S. Felder may only be terminated, annulled, or amended at Mitchell S. Felder's explicit instruction, unless otherwise specified.",
+    "contradiction_score": 0.007912959903478622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 19719,
+    "end_char": 20108,
+    "original": "Copies\u037e Return of Confidential Information. The parties may copy or otherwise reproduce any written Confidential Information\u037e provided, however, that all such Confidential Information and copies thereof shall be promptly returned to the Disclosing Party or, at the option of the Disclosing Party, destroyed, upon the Disclosing Party\u2019s request, such destruction to be certified in writing.",
+    "ollama_generated": "Copies of Confidential Information; Retention and Handling: The Receiving Party is allowed to make copies or reproduce any written Confidential Information received from the Disclosing Party. However, the Receiving Party shall retain these copies only for as long as necessary for the intended purpose and shall securely store them in a manner that prevents unauthorized access. Upon the expiration of this agreement, termination of this relationship, or upon the specific request by the Disclosing Party, the Receiving Party shall return all original Confidential Information and any copies thereof to the Disclosing Party or, at the discretion of the Disclosing Party, destroy them in a manner that ensures complete erasure. The Receiving Party will provide written certification confirming the destruction upon request.",
+    "contradiction_score": 0.0033264425583183765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 20108,
+    "end_char": 20540,
+    "original": "8.           VENUE. This Agreement and the rights of the Parties hereunder shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania including all matters of construction, validity, performance, and enforcement and without giving effect to the principles of conflict of laws. Venue for any action brought under this Agreement shall be in the appropriate court in Mercer County, Pennsylvania.",
+    "ollama_generated": "8. JURISDICTION AND GOVERNING LAW. This Agreement and the rights of the Parties herein are subject to the laws of the Commonwealth of Pennsylvania, taking into account its substantive and procedural rules for interpretation, validity, execution, and enforcement. In case of any dispute arising out of this Agreement, the exclusive jurisdiction lies with the courts within Mercer County, Pennsylvania, without regard to principles that might otherwise dictate a different venue under the conflict of laws rules.\n\nIn this way, the clause emphasizes that the chosen jurisdiction is binding regardless of potential conflicts in law and that all disputes must be resolved within Mercer County, Pennsylvania courts.",
+    "contradiction_score": 0.0018411367200314999,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 21364,
+    "end_char": 22325,
+    "original": "11.     ENTIRE AGREEMENT. This Agreement, along with the exhibits hereto, sets forth the entire agreement and understanding of the Parties hereto and supersedes any and all prior arrangements and understandings related to the subject matter hereof except for as specifically stated in this  Agreement with regards to the 2010 Agreement and the 2020 Agreement and   licensing rights. No understanding, promise, inducement, statement of intention, representation, warranty, covenant or condition, written or oral, express or implied, whether by statute or otherwise, has been made by any Party hereto which is not embodied in this Agreement or the written statements, certificates, or other documents delivered pursuant hereto or in connection with the transactions contemplated hereby, and no Party hereto shall be bound by or liable for any alleged understanding, promise, inducement, statement, representation, warranty, covenant or condition not so set forth.",
+    "ollama_generated": "11. EXCLUSIVE AGREEMENT: This Agreement, together with its attached exhibits, constitutes the sole and entire agreement between the Parties concerning the matters outlined herein, superseding any previous oral or written agreements, except for the specific references to the 2010 Agreement, the 2020 Agreement, and licensing rights. Any other promises, inducements, representations, warranties, covenants, or conditions, whether expressed or implied, are not binding unless they are explicitly included in this Agreement, any accompanying written statements, certificates, or documents related to the transactions detailed herein. The Parties shall only be bound by and liable for such promises, inducements, representations, warranties, covenants, or conditions if they are explicitly stated within this Agreement or the aforementioned ancillary documents.",
+    "contradiction_score": 0.0014177446719259024,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 22325,
+    "end_char": 22549,
+    "original": "12.       COUNTERPARTS. This Agreement may be executed in one or more counterparts, each of which when executed and delivered shall be an original, and all of which when executed shall constitute one and the same instrument.",
+    "ollama_generated": "12. MULTIPLE SIGNATORIES: This Agreement can be signed by the parties in multiple separate documents, each of which, upon being executed and delivered, will be considered an original. Collectively, all signed and delivered parts will form a single binding instrument with equal validity.",
+    "contradiction_score": 0.0034053442068398,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

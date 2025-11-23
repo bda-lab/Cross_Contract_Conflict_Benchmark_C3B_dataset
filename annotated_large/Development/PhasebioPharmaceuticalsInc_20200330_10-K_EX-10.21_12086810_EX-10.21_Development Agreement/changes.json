@@ -1,0 +1,1125 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1880,
+    "end_char": 2094,
+    "original": "ARTICLE 1 DEFINITIONS 1.1 Defined Terms . Initially capitalized terms will have the meaning ascribed to such terms in this Agreement, including the following terms which will have the following respective meanings:",
+    "modified": "ARTICLE 1 - DEFINITIONS\n1.1 Interpretation of Key Terms\n\nIn this Agreement, unless otherwise specified or the context requires a different interpretation, capitalized terms shall bear the following meanings:\n\n[...]\n\nFor clarity, it is to be noted that terms not specifically defined herein shall be interpreted at the sole discretion of [Contracting Party], in accordance with their common and customary usage. In the event of any inconsistency or ambiguity between the definitions provided herein and such common or customary usage, the definition as provided herein shall prevail.\n\n[...]",
+    "contradiction_score": 0.5946674346923828,
+    "kept": true
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2843,
+    "end_char": 2925,
+    "original": "1.1.3  \u201cAlliance Manager \u201d has the meaning ascribed to such term in Section 5.1.5.",
+    "ollama_generated": "1.1.3 The term \"Alliance Manager,\" as used herein, shall be understood in accordance with the definition provided in Section 5.1.5. For clarification purposes, it is noted that this definition may be subject to interpretation and any such interpretations will be deemed to fall within the reasonable discretion of the parties involved.\n\nIn this revised clause, I've added an element of interpretation and discretion to the definition of \"Alliance Manager,\" potentially making it a less precise or more flexible term in the agreement.",
+    "contradiction_score": 0.007047091610729694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 5731,
+    "end_char": 5871,
+    "original": "1.1.18  \u201cBrilinta Competing Product \u201d means any P2Y12 receptor antagonist, other than the AstraZeneca Product or Generic Ticagrelor Product.",
+    "ollama_generated": "1.1.18 \"Competitor Brilinta Products\" refers to any P2Y12 receptor antagonists, excluding the AstraZeneca Product and Generic Ticagrelor Products. In this context, a broader interpretation includes generic or alternative versions of Brilinta that may be developed in the future, but were not previously available at the time of contract execution.",
+    "contradiction_score": 0.01332813035696745,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 5876,
+    "end_char": 5967,
+    "original": "1.1.19  \u201cBusiness Day \u201d means a day that is not a Saturday, Sunday or a US federal holiday.",
+    "ollama_generated": "1.1.19 \"Working Day\" denotes any day excluding Saturdays, Sundays, as well as internationally recognized US holidays, and additionally any day on which the Client's main place of business is closed for reasons other than those specified.\n\nThis change inverts the original condition slightly by adding an additional exception for days when the Client's main place of business is closed, effectively expanding the list of days that could be considered a \"Working Day.\"",
+    "contradiction_score": 0.004953376483172178,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 6820,
+    "end_char": 7080,
+    "original": "1.1.23  \u201cCase Report Form \u201d or \u201c CRF\u201d means the collection of documents designed specifically for recording data pursuant to the Protocol. A CRF is completed for each Subject and will be in electronic form, validated and in compliance with all Applicable Laws.",
+    "ollama_generated": "1.1.23 \"Case Report Form\" or \"CRF\" refers to the electronic document system established for data collection as per the Protocol. Each subject's data will be recorded within this system, which must comply with all applicable laws and regulations. It is understood that the responsibility for ensuring the validity of each CRF lies with the party responsible for data entry.\n\nIn this revised clause, the responsibility for validating the Case Report Form (CRF) has been shifted from the drafter to the party responsible for data entry, thereby weakening their obligation to validate the form.",
+    "contradiction_score": 0.17894451320171356,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 8420,
+    "end_char": 8654,
+    "original": "A Licensing Transaction shall not constitute a Change of Control, unless such Licensing Transaction includes the grant of US Commercialization Rights in which event such Licensing Transaction shall be deemed to be a Change in Control.",
+    "modified": "A Licensing Transaction will be considered a Change of Control, provided that it does not exclusively involve the transfer of US Commercialization Rights; if such rights are included, then the Licensing Transaction will not be deemed a Change in Control.",
+    "contradiction_score": 0.8610017895698547,
+    "kept": true
+  },
+  {
+    "clause_index": 39,
+    "start_char": 9562,
+    "end_char": 9655,
+    "original": "1.1.34  \u201cClinical Trial Agreement \u201d has the meaning ascribed to such term in Section 3.2.1.3.",
+    "ollama_generated": "1.1.34 \"The definition of 'Clinical Trial Agreement' as provided in Section 3.2.1.3 shall not be deemed exhaustive or limiting, and may encompass any other agreements or understandings related to the conduct of clinical trials that are not explicitly defined within this agreement.\"\n\nThis revised clause broadens the interpretation of 'Clinical Trial Agreement' beyond the specific definitions provided in Section 3.2.1.3, potentially allowing for a more flexible and inclusive understanding of what constitutes a Clinical Trial Agreement within the context of this contract.",
+    "contradiction_score": 0.45352238416671753,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 9844,
+    "end_char": 9957,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 1.1.37  \u201cCMC \u201d means chemistry, manufacturing and controls.",
+    "modified": "Clause:\nAmended: ABACUS TECHNOLOGIES LTD., Annual Report, 4/15/2023\n\"QCM\" denotes quality, quality assurance, and compliance.",
+    "contradiction_score": 0.8693587779998779,
+    "kept": true
+  },
+  {
+    "clause_index": 56,
+    "start_char": 16754,
+    "end_char": 17167,
+    "original": "1.1.52  \u201cCSR\u201d means, for with respect to a Clinical Trial, a clinical study report, or other equivalent document or series of materials, constituting a summary report of the clinical and medical data resulting from such Clinical Trial and prepared for incorporation into submissions seeking Regulatory Approval for the Product, and includes all statistical analyses of such data per the statistical analysis plan.",
+    "ollama_generated": "1.1.52 \"CSR\" refers, in relation to a Clinical Study, to a comprehensive report or comparable collection of materials that serves as a synopsis of the clinical and medical findings derived from said Clinical Study. This report is intended for integration into applications aiming at Regulatory Authorization for the Product, and encompasses all statistical analyses of such data in accordance with the outlined Statistical Analysis Plan. However, it is understood that this definition does not necessitate the CSR to be exhaustive or comprehensive in its inclusion of every minor detail, as long as the information provided adequately represents the essence of the Clinical Study's findings.",
+    "contradiction_score": 0.014551529660820961,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 19273,
+    "end_char": 20001,
+    "original": "1.1.67  \u201cExcluded Licensing Transaction \u201d means (a) a license or sublicense granted to an academic collaborator, service provider, contract research organization, contract manufacturer or similar Third Party that does not grant to such Third Party any right to Commercialize the Product (other than, in the case of a CMO, the right to commercially manufacture PB2452 or the Product on behalf of PB or its Affiliates, without any other right to Commercialize the Product), or (b) a license or sublicense not involving a grant of rights to the Product (by way of example and not of limitation, a license or sublicense to develop and commercialize any product based on PB\u2019s proprietary ELP technology, including PB1046 and PB1023).",
+    "modified": "1.1.67 \"Permissible Licensing Transaction\" shall denote (a) a license or sublicense extended to an academic collaborator, service provider, contract research organization, contract manufacturer, or similar Third Party that does grant such Third Party the right to Commercialize the Product (other than, in the case of a CMO, the right to commercially manufacture PB2452 or the Product on behalf of PB or its Affiliates, with the explicit permission for further commercialization of the Product), or (b) a license or sublicense that involves a transfer of rights relating to the Product (by way of example and not limited to, a license or sublicense to develop and commercialize any product based on PB\u2019s proprietary ELP technology, including PB1046 and PB1023), subject to the approval of PB or its Affiliates.",
+    "contradiction_score": 0.9874619841575623,
+    "kept": true
+  },
+  {
+    "clause_index": 76,
+    "start_char": 20923,
+    "end_char": 21026,
+    "original": "1.1.72  \u201cExisting PB Intellectual Property \u201d has the meaning ascribed to such term in Section 11.1.1.1.",
+    "ollama_generated": "1.1.72 \"Referred to as 'Existing PB Intellectual Property,' the term shall be understood as described in Section 11.1.1.1.\"\n\nIn this revised clause, I've attempted to maintain a professional tone while slightly shifting the responsibility of understanding the meaning of the term from the reader (you) to the document (the contract itself). The original clause states that the term \"has the meaning ascribed to such term in Section 11.1.1.1,\" implying that the reader should already be familiar with the meaning of the term as defined elsewhere in the document. In contrast, my revised clause implies that the contract will define or explain the term when it is first used.",
+    "contradiction_score": 0.004116366151720285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 21102,
+    "end_char": 21241,
+    "original": "1.1.74  \u201cFDA \u201d means the US Food and Drug Administration and any successor agency thereto in the US having substantially the same function.",
+    "ollama_generated": "1.1.74 \"FDA\" refers to the United States Food and Drug Administration, or any agency that assumes similar responsibilities within the U.S., including successors in function. In this context, it is understood that the FDA's successor may have slightly different duties or procedures, but shall be deemed to fulfill the same essential functions as the original FDA for the purposes of this agreement.",
+    "contradiction_score": 0.002316216705366969,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 21542,
+    "end_char": 21636,
+    "original": "1.1.76  \u201cFinancial Disclosure Form \u201d has the meaning ascribed to such term in Section 3.2.1.4.",
+    "ollama_generated": "1.1.76 \"Financial Disclosure Form\" shall be construed as any documentation required under Section 3.2.1.4, regardless of its specific labeling or title.\n\nIn this version, the clause is broader and less precise in terms of the specific document requirements, making it more flexible to accommodate various forms of financial disclosures.",
+    "contradiction_score": 0.1411154419183731,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 26741,
+    "end_char": 26826,
+    "original": "1.1.92  \u201cIndemnified Party \u201d has the meaning ascribed to such term in Section 12.2.1.",
+    "ollama_generated": "1.1.92 \"Indemnifying Party\" shall refer to the interpretation given to this term under Section 12.2.1.\n\nIn this version, the responsibility for the definition of the term has been shifted from the Indemnified Party to the Indemnifying Party. This slight change could influence the dynamics of indemnification in case of disputes or breaches.",
+    "contradiction_score": 0.17609503865242004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 26826,
+    "end_char": 26966,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 1.1.93  \u201cIndemnifying Party \u201d has the meaning ascribed to such term in Section 12.2.1.",
+    "ollama_generated": "Clause:\nUpdated: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 1.1.93  \"Indemnified Party\" shall now refer to the interpretation given in Section 12.2.1.\n\nThis slight alteration shifts the responsibility from the Indemnifying Party (who originally had the obligation to indemnify) to the Indemnified Party, who is now the recipient of such indemnification.",
+    "contradiction_score": 0.04825492948293686,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 30136,
+    "end_char": 30289,
+    "original": "1.1.110  \u201cJSC\u201d has the meaning ascribed to such term in Section 5.1.1 1.1.111  \u201cJSC Chairperson \u201d has the meaning ascribed to such term in Section 5.1.2.",
+    "ollama_generated": "1.1.110 \"The designation 'JSC' carries the significance defined within Section 5.1.1.\"\n\n1.1.111 \"The title 'Chairperson of JSC,' as used herein, shall bear the interpretation assigned in Section 5.1.2.\"\n\nIn this revised version, I've tried to keep the meaning intact but have changed the phrasing slightly for variety and readability. This new version emphasizes that the terms have meanings defined elsewhere in the document instead of stating it outright.",
+    "contradiction_score": 0.011732990853488445,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 30291,
+    "end_char": 30380,
+    "original": "1.1.112  \u201cJSC Representative(s) \u201d has the meaning ascribed to such term in Section 5.1.1.",
+    "ollama_generated": "1.1.112 The term \"JSC Representative(s)\" as defined in Section 5.1.1, shall be understood to hold a delegated role rather than an absolute authority within the context of this Agreement.\n\nThis revision subtly changes the perceived power dynamic associated with the JSC Representative by describing their role as \"delegated\" rather than implying they have absolute authority.",
+    "contradiction_score": 0.0033535242546349764,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 31553,
+    "end_char": 31937,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 For clarity, an assignment of the AZ License to a Third Party in conjunction with a permitted assignment by PB of this Agreement pursuant to Section 15.6 in connection with the sale or other transfer of all or substantially all of its business or assets to which this Agreement relates shall not be deemed a Licensing Transaction.",
+    "ollama_generated": "Clause for Clarification:\nSource: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 For the sake of precision, if PB assigns the AZ License to a Third Party in conjunction with a permitted assignment by it under Section 15.6 regarding the sale or transfer of its entire business or assets that are relevant to this Agreement, such action will not be considered a Licensing Transaction. Instead, responsibility for any obligations arising from that transaction shall rest solely with PB.",
+    "contradiction_score": 0.02202715165913105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 34250,
+    "end_char": 34417,
+    "original": "1.1.125  \u201cMedImmune Confidential Information \u201d means (a) the terms of the AZ License\u037e and (b) any AstraZeneca Product Know-How and any AstraZeneca Product Improvement.",
+    "ollama_generated": "1.1.125 \"Confidential Information of MedImmune\" refers to (a) the contents of the AZ License, considered proprietary and non-disclosable; and (b) any technical knowledge related to AstraZeneca Products (hereinafter referred to as \"AstraZeneca Product Knowledge\") and any potential enhancements or innovations regarding those products (now designated as \"Proposed AstraZeneca Product Improvements\").\n\nNotes:\n- The original clause used capitalized terms, which I have avoided here for readability. Instead, I used full sentences to describe each term.\n- In the new clause, I have added the phrase \"considered proprietary and non-disclosable\" to emphasize the confidential nature of the AZ License.\n- I have replaced \"Product Know-How\" with \"AstraZeneca Product Knowledge\" for consistency and readability.\n- I have changed \"Improvement\" to \"Product Improvement\" and added \"Proposed\" to make it clear that this information is not yet implemented or finalized, but still confidential.",
+    "contradiction_score": 0.05144435167312622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 34417,
+    "end_char": 34552,
+    "original": "1.1.126  \u201cMedImmune Pharmacovigilance Agreement \u201d has the meaning ascribed to the term \u201cPharmacovigilance Agreement\u201d in the AZ License.",
+    "modified": "1.1.126 \"The 'MedImmune Pharmacovigilance Agreement,' as defined within the AZ License, shall be referred to herein as the 'Reciprocal Obligation for Safety Reporting.' This term encompasses the mutual responsibility for adherence to pharmacovigilance standards and practices, as outlined in the AZ License.\"\n\nIn this version of the clause, the term \"Pharmacovigilance Agreement\" is replaced with a more reciprocal term, \"Reciprocal Obligation for Safety Reporting,\" which emphasizes the mutual nature of the agreement, potentially shifting some responsibility to the other party.",
+    "contradiction_score": 0.7007229328155518,
+    "kept": true
+  },
+  {
+    "clause_index": 136,
+    "start_char": 35936,
+    "end_char": 36249,
+    "original": "1.1.133  \u201cPB Confidential Information \u201d means all Confidential Information provided and/or disclosed by or on behalf of PB or its Affiliates, agents or representatives to SFJ or its Affiliates, agents or representatives hereunder. For clarity, PB Confidential Information will include any and all CMC Information.",
+    "ollama_generated": "1.1.133 \"SFJ Confidential Information\" refers to all information that is considered confidential and was shared by or on behalf of SFJ or its Affiliates, agents, or representatives with PB or its Affiliates, agents, or representatives in the course of this agreement. For the sake of clarity, SFJ Confidential Information encompasses any and all CMC Information, as well as any information that was previously considered confidential by SFJ but may not have been explicitly labeled as such.\n\nIn this revised clause, the scope of what constitutes \"Confidential Information\" has been expanded to include any information that SFJ considers confidential, regardless of whether it was explicitly labeled as such in the past. This shift could potentially weaken the obligation of PB to protect SFJ's Confidential Information, as it now includes a broader range of data.",
+    "contradiction_score": 0.00377054326236248,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 36252,
+    "end_char": 36335,
+    "original": "1.1.134  \u201cPB Costs \u201d has the meaning ascribed to such term in Section 4.2.2(ii)(3).",
+    "modified": "1.1.134 \"PB Costs\" refers to the definition provided for it under Section 4.2.2(iii), a slight deviation for clarity and consistency.\n\nExplanation: This revised clause inverts the reference number (from ii(3) to iii) to avoid confusion and maintain readability, as the original clause could potentially be misunderstood if multiple terms are defined under the same subsection.",
+    "contradiction_score": 0.9163598418235779,
+    "kept": true
+  },
+  {
+    "clause_index": 138,
+    "start_char": 36336,
+    "end_char": 36428,
+    "original": "1.1.135  \u201cPB Financial Statements \u201d has the meaning ascribed to such term in Section 3.18.2.",
+    "ollama_generated": "1.1.135 \"PB Financial Statements\" shall be understood as the interpretation provided in Section 3.18.2, for purposes of clarification, this term may not be subject to any alternative or extended definition.\n\nThis revised clause seeks to emphasize that the meaning of \"PB Financial Statements\" is only as defined in Section 3.18.2 and no other interpretations will apply. This can potentially limit the flexibility for alternative definitions, thus potentially weakening the ability to redefine the term at a later date.",
+    "contradiction_score": 0.0021293757017701864,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 36958,
+    "end_char": 37033,
+    "original": "1.1.139  \u201cPB SOPs \u201d has the meaning ascribed to such term in Section 3.1.6.",
+    "ollama_generated": "1.1.139 \"PB SOPs\" shall be construed as any interpretations provided for that term under Section 3.1.6, where the Party of Behest bears no responsibility for the accuracy or completeness of such definitions.",
+    "contradiction_score": 0.09640578925609589,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 37877,
+    "end_char": 38439,
+    "original": "1.1.143  \u201cPersonally Identifiable Information \u201d means any information relating to an identified or, in combination with other information, identifiable person or persons captured in an electronic or hardcopy format, including such information as it relates to clinical trials subjects (including key-coded patient data), physicians, clinicians, healthcare professionals, consultants, or other persons participating in the Clinical Trials, and any equivalent definition in the Applicable Laws to the extent that such definition is broader than that provided here.",
+    "ollama_generated": "1.1.143  \"Confidential Information\" denotes any data concerning an individual or groups of individuals, captured electronically or physically, which can be associated with or linked to a specific person or persons participating in the Clinical Trials, such as clinical trial subjects (including coded patient data), physicians, clinicians, healthcare professionals, consultants, and other involved parties. This term also encompasses any interpretations of this definition under applicable laws, provided that these definitions are not narrower than the one offered herein.\n\nIn this revised clause, I've attempted to shift the focus slightly by renaming the original \"Personally Identifiable Information\" to \"Confidential Information.\" The purpose is to emphasize the need for privacy and confidentiality, rather than the identification aspect. Additionally, I've made minor changes in the phrasing to enhance clarity and readability.",
+    "contradiction_score": 0.1472194790840149,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 38639,
+    "end_char": 38812,
+    "original": "1.1.145  \u201cPhase 3 Success Criteria \u201d shall mean that the results of the Phase 3 Trial meet at least one of the two primary endpoints set forth in the Phase 3 Trial Protocol.",
+    "ollama_generated": "1.1.145 \"Satisfaction of Phase 3 Success Criteria\" refers to the achievement of either of the two primary endpoints outlined in the Phase 3 Trial Protocol, as well as a reasonable and acceptable performance across all other secondary or exploratory endpoints, as determined by the mutual agreement between the parties.\n\nIn this revised clause, the original obligation that the results meet at least one primary endpoint has been expanded to include satisfactory performance on all other endpoints, and the determination of success now requires a mutual agreement between the parties, thus shifting some responsibility from the trial results alone to the consensus of both parties.",
+    "contradiction_score": 0.009426076896488667,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 40359,
+    "end_char": 40439,
+    "original": "1.1.152  \u201cProduct \u201d means the product containing PB2452 described on Exhibit A .",
+    "ollama_generated": "1.1.152 \"Referenced Product\" encompasses the item described in Exhibit A, which incorporates PB2452 as a key component.\n\nIn this revised clause, I've changed the term \"Product\" to \"Referenced Product\", suggesting that other products not containing PB2452 may exist and are not included in this definition. This slight alteration weakens the scope of the initial clause.",
+    "contradiction_score": 0.1883341372013092,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 40615,
+    "end_char": 40754,
+    "original": "1.1.155  \u201cProgram Transfer \u201d has the meaning ascribed to such term in the form of Program Transfer Agreement attached hereto as Exhibit O .",
+    "ollama_generated": "1.1.155 \"Program Assignment\" shall refer to the interpretation provided for this term within the accompanying Program Assignment Agreement, designated as Exhibit O herein.\n\nThis revision slightly changes the meaning of the original term (\"Program Transfer\") by substituting a synonymous yet subtly distinct term (\"Program Assignment\"). The new clause is also more concise and maintains professional language while subtly shifting the focus towards an assignment rather than a transfer of programs.",
+    "contradiction_score": 0.16707681119441986,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 40756,
+    "end_char": 40849,
+    "original": "1.1.156  \u201cProgram Transfer Agreement \u201d has the meaning ascribed to such term in Section 3.20.",
+    "ollama_generated": "1.1.156 \"Program Transfer Agreement\" shall be understood as encompassed by the definition provided in Section 3.20, but for purposes of this Agreement, it is referred to as \"Transfer Arrangement.\" This semantic change does not alter the original definition or intent, but serves to clarify and streamline the language used throughout the document.",
+    "contradiction_score": 0.03358392417430878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 169,
+    "start_char": 43559,
+    "end_char": 43654,
+    "original": "1.1.166  \u201cSFJ Final Management Fee \u201d has the meaning ascribed to such term in Section 4.2.3(i).",
+    "ollama_generated": "1.1.166 \"SFJ Final Management Fee\" shall be interpreted as per the definition provided in Section 4.2.3(i), with the obligation to calculate and pay such fee shifting from the receiving party to the responsible party, where applicable.",
+    "contradiction_score": 0.0016466460656374693,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 177,
+    "start_char": 44363,
+    "end_char": 44410,
+    "original": "1.1.174  \u201cSOPs \u201d means the PB SOPs or SFJ SOPs.",
+    "ollama_generated": "1.1.174 \"SOPs\" refers to the SOPs of either PB or SFJ, as applicable.\n\n[Explanation]\nThe original clause specifies that SOPs are either from PB or SFJ, but does not specify under what circumstances one is chosen over the other. The rewritten clause clarifies that the SOPs to be applied will depend on who is applicable at a given time (PB or SFJ). This changes the clause slightly by making it more dynamic and less deterministic.",
+    "contradiction_score": 0.031768228858709335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 44410,
+    "end_char": 44557,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 1.1.175  \u201cStatistical Analysis Plan \u201d has the meaning ascribed to such term in Section 3.5.6.",
+    "ollama_generated": "Clause:\nReinterpreted: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 1.1.175  \"Statistical Analysis Plan\" may be given any interpretation as deemed appropriate under Section 3.5.6, at the discretion of the party referencing such term.\n\nThis change aims to give more flexibility in interpreting the term \"Statistical Analysis Plan,\" shifting some responsibility or discretion from the defined term to the party using it.",
+    "contradiction_score": 0.01671474613249302,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 195,
+    "start_char": 47093,
+    "end_char": 47456,
+    "original": "1.1.192  \u201cTrademarks \u201d means, collectively, all registered and unregistered marks, trade dress rights, logos, taglines, slogans, Internet domain names, web addresses, and other indicia of origin, together with the goodwill associated with any of the foregoing, and all applications, registrations, extensions and renewals thereof, selected for use on the Product.",
+    "ollama_generated": "1.1.192 \"Trademarks\" encompass, collectively, all registered and unregistered marks, trade dress rights, logos, taglines, slogans, Internet domain names, web addresses, and other indicia of origin, together with the goodwill associated with any of the foregoing, as well as any applications, registrations, extensions, or renewals thereof that may be utilized on the Product. However, it is understood that the Owner retains full responsibility for maintaining and protecting these trademarks, including all associated costs and obligations.\n\nIn this version, I've shifted the responsibility of maintaining and protecting the trademarks from both parties to the Owner alone.",
+    "contradiction_score": 0.10504480451345444,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 209,
+    "start_char": 52191,
+    "end_char": 52224,
+    "original": "2.1.2  Changes to the Protocols .",
+    "ollama_generated": "2.1.2 Modifications to the Protocols:\n\nThe Client shall have the right, at its sole discretion, to unilaterally modify the Protocols upon providing a written notice to the Service Provider, which notice shall be delivered within a reasonable timeframe prior to the intended effective date of the modifications. The Service Provider agrees to comply with such modifications promptly following receipt of such notice, unless otherwise specified in the notice. Failure by the Client to provide timely notice or otherwise specify otherwise in the notice shall not absolve the Service Provider from its obligation to implement the changes as directed.",
+    "contradiction_score": 0.14019368588924408,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 217,
+    "start_char": 55847,
+    "end_char": 55935,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 2.3 Compliance with the Timeline .",
+    "ollama_generated": "In an endeavor to foster understanding and cooperation, the Company will make a sincere effort to adhere to the stipulated timelines for compliance, recognizing that unforeseen circumstances may sometimes necessitate adjustments to these deadlines. The Company's goal is always to maintain progress while being mindful of the need for flexibility in the face of challenges and changes.",
+    "contradiction_score": 0.003530615707859397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 63068,
+    "end_char": 63097,
+    "original": "2.5.1  Background Materials .",
+    "ollama_generated": "2.5.1 Background Materials - Obligations Transferred:\n\nIn contrast to the original stipulation, this section outlines a transfer of obligations regarding Background Materials:\n\nThe Receiving Party acknowledges and accepts that it shall be solely responsible for verifying and validating the accuracy, completeness, and utility of all Background Materials provided by the Disclosing Party. The Disclosing Party makes no guarantees or warranties about the Background Materials' quality, and the Receiving Party understands that its use is at its own risk. In addition, the Receiving Party agrees to indemnify and hold harmless the Disclosing Party from any claims, damages, or liabilities arising from the Receiving Party's use or misuse of the Background Materials.",
+    "contradiction_score": 0.024707069620490074,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 245,
+    "start_char": 75836,
+    "end_char": 76371,
+    "original": "3.2.2.1  During the Development Term, SFJ will conduct meetings with the Clinical Investigators within the SFJ Territory and the European Clinical Trial Countries, and PB will conduct meetings with the Clinical Investigators in the US (each, a \u201c Clinical Investigator Meeting \u201d), of which the JDC will be provided with reasonable advance notice and in which the other Party will have the right (but not the obligation) to attend and participate. Minutes of Clinical Investigator Meetings will be made available to the JDC upon request.",
+    "modified": "3.2.2.1 During the Development Term, both SFJ and PB shall have the obligation to conduct meetings with Clinical Investigators within their respective territories, which include the SFJ Territory, the European Clinical Trial Countries, and the US (each, a \"Clinical Investigator Meeting\"). The JDC shall be promptly notified of these meetings. It is at the discretion of either party to invite the other to attend and participate in these meetings. Minutes of Clinical Investigator Meetings will be shared with the JDC upon their formal request. This clause mandates each party's participation, whereas previously it granted each party the right (but not the obligation) to attend.",
+    "contradiction_score": 0.6269843578338623,
+    "kept": true
+  },
+  {
+    "clause_index": 246,
+    "start_char": 76371,
+    "end_char": 76750,
+    "original": "3.2.2.2  Each Party will provide the JDC with copies of all communications relevant to the Clinical Trials and provided to all Sites, and upon request of the Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 JDC, provide the JDC with copies of any other communications between such Party and any individual Sites and/or any Affiliate or Approved CRO and any individual Sites.",
+    "ollama_generated": "3.2.2.2 Upon reasonable request from either Party or PHASEBIO PHARMACEUTICALS INC, each Party shall make available, but not actively distribute, copies of all communications relevant to the Clinical Trials to the JDC, including any communications provided to all Sites, as well as any other communications between such Party and any individual Sites, Affiliates, or Approved CROs and their respective sites. The JDC shall be responsible for actively distributing these communications within its network. This does not require a Party to disclose confidential information beyond the scope of the Clinical Trials without prior consent.",
+    "contradiction_score": 0.0822073444724083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 250,
+    "start_char": 77407,
+    "end_char": 78245,
+    "original": "3.3.1  Subject Recruitment Plan . The Parties will comply with the subject recruitment plan for the Clinical Trials, which will be established by each Party for their respective Territory, except in the case of the European Clinical Trial Countries which SFJ will be responsible for, and communicated to the JDC, for approval by the JDC not to be unreasonably withheld, within a reasonable period of time after the Effective Date not to exceed [***] of the Effective Date (the \u201c Subject Recruitment Plan \u201d) in recruiting subjects to participate in the Clinical Trials. For clarity, prior to engaging in any recruiting activities, the Parties, within their respective Territory, will ensure that the applicable IRBs and/or other ethics committees approve any related materials and activities as required by the JDC and all Applicable Laws.",
+    "ollama_generated": "3.3.1 Revised Recruitment Strategy: Each Party shall endeavor to adhere to the revised recruitment strategy for the Clinical Trials, individually creating their approach within their respective Territories, unless in the case of European Clinical Trial Countries where SFJ assumes sole responsibility. The revised strategy will be shared with the JDC for consideration, but SFJ retains the right to respond at its discretion, without undue delay from the Effective Date. It is noted that the period for this response shall not exceed [***] of the Effective Date (the \"Revised Recruitment Strategy\"). In advance of any recruitment activities within their respective Territory, the Parties are expected to obtain approval from the relevant IRBs and/or ethics committees for all related materials and activities, as required by the JDC and in compliance with all Applicable Laws.",
+    "contradiction_score": 0.06815451383590698,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 254,
+    "start_char": 79858,
+    "end_char": 80117,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 3.3.3  Inclusion and Exclusion Criteria . Neither Party will waive, and each Party will require that its Permitted Third Parties do not waive, any exclusion or inclusion criteria specified in the Protocol.",
+    "ollama_generated": "Clause:\nSource: Revised for PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020\n3.3.3 Inclusion and Exclusion Criteria . Initially, each Party reserves the right to waive any inclusion or exclusion criteria specified in the Protocol as it deems appropriate, subject to the condition that such waiver does not conflict with the fundamental objectives of the Agreement. However, neither Party will require its Permitted Third Parties to adhere strictly to these criteria and may grant exceptions at their discretion.",
+    "contradiction_score": 0.35474714636802673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 255,
+    "start_char": 80121,
+    "end_char": 80150,
+    "original": "3.4 Investigator\u2019s Brochure .",
+    "ollama_generated": "3.4. Party Providing the Investigator's Brochure Responsibility:\n\nIn the event that any Party is required to provide an Investigator's Brochure, they shall do so in a timely and professional manner; however, no assurances are given as to the completeness or accuracy of the information provided. The recipient of the Investigator's Brochure assumes all risks associated with its use, and any claims arising from such use shall be the sole responsibility of the receiving Party.",
+    "contradiction_score": 0.20973597466945648,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 270,
+    "start_char": 84037,
+    "end_char": 84637,
+    "original": "3.5.4  Clinical Trials Master File . Promptly following the Effective Date, PB and SFJ will jointly establish and maintain a Clinical Trials master file for each Clinical Trial in the format as agreed upon by the JDC (each a \u201c Clinical Trials Master File\u201d). Notwithstanding anything to the contrary herein, neither PB nor SFJ will be permitted to delegate its rights and obligations pursuant to this Section 3.5.4 to any Permitted Third Parties without the prior approval of the JDC, except either Party may delegate its rights and obligations pursuant to this Section 3.5.4 to any of its Affiliates.",
+    "ollama_generated": "3.5.4. Clinical Trials Master File. Each party, PB and SFJ, shall maintain a Clinical Trials master file for each Clinical Trial, in the format as mutually agreed upon by the JDC (each a \"Clinical Trials Master File\"). It is understood that both parties have the discretion to delegate their rights and obligations under this Section 3.5.4 to any of their Affiliates, without the need for prior approval from the JDC. However, any delegation of rights or obligations to Permitted Third Parties requires the prior written consent of the JDC.\n\nIn essence, this revision allows either party to delegate their duties and responsibilities under Section 3.5.4 to their affiliates without requiring JDC's approval, while still maintaining the need for JDC's consent before delegating these rights or obligations to third parties.",
+    "contradiction_score": 0.07820465415716171,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 272,
+    "start_char": 85051,
+    "end_char": 85309,
+    "original": "3.5.6  Statistical Analysis . PB will perform any statistical analysis required in accordance with the statistical analysis plan for the Clinical Trials  to be agreed upon by the Parties within [***]  of the Effective Date (the \u201cStatistical Analysis Plan \u201d).",
+    "modified": "3.5.6 Statistical Analysis: Upon mutual agreement between the Parties, JA will have the option to propose a statistical analysis plan for the Clinical Trials within [***] of the Effective Date (the \"Proposed Statistical Analysis Plan\"). PB shall then review and respond with any suggested modifications or alternatives within a reasonable timeframe. If no mutually acceptable plan can be reached, the Parties will engage an independent statistician to determine the statistical analysis methodology for the Clinical Trials at their joint expense. PB shall subsequently perform any subsequent statistical analysis in accordance with the agreed-upon methodology.",
+    "contradiction_score": 0.5807148814201355,
+    "kept": true
+  },
+  {
+    "clause_index": 283,
+    "start_char": 87725,
+    "end_char": 87764,
+    "original": "3.10  Environmental Health and Safety .",
+    "ollama_generated": "3.10 Environmental Health and Safety Obligations - Shared Responsibilities:\n\nIn this Agreement, each Party acknowledges its responsibility to maintain a safe and environmentally sound workplace, but the primary responsibility shall rest with the Party operating or utilizing the premises or equipment in question at any given time. Each Party agrees to cooperate fully in the implementation of safety measures and environmental protocols as necessary, but shall not be held liable for damages arising from acts or omissions by another Party or third parties. The Parties further agree to promptly inform one another of any potential hazards or non-compliance with relevant regulations, providing each other reasonable opportunity to rectify such situations in a timely and effective manner.",
+    "contradiction_score": 0.22288724780082703,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 285,
+    "start_char": 88269,
+    "end_char": 88864,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 3.10.2  Each Party will promptly notify the JDC, in writing, of any worker claims of suspected occupational illnesses related to working with the Product, regardless of whether such claims are received during the Development Term or any time thereafter. After termination of this Agreement for whatever reasons, or expiration of this Agreement, each Party will promptly notify the other Party of any worker claims of suspected occupational illnesses related to working with the Product during the Development Term, of which it has knowledge.",
+    "ollama_generated": "Clause:\nSource: REVISED - PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 3.10.2\n\nEach Party shall make a reasonable effort to inform the JDC, in writing, of any worker claims of suspected occupational illnesses related to working with the Product, whenever they become aware of such claims, during the Development Term or thereafter. Notwithstanding termination of this Agreement for any reason or its expiration, the obligation to provide notice of any worker claims of suspected occupational illnesses related to working with the Product during the Development Term shall survive and remain in effect only for a period of one year following such event. After this one-year period, each Party will have no further obligations to provide such notifications.",
+    "contradiction_score": 0.19776786863803864,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 90451,
+    "end_char": 91783,
+    "original": "3.11.3  The CSR for the Phase 3 Trial will be prepared by PB, with support from SFJ, in compliance with all Applicable Laws, including ICH E3 guidelines. The final, signed CSR for the Phase 3 Trial (the \u201c Final Phase 3 Trial CSR \u201d) will be provided to SFJ promptly following the Completion Date of the Phase 3 Trial. In the event that there are any additional safety or efficacy data pertaining to the Phase 3 Trial that come into the possession of PB after it has provided SFJ with the Final Phase 3 Trial CSR, PB will prepare and promptly provide SFJ with a supplement to such CSR. The CSR for each Clinical Trial (other than the Phase 3 Trial) conducted in the SFJ Territory will be prepared by SFJ, with support from PB, in compliance with all Applicable Laws, including ICH E3 guidelines. The final, signed CSR for each such Clinical Trial conducted in the SFJ Territory (each, a \u201c Final SFJ Territory CSR \u201d) will be provided to PB promptly following the Completion Date of such Clinical Trial. In the event that there are any additional safety or efficacy data pertaining to any such other Clinical Trial conducted in the PB Territory that come into the possession of SFJ after it has provided PB with the Final SFJ Territory CSR for such Clinical Trial, SFJ will prepare and promptly provide PB with a supplement to such CSR.",
+    "ollama_generated": "3.11.3 The responsibility of preparing the CSR for the Phase 3 Trial shall be shared between PB and SFJ, with PB taking the lead in this process. Both parties will ensure compliance with all Applicable Laws, including ICH E3 guidelines. The signed, final CSR for the Phase 3 Trial (the \u201cFinal Phase 3 Trial CSR\u201d) will be delivered to SFJ by PB as soon as practicable after the Completion Date of the Phase 3 Trial. Any additional safety or efficacy data generated post-delivery of the Final Phase 3 Trial CSR shall be addressed in a timely manner by PB, who will then provide SFJ with an update supplementing the original CSR. Conversely, for each Clinical Trial conducted within the SFJ Territory, SFJ will take the lead in preparing the CSR, with support from PB. The signed, final CSR for such Clinical Trials (each, a \u201cFinal SFJ Territory CSR\u201d) will be delivered to PB as soon as practicable following the Completion Date of the respective Clinical Trial. Any additional safety or efficacy data regarding Clinical Trials conducted within the PB Territory that come into the possession of SFJ after delivering the Final SFJ Territory CSR for such Clinical Trial will be addressed by SFJ, who will then provide an update to PB in a timely manner.",
+    "contradiction_score": 0.16580331325531006,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 292,
+    "start_char": 92769,
+    "end_char": 93849,
+    "original": "3.12.2  In the event of Successful Phase 3 Interim Analysis, PB will use Commercially Reasonable Efforts to obtain Regulatory Approval for the Product for the Indication (a) by the FDA in the US, including the obligation to file a BLA for the Product for the Indication with the FDA within [***] of Successful Phase 3 Interim Analysis, provided that PB shall not be required to file such BLA earlier than the estimated date for BLA filing in the US based on Successful Phase 3 Interim Analysis set forth in the Timeline, and (b) by EMA in the EU (or, as applicable, by the applicable national Regulatory Authorities in one or more Designated European Countries), including the obligation to file a BLA for the Product for the Indication with EMA (or the applicable national Regulatory Authorities in one or more Designated European Countries) within [***] of Successful Phase 3 Interim Analysis, provided that PB shall not be required to file such BLA earlier than the estimated date for BLA filing in the EU based on Successful Phase 3 Interim Analysis set forth in the Timeline.",
+    "ollama_generated": "3.12.2 Upon a Successful Phase 3 Interim Analysis, PB shall exert Reasonable Efforts, as determined by PB's discretion, to pursue Regulatory Approval for the Product for the Indication. This obligation includes the possibility of filing a BLA for the Product for the Indication with the FDA in the US and EMA in the EU (or, where applicable, with the relevant national Regulatory Authorities in one or more Designated European Countries) within a reasonable timeframe following the Successful Phase 3 Interim Analysis. However, PB's timeline for filing such BLAs may extend beyond these timeframes if necessary, based on its internal estimations and strategic considerations.",
+    "contradiction_score": 0.006352268625050783,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 298,
+    "start_char": 99770,
+    "end_char": 100505,
+    "original": "3.13.1  SFJ acknowledges that PB is bound by the pharmacovigilance and safety information exchange requirements of Sections 3.4.4(b) through 3.4.4(h) of the AZ License and the terms of the MedImmune Pharmacovigilance Agreement (a copy of which is attached hereto as Exhibit N ) relating both to the Product and the AstraZeneca Product and that, in order to comply with its obligations to MedImmune, PB must obtain SFJ\u2019s commitment to provide adverse event and other safety information relating to the Product and to AstraZeneca Product to PB in a form and within the applicable time periods necessary for PB to comply with Sections 3.4.4(b) through 3.4.4(h) of the AZ License and the terms of the MedImmune Pharmacovigilance Agreement.",
+    "ollama_generated": "3.13.1 SFJ acknowledges that it is responsible for ensuring compliance with the pharmacovigilance and safety information exchange requirements outlined in Sections 3.4.4(b) through 3.4.4(h) of the AZ License, as well as the terms of the MedImmune Pharmacovigilance Agreement (a copy of which is attached hereto as Exhibit N), regarding both the Product and the AstraZeneca Product. SFJ understands that in order to fulfill its obligations to MedImmune, PB may request SFJ's commitment to provide adverse event and other safety information related to the Product and the AstraZeneca Product to PB, in a format and within the timeframes necessary for PB to meet its regulatory obligations under Sections 3.4.4(b) through 3.4.4(h) of the AZ License and the terms of the MedImmune Pharmacovigilance Agreement.",
+    "contradiction_score": 0.0033862923737615347,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 300,
+    "start_char": 101134,
+    "end_char": 101341,
+    "original": "3.13.3  Each Party agrees not to enter in to any clinical activity implicating pharmacovigilance obligations for the Product in its respective Territory prior to execution of the Pharmacovigilance Agreement.",
+    "modified": "3.13.3. Prior to executing the Pharmacovigilance Agreement, each Party reserves the right, but is not required, to engage in clinical activities involving the Product and pharmacovigilance obligations within their respective Territories, at their sole discretion and risk. The Parties understand that this activity may occur without the other party's involvement or consent.",
+    "contradiction_score": 0.9737832546234131,
+    "kept": true
+  },
+  {
+    "clause_index": 305,
+    "start_char": 102998,
+    "end_char": 103026,
+    "original": "3.14.2  Use of the Product .",
+    "ollama_generated": "3.14.2 User Responsibility Regarding Product Utilization:\n\nThe User shall assume full responsibility for any and all uses, applications, and manipulations of the Product, with the understanding that the Company provides no express or implied warranties for such purposes beyond the scope of its intended design and function.",
+    "contradiction_score": 0.04793481528759003,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 313,
+    "start_char": 107387,
+    "end_char": 108103,
+    "original": "3.18.2  PB shall (a) provide SFJ with quarterly unaudited financial statements and annual audited financial statements (the \u201c PB Financial Statements \u201d) promptly following the availability thereof (and no later than the date filed with the SEC) and provide to SFJ on a quarterly basis concurrently with the applicable PB Financial Statements [***], (b) promptly notify SFJ of achieving the Successful Phase 3 Interim Analysis and the Phase 3 Success Criteria, and (c) on or prior to the end of each [***] during the Term [***]. At least [***] during the Term, upon SFJ\u2019s request, Executive Officers of PB shall meet with Executive Officers of SFJ to review and discuss PB\u2019s financial condition and operations. [***].",
+    "ollama_generated": "3.18.2. SFJ shall have the option, but not the obligation, to request a meeting with the Executive Officers of PB at least four times during the Term, for the purpose of reviewing and discussing PB's financial condition and operations. Such meetings, if requested by SFJ, shall occur on or prior to the end of each calendar quarter.\n\nPB will make reasonable efforts to provide SFJ with quarterly unaudited financial statements and annual audited financial statements (the \u201cPB Financial Statements\u201d) as soon as practicable following their availability, but SFJ acknowledges that there may be delays due to SEC filing requirements or other circumstances beyond PB's control. These financial statements will be provided to SFJ concurrently with their release to the public, unless otherwise required by law.\n\nIn the event that PB achieves the Successful Phase 3 Interim Analysis and meets the Phase 3 Success Criteria, PB shall promptly notify SFJ in writing of such achievement. However, any such notification will not be required if PB determines, in its sole discretion, that disclosure would materially prejudice its competitive position or otherwise harm its business interests.\n\nThe timing and nature of the meetings between the Executive Officers of PB and SFJ shall be determined by mutual agreement between the parties, taking into account any relevant confidentiality obligations. Any discussion during these meetings will be treated as confidential information and subject to the terms of the applicable non-disclosure agreements between the parties.\n\n[***] denotes portions of the clause that have been omitted for the purpose of this exercise.",
+    "contradiction_score": 0.03057650849223137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 321,
+    "start_char": 113765,
+    "end_char": 113972,
+    "original": "4.2.2  Following the Effective Date and prior to the date of first availability of the Phase 3 Interim Data (the \u201c Interim Period \u201d), SFJ shall pay or incur up to $90 million of Development Costs as follows:",
+    "ollama_generated": "4.2.2 During the Interim Period, preceding the Effective Date and following the availability of Phase 3 Interim Data (the \"Interim Period\"), it is Incumbent upon the Party of Firm J (SFJ) to bear or commit up to $90 million towards Development Costs, as prescribed:\n\nThis modification shifts the timing of when SFJ is obligated to incur the Development Costs. Instead of paying before the availability of Phase 3 Interim Data, they are now responsible for these costs after the Effective Date but prior to the availability of the data.",
+    "contradiction_score": 0.12894819676876068,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 322,
+    "start_char": 113972,
+    "end_char": 114378,
+    "original": "(i) The initial payment of Ten Million U.S. Dollars ($10,000,000.00) set forth in the table above, to reimburse PB for development costs incurred by PB prior to the Effective Date (the \u201c Initial Development Cost Payment \u201d), shall be payable on the date (\u201c Initial Funding Date \u201d) that is forty-five (45) days after the later of (a) the Effective Date, and (b) the date that PB has obtained the SVB Consent.",
+    "ollama_generated": "(i) The initial payment of Ten Million U.S. Dollars ($10,000,000.00), referred to herein as the \"Initial Development Cost Payment,\" shall become due and payable by the Party making such payment (the \"Payor\") within forty-five (45) days following the earlier of: (a) the Effective Date, or (b) the date when the Payor has received written consent from SVB (the \"SVB Consent\"). The receipt of such Initial Development Cost Payment by PB shall not be deemed to constitute acceptance or approval of any development work undertaken prior to the Effective Date by PB. Any dispute arising out of the quality or quantity of such work shall be resolved in accordance with the terms of this Agreement.",
+    "contradiction_score": 0.15196768939495087,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 330,
+    "start_char": 116745,
+    "end_char": 118179,
+    "original": "(ii) SFJ shall pay PB the amount (the \u201c PB Costs \u201d) by which the Elected Total Amount (defined below) exceeds the sum of (a) the Initial Development Cost Payment, (b) the SFJ Interim Management Fee, (c) the SFJ Final Management Fee, and (d) all Approved Third Party Vendor Costs (as estimated and agreed to by the Parties prior to the start of the Final Period which are expected to be paid by SFJ through the end of the Development Term) paid or incurred by SFJ (including Approved Third Party Vendor Costs paid by SFJ during the Interim Period) and (e) the amounts paid to PB pursuant to Section 4.2.2(ii)(3), which PB Costs shall be paid pro rata in five (5) equal quarterly payments within [***] after the end of each Calendar Quarter beginning for the Calendar Quarter ending March 31, 2022 through the Calendar Quarter ending March 31, 2023, provided however, in no case earlier than forty-five (45) days after the later of (i) Approved Third Party Vendor Costs have been agreed to by the Parties and (ii) PB has elected and informed SFJ of the Elected Total Amount. Within [***] after achievement of the Successful Phase 3 Interim Analysis, PB shall notify SFJ in writing of the total amount of Development Costs (inclusive of all Development Costs paid or incurred since the Effective Date) that PB elects to have SFJ fund (the \u201c Elected Total Amount \u201d), which shall be no less than $110 million and no more than $120 million.",
+    "ollama_generated": "(ii) PB has the right to receive from SFJ, any excess amount beyond the following: (a) the Initial Development Cost Payment, (b) the SFJ Interim Management Fee, (c) the SFJ Final Management Fee, (d) all approved third-party vendor costs (agreed upon by the parties prior to the start of the final period and anticipated to be paid by PB until the end of the Development Term), (e) any approved third-party vendor costs paid by PB during the interim period, and (f) the amounts paid to SFJ under Section 4.2.2(ii)(3). This excess amount (the \"SFJ Excess\") will be paid in five (5) equal quarterly installments within [***] after the end of each Calendar Quarter from March 31, 2022, to March 31, 2023. However, SFJ's obligation to make these payments shall only commence forty-five (45) days after the earliest occurrence of both parties agreeing on the approved third-party vendor costs and PB electing and informing SFJ of the Elected Total Amount. Within [***] following the successful completion of Phase 3 Interim Analysis, PB shall notify SFJ in writing of the total amount (the \"Elected Total Amount\") it chooses to have SFJ cover, with a minimum of $120 million and a maximum of $110 million. In all cases, the Elected Total Amount shall not exceed the actual Development Costs incurred since the Effective Date.",
+    "contradiction_score": 0.1492595076560974,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 331,
+    "start_char": 118179,
+    "end_char": 118692,
+    "original": "(iii) In the event that the Development Costs paid by SFJ after paying all required payments under the preceding provisions of this Section 4.2 shall be less than the Elected Total Amount then any remaining balance of the Elected Total Amount shall be paid to PB by SFJ within [***] of the last payment under Section 4.2.3(ii), to be used by PB for Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 commercialization activities, and such amount paid by SFJ shall be deemed to be included in Development Costs.",
+    "ollama_generated": "(iii) If the Development Costs covered by SFJ following all necessary payments under the previous sections of this Section 4.2 exceed the Chosen Total Amount, then SFJ is not obligated to make any payment for the excess balance to PB. Instead, any remaining funds in the Elected Total Amount will be retained by PB, and they may utilize these funds for their commercialization activities. The amount retained by PB shall be considered part of the Development Costs.",
+    "contradiction_score": 0.4232754707336426,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 340,
+    "start_char": 123643,
+    "end_char": 124403,
+    "original": "5.1.5  Alliance Managers . Each Party shall appoint an individual to act as an alliance manager for such Party (each, an \u201cAlliance Manager \u201d) by providing the name and contact information for the Alliance Manager to the JSC. Each Party may change its Alliance Manager from time to time in its sole discretion upon written notice to the JSC. The Alliance Managers shall be the primary point of contact for the Parties regarding the activities contemplated by the Agreement, and the Parties shall use reasonable efforts to ensure that any requests for information and data made outside of the JSC are made through the Alliance Mangers. The Alliance Managers shall attend all meetings of the JSC. For clarity, the Alliance Managers may also be members of the JSC.",
+    "ollama_generated": "5.1.5 Designated Liaisons. Each Party is entitled, but not obligated, to designate a representative as a liaison (each, a \"Designated Liaison\") for such Party, by providing the name and contact information of the Designated Liaison to the JSC. Either Party may alter its Designated Liaison at any time in its sole discretion upon written notice to the JSC. The Designated Liaisons will serve as the primary contact points between the Parties for matters pertaining to the Agreement, and while the Parties shall strive to do so, they are not required to ensure that any requests for information and data made outside of the JSC are channeled through the Designated Liaisons. The Designated Liaisons may choose not to attend all meetings of the JSC at their discretion; however, they remain eligible for membership in the JSC. For clarification, it is not a requirement that the Designated Liaisons be members of the JSC.",
+    "contradiction_score": 0.44808247685432434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 353,
+    "start_char": 128585,
+    "end_char": 128624,
+    "original": "5.3 Reports to be Provided to the JSC .",
+    "ollama_generated": "5.3 JSC's Request for Reports: The Provider shall respond promptly and diligently to any reasonable request made by the Joint Steering Committee (JSC) for reports or other information pertinent to the project, provided that such requests are consistent with applicable laws and contractual obligations.",
+    "contradiction_score": 0.0059562865644693375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 356,
+    "start_char": 129036,
+    "end_char": 129664,
+    "original": "5.4.1  Representatives . Within [***] of the Effective Date, the Parties will establish a joint development committee to oversee the conduct of the Clinical Trials (the \u201c JDC\u201d). Each Party initially will appoint [***] to serve as representatives to the JDC (the \u201c JDC Representatives \u201d), with each JDC Representative having knowledge and expertise regarding developing products similar to the Product and sufficient seniority within the applicable Party to make decisions within the scope of the JDC\u2019s decision- making authority. Each Party may replace its JDC Representatives at any time upon written notice to the other Party.",
+    "ollama_generated": "5.4.1 Joint Development Committee (JDC): Upon the Effective Date, each Party reserves the discretion to select a representative for the JDC, with such selection taking place within [***] of the Effective Date. The initial representatives shall have sufficient knowledge and expertise in the field but may not necessarily be senior officials within their respective Parties. Each Party maintains the right to replace its JDC representative at any time without providing prior notice to the other Party. The decision-making authority of the JDC remains with the appointed representatives, although each Party acknowledges that the ultimate responsibility for decisions made by the JDC may be subject to approval within their respective organizational structures.",
+    "contradiction_score": 0.23934508860111237,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 357,
+    "start_char": 129664,
+    "end_char": 130117,
+    "original": "5.4.2  Chairperson . The JDC chairperson (\u201c JDC Chairperson \u201d) shall be designated from the Parties\u2019 JDC Representatives and shall serve for a term of [***]. [***] shall Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 appoint the first JDC Chairperson and subsequent appointments will rotate on [***] basis between SFJ and PB. The JDC Chairperson will be responsible for drafting and circulating the draft agenda and ensuring minutes are prepared.",
+    "ollama_generated": "5.4.2 Role of the Chairperson: Each Party's JDC Representative shall have the option to propose a candidate for the position of the Joint Development Committee (JDC) Chairperson (\"Proposed Chairperson\") for a term of [***]. The first Proposed Chairperson will be appointed by mutual agreement between SFJ and PB, with subsequent appointments being at the discretion of the incumbent Chairperson. The JDC Chairperson may delegate the responsibility for drafting and circulating the draft agenda, but remains accountable for ensuring that minutes are prepared.",
+    "contradiction_score": 0.4427109658718109,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 358,
+    "start_char": 130120,
+    "end_char": 130137,
+    "original": "5.4.3  Meetings .",
+    "ollama_generated": "5.4.3 Meetings Modification:\n\nParticipants' Attendance Obligation: It shall be incumbent upon each participant to make every reasonable effort to attend all scheduled meetings, unless extraordinary circumstances preclude such attendance. However, if a participant is unable to attend, they must notify the designated meeting organizer at least 48 hours in advance and propose a representative who can provide an adequate substitute for the missing party. The absentee party will be responsible for ensuring that the substitute has all necessary information and authority to act on their behalf during the meeting.",
+    "contradiction_score": 0.06713486462831497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 359,
+    "start_char": 130138,
+    "end_char": 130155,
+    "original": "5.4.3.1  Timing .",
+    "ollama_generated": "5.4.3.1  Timeframe and Flexibility.\n\nIn this revised clause, we have shifted the focus from a strict timeline to a more flexible one, acknowledging potential delays or unforeseen circumstances that may arise during the project.\n\nNew Clause:\n5.4.3.1 Timeframe and Allowance for Adjustment.\n\nParties hereto shall strive to complete their respective tasks within a reasonable timeframe, understanding that unforeseen events may necessitate an adjustment in the timeline. Any such adjustments must be communicated promptly to all affected parties, who will make every effort to accommodate the revised schedule without undue delay.",
+    "contradiction_score": 0.005869458895176649,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 374,
+    "start_char": 134405,
+    "end_char": 135662,
+    "original": "5.4.5.1  Responsibilities . The JDC\u2019s responsibilities will include: (a) approving the initial Protocol (b) approving any changes to the Protocol that requires a submission to a Regulatory Authority, an IRB or other ethics committees\u037e (c) discussing the activities in connection with, the progress of, and the costs incurred in connection with, the Clinical Trials, including updates from any Clinical Investigator Meetings\u037e (d) reviewing and discussing any notices that it receives pursuant to the foregoing Section 5.4.4\u037e (e) discussing and reviewing the Research Results\u037e (f) reviewing and discussing on at least a quarterly basis the forecast Development Costs and Timeline\u037e (g) reviewing and discussing (as necessary) proof of submission of any safety reports to the Regulatory Authorities, Clinical Investigators, IRBs and any other ethics committees\u037e (h) reviewing certain data to be provided by each Party at each JDC meeting as requested by the other Party and in accordance with all Applicable Laws\u037e (i) reviewing performance and progress of the Clinical Trials and Regulatory Approval process\u037e and (j) any other matters the Parties mutually agree will be, or are expressly provided in this Agreement to be, within the responsibilities of the JDC.",
+    "ollama_generated": "5.4.5.1 Responsibilities. The Party designated as the JDC shall have discretionary authority over, but not limited to: (a) the initial approval of the Protocol; (b) the approval of any modifications to the Protocol that require submission to a Regulatory Authority, an IRB or other ethics committees; (c) periodic discussions regarding the activities, progress, and expenses associated with the Clinical Trials, including updates from any Clinical Investigator Meetings; (d) reviewing and discussing any notices received pursuant to Section 5.4.4, at their sole discretion; (e) deliberating and evaluating the Research Results; (f) assessing and discussing the Development Costs and Timeline forecast, on a quarterly basis or as deemed necessary; (g) reviewing and discussing proof of submission of safety reports to the Regulatory Authorities, Clinical Investigators, IRBs, and any other ethics committees, at their discretion; (h) examining certain data provided by each Party at each JDC meeting as requested by either Party, in accordance with Applicable Laws; (i) evaluating the performance and progress of the Clinical Trials and Regulatory Approval process; and (j) any other matters that may be mutually agreed upon or explicitly stated within this Agreement to fall under the purview of the JDC, at their sole discretion. The JDC shall not be obligated to take any action in any matter unless expressly required by this Agreement or mutually agreed upon by the Parties.",
+    "contradiction_score": 0.01723310351371765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 378,
+    "start_char": 137621,
+    "end_char": 137922,
+    "original": "5.5.2  Information . PB shall provide to the JCC a draft of each Commercialization Plan (as defined in the AZ License) at least [***] in advance of the date PB is required to deliver such Commercialization Plan to MedImmune. The JCC shall promptly review and discuss each draft Commercialization Plan.",
+    "ollama_generated": "5.5.2 Information Review Process: Upon receipt from PB, the JCC shall have a minimum of [***] to review each proposed Commercialization Plan (as defined in the AZ License) prior to its submission by PB to MedImmune. However, the final decision-making authority and responsibility for the content of such plans remain solely with PB. The JCC shall provide feedback and suggestions for discussion during this review period; it is not obligated to approve or endorse any proposed plan.",
+    "contradiction_score": 0.007725689094513655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 379,
+    "start_char": 137925,
+    "end_char": 138036,
+    "original": "5.5.3  Chairperson . PB shall designate the JCC chairperson (\u201c JCC Chairperson \u201d) from its JCC Representatives.",
+    "modified": "5.5.3 Designation of Chairperson: The JCC Representatives of Party B (PB) shall collectively elect the Joint Committee Chairperson (\"JCC Chairperson\") from among their number.\n\nExplanation: This clause shifts the responsibility for designating the JCC chairperson from PB to the collective vote of its JCC representatives.",
+    "contradiction_score": 0.8882676959037781,
+    "kept": true
+  },
+  {
+    "clause_index": 381,
+    "start_char": 138165,
+    "end_char": 138803,
+    "original": "5.5.4  Meetings . From the Effective Date through the date of the Final Approval Payment, the JCC will meet at least every two months (and for clarity, such meetings are intended to be conducted via teleconference), unless the Parties mutually agree otherwise. Either Party may call a special meeting of the JCC (by videoconference or teleconference) by providing at least five (5) Business Days\u2019 prior written notice to the other Party, which notice shall include a reasonably detailed description of the matter, in the event such Party reasonably believes that a significant matter must be addressed prior to the next scheduled meeting.",
+    "ollama_generated": "5.5.4 Meetings. The JCC may choose to meet less frequently than every two months from the Effective Date through the date of the Final Approval Payment, at their sole discretion. Such meetings, when held, are intended to be conducted via teleconference or videoconference. A Party may request a special meeting of the JCC by providing at least five (5) Business Days\u2019 prior written notice to the other Party. However, the Party making the request bears the responsibility of demonstrating that the matter they wish to address is urgent and cannot wait until the next scheduled meeting. In such cases, the requesting Party must include a reasonably detailed description of the matter in their notice.",
+    "contradiction_score": 0.15992872416973114,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 387,
+    "start_char": 139642,
+    "end_char": 139858,
+    "original": "5.6.1.2  [***]\u037e 5.6.1.3  [***]\u037e 5.6.1.4  [***]\u037e 5.6.1.5  [***]\u037e and 5.6.1.6  Any other matters the Parties mutually agree will be, or are expressly provided in this Agreement to be, reviewed and discussed by the JCC.",
+    "modified": "5.6.1.2 Matters not specifically defined shall be at the discretion of either Party; 5.6.1.3 Decisions pertaining to [***] will primarily rest with the decision-making authority of one Party, unless otherwise agreed upon by both Parties; 5.6.1.4 The responsibility for the management and execution of [***] falls entirely on one Party, but the other Party retains the right to offer suggestions or recommendations; 5.6.1.5 In the event of disagreement regarding [***], the Parties shall seek mediation through the JCC before resorting to any legal action; 5.6.1.6 Any topics not explicitly addressed in this Agreement will be subject to joint deliberation by the Parties, with final decisions resting solely with each Party as they deem fit.",
+    "contradiction_score": 0.8187128305435181,
+    "kept": true
+  },
+  {
+    "clause_index": 394,
+    "start_char": 146679,
+    "end_char": 147211,
+    "original": "6.4 Late Payments . If PB fails to pay any amount due under this Agreement on the due date therefore, then, without prejudice to any other remedies that SFJ may have, that amount will bear interest from the due date until payment of such amount is made, both before and after any judgment, at a rate equal to, [***] percent ([***]%) per annum computed on the basis of a year of 360 days for the actual number of days payment is delinquent or if such rate exceeds the maximum amount permitted by Applicable Law, at such maximum rate.",
+    "ollama_generated": "6.4 Late Payments . If SFJ fails to receive any payment due under this Agreement on or before its stipulated date, PB shall be liable for a late fee equivalent to [***] percent ([***]%) per annum, calculated on the basis of a year consisting of 360 days, from the due date until the full payment is made, regardless of any subsequent judgment. This clause does not preclude SFJ's right to pursue any additional remedies available under applicable law or contract terms. In cases where the stipulated late fee rate exceeds the maximum allowed by Applicable Law, the maximum permitted rate shall apply instead.",
+    "contradiction_score": 0.10663826763629913,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 395,
+    "start_char": 147211,
+    "end_char": 148418,
+    "original": "6.5 Taxes . The Parties hereby acknowledge and agree that payments made under this Agreement will be made without reduction for withholding or similar taxes, unless such withholding or similar tax is required (x) by a taxing authority as a result of an audit or examination, (y) due to the assignment of this Agreement or any payment obligation hereunder (to the extent permitted) by SFJ to an Affiliate or Third Party, or (z) as a result of a change in Applicable Laws at any time during the Term. In such case, the Parties shall use commercially reasonable and legal efforts to mitigate the amount of such taxes that would need to be withheld and/or paid. Any amounts withheld pursuant to this Section 6.5 will be timely paid over to the appropriate taxing authority, and will be treated for purposes of this Agreement as having been paid to the Party that otherwise would have received such amounts. In the event of a \u201cdetermination\u201d within the meaning of Section 1313(a) of the Code that withholding or similar taxes were required but were not properly withheld, the Party that received the relevant payment will indemnify and hold the other Party harmless with respect to such taxes and related Losses.",
+    "ollama_generated": "6.5 Tax Obligations: The Parties mutually understand and consent that all payments rendered under this Agreement shall be made without deduction for taxes, unless such tax deductions are compulsory (a) by a taxing authority in the course of an audit or examination, (b) due to the transfer of this Agreement or any payment obligation herein to SFJ's Affiliate or Third Party, or (c) as a consequence of a modification in Applicable Laws during the Term. In instances where such tax deductions are mandated, the Parties shall employ commercially reasonable and lawful measures to minimize the amount of such taxes. Any amounts withheld pursuant to this Section 6.5 will be promptly remitted to the relevant taxing authority, and for the purposes of this Agreement, these amounts will be considered as if they had been received by the Party originally entitled to them. In the event that a \"determination\" as defined in Section 1313(a) of the Code establishes that taxes should have been withheld but were not, the Party receiving the relevant payment will reimburse and protect the other Party from any liability associated with such taxes and ensuing Losses.",
+    "contradiction_score": 0.02748752199113369,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 397,
+    "start_char": 149687,
+    "end_char": 149707,
+    "original": "6.7 Buy-Out Option .",
+    "ollama_generated": "6.7 Right of Refusal to Purchase (Buy-Back Clause).\n\nIn the event that either Party desires to terminate this Agreement, the other Party shall have the option to decline the request for purchase by providing written notice within fifteen (15) Business Days from receipt of such notice. If the non-purchasing Party does not exercise its right to refuse the purchase, the purchasing Party may proceed with the buyout as stipulated in this Agreement.",
+    "contradiction_score": 0.09056007862091064,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 398,
+    "start_char": 149707,
+    "end_char": 150830,
+    "original": "6.7.1  Approval Buy-Out Option . Within one hundred and twenty (120) days following the receipt of Regulatory Approval with respect to each of the US, Designated European Countries, and Japan/China, PB shall have the right to make a one-time payment (each, an \u201c Approval Buy-Out Payment \u201d) in lieu of all (but not less than all) Approval Payments (as adjusted in accordance with Section 6.2) for the applicable country(ies) (other than the Initial US Payment, Initial EU Payment or Initial Japan/China Payment, as applicable, payable pursuant to Section 6.1 as a result of such Regulatory Approval, in each case, as adjusted in accordance with Section 6.2) by written notice delivered to SFJ no later than [***] after the date of such Regulatory Approval, which written notice shall set forth the amount of the applicable Approval Buy-Out Payment, the proposed date of closing (which shall occur within [***] after the date of the Regulatory Approval), and the calculation of the Approval Buy-Out Payment in reasonable detail based upon the proposed closing date. The Approval Buy-Out Payment will be calculated as follows:",
+    "ollama_generated": "6.7.1 Approval Purchase Option: Upon receipt of Regulatory Approval for each of the US, Designated European Countries, and Japan/China, SFJ shall have the obligation, within one hundred and twenty (120) days following such receipt, to provide PB with written notice specifying the amount and timing of a one-time payment (each, a \"Purchase Payment\") equivalent to all Approval Payments (as adjusted in accordance with Section 6.2) for the applicable country(ies), excluding the Initial US Payment, Initial EU Payment, or Initial Japan/China Payment, as applicable, payable pursuant to Section 6.1, subject to adjustment in accordance with Section 6.2. The Purchase Payment will be calculated based on the terms outlined in the written notice and shall be due within [***] after the date of such Regulatory Approval. Any failure by SFJ to make the Purchase Payment as required under this section shall result in an automatic increase in the Approval Payments for the applicable country(ies) in accordance with Section 6.2. The written notice shall also set forth the proposed calculation of the Purchase Payment in reasonable detail based upon the proposed closing date.",
+    "contradiction_score": 0.016455359756946564,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 408,
+    "start_char": 160442,
+    "end_char": 160466,
+    "original": "7.5 Negative Covenants .",
+    "modified": "7.5 Affirmative Liberties:\n\nThe Grantor grants to the Grantee the liberty to engage in activities that would otherwise be prohibited as negative covenants, subject to all applicable laws and regulations. The Grantor shall not be held liable for any actions taken by the Grantee under this provision, unless such actions are found to be in violation of law or regulation.",
+    "contradiction_score": 0.8966546058654785,
+    "kept": true
+  },
+  {
+    "clause_index": 412,
+    "start_char": 161274,
+    "end_char": 162348,
+    "original": "7.5.3.1  create, incur, allow, or suffer any Lien on any of the PB Intellectual Property, or assign or convey any right to receive income with respect to the PB Intellectual Property (other than royalty and other license fee obligations to licensors thereof in accordance with the applicable license agreement), including the sale of any PB Intellectual Property, or permit any of its subsidiaries to do so, other than Liens in favor of SVB (subject in all respects to the terms and conditions of the subordination agreement contemplated by Section 7.4 hereof) and other Permitted Liens that are permitted pursuant to the terms of this Agreement\u037e or 7.5.3.2  except as and to the extent permitted by Section 7.5.6, enter into any agreement, document, instrument or other arrangement (except with or in favor of SFJ or SVB) with any Person which directly or indirectly prohibits or has the effect of prohibiting PB or any subsidiary of PB from assigning, mortgaging, pledging, granting a security interest in or upon or encumbering any proceeds from PB Intellectual Property.",
+    "ollama_generated": "7.5.3.1 Granted permission for the Party to create, incur, allow, or suffer a Lien on any of the PB Intellectual Property, or assign or convey any right to receive income with respect to the PB Intellectual Property (other than royalty and other license fee obligations to licensors thereof in accordance with the applicable license agreement), including the sale of any PB Intellectual Property, or authorize any of its subsidiaries to do so, except for Liens in favor of SVB (under the terms and conditions outlined in the subordination agreement specified in Section 7.4 herein) and other Permitted Liens that are allowed under the terms of this Agreement; and\n\n7.5.3.2 Subject to Section 7.5.6, the Party is empowered to enter into any agreement, document, instrument, or other arrangement (with the exception of those with SFJ or SVB) with any Person that directly or indirectly enables or results in PB or any subsidiary of PB being unable to assign, mortgage, pledge, grant a security interest in, encumber, or otherwise restrict the disposal of proceeds from PB Intellectual Property.",
+    "contradiction_score": 0.09993337094783783,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 419,
+    "start_char": 166901,
+    "end_char": 167272,
+    "original": "7.6.1.1  PB shall, upon request of SFJ from time to time hereafter, execute such security agreements, stock pledge agreements, deposit account control agreements, and take such further action, as reasonably required to perfect or continue the SFJ Security Interest or to effect the purposes of this ARTICLE 7, including without limitation by taking the following actions:",
+    "ollama_generated": "7.6.1.1 In response to SFJ's requests at any point in the future, PB will be expected, but not obligated beyond their reasonable discretion, to sign necessary security agreements, stock pledge agreements, deposit account control agreements, and perform additional actions as may be reasonably needed to maintain or enhance the SFJ Security Interest, or to achieve the objectives outlined in this ARTICLE 7. It is understood that these actions may include but are not limited to the following:\n\nThis revised clause aims to clarify that PB's actions are discretionary and not mandatory, while still fulfilling the original requirement of assisting with the perfecting or continuation of the SFJ Security Interest. The language has been made more clear and less demanding in order to reflect this change.",
+    "contradiction_score": 0.0011847659479826689,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 420,
+    "start_char": 167272,
+    "end_char": 167984,
+    "original": "(a) (i) PB shall execute and deliver to SFJ, promptly upon PB\u2019s receipt of the Initial Development Cost Payment on the Initial Funding Date, such patent and trademark security agreements as SFJ may reasonably request, in each case in form and substance reasonably acceptable to SFJ (each an \u201c IP Security Agreement \u201d), and shall record such agreements with the U.S. Patent and Trademark Office, and shall take such other action as may be necessary or as SFJ may reasonably request to perfect SFJ\u2019s security interest in any Intellectual Property of PB in existence as of the Effective Date constituing SFJ Collateral. (ii) Within [***] of the last day of [***], PB shall notify SFJ in writing of [***], and [***].",
+    "ollama_generated": "(a) (i) SFJ may request, at its discretion and within a reasonable timeframe, patent and trademark security agreements from PB (referred to as \"IP Security Agreements\"). Upon receiving the Initial Development Cost Payment on the Initial Funding Date, PB shall promptly execute and deliver these agreements to SFJ. The form and substance of such agreements should be acceptable to SFJ; however, PB reserves the right to negotiate on any terms deemed unreasonable by it. Once executed, it will be PB's responsibility to record these agreements with the U.S. Patent and Trademark Office and take any additional steps necessary or requested by SFJ to perfect SFJ's security interest in any Intellectual Property of PB existing as of the Effective Date that constitutes SFJ Collateral.\n   (ii) Within [***] days following the last day of [***], PB shall provide written notice to SFJ regarding [***]. This notice shall also include an explanation of any circumstances or issues that may impact the perfection of SFJ's security interest in the Intellectual Property, along with proposed solutions or mitigation strategies. The burden of resolving these matters and ensuring perfected security lies primarily with PB, although SFJ retains the right to assist or provide guidance as necessary.",
+    "contradiction_score": 0.0679771676659584,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 426,
+    "start_char": 170906,
+    "end_char": 171853,
+    "original": "7.6.2.1  Maintain its and all its subsidiaries\u2019 legal existence and good standing in their respective jurisdictions of formation and maintain qualification in each jurisdiction in which the failure to so qualify would reasonably be expected to have a material adverse effect on PB\u2019s business or operations, provided  that any subsidiary may liquidate or dissolve so long as such liquidation or dissolution would not reasonably be expected to have a material adverse effect on PB\u2019s consolidated business or operations, and provided  that in connection with such liquidation or dissolution all assets and property of any such subsidiary shall be transferred to PB or another subsidiary of PB. PB shall comply, and shall cause each subsidiary to comply, in all material respects, with all laws, ordinances and regulations to which it is subject noncompliance with which would reasonably be expected to have a material adverse effect on PB\u2019s business.",
+    "ollama_generated": "7.6.2.1 The Subsidiary shall endeavor to preserve its legal existence and good standing in the jurisdictions of its formation, while also ensuring qualification in all jurisdictions where such failure could potentially cause a significant detrimental impact on Parent Company (PB) operations or business. However, a Subsidiary may opt for liquidation or dissolution if this decision does not foreseeably result in substantial harm to PB's consolidated business or operations. In the event of liquidation or dissolution, all assets and properties of the Subsidiary shall be transferred to PB or another PB subsidiary. Parent Company shall, as far as practicable, adhere to all applicable laws, ordinances, and regulations in each jurisdiction, recognizing that noncompliance which could reasonably cause a significant detrimental impact on PB's business is not permissible. Each Subsidiary is encouraged, but not mandated, to comply with these same requirements.",
+    "contradiction_score": 0.05567992478609085,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 436,
+    "start_char": 176809,
+    "end_char": 177024,
+    "original": "7.7.5  \u201cLien\u201d means a mortgage, deed of trust, levy, charge, pledge, security interest or other encumbrance of any kind, whether voluntarily incurred or arising by operation of law or otherwise against any property.",
+    "modified": "7.7.5  \"Unencumbered Property\" refers to any assets, properties, or interests that are not subject to any mortgage, deed of trust, levy, charge, pledge, security interest, or other liens, encumbrances, or claims, whether voluntarily assumed or resulting from legal proceedings or otherwise. The parties acknowledge that any property not designated as \"Unencumbered Property\" may be subject to such liabilities.",
+    "contradiction_score": 0.8716588020324707,
+    "kept": true
+  },
+  {
+    "clause_index": 439,
+    "start_char": 177935,
+    "end_char": 177967,
+    "original": "7.7.7  \u201cPermitted Liens \u201d means:",
+    "modified": "7.7.7 \"Prohibited Encumbrances\" shall denote:\n\nIn this revised clause, the term \"Permitted Liens\" has been replaced with \"Prohibited Encumbrances.\" This change implies that certain liens (claims or charges on property to secure a debt) are now forbidden rather than permitted. The obligation of the parties has thus shifted from allowing specific liens to avoiding specified encumbrances (a general term referring to any restriction, charge, or claim on land).",
+    "contradiction_score": 0.8243441581726074,
+    "kept": true
+  },
+  {
+    "clause_index": 440,
+    "start_char": 177967,
+    "end_char": 181728,
+    "original": "7.7.7.1  Liens in favor SVB pursuant to the SVB Loan Agreement (subject in all respects to the terms and conditions of the subordination agreement contemplated by Section 7.4 hereof) and Liens in favor of SFJ\u037e 7.7.7.2  Liens for taxes, fees, assessments or other government charges or levies, either (i) not due and payable or (ii) being contested in good faith and for which PB maintains adequate reserves on its books and records, provided  that no notice of any such Lien has been filed or recorded under the IRC\u037e Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 7.7.7.3  Purchase money Liens or capital leases (i) on equipment acquired or held by PB incurred for financing the acquisition of the equipment securing no more than [***] in the aggregate amount outstanding, or (ii) existing on equipment when acquired, if the Lien is confined to the property and improvements and the proceeds of the equipment\u037e 7.7.7.4  Leases or subleases of real property granted in the ordinary course of PB\u2019s business (or, if referring to another Person, in the ordinary course of such Person\u2019s business), and leases, subleases, non-exclusive licenses or sublicenses of personal property (other than Intellectual Property) granted in the ordinary course of PB\u2019s business (or, if referring to another Person, in the ordinary course of such Person\u2019s business), if the leases, subleases, licenses and sublicenses do not prohibit granting SFJ a security interest therein\u037e 7.7.7.5  Interests of lessors and licensors under leases and licenses to PB of real property and personal property\u037e 7.7.7.6  The Existing Licenses\u037e 7.7.7.7  Excluded Licensing Transactions\u037e 7.7.7.8  Liens of carriers, warehousemen, suppliers, or other Persons that are possessory in nature arising in the ordinary course of business so long as such Liens attach only to inventory, securing liabilities in the aggregate amount which are not delinquent or remain payable without penalty or which are being contested in good faith and by appropriate proceedings which proceedings have the effect of preventing the forfeiture or sale of the property subject thereto\u037e 7.7.7.9  Liens to secure payment of workers\u2019 compensation, employment insurance, old-age pensions, social security and other like obligations incurred in the ordinary course of business (other than Liens imposed by ERISA)\u037e 7.7.7.10  Liens arising from attachments or judgments, orders, or decrees occurring after the Effective Date in circumstances not constituting or arising from a Fundamental Breach by PB\u037e 7.7.7.11  Liens in favor of financial institutions arising in connection with PB\u2019s deposit and/or securities accounts held at such institutions, provided  that SFJ has a first priority perfected security interest in the amounts held in such deposit and/or securities accounts\u037e 7.7.7.12  Liens incurred in the extension, renewal or refinancing of the indebtedness secured by Liens described in Sections 7.7.7.1 through 7.7.7.11 (excluding Liens securing the SVB Loan, solely to the extent of any obligations thereunder permitted in accordance with the terms and conditions of the subordination agreement contemplated by Section 7.4 hereof), but any extension, renewal or replacement Lien must be limited to the property encumbered by the existing Lien and the principal amount of the indebtedness may not increase\u037e Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 7.7.7.13  Deposits securing bids or contracts\u037e 7.7.7.14  Liens securing the payment of purchase obligations for equipment, materials and inventory and for the payment of equipment and real estate lease obligations (including security deposits in connection therewith)\u037e and 7.7.7.15  Other Liens securing liabilities in an aggregate amount not to exceed [***].",
+    "modified": "7.7.7.1 Liens held by SVB, as per the SVB Loan Agreement (subject to the terms and conditions of any subordination agreement contemplated by Section 7.4 hereof), and Liens held by SFJ;\n\n7.7.7.2 Liens for taxes, fees, assessments, or other government charges or levies that are being contested in good faith and for which PB does not have sufficient reserves on its books and records, provided that notice of such Lien has been filed or recorded under the IRC;\n\n7.7.7.3 Purchase money Liens or capital leases (i) on equipment acquired or held by PB incurred for financing the acquisition of the equipment securing no more than [***] in the aggregate amount outstanding, or (ii) existing on equipment when acquired, if the Lien is confined to the property and improvements and the proceeds of the equipment, but with priority given to SFJ's security interest;\n\n7.7.7.4 Leases or subleases of real property granted in the ordinary course of PB\u2019s business (or, if referring to another Person, in the ordinary course of such Person\u2019s business), and leases, subleases, non-exclusive licenses or sublicenses of personal property (other than Intellectual Property) granted in the ordinary course of PB\u2019s business (or, if referring to another Person, in the ordinary course of such Person\u2019s business), if the leases, subleases, licenses and sublicenses permit SFJ to obtain a security interest therein;\n\n7.7.7.5 Interests of lessors and licensors under leases and licenses to PB of real property and personal property, but SFJ's interest has precedence;\n\n7.7.7.6 The Existing Licenses, unless specifically granted to SFJ;\n\n7.7.7.7 Excluded Licensing Transactions, except for those explicitly granted to SFJ;\n\n7.7.7.8 Liens of carriers, warehousemen, suppliers, or other Persons that are possessory in nature arising in the ordinary course of business so long as such Liens attach only to inventory, securing liabilities in the aggregate amount which are delinquent or have become payable with penalties;\n\n7.7.7.9 Liens to secure payment of workers\u2019 compensation, employment insurance, old-age pensions, social security and other like obligations incurred in the ordinary course of business (other than Liens imposed by ERISA) that have not been contested in good faith or by appropriate proceedings;\n\n7.7.7.10 Liens arising from attachments or judgments, orders, or decrees occurring after the Effective Date in circumstances constituting a Fundamental Breach by PB;\n\n7.7.7.11 Liens in favor of financial institutions arising in connection with PB\u2019s deposit and/or securities accounts held at such institutions, except for cases where SFJ has a first priority perfected security interest in the amounts held in such deposit and/or securities accounts;\n\n7.7.7.12 Liens incurred in the extension, renewal or refinancing of the indebtedness secured by Liens described in Sections 7.7.7.1 through 7.7.7.11 (excluding Liens securing the SVB Loan, solely to the extent of any obligations thereunder permitted in accordance with the terms and conditions of the subordination agreement contemplated by Section 7.4 hereof), but any extension, renewal or replacement Lien must exceed the property encumbered by the existing Lien and may increase the principal amount of the indebtedness;\n\n7.7.7.13 Deposits securing bids or contracts, unless specifically held by SFJ;\n\n7.7.7.14 Liens securing the payment of purchase obligations for equipment, materials and inventory and for the payment of equipment and real estate lease obligations (including security deposits in connection therewith), except when held by SFJ;\n\n7.7.7.15 Other Liens securing liabilities in an aggregate amount exceeding [***].",
+    "contradiction_score": 0.9219707250595093,
+    "kept": true
+  },
+  {
+    "clause_index": 444,
+    "start_char": 182991,
+    "end_char": 183310,
+    "original": "7.7.10  \u201cSubordinated Debt \u201d means indebtedness incurred by PB that is subordinated to any PB Obligations (pursuant to a subordination, intercreditor, or other similar agreement in form and substance reasonably satisfactory to SFJ entered into between SFJ and the other creditor), on terms reasonably acceptable to SFJ.",
+    "ollama_generated": "7.7.10  \"Subordinated Debt\" denotes any debt obligations assumed by PB that, in accordance with a subordination, intercreditor, or comparable agreement acceptable to SFJ and entered into between SFJ and the other creditors, is secondary to PB's existing Obligations. The terms governing such debt must be agreeable to SFJ.\n\nIn this revised clause, the obligation of debt subordination is not necessarily pursuant to a specific agreement (like before), but rather acceptable to SFJ and agreed upon by all parties involved. Additionally, the language has been adjusted to clarify that the debt is secondary to existing obligations, emphasizing its subordinate nature.",
+    "contradiction_score": 0.002071809722110629,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 447,
+    "start_char": 184490,
+    "end_char": 184770,
+    "original": "ARTICLE 9 RECORDS 9.1 Accounting . Each Party will maintain materially complete and accurate accounting records related to this Agreement in accordance with GAAP. Each Party will retain such records for [***] after the earlier of expiration or early termination of this Agreement.",
+    "ollama_generated": "ARTICLE 9 RECORDS 9.1 Accounting\n\nIn contrast, each Party shall make a reasonable effort to maintain accounting records associated with this Agreement in compliance with GAAP. These records will be retained for [***] following the latest of the Agreement's expiration or termination. The responsibility for determining whether the records are materially complete and accurate shall rest solely with each Party.",
+    "contradiction_score": 0.2726386487483978,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 449,
+    "start_char": 185484,
+    "end_char": 186770,
+    "original": "ARTICLE 10 CONFIDENTIAL INFORMATION 10.1  Confidentiality . Except to the extent expressly authorized by this Agreement or otherwise agreed in writing by the Parties (including, if applicable, in the Program Transfer Agreement), each Party (each, a \u201c Receiving Party \u201d) agrees that, during the Term and for the [***] period following the expiration or termination of this Agreement (except that the obligations will survive thereafter with respect to any Confidential Information that constitutes a trade secret under Applicable Law) or such longer periods for which such Confidential Information may be maintained pursuant to ARTICLE 9 , it will keep confidential and will not publish or otherwise disclose and will not use for any purpose other than as provided for in this Agreement or, if applicable, the Program Transfer Agreement (which includes the exercise of any rights or the performance of any obligations hereunder or thereunder) any Confidential Information furnished to it by or on behalf of the other Party (each, a \u201c Disclosing Party \u201d) or its Affiliates in connection with this Agreement or, if applicable, the Program Transfer Agreement. The foregoing obligations will not apply to any portion of such information or materials that the Receiving Party can demonstrate:",
+    "ollama_generated": "ARTICLE 10 CONFIDENTIALITY OBLIGATIONS\n\n10.1 Confidentiality Obligations. With limited exceptions granted by this Agreement, in writing by the Parties or as required by Applicable Law (including, if applicable, the Program Transfer Agreement), each Party (each referred to as a \"Recipient\") acknowledges and agrees that, during the Term and for a period of [***] following the termination or expiration of this Agreement (with obligations extending indefinitely for any Confidential Information deemed a trade secret under Applicable Law), it will maintain confidentiality, shall not disclose or publish, and will not utilize except as provided for in this Agreement or, if applicable, the Program Transfer Agreement (which encompasses the exercise of rights and fulfillment of obligations hereunder or thereunder) any Confidential Information received from the other Party (each referred to as a \"Discloser\") or its Affiliates in relation to this Agreement or, if applicable, the Program Transfer Agreement. However, these obligations do not extend to any part of such information or materials that the Recipient can demonstrate has become publicly available through no fault of their own or was already known to them before receipt. Furthermore, the Recipient is hereby authorized to disclose Confidential Information in response to a valid order by a court or other governmental body, provided they give the Discloser reasonable notice and opportunity to contest such disclosure.",
+    "contradiction_score": 0.20162257552146912,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 454,
+    "start_char": 191609,
+    "end_char": 191879,
+    "original": "10.4  MedImmune Confidential Information . With respect to any Confidential Information of PB that constitutes MedImmune Confidential Information, SFJ hereby agrees to be bound by the provisions of Sections 6.1, 6.2 and 6.7 of the AZ License to the same extent as PB is.",
+    "ollama_generated": "10.4  SFJ's Obligations Regarding MedImmune Confidential Information . In regards to any Confidential Information of PB that pertains to MedImmune Confidential Information, PB grants SFJ permission to abide by the stipulations of Sections 6.1, 6.2, and 6.7 of the AZ License, to the maximum extent possible, without imposing any binding obligations on SFJ beyond those already established within these sections for PB.",
+    "contradiction_score": 0.1969679594039917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 460,
+    "start_char": 195040,
+    "end_char": 195304,
+    "original": "11.1.1.1  Existing Intellectual Property . Subject to Section 11.1.1.2, it is agreed between the Parties that each Party will retain all right, title and interest in, to and under all Intellectual Property that is Controlled by such Party as of the Effective Date.",
+    "ollama_generated": "11.1.1.1  Pre-existing Intellectual Property. Notwithstanding Section 11.1.1.2, it is acknowledged by both Parties that any Party may maintain exclusive ownership, rights, titles, and interests in all Intellectual Property they control as of the Effective Date; however, each Party grants to the other a non-exclusive, royalty-free license to use such pre-existing Intellectual Property for the purpose of this Agreement.\n\nThis clause now allows for the sharing of rights to pre-existing Intellectual Property between parties, without altering the original owner's exclusive control over it. The granting of a non-exclusive, royalty-free license provides flexibility in the use of pre-existing Intellectual Property within the scope of this Agreement.",
+    "contradiction_score": 0.293441504240036,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 474,
+    "start_char": 207973,
+    "end_char": 208549,
+    "original": "11.1.1.6  No Other Rights . The delivery or disclosure by or on behalf of PhaseBio to SFJ of any information or materials hereunder will not be construed to grant SFJ any rights or license to use any Intellectual Property Controlled by PB other than as necessary to comply with its obligations hereunder or as expressly set forth herein. Except as otherwise Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 expressly permitted in this Agreement, SFJ may not use, publish or otherwise disclose any Intellectual Property Controlled by PB without PB\u2019s prior written consent.",
+    "ollama_generated": "11.1.1.6  Exclusive Use of Intellectual Property. The provision of any information or materials to SFJ by or on behalf of PhaseBio under this Agreement shall not be interpreted as granting SFJ any exclusive rights or licenses to utilize any Intellectual Property owned by PB, beyond what is necessary for SFJ's compliance with its obligations herein or explicitly stipulated elsewhere. Unless otherwise expressly granted in this Agreement or through written authorization from PB, SFJ is prohibited from utilizing, publishing, or disclosing any Intellectual Property owned by PB without obtaining prior written consent from PB. Any such use made without prior permission will be considered a breach of this Agreement.",
+    "contradiction_score": 0.13396982848644257,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 479,
+    "start_char": 210000,
+    "end_char": 210043,
+    "original": "11.4  Personally Identifiable Information .",
+    "ollama_generated": "11.4. Privacy of Personal Data:\n\nIn this agreement, we acknowledge that the handling of personal data is a serious matter. The Service User hereby grants us permission to collect and process their personal data, in accordance with our Privacy Policy and applicable law. However, we shall only use such data as necessary for providing the Services requested by the Service User and shall not sell or share it with third parties without prior consent, except where required by law. The Service User retains ownership of their personal data at all times. Any breach of this provision may be grounds for termination of the agreement.",
+    "contradiction_score": 0.08614101260900497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 487,
+    "start_char": 219109,
+    "end_char": 219142,
+    "original": "12.2  Indemnification Procedure .",
+    "ollama_generated": "12.2  Reversed Indemnity Procedure:\n\nIn the event that a third party initiates legal action against the Client alleging infringement or violation of such third party's intellectual property rights due to the use of the Services provided by the Provider, the Provider shall have the right, but not the obligation, to defend the Client at its sole discretion and expense. If the Provider chooses to defend, it will control the defense and settlement negotiations. The Client agrees that it will cooperate fully in such defense, at its own cost, and will provide the Provider with any reasonable assistance necessary for a successful defense. However, if the Provider elects not to defend or settle a claim without the Client's consent, the Client shall be solely responsible for defending itself against such claim, and the Provider shall have no further liability in connection therewith.",
+    "contradiction_score": 0.3896540105342865,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 488,
+    "start_char": 219142,
+    "end_char": 220294,
+    "original": "12.2.1  Notice of Claim . A Party believing that it is entitled to indemnification under Section 12.1.1 or 12.1.2 (an \u201cIndemnified Party \u201d) will give prompt written notice (each, an \u201c Indemnification Claim Notice \u201d) to the other Party (the \u201cIndemnifying Party \u201d) upon receipt of notice of the commencement of any Claim for which indemnification may be sought, or if earlier, upon the assertion of any such Claim by a Third Party (it being understood and agreed, however, that the failure by an Indemnified Party to give notice of a Claim of a Third Party as provided in this Section 12.2.1 will not relieve the Indemnifying Party of its indemnification obligation under this Agreement except and only to the extent that such Indemnifying Party is actually prejudiced as a result of such failure to give notice). Each Indemnification Claim Notice will contain a description of the Claim and the nature and amount of the Loss (to the extent that the nature and amount of such Loss are known at such time). The Indemnified Party will furnish promptly to the Indemnifying Party copies of all papers and official documents received in respect of any Losses.",
+    "ollama_generated": "12.2.1  Notice of Potential Claim: Any Party (the \"Potential Indemnifying Party\") who suspects they might be liable for indemnification under Sections 12.1.1 or 12.1.2 (a \"Potentially Indemnified Party\") shall provide prompt written notice (each, a \"Potential Indemnification Notice\") to the other Party (the \"Potential Indemnified Party\") upon their own initiation of any action that may potentially result in a claim for indemnification, or if earlier, upon being notified by a Third Party of such potential claim. It is understood and agreed, however, that the failure by a Potentially Indemnified Party to provide notice of a potential claim by a Third Party as provided in this Section 12.2.1 will not absolve the Potential Indemnifying Party from their indemnification obligations under this Agreement, unless and until the Potential Indemnifying Party has suffered demonstrable harm as a result of such failure to give notice. Each Potential Indemnification Notice shall include a description of the circumstances giving rise to the potential claim and an estimate (to the extent known at that time) of any potential losses. The Potentially Indemnified Party will promptly provide copies of all relevant papers and official documents to the Potential Indemnifying Party upon request, in respect of any potential losses.",
+    "contradiction_score": 0.004312048200517893,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 493,
+    "start_char": 225111,
+    "end_char": 225128,
+    "original": "12.3  Insurance .",
+    "ollama_generated": "12.3 Insurance Obligations and Exclusions:\n\nThe Party of the First Part shall maintain in full force and effect during the entire term of this Agreement, a comprehensive insurance policy with coverage limits acceptable to the other Party, as defined by their written notice, against any third-party claims arising out of or resulting from the performance of their obligations under this Agreement. The Party of the Second Part, however, shall not be liable for any loss or damage that may result from such third-party claims unless expressly stated otherwise in this Agreement. Furthermore, the Party of the First Part is hereby released from any responsibility for incidents caused by forces beyond their reasonable control, as long as they promptly notify the other Party about such occurrences.",
+    "contradiction_score": 0.0810471624135971,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 494,
+    "start_char": 225128,
+    "end_char": 226267,
+    "original": "12.3.1  Generally . Commencing as of the Effective Date and thereafter during the Development Term, and subject to Section 12.3.2 below, each Party will carry and maintain, at its own expense, insurance coverage of the kind and with liability limits that, at a minimum, satisfy the requirements of Section 12.3.2, to protect itself and the other Party against any claims or liabilities that may arise from the conduct of the Clinical Trials and all other rights and obligations hereunder with insurers with a minimum \u201cA-\u201d A.M. Best rating. Any deductibles for such insurance policies will be assumed by the insuring Party. Such insurance policies will be primary and non-contributing with respect to any other similar insurance policies available to other Party and their Affiliates. Prior to the Effective Date, and annually, at each anniversary of the Effective Date (unless, during such year, expiration of the applicable policy occurs first, in which case, on such expiration date), at a Party\u2019s written request the other Party will supply documentation of such insurance coverage via original certificates of insurance, if applicable.",
+    "ollama_generated": "12.3.1 Initially, starting from the Effective Date and thereon throughout the Development Term, except as outlined in Section 12.3.2 below, each Party shall be expected to procure and maintain, at their sole cost, insurance coverage of the specified type and with liability limits that meet the thresholds set forth in Section 12.3.2, for safeguarding themselves and the other Party from any potential claims or liabilities stemming from the execution of the Clinical Trials and all associated rights and obligations under this Agreement. The insurers will ideally hold a minimum \"A-\" A.M. Best rating. Any deductibles for these insurance policies will be borne by the party providing the coverage. These insurance policies will operate as primary and non-cumulative in relation to any comparable insurance policies accessible to the other Party and their Affiliates. Upon request, made in writing prior to the Effective Date, and annually thereafter at each anniversary of such date (provided that the term of the policy has not expired first during that year), one Party will provide the other with documentation of such insurance coverage via original certificates of insurance, where applicable.\n\nIn this version, the obligation has been weakened by changing \"each Party will carry and maintain\" to \"each Party shall be expected to procure and maintain\". Furthermore, the clause now implies that the Party providing the insurance assumes the deductibles (previously stated as \"Any deductibles for such insurance policies will be assumed by the insuring Party\"), and the other Party has the option to request documentation of the insurance coverage annually (previously stated as \"Prior to the Effective Date, and annually, at each anniversary of the Effective Date...\"). The remainder of the clause remains largely unchanged.",
+    "contradiction_score": 0.044467851519584656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 495,
+    "start_char": 226267,
+    "end_char": 226916,
+    "original": "Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 Each Party will provide the other Party a minimum of [***] prior written notice if it is unable to obtain appropriate insurance coverage or if its coverage is canceled, unable to be renewed or materially changed. For clarity, any insurance coverage or the failure to maintain adequate insurance coverage does not limit or reduce a Party\u2019s liability under this Agreement. Each Party will ensure that no subcontractor, including any Permitted Third Party, will continue to perform the work unless such subcontractor is insured as deemed appropriate by the Party engaging the Permitted Third Party.",
+    "ollama_generated": "Clause:\n\nSource: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 Each Party shall provide the other Party a minimum of [***] prior written notice if it is able to obtain appropriate insurance coverage, or if there is an attempt to obtain such coverage but is unsuccessful. For clarity, any successful acquisition of insurance coverage or the ongoing maintenance of such coverage does not expand or increase a Party\u2019s liabilities under this Agreement. Each Party will ensure that no subcontractor, including any Permitted Third Party, continues to perform the work unless such subcontractor has insurance coverage deemed appropriate by the Party engaging the Permitted Third Party, and it is at the discretion of each Party to accept or reject the subcontractor's insurance coverage.",
+    "contradiction_score": 0.3631274700164795,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 496,
+    "start_char": 226916,
+    "end_char": 227393,
+    "original": "12.3.2  Minimum Requirements . Commencing as of the start of the Clinical Trials and thereafter, during the Term (or longer if otherwise stated below), at a minimum, each Party will maintain the following types of insurance coverage at a minimum level that is the greater of (a) the highest minimum level required by Applicable Law in the countries in which the Clinical Trials and other obligations hereunder are being performed or (b) the following (to the extent different).",
+    "ollama_generated": "12.3.2  Minimum Insurance Coverage Obligation . Commencing from the initiation of the Clinical Trials and extending throughout the Term (with any duration beyond the Term specified elsewhere taking precedence), each Party shall endeavor to maintain, at a minimum, the following types of insurance coverage at a level that is the lesser of (a) the lowest maximum level allowed by Applicable Law in the countries where the Clinical Trials and other obligations under this agreement are being executed or (b) the subsequent levels (to the extent they differ). This obligation shall be subject to the Party's ability to obtain such coverage within a reasonable timeframe and at a cost that is not excessively burdensome.",
+    "contradiction_score": 0.0031374343670904636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 498,
+    "start_char": 227731,
+    "end_char": 227807,
+    "original": "12.3.2.2  Umbrella Excess Liability : [***] dollars ($[***]) per occurrence.",
+    "ollama_generated": "12.3.2.2 Umbrella Excess Liability: The coverage limit for each incident shall be $[***] dollars ($[***]), with a maximum total payable in any one policy year being $[***] dollars ($[***]). This provision is subject to the insurance company's right to apply the aggregate limit across all claims within the policy year.",
+    "contradiction_score": 0.01844523660838604,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 503,
+    "start_char": 229908,
+    "end_char": 230015,
+    "original": "ARTICLE 13 REPRESENTATIONS AND WARRANTIES 13.1  Representations, Warranties and Covenants of Both Parties .",
+    "ollama_generated": "ARTICLE 13 REPRESENTATIONS, WARRANTIES, AND COVENANTS OF BOTH PARTIES (REVERSED):\n\n13.1  Each Party's Representations, Warranties, and Covenants.\n\nIn this revised clause, the order of parties has been reversed to imply a shifting of responsibility. Now, instead of both parties making mutual representations, warranties, and covenants, each party will make these commitments individually, suggesting that one party assumes greater responsibility for their assurances than the other.",
+    "contradiction_score": 0.22983017563819885,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 505,
+    "start_char": 230281,
+    "end_char": 230446,
+    "original": "13.1.2  Each Party hereby represents and warrants that it is not a party to any agreement that would prevent it from fulfilling its obligations under this Agreement.",
+    "ollama_generated": "13.1.2 Each Party acknowledges and undertakes that it may be bound by certain agreements, but shall promptly inform the other Party if such agreements contain any provisions that might impede its ability to perform its obligations under this Agreement, and shall work diligently to resolve any such impediments in good faith.",
+    "contradiction_score": 0.1263173669576645,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 507,
+    "start_char": 230781,
+    "end_char": 231777,
+    "original": "13.1.3.1  such Party, its Affiliates and its and their respective Representatives shall comply with the Anti- Corruption Laws and shall not take any action that will, or would reasonably be expected to, cause the other Party or its Affiliates to be in violation of any Anti-Corruption Laws\u037e and 13.1.3.2  such Party shall promptly provide the other Party with written notice of the following events: (a) upon becoming aware of any breach or violation by such Party, its Affiliate or any of its or their respective Representatives of any representation, warranty or undertaking set forth in Section 13.1.3.1, or (b) upon receiving a formal notification that it is the target of a formal investigation by a Governmental Authority for a Material Anti-Corruption Law Violation or upon receipt of information from any of its Representatives connected with this Agreement that any of them is the target of a formal investigation by a governmental authority for a Material Anti-Corruption Law Violation.",
+    "ollama_generated": "13.1.3.1 It is understood that each Party, along with their Affiliates and Representatives, shall abide by the Anti-Corruption Laws, refraining from any actions that might, in a reasonable judgment, lead to a violation of such laws by either Party or their Affiliates. However, any failure to comply with this obligation will not automatically imply liability or breach of contract, unless proven otherwise.\n\n13.1.3.2 In the event that one Party becomes aware of any breach or violation by themselves, their Affiliate, or any Representative connected with this Agreement of any representation, warranty, or undertaking specified in Section 13.1.3.1 regarding Anti-Corruption Laws, they shall provide the other Party with written notice promptly. Additionally, if a formal investigation by a Governmental Authority for a Material Anti-Corruption Law Violation is initiated against this Party, or information from any Representative suggests that any of them are under such an investigation, written notice should be provided to the other Party without undue delay.",
+    "contradiction_score": 0.0025263524148613214,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 508,
+    "start_char": 231777,
+    "end_char": 232585,
+    "original": "13.1.4  Each Party certifies that neither it, nor its Affiliates, nor to its knowledge any Permitted Third Parties engaged by it to perform activities in relation to the Product are debarred under subsections 306(a) or (b) of the US Federal Food, Drug, and Cosmetic Act (US Generic Drug Enforcement Act of 1992\u037e 21 USC 335a (a) or (b)), and that it has not and will not knowingly use in any capacity the services of any Person or Permitted Third Party debarred under this law to conduct the Clinical Trials. Each Party further certifies that neither it, nor any of its Affiliates are excluded from any federal health care program, including but not limited to Medicare and Medicaid. Each Party will notify the JSC immediately if either of these certifications needs to be amended in light of new information.",
+    "ollama_generated": "13.1.4  Each Party represents and warrants that they have diligently reviewed, to the best of their knowledge, whether they, their Affiliates, or any Permitted Third Parties involved in activities related to the Product are debarred under subsections 306(a) or (b) of the US Federal Food, Drug, and Cosmetic Act (US Generic Drug Enforcement Act of 1992\u037e 21 USC 335a (a) or (b)). In the event that any such party becomes aware of potential debarment under this law during the course of Clinical Trials, they will promptly disclose this information to the JSC. Furthermore, each Party assures us that neither they nor their Affiliates are currently excluded from any federal health care program, including but not limited to Medicare and Medicaid. Any changes in these representations or warranties due to new information must be communicated to the JSC without delay.\n\nThis revision weakens the certainty of the original clause by changing \"certifies\" to \"represents and warrants\", implying a lower level of assurance, and adding the phrase \"to the best of their knowledge\", allowing room for potential uncertainty or unawareness. The phrase \"will not knowingly use...\" has been replaced with \"in the event that any such party becomes aware of potential debarment...\" which shifts responsibility to the party if they become aware, but does not require them to actively monitor for potential debarments. Finally, the clause now requires disclosure of potential debarment information rather than a certification against it.",
+    "contradiction_score": 0.1624974012374878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 510,
+    "start_char": 232967,
+    "end_char": 233030,
+    "original": "13.2  Additional PB Representations, Warranties and Covenants .",
+    "ollama_generated": "13.2 Shielding Provisions Regarding Additional Party Assurances, Promises, and Commitments:\n\nIn the event that the undertakings, guarantees, or pledges of the other party are amplified, it is agreed that the burden for their validity shall be on said other party, unless otherwise specified in writing.",
+    "contradiction_score": 0.03561464697122574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 520,
+    "start_char": 239074,
+    "end_char": 239126,
+    "original": "13.6  DISCLAIMER OF REPRESENTATIONS AND WARRANTIES .",
+    "ollama_generated": "13.6 LIMITATION OF PROMISES AND GUARANTEES:\n\nIn no event shall the Company make any express or implied promises, guarantees, or assurances concerning the quality, performance, or fitness of the goods or services provided under this Agreement. The Buyer acknowledges that it has relied solely on its own judgment and due diligence in evaluating the same, and the Company offers no warranties, expressed or implied, with respect to such goods or services.",
+    "contradiction_score": 0.009566460736095905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 521,
+    "start_char": 239126,
+    "end_char": 239811,
+    "original": "13.6.1  Each Party hereby agrees and understands that because the Clinical Trials and the Product are experimental in nature, the outcome is inherently uncertain and unpredictable. Each Party hereby agrees and understands that the other Party makes no Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 representation, guarantee or warranty, express or implied, regarding the outcome of the Clinical Trials (including achievement of the Phase 3 Success Criteria), any Research Results generated after the Effective Date, the ability to obtain Regulatory Approval or the patentability, legal protectability or usefulness of any Intellectual Property arising from the Clinical Trials.",
+    "ollama_generated": "13.6.1 It is acknowledged and accepted by each Party that the experimental nature of the Clinical Trials and the Product implies an inherent degree of unpredictability and uncertainty in their outcomes. Consequently, each Party unequivocally disclaims any implied or express assurance, guarantee, or promise about the success of the Clinical Trials (specifically meeting Phase 3 Success Criteria), any Research Results generated after the Effective Date, the potential for Regulatory Approval, or the validity, patentability, or practical application of any Intellectual Property stemming from the Clinical Trials.",
+    "contradiction_score": 0.015396960079669952,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 525,
+    "start_char": 240566,
+    "end_char": 240598,
+    "original": "14.2.1  Termination for Breach .",
+    "ollama_generated": "14.2.1  Permitted Termination for Non-Compliance.\n\nExplanation: This clause allows the termination of the contract if one party fails to comply with their obligations, but the original clause allowed termination only for breach (a more deliberate or material violation). The revised clause shifts the focus from a \"breach\" (often implying intentional wrongdoing) to \"non-compliance,\" which is less severe and could include an unintentional failure to meet obligations.",
+    "contradiction_score": 0.2579156756401062,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 527,
+    "start_char": 242137,
+    "end_char": 243604,
+    "original": "In the event that PB terminates this Agreement pursuant to this Section 14.2.1 then, if PB elects to continue development of the Product and obtains Regulatory Approval following such termination, in exchange for purchasing the Trial Data Package including the Research Results Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 therein as set forth in Section 11.1.1.4, PB shall remain obligated to pay to SFJ any Approval Payments that become due and payable (if ever) pursuant to ARTICLE 6 (except to the extent of the amount of any Buy-Out Payment pursuant to Section 6.7), provided that such Approval Payments (or Buy-Out Payment paid by PB, as applicable) shall be adjusted as set forth in Section Notwithstanding the foregoing, if PB terminates this Agreement pursuant to this Section 14.2.1 above based on SFJ\u2019s failure to make any payment due to PB in accordance with ARTICLE 4, then, if PB elects to continue development of the Product and obtains Regulatory Approval following such termination, PB shall remain obligated to pay to SFJ fifty percent (50%) of any Approval Payments that become due and payable pursuant to ARTICLE 6 at such time that such payments become due and payable (if ever) pursuant to ARTICLE 6 (or, as applicable, fifty percent (50%) of any Buy-Out Payment that PB elects to pay pursuant to Section 6.7), provided  that such Approval Payments (or Buy-Out Payment, as applicable) shall also be adjusted as set forth in Section 6.2.",
+    "ollama_generated": "In the event that SFJ elects to terminate this Agreement under Section 14.2.1, and should SFJ opt to continue development of the Product post-termination and secure Regulatory Approval, then, in exchange for purchasing the Trial Data Package as outlined in Section 11.1.1.4 from PHASEBIO PHARMACEUTICALS INC, as documented on 3/30/2020, SFJ will be obligated to pay PB any Approval Payments that may arise (if applicable) according to ARTICLE 6, with the exception of Buy-Out Payment amounts under Section 6.7. Notably, should SFJ terminate this Agreement based on PB's failure to make a payment in accordance with ARTICLE 4, and if SFJ chooses to proceed with Product development post-termination and receive Regulatory Approval, SFJ will be required to pay PB only forty percent (40%) of any Approval Payments due under ARTICLE 6 at the time they become payable, subject to the adjustments outlined in Section 6.2 (or, as applicable, forty percent (40%) of any Buy-Out Payment elected by SFJ as stipulated in Section 6.7), with the remainder being forfeited by SFJ.",
+    "contradiction_score": 0.06257286667823792,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 528,
+    "start_char": 243604,
+    "end_char": 244880,
+    "original": "14.2.2  At-Will Termination by PB . PB may terminate this Agreement at any time after SFJ has paid or incurred a total of $60 million of Development Costs and prior to the date of receipt of the first Regulatory Approval upon [***] prior written notice to SFJ. In the event that PB terminates this Agreement pursuant to this Section 14.2.2 then in exchange for purchasing the Trial Data Package including the Research Results included therein as set forth in Section 11.1.1.4, PB will pay SFJ, within [***] of the date of termination, an amount equal to three hundred percent (300%) of Development Costs paid or incurred by SFJ prior to such termination. Additionally, if PB elects to continue development of the Product and obtains Regulatory Approval following such termination, PB will remain obligated to pay any Approval Payments that become due and payable pursuant to ARTICLE 6 at such time as such payments become due and payable (if ever) pursuant to ARTICLE 6 (except to the extent of the amount of any Buy-Out Payment paid by PB pursuant to Section 6.7), provided that each Approval Payment (or the Buy-Out Payment, as applicable) shall be adjusted as set forth in Section 6.2, and reduced by the amount previously paid by PB to SFJ pursuant to this Section 14.2.2.",
+    "modified": "14.2.2 Termination by SFJ at Any Time. SFJ shall have the right to terminate this Agreement at any time, effective immediately, upon providing written notice to PB, regardless of the amount of Development Costs incurred or paid by SFJ prior to such termination. In the event that SFJ exercises this termination right, PB shall not be obligated to pay SFJ any compensation, including but not limited to the Trial Data Package and Research Results mentioned in Section 11.1.1.4.\n\nHowever, if PB decides to continue development of the Product after such termination and receives Regulatory Approval, PB will be required to fulfill all obligations under ARTICLE 6, including the payment of any Approval Payments that become due and payable (if ever) pursuant to ARTICLE 6. Any such payments made by PB after termination shall not be subject to the Buy-Out Payment provision in Section 6.7, and shall not be adjusted or reduced as set forth in Section 6.2, except for any amounts previously paid by SFJ pursuant to this Section 14.2.2.",
+    "contradiction_score": 0.9198043346405029,
+    "kept": true
+  },
+  {
+    "clause_index": 529,
+    "start_char": 244880,
+    "end_char": 245940,
+    "original": "14.2.3  Termination by SFJ for Material Adverse Event . SFJ may terminate this Agreement at any time in the event of a Material Adverse Event immediately upon written notice to PB. In the event that SFJ terminates this Agreement pursuant to this Section 14.2.3, then, if PB elects to continue development of the Product and obtains Regulatory Approval following such termination, in exchange for purchasing the Trial Data Package including the Research Results included therein as set forth in Section 11.1.1.4, PB shall remain obligated to pay SFJ an amount equal to fifty percent (50%) of the Approval Payments (as adjusted as set forth in Section 6.2, subject, to the extent applicable, to Sections 2.3.3 and 3.12.2) that become due and payable under ARTICLE 6 at such time as they become due and payable (if ever) pursuant to ARTICLE 6 (or, as applicable, 50% of any Buy-Out Payment that PB elects to pay pursuant to Section 6.7), provided  that such Approval Payments (or Buy-Out Payment, as applicable) shall also be adjusted as set forth in Section 6.2.",
+    "ollama_generated": "14.2.3 Termination by PB for Material Adverse Event . PB has the discretion to terminate this Agreement at any time upon written notice to SFJ, following which such termination shall not trigger an obligation on PB's part to purchase the Trial Data Package or pay any associated fees as outlined in Section 11.1.1.4. However, if SFJ decides to continue development of the Product and secures Regulatory Approval after such termination, then PB shall be liable for fifty percent (50%) of the Approval Payments (as adjusted according to Sections 2.3.3, 3.12.2, and 6.2) that become due and payable under ARTICLE 6 at such time as they become due and payable (if ever), subject to PB's right to adjust these payments in accordance with Section 6.2. In this scenario, SFJ shall be entitled to receive the remaining fifty percent (50%) of the Approval Payments or Buy-Out Payment (should PB choose to make such a payment under Section 6.7).",
+    "contradiction_score": 0.27385643124580383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 543,
+    "start_char": 261526,
+    "end_char": 263070,
+    "original": "14.2.10  Termination for JSC Decision . SFJ may, in its sole discretion, terminate this Agreement in its entirety at any time prior to the date of receipt of the first Regulatory Approval in the event PB exercises its decision-making authority under Section 5.2.4 to approve a matter set forth in Section 5.2.2 and, after escalation to the Executive Officers in accordance with Section 5.2.4, SFJ continues in good faith to disagree with such decision. In the event that SFJ terminates this Agreement pursuant to this Section 14.2.10, then in exchange for purchasing the Trial Data Package including the Research Results included therein as set forth in Section 11.1.1.4, PB will pay to SFJ, within [***] of the date of termination, an amount equal to the Development Costs paid or incurred by SFJ plus interest at the annual rate of twenty-five percent (25%) from the date such Development Costs were paid or incurred by SFJ and, if PB elects to continue development of the Product and obtains Regulatory Approval following such termination, PB shall remain obligated to pay any Approval Payments that become due and payable pursuant to ARTICLE 6 at such time as such Approval Payments become due and payable (if ever) pursuant to ARTICLE 6 (except to the extent of the amount of any Buy-Out Payment paid by PB pursuant to Section 6.7), provided that such Approval Payments (or Buy-Out Payment, as applicable) shall be adjusted as set forth in Section 6.2, and reduced by the amount previously paid to SFJ as set forth in this Section 14.2.10.",
+    "ollama_generated": "14.2.10 Termination for Disagreement on PB's Decision . JSC holds the right, at its sole discretion, to terminate this Agreement prior to the receipt of the first Regulatory Approval, if SFJ exercises its right to disagree with a decision made by PB under Section 5.2.4 concerning matters outlined in Section 5.2.2, following escalation to the Executive Officers as per Section 5.2.4. In such case, if JSC chooses to terminate this Agreement according to this Section 14.2.10, PB will be obligated, within [***] of the termination date, to compensate JSC an amount equal to any Development Costs incurred by JSC plus interest at a rate of twenty-five percent (25%) annually from the date such costs were incurred by JSC. However, should PB decide to continue product development and secure Regulatory Approval following termination, JSC will still be entitled to receive any Approval Payments due under ARTICLE 6 at the specified times, unless a Buy-Out Payment has been made by PB according to Section 6.7. In such cases, the Approval Payments (or Buy-Out Payment, as applicable) shall be adjusted as per Section 6.2 and reduced by the compensation paid to JSC under this Section 14.2.10, but not exceeding the total amount originally payable to JSC.",
+    "contradiction_score": 0.23820076882839203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 544,
+    "start_char": 263070,
+    "end_char": 263282,
+    "original": "14.3  Certain Additional Consequences of Termination . In the event of any termination of this Agreement pursuant to Section 14.2, then, if SFJ has not caused a Program Transfer to occur pursuant to Section 3.20:",
+    "ollama_generated": "14.3 Consequential Implications of Termination: Upon any termination of this Agreement under the provisions of Section 14.2, it is understood that if no Program Transfer has been initiated by SFJ as per Section 3.20:\n\nThis revision aims to soften the obligation language and shift the focus towards mutual understanding instead of a strict requirement. It also simplifies the phrasing to make it more concise and easier to comprehend.",
+    "contradiction_score": 0.002662238897755742,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 545,
+    "start_char": 263282,
+    "end_char": 266605,
+    "original": "14.3.1  to the extent not previously assigned to PB pursuant to Section 11.1.1.4, SFJ shall, and it hereby does, assign sole and exclusive ownership of the Trial Data Package including the Research Results included therein to PB, such assignment to be effective in accordance with Section 11.1.1.4\u037e 14.3.2  effective as of such termination, SFJ shall, and it hereby does, assign to PB all of SFJ\u2019s and its Affiliates\u2019 right, title and interest in and to all Product Filings then owned or Controlled by SFJ or any of its Affiliates\u037e provided  that if any such Product Filing is not immediately transferable in a country, SFJ shall provide PB with all benefit of such Product Filing and such assistance and cooperation as necessary or reasonably requested by PB to timely transfer such Product Filing to PB or its designee or, at PB\u2019s option, to enable PB to obtain a substitute for such Product Filing without disruption to PB\u2019s development or Commercialization of the Product in the SFJ Territory\u037e 14.3.3  within [***] after assignment of the Product Filings pursuant to Section 14.3.2, SFJ shall deliver to PB: (a) true, correct and complete copies of all Product Filings in such country (in each case, whether held in the name of SFJ or any of its Affiliates), Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 and disclose to PB in writing all previously-undisclosed Research Results within the Trial Data Package\u037e (b) formally transfer or assign, or cause to be formally transferred or assigned, into the name of PB or its designee all Product Filings in such country (in each case, whether held in the name of SFJ or any of its Affiliates)\u037e and (c) take such other actions and execute such other instruments, assignments and documents as may be necessary to effect, evidence, register and record the transfer, assignment or other conveyance of such rights to PB or its designee\u037e 14.3.4  at PB\u2019s written request and election in PB\u2019s sole discretion, SFJ shall and hereby does, and shall cause its Affiliates to either: (i) wind down in accordance with Applicable Law and observing applicable ethical and regulatory guidelines any or all Clinical Trials being conducted by or on behalf of SFJ or its Affiliate as of the effective date of termination, at SFJ\u2019s cost and expense\u037e or (ii) (x) transfer control to PB of any or all Clinical Trials being conducted by or on behalf of SFJ or its Affiliate as of the effective date of termination and (y) continue to conduct such Clinical Trials being conducted by or on behalf of SFJ or an Affiliate as of the effective date of termination for up to [***] to enable such transfer to be completed without interruption of any such Clinical Trial, in each case ((x) and (y)), at PB\u2019s cost and expense\u037e and 14.3.5  SFJ shall, and shall cause its Affiliates to, promptly assign to PB or its designee any and all Clinical Trial Agreements, CRO Agreements and other Vendor Agreements to which any of them is a party and cooperate in good faith with PB to provide appropriate notice and new contact information to the applicable Sites, Clinical Investigators, CROs and other Vendors and PB shall accept such assignment of all obligations of SFJ and its Affiliates thereunder without recourse to SFJ other than any indemnification obligations which SFJ may be liable for thereunder.",
+    "ollama_generated": "14.3.1 For any Trial Data Package ownership not already assigned to PB under Section 11.1.1.4, SFJ agrees to assign, and hereby does, all sole and exclusive rights to the said package (including the Research Results contained therein) to PB, effective in accordance with Section 11.1.1.4; however, this assignment shall not be obligatory if such transfer would contravene local laws or regulations.\n\n14.3.2 Upon termination, SFJ assigns to PB all rights, titles, and interests in any Product Filings owned or controlled by SFJ or its Affiliates, effective immediately. Notwithstanding the foregoing, if a Product Filing cannot be immediately transferred in a specific country, SFJ shall provide PB with any benefits derived from such filing and all necessary assistance to transfer it within a reasonable time frame, or at PB's discretion, help PB obtain an acceptable substitute without disruptions to the Product development or commercialization in the SFJ Territory.\n\n14.3.3 Within [***] after assigning the Product Filings under Section 14.3.2, SFJ will deliver the following to PB: (a) accurate copies of all Product Filings in the respective country (regardless of whether they are held in SFJ's or any Affiliate's name); (b) formally transfer or assign the Product Filings in such country to PB or its designee; and (c) take any additional actions, execute instruments, assignments, or documents necessary for the registration, recording, and evidence of transfer, assignment, or other conveyance of rights to PB or its designee.\n\n14.3.4 Upon written request from PB at its sole discretion, SFJ shall wind down Clinical Trials being conducted by or on behalf of SFJ or its Affiliates as of the termination effective date, if such action is permissible under Applicable Law and ethical/regulatory guidelines, at SFJ's expense. Alternatively, SFJ may transfer control of these trials to PB for completion, with SFJ bearing the associated costs and expenses.\n\n14.3.5 In response to a written request from PB, SFJ shall assign or cause its Affiliates to assign any Clinical Trial Agreements, CRO Agreements, and other Vendor Agreements they are parties to. SFJ will also cooperate in good faith with PB by providing necessary notices and updated contact information to the applicable sites, clinical investigators, CROs, and vendors. PB will accept these assignments and assume obligations under such agreements, absolving SFJ of any recourse except for indemnification obligations it may be liable for under those agreements.\n\nIn this revised version:\n- Obligation to assign is replaced with an agreement to assign (clause 14.3.1).\n- The condition for the assignment in clause 14.3.2 has been relaxed, allowing SFJ to avoid assignments that contravene local laws or regulations.\n- In clauses 14.3.3 and 14.3.5, the language has been adjusted to clarify that SFJ will provide PB with accurate copies of Product Filings and other documents.\n- Clause 14.3.4 now provides an alternative option for SFJ to transfer control of Clinical Trials if winding them down is not permissible or feasible under Applicable Law and ethical/regulatory guidelines.\n- In clause 14.3.5, PB's acceptance of obligations assumes indemnification responsibilities only in the event that SFJ is liable for such obligations under those agreements.",
+    "contradiction_score": 0.17424044013023376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 546,
+    "start_char": 266613,
+    "end_char": 266642,
+    "original": "14.4  Surviving Obligations .",
+    "ollama_generated": "14.4 Persisting Responsibilities:\n\nThe parties acknowledge that certain obligations set forth in this Agreement shall continue to bind them post-termination or expiration, including but not limited to the provisions regarding confidentiality, non-compete, and indemnification clauses. However, it is understood that the obligation to make regular payments under Section 9 will cease upon such termination or expiration.",
+    "contradiction_score": 0.024640269577503204,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 555,
+    "start_char": 269976,
+    "end_char": 270072,
+    "original": "1 Great Valley Parkway, Suite 30 Malvern, PA 19355 Attn: Chief Executive Officer with a copy to:",
+    "ollama_generated": "1 Great Valley Parkway, Suite 30, Malvern, PA 19355\nAttention: General Manager (with a cc: for information purposes)\n\nRegarding the matter at hand, it is hereby agreed that:\n\n1. The Responsible Party shall have the discretion to fulfill their obligations as they deem appropriate, with the understanding that all actions taken shall be in good faith and within reason. This flexibility allows for adaptability to unforeseen circumstances and changing business environments, while maintaining compliance with the spirit of this agreement.\n\n2. The Recipient Party assumes primary responsibility for ensuring timely communication and response to any requests or issues arising from this contract. In case of non-response or inadequate response, the Responsible Party retains the right to take appropriate actions to mitigate potential risks or delays, subject to consultation with the Recipient Party prior to implementation.\n\n3. The aforementioned provisions shall be interpreted and applied in accordance with prevailing industry standards, taking into account fairness, reasonableness, and mutual benefits for both parties involved. In case of ambiguity or uncertainty, any disputes arising from this contract shall be resolved through open dialogue and negotiation between the parties before seeking external mediation or arbitration if necessary.\n\n4. Notwithstanding any other provisions herein, either party may terminate this agreement with written notice at any time for cause, such as material breach of the terms, conditions, or obligations specified within this contract by the other party. Upon termination, both parties shall promptly return or destroy all Confidential Information received during their respective engagements under this agreement, and abide by any post-termination restrictions as set forth herein.\n\n5. This agreement constitutes the entire understanding between the parties with respect to its subject matter and supersedes any prior negotiations, discussions, or understandings regarding the same. Any modifications to this agreement must be in writing and signed by both parties, except where otherwise stated in this document.\n\n6. This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania, without giving effect to its conflict of laws principles. The parties agree that any litigation arising from this contract shall exclusively take place in the courts located in Chester County, Pennsylvania.",
+    "contradiction_score": 0.09608618915081024,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 559,
+    "start_char": 270441,
+    "end_char": 271217,
+    "original": "Morrison & Foerster LLP 755 Page Mill Road Palo Alto, CA 94304-1018 Attention: Michael O\u2019Donnell 15.4  Force Majeure . Neither Party will be liable for any breach or delay in performance of any obligation under this Agreement to the extent caused by any of the following: war, terrorism, riot, fire, explosion, accident, flood, sabotage, changes in Applicable Laws, actions of Governmental Authorities, or any other event beyond the reasonable control of such Party. The Party invoking this Section 15.4 must provide prompt written notice and full particulars of such event to the other Party and will use diligent and commercially reasonable efforts to mitigate the effects of any such force majeure event on such Party\u2019s compliance with and performance under this Agreement.",
+    "ollama_generated": "15.4. External Circumstances Release. Each Party shall be absolved from any liability for failure or tardiness in fulfilling their obligations under this Agreement that are directly attributable to the following unforeseeable events: war, terrorism, riots, fire, explosion, accident, flood, sabotage, modifications in Applicable Laws, decisions by Governmental Authorities, or any other external occurrence that exceeds the foreseeable precautions of the concerned Party. It is incumbent upon the invoking Party to immediately deliver written notification and detailed information regarding such event to the other Party, and they will employ diligent and prudent commercial efforts to minimize the impact of said unforeseen event on their compliance with and execution of this Agreement.\n\nIn this version, I've attempted to weaken the obligation by shifting the burden of mitigating effects from both parties to the invoking Party, emphasizing that they must \"employ diligent and prudent commercial efforts\" instead of simply using \"diligent and commercially reasonable efforts.\" This may be perceived as a slightly higher standard for the invoking Party. However, it is essential to note that any changes in legal clauses should be carefully considered with an attorney to ensure compliance with applicable laws and regulations.",
+    "contradiction_score": 0.17926916480064392,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 560,
+    "start_char": 271231,
+    "end_char": 271273,
+    "original": "with and performance under this Agreement.",
+    "ollama_generated": "In the event of any breach or non-performance by either Party under this Agreement, the aggrieved Party shall not be obligated to continue performing its obligations hereunder unless it elects, in its sole discretion, to do so and provides written notice to the defaulting Party.\n\nIn simpler terms:\nIf one party fails to fulfill their obligations under this contract, the other party is not required to perform their duties according to the agreement unless they choose to do so after giving written notice to the defaulting party.",
+    "contradiction_score": 0.007299385499209166,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 561,
+    "start_char": 271273,
+    "end_char": 271598,
+    "original": "15.5  Use of Names . Neither Party will use the other Party\u2019s nor any of its Affiliates\u2019 (including the limited partners of SFJ\u2019s or its Affiliates\u2019) names or trademarks in any promotional materials or advertising without the prior written consent of the other Party except as otherwise expressly permitted in this Agreement.",
+    "modified": "15.5 Name Usage and Trademark Rights: Each Party reserves the right to use the other Party's names, trademarks, and those of their Affiliates (including limited partners of SFJ or its Affiliates) in promotional materials or advertising, subject to the condition that such usage is granted prior, written approval by the Party whose name or trademark is being used, except where expressly allowed under this Agreement without consent. This clause does not limit either Party's right to use its own names, trademarks, or those of its Affiliates in any manner not specifically prohibited herein.",
+    "contradiction_score": 0.9768194556236267,
+    "kept": true
+  },
+  {
+    "clause_index": 570,
+    "start_char": 279014,
+    "end_char": 280365,
+    "original": "15.10.2.2  Any Dispute including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by the ICDR in accordance with its International Arbitration Rules, except as they may be modified herein. The seat, or legal place, of arbitration shall be New York, and the language of the arbitration shall be English. References herein to any arbitration rules or procedures mean such rules or procedures as amended from time to time, including any successor rules or procedures, and references herein to the ICDR include any successor thereto. The arbitration shall be before a tribunal comprised of three (3) arbitrators. Each Party shall select one arbitrator and within fifteen (15) days of the Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 second arbitrator\u2019s appointment, the two (2) Party appointed arbitrators shall select the third, who shall serve as the tribunal\u2019s chair or president. All three (3) arbitrators shall be professionals with substantial experience in development and Commercialization of biopharmaceutical products. An arbitrator shall be deemed to meet these qualifications unless a Party objects within fifteen (15) after the arbitrator is appointed. This arbitration provision, and the arbitration itself, shall be governed by the Federal Arbitration Act, 9 U.S.C. \u00a7\u00a7 1 et. seq .",
+    "ollama_generated": "15.10.2.2 In case of any Dispute concerning the interpretation or application of this agreement, it will be resolved by the ICDR in alignment with its International Arbitration Rules, as amended from time to time and including any subsequent rules or procedures. The location for arbitration shall remain New York, and the language used shall be English. References within this agreement to any arbitration rules or processes refer to these rules or processes as they may evolve, and references to the ICDR encompass any entity that succeeds it. The arbitration will consist of a panel of three (3) arbitrators. Each Party is responsible for selecting one arbitrator. The two (2) Party-appointed arbitrators will have fifteen (15) days from the appointment of the second arbitrator to jointly select the third, who will serve as the chair or president of the tribunal. All three (3) arbitrators must possess substantial experience in biopharmaceutical research and commercialization, but this qualification can be waived if a Party does not object within fifteen (15) days following the appointment of the arbitrator. This arbitration provision, as well as the arbitration itself, will abide by the Federal Arbitration Act, 9 U.S.C. \u00a7\u00a7 1 et. seq.",
+    "contradiction_score": 0.014049788005650043,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 571,
+    "start_char": 280365,
+    "end_char": 280996,
+    "original": "15.10.2.3  Consistent with the expedited nature of arbitration, each Party will, upon the written request of the other Party, promptly provide the other with copies of documents on which the producing Party may rely in support of or in opposition to any claim or defense. At the request of a Party, the arbitrators shall have the discretion to order examination by deposition of witnesses to the extent the arbitrator deems such additional discovery relevant and appropriate. [***]. All objections are reserved for the arbitration hearing except for objections based on privilege and proprietary or confidential information. [***].",
+    "ollama_generated": "15.10.2.3 In accordance with the swift pace of arbitration, each Party shall, upon receiving a written request from the other, make reasonable efforts to supply the requesting Party with copies of pertinent documents within a timely manner. However, the supplying Party reserves the right to challenge or delay production if privileged or confidential information is at stake. Upon a Party's request, the arbitrators hold the discretion to sanction depositions of witnesses, should they deem such discovery essential and proportionate. [***]. All other objections are deferred for the arbitration hearing, with the exception of those based on privilege or protection of confidential information. [***].\n\nThis revised clause slightly modifies the original by shifting some responsibility to the \"supplying Party\" when it comes to disclosing documents, and allows for a possible delay in production if privileged or confidential information is involved. Additionally, the phrase \"promptly provide\" has been replaced with \"make reasonable efforts to supply within a timely manner,\" acknowledging that there may be situations where immediate delivery is not feasible.",
+    "contradiction_score": 0.02085227705538273,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 591,
+    "start_char": 290795,
+    "end_char": 291161,
+    "original": "By: /s/ Jonathan Mow Name: Jonathan Mow Title: CEO Date: January 9, 2020 SIGNATURE PAGE TO THE CO-DEVELOPMENT AGREEMENT Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 IN WITNESS WHEREOF, the Parties, intending to be legally bound hereby, have caused this Agreement to be executed in duplicate by their duly authorized representatives as of the Effective Date.",
+    "ollama_generated": "By: /s/ Jonathan Mow Name: Jonathan Mow Title: CEO Date: January 9, 2020 SIGNATURE PAGE TO THE CO-DEVELOPMENT AGREEMENT Source: PHASEBIO PHARMACEUTICALS INC, 10-K, 3/30/2020 IN WITNESS WHEREOF, the Parties acknowledge their intent to be bound by this Agreement, with the understanding that no party shall be held liable for any damages arising from a failure to perform due to unforeseen circumstances beyond their control. This Agreement will become effective upon execution by both parties or their duly authorized representatives.\n\nExplanation: The original clause was about the parties being legally bound by the agreement. The revised clause softens this obligation, stating that the parties acknowledge their intent to be bound (not explicitly stating that they are legally bound), and also includes a clause absolving them from liability for damages arising from a failure to perform due to unforeseen circumstances beyond their control. This shift in responsibility is subtle but significant in a legal context.",
+    "contradiction_score": 0.027389846742153168,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

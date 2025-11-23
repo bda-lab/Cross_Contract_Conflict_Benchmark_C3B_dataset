@@ -1,0 +1,371 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 3676,
+    "end_char": 4074,
+    "original": "(b) \u201cArizona Assigned Internet Domain Names \u201d means the Internet domain names set forth on Schedule 1.1(b) and all other Internet domain names owned by Licensing or Seller as of the Effective Date and used or held for use exclusively in the Company Field as of the SPA Signing Date and/or as of the Effective Date (other than any Internet domain names that include any Arizona Licensed Trademarks).",
+    "ollama_generated": "(b) \"Arizona Assigned Internet Domain Names\" refers to the Internet domain names listed on Schedule 1.1(b), along with any other domain names owned by Licensing or Seller as of the Effective Date, which are currently in use or reserved for use within the Company Field as of either the SPA Signing Date or the Effective Date. However, this term does not encompass any Internet domain names that include Arizona Licensed Trademarks and are not exclusively used or reserved for such purpose as of these aforementioned dates.",
+    "contradiction_score": 0.3621545135974884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 4490,
+    "end_char": 4737,
+    "original": "(e) \u201cArizona Assigned Patents \u201d means the Patents set forth on Schedule 1.1(e) and all other Patents owned by Licensing or Seller and used or held for use exclusively in the Company Field as of the SPA Signing Date and/or as of the Effective Date.",
+    "ollama_generated": "(e) \"Arizona Assigned Patents\" refers to the Patents listed on Schedule 1.1(e), as well as any other patents that are owned by Licensing or Seller, currently utilized or intended for use exclusively within the Company Field, but only if such patents were acquired or first used after the Effective Date. In the event that a patent was in use prior to the Effective Date, it shall not be considered an Arizona Assigned Patent, unless specifically listed on Schedule 1.1(e).",
+    "contradiction_score": 0.09814191609621048,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 5582,
+    "end_char": 5800,
+    "original": "(j) \u201cArizona Licensed IP \u201d means the Arizona Licensed Copyrights, the Arizona Licensed Know-How,  the Arizona Licensed Patents, the Arizona Licensed Trademarks, the Diamond Licensed Trademarks and the Phase-Out  Marks.",
+    "modified": "(k) \"Licensed Intellectual Property in Arizona\" refers to the Know-How, Patents, Copyrights, and Trademarks owned by parties other than Arizona, including but not limited to the Diamond Trademarks and the Phase-Out Marks. The responsibility for managing and maintaining these properties lies with their respective owners, except as otherwise agreed in writing between the parties.",
+    "contradiction_score": 0.9724316596984863,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 7488,
+    "end_char": 7634,
+    "original": "(t) \u201cCopyrights \u201d means copyrights (whether registered or unregistered) including applications for copyright (excluding, for clarity, Trademarks).",
+    "ollama_generated": "(u) \"Copyrights\" encompasses unregistered and registered copyrights (but not trademarks), along with pending applications thereof. For the sake of clarity, it's important to note that this term does not include trademark rights.",
+    "contradiction_score": 0.006288981065154076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 7636,
+    "end_char": 7721,
+    "original": "(u) \u201cDiamond Licensed Trademarks \u201d means the Trademarks set forth on Schedule 1.1(u).",
+    "ollama_generated": "(u) \"The 'Diamond Licensed Trademarks' encompass any additional trademarks as may be added to Schedule 1.1(u), in accordance with the rights granted herein.\"\n\nExplanation: The original clause defines what the Diamond Licensed Trademarks are, which are listed on Schedule 1.1(u). The rewritten clause broadens the definition of the Diamond Licensed Trademarks to include any additional trademarks that may be added to Schedule 1.1(u) in accordance with the rights granted herein. This changes the meaning slightly by potentially expanding the scope of the trademarks covered under this agreement over time.",
+    "contradiction_score": 0.11727779358625412,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 7721,
+    "end_char": 8114,
+    "original": "(v) \u201cDiamond Product \u201d means the design, development, manufacture, marketing, promotion, advertising, sourcing, distribution and sale of the solid hardwood flooring product by any Company Entity as conducted under the Diamond Licensed Trademarks by any Company Entity prior to the Effective Date (including the composition of coating used with respect to such solid hardwood flooring product).",
+    "ollama_generated": "(vi) \"Diamond Product\" refers to any and all responsibilities associated with the conceptualization, production, distribution, publicity, endorsement, advertising, and retail sale of the solid hardwood flooring product, which shall encompass the formula and application of coatings pertaining thereto, carried out by any Company Entity before the Effective Date, under the auspices of the Diamond Licensed Trademarks. In this context, it is understood that any liabilities or obligations connected with these activities rest primarily with the relevant Company Entity.",
+    "contradiction_score": 0.008708730340003967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 8119,
+    "end_char": 8250,
+    "original": "(w) \u201cDiamond Trademark License Term \u201d means the period commencing on the Effective Date and ending eighteen (18) months thereafter.",
+    "modified": "\"(x) 'Diamond Trademark License Term' refers to the continuous duration, which begins on the Effective Date and shall persist for as long as the Licensed Party maintains compliance with all agreed terms and conditions, or until such time as either Party elects to terminate this agreement, whichever occurs first.\"\n\nThis clause now describes an indefinite license term that can be terminated by either party if there's a breach of contract or if one party decides to end the agreement. The original clause specified a fixed term of 18 months.",
+    "contradiction_score": 0.7455088496208191,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 8793,
+    "end_char": 9057,
+    "original": "(cc) \u201cPatents \u201d means patent rights, including patents, patent applications, and all related continuations, continuations-in-part,  divisionals, renewals, reissues, re-examinations,  substitutions, and extensions thereof, and applications for any of the foregoing.",
+    "ollama_generated": "(cc) \"Patent Rights\" refers to the rights provided by patents, patent applications, divisional applications, continuations, continuations-in-part, renewals, reissues, re-examinations, substitutions, and extensions thereof, as well as any applications filed for such protections. Furthermore, this term encompasses any additional rights or benefits derived from these protected inventions during their validity period.",
+    "contradiction_score": 0.001468874397687614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 10357,
+    "end_char": 10541,
+    "original": "2. ASSIGNMENT OF ARIZONA ASSIGNED IP 2.1 Assignment . Arizona agrees to assign and hereby assigns its entire right, title and interest in and to the Arizona Assigned IP to the Company.",
+    "modified": "2. RECEIPT OF TRANSFERRED ARIZONA ASSIGNED IP\n2.1 Transfer of Rights . The Company shall receive and hereby acknowledges the receipt of Arizona's entire right, title, and interest in and to the Arizona Assigned IP transferred by Arizona.\n\nIn this version, the responsibility for assigning the rights has been shifted from Arizona to the Company, making it a transfer of rights rather than an assignment. This change weakens the obligation on Arizona as they are no longer actively assigning the IP, but instead are transferring it.",
+    "contradiction_score": 0.7539073824882507,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 10916,
+    "end_char": 11218,
+    "original": "3. GRANT OF COPYRIGHT LICENSE 3.1 Arizona Copyright Grant . Subject to the terms and conditions of this Agreement, Arizona hereby grants to the Company a perpetual, non- exclusive,  royalty-free license in, to and under the Arizona Licensed Copyrights for use in the Company Field throughout the world.",
+    "modified": "3. GRANT OF COPYRIGHT LICENSE\n3.1 Reversed Arizona Copyright Grant . Under the provisions of this Agreement, the Company acquires a non-perpetual, exclusive, royalty-bearing license from Arizona, effective only within the United States and limited to a duration of ten years, in, to, and under the Arizona Licensed Copyrights for use in the Company Field. After the expiration of this term, any further use of the licensed copyrights will require renegotiation and additional royalties.",
+    "contradiction_score": 0.9447014927864075,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 11790,
+    "end_char": 12060,
+    "original": "4.2 Company Know-How  Grant . Subject to the terms and conditions of this Agreement, the Company hereby grants to Seller a perpetual, non- exclusive,  royalty-free license in, to and under the Company Licensed Know-How  for use in the Arizona Field throughout the world.",
+    "modified": "4.2 Seller's Access to Company Know-How: In accordance with the provisions of this Agreement, the Company grants to the Seller a non-perpetual, exclusive, royalty-bearing license for the exploitation of the Company Licensed Know-How, limited to the Arizona Field, within the United States only. The duration of this license shall be as specified in Section 7.3. The Seller shall pay royalties on all revenues derived from such use as outlined in Schedule A.",
+    "contradiction_score": 0.9842420220375061,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 12614,
+    "end_char": 13294,
+    "original": "6. GRANT OF TRADEMARK LICENSE 6.1 Arizona Licensed Trademark Grant . Subject to the terms and conditions of this Agreement, Arizona hereby grants to the Company a limited, non- exclusive,  royalty-free, non-sublicensable (except as set forth in Section 7.1), non-assignable  license in, to and under the Arizona Licensed Trademarks for the Arizona Trademark License Term for use in the Company Field throughout the world only in the form and manner that such Arizona Licensed Trademarks are used in the Business as of the Closing, provided that the Company shall use commercially reasonable efforts to present the Arizona Licensed Trademarks in the form set forth on Schedule 6.1.",
+    "modified": "6. TRADEMARK LICENSE GRANTED BY COMPANY\n\n6.1 Non-Exclusive, Limited License from Company . Under the terms and conditions of this Agreement, the Company grants to Arizona a non-exclusive, limited, royalty-free, sublicensable (as per Section 7.1), assignable license in, to, and under the Company Trademarks for the term of the Company Trademark License Period, solely within the Arizona Territory, for use in the Business worldwide, subject to the condition that the Arizona shall utilize commercially reasonable efforts to present the Company Trademarks as they were utilized by Arizona in the Business at the time of Closing. The Company has no obligation to provide any specific format for these trademarks unless explicitly stated in Schedule 6.1.",
+    "contradiction_score": 0.7034856677055359,
+    "kept": true
+  },
+  {
+    "clause_index": 51,
+    "start_char": 14756,
+    "end_char": 14902,
+    "original": "(b) The Company shall not tarnish or bring into disrepute the reputation of or goodwill associated with the Seller Licensed Trademarks or Arizona.",
+    "ollama_generated": "(b) The Seller acknowledges that they are responsible for maintaining and upholding the reputation of their Licensed Trademarks and Arizona, and shall indemnify the Company against any claims arising from the tarnishment or bringing into disrepute of such reputation or goodwill.",
+    "contradiction_score": 0.34955596923828125,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 15781,
+    "end_char": 16496,
+    "original": "6.4 Trademark License Agreement . In addition to the obligations set forth in Section 6.3, and notwithstanding any other provision of this Agreement, the Company shall comply with all obligations applicable to Arizona and its Affiliates under the Trademark License Agreement including, for the avoidance of doubt, any obligations with respect to reporting Complaints (as defined in the Trademark License Agreement), which reports the Company shall provide to Arizona, and quality control and standards, and Licensor Competitors (as defined in the Trademark License Agreement), and neither Party shall undertake any act that would constitute a breach or a basis for termination under the Trademark License Agreement.",
+    "ollama_generated": "6.4 Trademark License Agreement Modifications: Contrary to other provisions in this Agreement, the Company is granted flexibility in fulfilling its obligations specified in Section 6.3, subject to compliance with the Trademark License Agreement's requirements pertaining to Arizona and its Affiliates. This includes, but is not limited to, obligations concerning Complaints (as defined in the Trademark License Agreement) reporting, quality control and standards adherence, Licensor Competitors (as defined), and avoiding actions that could lead to breaches or terminations under the Trademark License Agreement. It is understood, however, that either Party maintains the discretion to pursue actions within the bounds of this Agreement that may not strictly adhere to the Trademark License Agreement's terms, as long as such actions do not result in material breaches or termination events.",
+    "contradiction_score": 0.41553404927253723,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 17625,
+    "end_char": 18236,
+    "original": "6.7 Domain Names . Subject to the terms and conditions of this Agreement, the license set forth in Section 6.1 shall include the right of the Company to use the Arizona Domain Names solely in connection with the applicable Arizona Licensed Trademarks in the Company Field during the Arizona Trademark License Term, in the ordinary course of business in a manner generally consistent with the past practice of Arizona in the Company Field. The Company shall not have the right to register any domain name or social media addresses (or any similar or successor identifiers) containing Arizona Licensed Trademarks.",
+    "modified": "6.7 Domain Names . Granted under the provisions of this Agreement, the license outlined in Section 6.1 extends to permit the Licensee's usage of the Company's chosen domain names, associated solely with the relevant Company Trademarks in their respective fields, throughout the Duration of the License Term. This use shall be restricted to typical business practices, aligning generally with the Company's past conduct in these fields. The Licensee retains the right to register any domain name or social media handles (or similar identifiers) excluding those incorporating the Company Trademarks.\n\nIn this revised clause, the obligation for the company to only use Arizona Domain Names has been weakened by shifting the allowance of domain name registration to the Licensee. The condition that the usage of domain names must be solely in connection with the Arizona Licensed Trademarks remains unchanged.",
+    "contradiction_score": 0.9536376595497131,
+    "kept": true
+  },
+  {
+    "clause_index": 59,
+    "start_char": 18236,
+    "end_char": 19578,
+    "original": "7. INTELLECTUAL PROPERTY RIGHTS 7.1 Sublicenses . Arizona may sublicense the licenses granted herein to its Affiliates and Third Parties in the ordinary course of business in support of its and its Affiliates\u2019 business, but not for the independent use of Third Parties, and the Company may sublicense the licenses granted herein to Third Parties, its Subsidiaries, AWP, controlled Affiliates, or any holding company that is a direct or indirect parent of the Company in the ordinary course of business in support of its and its Subsidiaries\u2019 or controlled Affiliates\u2019 business, but not for the independent use of Third Parties (each such Affiliate, Third Party, AWP or Subsidiary, a \u201c Sublicensee \u201d). Each Party shall ensure that any sublicense that it grants to a Sublicensee does not conflict with this Agreement. For clarity, granting a sublicense shall not relieve the Parties of any obligations hereunder and each Party shall cause each of its Sublicensees to comply, and shall remain responsible for such Sublicensees\u2019 compliance, with all terms and conditions hereof applicable to the Parties. At the request of a licensing Party, the other Party shall provide to the licensing Party a list of all Sublicensees and otherwise reasonably cooperate with the licensing Party in connection with Sublicensees\u2019 compliance with this Agreement.",
+    "ollama_generated": "7. INTELLECTUAL PROPERTY RIGHTS\n\n7.1 Sublicenses . The Company retains the right to sub-license the licenses granted herein to Third Parties, its Subsidiaries, AWP, controlled Affiliates, or any holding company that is a direct or indirect parent of the Company in the ordinary course of business in support of its and its Subsidiaries\u2019 or controlled Affiliates\u2019 business. Such sub-licenses may be granted for the independent use of Third Parties, subject to the condition that Arizona shall have the sole discretion to approve any such use, and shall ensure that such independent use does not conflict with this Agreement. Each Party is responsible for ensuring that any Sublicensee complies with all terms and conditions hereof applicable to the Parties, and each Party shall be responsible for the compliance of its Sublicensees with this Agreement. Upon request by a licensing Party, the other Party shall provide a list of all Sublicensees and shall cooperate with the licensing Party in connection with Sublicensees\u2019 compliance with this Agreement, provided that the cooperative efforts do not impose an undue burden on either party.",
+    "contradiction_score": 0.3751719892024994,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 26427,
+    "end_char": 27146,
+    "original": "(b) Either Party may terminate this Agreement if the other Party materially breaches this Agreement and fails to remedy such breach within thirty (30) days\u2019 written notice thereof\u037e provided , however , that if the material breach of this Agreement by the breaching Party is limited to the Licensed Copyrights, Licensed Know-How,  the Arizona Licensed Patents, or the Licensed Trademarks, the non-breaching  Party shall be entitled to termination solely with respect to the affected part of the license ( i.e., in such case, the non-breaching  Party may terminate this Agreement with respect to the Licensed Copyrights or the Licensed Know-How  or the Arizona Licensed Patents or the Licensed Trademarks, as applicable).",
+    "ollama_generated": "(b) At the discretion of either Party, this Agreement may be terminated if a material breach of its terms occurs and is not rectified within thirty (30) days following receipt of written notice of such breach. However, it is to be noted that in cases where the material breach pertains exclusively to the Licensed Copyrights, Licensed Know-How, Arizona Licensed Patents, or Licensed Trademarks, the non-breaching Party retains the right to selectively terminate this Agreement, pertaining only to the affected portion of the license (i.e., the non-breaching Party may opt to terminate this Agreement with regard to the Licensed Copyrights, Licensed Know-How, Arizona Licensed Patents, or Licensed Trademarks, as deemed necessary).\n\nThe revised clause maintains a professional tone while shifting the responsibility of selective termination to the non-breaching party. The original clause stated that the non-breaching Party was \"entitled\" to termination, whereas the revised version states that the non-breaching Party \"retains the right\" to terminate, implying that it is not an automatic or guaranteed action but rather a decision at their discretion. This change subtly weakens the obligation of the non-breaching party to exercise this option.",
+    "contradiction_score": 0.01266065239906311,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 27630,
+    "end_char": 27907,
+    "original": "(b) Survival . The following provisions of this Agreement, together with all other provisions of this Agreement that expressly specify that they survive, shall survive expiration or termination of this Agreement, in part or in its entirety: Sections 8,  10, 11, 12.2(a) and 13.",
+    "modified": "(b) Persistence: In the event that this Agreement is terminated or expires, certain provisions of this contract will continue to apply, including but not limited to Sections 8, 10, 11, 12.2(a), and 13. However, it is noted that none of the remaining sections are intended to persist beyond such termination or expiration.\n\nIn this revised clause, the original's meaning has been slightly inverted by stating that all other sections not explicitly mentioned will cease to apply upon termination, whereas the original specified that only the listed sections would survive.",
+    "contradiction_score": 0.9434148669242859,
+    "kept": true
+  },
+  {
+    "clause_index": 75,
+    "start_char": 27907,
+    "end_char": 28888,
+    "original": "13. MISCELLANEOUS 13.1 Entire Agreement . This Agreement (together with the Schedules attached hereto), the Stock Purchase Agreement, the Transition Services Agreement and the Confidentiality Agreement constitute the entire agreement of the Parties hereto and supersede all prior negotiations, correspondence, agreements and undertakings, both written and oral, between or among the Parties, or any of them, with respect to the subject matter hereof. It shall be expressly understood that the Stock Purchase Agreement shall govern the transactions contemplated thereby as a whole and that this Agreement shall not be construed as an amendment or variation of the Stock Purchase Agreement but rather shall be complemented by and interpreted in light of the Stock Purchase Agreement. In the event that any provision of this Agreement is inconsistent with, conflicts with or contradicts any term of the Stock Purchase Agreement, the terms of the Stock Purchase Agreement will prevail.",
+    "ollama_generated": "13. MISCELLANEOUS\n13.1 Entire Agreement (Amended)\nThis Agreement (together with the Schedules attached, the Stock Purchase Agreement, the Transition Services Agreement, and the Confidentiality Agreement) represents the complete understanding between the Parties hereto, replacing all previous negotiations, correspondence, agreements, and undertakings, written or oral, regarding this subject matter. However, it is important to note that while this Agreement stands independently, its provisions should be read in conjunction with the Stock Purchase Agreement. Any interpretations of this Agreement should consider the context within the Stock Purchase Agreement, and if there is any inconsistency, conflict, or contradiction between this Agreement and the Stock Purchase Agreement, the terms of the Stock Purchase Agreement shall take precedence. In essence, the Stock Purchase Agreement serves as a foundation upon which this Agreement supplements and interprets its provisions.",
+    "contradiction_score": 0.07014298439025879,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 30149,
+    "end_char": 30938,
+    "original": "13.3 Notices . All notices and other communications given or made pursuant hereto shall be in writing and shall be deemed to have been duly given (i) on the date delivered, if delivered personally, (ii) on the third (3 rd) Business Day after being mailed by registered or certified mail (postage prepaid, return receipt requested), or (iii) on the next Business Day after being sent by reputable overnight courier (delivery prepaid), in each case, to the parties at the following addresses, or on the date sent and confirmed by electronic transmission or confirmatory return email to the telecopier number or email address specified below (or at such other address, telecopier number or email address for a Party as shall be specified by notice given in accordance with this Section 13.3):",
+    "ollama_generated": "13.3 Communication and Notices: All notifications and correspondence relating to this agreement should be in writing. Such communication will be considered validly delivered (i) on the date of receipt, if delivered personally, (ii) ten (10) Business Days after being sent by registered or certified mail (postage prepaid), or (iii) three (3) Business Days after being sent by reputable overnight courier (delivery prepaid). In case no confirmation of delivery is received within the specified timeframes, it will be deemed that delivery has failed and a resend is required. The parties shall communicate at the following addresses, or such other address as may be designated by either party in writing in accordance with this Section 13.3:\n\nThis rewritten clause now shifts the responsibility of confirming delivery to the recipient and extends the timeframe for delivery by registered mail and overnight courier. It also adds a provision that if no confirmation is received, it will be deemed that delivery has failed and resending is required.",
+    "contradiction_score": 0.009071393869817257,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 30948,
+    "end_char": 30964,
+    "original": "(a) If to Buyer:",
+    "ollama_generated": "(a) In the event of Purchase by Seller:\n\nIf the Seller elects to make a purchase, it shall be incumbent upon them to:\n\n1. Fulfill all obligations and conditions specified in this Agreement, or as may be subsequently agreed upon in writing by both parties;\n2. Assure the quality, authenticity, and integrity of the goods being purchased, guaranteeing their conformity with any applicable specifications or standards;\n3. Bear all risks associated with the purchased goods, including but not limited to loss, theft, or damage, from the point of transfer until they are delivered and accepted;\n4. Provide Buyer with a complete and accurate bill of sale, detailing all relevant terms, conditions, and costs;\n5. Resolve any disputes or claims arising out of the purchase within a reasonable timeframe, in good faith and in accordance with this Agreement or applicable laws.\n\nShould Seller fail to comply with any of the above obligations, Buyer shall have the right to:\n\n1. Terminate this Agreement and seek damages;\n2. Pursue legal remedies against Seller for breach of contract or other applicable causes of action;\n3. Retain any funds paid to Seller in connection with the purchase until the dispute is resolved satisfactorily.",
+    "contradiction_score": 0.1326611191034317,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 31168,
+    "end_char": 31186,
+    "original": "Baker Botts L.L.P.",
+    "ollama_generated": "Shifted Responsibility Clause:\nThe Responsible Party, identified as Baker Botts L.L.P., shall have the discretion to delegate tasks or duties to third parties at their sole and absolute discretion. Any actions or inactions of such third parties shall be deemed to be the actions or inactions of Baker Botts L.L.P., for all intents and purposes, relieving Baker Botts L.L.P. from any liability or responsibility arising therefrom.",
+    "contradiction_score": 0.27131542563438416,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 31186,
+    "end_char": 31372,
+    "original": "1299 Pennsylvania Avenue, NW Washington, D.C. 20004 Attention: Terrance L. Bessey Brendan O. Dignan Email: terrance.bessey@bakerbotts.com brendan.dignan@bakerbotts.com (b) If to Arizona:",
+    "ollama_generated": "1299 Pennsylvania Avenue, NW Washington, D.C. 20004, Attention: Terrance L. Bessey, Brendan O. Dignan, Email: terrance.bessey@bakerbotts.com, brendan.dignan@bakerbotts.com (b) If in Arizona:\n\nIn the event of a dispute arising under this Agreement, it shall be settled through mediation before resorting to litigation. The mediator shall be selected jointly by Terrance L. Bessey and Brendan O. Dignan or, if they are unable to agree on a mediator within thirty (30) days of the dispute arising, the mediator shall be appointed by the American Arbitration Association. Any decisions made during the mediation process shall not be binding until both parties have reached a mutually acceptable resolution. In the event that mediation is unsuccessful, the parties hereby agree to submit any disputes arising under this Agreement to the exclusive jurisdiction of the courts located in Arizona. This provision for mediation is intended to expedite dispute resolution and mitigate unnecessary legal costs.\n\nThis revised clause shifts the burden of dispute resolution from litigation to mediation, potentially reducing the overall cost and complexity associated with court proceedings if a dispute arises. The original clause provided no such mechanism for dispute resolution prior to litigation.",
+    "contradiction_score": 0.03402969241142273,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 33245,
+    "end_char": 33303,
+    "original": "13.5 Governing Law \u037e Jurisdiction \u037e Waiver of Jury Trial .",
+    "ollama_generated": "13.5 Applicable Law, Forum Selection, and Right to a Jury Trial Waiver.\n\nThis Agreement shall be governed by the laws of the jurisdiction specified in Section 12.1 (Jurisdiction), without regard to its conflict of law provisions. Any dispute arising from this Agreement shall be resolved exclusively in the courts of the aforementioned jurisdiction, and the parties hereby waive their right to a jury trial. However, the court may, at its discretion, allow for a bench trial should either party request it. This waiver is intended to be mutual and binding upon both parties, and no court or arbitrator shall have the power to revoke or modify this provision.",
+    "contradiction_score": 0.09909908473491669,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 35790,
+    "end_char": 36664,
+    "original": "13.6 Severability . If any term or other provision of this Agreement, or any portion thereof, is invalid, illegal or incapable of being enforced by any rule of law or public policy, all other terms and provisions of this Agreement, or the remaining portion thereof, shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any Party. Upon such determination that any such term or other provision, or any portion thereof, is invalid, illegal or incapable of being enforced, the Parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are consummated to the fullest extent possible.",
+    "ollama_generated": "13.6 Modification for Validity . In the event that any provision or term within this Agreement, in whole or in part, is deemed unenforceable, invalid, or conflicting with any applicable law or public policy, the Parties shall make reasonable efforts to revise and renegotiate such terms as necessary, provided that the core intent and purpose of this Agreement remains intact. The unenforceable, invalid, or conflicting provision shall be deemed stricken, and the remainder of this Agreement will continue to be binding and enforceable, unless the removal or modification of such term results in a material detriment to any Party, in which case this Agreement may be terminated by either Party upon written notice.",
+    "contradiction_score": 0.009575107134878635,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 36971,
+    "end_char": 37118,
+    "original": "[Remainder of page intentionally left blank ] IN WITNESS WHEREOF, the Parties have duly executed this Agreement as of the date first written above.",
+    "ollama_generated": "The following pages are deliberately left unfilled to be completed at a later time by mutual agreement between the Parties. This Agreement shall be deemed effective upon such completion and signed by all parties involved, with the date of execution to be recorded as the last date on which all signatures have been obtained.\n\n[For clarity, it is understood that the omission of any pages or sections from this Agreement shall not invalidate its remaining contents.]\nIN WITNESS WHEREOF, the Parties have duly executed this Agreement when fully completed and signed by all parties, or upon such partial completion as may be agreed in writing between the Parties.",
+    "contradiction_score": 0.06318157911300659,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 44517,
+    "end_char": 44678,
+    "original": "Status App. Number Filing Date Patent Number Issue Date US Pending 15/724,391 5-Oct-17 Schedule 1.1(f) \u2013 Arizona Assigned Trademarks Country Trademark StatusApp.",
+    "ollama_generated": "Trademark Application Information:\nApplication Number: 15/724,391\nFiling Date: 5-Oct-17\nPatent Number (if issued): N/A (Pending)\nResponsibility for maintaining and updating the status of assigned trademarks in Arizona lies with Assignee.\nCountry Trademark StatusApp:\n\nIn this revised clause, I have shifted the responsibility of maintaining and updating the status of assigned trademarks in Arizona from the drafter to the assignee. This change makes it clear that the party who holds the rights to the trademark is responsible for its upkeep, rather than the party drafting the contract.",
+    "contradiction_score": 0.06620796024799347,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 112,
+    "start_char": 51653,
+    "end_char": 51866,
+    "original": "If the business unit identifier is used above the logo, the clear space is 1\u22152 the diameter of the Armstrong ring on the right side, left side and bottom and the width of the stem of the lower case \u201cr\u201d on the top.",
+    "ollama_generated": "If the business unit identifier appears adjacent to or overlapping the logo, a clearance margin equal to at least the diameter of the Armstrong ring on the right side, left side, and bottom, as well as the height of the stem of the lower case \"r\" on the top should be maintained, unless otherwise specified in exceptional circumstances.",
+    "contradiction_score": 0.382641077041626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 51866,
+    "end_char": 52044,
+    "original": "a. There is no clear space defined below the business unit identifier if used below the logo and no clear space defined above the business unit identifier if used above the logo.",
+    "ollama_generated": "a. In instances where the business unit identifier appears either beneath or above the logo, it may overlap with adjacent elements without incurring any specific penalty for lack of space, as there are no established minimum clearance requirements for such situations.",
+    "contradiction_score": 0.40913257002830505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 52639,
+    "end_char": 52973,
+    "original": "1. The trademark should always be distinguishable from surrounding text \u2013 at a minimum, the trademark notice (TM or \u00ae) should be used at least the first time in the text. After first instance, mark should appear with some other distinguishing feature (e.g., different font, all caps, and/or different color) from the surrounding text.",
+    "modified": "1. While it is recommended to make the trademark easily discernible from the surrounding text, the use of a trademark notice (TM or \u00ae) upon first mention is merely optional for subsequent uses. However, it is strongly suggested to incorporate at least one distinguishing characteristic such as a different font, all caps, or a distinct color when the mark appears again in the text.",
+    "contradiction_score": 0.6501554846763611,
+    "kept": true
+  },
+  {
+    "clause_index": 122,
+    "start_char": 53341,
+    "end_char": 53421,
+    "original": "1. When using Diamond 10\u00ae Technology in sentences to identify goods or services:",
+    "ollama_generated": "1. In the event of incorporating Diamond 10\u00ae Technology in sentences for the purpose of describing goods or services:\n\n(Shifts focus from obligation to the occurrence of an action, softening the tone slightly)\n\n(Also note that I've added \"in the event\" to make it clear that this clause only applies when the technology is being used, not generally)",
+    "contradiction_score": 0.0023071104660630226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 54632,
+    "end_char": 54748,
+    "original": "7. Logo Background: The logo should never be used on a busy background or one that does not provide enough contrast.",
+    "ollama_generated": "7. Appropriate Backdrop for Logo: While the logo may be utilized, it is recommended that it appears against a relatively uncluttered backdrop and one that offers sufficient visual distinction to ensure legibility and impact. The contracting parties retain discretion to determine the suitability of their chosen background, with the understanding that suboptimal choices may diminish the intended effectiveness of the logo.",
+    "contradiction_score": 0.010836755856871605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 58004,
+    "end_char": 58605,
+    "original": "2. Recordation . Assignor hereby authorizes and requests the Commissioner of Patents and Trademarks and any other applicable governmental entity or registrar (including any applicable foreign or international office or registrar), to record Assignee as the owner of the Assigned Patents, and to issue any and all Assigned Patents to Assignee, as assignee of Assignor\u2019s entire right, title and interest in, to, and under the same. Assignee shall have the right to record this Assignment with all applicable governmental authorities and registrars so as to perfect its ownership of the Assigned Patents.",
+    "ollama_generated": "2. Recordation . The Assignor hereby authorizes and requests the Commissioner of Patents and Trademarks, any other relevant governmental entity or registrar (including any applicable foreign or international offices or registrars), to record the Assignee as a holder of a non-exclusive license for the Assigned Patents, rather than an outright owner. The Assignee shall be granted the license, subject to the condition that the Assignor retains a residual interest in the Assigned Patents. The Assignee may record this Agreement with all applicable governmental authorities and registrars, but such recording shall not serve as conclusive proof of its exclusive ownership rights over the Assigned Patents, which shall remain with the Assignor unless and until expressly transferred in writing.",
+    "contradiction_score": 0.2684241533279419,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 59535,
+    "end_char": 59842,
+    "original": "6. Counterparts . This Assignment may be executed in any number of counterparts, including by means of email in portable document format (.pdf), each of which when executed shall be deemed to be an original copy of this Assignment and all of which taken together shall constitute one and the same agreement.",
+    "ollama_generated": "6. Multiple Executions . This Assignment may be signed and exchanged in multiple counterparts, including electronically via email as a portable document (.pdf), with each signed copy regarded as an authentic and binding version of this Agreement. Once all parties have signed and exchanged their respective copies, the combined set of executed agreements shall collectively represent a single binding contract.\n\nIn this revised clause, I've attempted to make the agreement slightly more flexible by allowing for electronic signatures and execution via email. This change does not significantly weaken the obligation or shift responsibility but rather makes it easier for parties to fulfill their agreement.",
+    "contradiction_score": 0.0011263095075264573,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 62029,
+    "end_char": 62035,
+    "original": "Title:",
+    "modified": "Title: Modification of Liability Limitations\n\nOriginal Clause: In no event shall the Service Provider be liable for any damages arising from the use or inability to use the Services, including but not limited to, direct, indirect, incidental, consequential, special, exemplary, and punitive damages.\n\nRewritten Clause: Under no circumstances will the Service Provider be held responsible or liable for any kind of harm resulting from the use or unavailability of the Services, including but not exclusively, direct, indirect, incidental, consequential, special, exemplary, and punitive damages. However, it is acknowledged that the User assumes all risks associated with using the Services, and the Service Provider's liability shall be limited to the fees paid by the User for the services in the preceding twelve months.",
+    "contradiction_score": 0.5011128187179565,
+    "kept": true
+  },
+  {
+    "clause_index": 152,
+    "start_char": 62035,
+    "end_char": 62775,
+    "original": "SCHEDULE A TO PATENT ASSIGNMENT Exhibit C \u2013 Form of Trademark Assignment FORM OF TRADEMARK ASSIGNMENT This TRADEMARK ASSIGNMENT  (the \u201c Assignment \u201d), dated as of December 31, 2018 (the \u201c Effective Date \u201d), is by and between Armstrong Flooring, Inc., a Delaware corporation (\u201c Seller \u201d) and AFI Licensing LLC, a Delaware limited liability company (\u201c Licensing \u201d and together with Seller, \u201cAssignor \u201d) and Armstrong Hardwood Flooring Company, a Tennessee corporation (the \u201c Company \u201d or \u201c Assignee \u201d) (each of Assignor and Assignee, a \u201cParty \u201d and collectively, the \u201c Parties \u201d). All capitalized terms used, but not defined herein, shall have the meanings ascribed to such terms in the Intellectual Property Agreement (defined herein below).",
+    "modified": "SCHEDULE A TO PATENT ASSIGNMENT Exhibit C \u2013 Reversed Trademark Assignment REVERSED TRADEMARK ASSIGNMENT (the \"Assignment\"), dated as of December 31, 2018 (the \"Effective Date\"), is by and between Armstrong Flooring, Inc., a Delaware corporation (\"Assignee\"), AFI Licensing LLC, a Delaware limited liability company (\"Licensing\"), and Armstrong Hardwood Flooring Company, a Tennessee corporation (each of Assignee and Licensing, a \"Party\" and collectively, the \" Parties \"). All capitalized terms used, but not defined herein, shall have the meanings ascribed to such terms in the Intellectual Property Agreement (defined herein below), except that the Party referred to as \"Assignor\" shall henceforth be referred to as \"Assignee,\" and vice versa.\n\nIn this Assignment, effective on the Effective Date, the Parties agree as follows: The Assignee hereby grants, transfers, assigns, and conveys to Licensing, for world-wide use, all right, title, and interest in and to the trademarks listed in Exhibit A (the \"Trademarks\"), together with any goodwill associated therewith. The Assignee shall have no further rights or obligations with respect to the Trademarks once this assignment is executed.\n\nThis Assignment constitutes the entire agreement between the Parties regarding the subject matter hereof and supersedes all prior agreements, understandings, and communications, whether written or oral, relating thereto. This Assignment may not be amended except in writing signed by both Parties.\n\nThis Assignment shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law principles. The Parties agree that any action, proceeding, or claim arising out of this Assignment shall be brought exclusively in the courts of the State of Delaware or the United States District Court for the District of Delaware.\n\nIN WITNESS WHEREOF, the Parties have executed this Reversed Trademark Assignment as of the Effective Date.\n\nARMSTRONG FLOORING, INC. (Assignee) By:_________________________ Name: _______________________ Title: ______________________\n\nAFI LICENSING LLC (Licensing) By:_________________________ Name: _______________________ Title: ______________________",
+    "contradiction_score": 0.5726068019866943,
+    "kept": true
+  },
+  {
+    "clause_index": 169,
+    "start_char": 69533,
+    "end_char": 69543,
+    "original": "LICENSING:",
+    "ollama_generated": "LICENSOR'S AUTHORIZATION:\n\nThe Licensor hereby grants to the Licensee a non-exclusive, worldwide, royalty-free, revocable, and limited right to use the Licensed Materials for the agreed purposes during the term of this Agreement. The Licensor reserves the right to terminate this license at any time upon written notice to the Licensee. Any unauthorized use by the Licensee shall be considered a breach of this Agreement, and the Licensor may seek damages and other remedies accordingly.\n\nThe Licensee agrees to comply with all applicable laws and regulations in connection with its use of the Licensed Materials. The Licensee is solely responsible for obtaining any necessary licenses or permissions related to its use of the Licensed Materials, and the Licensor shall not be liable for any claims arising from such use.\n\nFurthermore, the Licensee agrees that it shall indemnify and hold harmless the Licensor, its affiliates, officers, agents, and employees against any and all losses, damages, claims, actions, judgments, costs, or expenses, including reasonable attorney's fees, arising out of or resulting from the Licensee's use of the Licensed Materials in breach of this Agreement. The Licensor shall have no obligation to defend or settle any such claim against the Licensee.\n\nIn the event that the Licensed Materials infringe upon any third party rights, the Licensor will have no obligation to defend, indemnify, or hold harmless the Licensee for any claims arising from such infringement. The Licensee shall be solely responsible for any costs or damages resulting from such infringement.\n\nThe above provisions are intended to clarify and narrow the scope of the Licensor's obligations under this Agreement, and they should be construed accordingly. Any ambiguities in the interpretation of this clause shall be resolved in favor of the Licensor.",
+    "contradiction_score": 0.4827427864074707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 69561,
+    "end_char": 69587,
+    "original": "Acknowledged and Accepted:",
+    "ollama_generated": "Understood and Consented:\n\nIn light of the discussions and information provided, it is hereby agreed by all parties that any potential risks, consequences, or complications associated with this agreement are fully understood and accepted. However, it should be noted that while due diligence will be exercised in fulfilling our respective obligations, no absolute assurance can be given regarding the success of the project or outcomes achievable. Any disputes arising from this agreement shall be resolved through negotiation, mediation, or arbitration rather than litigation, unless otherwise specified by law.",
+    "contradiction_score": 0.0025042970664799213,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

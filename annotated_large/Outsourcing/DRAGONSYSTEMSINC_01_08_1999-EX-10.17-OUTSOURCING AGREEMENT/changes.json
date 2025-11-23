@@ -1,0 +1,42 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 326,
+    "end_char": 511,
+    "original": "(HEREAFTER \"DRAGON SYSTEMS\") EFFECTIVE AS OF (EFFECTIVE DATE) 1.       PURPOSE OF AGREEMENT Formalize the agreements made regarding services and products between Dragon Systems and MMI.",
+    "ollama_generated": "(Hereafter referred to as \"Dragon Systems\") Effective as of (Effective Date), the Primary Purpose of this Agreement is for the mutual understanding and confirmation of the terms governing the delivery of services and provision of products, initiated by Dragon Systems for MMI.\n\nIn this revised clause, the purpose of the agreement has been rephrased to place more emphasis on the actions initiated by Dragon Systems rather than the agreements made between both parties, subtly shifting the responsibility and perception of action initiation.",
+    "contradiction_score": 0.18928256630897522,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 6111,
+    "end_char": 6209,
+    "original": "Dragon may terminate this agreement without cause by giving sixty (60) days written notice to MMI.",
+    "ollama_generated": "MMI may receive sixty (60) days advance written notice from Dragon prior to any unilateral termination of this agreement, with or without specifying a reason.",
+    "contradiction_score": 0.0017336675664409995,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6209,
+    "end_char": 6457,
+    "original": "13.      GOVERNING LAW Any lawsuit relating to any matter arising under this Agreement may be initiated in a State or Federal Court located in the Commonwealth of Massachusetts or in any court in the Netherlands having jurisdiction over the matter.",
+    "ollama_generated": "13. JURISDICTION AND VENUE Any disputes arising from this Agreement shall be exclusively resolved by either a State or Federal Court situated within the Commonwealth of Massachusetts, or alternatively, a competent court in the Netherlands, with both parties mutually agreeing to submit to the jurisdiction and judgment of these courts. In such cases, the non-preemptive right to bring suit shall lie solely with the Claimant, and the Defendant shall not be precluded from defending claims raised by the Claimant within the chosen jurisdictions.",
+    "contradiction_score": 0.32924091815948486,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 6457,
+    "end_char": 6827,
+    "original": "14.      INSURANCE MMI shall at its own expense obtain and maintain with an insurer adequate insurance coverage in respect of any Dragon Systems property under the care, custody or control of MMI. MMI shall immediately notify Dragon Systems in writing of any theft, loss or damage to any Dragon Systems property and shall indemnify Dragon Systems in respect of the same.",
+    "ollama_generated": "14. INSURANCE\nDragon Systems is responsible for securing sufficient insurance coverage at its own expense, protecting any MMI property in their possession. Any theft, loss, or damage to MMI property should be promptly reported to MMI in writing by Dragon Systems. In such cases, MMI shall assume responsibility for indemnifying Dragon Systems for the related costs and liabilities.\n\nThis revised clause shifts the obligation of obtaining insurance onto Dragon Systems and changes the party responsible for indemnification when there is a loss or damage to MMI property under their control.",
+    "contradiction_score": 0.4094613790512085,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

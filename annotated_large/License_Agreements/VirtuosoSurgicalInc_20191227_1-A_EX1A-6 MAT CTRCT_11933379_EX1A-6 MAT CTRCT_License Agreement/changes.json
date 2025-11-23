@@ -1,0 +1,110 @@
+[
+  {
+    "clause_index": 13,
+    "start_char": 4067,
+    "end_char": 4492,
+    "original": "3. GRANT 3.1 License Granted : Subject to the terms and conditions of this Agreement and to non-exclusive license agreements executed prior to the EFFECTIVE DATE, JHU hereby grants to the Company a non-exclusive, non-transferable license to make, have made, import, offer for sale and sell the LICENSED PRODUCT(S) and the LICENSED SERVICE(S) in the United States and worldwide under the PATENT RIGHT(S) in the LICENSED FIELD.",
+    "ollama_generated": "3. AUTHORIZATION 3.1 Rights Granted: Conditional upon the terms and conditions of this Agreement, as well as any non-exclusive license agreements previously executed prior to the EFFECTIVE DATE, JHU authorizes, but does not assume any liability for, the Company's right to manufacture, have manufactured, import, market, and distribute the LICENSED PRODUCT(S) and the LICENSED SERVICE(S) within the United States and globally. This authorization is subject to the PATENT RIGHT(S) in the LICENSED FIELD, with the understanding that JHU shall not be held liable for any claims or disputes arising from the Company's exercise of these rights.",
+    "contradiction_score": 0.0023823315277695656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8459,
+    "end_char": 9469,
+    "original": "Source: VIRTUOSO SURGICAL, INC., 1-A, 12/27/2019 May 3, 2016 4.7 Non-Arms Length Transactions : In order to insure JHU the full royalty payments contemplated hereunder, the Company agrees that in the event any LICENSED PRODUCT(S) shall be sold to an affiliated company or to a corporation, firm or association with which Company shall have any agreement, understanding or arrangement with respect to consideration (such as, among other things, an option to purchase stock or actual stock ownership, or an arrangement involving division of profits or special rebates or allowances) the royalties to be paid hereunder for such LICENSED PRODUCT(S) shall be based upon the greater of: 1) the net selling price at which the purchaser of LICENSED PRODUCT(S) resells such product to the end user, 2) the NET SERVICE REVENUE received from using the LICENSED PRODUCT(S) in providing a service, 3) the fair market value of the LICENSED PRODUCT(S) or 4) the net selling price of LICENSED PRODUCT(S) paid by the purchaser.",
+    "ollama_generated": "Clause:\nSource: VIRTUOSO SURGICAL, INC., 1-A, 12/27/2019 May 3, 2016 4.7 Non-Arm's Length Transactions : To ensure that JHU receives the minimum royalty payments as outlined herein, the Company assumes responsibility for determining, in any instance where LICENSED PRODUCT(S) are sold to an affiliated entity or a corporation with whom the Company has any agreement, understanding, or arrangement concerning consideration (such as, but not limited to, an option to purchase stock or actual stock ownership, or a profit-sharing or rebate agreement), that the royalties for such LICENSED PRODUCT(S) shall be based on the lesser of: 1) the net selling price at which the end user purchases the LICENSED PRODUCT(S), 2) the NET SERVICE REVENUE generated from using the LICENSED PRODUCT(S) in the provision of a service, 3) the fair market value of the LICENSED PRODUCT(S) or 4) the net selling price paid by the purchaser.",
+    "contradiction_score": 0.21411050856113434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 10857,
+    "end_char": 11100,
+    "original": "4.10 Invoices . Any invoice for payment sent by JHU to Company may be electronically provided by e-mail service. JHU will send invoices to an e-mail address provided by Company. Company will provide JHU with any updates to this e-mail address.",
+    "ollama_generated": "4.10 Invoicing Procedure: Any invoice issued by JHU to the Company may be delivered electronically via email service. The Company shall be responsible for regularly updating and promptly communicating any changes to its email address designated for such communications, to ensure proper receipt of invoices from JHU. Failure to provide updates in a timely manner may result in potential delays or misunderstandings regarding payment obligations.",
+    "contradiction_score": 0.012669839896261692,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 11649,
+    "end_char": 11889,
+    "original": "6. TERM AND TERMINATION 6.1 Expiration : This term of this Agreement shall commence on the EFFECTIVE DATE and shall continue, in each country, until the date of expiration of the last to expire patent within PATENT RIGHT(S) in that country.",
+    "modified": "6. TERM AND TERMINATION\n6.1 Commencement: This Agreement shall commence on the EFFECTIVE DATE and shall continue, in each country, from the date of grant of the first patent within PATENT RIGHT(S) in that country, until such patent expires or is terminated.\n\nIn this revised clause, the focus has shifted from the expiration of the last patent to the commencement of the first patent granted in each country. This slightly modifies the duration of the agreement, making it start earlier and potentially extending its lifespan if new patents are granted during the term of the agreement.",
+    "contradiction_score": 0.8545255064964294,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 14028,
+    "end_char": 14198,
+    "original": "Director Johns Hopkins Technology Ventures The Johns Hopkins University 100 N. Charles Street, 5th Floor Baltimore, MD 21201 Reference : JHU Agreement A29889 FOR Company:",
+    "ollama_generated": "Clause:\n\nCompany (hereinafter referred to as \"the Grantee\"), in reference to the JHU Agreement A29889, hereby acknowledges and accepts that any and all obligations regarding intellectual property (IP) associated with the technology transferred, shall be exclusively assumed by the Grantee. The Johns Hopkins University, through Johns Hopkins Technology Ventures (JHTV), located at 100 N. Charles Street, 5th Floor, Baltimore, MD 21201 (hereinafter referred to as \"the Grantor\") hereby relinquishes all responsibilities related to the IP's development, protection, and commercialization once transferred to the Grantee.\n\nIn the event of any disputes arising from this clause or the agreement as a whole, it shall be resolved through binding arbitration at a location mutually agreed upon by both parties, in accordance with the rules established by the American Arbitration Association. The ruling of the arbitrator(s) shall be final and binding on all parties involved.\n\nThis clause supersedes any previous agreements, understandings, or representations between the Grantor and the Grantee regarding intellectual property obligations, and may not be amended except in writing signed by both parties. This clause is intended to survive the termination of the agreement.\n\nThis clause should be interpreted under the laws of the State of Maryland without regard to its conflict of law principles.",
+    "contradiction_score": 0.032008569687604904,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 16545,
+    "end_char": 16792,
+    "original": "9.6 Disclaimer of Warranties : JHU does not warrant the validity of any patents or that the practice under such patents, or the manufacture, use, sale or import of LICENSED PRODUCT(S) or LICENSED SERVICE(S), shall be free from patent infringement.",
+    "ollama_generated": "9.6 Limitation of Warranties: The Johns Hopkins University makes no guarantees regarding the validity or enforceability of any patents, nor does it assume any liability for potential patent infringements that may arise in connection with the use, manufacture, sale, or import of the LICENSED PRODUCT(S) or LICENSED SERVICE(S). The User is solely responsible for ensuring compliance with all applicable patent laws and regulations.",
+    "contradiction_score": 0.004773728549480438,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 21496,
+    "end_char": 22167,
+    "original": "Source: VIRTUOSO SURGICAL, INC., 1-A, 12/27/2019 May 3, 2016 9.10 Amendment & Waiver : This Agreement may be amended and any of its terms or conditions may be waived only by a written instrument executed by the authorized officials of the parties or, in the case of a waiver, by the party waiving compliance. The failure of either party at any time or times to require performance of any provision hereof shall in no manner affect its right at a later time to enforce the same. No waiver by either party of any condition or term in any one or more instances shall be construed as a further or continuing waiver of such condition or term or of any other condition or term.",
+    "ollama_generated": "Clause:\nSource: VIRTUOSO SURGICAL, INC., 1-A, 12/27/2019 May 3, 2016 9.10 Amendment & Waiver : This Agreement may be amended or its terms or conditions modified only by a written instrument executed by the authorized representatives of the parties, or, in the case of a waiver, by the party electing to waive compliance. The exercise by either party of any rights or remedies under this Agreement at any given time shall not serve as a waiver of such rights or remedies for the future. Any forbearance by either party to enforce any provision of this Agreement in one or more instances shall not be deemed a general waiver of that provision, or any other provision, for the future.\n\nIn this revised clause, the obligation has been weakened slightly by changing \"the failure of either party\" to \"the exercise by either party of any rights or remedies under this Agreement,\" which implies that the act of enforcing the agreement does not necessarily impact the right to enforce it in the future. Additionally, the phrase \"The failure of either party at any time or times to require performance of any provision hereof shall in no manner affect its right at a later time to enforce the same\" has been rephrased as \"Any forbearance by either party to enforce any provision of this Agreement in one or more instances shall not be deemed a general waiver of that provision, or any other provision, for the future,\" which further emphasizes the ability to enforce provisions at a later time.",
+    "contradiction_score": 0.08444651961326599,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 28432,
+    "end_char": 29097,
+    "original": "4. LIQUIDITY EVENT 4.1 COMPANY will pay JHU a fee equal one percent (1%) of the Aggregate Consideration received by the COMPANY, or the total amount received by stockholders of COMPANY, upon the occurrence of a Liquidity Event. Such fee shall be paid after only the first to occur of either a Liquidation Event or an Initial Public Offering. The respective fees, when and if payable, shall be paid upon closing\u037e except that if there are additional contingent amounts (\u201cTrailing Consideration\u201d) payable upon the occurrence of subsequent events, then the Trailing Consideration shall be due and payable to JHU within thirty (30) days after receipt thereof by COMPANY.",
+    "ollama_generated": "4. LIQUIDITY EVENT\n\n4.1 In the event of a Liquidity Event, Johns Hopkins University (JHU) shall be entitled to receive a fee equivalent to one percent (1%) of the Total Consideration received by the Company, or the total amount received by the shareholders of the Company, net of any fees or expenses payable to third parties. The entitlement to this fee arises upon the occurrence of either a Liquidation Event or an Initial Public Offering, with the former taking precedence if both events occur concurrently.\n\nThe fees, if applicable, will be due and payable to JHU within thirty (30) days following the closing of the relevant event, provided that no contingent amounts (\"Trailing Consideration\") are yet due or payable. If Trailing Consideration becomes due at a later date, it shall be paid to JHU within thirty (30) days after its receipt by the Company.\n\nIn the unlikely event that the Company incurs any fees or expenses prior to the distribution of proceeds to shareholders, these costs shall be deducted from the amounts payable to JHU under this clause.",
+    "contradiction_score": 0.1607942283153534,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 29469,
+    "end_char": 29909,
+    "original": "Notwithstanding the foregoing, in the event the form of consideration paid or payable includes securities for which there is not an active public market, in lieu of paying that portion of the fee with such securities COMPANY will make a cash payment to JHU equal to the fair market value of such securities. The valuation of such securities shall be determined in accordance with the definition of \u201cAggregate Consideration\u201d set forth below.",
+    "ollama_generated": "Despite the preceding provisions, if the consideration provided or to be provided includes securities that do not have an active public market, JHU shall have the option to receive a cash payment from COMPANY instead of the securities. The cash amount will correspond to the fair market value of such securities, as defined in the term \"Aggregate Consideration\" below, which shall determine the valuation of such securities for this purpose.",
+    "contradiction_score": 0.0011392042506486177,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 29914,
+    "end_char": 30044,
+    "original": "4.3 For an Initial Public Offering, the fee shall be payable in the form of cash, and shall be based upon the Pre Money Valuation.",
+    "modified": "4.3 In the event of an Initial Public Offering, the payment obligation shall be fulfilled not strictly in cash, but may include other negotiable securities or assets, subject to mutual agreement. Moreover, the fee's basis shall no longer be exclusively the Pre Money Valuation; alternative valuation methods, mutually agreed upon by the parties, may also apply.",
+    "contradiction_score": 0.9034835696220398,
+    "kept": true
+  },
+  {
+    "clause_index": 81,
+    "start_char": 31617,
+    "end_char": 32100,
+    "original": "(a) If traded on a securities exchange or the NASDAQ Stock Market, the value shall be deemed to be the average of the closing prices of the securities on such exchange or market over the thirty day (30) period ending three (3) days prior to the closing of such transaction\u037e or (b) If actively traded over-the-counter, the value shall be deemed to be the average of the closing bid prices over the thirty day (30) period ending three (3) days prior to the closing of such transaction.",
+    "ollama_generated": "(a) In the event that the securities are traded on a securities exchange or the NASDAQ Stock Market, it shall be considered that the value is the average of the opening prices of those securities over the thirty day (30) period commencing four (4) days following the closing of such transaction; or\n   (b) If the securities are actively traded over-the-counter, the value will be deemed to be the average of the asking prices over the same thirty day (30) period commencing four (4) days after the completion of the transaction.",
+    "contradiction_score": 0.32305148243904114,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

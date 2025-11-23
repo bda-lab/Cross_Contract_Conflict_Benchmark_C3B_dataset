@@ -1,0 +1,159 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 636,
+    "original": "SeattleSoftware Developers SOFTWARE DEVELOPMENT AGR EEMENT PELICAN DELIVERS iOS APPLICATION ENHANCEMENTS  & WEB APPLICATION DEVELOPMENT PHASE 1 4 102nd Ave NE Suite 300 Bellevue, WA 98004 (425) 256-2815 julian@seatt lesoftwaredevelopers .com www .seattlesoftwa redeve Iopers.com Source: PELICAN DELIVERS, INC., S-1, 2/11/2020 STATEMENT OF WORK - APPENDIX A This Statement of Work is issued to and made part of that Software Development Agreement executed by and between Developer and Client on the Effective Date (the Agreement). Any word or phrase not otherwise defined in this Appendix will have the meaning ascribed in the Agreement.",
+    "modified": "Clause:\nSeattleSoftware Developers SOFTWARE DEVELOPMENT AGREEMENT REVISED PELICAN ACCEPTS ENHANCEMENTS FOR iOS APPLICATION AND WEB APPLICATION DEVELOPMENT PHASE 1\nPelican Accepts, S-1, 2/11/2020 STATEMENT OF WORK - APPENDIX A This Revised Statement of Work is incorporated into and becomes a part of that Software Development Agreement executed by and between Client and Developer on the Effective Date (the Agreement). Any term or condition not defined in this Appendix shall have the meaning provided in the Agreement.\n\nIn this revised version, Pelican accepts the terms instead of delivering the work as stated in the original clause, shifting responsibility from Pelican to the client. The revised clause also uses \"Revised Statement of Work\" and \"Pelican Accepts\" for a more active tone, while the original used \"Statement of Work\" and \"PELICAN DELIVERS.\"",
+    "contradiction_score": 0.569379448890686,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2184,
+    "end_char": 2215,
+    "original": "Milestone #3 \u2013 March 1st, 2019.",
+    "ollama_generated": "Milestone #3 \u2013 Party's Discretion, Commencing from March 1st, 2019 (or as soon as Practicable Thereafter).\n\nExplanation: This revised clause weakens the obligation slightly by giving the party discretion to commence the milestone on or after March 1st, 2019, rather than explicitly stating that it must be completed on that date. Additionally, the use of \"as soon as practicable thereafter\" allows for some flexibility in the timing, acknowledging that unforeseen circumstances may arise.",
+    "contradiction_score": 0.007880503311753273,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3165,
+    "end_char": 3334,
+    "original": "\u00a7Email \u00a7Password / Confirm Password \u00a7First Name \u00a7Last Name \u00a7Phone Number \u00a7Birthday \u00b7Profile oAfter the user logs in they can view their profile which will allow them to:",
+    "ollama_generated": "\u00a7User Login Credentials (Email, Password) / Confirm Password / First Name / Last Name / Contact Information (Phone Number, Birthday) \u00b7User Profile\n\nUpon successful user login, access to the user profile is granted, allowing them to:\n\n1. View and edit their personal information as needed. Please note that the platform bears no responsibility for any potential misuse of this feature by unauthorized third parties due to unintentional disclosure or breach of security measures. The user is advised to use strong, unique passwords and keep their account information private at all times.\n\n2. Customize their experience by selecting preferences or settings that best suit their needs and comfort. Any changes made by the user are considered binding and immediate, unless explicitly stated otherwise. However, the platform reserves the right to modify any settings for operational purposes. The user will be notified of such changes prior to implementation where possible.\n\n3. Receive updates and promotional material related to our services directly in their email. If a user wishes to opt-out of these communications, they may do so by adjusting their account preferences.\n\n4. Deactivate or delete their account if they wish to stop using the platform permanently. The platform will retain some data for record keeping and compliance purposes but will not use this information for any other purpose unless required by law.",
+    "contradiction_score": 0.01686153933405876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3799,
+    "end_char": 4037,
+    "original": "Source: PELICAN DELIVERS, INC., S-1, 2/11/2020 \u00a7Processing order - A driver has accepted the delivery request and the dispensary has been alerted to prepare the products for pickup. Payment has been successfully submitted by the customer.",
+    "ollama_generated": "Clause:\nSource: PELICAN DELIVERS, INC., S-1, 2/11/2020 \u00a7Processing order - Upon successful submission of payment by the customer, and upon a driver acknowledging the delivery request, it is understood that the dispensary shall be alerted to prepare the products for pickup, subject to their readiness and availability.\n\nIn this revised clause, we have inverted the condition from \"dispensary has been alerted\" to \"it is understood that the dispensary shall be alerted,\" which implies a greater reliance on the understanding of the parties involved, rather than a definite obligation on the dispensary. This subtly shifts some responsibility from the dispensary to the customer and the driver in case of any delay or unavailability of products.",
+    "contradiction_score": 0.04559312388300896,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 4037,
+    "end_char": 4174,
+    "original": "\u00a7In progress order -The driver has purchased the product from the vendor and is now on the way to delivering the product to the customer.",
+    "modified": "\u00a7Delivery in Transit - The recipient has previously procured the goods from the supplier, and the driver, acting as an agent, is currently responsible for transferring custody of the goods from themselves to the intended recipient, with the understanding that legal title does not pass until the goods are successfully received by the customer.",
+    "contradiction_score": 0.8491326570510864,
+    "kept": true
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4174,
+    "end_char": 4297,
+    "original": "\u00a7Delivered order -The driver has delivered the product to the customer and the customer has confirmed receipt of the order.",
+    "ollama_generated": "\u00a7Confirmation of Delivery - Upon the driver's confirmation that the product has been handed over to the customer, the responsibility for confirming the receipt of the order shifts to the customer. The customer's acknowledgement of receipt of the order serves as the conclusive evidence of a successful delivery.",
+    "contradiction_score": 0.0435347706079483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 6237,
+    "end_char": 6483,
+    "original": "\u00b7Each driver will have a set amount of time (e.g. 10 seconds) to accept or reject the order, or the order will automatically be rejected by time and the lack of response will be recorded for future reference/internal driver ranking in the future.",
+    "ollama_generated": "Driver's response to an incoming order shall not exceed a designated duration (e.g., 10 seconds). Failure to respond within this timeframe shall be deemed as acceptance of the order, unless otherwise communicated explicitly by the driver. Non-response will not be recorded as rejection, but will contribute to the driver's ranking in future assessment periods.",
+    "contradiction_score": 0.07298185676336288,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 7662,
+    "end_char": 8145,
+    "original": "\u00b7POS System oThe application will tie into the dispensaries POS system and pull the inventory, product details, price, and quantity oThe application will pull data from the POS system once every 1-2 hours oIf a product is low, it will not be displayed on the front-end website or mobile apps \u00a7The low quantity can be defined by the dispensary \u00a7Ability for dispensary owner to input Username and Password for PO system connection using the Greenbits login to authenticate and connect.",
+    "ollama_generated": "\u00b7POS System Integration: The integration of the application with the dispensary's POS system is essential. However, the frequency at which data is pulled from the POS system may vary, but it will be at least once every 1-2 hours.\n\n   -The application will retrieve inventory, product details, price, and quantity from the POS system as needed.\n   -In case of low inventory levels, the item may still appear on the front-end website or mobile apps, but it will be clearly marked as 'low stock' or 'limited availability'.\n   \u00a7The threshold for defining 'low stock' is to be determined by the dispensary.\n   \u00a7It is the responsibility of the dispensary owner to set up and maintain the connection between the application and the POS system, including providing a Username, Password, and using the Greenbits login credentials for authentication purposes.",
+    "contradiction_score": 0.016713909804821014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 11057,
+    "end_char": 11104,
+    "original": "oOrder goes into a pending / processing status.",
+    "ollama_generated": "Upon receipt of the order, its status will be updated to \"Under Review,\" signifying our team's active engagement in the process of verifying and preparing your request for fulfillment.",
+    "contradiction_score": 0.02183419093489647,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 11104,
+    "end_char": 11241,
+    "original": "oWhen the driver goes to pick up the product, he/she brings up the order and hits \"release funds\" in the phone after verifying the order.",
+    "ollama_generated": "Upon arrival at the specified location for the product pickup, the driver shall first confirm the accuracy of the order details, following which they may opt to initiate the fund release process by clicking \"request funds\" on their device, subject to our system's approval and subsequent confirmation.",
+    "contradiction_score": 0.001513009425252676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 11766,
+    "end_char": 12545,
+    "original": "\u00b7Trulioo oWill be used to verify government issued IDs oCompare and match users ID with selfie's oMake sure users are of age \u00b7Twilio oWill be used for client to customer communication during an order \u00b7Payouts, Subscription fees, flat fees, commissions fees \u00a7Commission fees - 25% commission on delivery orders. Admin will have the ability to change the % or fee based on dispensary \u00a7Flat fees - $1 in store pickup orders through the app or website \u00a7Subscription Fee - $500 a month subscription per store \u00b7Top sponsors will pay $750 instead of $500 \u00a7Withdrawing Fee - $1 fee added to the existing daily pay fees \u00a7Delivery fee - 20% of delivery fee will go to Pelican. 80% will go to driver \u00b7Integrating with Dispensaries POS system oDispensaries menu should be searchable for web.",
+    "ollama_generated": "Clause:\n\u00b7Trulioo may be utilized at the discretion of Trulioo for ID verification purposes, including comparison and matching of government-issued IDs with selfies, and ensuring users meet the required age.\n\n\u00b7Twilio is recommended, but not mandatory, for client-to-customer communication during an order process.\n\n\u00a7Commission fees - The platform retains a 25% commission on delivery orders. The administration reserves the right to adjust this percentage or fee based on individual dispensaries' needs.\n\n\u00a7Flat fees - A flat fee of $1 will be applied for in-store pickup orders through the app or website.\n\n\u00a7Subscription Fee - Clients have the option to subscribe, with a monthly fee of $500 per store. Top sponsors may opt for a reduced rate of $750 instead.\n\n\u00a7Withdrawal Fee - A withdrawal fee of $1 will be added to any existing daily pay fees.\n\n\u00a7Delivery fee - 20% of the delivery fee will be retained by Pelican, while 80% goes directly to the driver.\n\n\u00b7Integration with Dispensaries POS system is encouraged but not required. The dispensary's menu should be searchable via web interface for optimal user experience.",
+    "contradiction_score": 0.021648725494742393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 14144,
+    "end_char": 14426,
+    "original": "\u00a7Email \u00a7Password / Confirm Password \u00a7First Name \u00a7Last Name \u00a7Phone Number \u00a7Birthday \u00a7Driver's License \u00a7Car License Plate # \u00a7Car Make/Model and photo \u00a7Driver Photo \u00a7Upload car insurance paperwork \u00b7Profile oAfter the driver logs in they can view their profile which will allow them to:",
+    "ollama_generated": "\u00a7Upon account activation, users are required to provide the following details for verification purposes: Email, Password (Confirm Password), First Name, Last Name, Phone Number, Birthday, Driver's License, Car License Plate #, Car Make/Model (with a photo), and Driver Photo. Submission of car insurance paperwork is optional, but strongly recommended for the smoothest user experience.\n\nWith successful login, users may access their profile, where they can:\n\n1. View their personal details as provided during registration.\n2. Update or modify their information at any time, with the understanding that changes may take up to 48 hours to reflect on our system for security reasons.\n3. Opt-out of certain communication preferences, such as promotional emails or account notifications.",
+    "contradiction_score": 0.02790498174726963,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 15176,
+    "end_char": 15325,
+    "original": "\u00a7Driver can then navigate to the customer for product delivery, customer can view driver's eta based on their location and Google navigation results.",
+    "ollama_generated": "\u00a7Upon receiving the necessary details from the Driver, the Customer shall have the ability to track the estimated time of arrival (ETA) through their current location and Google navigation system. However, it is important to note that while we strive for accuracy, the ETA provided is an estimate only and may not reflect unforeseen traffic conditions or other extenuating circumstances that could impact delivery timing.",
+    "contradiction_score": 0.0007449983968399465,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 15325,
+    "end_char": 15723,
+    "original": "\u00a7If the driver has any issues with product pickup or delivery, they can contact the customer via SMS (using Twilio API) \u00a7Upon arrival at customer location, driver must verify customer identity by taking a picture of/scanning the customer's ID. Once the customer's ID is verified and the product is delivered, the customer must confirm receipt of the product for the order to be considered complete.",
+    "modified": "\u00a7Upon arrival at the customer location, the customer is responsible for verifying their identity by presenting a valid ID to the driver. After the driver confirms the customer's identity, the product will be delivered. The driver should make reasonable efforts to resolve any issues related to product pickup or delivery; however, failure to do so does not affect the completion of the order unless explicitly communicated to the customer through SMS (using Twilio API).\n\n\u00a7Upon delivery of the product and the customer's confirmation of receipt, the order will be considered complete. The driver is not required to take a picture or scan the customer's ID for verification purposes.",
+    "contradiction_score": 0.9845777153968811,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 16109,
+    "end_char": 16166,
+    "original": "Acceptance by Developer SEATTLE SOFTWARE DEVELOPERS, Inc.",
+    "ollama_generated": "Obligation to be Met by Seattle Software Developers, Inc.:\n\nAcknowledgement of the Terms and Conditions by the Client (Seattle Software Developers, Inc.) shall be considered binding.",
+    "contradiction_score": 0.05175194516777992,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 16256,
+    "end_char": 16347,
+    "original": "By: /s/ Dave Comeau Dave Comeau, Shareholder Source: PELICAN DELIVERS, INC., S-1, 2/11/2020",
+    "ollama_generated": "By: /s/ Dave Comeau (Dave Comeau, Shareholder) Source: Amended and Restated Articles of Incorporation of Pelican Delivers, Inc., Effective Date: 2/11/2020\n\nIn consideration of the mutual covenants contained herein, the Company shall make every reasonable effort to fulfill its obligations under this Agreement. The Shareholder's liability for any failure to meet such obligations shall be limited to instances where the Company's best efforts have not been expended in good faith.",
+    "contradiction_score": 0.006258608307689428,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

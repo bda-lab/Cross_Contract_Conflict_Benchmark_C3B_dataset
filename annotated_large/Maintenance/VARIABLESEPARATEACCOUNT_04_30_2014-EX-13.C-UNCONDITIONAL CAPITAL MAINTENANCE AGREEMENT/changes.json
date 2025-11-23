@@ -1,0 +1,42 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 123,
+    "end_char": 551,
+    "original": "AMERICAN GENERAL LIFE INSURANCE COMPANY This Amended and Restated Unconditional Capital Maintenance Agreement (this \u201cAgreement\u201d), is made, entered into and effective as of February 18, 2014, by and between American International Group, Inc., a corporation organized under the laws of the State of Delaware (\u201cAIG\u201d), and American General Life Insurance Company, a corporation organized under the laws of the Texas (the \u201cCompany\u201d).",
+    "ollama_generated": "AMERICAN GENERAL LIFE INSURANCE COMPANY This Revised Conditional Capital Maintenance Agreement (hereinafter referred to as this \"Agreement\"), is entered into on February 18, 2014, by and between American International Group, Inc., a corporation organized under the laws of the State of Delaware (\"AIG\"), and American General Life Insurance Company, a corporation organized under the laws of the Texas (the \"Company\"). However, it shall only come into full force and effect upon the occurrence of specified conditions as outlined in Section 3 of this Agreement.\n\nIn this updated version, the obligation is made conditional rather than unconditional, meaning the agreement will not be fully binding until certain specified conditions are met.",
+    "contradiction_score": 0.0030772010795772076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 568,
+    "end_char": 1128,
+    "original": "WHEREAS, the Company is a life insurer subject to certain capital requirements of the insurance laws and regulations of Texas (the \u201cDomiciliary State\u201d)\u037e WHEREAS, the Company is an indirect wholly owned subsidiary of AIG\u037e WHEREAS, AIG has an interest in unconditionally maintaining the Company\u2019s financial condition\u037e and WHEREAS, AIG and the Company executed that certain Unconditional Capital Maintenance Agreement, dated March 30, 2011 (as amended, the \u201c2011 CMA\u201d), and the parties have agreed to amend and restate such 2011 CMA as provided in this Agreement:",
+    "ollama_generated": "WHEREAS, the Company is a life insurer, subject to the capital requirements of Texas (hereinafter referred to as the \"Home Jurisdiction\"), and which operates under the oversight of AIG; WHEREAS, the Company functions as a wholly-owned subsidiary that is directly influenced by AIG's interests; WHEREAS, it is AIG that has a vested interest in preserving the Company's financial flexibility rather than maintaining it unconditionally; AND WHEREAS, the parties, AIG and the Company, have previously executed the Unconditional Capital Maintenance Agreement on March 30, 2011 (as amended, the \"2011 CMA\"), and they now agree to revise and reaffirm this agreement as set forth in this present document:\n\nIn this new version of the clause, AIG's obligation has been weakened from maintaining the Company's financial condition unconditionally to preserving its financial flexibility, which gives AIG more discretion in how it addresses the Company's financial situation.",
+    "contradiction_score": 0.04572528228163719,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 13028,
+    "end_char": 13199,
+    "original": "12. Governing Law . This Agreement shall be governed by and construed in accordance with the laws of New York, without giving effect to the principles of conflict of laws.",
+    "ollama_generated": "12. Applicable Law . This Agreement will be interpreted and enforced under the jurisdiction of New York state law, disregarding any rules or principles that would result in the application of another jurisdiction's laws.",
+    "contradiction_score": 0.1100512444972992,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 13668,
+    "end_char": 14069,
+    "original": "14. Entire Agreement\u037e Amendments . This Agreement constitutes the entire agreement between the parties hereto with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussion, whether oral or written, of the parties. This Agreement may be amended at any time by written agreement or instrument signed by the parties hereto.",
+    "ollama_generated": "14. Scope of Agreement; Modifications. This Agreement serves as the complete understanding between the parties regarding the specified subject matter, effectively nullifying any previous or concurrent oral or written agreements, discussions, or negotiations concerning this topic. Amendments to this Agreement can be made at any time by executing a signed written document by all parties involved. However, any deviations from this Agreement's terms during the course of performance will be considered as modifications and binding upon the parties unless explicitly agreed otherwise in writing.",
+    "contradiction_score": 0.3702293038368225,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

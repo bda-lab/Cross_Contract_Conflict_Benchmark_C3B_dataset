@@ -1,0 +1,278 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 3496,
+    "end_char": 4191,
+    "original": "The Trust used the proceeds from the sale of the Trust Securities to purchase the Debentures  that were issued pursuant to the Indenture (the \u201cOriginal Indenture \u201d), as supplemented by a  Supplemental Indenture (the \u201cSupplemental Indenture \u201d and, together with the Original Indenture, as so supplemented, the \u201cIndenture \u201d), in each case, dated as of December 18, 2001 between the Company  and The Bank of New York Mellon Trust Company, N.A., as successor indenture trustee (in such  capacity, the \u201cIndenture Trustee \u201d). The Trust will, if and to the extent it receives the proceeds  of a payment on the Debentures, distribute to the holders of the Preferred Securities all payments  so received.",
+    "ollama_generated": "Upon receipt of the proceeds from the sale of the Trust Securities, the Trust may opt to utilize these funds for the purchase of the Debentures, as issued pursuant to the Indenture (the \"Original Indenture\"), supplemented by a Supplemental Indenture (collectively referred to as the \"Indenture\"), both dated on December 18, 2001 between the Company and The Bank of New York Mellon Trust Company, N.A., acting in its capacity as successor indenture trustee (hereinafter referred to as the \"Trustee\"). If the Trust elects to receive proceeds from the Debentures' payments, it shall retain the discretion to distribute these funds to the holders of the Preferred Securities, rather than an obligation to do so.",
+    "contradiction_score": 0.0029192776419222355,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 5292,
+    "end_char": 6019,
+    "original": "As used in this Agreement, the term \u201cRemarketing Securities \u201d means the Preferred Securities or  the Debentures, as applicable, subject to the Remarketing as notified by the Property Trustee, the  Unit Agent and the Indenture Trustee, as applicable, on the third Business Day prior to the Remarketing Settlement Date; the term \u201cRemarketing Procedures \u201d means the procedures in connection  with the Remarketing of the Remarketing Securities described in the Trust Agreement, the Indenture  and this Agreement; and the term \u201cPrevious Related Transactions \u201d means any transactions in  connection with (i) the redemption of or exchange for or exercise of the Warrants or (ii) elections  related to participation in the Remarketing.",
+    "ollama_generated": "In the context of this Agreement, \"Remarketed Securities\" encompasses either the Preferred Securities or the Debentures, contingent on the Remarketing process, provided that notice of such Remarketing is given by the Property Trustee, the Unit Agent, and the Indenture Trustee, respectively, three Business Days prior to the Remarketing Settlement Date. The term \"Remarketing Procedures\" denotes the guidelines pertaining to the sale of the Remarketed Securities, as detailed in the Trust Agreement, the Indenture, and this Agreement. Lastly, \"Prior Related Transactions\" refers to any deals associated with (i) the redemption or exchange options for, or the exercise of, the Warrants, or (ii) selections concerning participation in the Remarketing process.",
+    "contradiction_score": 0.0011017711367458105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 6019,
+    "end_char": 6255,
+    "original": "Capitalized terms used and not defined in this Agreement shall have the meanings assigned to  them in the Unit Agreement, the Trust Agreement, the Warrant Agreement and the Guarantee Agreement  or, if not therein defined, the Indenture.",
+    "ollama_generated": "In the event that a term capitalized within this Agreement is undefined herein, it shall assume the meaning conferred upon it in the Unit Agreement, Trust Agreement, Warrant Agreement, or Guarantee Agreement; if, however, it is not defined in any of those agreements, then its interpretation shall revert to the Indenture.",
+    "contradiction_score": 0.0013882508501410484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 6255,
+    "end_char": 6798,
+    "original": "Section 1. Appointment and Obligations of the Remarketing Agent . (a) The Company and the  Trust (together, the \u201cIssuers\u201d) hereby appoint Barclays as exclusive remarketing agent (the  \u201cRemarketing Agent \u201d), and Barclays hereby accepts appointment as Remarketing Agent, for the purpose  of (i) remarketing the Remarketing Securities on behalf of the holders thereof and (ii) performing  such other duties as are assigned to the Remarketing Agent in the Remarketing Procedures, all in  accordance with and pursuant to the Remarketing Procedures.",
+    "modified": "Section 1. Role and Duties of the Remarketing Agent . (a) The Trust (as trustee for the Account Holders) hereby designates Barclays as the non-exclusive remarketing agent (the \"Remarketing Agent\"), and Barclays hereby accepts this designation, for the purpose of facilitating the sale of the Remarketing Securities on behalf of the holders thereof, and executing such other tasks related to remarketing as may be assigned by the Account Holders or their designees, in accordance with the Remarketing Procedures, but without any exclusive or preferential rights regarding the performance of these duties.",
+    "contradiction_score": 0.5139480233192444,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 7137,
+    "end_char": 7369,
+    "original": "(ii) notify the Issuers promptly of the Reset Rate; and (iii) carry out such other duties as are assigned to the Remarketing Agent  in the Remarketing Procedures, all in accordance with the provisions of the  Remarketing Procedures.",
+    "ollama_generated": "(ii) The Remarketing Agent shall be granted a reasonable amount of time before providing notification to the Issuers regarding the Reset Rate; and (iii) the Issuers shall assume any additional duties or responsibilities assigned to the Remarketing Agent under the Remarketing Procedures, as per the discretion of the Remarketing Agent, insofar as these duties do not conflict with the provisions outlined within the Remarketing Procedures.\n\nIn this revised clause, the obligation for prompt notification has been softened by allowing a reasonable amount of time for the Remarketing Agent to provide notice regarding the Reset Rate. Additionally, the Issuers have assumed any additional duties or responsibilities assigned to the Remarketing Agent under the Remarketing Procedures at the discretion of the Remarketing Agent, shifting some responsibility from the Remarketing Agent to the Issuers.",
+    "contradiction_score": 0.2175048142671585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 7619,
+    "end_char": 7937,
+    "original": "(i) 100% of the aggregate Accreted Value thereof as of the end of the day on  the day next preceding the Remarketing Settlement Date; or (ii) on the Maturity Remarketing Date, 100% of the stated liquidation amount  of the Preferred Securities or the principal amount at maturity of the Debentures,  as the case may be.",
+    "ollama_generated": "(i) On the day prior to the Remarketing Settlement Date, the obligor shall pay an amount equal to 100% of the aggregate Accreted Value thereof as of that date; or alternatively, on the Maturity Remarketing Date, the obligor's obligation is limited to paying the lesser of (a) 100% of the stated liquidation amount of the Preferred Securities or (b) the principal amount at maturity of the Debentures.",
+    "contradiction_score": 0.0038237411063164473,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 9296,
+    "end_char": 9857,
+    "original": "(ii) in connection with a Remarketing upon a Trading Remarketing Event or a  Legal Cause Remarketing Event, on the Remarketing Settlement Date, the rate of  interest per annum on the Accreted Value of the Debentures shall become the Reset  Rate on the Accreted Value of the Preferred Securities that is determined pursuant  to the Remarketing of the Preferred Securities, and, as a result, the Distribution  rate per annum on the Accreted Value of the Preferred Securities shall become the  Reset Rate established in the Remarketing of the Preferred Securities;",
+    "ollama_generated": "(ii) In the event of a Trading Remarketing or a Legal Cause Remarketing, on the specified Remarketing Settlement Date, the interest rate per annum applicable to the Accreted Value of the Debentures shall be replaced by the Reset Rate determined during the Remarketing process of the Preferred Securities. Consequently, this change in interest rate will also apply to the Distribution rate per annum on the Accreted Value of the Preferred Securities, which will now mirror the Reset Rate as established in the Remarketing of the Preferred Securities.",
+    "contradiction_score": 0.0052078100852668285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 11404,
+    "end_char": 11911,
+    "original": "(f) If, by 4:00 p.m. (New York City time) on the Remarketing Date, the Remarketing Agent is  unable to remarket all Remarketing Securities deemed tendered for purchase, a failed Remarketing (a  \u201cFailed Remarketing \u201d) shall be deemed to have occurred, and the Remarketing Agent shall so advise  by telephone (promptly confirmed in writing) The Depository Trust Company ( \u201cDTC\u201d), the Property  Trustee, the Debenture Trustee, the Administrative Trustees and the Company. In the event of a  Failed Remarketing:",
+    "modified": "(f) Should it transpire that by 4:00 p.m. (New York City time) on the Remarketing Date, the Remarketing Agent is able to successfully remarket all tendered Remarketing Securities for purchase, this shall be deemed an unanticipated success (\"Successful Remarketing\"). In such an event, the Remarketing Agent will promptly communicate this to The Depository Trust Company ( \"DTC\"), the Property Trustee, the Debenture Trustee, the Administrative Trustees and the Company in writing. If, however, a Successful Remarketing does not occur, it shall be considered a Failure of Remarketing (\"Failed Remarketing\"). In this scenario, the Remarketing Agent will notify DTC, the Property Trustee, the Debenture Trustee, the Administrative Trustees and the Company via telephone (followed by a written confirmation) about the Failed Remarketing.",
+    "contradiction_score": 0.8579697608947754,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 12245,
+    "end_char": 12761,
+    "original": "(ii) the Accreted Value of all outstanding Debentures as of the end of the  day on the day next preceding the Remarketing Settlement Date shall become due on  the date which is 93 days following the Failed Remarketing Settlement Date, and, as  a result, the Accreted Value of the Preferred Securities as of the end of the day on  the day next preceding the Remarketing Settlement Date shall be redeemed on the date  which is 93 days following the Remarketing Settlement Date with respect to such  Failed Remarketing;",
+    "ollama_generated": "(ii) In the event of a Failed Remarketing, the Accreted Value of all outstanding Debentures as of the close of business on the day prior to the original Remarketing Settlement Date will be accelerated for redemption 93 days following the Failed Remarketing Settlement Date. Consequently, the issuer shall undertake the redemption of the Accreted Value of the Preferred Securities as of the close of business on the day prior to the original Remarketing Settlement Date, 93 days after the actual Remarketing Settlement Date. This provision applies solely to the Failed Remarketing scenario.",
+    "contradiction_score": 0.03301931172609329,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 24483,
+    "end_char": 24798,
+    "original": "(f) No relationship, direct or indirect, exists between or among the Company on the one  hand, and the directors, officers, shareholders, customers or suppliers of the Company on the other  hand, which is required to be described in each of the Time of Sale Prospectus and the Prospectus  which is not so described.",
+    "ollama_generated": "(f) It is acknowledged that there may exist relationships, direct or indirect, between or among the Company on one hand, and its directors, officers, shareholders, customers or suppliers on the other hand, which are not disclosed in either the Time of Sale Prospectus or the Prospectus. The parties acknowledge that it is their responsibility to disclose any such relationships that are required to be disclosed under applicable laws and regulations.",
+    "contradiction_score": 0.4787251949310303,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 35411,
+    "end_char": 36844,
+    "original": "(o) Except as set forth in or contemplated by the Prospectus or as may relate to the  Original Remarketing Agreement, there is (i) no action, suit or proceeding before or by any court,  arbitrator or governmental agency, body or official, domestic or foreign, now pending or threatened  or contemplated to which the Company or any of its subsidiaries is or may be a party or to which  the business or property of the Company or any of its subsidiaries is or may be subject, (ii) no  statute, rule, regulation or order that has been enacted, adopted or issued by any governmental  agency or that has been proposed by any governmental body having jurisdiction over the Company or  its subsidiaries and (iii) no injunction, restraining order or order of any nature by a federal or  state court or foreign court of competent jurisdiction to which the Company or any of its  subsidiaries is or may be subject issued that, in the case of clauses (i), (ii) and (iii) above,  (x) would, singly or in the aggregate, reasonably be expected to result in a Material Adverse  Effect, (y) would interfere with or adversely affect the issuance of any of the Securities or (z)  in any manner draw into question the validity of any of the Transaction Agreements or the  Remarketing of the Remarketing Securities. The Time of Sale Prospectus contains in all material  respects the same description of the foregoing matters contained in the Prospectus.",
+    "ollama_generated": "(o) With the exception of those actions, suits, proceedings, or contemplations outlined within the Prospectus or the Original Remarketing Agreement, there is (i) no existing or anticipated legal action, dispute, claim, investigation, or regulatory proceeding involving the Company or any of its subsidiaries that could reasonably be expected to result in a Material Adverse Effect, (ii) no law, rule, regulation, or order enacted, adopted, or proposed by any governmental agency with jurisdiction over the Company or its subsidiaries that could have such an effect, and (iii) no temporary or permanent injunction, restraining order, or other court order issued against the Company or its subsidiaries that may affect their business operations, the issuance of Securities, or the validity of any Transaction Agreements or Remarketing of Remarketing Securities. The Time of Sale Prospectus offers an accurate and comprehensive description of these matters in all material respects as stated in the Prospectus.\n\nIn this revised version, the clause emphasizes potential future actions, disputes, claims, investigations, or regulatory proceedings instead of focusing on existing ones. Additionally, it provides a broader perspective by including the possibility of proposed laws and orders that could have an adverse effect. Lastly, it clarifies that the Time of Sale Prospectus accurately describes these matters in all important aspects as stated in the original Prospectus.",
+    "contradiction_score": 0.017871523275971413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 36844,
+    "end_char": 37535,
+    "original": "(p) None of the employees of the Company and its subsidiaries is represented by a union  and, to the best knowledge of the Company and its subsidiaries, no union organizing activities are  taking place. Neither the Company nor any of its subsidiaries has violated any federal, state or  local law or foreign law relating to discrimination in hiring, promotion or pay of employees, nor  any applicable wage or hour laws, nor any provision of the Employee Retirement Income Security Act  of 1974, as amended, and the rules and regulations thereunder (collectively, \u201cERISA\u201d), or analogous foreign laws and regulations, which would reasonably be expected to result in a Material Adverse  Effect.",
+    "ollama_generated": "(q) It is neither confirmed nor implied that any employee of the Company or its subsidiaries is currently union-represented, nor are there ongoing efforts by employees to form a union. The Company and its subsidiaries do not admit or deny any violation of federal, state, or local laws concerning employment discrimination, wage and hour regulations, or the Employee Retirement Income Security Act (ERISA) and its implementing rules and regulations. However, should it come to light that such a violation has occurred, or should such a violation reasonably be expected to have a Material Adverse Effect, the Company and its subsidiaries reserve the right to contest any claims arising therefrom.",
+    "contradiction_score": 0.20530784130096436,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 40821,
+    "end_char": 41145,
+    "original": "(s) Neither the Company nor any of its subsidiaries is an \u201cinvestment company \u201d as defined,  and subject to regulation, under the Investment Company Act of 1940, as amended, and the rules and  regulations of the Commission thereunder (collectively, the \u201cInvestment Company Act \u201d), or analogous  foreign laws and regulations.",
+    "ollama_generated": "(t) It is explicitly stated that neither the Company nor any of its subsidiaries fall under the definition of an \"investment company\" as per the Investment Company Act of 1940, as amended, and any related rules and regulations set forth by the Commission, or equivalent foreign laws and regulations. However, it should be noted that while we make this representation, we do not assume any liability for determining whether foreign laws and regulations may apply to us in a manner similar to the Investment Company Act.",
+    "contradiction_score": 0.05097624287009239,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 42980,
+    "end_char": 44739,
+    "original": "(u) The Company maintains a system of internal control over financial reporting (as such  term is defined in Rule 13a -15(f) of the Exchange Act) that complies with the requirements of the  Exchange Act and has been designed by the Company \u2019s principal executive officer and principal  financial officer, or under their supervision, to provide reasonable assurance regarding the  reliability of financial reporting and the preparation of financial statements for external  purposes in accordance with United States generally accepted accounting principles. The Company \u2019s internal control over financial reporting is effective and the Company is not aware of any material  weaknesses in its internal control over financial reporting. Since the date of the latest  financial statements included or incorporated by reference in each of the Time of Sale Prospectus  and the Prospectus, there has been no change in the Company \u2019s internal control over financial  reporting that has materially affected, or is reasonably likely to materially affect, the Company \u2019s internal control over financial reporting. The Company has established and maintains disclosure  controls and procedures (as such terms are defined in Rule 13a -15(e) of the Exchange Act) in  accordance with the rules and regulations under the Sarbanes -Oxley Act of 2002 (the \u201cSarbanes -Oxley  Act\u201d) and the Exchange Act. Such disclosure controls and procedures (a) are designed to provide  reasonable assurance that material information relating to the Company and its subsidiaries is made  known to the Company \u2019s Chief Executive Officer and its Chief Financial Officer by others within  those entities. Such disclosure controls and procedures are effective to provide such reasonable  assurance.",
+    "ollama_generated": "(u) The Company asserts a framework for internal financial reporting control (as defined in Rule 13a-15(f) of the Exchange Act), which meets the standards set by the Exchange Act and was devised by, or under the oversight of, the Company's principal executive officer and chief financial officer. This system is intended to ensure a reasonable level of confidence in the accuracy of financial reporting and the preparation of financial statements for external purposes according to United States generally accepted accounting principles. The Company acknowledges the effectiveness of its internal financial reporting control, but does not claim absolute freedom from any significant flaws. Since the issuance of the latest financial statements included or referenced in each of the Time of Sale Prospectus and the Prospectus, there has been no substantial modification to the Company's internal financial reporting control that could potentially impact, or is reasonably predictable to materially impact, its effectiveness. The Company has established and adheres to disclosure controls and procedures (as defined in Rule 13a-15(e) of the Exchange Act) in compliance with the rules and regulations under the Sarbanes-Oxley Act of 2002 (the \u201cSarbanes-Oxley Act\u201d) and the Exchange Act. These disclosure controls and procedures are designed to ensure a reasonable level of assurance that material information about the Company and its subsidiaries is made available to the Company's Chief Executive Officer and Chief Financial Officer by other entities within the organization. While these disclosure controls and procedures strive to provide such reasonable assurance, they may not be foolproof and are subject to potential lapses.",
+    "contradiction_score": 0.040136344730854034,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 49642,
+    "end_char": 50101,
+    "original": "(bb) The Trust has been duly created and is validly existing as a statutory business trust  in good standing under the Statutory Trust Act of the State of Delaware, 12 Del. C. \u00a7 3801  et seq. (the \u201cDelaware Statutory Trust Act \u201d), with the power and authority (trust  and other) to own property and conduct its business as described in the Prospectus, and has  conducted and will conduct no business other than the transactions contemplated by the Prospectus.",
+    "ollama_generated": "(bb) The Trust, established under the Delaware Statutory Trust Act (12 Del. C. \u00a7 3801 et seq.), hereby referred to as the \"Act\", has been legally constituted and is currently in good standing within the State of Delaware, maintaining all necessary legal requirements. The Trust possesses the authority to hold assets and transact business, as outlined in the Prospectus, and shall be permitted to engage in activities beyond those specified in the Prospectus, provided they align with its intended purpose and do not deviate from the principles stated within the Act.",
+    "contradiction_score": 0.19783687591552734,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 53214,
+    "end_char": 53404,
+    "original": "(ff) Each of the Company and the Trust has all requisite corporate or trust power and  authority, as applicable, to cause the Remarketing to occur and to perform its obligations  thereunder.",
+    "ollama_generated": "(gg) It is understood that neither the Company nor the Trust shall be obligated to seek approval from any third party before engaging in the Remarketing, and each party acknowledges and accepts full responsibility for ensuring it has the necessary corporate or trust power and authority, as applicable, to carry out the Remarketing and fulfill its obligations thereunder.",
+    "contradiction_score": 0.11050742864608765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 54489,
+    "end_char": 54917,
+    "original": "(ii) Neither the Company, nor to its knowledge, any of its Affiliates (as defined in  Regulation C of the Securities Act, an \u201cAffiliate\u201d), has taken or will take, directly or  indirectly, any action designed to cause or result in, or which has constituted or which might  reasonably be expected to constitute, the stabilization or manipulation of the price of the  Securities to facilitate the sale or resale of such securities.",
+    "ollama_generated": "(ii) The Company, nor any Affiliate (as defined in Regulation C of the Securities Act) currently holds, nor in the future will it hold, any direct or indirect interest in any practice intended to control or artificially influence the price of the Securities. Any action taken previously by the Company or its Affiliates pertaining to the Securities price stability was not with the intent to facilitate their sale or resale. However, it is acknowledged that past actions may have unintentionally resulted in such an effect.",
+    "contradiction_score": 0.009736242704093456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 55911,
+    "end_char": 56339,
+    "original": "Section 3. [ Reserved .] Section 4. Fees and Expenses . (a) If there has been a successful Remarketing, the  Company shall pay to the Remarketing Agent for the performance of its services as Remarketing Agent  hereunder on the Remarketing Settlement Date, by wire transfer to an account designated by the Remarketing Agent, a fee in an amount equal to 25 basis points (0.25%) of the Accreted Value of the  Remarketed Securities.",
+    "ollama_generated": "Section 3. [Reserved.] Section 4. Fees and Expenses. (a) Upon a successful Remarketing, the Remarketing Agent shall receive from the Company, for the services rendered as Remarketing Agent hereunder, on the Remarketing Settlement Date, by wire transfer to an account designated by the Agent, a fee equal to 25 basis points (0.25%) of the Accreted Value of the Remarketed Securities. The Company shall bear no obligation to pay this fee unless a successful Remarketing has occurred.\n\nIn this revised clause, the responsibility for payment has shifted from the Company to the Remarketing Agent. Additionally, the payment is now contingent on a successful Remarketing, meaning the Agent will only receive the fee if the Remarketing is successful. This change weakens the obligation of the Company to pay the fee.",
+    "contradiction_score": 0.27011024951934814,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 64319,
+    "end_char": 64748,
+    "original": "(i) The representations, warranties and agreements of the Company and the  Trust in Section 1 are true and correct in all material respects as of the  Remarketing Settlement Date; the Company and the Trust have complied with in all  material respects with all of their agreements contained herein to be performed  prior to or on the Remarketing Settlement Date; and the conditions set forth in  Sections 6(k) have been fulfilled.",
+    "ollama_generated": "(i) The representations, warranties, and agreements made by the Company and the Trust as outlined in Section 1 are accurate to the best of their knowledge and belief, taking into account all significant aspects, at the Remarketing Settlement Date; prior to this date, the Company and the Trust have adhered to all relevant provisions of this Agreement that were required to be fulfilled before or on said date; and all conditions specified in Sections 6(k) have been satisfied. It should be noted, however, that any breach of these conditions or representations will not automatically result in a material impact on the overall agreement unless it can be demonstrated to significantly affect its essence or intended outcome.",
+    "contradiction_score": 0.0011815126053988934,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 71981,
+    "end_char": 72152,
+    "original": "(m) By the Remarketing Date, the Company will have filed with the Securities and Exchange  Commission its annual report on Form 10 -K for the year ended December 31, 2010.",
+    "ollama_generated": "(m) The Obligated Party reserves the right to delay submission of its annual report on Form 10-K with the Securities and Exchange Commission until a date beyond the Remarketing Date, provided that such delay is due to unforeseen circumstances and is disclosed promptly in compliance with applicable laws and regulations.",
+    "contradiction_score": 0.41716834902763367,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 79965,
+    "end_char": 82572,
+    "original": "(c) Promptly after receipt by an indemnified party under this Section 7 of notice of any  claim or the commencement of any action, the indemnified party shall, if a claim in respect thereof  is to be made against the indemnifying party under this Section 7, notify the indemnifying party in  writing of the claim or the commencement of that action; provided however , that the failure to  notify the indemnifying party shall not relieve it from any liability which it may have under this  Section 7 except to the extent it has been materially prejudiced by such failure and, provided  further, that the failure to notify the indemnifying party shall not relieve it from any liability which it may have to an indemnified party otherwise than under  this Section 7. If any such claim or action shall be brought against an indemnified party, and it  shall notify the indemnifying party thereof, the indemnifying party shall be entitled to  participate therein and, to the extent that it wishes, jointly with any other similarly notified  indemnifying party, to assume the defense thereof with counsel satisfactory to the indemnified  party. After notice from the indemnifying party to the indemnified party of its election to assume  the defense of such claim or action, the indemnifying party shall not be liable to the indemnified  party under this Section 7 for any legal or other expenses subsequently incurred by the indemnified  party in connection with the defense thereof other than reasonable costs of investigation; provided however , the Remarketing Agent shall have the right to employ separate counsel to represent the  Remarketing Agent and its respective officers, employees and controlling persons who may be subject  to liability arising out of any claim in respect of which indemnity may be sought by the Remarketing Agent against the Company under this Section 7 if, in the reasonable judgment of  counsel to the Remarketing Agent it is advisable for the Remarketing Agent, its officers, employees  and controlling persons to be jointly represented by separate counsel, due to the availability of one or more legal defenses to them which are different from or additional to those available to the  indemnifying party, and in that event the reasonable fees and expenses of such separate counsel  shall be paid by the Company; provided further, that the Company shall not be liable for the fees  and expenses of more than one separate firm of attorneys (in addition to one local counsel in each  relevant jurisdiction) at any time for all such indemnified parties. No indemnifying party shall:",
+    "ollama_generated": "(c) Upon receipt by an indemnified party under Section 7 of notice of a potential claim or the initiation of legal action, the indemnified party shall have the discretion to make a claim against the indemnifying party, should they deem it necessary. However, failure to notify the indemnifying party shall not absolve them from any liability under this Section 7 unless such non-disclosure has significantly impeded their ability to defend themselves, and even then, they will still be liable for any obligations outside of this Section 7. If a claim or action is brought against an indemnified party, and they choose to inform the indemnifying party, the indemnifying party will have the right, but not the obligation, to participate in the defense and may elect to do so jointly with any other similarly informed indemnifying parties, using counsel acceptable to the indemnified party. Upon the indemnifying party's request to assume the defense, they will no longer be liable for any additional legal or other expenses incurred by the indemnified party in the defense, except for reasonable costs of investigation. However, the Remarketing Agent retains the right to engage separate counsel to represent themselves and their officers, employees, and controlling persons, if, in the reasonable judgment of their counsel, such representation is advisable due to unique legal defenses available only to them. In such cases, the Company will be responsible for the fees and expenses of this separate counsel. The indemnifying party shall not be required to fund more than one separate firm of attorneys (in addition to local counsel in each relevant jurisdiction) at any given time for all indemnified parties. No indemnifying party is obligated to:\n\nThis clause maintains the original's essence but alters the obligation slightly by giving the indemnified party discretion over whether to make a claim against the indemnifying party, and by allowing the indemnifying party to participate in the defense, not obligating them to do so. It also clarifies that the indemnifying party's liability is only affected if their failure to be notified significantly impacts their ability to defend themselves, and they may still have obligations outside of this Section 7. Lastly, it specifies that the indemnifying party has the discretion to engage separate counsel if unique legal defenses are available to them, which might not be available to the indemnifying party.",
+    "contradiction_score": 0.2939707636833191,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 82572,
+    "end_char": 83608,
+    "original": "(i) without the prior written consent of the indemnified parties (which  consent shall not be unreasonably withheld), settle or compromise or consent to the  entry of any judgment with respect to any pending or threatened claim, action, suit  or proceeding in respect of which indemnification or contribution may be sought  hereunder (whether or not the indemnified parties are actual or potential parties to  such claim or action) unless such settlement, compromise or consent includes an  unconditional release of each indemnified party from all liability arising out of  such claim, action, suit or proceeding, or (ii) be liable for any settlement of any such action effected without its  written consent (which consent shall not be unreasonably withheld), but if settled  with its written consent or if there be a final judgment of the plaintiff in any  such action, the indemnifying party agrees to indemnify and hold harmless any  indemnified party from and against any loss or liability by reason of such  settlement or judgment.",
+    "modified": "(i) Subject to the reasonable withholding of the written consent of the indemnifying parties, there is no obligation to settle, compromise, or consent to any judgment pertaining to a pending or potential claim, action, suit, or proceeding for which indemnification might be sought under this agreement, unless the settlement, compromise, or consent contains an unconditional release of each indemnifying party from all liability stemming from such claim, action, suit, or proceeding. (ii) The indemnified parties will not bear any responsibility for any settlement reached in such actions without their written consent (which may be withheld reasonably), but if a settlement is made with their written consent or in the event of a final judgment in favor of the plaintiff in such action, the indemnifying party agrees to provide indemnity and hold harmless the indemnified parties from any resulting loss or liability due to such settlement or judgment.\n\nThe revised clause weakens the obligation of the indemnified parties to seek consent for a settlement or judgment, as they can now withhold their written consent reasonably if needed. Additionally, it shifts the responsibility of potential losses or liabilities from the indemnifying party to the indemnified parties in cases where there is no settlement reached with the written consent of the indemnified parties.",
+    "contradiction_score": 0.5117061734199524,
+    "kept": true
+  },
+  {
+    "clause_index": 113,
+    "start_char": 85019,
+    "end_char": 87491,
+    "original": "The relative benefits received by the Issuers, on the one hand, and the Remarketing Agent, on the  other, with respect to such offering shall be deemed to be in the same proportion as the aggregate  Accreted Value of the Remarketing Securities as of the end of day on the day next preceding the Remarketing Settlement Date less the fee paid to the Remarketing Agent pursuant to Section 4(a) and  less the expenses paid by the Company pursuant to Section 4(b), on the one hand, and the total fees  received by the Remarketing Agent pursuant to such Section 4(a), plus the expenses paid by the  Company pursuant to Section 4(b), on the other hand, bear to such aggregate Accreted Value of the  Remarketing Securities. The relative fault shall be determined by reference to whether the untrue  or alleged untrue statement of a material fact or omission or alleged omission to state a material  fact relates to information supplied by the Issuers on the one hand or the Remarketing Agent on the  other hand, the intent of the parties and their relative knowledge, access to information and  opportunity to correct or prevent such statement or omission. The Company and the Remarketing  Agent agree that it would not be just and equitable if the amount of contributions pursuant to this  Section 7(d) were to be determined by pro rata allocation or by any other method of allocation  which does not take into account the equitable considerations referred to herein. The amount paid  or payable by an indemnified party as a result of the loss, claim, damage or liability, or action  in respect thereof, referred to above in this Section 7(d) shall be deemed to include, for purposes  of this Section 7(d), any legal or other expenses reasonably incurred by such indemnified party in  connection with investigating or defending any such action or claim. Notwithstanding the  provisions of this Section 7(d), the Remarketing Agent shall not be required to contribute any  amount in excess of the total price at which Remarketing Securities distributed in the Remarketing  exceed the amount of any damages which the Remarketing Agent has otherwise paid or become liable to  pay by reason of any untrue or alleged untrue statement or omission or alleged omission. No person  guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act)  shall be entitled to contribution from any person who was not guilty of such fraudulent  misrepresentation.",
+    "ollama_generated": "The proportional compensation accrued to the Issuers and the Remarketing Agent, in respect to this offering, shall be considered equivalent to the ratio that the total Accreted Value of the Remarketing Securities, as of the end of day on the day preceding the Remarketing Settlement Date, minus the fees owed to the Remarketing Agent under Section 4(a) and expenses incurred by the Company under Section 4(b), bears to the total fees earned by the Remarketing Agent under such Section 4(a) plus the expenses incurred by the Company under Section 4(b). The determination of fault will be contingent upon whether the misrepresentation or alleged misrepresentation of material facts, or omission or alleged omission of material information, is attributed to data provided by the Issuers or the Remarketing Agent, considering the parties' intent and their respective access to information and opportunity to rectify or prevent such misrepresentation or omission. The Company and the Remarketing Agent acknowledge that it would be inequitable for contributions under this Section 7(d) to be apportioned through proportional allocation or any other method that does not consider the equitable factors mentioned herein. Expenses reasonably incurred by an indemnified party in investigating or defending any such action or claim arising from the aforementioned events shall be considered part of the amount paid or payable by said indemnified party, for purposes of this Section 7(d). However, the Remarketing Agent will not be obliged to contribute more than the total revenue gained from the sale of Remarketing Securities in excess of any damages the Remarketing Agent has already compensated or is liable to compensate due to any untrue or alleged untrue statement or omission or alleged omission. Any individual found guilty of fraudulent misrepresentation (as defined by Section 11(f) of the Securities Act) will not be eligible to receive contribution from any party who was not similarly implicated in such fraudulent misrepresentation.",
+    "contradiction_score": 0.3315274119377136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 90833,
+    "end_char": 91103,
+    "original": "If this Agreement is terminated pursuant to any of the provisions hereof, except as otherwise  provided herein, the Company shall not be under any liability to the Remarketing Agent and the  Remarketing Agent shall not be under any liability to the Company, except that:",
+    "ollama_generated": "In the event of termination of this Agreement as per the stipulations within, it is understood that neither the Company nor the Remarketing Agent will bear responsibility towards each other, with exceptions outlined herein. However, any liabilities incurred prior to the termination shall remain the obligation of the respective parties, thus preserving their accountability for past actions.",
+    "contradiction_score": 0.006509527564048767,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 92690,
+    "end_char": 93374,
+    "original": "with a copy to Simpson Thacher & Bartlett, 425 Lexington Avenue, New York, New York 10017,  Attention: Gary I. Horowitz, Esq. (Fax No.: 212 -455- 2502).; and (b) if to the Company or to the Trust, to 1370 Timberlake Manor Parkway, Chesterfield,  Missouri 63017, Attention: Jack B. Lay, Executive Vice President and Chief Financial Officer (Fax  No.: 636 -736-7839), with a copy to William L. Hutton, Esq., Senior Vice President General Counsel  and Secretary, at the same address (Fax No.: 636 -736-7739); and with a copy to Bryan Cave LLP, One Metropolitan Square, 211 North Broadway, Suite 3600, St.  Louis, Missouri 63102, Attention: R. Randall Wang, Esq. (Fax No.: 314 -552-8149);",
+    "ollama_generated": "Clause:\nCopies of all communications concerning this agreement should be simultaneously sent to:\n(a) Gary I. Horowitz, Esq., Simpson Thacher & Bartlett, 425 Lexington Avenue, New York, New York 10017 (Fax No.: 212 -455- 2502), but failure to provide such copy shall not constitute a waiver of any rights or obligations; and\n(b) Jack B. Lay, Executive Vice President and Chief Financial Officer, 1370 Timberlake Manor Parkway, Chesterfield,  Missouri 63017 (Fax  No.: 636 -736-7839), or William L. Hutton, Esq., Senior Vice President General Counsel and Secretary, at the same address (Fax No.: 636 -736-7739), with the understanding that either party's failure to provide a copy shall not relieve them of their responsibilities; and\n(c) Bryan Cave LLP, One Metropolitan Square, 211 North Broadway, Suite 3600, St.  Louis, Missouri 63102, Attention: R. Randall Wang, Esq. (Fax No.: 314 -552-8149), with the provision that the recipient may choose not to respond without waiving any rights or obligations.",
+    "contradiction_score": 0.13894958794116974,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 95649,
+    "end_char": 95928,
+    "original": "Section 17. Counterparts. This Agreement may be executed in one or more counterparts and,  if executed in more than one counterpart, the executed counterparts shall each be deemed to be an  original but all such counterparts shall together constitute one and the same instrument.",
+    "ollama_generated": "Section 17. Multiple Executions \u2013 Interchangeability. Each separate signed copy of this Agreement, if more than one exists, shall be considered a valid and binding original. Collectively, these signed copies shall collectively represent a single, unified document. However, it is important to note that any party may rely on any counterpart as the complete and authentic agreement without the necessity of obtaining all such counterparts.",
+    "contradiction_score": 0.018262499943375587,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 98991,
+    "end_char": 99077,
+    "original": "Security Ratings (Expected)*:    ___(Moody \u2019s) / ___(S&P) /  ___(A.M. Best) Guarantee:",
+    "ollama_generated": "Credit Assessments (Projected): ___(Moody's) / ___(S&P) / ___(A.M. Best) Ratings:\n\n*Note: The Ratings provided herein are intended for guidance purposes only and do not constitute a binding commitment or representation that the actual ratings assigned by these agencies will be within the specified range. The ultimate responsibility for obtaining satisfactory credit ratings rests with the Client, who shall bear any and all consequences arising from insufficient or inaccurate ratings provided during this agreement.",
+    "contradiction_score": 0.2513236403465271,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 99077,
+    "end_char": 99328,
+    "original": "Reinsurance Group of America, Incorporated has guaranteed payment of distributions to the extent described in the prospectus supplement and prospectus Deferral of Distributions :   None CUSIP:    74956T 20 4 Remarketing Agent:    Barclays Capital Inc.",
+    "modified": "Barclays Capital Inc., acting as Remarketing Agent, may withhold distributions to Reinsurance Group of America, Incorporated at its discretion, subject to the terms described in the prospectus supplement and prospectus. No guarantee is made by Reinsurance Group of America, Incorporated regarding the payment of such distributions, with CUSIP: 74956T 20 4.",
+    "contradiction_score": 0.9446526169776917,
+    "kept": true
+  }
+]

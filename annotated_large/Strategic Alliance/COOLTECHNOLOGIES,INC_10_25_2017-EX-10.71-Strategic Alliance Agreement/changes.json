@@ -1,0 +1,51 @@
+[
+  {
+    "clause_index": 7,
+    "start_char": 2435,
+    "end_char": 2672,
+    "original": "Any engagement to perform VET TECH Services shall be on such terms and conditions as VET TECH may approve in its sole discretion. VET TECH will perform, schedule, staff and manage all VET TECH Services or a joint VET TECH/COOL TECH team.",
+    "ollama_generated": "Any undertaking to provide VET TECH Services shall adhere to the terms and conditions as determined by either party, at their mutual discretion. Both VET TECH and COOL TECH shall have the responsibility to manage and execute all VET TECH Services or a joint team of VET TECH/COOL TECH personnel. This arrangement allows for a collaborative approach in decision-making regarding the performance and management of the services.",
+    "contradiction_score": 0.022258196026086807,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2680,
+    "end_char": 2793,
+    "original": "VET TECH will perform, schedule, staff and manage all VET TECH Services or with VET TECH/COOL TECH approved team.",
+    "ollama_generated": "The client shall have the discretion to approve or disapprove the team responsible for performing, scheduling, staffing, and managing all VET TECH Services or COOL TECH Services, as the case may be. VET TECH will comply with such decisions, subject to its availability of suitable personnel.",
+    "contradiction_score": 0.1661226600408554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 7902,
+    "end_char": 8072,
+    "original": "Except as expressly provided herein, this Agreement does not give either party any ownership rights or interest in the other party's trade name, trademarks or copyrights.",
+    "ollama_generated": "save for the exceptions explicitly stated within this Agreement, neither party shall acquire, by implication or otherwise, any proprietary rights or claims, such as trade names, trademarks, or copyrights, over the property of the other party, unless expressly agreed upon in writing by both parties.",
+    "contradiction_score": 0.0010606128489598632,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8103,
+    "end_char": 9329,
+    "original": "Each of VET TECH and COOL TECH, at its own expense, shall indemnify, defend and hold the other, its partners, shareholders, directors, officers, employees, and agents harmless from and against any and all third-party suits, actions, investigations and proceedings, and related costs and expenses (including reasonable attorney's fees) resulting solely and directly from the indemnifying party's negligence or willful misconduct. Neither VET TECH nor COOL TECH shall be required hereunder to defend, indemnify or hold harmless the other and/or its partners, shareholders, directors, officers, directors, employees and agents, or any of them, from any liability resulting from the negligence or wrongful acts of the party seeking indemnification or of any third- party. Each of VET TECH and COOL TECH agrees to give the other prompt written notice of any claim or other matter as to which it believes this indemnification provision is applicable. The indemnifying party shall have the right to defend against any such claim with counsel of its own choosing and to settle and/or compromise such claim as it deems appropriate. Each party further agrees to cooperate with the other in the defense of any such claim or other matter.",
+    "modified": "Both VET TECH and COOL TECH shall individually shoulder the costs, undertake the defense, and protect each other, their affiliates, stakeholders, executive leadership, personnel, and agents from any third-party legal actions, inquiries, or proceedings triggered exclusively by an actionable act of the indemnifying party's reckless behavior or intentional misconduct. It is not incumbent upon either VET TECH nor COOL TECH to defend, indemnify, or provide protection for the other side and/or its affiliates, stakeholders, executive leadership, personnel, and agents when liabilities stem from negligence or wrongful actions by the party requesting indemnification, or any third-party. Each of VET TECH and COOL TECH will promptly deliver written notice regarding any claim or related matter where they believe this indemnification clause applies. The indemnified party shall have the prerogative to select legal counsel for the defense, and to settle or compromise the claim as it deems fit. Each party consents to collaborate with the other in the defense of such claims or matters.",
+    "contradiction_score": 0.6981306672096252,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 11983,
+    "end_char": 12620,
+    "original": "E. Severability: If any provision of this Agreement is declared invalid or unenforceable, such provision shall be deemed modified to the extent necessary and possible to render it valid and enforceable. In any event, the unenforceability or invalidity of any provision shall not affect any other provision of this Agreement, and this Agreement shall continue in full force and effect, and be construed and enforced, as if such provision had not been included, or had been modified as above provided, as the case may F. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of Missouri.",
+    "ollama_generated": "G. Survivability: In the event that any provision of this Agreement is deemed invalid or unenforceable, the remaining provisions of this Agreement shall continue to remain fully binding and enforceable. The existence of an unenforceable or invalid provision shall not in any way impact the validity or enforceability of any other provisions within this Agreement, which shall be construed and enforced as if the unenforceable or invalid provision had never been included.\n\nH. Jurisdictional Authority: This Agreement shall be subject to and interpreted under the jurisdiction of the laws of the State of Missouri. In the case that any dispute arises regarding this Agreement, it shall be resolved in accordance with the judicial system of said state.",
+    "contradiction_score": 0.34865087270736694,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

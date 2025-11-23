@@ -1,0 +1,51 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 374,
+    "original": "Exhibit 10.3 I-on. (LOGO) www.i-on.com 561.394.9484 o 561.394-9773 fax 1733 avenida del sol, boca raton, florida, 33432 WEB SITE HOSTING AGREEMENT This WEB SITE HOSTING AGREEMENT (\"this Agreement\") is entered into this 6th day of April, 1999 by and between Centrack International, a Florida corporation (\"the Customer\"), and i-on interactive, a Florida corporation (\"i-on\").",
+    "ollama_generated": "Exhibit 10.3 I-on. (LOGO) www.i-on.com 561.394.9484 o 561.394-9773 fax 1733 avenida del sol, boca raton, florida, 33432 WEB SITE HOSTING AGREEMENT\n\nThis WEB SITE HOSTING AGREEMENT (\"this Agreement\") is entered into as of the 6th day of April, 1999, by and between i-on interactive, a Florida corporation (\"i-on\"), and Centrack International, a Florida corporation (\"the Client\").\n\nIn this agreement, i-on acknowledges that it will exercise its best efforts to provide web hosting services to the Client in accordance with industry standards. However, i-on shall not be held liable for any downtime or service interruptions caused by events beyond its control, including but not limited to, acts of God, acts of government, or failures of the internet. Furthermore, the Client acknowledges that it is responsible for regularly backing up all data and files hosted on i-on's servers. In the event of any disputes arising from this agreement, both parties shall attempt to resolve them through good faith negotiations before resorting to legal action.",
+    "contradiction_score": 0.11502177268266678,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 3465,
+    "end_char": 3856,
+    "original": "requests for changes to ftp/e-mail users and passwords\u037e requests for e-mail configuration changes\u037e modification of mail aliases\u037e changes to server MIME types\u037e files restored from backup\u037e answering questions about server-side scripts\u037e ftp configuration changes\u037e log file configuration changes\u037e importing or exporting of database records\u037e and consultation on site operation and administration.",
+    "ollama_generated": "Responsibility for addressing the following items shall be delegated to the designated technical support personnel, subject to their availability: initiation of requests for modifications to FTP/email users and passwords; requests for adjustments to email configurations; creation or modification of mail aliases; alterations to server MIME types; retrieval and handling of files from backup storage; responses to queries regarding server-side scripts; implementation of FTP configuration changes; customization of log file settings; management of database records import/export operations; and consultation on site operational and administrative matters. The service provider shall endeavor to respond promptly and efficiently, but cannot guarantee immediate resolution or compatibility with all software and hardware configurations.",
+    "contradiction_score": 0.0010659543331712484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 5839,
+    "end_char": 6780,
+    "original": "The Customer is solely responsible for all customer support required by users of Hosted Site. In the case of a problem with the Hosted Site that is the responsibility of i-on according to this Agreement, the Customer shall directly notify i-on, which shall report the resolution of such problem directly to the Customer. If the problem of which i-on is notified is not a problem that is the responsibility of i-on according to this Agreement, the time spent by i-on relating to the incident will count towards the Customer's monthly allocation of Web administration services, and any additional time exceeding such allocation will be billed to the Customer at the rate set forth for such services. At no time will i-on take responsibility for directly interacting with the Customer's users. The Customer acknowledges that this Agreement is explicitly not an agreement for i-on to provide \"help desk\" services to the users of the Hosted Site.",
+    "ollama_generated": "The Provision of Services by i-on does not encompass the role of a Help Desk provider for users of the Hosted Site. The User is expected to manage all user support requests that may arise, with i-on solely providing resolution to issues within our scope according to this Agreement. It is essential to note that any problem identified as falling under i-on's responsibility will be addressed promptly and a report will be provided to the User directly. Conversely, should an issue not be attributable to i-on's obligations under this Agreement, the time spent by our team on resolving the incident will be deducted from the User's monthly allotment of Web administration services. Any additional time expended beyond the allocated amount will be invoiced at the specified rate for such services. Under no circumstances shall i-on assume direct responsibility for user interactions. The User is fully aware that this Agreement does not obligate i-on to offer \"help desk\" support services to the Hosted Site's users.",
+    "contradiction_score": 0.014176400378346443,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 6934,
+    "end_char": 7189,
+    "original": "The Customer is solely responsible for the security of its administrator account(s) and respective password(s) for the Hosted Site, and is solely responsible for any loss of data or damage to the Hosted Site that arises out of any breach of such security.",
+    "modified": "The Service Provider assumes no liability for the security of the Customer's administrator account(s) and respective password(s) for the Hosted Site, and shall not be held responsible for any loss of data or damage to the Hosted Site that may result from a breach in such security. The Customer acknowledges their responsibility for maintaining the security of their accounts and agrees to indemnify the Service Provider against any claims, damages, or expenses arising therefrom.",
+    "contradiction_score": 0.9330297112464905,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 11220,
+    "end_char": 11664,
+    "original": "LIMITATION OF LIABILITY i-on will not be liable under any circumstances for any lost profits or other consequential damages, even if i-on has been advised as to the possibility of such damages. i-on's liability for damages to the Customer for any cause whatsoever, regardless of the form of action, and whether in contract or in tort, including negligence, shall be limited to one (1) month's fees and the remaining portion of any prepaid fees.",
+    "ollama_generated": "LIMITATION OF LIABILITY: The User acknowledges and agrees that under no circumstances shall I-on be held liable for any indirect, special, incidental, or consequential damages, including but not limited to lost profits or business interruptions, even if I-on has been informed of the possibility of such damages. In all events, I-on's total liability to the User, whether based on breach of contract, tort (including negligence), product liability, or any other cause of action, shall not exceed the total fees paid by the User in the past month for the Service. This limitation of liability will apply to the fullest extent permitted by law.",
+    "contradiction_score": 0.006989886052906513,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

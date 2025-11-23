@@ -1,0 +1,483 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 1557,
+    "end_char": 1637,
+    "original": "ARTICLE 1 DEFINITIONS 1.1 \u201cAAA \u201d has the meaning set forth in Section  12.3(a) .",
+    "ollama_generated": "ARTICLE 1 DEFINITIONS\n1.1 \"AAA\" shall herein be understood as defined in Section 12.3(a), provided that such definition is not inconsistent with the terms and conditions of this agreement, otherwise referred to as \"The Present Agreement.\" In the event of any discrepancy between the definition in Section 12.3(a) and The Present Agreement, the interpretation contained within The Present Agreement shall prevail.",
+    "contradiction_score": 0.005756967235356569,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2368,
+    "end_char": 2441,
+    "original": "1.5 \u201cAgreement \u201d has the meaning set forth in the introductory paragraph.",
+    "ollama_generated": "1.5 \"The Term 'Agreement' encompasses the interpretation provided therein.\"\n\nIn this revised version, the term \"Agreement\" is defined as per its introduction. This slight change in phrasing makes it less direct and more open to interpretation, potentially allowing for a broader understanding of what constitutes the Agreement in question.",
+    "contradiction_score": 0.004294102545827627,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2912,
+    "end_char": 3255,
+    "original": "Source: CYTODYN INC., 10-Q, 1/9/2020 1.8 \u201cAPI\u201d means an active pharmaceutical ingredient, whether produced from a living organism or through synthetic process (i.e., any substance intended to be used in the manufacture of a drug product and that is intended to furnish pharmacological activity in the cure, treatment or prevention of disease).",
+    "ollama_generated": "Clause:\n\nSource: CYTODYN INC., 10-Q, 1/9/2020\n1.8 \"API\" refers to a substance intended for use in the production of a pharmaceutical product, capable of providing pharmacological effects towards disease treatment or prevention, regardless of whether it originates from a living organism or is synthesized (excluding any item used solely for research purposes).\n\nIn this revised clause, the meaning has shifted slightly by excluding items used solely for research purposes from the definition of API. This change may weaken the obligation to include such items in the definition. The language remains fluent, realistic, and professional.",
+    "contradiction_score": 0.012369418516755104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4388,
+    "end_char": 4570,
+    "original": "1.13 \u201cBiosimilar Entry Date \u201d means the first day of the first Calendar Quarter that occurs after Biosimilar Competitor(s) have achieved at least [***] in the Field in the Territory.",
+    "ollama_generated": "1.13 \"Biosimilar Market Entrance Date\" denotes the initial day of the first Calendar Quarter subsequent to the date when Biosimilar Competitor(s), having reached a minimum threshold of [***] in the Field within the Territory, decide to enter the market.",
+    "contradiction_score": 0.16361743211746216,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 4733,
+    "end_char": 4800,
+    "original": "1.15 \u201cBreaching Party \u201d has the meaning set forth in Section  11.4.",
+    "modified": "1.15 \"Party in Default,\" as defined in Section 11.4, refers to the party who fails to fulfill their contractual obligations herein.\n\nIn this rewritten version, the term \"Breaching Party\" has been replaced with \"Party in Default,\" and the focus is shifted from the act of breach to the state of default or non-compliance. This slight change in terminology can create a more conciliatory tone, potentially allowing for a more collaborative approach when addressing issues of non-performance under the contract.",
+    "contradiction_score": 0.758735716342926,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6894,
+    "end_char": 7437,
+    "original": "1.22 \u201cCombination Product \u201d means a product that is Commercialized by Vyera and/or its Affiliates under this Agreement and that comprises, consists of, or incorporates two or more APIs (whether administered together or separately), which includes leronlimab as one of the APIs together with one or more additional APIs that: (a) are not leronlimab\u037e and (b) are not proprietary to CytoDyn, regardless of the formulation or mode of administration of such Combination Product. For the sake of clarity, a Combination Product is a Licensed Product.",
+    "ollama_generated": "1.22 \"Combination Product\" refers to any product that is Commercialized by Vyera and/or its Affiliates under this Agreement, which consists of two or more Active Pharmaceutical Ingredients (APIs), one of which is leronlimab, combined with one or more additional APIs that are neither leronlimab nor proprietary to CytoDyn. The formulation or mode of administration of such Combination Product does not affect this definition. Importantly, a Combination Product is considered a Licensed Product under the terms of this agreement, but Vyera and its Affiliates maintain sole responsibility for the development, manufacturing, and commercialization of any combination that may not meet CytoDyn's proprietary criteria.",
+    "contradiction_score": 0.026983315125107765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 7439,
+    "end_char": 7516,
+    "original": "1.23 \u201cCommercial Failure \u201d means that Vyera fails to achieve aggregate [***].",
+    "ollama_generated": "1.23 \"Commercial Success\" shall be deemed as attained when Vyera achieves the specified aggregates [***]. This shift in phrasing emphasizes a focus on positive outcomes, but the essence of the clause remains unaltered regarding the measurement of Vyera's performance.",
+    "contradiction_score": 0.38990575075149536,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 7939,
+    "end_char": 8012,
+    "original": "1.25 \u201cCommercialization Plan \u201d has the meaning set forth in Section  5.2.",
+    "ollama_generated": "1.25 \"Commercialization Plan,\" as defined in Section 5.2, shall not be binding on the Party of Receipt until expressly approved in writing by such Party.\n\nExplanation: The original clause states that the Commercialization Plan has a specific meaning (defined elsewhere in the document). The revised clause weakens this obligation by stating that the recipient party is not bound by the Commercialization Plan until they have explicitly approved it in writing, thus shifting the responsibility for approval to the recipient party.",
+    "contradiction_score": 0.3816317021846771,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 8012,
+    "end_char": 9024,
+    "original": "1.26 \u201cCommercially Reasonable Efforts \u201d means: (a) with respect to the efforts to be expended, or considerations to be undertaken, by a Party or its Affiliate with respect to any objective, activity or decision to be undertaken hereunder, reasonable, good faith efforts to accomplish such objective, activity or decision as such Party would normally use to accomplish a similar objective, activity or decision under similar circumstances\u037e and (b) with respect to Development and Commercialization  of any Licensed Product for any indication by a Party, efforts and resources consistent with those efforts and resources commonly used by a similarly situated biotechnology company with respect to a product owned by it or to which it has similar rights, which product is at a similar stage in its development or product life and is of similar market potential  taking into account (i) the patent and other proprietary position of the Licensed Product and (ii) the anticipated profitability of the Licensed Product.",
+    "ollama_generated": "1.26 \"Commercially Prudent Efforts\" shall denote: (a) as pertaining to the initiatives and deliberations conducted by a Party or its Affiliate regarding any objective, operation, or decision to be executed under this Agreement, a prudent and diligent effort, in good faith, to achieve such objective, operation, or decision, equivalent to what such Party would employ for a comparable purpose under similar circumstances\u037e and (b) with respect to the Development and Commercialization of any Licensed Product for any specified indication by a Party, efforts and resources proportional to those commonly employed by a comparably situated biotechnology company with regard to a product owned or controlled by it, which product is at a comparable stage in its development or commercial lifecycle, and holds similar market potential. This assessment shall consider (i) the patent and proprietary standing of the Licensed Product and (ii) the anticipated profits from the Licensed Product, but recognize that these efforts may not guarantee maximum profitability or rapid success.",
+    "contradiction_score": 0.23699265718460083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 12341,
+    "end_char": 12413,
+    "original": "1.34 \u201cCytoDyn \u201d has the meaning set forth in the introductory paragraph.",
+    "ollama_generated": "1.34 The term \"CytoDyn\" shall bear the significance ascribed to it within the initial section of this agreement.",
+    "contradiction_score": 0.0018433691002428532,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 13995,
+    "end_char": 14063,
+    "original": "1.41 \u201cDisclosing Party \u201d has the meaning set forth in Section  10.1.",
+    "ollama_generated": "1.41 \"Receiving Party\" shall hereafter refer to the definition provided in Section 10.1.\n\nExplanation: In the original clause, \"Disclosing Party\" is defined. I have rewritten it as \"Receiving Party,\" implying a shift of perspective and role from the discloser to the recipient of information. This change does not significantly alter the meaning but subtly shifts the focus to the party receiving the confidential information.",
+    "contradiction_score": 0.11551334708929062,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 14064,
+    "end_char": 14132,
+    "original": "1.42 \u201cDisposition Period \u201d has the meaning set forth in Section 2.6.",
+    "ollama_generated": "1.42 \"Disposition Period,\" as referred to in this Agreement, shall be construed in accordance with the definition provided in Section 2.6.\n\n[Note: This revised clause maintains the original meaning but subtly shifts the responsibility from the reader to the agreement for interpreting the term.]",
+    "contradiction_score": 0.062064796686172485,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 15716,
+    "end_char": 16800,
+    "original": "1.53 \u201cForce Majeure \u201d means any event beyond the reasonable control of the affected Party that materially affects the Party\u2019s performance of its obligations, except payment obligations, under this Agreement, including embargoes\u037e war or acts of war, including terrorism\u037e insurrections, riots, or civil unrest\u037e strikes, lockouts or other labor disturbances\u037e epidemics, fire, floods, earthquakes, tsunamis, hurricanes or other acts of nature\u037e or acts, omissions or delays in acting by any Governmental Authority (including the refusal of the competent Governmental Authorities to issue required Regulatory Approvals due to reasons other than the affected Party\u2019s negligence or willful misconduct or any other cause within the reasonable control of the affected Party) and failure of plant or machinery (provided that such event or failure could not have been prevented by the exercise of skill, diligence, and prudence that would be reasonably and ordinarily expected from a skilled and experienced person engaged in the same type of undertaking under the same or similar circumstances).",
+    "ollama_generated": "1.53 \"Exceptional Circumstances\" denotes any occurrence outside the reasonable management of the implicated Party that significantly impedes their ability to fulfill their commitments under this Agreement, excluding debt-related obligations, and comprises the following: government-imposed sanctions; armed conflicts or acts of warfare, such as terrorism; civil commotions, unrest, or insurrections; labor disputes like strikes, lockouts, or other work disruptions; outbreaks of diseases; natural calamities including fires, floods, earthquakes, tsunamis, hurricanes, and other weather-related events; actions or inactions of any Governmental Authority (excluding instances where the affected Party's negligence or wilful misconduct is involved), and failures in infrastructure or equipment (provided such event or failure could not have been averted through the application of ordinary skill, diligence, and caution expected from someone competent in this field under similar conditions).",
+    "contradiction_score": 0.1364271640777588,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 18796,
+    "end_char": 19431,
+    "original": "1.63 \u201cInventions \u201d means any and all inventions, discoveries and developments, whether or not patentable, which are conceived and reduced to practice relating to the Licensed Product in the Field after the Effective Date and arising in the course of activities under this Agreement: (a) solely by one or more employees or consultants of CytoDyn\u037e (b) solely by one or more employees or consultants of Vyera\u037e or (c) jointly by one or more employees or consultants of CytoDyn and one or more employees or consultants of Vyera. To be clear, Inventions, as defined here, does not include CytoDyn Patents that exist as of the Effective Date.",
+    "ollama_generated": "1.63 \"Invention\" refers to any inventions, discoveries, and advancements, whether or not patentable, pertaining to the Licensed Product within the Field that are created after the Effective Date, during the performance of this Agreement, and regardless of their originator: (a) exclusively by CytoDyn's employees or consultants; (b) exclusively by Vyera's employees or consultants; or (c) collaboratively by both parties' employees or consultants. For clarification, Inventions as defined here do not encompass any patents owned by CytoDyn prior to the Effective Date. However, it is to be noted that this Agreement does not extend to any inventions, discoveries, or advancements that were conceived and reduced to practice before the Effective Date, regardless of their originator or relation to the Licensed Product within the Field.",
+    "contradiction_score": 0.02443050965666771,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 21587,
+    "end_char": 21671,
+    "original": "1.71 \u201cLicensed Product Infringement \u201d has the meaning set forth in Section  2.4(a) .",
+    "ollama_generated": "1.71 \"Alleged Infringement of Licensed Product\" shall refer to any claims or disputes, as defined in Section 2.4(a).\n\nThis revised clause broadens the scope and allows for potential disputes arising from any claims related to the licensed product, not just those that are confirmed infringements.",
+    "contradiction_score": 0.057549603283405304,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 26811,
+    "end_char": 27153,
+    "original": "In the event either Party reasonably believes that the calculation set forth above does not fairly reflect the value of the Licensed Product, relative to the other API(s) in the Combination Product, the Parties shall negotiate, in good faith, other means of calculating Net Sales with respect to Combination Products to so reflect such value.",
+    "ollama_generated": "Should it transpire that either Party holds a reasonable suspicion that the calculations specified herein may not accurately represent the worth of the Licensed Product within the context of the overall Combination Product, compared to other associated APIs, then it is incumbent upon both Parties to engage in good faith negotiations, with the aim of agreeing upon alternative methods for calculating Net Sales related to Combination Products that more adequately reflect the product's true value. This shift in calculation methodology does not require consensus if one Party cannot justify their belief in a manner deemed satisfactory by an independent third party expert.",
+    "contradiction_score": 0.009696919471025467,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 29636,
+    "end_char": 29850,
+    "original": "1.83 \u201cPharmacovigilance Agreement \u201d means the safety data exchange agreement that the Parties will use their Commercially Reasonable Efforts to agree and enter into within ninety (90) days after the Effective Date.",
+    "ollama_generated": "1.83 \"Pharmacovigilance Agreement\" signifies the safety data exchange agreement, for which the Parties shall strive to reach an understanding and execute, employing all Reasonable Commercial Efforts, within a ninety (90) day period following the Effective Date. In the event that an agreement cannot be achieved within this timeframe, the Parties shall continue their efforts in good faith beyond the initial 90 days, with no explicit obligation or liability arising should the Agreement not be finalized at a later date.",
+    "contradiction_score": 0.0018551707034930587,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 30376,
+    "end_char": 30444,
+    "original": "1.85 \u201cQuality Agreement \u201d has the meaning set forth in Section  6.3.",
+    "ollama_generated": "1.85 \"Quality Agreement,\" as referred to herein, shall encompass the definition provided in Section 6.3.\n\n[This version is slightly modified to provide a more indirect reference to the section containing the definition, implying that the reader may need to seek out the relevant information.]",
+    "contradiction_score": 0.004903742112219334,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 30445,
+    "end_char": 30512,
+    "original": "1.86 \u201cReceiving Party \u201d has the meaning set forth in Section  10.1.",
+    "ollama_generated": "1.86 \"Recipient Party\" shall be construed as defined in Section 10.1.\n\n(In this new version, the term used is \"Recipient Party\", which subtly implies a more passive role compared to the original \"Receiving Party\". This change may be interpreted as a slight weakening of the obligation or responsibility associated with the party.)",
+    "contradiction_score": 0.21649841964244843,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 34406,
+    "end_char": 34525,
+    "original": "1.98 \u201cSide Letter \u201d means that certain letter agreement, dated as of the date hereof, by and between CytoDyn and Vyera.",
+    "ollama_generated": "1.98 \"Side Letter\" refers to the aforementioned letter agreement, signed on this same day, binding both CytoDyn and Vyera.\n\n[Note: The change here is subtle but significant. By referring to the document as 'aforementioned' and 'signed on this same day', the clause implies that the Side Letter was already existing or agreed upon prior to the main contract being drafted, potentially shifting the implication of its importance.]",
+    "contradiction_score": 0.0046244715340435505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 36866,
+    "end_char": 36942,
+    "original": "1.113  \u201cVyera Reserved Dispute \u201d has the meaning set forth in Section  12.4.",
+    "ollama_generated": "1.113 \"Dispute Reservation by Vyera\" shall bear the interpretation provided in Section 12.4.\n\nExplanation: The original clause refers to a term, \"Vyera Reserved Dispute.\" The rewritten clause uses a different phrasing, \"Dispute Reservation by Vyera,\" to subtly shift the focus from the dispute itself to the act of reserving it, which may potentially imply a change in tone or emphasis.",
+    "contradiction_score": 0.21813134849071503,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 39925,
+    "end_char": 39964,
+    "original": "2.4 Enforcement and Defense of Patents.",
+    "ollama_generated": "2.4 Defense and Challenging of Granted Patents:\n\nThe Party of primary responsibility shall have the option to contest any patents deemed as infringing upon their rights, or to challenge validity of any granted patents, at their sole discretion. However, the other Party is not obligated to provide active defense or pursuit of patent enforcement without prior written consent, except in circumstances where a court order compels such action.",
+    "contradiction_score": 0.0419783890247345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 42195,
+    "end_char": 42745,
+    "original": "(a) Nothing in this Agreement is intended to, nor shall it, prevent CytoDyn from (i) Developing, Manufacturing and or Commercializing leronlimab inside or outside of the Territory for use outside of the Field or (ii) Developing or Manufacturing leronlimab inside or outside of the Territory for Commercialization within the Field outside of the Territory, in each case, to the extent such actions would not result in a breach of CytoDyn\u2019s obligations to use Commercially Reasonable Efforts to perform the activities set forth in the Development Plan.",
+    "ollama_generated": "(a) This Agreement does not restrict CytoDyn from undertaking any of the following actions, which may be exercised within or beyond the Territory:\n\n   (i) Developing, Manufacturing, and Commercializing leronlimab for uses outside the Field, or\n   (ii) Developing or Manufacturing leronlimab, with the intention to commercialize within the Field, outside of the Territory. However, these actions shall not be exercised in a manner that would conflict with CytoDyn's commitment to apply Commercially Reasonable Efforts towards executing the activities outlined in the Development Plan, unless such actions are expressly authorized by the parties or required by law.",
+    "contradiction_score": 0.004177010618150234,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 143,
+    "start_char": 43793,
+    "end_char": 45566,
+    "original": "2.6 Competitive Products . Except as expressly required under this Agreement, Vyera hereby covenants not to Develop, Manufacture, Commercialize or otherwise exploit a Competitive Product in the Territory during the Royalty Term, including by means of an Affiliate. In the event that Vyera experiences a Change of Control with a Third Party that is actively engaged in the Development, Manufacture or Commercialization of a Competitive Product, then, Vyera shall either: (a) within ninety (90) days after the closing of such Change of Control, enter into a binding written agreement to sell, transfer, assign or divest all of Vyera\u2019s and/or its Affiliate\u2019s rights in and to such Competitive Product to a non-Affiliate  Third Party and consummate such sale, transfer, assignment or divestiture of said rights not later than ninety (90) days following the date of the binding Agreement\u037e or (b) within six (6) months after the closing of such Change of Control, terminate any and all Development, Manufacturing, Commercialization and/or other exploitation of such Competitive Product\u037e or (c) terminate this Agreement in accordance with Section  11.2(c) . For the avoidance of doubt, Vyera shall not be deemed to be in breach of this Section  2.6 (i) during the one hundred eighty (180) day period following a Change of Control described in this Section  2.6 (the \u201c Disposition Period \u201d) so long as it has complied with its obligations under the immediately preceding clause (a), (b) or (c) prior to the end of the Disposition Period and (ii) during the pendency of the one hundred eighty (180)day notice period required pursuant to Section  11.2(c)  elects to terminate this Agreement pursuant to the immediately preceding clause (c) prior to the end of the Disposition Period.",
+    "modified": "2.6 Competitive Products . Vyera reserves the right, unless otherwise required by this Agreement, to Develop, Manufacture, Commercialize or exploit a Competitive Product within the Territory during the Royalty Term, provided that such actions are undertaken through an Affiliate. In the event of a Change of Control with a Third Party actively involved in the Development, Manufacture, or Commercialization of a Competitive Product, Vyera may choose to: (a) negotiate and execute a binding written agreement within ninety (90) days after the closing of such Change of Control to acquire, from a non-Affiliate Third Party, all rights to said Competitive Product; or (b) continue Development, Manufacturing, Commercialization, and/or exploitation of the Competitive Product for up to six (6) months following the closing of such Change of Control, at which point Vyera may elect to terminate this Agreement if deemed necessary, in accordance with Section 11.2(c). For clarity, Vyera will not be considered in breach of this Section 2.6 during the 180-day period following a Change of Control described herein (the \u201c Transition Period \u201d), provided that it has either: (i) entered into an acquisition agreement within the specified timeframe; or (ii) made the decision to terminate this Agreement in accordance with Section 11.2(c) during the pendency of the required 180-day notice period.",
+    "contradiction_score": 0.7578177452087402,
+    "kept": true
+  },
+  {
+    "clause_index": 149,
+    "start_char": 49019,
+    "end_char": 49213,
+    "original": "The JC will render decisions by unanimous vote. The members of the JC shall act in good faith to cooperate with one another and to reach agreement with respect to issues to be decided by the JC.",
+    "ollama_generated": "Decisions rendered by the Joint Committee (JC) may be reached through a majority vote, provided that each member makes a sincere effort to collaborate and seek common ground with their fellow committee members. While it is expected that the members of the JC will strive for consensus, individual dissenting opinions shall not automatically impede the execution of the committee's decisions, so long as they are supported by a majority of the committee members.",
+    "contradiction_score": 0.0037100049667060375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 55253,
+    "end_char": 57614,
+    "original": "ARTICLE 5 COMMERCIALIZATION 5.1 General . Vyera shall have the exclusive right to implement, and subject to Section  5.5, final decision-making authority with respect to, Commercialization of all Licensed Products in the Field and the Territory. Vyera shall be solely and exclusively responsible for all costs and expenses associated with Commercialization of Licensed Products in the Field and the Territory. Vyera shall use Commercially Reasonable Efforts in connection with such Commercialization of Licensed Products in the Territory for each indication in the Field for which such Licensed Products have received Regulatory Approval, and shall conduct Commercialization activities in material compliance with Applicable Laws and shall ensure that its Third Party contractors conduct Commercialization activities in material compliance with Applicable Laws. Without limiting the foregoing, Vyera shall have the exclusive right and responsibility throughout the Territory for the following: (a) receiving and accepting orders for the Licensed Product from customers\u037e (b) distributing the Licensed Product to customers\u037e (c) controlling invoicing and collection of accounts receivable for Licensed Product sales\u037e (d) recording Licensed Product sales in its books of account for sales (in accordance with Vyera\u2019s accounting standards consistently applied (currently GAAP))\u037e (e) subject to Section  5.5, determining pricing for the Licensed Product and all aspects of the promotion (including promotional materials) to be used in Commercializing Licensed Products\u037e (f) negotiating with Third Parties, including without limitation, payors, pharmacy benefit managers and distributors, with respect to sales and distribution of Licensed Product\u037e and (g) paying all rebates, chargebacks and other amounts due to customers in respect of Licensed Products (it being understood that all such amounts shall be deducted in calculating Net Sales). Notwithstanding the foregoing, CytoDyn acknowledges and agrees that in the event Vyera delivers to CytoDyn a notice of termination pursuant to Sections 11.2(b)  or (c), the use of Commercially Reasonable Efforts shall take into account Vyera\u2019s intent to cease its Commercialization activities as of the end of the applicable notice period and shall not require Vyera to take any action that is inconsistent with such intent.",
+    "modified": "ARTICLE 5 COMMERCIALIZATION\n\n5.1 General. CytoDyn grants Vyera non-exclusive rights, subject to Section 5.5, to implement and share decision-making authority regarding Commercialization of all Licensed Products in the Field and the Territory. While Vyera will engage in Commercialization efforts for Licensed Products, it is not solely responsible for any costs or expenses related to Commercialization; risks and costs are shared between the parties. Vyera shall conduct Commercialization activities in accordance with Applicable Laws and ensure that its Third Party contractors do the same.\n\nWithout limiting the foregoing, CytoDyn acknowledges and agrees that Vyera has the right to: (a) receive orders for Licensed Products from customers; (b) distribute the Licensed Product to customers; (c) invoice and collect accounts receivable for Licensed Product sales; (d) record Licensed Product sales in its books of account for sales (in accordance with Vyera\u2019s accounting standards consistently applied); (e) negotiate pricing for the Licensed Product, promotional materials, and aspects of promotion with Third Parties, including payors, pharmacy benefit managers, and distributors; (f) pay all rebates, chargebacks, and other amounts due to customers in respect of Licensed Products.\n\nIn case Vyera delivers a notice of termination pursuant to Sections 11.2(b) or (c), the use of Commercially Reasonable Efforts shall not require Vyera to take any action that is inconsistent with its intent to cease Commercialization activities, and the effort level will be adjusted accordingly during the applicable notice period.",
+    "contradiction_score": 0.9550976157188416,
+    "kept": true
+  },
+  {
+    "clause_index": 163,
+    "start_char": 59769,
+    "end_char": 59801,
+    "original": "5.4 Licensed Product Trademarks.",
+    "ollama_generated": "5.4 Trademark Usage of Licensed Products:\n\nThe Licensor hereby grants to the Licensee a non-exclusive, revocable, and non-transferable right to use the trademarks associated with the Licensed Products, solely for the purpose of identifying the products as licensed by the Licensor. The Licensee shall not assert any proprietary rights in the trademarks or attempt to register them independently, but shall maintain the trademarks in accordance with the standards and guidelines provided by the Licensor from time to time. Any misuse of the trademarks by the Licensee may result in termination of this agreement.",
+    "contradiction_score": 0.10002321749925613,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 169,
+    "start_char": 63583,
+    "end_char": 63867,
+    "original": "6.2 Supply Agreement . The Parties shall enter into a Supply Agreement(s) for the commercial supply of Licensed Product on the Effective Date. The Supply Agreement(s) shall be in the form attached as Attachment  D, with such changes (if any) mutually agreed by the Parties in writing.",
+    "ollama_generated": "6.2 Supply Agreement Modification: Each Party retains the right to propose amendments to the form of the Supply Agreement(s) for the commercial supply of Licensed Product, as set out in Attachment D, prior to its execution. Any agreed modifications shall be binding upon both Parties, subject to their written consent. The initial Supply Agreement(s), if not mutually amended, will come into effect on the Effective Date.",
+    "contradiction_score": 0.487125039100647,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 65866,
+    "end_char": 67171,
+    "original": "Source: CYTODYN INC., 10-Q, 1/9/2020 7.2 Inspections. To the extent permitted under Applicable Law and, if applicable, its relevant Third Party agreements,  (a) CytoDyn shall provide Vyera with reasonable advance notice of any scheduled regulatory inspection of CytoDyn or Third Party Manufacturing facilities used for supply of the Licensed Product as contemplated by Article 6 , and (b) Vyera shall be allowed to participate in any pre-approval  readiness activities and audits for CytoDyn or its Third Party Manufacturing facilities. CytoDyn or its applicable Third Party manufacturer of Licensed Product shall control all interactions with Regulatory Authorities with respect to such inspection. To the extent permitted under Applicable Law and, if applicable, CytoDyn\u2019s relevant Third Party agreements, Vyera shall have the right to be present during such inspection. CytoDyn shall use its Commercially Reasonable Efforts to ensure that any applicable Third Party manufacturer of Licensed Product is obligated to provide such access to Vyera (to the extent that CytoDyn has such rights of access). So long as CytoDyn is supplying Vyera supplies of Licensed Products pursuant to the Supply Agreement, it shall use Commercially Reasonable Efforts to obtain and maintain such rights of access for Vyera.",
+    "ollama_generated": "Clause:\nSource: CYTODYN INC., 10-Q, 1/9/2020\n7.2 Inspections. Under Applicable Law and any relevant Third Party agreements (if applicable), Vyera shall have the right to receive notice of any scheduled regulatory inspection of CytoDyn or Third Party Manufacturing facilities providing the Licensed Product as per Article 6. Upon receipt of such notice, CytoDyn may allow Vyera to participate in pre-approval readiness activities and audits for its own facilities or those of its Third Party Manufacturers, at its discretion. The regulatory authorities' interactions during these inspections shall be controlled by either CytoDyn or the applicable Third Party manufacturer of Licensed Product. Where permitted under Applicable Law and relevant Third Party agreements, Vyera shall have the right to request access to such inspections. CytoDyn shall use Commercially Reasonable Efforts to facilitate this access for Vyera (provided that it has the requisite rights), if applicable. It is understood that CytoDyn's obligation to supply Licensed Products to Vyera under the Supply Agreement will not be affected by its efforts to grant or deny access during inspections.",
+    "contradiction_score": 0.04472019150853157,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 180,
+    "start_char": 73056,
+    "end_char": 74375,
+    "original": "8.3 Milestone Payment for [***] . Vyera shall pay to CytoDyn [***] (the \u201c[***] Milestone Payment \u201d) in the event that [***] (a \u201c[***]\u201d) results in a [***]. Whether a [***] meets the criteria set forth in this Section  8.3 will be determined in good faith by the JC. The determination of whether a [***] results in [***] will not be a Reserved Dispute of either Party. In the event that the JC approves a proposed [***], the JC will discuss in good faith the details of the program that will be implemented to pursue the [***], including the budget, the timeline and any other items that the JC deems material. The proposed program will then be presented to the management of each Party for approval. In the event that the Parties agree to pursue a [***], CytoDyn shall promptly notify Vyera in writing following receipt of [***] and submit to Vyera an invoice for the [***]. Within thirty (30) days of Vyera\u2019s receipt of any such invoice, Vyera shall remit the [***] to CytoDyn. The [***] shall be non-refundable  and non-creditable.  Notwithstanding the foregoing, if the JC and/or the Parties are not able to come to agreement on a program to pursue a [***], the decision on whether to pursue a [***] shall be made by CytoDyn in its sole discretion provided, however, that such [***] will not be eligible for a [***].",
+    "ollama_generated": "8.3 Milestone Payment for [***]. CytoDyn has the option, but not the obligation, to receive the \"[***] Milestone Payment\" from Vyera, contingent upon CytoDyn's discretionary decision to initiate a \"[***]\". The suitability of a proposed \"[***]\", as well as its potential outcome, will be evaluated in good faith by the JC. Any disputes regarding this evaluation shall be considered Reserved Disputes between the Parties.\n\nIn case the JC approves a proposed program for pursuing the \"[***]\", both parties will engage in good faith discussions to determine the details of such program, including budget, timeline, and any other significant aspects. The approved plan will then be submitted to each party's management for approval. If the Parties agree to proceed with a \"[***]\", CytoDyn shall promptly notify Vyera in writing upon receipt of the triggering event and submit an invoice for the \"[***]\" to Vyera.\n\nVyera will have thirty (30) days from receipt of any such invoice to remit the \"[***]\" to CytoDyn. The paid \"[***]\" shall be non-refundable and non-creditable. However, if the JC and/or the Parties are unable to reach an agreement on a program for pursuing a \"[***]\", the decision to proceed with such project will rest solely with CytoDyn; any \"[***]\" initiated in this manner shall not be eligible for a \"[***]\".",
+    "contradiction_score": 0.2729778289794922,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 188,
+    "start_char": 82802,
+    "end_char": 84474,
+    "original": "8.11 Audit . Vyera shall maintain, and shall cause its Affiliates to maintain, complete and accurate records in sufficient detail to permit CytoDyn to confirm the accuracy of the calculation of royalties and milestones due under this Agreement. Upon reasonable prior notice, but not more than once per Calendar Year, such records of Vyera and its Affiliates shall be available during Vyera\u2019s and its Affiliates regular business hours for a period of three (3) years from the end of the Calendar Year to which they pertain for examination at the expense of CytoDyn by an independent certified public accountant selected by CytoDyn and reasonably acceptable to Vyera, for the sole purpose of verifying the accuracy of the financial reports and correctness of the payments furnished by Vyera pursuant to this Agreement. Any such auditor shall not disclose Vyera\u2019s Confidential Information, except to the extent such disclosure is necessary to verify the accuracy of the financial reports furnished by Vyera or the amount of payments due by Vyera under this Agreement. Any amounts shown to be owed but unpaid shall be paid within thirty (30) days from the accountant\u2019s report, plus interest, as set forth in Section  8.12 from the original due date. Any amounts shown to have been overpaid shall be refunded within thirty (30) days from the accountant\u2019s report. CytoDyn shall bear the full cost of such audit unless such audit discloses an underpayment by Vyera of more than five percent (5%) of the amount due, in which case Vyera shall bear the full cost of such audit. The audit rights set forth in this Section  8.11 shall survive the Term for a period of three (3) years.",
+    "ollama_generated": "8.11 Audit: CytoDyn shall have the right, upon reasonable prior notice and not more than once per Calendar Year, to conduct an audit at its own expense by an independent certified public accountant selected by it and acceptable to Vyera, for the purpose of verifying the accuracy of the financial reports and correctness of the payments made by CytoDyn pursuant to this Agreement. The records of Vyera and its Affiliates shall be made available during Vyera\u2019s and its Affiliates' regular business hours for a period of three (3) years from the end of the Calendar Year to which they pertain, for the purpose of such audit. Any information disclosed by the auditor will be limited to what is necessary to verify the accuracy of the financial reports or the amount of payments made by CytoDyn under this Agreement, and shall not include any Confidential Information.\n\nAny amounts shown to have been underpaid by CytoDyn shall be paid by Vyera within thirty (30) days from the accountant's report, plus interest, as set forth in Section 8.12, from the original due date. If it is found that there has been an overpayment by CytoDyn, Vyera shall refund the overpaid amount within thirty (30) days from the accountant's report. If the audit conducted by CytoDyn does not disclose an underpayment by Vyera of more than five percent (5%) of the amount due, then Vyera shall bear the full cost of such audit. The audit rights granted to CytoDyn in this Section 8.11 shall survive the Term for a period of three (3) years.\n\nThis revised clause shifts the responsibility of conducting the audit from Vyera to CytoDyn and slightly weakens the obligation of Vyera by limiting the scope of information that can be disclosed during the audit, while still ensuring compliance with the original intention of allowing verification of payments made under the Agreement.",
+    "contradiction_score": 0.04477209597826004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 189,
+    "start_char": 84474,
+    "end_char": 85022,
+    "original": "8.12 Late Payment . All payments due to a Party under this Agreement shall be made in U.S. Dollars by wire transfer of immediately available funds into an account designated by the receiving Party. If a Party does not receive payment of any sum due to it on or before the due date, simple interest shall thereafter accrue on the sum due to such Party until the date of payment at the per annum rate of two percent (2%) over the then prime rate quoted by Citibank in New York City or the maximum rate allowable by Applicable Law, whichever is lower.",
+    "ollama_generated": "8.12 Delayed Payment. All payments owed to a Party under this Agreement shall be made in U.S. Dollars via wire transfer of funds into an account specified by the recipient Party. In the event that payment is received after the due date, no interest shall accrue on the outstanding sum until 30 days after the original due date. After this grace period, simple interest shall thereafter accumulate on the overdue amount at a per annum rate of two percent (2%) above the then prime rate quoted by Citibank in New York City or the maximum rate allowable by Applicable Law, whichever is higher.\n\nThe changes made to this clause weaken the obligation for timely payment and give a grace period before interest accrues, while maintaining a professional tone.",
+    "contradiction_score": 0.06700442731380463,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 191,
+    "start_char": 85385,
+    "end_char": 85676,
+    "original": "Source: CYTODYN INC., 10-Q, 1/9/2020 ARTICLE 9 REPRESENTATIONS, WARRANTIES AND COVENANTS 9.1 Mutual Representations, Warranties and Covenants . Each of the Parties hereby represents and warrants to the other Party as of the Effective Date and hereinafter, as set forth below, covenants that:",
+    "ollama_generated": "Clause:\nSource: NewCo LTD., Quarterly Report (10-Q), 1/9/2020 - ARTICLE 9 REPRESENTATIONS, WARRANTIES AND COVENANTS\n\nRevised: 9.1 Reciprocal Undertakings, Assurances and Commitments. Each of the Parties hereby undertakes to the other Party as of the Effective Date and thereafter, on a reciprocal basis, makes the following assurances and gives the following commitments, which shall be binding:\n\nThis version places an equal obligation on both parties (reciprocal) while keeping the same structure and tone. It also employs \"undertakings,\" \"assurances\" and \"commitments\" instead of \"representations, warranties and covenants,\" to convey a slightly different connotation but maintain professionalism.",
+    "contradiction_score": 0.06643422693014145,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 193,
+    "start_char": 85933,
+    "end_char": 86391,
+    "original": "(b) Binding Agreement . This Agreement is a legal and valid obligation binding upon such Party and enforceable in accordance with its terms, subject to the effects of bankruptcy, insolvency, or other Applicable Law of general application affecting the enforcement of creditor rights, judicial principles affecting the availability of specific performance, and general principles of equity (whether enforceability is considered a proceeding at law or equity).",
+    "ollama_generated": "(b) Binding Obligation . This Agreement constitutes a binding commitment for each Party, but its enforceability may be subject to limitations arising from bankruptcy, insolvency, or other general laws affecting creditor rights, as well as judicial principles limiting the availability of specific performance and the broader principles of equity. The ultimate enforceability of this Agreement shall be determined by the court in accordance with applicable procedural rules, whether such determination is considered a proceeding at law or equity.",
+    "contradiction_score": 0.00192748149856925,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 205,
+    "start_char": 92376,
+    "end_char": 92827,
+    "original": "(f) To CytoDyn\u2019s Knowledge as of the Effective Date and without any additional independent investigation by its outside patent counsel other than such freedom to operate analysis as have previously been performed and shared with CytoDyn, the Commercialization of the Licensed Product in the Field in the Territory will not infringe or misappropriate the Patents or other intellectual property or proprietary rights of any Third Party in the Territory.",
+    "modified": "(f) With respect to the Effective Date, CytoDyn acknowledges that it is solely responsible for any investigation regarding potential infringement or misappropriation of the Patents or other intellectual property or proprietary rights of any Third Party in the Territory by the Commercialization of the Licensed Product in the Field within the Territory. To the best of our knowledge, as of the Effective Date, no such third-party rights are known to us, but we expressly disclaim any representation that no such infringement or misappropriation will occur in the future, as we have not independently verified this assumption beyond the freedom to operate analysis previously conducted and shared with CytoDyn.",
+    "contradiction_score": 0.5559192299842834,
+    "kept": true
+  },
+  {
+    "clause_index": 207,
+    "start_char": 93198,
+    "end_char": 94295,
+    "original": "(h) All current and former officers, employees, agents, advisors, consultants, contractors or other representatives of CytoDyn or any of its Affiliates who are inventors of or have otherwise contributed in a material manner to the creation or development of any CytoDyn Know- How  or the CytoDyn Patents, that in each case, is owned by CytoDyn, have executed and delivered to CytoDyn or any such Affiliate an assignment or other agreement regarding the protection of proprietary Confidential Information and the assignment to CytoDyn or any such Affiliate of any CytoDyn Know-How  and the CytoDyn Patents, the current form of which has been made available for review by Vyera. To CytoDyn\u2019s Knowledge, no current officer, employee, agent, advisor, consultant or other representative of CytoDyn or any of its Affiliates is in violation of any term of any assignment or other agreement regarding the protection of CytoDyn Patents or CytoDyn Know-How  or of any employment contract or any other contractual obligation relating to the relationship of any such Person with CytoDyn or any such Affiliate.",
+    "modified": "(h) All current and former officers, employees, agents, advisors, consultants, contractors, or other representatives of CytoDyn or any of its Affiliates who have contributed in a material manner to the creation or development of any CytoDyn Know-How or the CytoDyn Patents, which are owned by CytoDyn, are hereby requested but not obligated to execute and deliver an assignment or other agreement to CytoDyn or any such Affiliate. This agreement would cover the protection of proprietary Confidential Information and assign to CytoDyn or any such Affiliate any CytoDyn Know-How and the CytoDyn Patents. The current form of this agreement has been made available for review by Vyera. It is understood that CytoDyn does not verify the compliance of its current officers, employees, agents, advisors, consultants, or other representatives with any term of any assignment or other agreement regarding the protection of CytoDyn Patents or CytoDyn Know-How, or with any employment contract or any other contractual obligation relating to their relationship with CytoDyn or any such Affiliate.",
+    "contradiction_score": 0.9367777705192566,
+    "kept": true
+  },
+  {
+    "clause_index": 215,
+    "start_char": 99514,
+    "end_char": 99736,
+    "original": "(b) Vyera has the financial capacity to meet its obligations under this Agreement, including, without limitation, the payment of the amounts due under Article 8  and the investments required under the Minimum Requirements.",
+    "ollama_generated": "(b) It is understood that while Vyera strives to fulfill its commitments under this Agreement, the ability to meet certain financial obligations, such as those outlined in Article 8 and the investments mandated by the Minimum Requirements, may be subject to unforeseen circumstances or fluctuating economic conditions, and any failure to do so will not automatically constitute a breach of this Agreement unless such non-performance persists for an extended period beyond the reasonable expectation of remedy.",
+    "contradiction_score": 0.08253420144319534,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 107667,
+    "end_char": 108730,
+    "original": "(g) If and whenever any Confidential Information is disclosed in accordance with this Section  10.3, such disclosure shall not cause any such information to cease to be Confidential Information except to the extent that such disclosure results in a public disclosure of such information (other than by breach of this Agreement). Notwithstanding the foregoing, in the event a Party is required to make a disclosure of the other Party\u2019s Confidential Information pursuant to clauses (a) through (e) of this Section  10.3, it will, except where impracticable or prohibited by Applicable Law, give reasonable advance notice to the other Party of such disclosure and use not less than the same efforts to secure confidential treatment of such information as it would to protect its own confidential information from disclosure. Each Receiving Party shall notify the Disclosing Party promptly on discovery of any unauthorized use or disclosure of the Disclosing Party\u2019s Confidential Information by the Receiving Party or any of its Affiliates, agents or representatives.",
+    "ollama_generated": "(g) Any disclosure made in compliance with Section 10.3 shall not transform the shared Confidential Information into non-confidential, except when such disclosure leads to an unavoidable public disclosure (excluding breaches of this Agreement). Contrariwise, if a Party is legally obligated or compelled to disclose the other Party's Confidential Information under clauses (a) through (e) of Section 10.3, it shall, wherever feasible and not restricted by Applicable Law, provide reasonable notice to the other Party before such disclosure and endeavor to secure confidential handling of such information as vigilantly as it would protect its own confidential data. Each Receiving Party will promptly inform the Disclosing Party upon discovering any unauthorized use or disclosure of the Disclosing Party's Confidential Information by the Receiving Party, its affiliates, agents, or representatives.",
+    "contradiction_score": 0.012732136063277721,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 241,
+    "start_char": 120768,
+    "end_char": 122584,
+    "original": "(b) All rights and licenses granted under or pursuant to this Agreement are, and shall otherwise be deemed to be, for purposes of Section 365(n) of Title 11 of the U.S. Code and other similar laws in any jurisdiction outside the U.S. (collectively, the \u201c Bankruptcy Laws \u201d), licenses of rights to \u201cintellectual property\u201d as defined under the Bankruptcy Laws. If a case is commenced during the Term by or against a Party under Bankruptcy Laws then, unless and until this Agreement is rejected as provided pursuant to such Bankruptcy Laws, such Party (in any capacity, including debtor-in-possession)  and its successors and assigns (including a Title 11 trustee) shall perform all of the obligations in this Agreement intended to be performed by such Party. If a case is commenced during the Term by or against a Party under the Bankruptcy Laws, this Agreement is rejected as provided for under the Bankruptcy Laws, and the non-bankrupt  Party elects to retain its rights hereunder as provided for under the Bankruptcy Laws, then the Party subject to such case under the Bankruptcy Laws (in any capacity, including debtor-in-possession)  and its successors and assigns (including a Title 11 trustee), shall continue to provide whatever rights held by and granted to the non-bankrupt  Party with respect to and as licensee of the Patents and Know How licensed hereunder as such rights existed hereunder immediately before the commencement of the case under the Bankruptcy Laws. All rights, powers and remedies of the non-bankrupt  Party as provided herein are in addition to and not in substitution for any and all other rights, powers and remedies now or hereafter existing at law or in equity (including the Bankruptcy Laws) in the event of the commencement of a case by or against a Party under the Bankruptcy Laws.",
+    "ollama_generated": "(b) The rights and licenses granted under or pursuant to this Agreement, as interpreted for the purposes of Section 365(n) of Title 11 of the U.S. Code and other similar laws in any jurisdiction outside the U.S. (collectively, \"Bankruptcy Laws\"), are considered as licenses to \"intellectual property\" as defined under Bankruptcy Laws. If a bankruptcy case is initiated during the Term by or against either Party, the party not initiating the bankruptcy proceeding (hereafter referred to as the \"Non-Debtor\") shall be entitled to terminate this Agreement upon notice, and if it chooses not to do so, the Debtor (in any capacity, including debtor-in-possession) and its successors and assigns (including a Title 11 trustee), shall be relieved of their obligations under this Agreement, except for the obligation to continue providing the Non-Debtor with the rights held by and granted to it with respect to and as licensee of the Patents and Know How licensed hereunder. The Debtor's relief from obligations does not affect any rights, powers, or remedies that the Non-Debtor may have under this Agreement or at law or in equity (including the Bankruptcy Laws) in the event of a bankruptcy proceeding initiated by or against the Debtor. In case of termination of this Agreement by the Non-Debtor, all rights, powers, and remedies of the Non-Debtor as provided herein shall remain unaffected and not be considered as substitution for any other rights, powers, or remedies now or hereafter existing under the Bankruptcy Laws.",
+    "contradiction_score": 0.2524324357509613,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 249,
+    "start_char": 128545,
+    "end_char": 129040,
+    "original": "ARTICLE 12 DISPUTE RESOLUTION 12.1 Exclusive Dispute Resolution Mechanism . The Parties agree that the procedures set forth in this Article 12  shall be the exclusive mechanism for resolving any dispute, controversy, or claim between the Parties that may arise from time to time pursuant to this Agreement relating to either Party\u2019s rights or obligations hereunder (each, a \u201c Dispute \u201d, and collectively, the \u201c Disputes \u201d) that is not resolved through good faith negotiation between the Parties.",
+    "modified": "ARTICLE 12 DISPUTE RESOLUTION\n\n12.1 Flexible Dispute Resolution Mechanism. The Parties acknowledge that, while they shall endeavor to resolve any dispute, controversy, or claim (each, a \"Dispute\", and collectively, the \"Disputes\") arising from time to time under this Agreement concerning either Party's rights or obligations hereunder through good faith negotiation between the Parties, the procedures specified in this Article 12 shall not be considered the sole mechanism for resolving Disputes. The Parties further agree that they may seek alternative dispute resolution methods, provided such methods are mutually agreed upon by both Parties. In the event that no mutually acceptable method of resolution is found within a reasonable period, the procedures set forth in this Article 12 shall become binding and exclusive for the resolution of the Dispute.",
+    "contradiction_score": 0.9536910057067871,
+    "kept": true
+  },
+  {
+    "clause_index": 251,
+    "start_char": 130030,
+    "end_char": 130048,
+    "original": "12.3 Arbitration .",
+    "ollama_generated": "12.3 Dispute Resolution Process:\n\nIn the event of any dispute arising out of or in connection with this Agreement (a \"Dispute\"), either Party shall have the option to initiate a resolution process by providing written notice to the other Party, setting forth the details of the Dispute. If the Parties are unable to resolve the Dispute through good faith negotiations within thirty (30) days of receipt of such notice, the Dispute shall be submitted to a mutually agreed-upon third-party mediator for resolution. If the Parties fail to agree on a mediator within a reasonable time, either Party may submit the Dispute to binding arbitration administered by the International Chamber of Commerce (ICC) in accordance with its Arbitration Rules. The decision of the arbitrator shall be final and binding on both Parties, and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof. This clause is intended to be a mutual waiver of any rights either Party may have to litigate any Dispute through trial or jury in a court of law. However, this shall not prevent either Party from seeking preliminary equitable or injunctive relief from a court of competent jurisdiction without breaching this arbitration clause.",
+    "contradiction_score": 0.14454570412635803,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 252,
+    "start_char": 130048,
+    "end_char": 130492,
+    "original": "(a) Any unresolved Dispute which was subject to Section  12.2 and is not a Reserved Dispute, shall be finally resolved by binding arbitration in accordance with the Commercial Arbitration Rules and Supplementary Procedures for Large Complex Disputes of the American Arbitration Association (\u201c AAA \u201d) and otherwise as set forth in this Section  12.3, and judgment on the arbitration award may be entered in any court having jurisdiction thereof.",
+    "modified": "(a) Any contested Issue arising from Sections outside of 12.2, excluding those classified as Reserved Issues, shall initially be addressed through good faith negotiations between the parties for a period of sixty days. If no resolution is reached within this timeframe, either party may elect to escalate the issue to binding arbitration under the Commercial Arbitration Rules and Supplementary Procedures for Large Complex Disputes of the American Arbitration Association (\" AAA \"), in accordance with Section 12.3. The prevailing party shall be responsible for initiating the arbitration proceedings, and the arbitrator's decision shall serve as a binding determination; however, neither party shall be entitled to seek judgment on the award unless the opposing party fails to comply with the arbitrator's ruling within thirty days after its delivery.",
+    "contradiction_score": 0.7851023077964783,
+    "kept": true
+  },
+  {
+    "clause_index": 256,
+    "start_char": 133805,
+    "end_char": 134767,
+    "original": "(e) Either Party may apply first to the arbitrator(s) for interim injunctive relief until the arbitration decision is rendered or the arbitration matter is otherwise resolved\u037e provided, that if such Party determines that such injunctive relief cannot be awarded in a timeframe adequate to protect such Party\u2019s interests, then a Party may, without waiving any right or remedy under this Agreement, seek from any court having jurisdiction any injunctive or provisional relief necessary to protect the rights or property of that Party pending resolution of the arbitration matter pursuant to this Section  12.3. The arbitrators shall have no Source: CYTODYN INC., 10-Q, 1/9/2020 authority to award punitive or any other type of damages not measured by a Party\u2019s compensatory damages. The Parties further agree that the decision of the arbitrators shall be the sole, exclusive and binding remedy between them regarding determination of arbitration matters presented.",
+    "ollama_generated": "(e) In the event that either Party requires urgent preliminary relief before the final arbitration decision is rendered or the arbitration matter is settled, they have the right to initiate such request with the arbitrator(s). However, if a Party deems that such interim injunctive relief may not be granted in a timely manner sufficient to safeguard their interests, they are empowered, without relinquishing any rights or remedies under this Agreement, to petition any court with jurisdiction for the issuance of injunctions or provisional orders deemed necessary to protect their rights or property until the arbitration issue is resolved in accordance with Section 12.3.\n\nIt's essential to note that the arbitrators are granted no authority to impose punitive or any other form of damages beyond those equaling a Party's compensatory losses. The Parties hereby acknowledge that the arbitral decision serves as the sole, exclusive, and final remedy concerning the resolution of disputes presented under this Agreement.",
+    "contradiction_score": 0.008762880228459835,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 259,
+    "start_char": 135626,
+    "end_char": 135885,
+    "original": "(h) Except to the extent necessary to confirm an award or decision or as may be required by Applicable Laws, neither a Party nor an arbitrator may disclose the existence, content, or results of an arbitration without the prior written consent of both Parties.",
+    "ollama_generated": "(h) It is permitted for either Party or an arbitrator to divulge the existence, content, or results of the arbitration, only when mandated by Applicable Laws or for the purpose of confirming an award or decision. In all other instances, prior written consent from both Parties must be obtained before any disclosure takes place.",
+    "contradiction_score": 0.0012724532280117273,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 264,
+    "start_char": 138321,
+    "end_char": 138598,
+    "original": "Source: CYTODYN INC., 10-Q, 1/9/2020 12.8 Confidentiality . Any and all activities conducted under this Article 12 , including any and all proceedings and decisions hereunder, shall be deemed Confidential Information of each of the Parties, and shall be subject to Article 10 .",
+    "ollama_generated": "Revised Clause:\n\nConfidentiality Obligation (Article 12): All activities undertaken in compliance with this Article 12, encompassing any related proceedings and determinations, are hereby considered Confidential Material of each Party, obligating all involved to maintain the utmost secrecy and abide by the provisions outlined in Article 10.",
+    "contradiction_score": 0.05706697702407837,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 265,
+    "start_char": 138598,
+    "end_char": 139047,
+    "original": "12.9 WAIVER OF RIGHT TO JURY TRIAL . In connection with the Parties\u2019 rights under this Article 12 , EACH PARTY, TO THE EXTENT PERMITTED BY LAW, KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ITS RIGHT TO A TRIAL BY JURY IN ANY ACTION OR OTHER LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT AND THE TRANSACTIONS IT CONTEMPLATES. THIS WAIVER APPLIES TO ANY ACTION OR LEGAL PROCEEDING, WHETHER SOUNDING IN CONTRACT, TORT, OR OTHERWISE.",
+    "modified": "12.9 RIGHT TO REQUEST JURY TRIAL . In connection with the Parties' obligations under this Article 12, each Party reserves the right, to the extent permitted by law, to request a trial by jury in any action or other legal proceeding arising out of or relating to this Agreement and the transactions it contemplates. This right applies to any action or legal proceeding, whether sounding in contract, tort, or otherwise. The Parties acknowledge that any election to waive this right may be made at their sole discretion, but such waiver shall not be construed as a general waiver of any other rights or remedies available under law or this Agreement.",
+    "contradiction_score": 0.6034910082817078,
+    "kept": true
+  },
+  {
+    "clause_index": 270,
+    "start_char": 142417,
+    "end_char": 144123,
+    "original": "(b) Defense . Upon receipt of notice under this Section  13.3 from the Indemnitee, the Indemnifying Party will have the duty to either compromise or defend, at its own expense and by counsel (reasonably satisfactory to Indemnitee) such Claim. The Indemnifying Party will promptly (and in any event not more than twenty (20) days after receipt of the Indemnitee\u2019s original notice) notify the Indemnitee in writing that it acknowledges its obligation to indemnify the Indemnitee with respect to the Claim pursuant to this Article 13  and of its intention either to compromise or defend such Claim. Once the Indemnifying Party gives such notice to the Indemnitee, the Indemnifying Party is not liable to the Indemnitee for the fees of other counsel or any other expenses subsequently incurred by the Indemnitee in connection with such defense, other than the Indemnitee\u2019s reasonable out of pocket Third Party expenses related to its investigation and cooperation, except as otherwise provided in the next sentence. As to all Claims as to which the Indemnifying Party has assumed control under this Section 13.3(b) , the Indemnitee shall have the right to employ separate counsel and to participate in the defense of a Claim (as reasonably directed by the Indemnifying Party) at its own expense\u037e provided, however, that if the Indemnitee shall have reasonably concluded, based upon a written opinion from outside legal counsel, that there is a conflict of interest between the Indemnifying Party and the Indemnitee in the defense of such Claim, in which case the Indemnifying Party shall pay the fees and expenses of one (1) law firm serving as counsel for the Indemnitee in relation to such Third Party Claim.",
+    "ollama_generated": "(b) Defense Obligations. Upon receipt of notice under Section 13.3 from the Indemnified Party, the Indemnitor shall have the discretion to either settle or defend, at its sole expense and with counsel satisfactory to the Indemnified Party, the Claim. The Indemnitor will promptly (and in any event within twenty (20) business days of receiving the original notice) communicate to the Indemnified Party in writing that it is evaluating its obligation to indemnify the Indemnified Party with respect to the Claim under Article 13 and whether it intends to settle or defend. Once the Indemnitor communicates this intent, it will not be liable to the Indemnified Party for any legal fees or other expenses incurred by the Indemnified Party subsequent to its initial defense, except for the Indemnified Party's reasonable out-of-pocket costs related to its investigation and cooperation, unless otherwise specified. In instances where the Indemnitor assumes control of a Claim under Section 13.3(b), the Indemnified Party shall have the right to engage separate counsel and participate in the defense of the Claim (as directed by the Indemnitor) at its own expense. However, if the Indemnified Party concludes, based on a written opinion from independent legal counsel, that there is a potential conflict of interest between the Indemnitor and the Indemnified Party in the defense of the Claim, then the Indemnitor will be obligated to cover the costs of two separate law firms: one serving as counsel for the Indemnified Party in relation to the third-party claim.\n\nIn this revised clause, the Indemnitor's obligation to defend has been shifted from a duty to a discretionary right, giving them more control over the defense process. Additionally, the timeframe for notification of intent to indemnify or defend has been changed to twenty business days (from twenty days) and clarified that the Indemnitor is not liable for expenses subsequent to its initial defense. Furthermore, the Indemnified Party now has the potential to incur additional costs if they deem there is a conflict of interest between themselves and the Indemnitor during the defense process.",
+    "contradiction_score": 0.3527391850948334,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 154929,
+    "end_char": 155373,
+    "original": "14.9 Further Assurance . Each Party shall duly execute and deliver, or cause to be duly executed and delivered, such further instruments and do and cause to be done such further acts and things, including the filing of such assignments, agreements, documents, and instruments, as may be necessary or as the other Party may reasonably request in connection with this Agreement or to carry out more effectively the provisions and purposes hereof.",
+    "modified": "14.9 Further Assistance: Upon reasonable request from the other Party, each Party shall endeavor to facilitate but not be obligated to execute or deliver additional instruments, perform further acts, or complete necessary tasks, including the filing of assignments, agreements, documents, and instruments. This assistance is intended solely to aid in the execution of this Agreement and to support its objectives; however, no Party shall be held responsible for any failure or delay in providing such assistance if it deems such action to be unreasonably onerous or detrimental to their interests.",
+    "contradiction_score": 0.9251485466957092,
+    "kept": true
+  },
+  {
+    "clause_index": 291,
+    "start_char": 155621,
+    "end_char": 156760,
+    "original": "14.11  Construction . Except where the context otherwise requires, wherever used, the singular shall include the plural, the plural shall include the singular, and the use of any gender shall be applicable to all genders. Whenever this Agreement refers to a number of days without using a term otherwise defined herein, such number refers to calendar days. The terms \u201cincluding,\u201d \u201cinclude,\u201d \u201cincludes\u201d or \u201cfor example\u201d shall not limit the generality of any description preceding such term and, as used herein, shall have the same meaning as \u201cincluding, but not limited to,\u201d and/or \u201cincluding, without limitation.\u201d The language of this Agreement shall be deemed to be the language mutually chosen by the Parties and no rule of strict construction shall be applied against either Party hereto. Each Party represents that it has been represented by legal counsel in connection with this Agreement and acknowledges that it has participated in the drafting hereof. In interpreting and applying the terms and provisions of this Agreement, the Parties agree that no presumption will apply against the Party which drafted such terms and provision.",
+    "ollama_generated": "14.11 Interpretation and Scope. For the purpose of clarity, all pronouns encompass both singular and plural forms, and vice versa. Gender-neutral language is intended to be applicable to all genders. The term \"days\" mentioned elsewhere in this Agreement, unless specifically defined, shall refer to business days, as determined by mutual agreement between the Parties.\n\nThe terms \"including,\" \"include,\" \"includes,\" or \"for example\" are illustrative and not exhaustive, carrying the same meaning as \"including, but not limited to,\" and/or \"including, without limitation.\"\n\nThis Agreement is a collective effort of both parties, and no provision will be strictly construed against either party. Each Party acknowledges that they have been advised by their respective legal counsel during the drafting process. In any disputes concerning this Agreement's terms and conditions, neither party shall have an advantage due to having drafted a particular provision.\n\nIn the event of interpretation ambiguity, the Parties agree to collaborate in good faith to reach a mutually satisfactory resolution.",
+    "contradiction_score": 0.01900966465473175,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

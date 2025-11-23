@@ -1,0 +1,230 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1636,
+    "end_char": 2139,
+    "original": "\"Licensed Programs\" in this Agreement are limited to WLI's MidLink Middleware software and G3001 programming tools. Further, Power2Ship shall also be authorized to resell other WLI products, services and support programs subject to separate written amendments to be made by the parties to this Agreement. WLI reserves the right to add additional products and to delete obsolete or superseded products at any time during the term of this Agreement upon sixty (60) days prior written notice to Power2Ship.",
+    "ollama_generated": "\"Under the terms of this Agreement, 'Licensed Programs' encompass solely WLI's MidLink Middleware software and G3001 programming tools. It is noteworthy that Power2Ship is granted the privilege to re-distribute other WLI products, services, and support programs, contingent upon the execution of separate amendments to this Agreement by both parties.\n\nWLI retains the prerogative to expand its product offerings within this Agreement, including the introduction of new products, with a sixty (60) days written notice to Power2Ship prior to such addition. Conversely, WLI reserves the option to remove outdated or replaced products at any point during the Agreement's duration, without prior warning to Power2Ship.\"",
+    "contradiction_score": 0.12501780688762665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3775,
+    "end_char": 3951,
+    "original": "1.7. Power2Ship acknowledges that it has already integrated the G3001 packaged with the MidLink middleware into its application tested it and found it to meet its requirements.",
+    "ollama_generated": "1.7. It is acknowledged by Power2Ship that prior integration of the G3001 packaged with the MidLink middleware within its application has been undertaken, though it may not have been thoroughly tested to confirm if it meets all its requirements.",
+    "contradiction_score": 0.012287138029932976,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 5161,
+    "end_char": 5837,
+    "original": "3.2. Once the monthly License Fee for a particular Unit has started, it will continue for a minimum of 36 consecutive months with the only exception being that should Power2Ship uninstall a particular Unit from one customer and install it at another customer, Power2Ship is permitted to suspend the monthly License Fee for that particular Unit for a maximum of 2 months during the life of this Agreement. This suspension of the License Fee is permitted only once per a particular Unit during the life of the Agreement (i.e., the suspension can't occur in two non-consecutive months). Units that are suspended for less than thirty consecutive days are not considered suspended.",
+    "ollama_generated": "3.2. The monthly License Fee for each Unit, once initiated, is binding for a period of 36 consecutive months, subject to the condition that Power2Ship may temporarily halt the payment upon removing and reinstalling the same Unit between different customers. This temporary cessation of the monthly fee can extend across a maximum duration equal to the life of this Agreement. It's essential to note that this exception allows for such fee suspension only once per Unit throughout the entire term of the Agreement, and intervals shorter than thirty consecutive days do not constitute a suspension for the purposes of this clause.",
+    "contradiction_score": 0.030876344069838524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 5837,
+    "end_char": 6274,
+    "original": "3.3. Once Power2Ship has paid WLI the License Fee for a minimum of 36 months for a particular Unit, Power2Ship may discontinue paying the month License Fee only if that particular Unit has been deactivated from the wireless network. If a Unit is deactivated after 36 months and subsequently is reactivated, Power2Ship must restart the payment of the License Fee for as long as that particular Unit remains active on the wireless network.",
+    "ollama_generated": "3.3. Upon continuous payment by WLI of the License Fee for a particular Unit to Power2Ship for 36 consecutive months, WLI shall be required to maintain such payments unless explicitly notified in writing that the Unit has been deactivated from the wireless network. If, during or after the 36-month period, the Unit is reactivated, WLI shall resume the payment of the License Fee for as long as the particular Unit remains active on the wireless network. Power2Ship shall not be obliged to pay the monthly License Fee if it has been duly informed that the Unit has been deactivated and remains in such state for more than 30 days.",
+    "contradiction_score": 0.23833055794239044,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 6274,
+    "end_char": 6512,
+    "original": "3.4. The $[*] hardware price per Unit is based on a single order of a minimum of 1000 Units and manufacturing of a minimum 500 Units. At the time of placing the order with WLI, Power2Ship must pay the full purchase price of $[*] per Unit.",
+    "ollama_generated": "3.4. The $[*] hardware price per Unit is contingent upon a single order consisting of at least 1000 Units, with a minimum manufacturing requirement of 500 Units. Power2Ship has the option to place an order for fewer than 1000 Units, but in such cases, the purchase price per Unit may be subject to adjustment or surcharge, as determined by WLI at the time of order placement.",
+    "contradiction_score": 0.004804136697202921,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6512,
+    "end_char": 6598,
+    "original": "The delivery time is 8-10 weeks starting with the date the payment is received by WLI.",
+    "ollama_generated": "Payment receipt by WLI initiates the 8-10 week delivery timeline, concluding when the goods are handed over. However, please note that unforeseen circumstances may extend this duration, and the exact delivery date will be communicated promptly should such events occur.",
+    "contradiction_score": 0.0009607647662051022,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 6598,
+    "end_char": 7158,
+    "original": "--------      ------- RH            JS                                                       6/7/2002 Page 1 of 9 3.5. To shorten the delivery time to 3-4 weeks, Power2Ship has the option to purchase all the key components for $[*] per Unit and have them stored at no charge by WLI on behalf of Power2Ship so they can be available for immediate manufacturing when Power2Ship places an order. If this option is exercised, when Power2ship places an order to authorize Units to be manufactured it will pay with the $[*] balance per Unit at the time of such order.",
+    "ollama_generated": "3.5. To expedite the delivery process, Power2Ship retains the discretion to pre-purchase all essential components for $[*] per Unit and have them stored, at no cost to Power2Ship, by WLI for potential immediate usage in manufacturing when a manufacturing order is placed by Power2Ship. In the event that this option is utilized, Power2Ship will settle the $[*] purchase price per Unit upon placing an order for unit authorization to be manufactured.\n\nIn this version of the clause, the responsibility and obligation have shifted slightly towards Power2Ship as they now pre-purchase and store the components at no charge before manufacturing orders are placed. Additionally, payment is made upon placing a manufacturing order instead of at the time of delivery.",
+    "contradiction_score": 0.006180214695632458,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 7587,
+    "end_char": 7909,
+    "original": "3.8. Unless otherwise stated in writing by WLI, all prices quoted shall be exclusive of state and local use, sales and property taxes. Power2Ship agrees to be responsible for any such taxes incurred as a result of its purchase of Products from WLI, unless Power2Ship shall have presented WLI with an exemption certificate.",
+    "ollama_generated": "3.8. Prices quoted by WLI will typically exclude state and local use, sales, and property taxes, unless explicitly specified otherwise in writing. In the event that Power2Ship is required to pay such taxes as a result of purchasing Products from WLI, responsibility for these taxes shall fall upon Power2Ship, except where Power2Ship can present a valid exemption certificate to WLI.",
+    "contradiction_score": 0.003150345990434289,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 12299,
+    "end_char": 12995,
+    "original": "4.8. Confidentiality. Power2Ship acknowledges that the Licensed Programs and all copies thereof are proprietary, confidential and a trade secret of WLI and the exclusive title shall remain with WLI. All applicable rights to copyrights, patents, trademarks, trade names, logos and identifying slogans and other intellectual property rights in the products are the exclusive property of WLI and Power2Ship shall not contest such ownership. Power2Ship is committing directly or indirectly not to copy and/or not to reverse engineer any of WLI's software and/or hardware products. Power2Ship shall be responsible for any breach of this Section by its employees, agents, subcontractors or consultants.",
+    "ollama_generated": "4.8. Disclosure Agreement. It is acknowledged by Power2Ship that the Licensed Programs, along with all duplicates thereof, are proprietary, confidential, and represent a trade secret owned solely by WLI. All pertinent rights to copyrights, patents, trademarks, trade names, logos, and identifying slogans, as well as other intellectual property rights in the products, remain exclusively with WLI. Power2Ship assumes no ownership rights over these elements.\n\nHowever, WLI grants a non-exclusive, limited license to Power2Ship for the purpose of using the Licensed Programs within the scope and duration of this agreement. This license does not extend to activities such as copying or reverse engineering any of WLI's software or hardware products without prior written consent from WLI.\n\nIn the event that Power2Ship, its affiliates, representatives, subcontractors, or consultants breach this Section, WLI shall hold Harmless and indemnify Power2Ship for any resulting damages or liabilities. This clause does not absolve Power2Ship of responsibility for any intentional or grossly negligent breaches.",
+    "contradiction_score": 0.17195375263690948,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 17797,
+    "end_char": 18052,
+    "original": "6.4. Power2Ship is responsible for maintaining and storing in a safe and secure location backup copies of all data files Power2Ship may place in the System. In no event shall WLI be liable for loss or destruction of Power2Ship's data files for any reason.",
+    "ollama_generated": "6.4. While Power2Ship is encouraged to maintain and securely store backup copies of all data files placed within the System, it is primarily responsible for ensuring their safety and integrity. Under no circumstances shall WLI be held accountable for any loss or destruction of Power2Ship's data files, regardless of the cause.",
+    "contradiction_score": 0.002365060616284609,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 18555,
+    "end_char": 19100,
+    "original": "7.4. The purchase price for the Unit does not include repair beyond the first year limited warranty. The renewal of the limited warranty after the first year is at the option of the customer, but in any case, Unit failure does not relieve Power2Ship of its obligation to pay the monthly License Fees to WLI for that Unit. The first year limited warranty starts on the day of the activation of the Unit on a wireless network. As a distributor, Power2Ship should keep a minimum number of Units in stock for immediate replacement for its customers.",
+    "ollama_generated": "7.4. The payment for the Unit excludes any post-first-year repair costs, which shall be borne solely by the customer, unless otherwise specified in a written agreement between the parties. However, Power2Ship's obligation to pay the monthly License Fees to WLI for the Unit remains unaltered, regardless of its operational status after the first year. The first year limited warranty commences on the activation day of the Unit on a wireless network. As a distributor, Power2Ship is encouraged, but not obligated, to maintain a sufficient quantity of Units in stock for prompt replacement, should the need arise for its customers.",
+    "contradiction_score": 0.02783174254000187,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 19910,
+    "end_char": 20613,
+    "original": "8. LICENSED SOFTWARE ACCESS AND AUDIT 8.1. Should a dispute occur concerning the number of Units that Power2Ship has activated with its customer, WLI may designate an independent certified public accountant who may audit Power2Ship's books and records concerning sales of Units and of Licensed Software under this Agreement. Said examination shall be at WLI's sole cost and expense during normal business hours and upon reasonable notice, and may not be conducted more than once annually\u037e provided, however, --------  ------- that if such audit reveals an underpayment by Power2Ship of more than 10% for the period audited, Power2Ship shall pay WLI's actual costs and expenses for performing such audit.",
+    "modified": "8. AUDIT AND LICENSED SOFTWARE ACCESS\n\n8.1. In case a dispute emerges regarding the number of Units activated by Power2Ship for its customers, WLI has the right to appoint an independent certified public accountant who may review Power2Ship's books and records relative to sales of Units and Licensed Software under this Agreement. This review shall be conducted at WLI's expense during regular business hours and upon a reasonable notice, but shall not exceed one audit per year; however, if such audit discloses that Power2Ship has underpaid WLI by more than 10% for the audited period, Power2Ship will reimburse WLI for the actual costs and expenses incurred during the audit.\n\nIn this revised clause, the obligation on Power2Ship to pay for the audit if it underpays by less than 10% has been removed, and the responsibility of conducting the audit has been shifted from WLI to Power2Ship (although at WLI's expense if the underpayment is more than 10%).",
+    "contradiction_score": 0.6014010906219482,
+    "kept": true
+  },
+  {
+    "clause_index": 58,
+    "start_char": 22169,
+    "end_char": 22384,
+    "original": "10.4. Power2Ship will maintain a minimum level of inventory of the Product for service purposes, which the parties estimate to be 1% of the aggregate number of Units active on any wireless network at any given time.",
+    "ollama_generated": "10.4. It is understood that Client's obligation for maintaining a minimum inventory level of the Product for service purposes shall not exceed more than 99% of the total idle Units, as opposed to those actively on any wireless network at any given time. This estimated inventory level is subject to adjustment based on changes in network activity and usage patterns.",
+    "contradiction_score": 0.09770216792821884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 26095,
+    "end_char": 26948,
+    "original": "12. INTELLECTUAL PROPERTY RIGHTS INDEMNIFICATION 12.1. WLI represents and warrants that: (i) it owns all right, title and interest in and to the Products necessary to enter into and perform its obligations to Power2Ship hereunder, and (ii) no Product or Licensed Programs sold to Power2Ship during the term of this Agreement, nor the use of any such Product or Licensed Program, nor anything in or contemplated by this Agreement, infringes upon the Intellectual Rights (as defined herein) of any other person or entity, and no suit or proceeding is pending or threatened alleging that any Product or Licensed program, or the use thereof, infringes upon any Intellectual Rights. As used herein, the term \"Intellectual Right\" means any rights relating to any trademark, trade name, service mark, copyright, patent, trade secret or other proprietary right.",
+    "modified": "12. INTELLECTUAL PROPERTY RIGHTS DISCLAIMER OF LIABILITY\n12.1. Power2Ship acknowledges and agrees that: (i) it is solely responsible for ensuring that any Product or Licensed Programs acquired from WLI during the term of this Agreement, and the use of such Products or Licensed Programs, do not infringe upon the Intellectual Rights (as defined herein) of any other person or entity, and no claim, suit, or proceeding has been instituted or threatened alleging that any Product or Licensed program, or the use thereof, infringes upon any Intellectual Rights. (ii) As used herein, the term \"Intellectual Right\" means any rights relating to any trademark, trade name, service mark, copyright, patent, trade secret, or other proprietary right. WLI makes no warranties or representations regarding ownership of any rights, title, or interest in and to the Products necessary to enter into and perform its obligations to Power2Ship hereunder, but instead, shall have no liability for any infringement claims arising from such Products or Licensed Programs.",
+    "contradiction_score": 0.9187735319137573,
+    "kept": true
+  },
+  {
+    "clause_index": 67,
+    "start_char": 27606,
+    "end_char": 28041,
+    "original": "13.3. All WLI's use of Power2Ship's company name, logos, trademarks or other registered identifiers must meet Power2Ship's corporate communications standards and must have Power2Ship's written approval prior to such use by WLI. All Power2Ship's use of WLI's company name, logos, trademarks or other registered identifiers must meet WLI's corporate communications standards and must have WLI's written approval prior to such use by WLI.",
+    "ollama_generated": "13.3. While WLI is permitted to utilize Power2Ship's company name, logos, trademarks, or other registered identifiers, it is expected that such usage aligns with Power2Ship's corporate communications standards. However, approval for these uses by WLI should be sought from Power2Ship in writing following use, rather than prior to use. In contrast, Power2Ship's use of WLI's company name, logos, trademarks, or other registered identifiers is subject to WLI's corporate communications standards, and while approval is appreciated, it will not be a requirement for immediate implementation by Power2Ship.",
+    "contradiction_score": 0.09928689152002335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 31119,
+    "end_char": 31382,
+    "original": "14.3. Termination of this Agreement shall not release either party from the obligation to pay any sums to the other party whether then or thereafter due or operate to discharge any liability which has been incurred prior to the effective date of such termination.",
+    "ollama_generated": "14.3. The termination of this Agreement does not absolve either party from their obligation to settle any outstanding debts owed to the other, regardless of when these payments are due or if they were incurred prior to the effective date of termination; furthermore, no discharge is granted for liabilities already incurred before the effective date of termination.",
+    "contradiction_score": 0.0017146822065114975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 34007,
+    "end_char": 34376,
+    "original": "16.4. The relationship between WLI and Power2Ship is that of independent contractors. Neither party, nor its agents or its employees shall be deemed to be the agent of the other party. Neither party shall have the right to bind the other party, transact any business in the other party's name or in its behalf or incur any liability for or on behalf of the other party.",
+    "ollama_generated": "16.4. In the context of their association, Power2Ship and WLI act as autonomous entities. It is expressly understood that neither party nor their respective agents, officers, or employees shall be considered the representative of the other. Each party retains the sole authority to conduct business, make commitments, and assume obligations, solely in its own name and without binding the other party, regardless of any actions taken. In no event will either party incur liabilities or obligations on behalf of the other.",
+    "contradiction_score": 0.010666079819202423,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 34376,
+    "end_char": 34688,
+    "original": "16.5. Neither WLI nor Power2Ship shall intentionally disclose, and each party shall use reasonable efforts to prohibit, the unintentional disclosure to any third party of any confidential or proprietary information of the other party during the term of this Agreement and for a period of one (1) year thereafter.",
+    "ollama_generated": "16.5. While both WLI and Power2Ship are permitted to share confidential or proprietary information of the other party during the term of this Agreement, each party shall exert reasonable efforts to minimize such disclosures and take immediate steps to rectify any unintentional disclosures made to third parties. For a period of one (1) year following the expiration or termination of this Agreement, both parties are obligated to maintain the confidentiality of any shared information.",
+    "contradiction_score": 0.04160572215914726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 36085,
+    "end_char": 36297,
+    "original": "--------      ------- RH            JS                                                          Page 5 IN  WITNESS  WHEREOF, the parties have executed this Agreement as of the day and year  first  written  above.",
+    "ollama_generated": "Clause:\n   ------------------ Notwithstanding the foregoing provisions of this Agreement, Party RH shall retain the discretion to opt-out of any obligation or requirement set forth herein, subject to providing notice in writing to Party JS at least thirty (30) days prior to such opt-out. In the event that Party RH exercises its right to opt-out, Party JS shall have no further obligations under this Agreement with respect to matters related to said opted-out provision, and any payments or deliverables due from either party under this Agreement for such opted-out provision shall be deemed null and void. This clause is intended to ensure flexibility in the execution of this Agreement and does not constitute a waiver of any other rights or remedies available to either party under applicable law.\n   ------------------ In witness whereof, the parties have executed this Agreement as of the day and year first written above.",
+    "contradiction_score": 0.026756055653095245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 40169,
+    "end_char": 40219,
+    "original": "E)   CORRECTIONS AND UPDATES OF LICENSED PROGRAMS.",
+    "ollama_generated": "D) OBLIGATION FOR CORRECTIONS AND UPDATES IN LICENSED PROGRAMS:\n\nThe Licensee shall have the option, but not the obligation, to request corrections or updates of the Licensed Programs at their discretion. The Licensor shall make reasonable efforts to address such requests in a timely manner, but shall not be held liable for any damages or losses arising from the Licensor's failure to do so.",
+    "contradiction_score": 0.271454781293869,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 43136,
+    "end_char": 43693,
+    "original": "REPAIR OR REPLACEMENT BY WLI AS PROVIDED IN THIS LIMITED WARRANTY IS YOUR EXCLUSIVE REMEDY UNDER THIS LIMITED WARRANTY. WLI SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES. WLI DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY INCLUDING BUT NOT LIMITED TO, ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR ANY WARRANTY ARISING OUT OF ANY PROPOSAL, SPECIFICATION OR SAMPLE. ANY SOFTWARE PROVIDED WITH THE EQUIPMENT IS PROVIDED UNDER A SEPARATE SOFTWARE LICENSE AGREEMENT.",
+    "ollama_generated": "Any Repair or Replacement performed by WLI, as outlined in this Limited Warranty, shall be the full extent of WLI's liability under this Agreement. WLI accepts no responsibility for any direct, indirect, special, incidental, consequential, or exemplary damages arising from the use or inability to use the product.\n\nThis Limited Warranty does not include any warranties other than those explicitly stated, including but not limited to warranties of merchantability, fitness for a particular purpose, or any warranty based on proposal, specification, or sample. Any software supplied with the equipment is provided under a separate Software License Agreement.",
+    "contradiction_score": 0.0028522086795419455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 47313,
+    "end_char": 47595,
+    "original": "6. POWER2SHIP'S DATA FILES. Power2Ship is responsible for maintaining and storing in a safe and secure location backup copies of all data files Power2Ship may place in the System. In no event shall WLI(TM) be liable for loss or destruction of Power2Ship's data files for any reason.",
+    "ollama_generated": "6. POWER2SHIP'S DATA FILES RESPONSIBILITY SHIFT. While Power2Ship is primarily responsible for maintaining and storing backup copies of all data files it places in the System, WLI(TM) assumes secondary responsibility for ensuring that these backups are periodically verified for integrity and accessibility. However, in no circumstances shall WLI(TM) be held liable for any loss or destruction of Power2Ship's data files, except in cases where such loss or destruction results from WLI(TM)'s gross negligence or intentional misconduct.",
+    "contradiction_score": 0.10006028413772583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 48475,
+    "end_char": 49289,
+    "original": "8. CORRECTIONS AND UPDATES OF LICENSED PROGRAMS. WLI shall maintain the accuracy of the Licensed Programs by using its best endeavors to correct any programming or database errors that Power2Ship brings to WLI(TM)'s attention. In addition, during the warranty period and/or duration of this agreement WLI from time to time may furnish Power2Ship with further releases of the Licensed Programs to provide corrections of significant programming or software errors. After the expiration of this agreement, WLI shall provide any correction and update assistance only on mutually acceptable terms at WLI's customary rates then in effect. WLI(TM) reserves the right to make optional modifications and enhancements of the Licensed Programs (other than simple corrections and updates) available only at additional charges.",
+    "ollama_generated": "8. CORRECTIONS AND UPDATES OF LICENSED PROGRAMS. Power2Ship shall be responsible for identifying any programming or database errors within the Licensed Programs, and bring these issues to WLI's attention. In response, WLI will strive to address these errors in a timely manner during the warranty period and/or duration of this agreement. After the termination of this agreement, WLI may continue to provide correction and update assistance, but only under terms mutually agreed upon by both parties, and at rates customary for such services at that time. WLI(TM) retains the right to offer optional modifications, enhancements, or additional features of the Licensed Programs, for which an additional fee may be charged.",
+    "contradiction_score": 0.020436624065041542,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

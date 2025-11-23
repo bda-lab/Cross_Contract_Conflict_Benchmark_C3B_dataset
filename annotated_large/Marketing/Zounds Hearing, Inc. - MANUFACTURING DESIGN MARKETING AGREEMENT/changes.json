@@ -1,0 +1,80 @@
+[
+  {
+    "clause_index": 28,
+    "start_char": 19154,
+    "end_char": 19177,
+    "original": "8. Orders\u037e Termination.",
+    "ollama_generated": "8. Orders and Termination Provisions:\n\nUpon any order submitted by the Client, the Service Provider shall make reasonable efforts to fulfill such order within a commercially reasonable timeframe, taking into account the complexity of the task, resources available, and other obligations undertaken by the Service Provider. Either party may terminate this Agreement at any time by providing written notice to the other, but the Client acknowledges that early termination may result in costs or losses for the Service Provider, for which the Client shall be liable. The Service Provider's liability for such costs or losses shall not exceed the total fees received from the Client under this Agreement up to the date of termination.",
+    "contradiction_score": 0.04616283252835274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 19177,
+    "end_char": 19341,
+    "original": "8.1 Orders:  All orders whether for Manufacturer\u2019s Products or components or inventory to be used in the manufacture of Manufacturer\u2019s Products are non-cancellable.",
+    "ollama_generated": "8.1 Orders: Any order, whether it pertains to the Manufacturer's Products, associated components, or inventory intended for the production of the Manufacturer's Products, may not be terminated or altered without prior written consent from both parties, which shall not be unreasonably withheld. However, in the event of extraordinary circumstances, either party reserves the right to reconsider the order status upon mutual agreement.",
+    "contradiction_score": 0.02253114804625511,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 22875,
+    "end_char": 23771,
+    "original": "10. Limitation of Liability. No Other Liability.  IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY \"COVER\" DAMAGES (INCLUDING INTERNAL COVER DAMAGES WHICH THE PARTIES AGREE MAY NOT BE CONSIDERED DIRECT DAMAGES), OR ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES OF ANY KIND OR NATURE ARISING OUT OF THIS AGREEMENT OR THE SALE OF MANUFACTURER\u2019S PRODUCTS, WHETHER SUCH LIABILITY IS ASSERTED ON THE BASIS OF CONTRACT, TORT (INCLUDING THE POSSIBILITY OF NEGLIGENCE OR STRICT LIABILITY), OR OTHERWISE, EVEN IF THE PARTY HAS BEEN WARNED OF THE POSSIBILITY OF ANY SUCH LOSS OR DAMAGE, AND EVEN IF ANY OF THE LIMITED REMEDIES IN THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE. NEITHER PARTY SHALL BE LIABLE FOR ANY DAMAGES ARISING FROM DELAY IN MANUFACTURE, SHIPMENT OR DELIVERY OF ANY MANUFACTURER\u2019S PRODUCTS, IF SUCH DELAYS ARE DUE TO FORCE MAJEURE, AS DEFINED IN SECTION 15.2.",
+    "ollama_generated": "10. Limitation of Responsibility and Exclusive Remedies. No Additional Obligations. Under no circumstances shall either Party hold the other liable for any \"Cover\" losses (which parties acknowledge may not be classified as direct damages), or any indirect, consequential, special, or aggravated damages of any sort or character arising from this Agreement or the sale of Manufacturer's Products, regardless of the basis for such liability claims, whether based on contract, tort (including negligence or strict liability), or otherwise. This limitation applies even if a Party has been made aware of the possibility of such loss or damage, and even if the remedies provided in this Agreement prove ineffective at achieving their intended purpose. Neither Party shall be held responsible for any losses resulting from delays in the manufacture, shipping, or delivery of Manufacturer's Products, as long as these delays are attributable to force majeure events, as defined in Section 15.2.",
+    "contradiction_score": 0.05306766927242279,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 26841,
+    "end_char": 27570,
+    "original": "11.2 Public Announcements.  Each Party reserves the right to publish press releases and public announcements (collectively, the \u201cPublications\u201d) pertaining to this Agreement\u037e provided, however, no Publications will contain any Confidential Information of a Party without such Party\u2019s prior written consent. The publishing Party shall indemnify and hold the non-publishing Party its, officers, agents, shareholders, and employees harmless against any and all claims, demands, damages, liabilities and costs which directly or indirectly result from, or arise in connection with, any negligent act or omission of the disclosing Party, its agents, or employees, pertaining to such disclosing Party\u2019s Publications under this Agreement.",
+    "ollama_generated": "11.2 Public Disclosures: Each Party retains the authority to issue press releases and public communications (hereinafter \"Disclosures\") concerning this Agreement; however, no Disclosures shall reveal any Confidential Information of either Party without prior written consent from the relevant party. The disclosing party assumes all responsibility for any claims, demands, damages, liabilities, and costs that may arise or are connected to such disclosure, including but not limited to negligent acts or omissions on behalf of the disclosing party, its representatives, or employees, pertaining to their Disclosures under this Agreement. The non-disclosing party shall not be held accountable for any consequences arising from these disclosures.",
+    "contradiction_score": 0.21377116441726685,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 27570,
+    "end_char": 28200,
+    "original": "11.3 Non-Use . Each Party to this Agreement acknowledges and agrees that at any time during the Term of this Agreement and at all times following the termination of this Agreement, neither Party may use any Confidential Information, Inventions and Intellectual Property (as these terms are defined in Section 11.3 below) of the other Party for any purpose other than in conjunction with its obligations under this Agreement. The Parties further agree that neither Party may analyze, or reverse engineer any samples, software or hardware provided by the other Party to determine composition, method of manufacture, or construction.",
+    "modified": "11.3 Permitted Use . Each Party to this Agreement acknowledges and agrees that during the Term of this Agreement and thereafter, they may utilize the Confidential Information, Inventions, and Intellectual Property (as these terms are defined in Section 11.3 below) of the other Party for purposes beyond those outlined in this Agreement, subject to the condition that such use does not compete with or infringe upon the interests of the disclosing Party. The Parties further agree that they may conduct analyses or reverse engineer any samples, software, or hardware provided by the other Party solely for the purpose of compatibility testing, provided that such actions do not disclose proprietary information or breach any confidentiality obligations.",
+    "contradiction_score": 0.8917675018310547,
+    "kept": true
+  },
+  {
+    "clause_index": 50,
+    "start_char": 34500,
+    "end_char": 34714,
+    "original": "b)Upon reasonable notice, Manufacturer may review at any time routine reports relating to all nonconforming materials identified by Subcontractor during the manufacture or inspection of the Manufacturer\u2019s Products.",
+    "modified": "c) Subcontractor shall provide Manufacturer with unrestricted access, upon Manufacturer's request and without prior notice, for the purpose of reviewing all routine reports pertaining to nonconforming materials, identified by the Subcontractor, during the manufacturing or inspection process of the Manufacturer's Products. The onus is on the Subcontractor to ensure that such access is granted promptly and without undue delay.",
+    "contradiction_score": 0.9232885241508484,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 34864,
+    "end_char": 35545,
+    "original": "14.3 Change Notification . Subcontractor will notify Manufacturer and obtain approval prior to implementing changes that may require amendments to the Device Master Record, manufacturing process changes or material changes relating to the manufacture and distribution of Manufacturer\u2019s Products. Manufacturer will notify Subcontractor of all changes to the Device Master Record, manufacturing process changes or material changes relating to the manufacture of Manufacturer\u2019s Products manufactured by Subcontractor. Manufacturer will provide appropriate documentation to Subcontractor to effect any changes to the Device Master Record, manufacturing process or changes in materials.",
+    "ollama_generated": "14.3 Change Communication . The Subcontractor shall promptly inform the Manufacturer of any proposed changes that could potentially necessitate updates to the Device Master Record, alterations in the manufacturing process, or modifications in the materials used for the manufacture and distribution of the Manufacturer's Products. The Manufacturer shall share all relevant updates regarding the Device Master Record, manufacturing process changes, or material modifications related to the production of its Products with the Subcontractor. The responsibility for providing necessary documentation to facilitate such changes lies with the Manufacturer, and the Subcontractor is expected to comply accordingly.\n\nIn this revised clause, the obligation has been slightly weakened by using \"shall promptly inform\" instead of \"will notify and obtain approval prior to implementing,\" which allows for some discretion in the timing of the communication from the Subcontractor. Additionally, the responsibility for providing documentation has been shifted to the Manufacturer.",
+    "contradiction_score": 0.34318435192108154,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 38055,
+    "end_char": 38372,
+    "original": "15.5 No Third Party Beneficiaries.  The Parties agree that this Agreement is for the benefit of the Parties hereto only and is not intended to confer any legal rights or benefits on any third party, and that there are no third party beneficiaries to this Agreement or any part or specific provision of this Agreement.",
+    "ollama_generated": "15.5 Limited Third Party Benefits: This Agreement is intended solely for the benefit of the Parties named herein, but it does not exclude the possibility that a third party may derive some incidental advantages from its terms. The Parties acknowledge and agree, however, that no such third parties shall have any contractual or legal rights or claims against each other or either Party based on this Agreement, nor shall they have the right to enforce any of its provisions or enjoy benefits arising from it.",
+    "contradiction_score": 0.07428187876939774,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 2782,
+    "end_char": 2908,
+    "original": "The Software consists of the following:  The Program Materials include the following:  The Platform consists of the following:",
+    "ollama_generated": "The Software encompasses the subsequent components: The aforementioned Program Materials are integral to this Software: The Software's operational structure, herein referred to as the Platform, incorporates the following elements:\n\nChanges made:\n1. The original clause presents the elements of the software in a straightforward manner. In the rewritten clause, I have broken down each component (Software, Program Materials, and Platform) into different sentences for clarity.\n2. Instead of saying \"The Software consists of,\" I've used \"The Software encompasses\" to slightly change the tone and give a broader, more comprehensive feel.\n3. In place of \"The Platform consists of,\" I've rephrased it as \"The Software's operational structure, herein referred to as the Platform, incorporates the following elements.\" This inverts the condition by defining the Platform not only as what it contains but also as part of the broader software structure.\n4. Lastly, I have used \"aforementioned\" to refer to the Program Materials instead of saying \"The Program Materials include,\" which weakens the obligation slightly and makes it more concise.",
+    "contradiction_score": 0.05031655728816986,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 4080,
+    "end_char": 4236,
+    "original": "TRAINING Supplier shall provide the following training classes pursuant to this Agreement in connection with installation of the first copy of the Software.",
+    "ollama_generated": "TRAINING: The Client will be granted an opportunity to attend the specified training classes pertaining to the installation of the initial copy of the Software, contingent upon this Agreement and at Supplier's discretion.",
+    "contradiction_score": 0.011889886111021042,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4792,
+    "end_char": 5081,
+    "original": "Brian Woodward  Jason Brooks Address:  [***]  [***] Proprietary to Bank of America  Page A-4  vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 SOURCE CODE INSTALLATION SITE Bank of America shall maintain its copy of the Source Code on the terms of this Agreement at the following address:",
+    "ollama_generated": "Under the provisions of this Agreement, it is incumbent upon Jason Brooks (hereafter referred to as \"JB\") to ensure that a duplicate copy of the Source Code remains accessible at his designated address specified below, for the sole and exclusive purposes outlined within this agreement:\n\nAddress: [***]  [***]\n\nThis proprietary material, originating from CARDLYTICS, INC., shall be subject to the conditions stipulated in their S-1 filing dated 1/12/2018. In the event that Bank of America (hereafter referred to as \"BoA\") requires access to this Source Code, JB shall facilitate its provision in a timely and secure manner.\n\nPage A-4  vTIP2010",
+    "contradiction_score": 0.014886955730617046,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

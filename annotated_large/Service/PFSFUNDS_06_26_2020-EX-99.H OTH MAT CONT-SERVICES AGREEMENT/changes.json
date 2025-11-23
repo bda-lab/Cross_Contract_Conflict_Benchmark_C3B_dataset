@@ -1,0 +1,82 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 1163,
+    "end_char": 1637,
+    "original": "1. Employment . The Trust, being duly authorized, hereby employs the Adviser to perform the services described in this Agreement. The Adviser shall perform such services upon the terms and conditions hereinafter set forth. Any services undertaken by the Adviser pursuant to this Agreement, as well as any other activities undertaken by the Adviser on behalf of the Trust pursuant hereto, shall at all times be subject to any directives of the Board of Trustees of the Trust.",
+    "ollama_generated": "1. Engagement of Services: The Trust, acting within its discretion, hereby engages the Advisor to render the services as outlined in this Agreement. The Advisor agrees to fulfill these duties according to the provisions stated below. Any tasks or additional activities undertaken by the Advisor based on this Agreement, as well as any actions performed by the Advisor for the Trust under this engagement, shall always be subject to the instructions of the Board of Trustees of the Trust.\n\nIn this revised clause, the power dynamic has slightly shifted towards the Advisor; the Trust now \"engages\" rather than \"employs\", indicating a more flexible, contractual arrangement. The Advisor's agreement to fulfill duties \"according to the provisions stated below\" also gives a subtle suggestion of increased freedom for the Advisor in how they fulfill their responsibilities. However, it still emphasizes that the Advisor must comply with the instructions of the Board of Trustees.",
+    "contradiction_score": 0.0775734931230545,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1640,
+    "end_char": 1781,
+    "original": "2. Trust Administration. The Adviser shall give the Trust the benefit of its best judgment, efforts and facilities in rendering its services.",
+    "ollama_generated": "2. Trust Administration. The Adviser's services shall be performed with a reasonable degree of care, skill, and diligence, but the Adviser shall not be held liable for any results beyond this standard of performance. The Trust is responsible for evaluating and verifying the suitability of the Adviser's services before engaging them.",
+    "contradiction_score": 0.005955336149781942,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1781,
+    "end_char": 2212,
+    "original": "The Adviser shall at all times conform to: (i) all applicable provisions of the Act and any rules and regulations adopted thereunder\u037e (ii) the provisions of the Registration Statement of the Trust under the Securities Act of 1933 and the Act as amended from time to time\u037e (iii) the provisions of the Agreement and Declaration of Trust and the By-Laws of the Trust\u037e and (iv) any other applicable provisions of state and federal law.",
+    "ollama_generated": "The Adviser is responsible for ensuring compliance with: (i) all relevant provisions of the Act, as well as any regulations adopted thereafter, (ii) the Registration Statement of the Trust under the Securities Act of 1933 and subsequent amendments, (iii) the Agreement and Declaration of Trust, By-Laws of the Trust, but with the understanding that noncompliance with these documents may not be grounds for termination unless expressly stated otherwise, (iv) any other applicable provisions of state or federal law, noting that deviations from such laws will be managed in a manner that prioritizes the best interests of the Adviser and Trust, provided such actions are consistent with the Adviser's fiduciary duties.",
+    "contradiction_score": 0.00664597237482667,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 7636,
+    "end_char": 8163,
+    "original": "6. Compensation . For the performance of the Adviser\u2019s obligations under this Agreement, including payment of certain expenses of each of the Funds pursuant to paragraph 3 hereof, each Fund shall pay the Adviser, on the first business day following the end of each month, a fee at an annual rate of 0.65% of a Fund\u2019s average daily net assets up to $25 million, 0.35% of a Fund\u2019s average daily net assets from $25 million to $100 million, and 0.25% of a Fund\u2019s average daily net assets for such assets in excess of $100 million.",
+    "ollama_generated": "6. Remuneration . The Adviser shall be remunerated for the fulfillment of its obligations under this Agreement, which includes the reimbursement of certain expenses of each Fund as detailed in paragraph 3 herein. The remuneration will be paid by each Fund on a quarterly basis, on the last business day of each calendar quarter, at an annual rate. For the first $25 million in a Fund's average daily net assets, the rate shall be 0.65%. From $25 million to $100 million in a Fund's average daily net assets, the rate will reduce to 0.35%, and for any assets exceeding $100 million in a Fund's average daily net assets, the rate will further decrease to 0.25%. This remuneration structure is intended to incentivize the Adviser to manage larger assets effectively while still acknowledging the initial effort required for smaller funds.",
+    "contradiction_score": 0.020209576934576035,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 12962,
+    "end_char": 14120,
+    "original": "10. The Trust . The term \u201cPFS Funds\u201d means and refers to the Trustees from time to time serving under the Trust\u2019s Agreement and Declaration of Trust as the same may subsequently thereto have been, or subsequently hereto may be, amended. It is expressly agreed that the obligations of the Trust hereunder shall not be binding upon any of the Trustees, officers, employees, agents or nominees of the Trust, or any shareholders of any series of the Trust, personally, but bind only the trust property of the Trust (and only the property of the Fund). The execution and delivery of this Agreement have been authorized by the Trustees of the Trust and signed by an officer of the Trust, acting as such, and neither such authorization by such Trustees nor such execution and delivery by such officer shall be deemed to have been made by any of them individually or to impose any liability on any of them personally, but shall bind only the trust property of the Trust (and only the property of the Fund) as provided in its Agreement and Declaration of Trust. A copy of the Agreement and Declaration of Trust is on file with the Secretary of State of Massachusetts.",
+    "ollama_generated": "10. The Trustee Shall Not Be Personally Liable. For the purposes of this agreement, \"PFS Funds\" refers to the individuals currently serving as Trustees under the Trust's Agreement and Declaration of Trust, as well as any future Trustees appointed thereunder, whose identities may change from time to time. It is understood that the obligations imposed upon the Trust in this agreement are solely binding upon the trust assets of the Trust (and only the assets held by the Fund).\n\nNo current or future Trustee, officer, employee, agent, nominee, or shareholder of any series of the Trust shall be personally liable for the performance of these obligations. The authorization and execution of this Agreement by the Trustees and an officer of the Trust is made on behalf of the Trust alone, and shall not be construed as personal liability or obligation of any individual Trustee or officer.\n\nA copy of the Agreement and Declaration of Trust can be found with the Secretary of State of Massachusetts.",
+    "contradiction_score": 0.00617265235632658,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 14120,
+    "end_char": 14688,
+    "original": "11. Miscellaneous . Each party agrees to perform such further acts and execute such further documents as are necessary to effectuate the purposes hereof. This Agreement shall be construed and enforced in accordance with and governed by the laws of the State of Massachusetts. This Agreement may be amended at any time by written instrument executed by each of the parties hereto. The captions in this Agreement are included for convenience of reference only and in no way define or delimit any of the provisions hereof or otherwise affect their construction or effect.",
+    "ollama_generated": "11. Miscellaneous . It is understood that any additional actions required to fulfill the intent of this Agreement shall be undertaken by each party, as well as the execution of any subsequent documents deemed necessary. This Agreement will adhere to and be interpreted under the jurisdiction of Massachusetts state laws. The terms herein are modifiable at any given time, subject to a written agreement signed by all parties involved. For ease of reference, headings in this Agreement are merely provided and have no impact on the interpretation or application of its contents.\n\nThe main differences between the original clause and the rewritten version are:\n1) The wording has been adjusted to reflect that the actions required are \"understood\" rather than agreed upon explicitly. This implies a slightly weaker obligation, as it does not require express consent for each additional action but assumes that the parties will comply with reasonable requests.\n2) The term \"amended\" has been changed to \"modified\" to make the language more conversational and less formal.\n3) The language emphasizing that the headings do not affect construction or effect of the Agreement remains, but the reason for their inclusion is made clearer by adding a sentence explaining that they are provided for ease of reference only.",
+    "contradiction_score": 0.024796225130558014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 14713,
+    "end_char": 14822,
+    "original": "IN WITNESS WHEREOF, the parties have duly executed this Agreement as of the day and year first above written.",
+    "ollama_generated": "For the affirmation of this Agreement, the parties have validly signed and dated it on the date and year stated at its beginning.\n\nExplanation: The original clause states that the parties have executed (signed) the agreement, emphasizing the act is done. The rewritten clause shifts the focus slightly to the future by saying they have validly signed and dated it (implying there could be potential for further actions regarding the agreement).",
+    "contradiction_score": 0.03252038359642029,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 14822,
+    "end_char": 14961,
+    "original": "PFS Funds By: /s/ Jeffrey R. Provence Print Name: Jeffrey R. Provence Title: Trustee, Secretary and Treasurer Potomac Fund Management, Inc.",
+    "ollama_generated": "Clause:\nPotomac Fund Management, Inc.: /s/ Jeffrey R. Provence\nPrint Name: Jeffrey R. Provence\nTitle: Delegated Managing Trustee, Vice-Secretary and Assistant Treasurer\n\nRewritten in a way that shifts some responsibilities to the signatory:\n\nClause:\nPotomac Fund Management, Inc.: /s/ Jeffrey R. Provence\nPrint Name: Jeffrey R. Provence\nTitle: Representative Trustee, Delegated Secretary and Empowered Treasurer\n\nExplanation: In this version of the clause, the signatory is now referred to as a \"representative\" trustee, vice-secretary, and empowered treasurer. This implies that the signatory has been given authority to act on behalf of the entity (Potomac Fund Management, Inc.), but it does not necessarily mean they are solely responsible for those roles or decisions. The use of \"delegated\" and \"empowered\" suggests a level of discretion in carrying out their duties, which can be interpreted as a weakening of obligations compared to the original clause's wording.",
+    "contradiction_score": 0.016044970601797104,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

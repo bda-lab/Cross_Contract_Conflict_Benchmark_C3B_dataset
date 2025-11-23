@@ -1,0 +1,169 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 547,
+    "end_char": 671,
+    "original": "Erchonia desires to retain Distributor to promote, distribute and sell such equipment listed in Schedule A (the \u201cProducts\u201d).",
+    "ollama_generated": "Distributor is hereby granted the discretionary opportunity to opt for promoting, distributing, and selling the Products as specified in Schedule A, which are of interest to Erchonia.",
+    "contradiction_score": 0.0057139769196510315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 961,
+    "end_char": 1047,
+    "original": "D. The parties agree that these recitals shall be considered a term of this Agreement.",
+    "ollama_generated": "Clause:\nD. The parties acknowledge that the recitals contained herein are integral parts of this Agreement, which neither party shall contest or dispute.",
+    "contradiction_score": 0.008926896378397942,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3576,
+    "end_char": 3667,
+    "original": "All such information shall be available for inspection by Erchonia, upon reasonable notice.",
+    "modified": "Information provided shall not be considered confidential, allowing Erchonia unrestricted access at their discretion, without prior notice.",
+    "contradiction_score": 0.632921040058136,
+    "kept": true
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3788,
+    "end_char": 3859,
+    "original": "e. Distributor shall pay for all products purchased in a timely manner.",
+    "ollama_generated": "f. Payment for products purchased by Distributor must be made within the agreed terms, at which point Distributor's payment will be considered received promptly.",
+    "contradiction_score": 0.0517992302775383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 4136,
+    "end_char": 4264,
+    "original": "g. Distributor will at all times be and represent itself to be an independent distributor, not an agent or employee of Erchonia.",
+    "ollama_generated": "g. While representing Erchonia's products, Distributor shall maintain the status as a sole proprietor, ensuring no ambiguity exists regarding their relationship with Erchonia, acknowledging they are neither acting as an agent nor an employee of Erchonia.",
+    "contradiction_score": 0.001564245205372572,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 5032,
+    "end_char": 5265,
+    "original": "k. Distributor shall promptly notify Erchonia of any complaint about negative, unwanted, deleterious, or other side effects due to the use of the Products, including the complainant\u2019s name, contact information, and date of complaint.",
+    "ollama_generated": "m. In the event that a consumer expresses concerns or complaints regarding adverse, undesired, or harmful effects attributed to the utilization of our Products, Distributor is expected to share this feedback in a timely manner, including the complainant's name, contact details, and the date of the complaint submission. However, it shall be at the discretion of the Distributor to determine whether the concerns warrant immediate Erchonia notification.",
+    "contradiction_score": 0.271635502576828,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 5621,
+    "end_char": 6321,
+    "original": "3. Restriction on Promotion of Competing Products . During the term of this agreement, Distributor shall not market, sell advertise or promote the sale or use of any product or device which is competitive with or substantially similar to the Products, without the prior express written consent of Erchonia, nor shall they assist any third party in doing so. Notwithstanding the foregoing, to the extent Distributor or Distributor\u2019s customer is a licensed health care professional or licensed health care practitioner, nothing in this paragraph shall prevent or limit Distributor or Distributor\u2019s customer from exercising their independent medical judgment with regard to the treatment of any patient.",
+    "modified": "3. Permissive Promotion of Similar Products: During the term of this agreement, Erchonia acknowledges and consents that Distributor may market, sell, advertise, or promote the sale or use of products or devices which are competitive with or substantially similar to the Products, provided such actions are in accordance with local laws and regulations. However, Distributor shall not assist any third party in promoting competing products without obtaining prior written consent from Erchonia. This clause does not restrict or limit Distributor's ability to exercise their independent medical judgment, should they or their customers be licensed health care professionals or practitioners, in the treatment of any patient.",
+    "contradiction_score": 0.839597225189209,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 6989,
+    "end_char": 7418,
+    "original": "b. Erchonia shall submit invoices to Distributor after or concurrent with shipment of Products to Distributor at the delivery address. Distributor shall pay half (1/2) of the purchase price prior to shipment and the remaining balance 30 days after shipment of the Products. Payments received after the 30 day calendar period will be subject to a late fee of 1.5% of the invoice amount. All payments shall be made in U.S. Dollars.",
+    "ollama_generated": "a. Distributor's obligation to make payments for Products received from Erchonia is contingent upon timely receipt of the shipment at the specified delivery address. Payment of half (1/2) the purchase price is required prior to Erchonia's shipment, with the remaining balance due within 30 days of Distributor receiving the Products. Failure to make payments within this timeframe may result in a late fee equivalent to 1.5% of the invoice amount. All transactions shall be conducted using U.S. Dollars.\n\nThe revised clause shifts the responsibility of timely shipment from the distributor to Erchonia, and changes the timing of the payment obligations slightly. It also modifies the consequence for late payments by framing it as a \"may result\" rather than a definite outcome.",
+    "contradiction_score": 0.007846842519938946,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 8211,
+    "end_char": 8235,
+    "original": "6. Term and Termination.",
+    "ollama_generated": "6. Duration and Cessation of Services.\n\nIn the event that Party A desires to terminate this Agreement prior to its expiration date, Party B shall be obliged to provide a written notice, at least thirty (30) days in advance, indicating the reasons for such termination. Upon receipt of said notice, Party A's obligation to make payments will cease immediately, and Party B shall wind up any ongoing projects or services, without causing undue delay or disruption, and transfer all deliverables to Party A. Any unpaid amounts owed at the time of termination shall remain due and payable by Party B. In the absence of such notice or if Party A continues to utilize the services after receiving notice of termination, Party B's obligation to render those services shall continue until duly terminated in accordance with this clause or the Agreement's termination date, whichever occurs first.",
+    "contradiction_score": 0.16670973598957062,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 9427,
+    "end_char": 9692,
+    "original": "e. Except upon termination due to Distributors breach of this agreement, Erchonia will complete delivery of all purchase orders accepted by it prior to termination of this agreement\u037e provided that Distributor shall remain liable for full payment of all such orders.",
+    "modified": "f. Unless the termination of this agreement is initiated by Erchonia due to a breach by the Distributor, the Distributor shall have the right to request and receive delivery of all purchase orders placed prior to the termination date; however, Erchonia's obligation to fulfill these orders will be contingent upon the Distributor's prompt payment in full for all such orders.",
+    "contradiction_score": 0.6644750833511353,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 9939,
+    "end_char": 9959,
+    "original": "7. Confidentiality .",
+    "ollama_generated": "7. Disclosure of Information:\n\nThe parties acknowledge that certain information disclosed during the course of this agreement may be confidential in nature. However, each party reserves the right to share such information with third parties for the purpose of fulfilling their respective obligations under this agreement or as required by law. In such cases, every effort will be made to ensure the confidentiality and protection of the shared information. Notwithstanding the foregoing, either party shall not be liable for any unauthorized disclosure of confidential information that results from circumstances beyond its reasonable control.",
+    "contradiction_score": 0.15207406878471375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 13966,
+    "end_char": 14679,
+    "original": "c. Upon Erchonia\u2019s request, the Distributor shall at its expense deliver to Erchonia representative samples of labels, advertisements, catalogs, spec sheets, and the like, containing the Trademarks, and to inspect all of Distributors websites, social media accounts and any online information posted by Distributor, to ensure that such Trademarks are used only in a manner complaint with the quality standards. Should such material fail to meet the standards set by Erchonia, as determined by Erchonia in its sole discretion, Distributor shall not use and shall withdraw and retract any promotion or advertising that Erchonia finds unsuitable and will at its expense destroy such materials or make them compliant.",
+    "ollama_generated": "c. Upon Distributor's initiative, Erchonia is entitled to receive from the Distributor, at no cost to Erchonia, samples of labels, advertisements, catalogs, spec sheets, and similar items bearing the Trademarks, as well as access to inspect all of Distributor's websites, social media accounts, and any online information posted by Distributor. Erchonia shall review these materials to ensure that the Trademarks are utilized in a manner consistent with the quality standards. If Erchonia determines, in its sole discretion, that the material does not meet the standards set by Erchonia, the burden of proof shall be on the Distributor to demonstrate that the promotions or advertisements found unsuitable by Erchonia are compliant. In the event that the Distributor is unable to prove compliance, it will be responsible for either modifying the materials at its expense to meet the standards or ceasing their use, and if necessary, removing or retracting them from public view.",
+    "contradiction_score": 0.013979963958263397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 14683,
+    "end_char": 14783,
+    "original": "d. All goodwill associated with such trademark use by Distributor inures to the benefit of Erchonia.",
+    "ollama_generated": "d. Any goodwill generated from the usage of such trademark by the Distributor shall be considered as a liability, primarily held and benefited by Erchonia.",
+    "contradiction_score": 0.05784076452255249,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 14823,
+    "end_char": 14978,
+    "original": "a. Distributor Warranty . Distributor represents that it has requisite knowledge and experience to provide the products and services contracted for herein.",
+    "ollama_generated": "b. Implied Distributor Assurance: The Distributor assumes the responsibility of possessing the necessary skillset and expertise, although not explicitly warranted, in delivering the specified products and services according to this agreement.",
+    "contradiction_score": 0.21262021362781525,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 20197,
+    "end_char": 20226,
+    "original": "Erchonia Medical Corporation.",
+    "ollama_generated": "Shall be solely responsible and liable, without limitation, for any and all damages, claims, losses, expenses, costs (including reasonable attorneys' fees), or liabilities arising out of or in connection with the use, misuse, or handling of the products manufactured by Erchonia Medical Corporation, including but not limited to product defects or malfunctions.\n\nIn other words: The Erchonia Medical Corporation shall bear all liability and responsibility, without any limitation, for any damages, losses, claims, expenses, costs (including legal fees), or liabilities related directly or indirectly to the utilization, misuse, or mishandling of products produced by the corporation, whether due to product flaws or malfunctions.",
+    "contradiction_score": 0.0033592768013477325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 21420,
+    "end_char": 21683,
+    "original": "Pricing for the private labeled products may be modified due to any increased costs of production or packaging for the private labeled products. In addition, Erchonia may require reasonable minimum purchasing requirements for each run of private labeled products.",
+    "ollama_generated": "The pricing structure for privately branded goods is subject to adjustments in response to fluctuations in production or packaging costs. It should be noted that Erchonia reserves the right to impose minimal quantity thresholds for each production batch of privately labeled goods, as deemed necessary and reasonable by us. This condition is intended to ensure efficient use of resources and maintain product quality.",
+    "contradiction_score": 0.0010157771175727248,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 22144,
+    "end_char": 22224,
+    "original": "Note: Performance goals to begin 120 days after receipt of FDA market clearance.",
+    "ollama_generated": "Note: The commencement of performance objectives is subject to the provision of FDA market clearance, with a reasonable timeframe of up to 120 days following such receipt, for the timely initiation of these objectives. In the event that FDA market clearance is not provided within this timeframe, the parties shall engage in good faith discussions to determine an appropriate new commencement date.",
+    "contradiction_score": 0.00330644310452044,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

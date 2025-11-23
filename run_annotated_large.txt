@@ -1,0 +1,817 @@
+===========================
+RUN START: 2025-11-17 19:34:23
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+[✓] Affiliate_Agreements/CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf — 2 modified_kept, 33 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Affiliate_Agreements/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.pdf — 5 modified_kept, 115 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Affiliate_Agreements/DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.pdf — 10 modified_kept, 195 unchanged, 0 ollama_failed, 31 discarded_low_contradiction
+[✓] Affiliate_Agreements/LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf — 2 modified_kept, 53 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Affiliate_Agreements/SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf — 6 modified_kept, 41 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Affiliate_Agreements/SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.pdf — 1 modified_kept, 31 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Affiliate_Agreements/TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.pdf — 8 modified_kept, 115 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Affiliate_Agreements/UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.pdf — 0 modified_kept, 23 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Affiliate_Agreements/UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2.pdf — 2 modified_kept, 47 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Co_Branding/2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf — 1 modified_kept, 73 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Co_Branding/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.pdf — 0 modified_kept, 48 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Co_Branding/EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.pdf — 4 modified_kept, 77 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Co_Branding/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf — 2 modified_kept, 100 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Co_Branding/EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf — 5 modified_kept, 72 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Co_Branding/HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement.pdf — 1 modified_kept, 69 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Co_Branding/ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement.pdf — 5 modified_kept, 92 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Co_Branding/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.pdf — 2 modified_kept, 44 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Co_Branding/InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf — 11 modified_kept, 329 unchanged, 0 ollama_failed, 63 discarded_low_contradiction
+[✓] Co_Branding/LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement.pdf — 4 modified_kept, 104 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Co_Branding/MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.pdf — 1 modified_kept, 27 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Co_Branding/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.pdf — 9 modified_kept, 152 unchanged, 0 ollama_failed, 36 discarded_low_contradiction
+[✓] Co_Branding/NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement.pdf — 10 modified_kept, 189 unchanged, 0 ollama_failed, 31 discarded_low_contradiction
+[✓] Co_Branding/PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf — 9 modified_kept, 183 unchanged, 0 ollama_failed, 40 discarded_low_contradiction
+[✓] Co_Branding/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.pdf — 2 modified_kept, 45 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Co_Branding/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement2.pdf — 0 modified_kept, 4 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Co_Branding/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement3.pdf — 0 modified_kept, 8 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Co_Branding/RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement.pdf — 8 modified_kept, 90 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Co_Branding/RandWorldwideInc_20010402_8-KA_EX-10.2_2102464_EX-10.2_Co-Branding Agreement.pdf — 6 modified_kept, 90 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Co_Branding/StampscomInc_20001114_10-Q_EX-10.47_2631630_EX-10.47_Co-Branding Agreement.pdf — 2 modified_kept, 144 unchanged, 0 ollama_failed, 32 discarded_low_contradiction
+[✓] Co_Branding/TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf — 5 modified_kept, 94 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Co_Branding/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.pdf — 6 modified_kept, 140 unchanged, 0 ollama_failed, 40 discarded_low_contradiction
+[✓] Development/AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf — 8 modified_kept, 253 unchanged, 0 ollama_failed, 46 discarded_low_contradiction
+[✓] Development/ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement.pdf — 1 modified_kept, 20 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Development/ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf — 2 modified_kept, 116 unchanged, 0 ollama_failed, 31 discarded_low_contradiction
+[✓] Development/CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement.pdf — 0 modified_kept, 35 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Development/CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf — 11 modified_kept, 218 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] Development/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.pdf — 8 modified_kept, 123 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Development/ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement.pdf — 8 modified_kept, 110 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Development/EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf — 2 modified_kept, 42 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Development/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf — 10 modified_kept, 106 unchanged, 0 ollama_failed, 27 discarded_low_contradiction
+[✓] Development/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.pdf — 8 modified_kept, 214 unchanged, 0 ollama_failed, 34 discarded_low_contradiction
+[✓] Development/HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_Option Agreement.pdf — 27 modified_kept, 364 unchanged, 0 ollama_failed, 65 discarded_low_contradiction
+[✓] Development/HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement.pdf — 1 modified_kept, 37 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Development/IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement.pdf — 3 modified_kept, 61 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Development/LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.pdf — 5 modified_kept, 99 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Development/LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.pdf — 8 modified_kept, 126 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Development/NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement.pdf — 15 modified_kept, 127 unchanged, 0 ollama_failed, 27 discarded_low_contradiction
+[✓] Development/PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement1.pdf — 0 modified_kept, 35 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Development/PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.pdf — 3 modified_kept, 45 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Development/PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.pdf — 28 modified_kept, 480 unchanged, 0 ollama_failed, 86 discarded_low_contradiction
+[✓] Development/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.pdf — 5 modified_kept, 43 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Development/RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.pdf — 26 modified_kept, 403 unchanged, 0 ollama_failed, 72 discarded_low_contradiction
+[✓] Development/RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement.pdf — 6 modified_kept, 177 unchanged, 0 ollama_failed, 39 discarded_low_contradiction
+[✓] Development/VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement.pdf — 3 modified_kept, 54 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Distributor/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.pdf — 5 modified_kept, 87 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Distributor/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf — 1 modified_kept, 61 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Distributor/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.pdf — 6 modified_kept, 62 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Distributor/InnerscopeHearingTechnologiesInc_20181109_8-K_EX-10.6_11419704_EX-10.6_Distributor Agreement.pdf — 2 modified_kept, 69 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Distributor/PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.pdf — 2 modified_kept, 19 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement.pdf — 1 modified_kept, 29 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.pdf — 9 modified_kept, 201 unchanged, 0 ollama_failed, 41 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2.pdf — 0 modified_kept, 21 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement.pdf — 0 modified_kept, 17 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Distributor/SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.pdf — 5 modified_kept, 111 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Distributor/StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf — 5 modified_kept, 71 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Distributor/WaterNowInc_20191120_10-Q_EX-10.12_11900227_EX-10.12_Distributor Agreement.pdf — 5 modified_kept, 99 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Distributor/ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement.pdf — 19 modified_kept, 247 unchanged, 0 ollama_failed, 61 discarded_low_contradiction
+[✓] Endorsement/BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement.pdf — 7 modified_kept, 77 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Endorsement/BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement.pdf — 4 modified_kept, 55 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Endorsement/EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement.pdf — 2 modified_kept, 44 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Endorsement/GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement.pdf — 3 modified_kept, 52 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Endorsement/GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.pdf — 0 modified_kept, 8 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Endorsement/LegacyEducationAllianceInc_20141110_8-K_EX-10.9_8828866_EX-10.9_Endorsement Agreement.pdf — 2 modified_kept, 47 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Endorsement/LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf — 1 modified_kept, 22 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Endorsement/NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement.pdf — 6 modified_kept, 95 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Endorsement/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.pdf — 10 modified_kept, 81 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Endorsement/PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf — 3 modified_kept, 65 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Endorsement/PharmagenInc_20120803_8-KA_EX-10.1_7693204_EX-10.1_Endorsement Agreement.pdf — 2 modified_kept, 43 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Endorsement/PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.pdf — 2 modified_kept, 35 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Endorsement/ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.pdf — 0 modified_kept, 26 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Franchise/PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1.pdf — 19 modified_kept, 257 unchanged, 0 ollama_failed, 46 discarded_low_contradiction
+[✓] Franchise/PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3.pdf — 1 modified_kept, 13 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Franchise/RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.pdf — 1 modified_kept, 17 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Franchise/SimplicityEsportsGamingCompany_20181130_8-K_EX-10.1_11444071_EX-10.1_Franchise Agreement.pdf — 3 modified_kept, 53 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf — 14 modified_kept, 233 unchanged, 0 ollama_failed, 41 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf — 1 modified_kept, 13 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement3.pdf — 1 modified_kept, 11 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.pdf — 1 modified_kept, 12 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Hosting/Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement.pdf — 1 modified_kept, 20 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Hosting/PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.pdf — 9 modified_kept, 149 unchanged, 0 ollama_failed, 25 discarded_low_contradiction
+[✓] Hosting/QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf — 11 modified_kept, 259 unchanged, 0 ollama_failed, 53 discarded_low_contradiction
+[✓] Hosting/VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.pdf — 4 modified_kept, 85 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] IP/ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.pdf — 3 modified_kept, 108 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] IP/CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf — 4 modified_kept, 98 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] IP/GarrettMotionInc_20181001_8-K_EX-2.4_11364532_EX-2.4_Intellectual Property Agreement.pdf — 2 modified_kept, 88 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] IP/RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement.pdf — 3 modified_kept, 68 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] License_Agreements/AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf — 4 modified_kept, 56 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] License_Agreements/ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement.pdf — 4 modified_kept, 33 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] License_Agreements/ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf — 5 modified_kept, 83 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] License_Agreements/ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf — 2 modified_kept, 103 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] License_Agreements/CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement.pdf — 7 modified_kept, 248 unchanged, 0 ollama_failed, 43 discarded_low_contradiction
+[✓] License_Agreements/DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement.pdf — 1 modified_kept, 34 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] License_Agreements/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.pdf — 5 modified_kept, 78 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] License_Agreements/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.pdf — 1 modified_kept, 49 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] License_Agreements/GlobalTechnologiesGroupInc_20050928_10KSB_EX-10.9_4148808_EX-10.9_Content License Agreement.pdf — 4 modified_kept, 83 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1.pdf — 11 modified_kept, 150 unchanged, 0 ollama_failed, 46 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement2.pdf — 1 modified_kept, 25 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf — 1 modified_kept, 11 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement4.pdf — 0 modified_kept, 6 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] License_Agreements/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.pdf — 5 modified_kept, 95 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] License_Agreements/GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.6_11951677_EX-10.6_License Agreement.pdf — 2 modified_kept, 57 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] License_Agreements/HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement.pdf — 4 modified_kept, 48 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] License_Agreements/IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement.pdf — 5 modified_kept, 78 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] License_Agreements/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.pdf — 6 modified_kept, 87 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] License_Agreements/LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement1.pdf — 2 modified_kept, 90 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] License_Agreements/LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement2.pdf — 0 modified_kept, 13 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] License_Agreements/MidwestEnergyEmissionsCorp_20080604_8-K_EX-10.2_3093976_EX-10.2_Content License Agreement.pdf — 3 modified_kept, 55 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] License_Agreements/MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.pdf — 0 modified_kept, 41 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] License_Agreements/NmfSlfIInc_20200115_10-12GA_EX-10.5_11946987_EX-10.5_Trademark License Agreement.pdf — 3 modified_kept, 34 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] License_Agreements/PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement.pdf — 2 modified_kept, 22 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] License_Agreements/PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement.pdf — 0 modified_kept, 30 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] License_Agreements/PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement.pdf — 4 modified_kept, 57 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] License_Agreements/PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf — 16 modified_kept, 155 unchanged, 0 ollama_failed, 35 discarded_low_contradiction
+[✓] License_Agreements/PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.pdf — 0 modified_kept, 11 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] License_Agreements/RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf — 3 modified_kept, 126 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] License_Agreements/VirtuosoSurgicalInc_20191227_1-A_EX1A-6 MAT CTRCT_11933379_EX1A-6 MAT CTRCT_License Agreement.pdf — 2 modified_kept, 70 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] License_Agreements/WatchitMediaInc_20061201_8-K_EX-10.1_4148672_EX-10.1_Content License Agreement.pdf — 1 modified_kept, 9 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] License_Agreements/WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement.pdf — 1 modified_kept, 39 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] License_Agreements/XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement.pdf — 1 modified_kept, 37 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Maintenance/AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement.pdf — 20 modified_kept, 313 unchanged, 0 ollama_failed, 67 discarded_low_contradiction
+[✓] Maintenance/AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf — 21 modified_kept, 452 unchanged, 0 ollama_failed, 90 discarded_low_contradiction
+[✓] Maintenance/AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement2.pdf — 0 modified_kept, 42 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Maintenance/BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf — 9 modified_kept, 184 unchanged, 0 ollama_failed, 41 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1.pdf — 17 modified_kept, 265 unchanged, 0 ollama_failed, 57 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement2.pdf — 0 modified_kept, 16 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.pdf — 0 modified_kept, 9 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.pdf — 0 modified_kept, 16 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Maintenance/HerImports_20161018_8-KA_EX-10.14_9765707_EX-10.14_Maintenance Agreement.pdf — 1 modified_kept, 30 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.pdf — 4 modified_kept, 65 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement2.pdf — 1 modified_kept, 6 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3.pdf — 2 modified_kept, 24 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement4.pdf — 0 modified_kept, 7 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Manufacturing/InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement.pdf — 5 modified_kept, 84 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Manufacturing/KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement.pdf — 9 modified_kept, 124 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Manufacturing/NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf — 0 modified_kept, 29 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Manufacturing/UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf — 20 modified_kept, 386 unchanged, 0 ollama_failed, 84 discarded_low_contradiction
+[✓] Marketing/AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement.pdf — 4 modified_kept, 109 unchanged, 0 ollama_failed, 27 discarded_low_contradiction
+[✓] Marketing/CcRealEstateIncomeFundadv_20181205_POS 8C_EX-99.(H)(3)_11447739_EX-99.(H)(3)_Marketing Agreement.pdf — 1 modified_kept, 47 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Marketing/EmmisCommunicationsCorp_20191125_8-K_EX-10.6_11906433_EX-10.6_Marketing Agreement.pdf — 4 modified_kept, 29 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Marketing/TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf — 3 modified_kept, 68 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Marketing/VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement.pdf — 7 modified_kept, 91 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Marketing/XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement.pdf — 3 modified_kept, 91 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Outsourcing/FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.pdf — 13 modified_kept, 110 unchanged, 0 ollama_failed, 25 discarded_low_contradiction
+[✓] Outsourcing/ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.pdf — 0 modified_kept, 53 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Outsourcing/ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement.pdf — 9 modified_kept, 186 unchanged, 0 ollama_failed, 35 discarded_low_contradiction
+[✓] Outsourcing/PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement.pdf — 2 modified_kept, 53 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Promotion/DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.pdf — 15 modified_kept, 239 unchanged, 0 ollama_failed, 56 discarded_low_contradiction
+[✓] Promotion/ExactSciencesCorp_20180822_8-K_EX-10.1_11331629_EX-10.1_Promotion Agreement.pdf — 13 modified_kept, 246 unchanged, 0 ollama_failed, 50 discarded_low_contradiction
+[✓] Promotion/SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement.pdf — 7 modified_kept, 246 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] Promotion/VnueInc_20150914_8-K_EX-10.1_9259571_EX-10.1_Promotion Agreement.pdf — 1 modified_kept, 24 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Reseller/BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.pdf — 0 modified_kept, 50 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Reseller/EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.pdf — 9 modified_kept, 152 unchanged, 0 ollama_failed, 36 discarded_low_contradiction
+[✓] Reseller/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf — 3 modified_kept, 31 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Reseller/IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement.pdf — 7 modified_kept, 146 unchanged, 0 ollama_failed, 39 discarded_low_contradiction
+[✓] Reseller/SalesforcecomInc_20171122_10-Q_EX-10.1_10961535_EX-10.1_Reseller Agreement.pdf — 0 modified_kept, 10 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Service/GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf — 3 modified_kept, 69 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Service/IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.pdf — 1 modified_kept, 30 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Service/ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf — 7 modified_kept, 178 unchanged, 0 ollama_failed, 38 discarded_low_contradiction
+[✓] Service/VerizonAbsLlc_20200123_8-K_EX-10.4_11952335_EX-10.4_Service Agreement.pdf — 30 modified_kept, 536 unchanged, 0 ollama_failed, 109 discarded_low_contradiction
+[✓] Sponsorship/AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.pdf — 3 modified_kept, 75 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Sponsorship/ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.pdf — 1 modified_kept, 28 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Sponsorship/EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement.pdf — 0 modified_kept, 32 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Sponsorship/FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.pdf — 3 modified_kept, 58 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Supply/AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf — 6 modified_kept, 61 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Supply/LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement.pdf — 3 modified_kept, 44 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Supply/ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf — 5 modified_kept, 83 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Supply/WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement.pdf — 6 modified_kept, 137 unchanged, 0 ollama_failed, 30 discarded_low_contradiction
+[✓] Transportation/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.pdf — 8 modified_kept, 98 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Transportation/RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf — 12 modified_kept, 217 unchanged, 0 ollama_failed, 50 discarded_low_contradiction
+[✓] Transportation/TcPipelinesLp_20160226_10-K_EX-99.12_9454048_EX-99.12_Transportation Agreement.pdf — 0 modified_kept, 22 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Transportation/ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement.pdf — 0 modified_kept, 35 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Agency Agreements/OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT1.pdf — 5 modified_kept, 103 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Agency Agreements/OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT2.pdf — 0 modified_kept, 8 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+
+=== FINAL TOTALS (parsed from log) ===
+  total_files = 183
+  total_modified_kept = 906
+  total_modified_discarded = 3522
+  total_ollama_failed = 0
+  total_unchanged = 17303
+======================================
+===========================
+RUN START: 2025-11-21 11:05:22
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+===========================
+RUN START: 2025-11-21 11:08:53
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+===========================
+RUN START: 2025-11-21 11:10:53
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+===========================
+RUN START: 2025-11-21 11:11:57
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+===========================
+RUN START: 2025-11-21 11:12:26
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+===========================
+RUN START: 2025-11-21 11:15:46
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+===========================
+RUN START: 2025-11-21 18:02:25
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+===========================
+RUN START: 2025-11-21 18:03:53
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_large
+  fresh = False
+===========================
+
+[✓] Affiliate_Agreements/CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf — 2 modified_kept, 33 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Affiliate_Agreements/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.pdf — 4 modified_kept, 115 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Affiliate_Agreements/DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.pdf — 7 modified_kept, 195 unchanged, 0 ollama_failed, 34 discarded_low_contradiction
+[✓] Affiliate_Agreements/LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf — 1 modified_kept, 53 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Affiliate_Agreements/SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf — 5 modified_kept, 41 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Affiliate_Agreements/SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.pdf — 0 modified_kept, 31 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Affiliate_Agreements/TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.pdf — 7 modified_kept, 115 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Affiliate_Agreements/UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.pdf — 0 modified_kept, 23 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Affiliate_Agreements/UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2.pdf — 0 modified_kept, 47 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Co_Branding/2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf — 4 modified_kept, 73 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Co_Branding/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.pdf — 0 modified_kept, 48 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Co_Branding/EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.pdf — 5 modified_kept, 77 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Co_Branding/EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf — 3 modified_kept, 100 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Co_Branding/EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf — 7 modified_kept, 72 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Co_Branding/HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement.pdf — 2 modified_kept, 69 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Co_Branding/ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement.pdf — 3 modified_kept, 92 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Co_Branding/IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.pdf — 1 modified_kept, 44 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Co_Branding/InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf — 11 modified_kept, 329 unchanged, 0 ollama_failed, 63 discarded_low_contradiction
+[✓] Co_Branding/LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement.pdf — 8 modified_kept, 104 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Co_Branding/MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.pdf — 0 modified_kept, 27 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Co_Branding/MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.pdf — 11 modified_kept, 152 unchanged, 0 ollama_failed, 34 discarded_low_contradiction
+[✓] Co_Branding/NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement.pdf — 9 modified_kept, 189 unchanged, 0 ollama_failed, 32 discarded_low_contradiction
+[✓] Co_Branding/PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf — 15 modified_kept, 183 unchanged, 0 ollama_failed, 34 discarded_low_contradiction
+[✓] Co_Branding/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.pdf — 2 modified_kept, 45 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Co_Branding/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement2.pdf — 0 modified_kept, 4 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Co_Branding/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement3.pdf — 0 modified_kept, 8 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Co_Branding/RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement.pdf — 8 modified_kept, 90 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Co_Branding/RandWorldwideInc_20010402_8-KA_EX-10.2_2102464_EX-10.2_Co-Branding Agreement.pdf — 6 modified_kept, 90 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Co_Branding/StampscomInc_20001114_10-Q_EX-10.47_2631630_EX-10.47_Co-Branding Agreement.pdf — 4 modified_kept, 144 unchanged, 0 ollama_failed, 30 discarded_low_contradiction
+[✓] Co_Branding/TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf — 4 modified_kept, 94 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Co_Branding/TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.pdf — 7 modified_kept, 140 unchanged, 0 ollama_failed, 39 discarded_low_contradiction
+[✓] Development/AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf — 10 modified_kept, 253 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] Development/ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement.pdf — 1 modified_kept, 20 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Development/ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf — 3 modified_kept, 116 unchanged, 0 ollama_failed, 30 discarded_low_contradiction
+[✓] Development/CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement.pdf — 1 modified_kept, 35 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Development/CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf — 11 modified_kept, 218 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] Development/ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.pdf — 10 modified_kept, 123 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Development/ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement.pdf — 4 modified_kept, 110 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Development/EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf — 1 modified_kept, 42 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Development/EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf — 12 modified_kept, 106 unchanged, 0 ollama_failed, 25 discarded_low_contradiction
+[✓] Development/FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.pdf — 8 modified_kept, 214 unchanged, 0 ollama_failed, 34 discarded_low_contradiction
+[✓] Development/HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_Option Agreement.pdf — 27 modified_kept, 364 unchanged, 0 ollama_failed, 65 discarded_low_contradiction
+[✓] Development/HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement.pdf — 2 modified_kept, 37 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Development/IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement.pdf — 3 modified_kept, 61 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Development/LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.pdf — 4 modified_kept, 99 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Development/LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.pdf — 7 modified_kept, 126 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Development/NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement.pdf — 11 modified_kept, 127 unchanged, 0 ollama_failed, 31 discarded_low_contradiction
+[✓] Development/PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement1.pdf — 3 modified_kept, 35 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Development/PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.pdf — 3 modified_kept, 45 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Development/PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.pdf — 17 modified_kept, 480 unchanged, 0 ollama_failed, 97 discarded_low_contradiction
+[✓] Development/ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.pdf — 3 modified_kept, 43 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Development/RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.pdf — 21 modified_kept, 403 unchanged, 0 ollama_failed, 77 discarded_low_contradiction
+[✓] Development/RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement.pdf — 10 modified_kept, 177 unchanged, 0 ollama_failed, 35 discarded_low_contradiction
+[✓] Development/VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement.pdf — 1 modified_kept, 54 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Development/BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1).pdf — 2 modified_kept, 65 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Development/BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT - First Amendment.pdf — 0 modified_kept, 15 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Development/Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT.PDF — 22 modified_kept, 392 unchanged, 0 ollama_failed, 69 discarded_low_contradiction
+[✓] Development/Microgenics Corporation - Collaborative Development and Commercialization Agreement.PDF — 14 modified_kept, 372 unchanged, 0 ollama_failed, 85 discarded_low_contradiction
+[✓] Development/TRUENORTHENERGYCORP_02_08_2007-EX-10.1-DEVELOPMENT AGREEMENT.PDF — 12 modified_kept, 74 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Development/WARNERCHILCOTTPLC_12_31_2003-EX-4.36-DEVELOPMENT AGREEMENT.PDF — 3 modified_kept, 55 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Distributor/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.pdf — 4 modified_kept, 82 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Distributor/GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf — 3 modified_kept, 56 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Distributor/ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.pdf — 3 modified_kept, 64 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Distributor/InnerscopeHearingTechnologiesInc_20181109_8-K_EX-10.6_11419704_EX-10.6_Distributor Agreement.pdf — 3 modified_kept, 64 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Distributor/PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.pdf — 0 modified_kept, 23 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement.pdf — 1 modified_kept, 28 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.pdf — 11 modified_kept, 195 unchanged, 0 ollama_failed, 45 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2.pdf — 0 modified_kept, 19 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Distributor/ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement.pdf — 0 modified_kept, 18 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Distributor/SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.pdf — 5 modified_kept, 107 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Distributor/StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf — 5 modified_kept, 73 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Distributor/WaterNowInc_20191120_10-Q_EX-10.12_11900227_EX-10.12_Distributor Agreement.pdf — 5 modified_kept, 105 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Distributor/ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement.pdf — 21 modified_kept, 259 unchanged, 0 ollama_failed, 47 discarded_low_contradiction
+[✓] Distributor/NETGEAR,INC_04_21_2003-EX-10.16- AMENDMENT #2 TO THE DISTRIBUTION AGREEMENT.pdf — 0 modified_kept, 15 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Distributor/NETGEAR,INC_04_21_2003-EX-10.16-AMENDMENT TO THE DISTRIBUTOR AGREEMENT BETWEEN INGRAM MICRO AND NETGEAR-.pdf — 1 modified_kept, 19 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Distributor/NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.pdf — 5 modified_kept, 75 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Distributor/NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.pdf — 2 modified_kept, 35 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Distributor/NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New.pdf — 4 modified_kept, 93 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Distributor/ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT.PDF — 12 modified_kept, 189 unchanged, 0 ollama_failed, 30 discarded_low_contradiction
+[✓] Distributor/AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement.PDF — 6 modified_kept, 122 unchanged, 0 ollama_failed, 31 discarded_low_contradiction
+[✓] Distributor/BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT.PDF — 0 modified_kept, 26 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Distributor/ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT.PDF — 4 modified_kept, 78 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Distributor/ETELOS,INC_03_09_2004-EX-10.8-DISTRIBUTOR AGREEMENT.PDF — 2 modified_kept, 69 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Distributor/EUROPEANMICROHOLDINGSINC_03_06_1998-EX-10.6-DISTRIBUTOR AGREEMENT.PDF — 4 modified_kept, 103 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Distributor/HYPERIONSOFTWARECORP_09_28_1994-EX-10.47-EXCLUSIVE DISTRIBUTOR AGREEMENT.PDF — 3 modified_kept, 95 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Distributor/LEGACYTECHNOLOGYHOLDINGS,INC_12_09_2005-EX-10.2-DISTRIBUTOR AGREEMENT.PDF — 2 modified_kept, 28 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Distributor/LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT.PDF — 2 modified_kept, 80 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Distributor/LUCIDINC_04_15_2011-EX-10.9-DISTRIBUTOR AGREEMENT.PDF — 4 modified_kept, 44 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Distributor/NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.PDF — 5 modified_kept, 88 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Distributor/NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF — 5 modified_kept, 54 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Distributor/OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF — 1 modified_kept, 28 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Distributor/VISIUMTECHNOLOGIES,INC_10_20_2004-EX-10.20-DISTRIBUTOR AGREEMENT.PDF — 2 modified_kept, 88 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Endorsement/BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement.pdf — 4 modified_kept, 85 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Endorsement/BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement.pdf — 3 modified_kept, 61 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Endorsement/EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement.pdf — 1 modified_kept, 47 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Endorsement/GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement.pdf — 1 modified_kept, 55 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Endorsement/GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.pdf — 0 modified_kept, 9 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Endorsement/LegacyEducationAllianceInc_20141110_8-K_EX-10.9_8828866_EX-10.9_Endorsement Agreement.pdf — 3 modified_kept, 43 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Endorsement/LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf — 0 modified_kept, 25 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Endorsement/NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement.pdf — 1 modified_kept, 101 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Endorsement/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.pdf — 6 modified_kept, 85 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Endorsement/PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf — 7 modified_kept, 62 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Endorsement/PharmagenInc_20120803_8-KA_EX-10.1_7693204_EX-10.1_Endorsement Agreement.pdf — 6 modified_kept, 39 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Endorsement/PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.pdf — 3 modified_kept, 36 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Endorsement/ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.pdf — 0 modified_kept, 15 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Endorsement/WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.pdf — 0 modified_kept, 13 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Endorsement/WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.PDF — 5 modified_kept, 58 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Franchise/PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1.pdf — 16 modified_kept, 253 unchanged, 0 ollama_failed, 53 discarded_low_contradiction
+[✓] Franchise/PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3.pdf — 1 modified_kept, 17 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Franchise/RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.pdf — 1 modified_kept, 18 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Franchise/SimplicityEsportsGamingCompany_20181130_8-K_EX-10.1_11444071_EX-10.1_Franchise Agreement.pdf — 2 modified_kept, 48 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf — 8 modified_kept, 230 unchanged, 0 ollama_failed, 50 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf — 1 modified_kept, 14 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement3.pdf — 0 modified_kept, 9 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Franchise/SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.pdf — 0 modified_kept, 12 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Franchise/BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT.PDF — 6 modified_kept, 241 unchanged, 0 ollama_failed, 54 discarded_low_contradiction
+[✓] Franchise/MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT.PDF — 19 modified_kept, 383 unchanged, 0 ollama_failed, 80 discarded_low_contradiction
+[✓] Franchise/AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT.PDF — 9 modified_kept, 171 unchanged, 0 ollama_failed, 37 discarded_low_contradiction
+[✓] Franchise/GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement.PDF — 34 modified_kept, 627 unchanged, 0 ollama_failed, 125 discarded_low_contradiction
+[✓] Franchise/HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.PDF — 10 modified_kept, 249 unchanged, 0 ollama_failed, 51 discarded_low_contradiction
+[✓] Franchise/INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT.PDF — 12 modified_kept, 172 unchanged, 0 ollama_failed, 39 discarded_low_contradiction
+[✓] Franchise/JOINTCORP_09_19_2014-EX-10.15-FRANCHISE AGREEMENT.PDF — 7 modified_kept, 263 unchanged, 0 ollama_failed, 69 discarded_low_contradiction
+[✓] Hosting/Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement.pdf — 2 modified_kept, 20 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Hosting/PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.pdf — 1 modified_kept, 149 unchanged, 0 ollama_failed, 33 discarded_low_contradiction
+[✓] Hosting/QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf — 16 modified_kept, 257 unchanged, 0 ollama_failed, 50 discarded_low_contradiction
+[✓] Hosting/VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.pdf — 6 modified_kept, 73 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Hosting/HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf — 12 modified_kept, 303 unchanged, 0 ollama_failed, 80 discarded_low_contradiction
+[✓] Hosting/HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT - Escrow Agreement.pdf — 1 modified_kept, 78 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Hosting/BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.PDF — 0 modified_kept, 9 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Hosting/CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT.PDF — 1 modified_kept, 29 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Hosting/DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT.PDF — 0 modified_kept, 52 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Hosting/REGANHOLDINGCORP_03_31_2008-EX-10-LICENSE AND HOSTING AGREEMENT.PDF — 5 modified_kept, 88 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Hosting/WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.PDF — 3 modified_kept, 26 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Hosting/AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT.PDF — 5 modified_kept, 48 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Hosting/BEYONDCOMCORP_08_03_2000-EX-10.2-CO-HOSTING AGREEMENT.PDF — 4 modified_kept, 92 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Hosting/BLUEFLYINC_03_27_2002-EX-10.27-e-business Hosting Agreement.PDF — 3 modified_kept, 94 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Hosting/BNCMORTGAGEINC_05_17_1999-EX-10.4-LICENSING AND WEB SITE HOSTING AGREEMENT.PDF — 5 modified_kept, 64 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Hosting/BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT.PDF — 2 modified_kept, 24 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Hosting/CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT.PDF — 17 modified_kept, 221 unchanged, 0 ollama_failed, 49 discarded_low_contradiction
+[✓] Hosting/CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF — 7 modified_kept, 117 unchanged, 0 ollama_failed, 29 discarded_low_contradiction
+[✓] Hosting/GALACTICOMMTECHNOLOGIESINC_11_07_1997-EX-10.46-WEB HOSTING AGREEMENT.PDF — 0 modified_kept, 6 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Hosting/INKTOMICORP_06_08_1998-EX-10.14-SOFTWARE HOSTING AGREEMENT.PDF — 2 modified_kept, 135 unchanged, 0 ollama_failed, 29 discarded_low_contradiction
+[✓] IP/ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.pdf — 7 modified_kept, 106 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] IP/CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf — 1 modified_kept, 105 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] IP/GarrettMotionInc_20181001_8-K_EX-2.4_11364532_EX-2.4_Intellectual Property Agreement.pdf — 4 modified_kept, 92 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] IP/RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement.pdf — 0 modified_kept, 64 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] IP/BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC..PDF — 9 modified_kept, 127 unchanged, 0 ollama_failed, 38 discarded_low_contradiction
+[✓] IP/INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT.PDF — 6 modified_kept, 70 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] IP/KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT.PDF — 0 modified_kept, 17 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] IP/PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.PDF — 1 modified_kept, 56 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] IP/ARMSTRONGFLOORING,INC_01_07_2019-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.PDF — 11 modified_kept, 137 unchanged, 0 ollama_failed, 27 discarded_low_contradiction
+[✓] IP/FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF — 12 modified_kept, 255 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] IP/GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC..PDF — 2 modified_kept, 74 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] IP/HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT.PDF — 2 modified_kept, 50 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] IP/JINGWEIINTERNATIONALLTD_10_04_2007-EX-10.7-INTELLECTUAL PROPERTY AGREEMENT.PDF — 2 modified_kept, 37 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] IP/MSCIINC_02_28_2008-EX-10.10-.PDF — 1 modified_kept, 40 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] IP/OTISWORLDWIDECORP_04_03_2020-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT by and among UNITED TECHNOLOGIES CORPORATION, OTIS WORLDWIDE CORPORATION and CARRIER ~1.PDF — 8 modified_kept, 87 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] IP/VERSOTECHNOLOGIESINC_12_28_2007-EX-99.3-INTELLECTUAL PROPERTY AGREEMENT.PDF — 0 modified_kept, 16 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] IP/ZEBRATECHNOLOGIESCORP_04_16_2014-EX-10.1-INTELLECTUAL PROPERTY AGREEMENT.PDF — 16 modified_kept, 168 unchanged, 0 ollama_failed, 30 discarded_low_contradiction
+[✓] Joint Venture/ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT.PDF — 0 modified_kept, 27 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Joint Venture/BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.PDF — 4 modified_kept, 70 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Joint Venture/GALERATHERAPEUTICS,INC_02_14_2020-EX-99.A-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 11 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Joint Venture/IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT.PDF — 4 modified_kept, 130 unchanged, 0 ollama_failed, 38 discarded_low_contradiction
+[✓] Joint Venture/KIROMICBIOPHARMA,INC_04_08_2020-EX-10.28-JOINT VENTURE AGREEMENT.PDF — 2 modified_kept, 84 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Joint Venture/NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT.PDF — 4 modified_kept, 75 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Joint Venture/TRANSPHORM,INC_02_14_2020-EX-10.12(1)-JOINT VENTURE AGREEMENT.PDF — 9 modified_kept, 168 unchanged, 0 ollama_failed, 43 discarded_low_contradiction
+[✓] Joint Venture/VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT.PDF — 6 modified_kept, 141 unchanged, 0 ollama_failed, 35 discarded_low_contradiction
+[✓] Joint Venture/VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT.PDF — 1 modified_kept, 14 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] License_Agreements/AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf — 1 modified_kept, 61 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] License_Agreements/ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement.pdf — 1 modified_kept, 34 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] License_Agreements/ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf — 2 modified_kept, 90 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] License_Agreements/ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf — 2 modified_kept, 99 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] License_Agreements/CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement.pdf — 9 modified_kept, 249 unchanged, 0 ollama_failed, 40 discarded_low_contradiction
+[✓] License_Agreements/DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement.pdf — 1 modified_kept, 32 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] License_Agreements/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.pdf — 1 modified_kept, 83 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] License_Agreements/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.pdf — 2 modified_kept, 48 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] License_Agreements/GlobalTechnologiesGroupInc_20050928_10KSB_EX-10.9_4148808_EX-10.9_Content License Agreement.pdf — 12 modified_kept, 70 unchanged, 0 ollama_failed, 26 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1.pdf — 3 modified_kept, 171 unchanged, 0 ollama_failed, 33 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement2.pdf — 2 modified_kept, 23 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf — 0 modified_kept, 10 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] License_Agreements/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement4.pdf — 1 modified_kept, 6 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] License_Agreements/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.pdf — 8 modified_kept, 94 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] License_Agreements/GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.6_11951677_EX-10.6_License Agreement.pdf — 7 modified_kept, 56 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] License_Agreements/HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement.pdf — 3 modified_kept, 45 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] License_Agreements/IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement.pdf — 5 modified_kept, 76 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] License_Agreements/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.pdf — 5 modified_kept, 88 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] License_Agreements/LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement1.pdf — 7 modified_kept, 86 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] License_Agreements/LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement2.pdf — 2 modified_kept, 8 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] License_Agreements/MidwestEnergyEmissionsCorp_20080604_8-K_EX-10.2_3093976_EX-10.2_Content License Agreement.pdf — 1 modified_kept, 56 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] License_Agreements/MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.pdf — 0 modified_kept, 38 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] License_Agreements/NmfSlfIInc_20200115_10-12GA_EX-10.5_11946987_EX-10.5_Trademark License Agreement.pdf — 1 modified_kept, 31 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] License_Agreements/PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement.pdf — 0 modified_kept, 26 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] License_Agreements/PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement.pdf — 0 modified_kept, 33 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] License_Agreements/PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement.pdf — 3 modified_kept, 56 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] License_Agreements/PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf — 8 modified_kept, 165 unchanged, 0 ollama_failed, 33 discarded_low_contradiction
+[✓] License_Agreements/PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.pdf — 2 modified_kept, 11 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] License_Agreements/RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf — 5 modified_kept, 109 unchanged, 0 ollama_failed, 33 discarded_low_contradiction
+[✓] License_Agreements/VirtuosoSurgicalInc_20191227_1-A_EX1A-6 MAT CTRCT_11933379_EX1A-6 MAT CTRCT_License Agreement.pdf — 2 modified_kept, 76 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] License_Agreements/WatchitMediaInc_20061201_8-K_EX-10.1_4148672_EX-10.1_Content License Agreement.pdf — 0 modified_kept, 11 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] License_Agreements/WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement.pdf — 2 modified_kept, 33 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] License_Agreements/XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement.pdf — 3 modified_kept, 37 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Maintenance/AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement.pdf — 18 modified_kept, 316 unchanged, 0 ollama_failed, 66 discarded_low_contradiction
+[✓] Maintenance/AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf — 21 modified_kept, 467 unchanged, 0 ollama_failed, 75 discarded_low_contradiction
+[✓] Maintenance/AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement2.pdf — 4 modified_kept, 41 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Maintenance/BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf — 8 modified_kept, 178 unchanged, 0 ollama_failed, 48 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1.pdf — 9 modified_kept, 294 unchanged, 0 ollama_failed, 36 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement2.pdf — 0 modified_kept, 21 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.pdf — 0 modified_kept, 8 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Maintenance/CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.pdf — 0 modified_kept, 16 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Maintenance/HerImports_20161018_8-KA_EX-10.14_9765707_EX-10.14_Maintenance Agreement.pdf — 2 modified_kept, 32 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Maintenance/IMAGEWARESYSTEMSINC_12_20_1999-EX-10.22-MAINTENANCE AGREEMENT.PDF — 4 modified_kept, 37 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Maintenance/NETZEEINC_11_14_2002-EX-10.3-MAINTENANCE AGREEMENT.PDF — 0 modified_kept, 8 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Maintenance/WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST_05_11_2006-EX-10.3-Yield Maintenance Agreement.PDF — 2 modified_kept, 77 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Maintenance/XACCT Technologies, Inc.SUPPORT AND MAINTENANCE AGREEMENT.PDF — 3 modified_kept, 24 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Maintenance/ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.PDF — 7 modified_kept, 185 unchanged, 0 ollama_failed, 35 discarded_low_contradiction
+[✓] Maintenance/PRIMEENERGYRESOURCESCORP_04_02_2007-EX-10.28-COMPLETION AND LIQUIDITY MAINTENANCE AGREEMENT.PDF — 0 modified_kept, 13 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Maintenance/SANDRIDGEENERGYINC_08_06_2009-EX-10.6-OPERATIONS AND MAINTENANCE AGREEMENT.PDF — 6 modified_kept, 183 unchanged, 0 ollama_failed, 29 discarded_low_contradiction
+[✓] Maintenance/SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT.PDF — 0 modified_kept, 18 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Maintenance/SEPARATEACCOUNTIIOFAGL_05_02_2011-EX-99.(J)(4)-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT.PDF — 0 modified_kept, 24 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Maintenance/SFGFINANCIALCORP_05_12_2009-EX-10.1-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF — 4 modified_kept, 94 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Maintenance/SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.PDF — 3 modified_kept, 82 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Maintenance/SMITHELECTRICVEHICLESCORP_04_04_2012-EX-10.26-FLEET MAINTENANCE AGREEMENT.PDF — 11 modified_kept, 245 unchanged, 0 ollama_failed, 59 discarded_low_contradiction
+[✓] Maintenance/SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF — 3 modified_kept, 60 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Maintenance/SPIENERGYCO,LTD_03_09_2011-EX-99.5-OPERATIONS AND MAINTENANCE AGREEMENT.PDF — 3 modified_kept, 93 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Maintenance/STARTECGLOBALCOMMUNICATIONSCORP_11_16_1998-EX-10.30-CONSTRUCTION AND MAINTENANCE AGREEMENT.PDF — 4 modified_kept, 178 unchanged, 0 ollama_failed, 41 discarded_low_contradiction
+[✓] Maintenance/SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF — 12 modified_kept, 266 unchanged, 0 ollama_failed, 59 discarded_low_contradiction
+[✓] Maintenance/SUNTRONCORP_05_17_2006-EX-10.22-MAINTENANCE AGREEMENT.PDF — 0 modified_kept, 38 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Maintenance/TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.PDF — 13 modified_kept, 196 unchanged, 0 ollama_failed, 36 discarded_low_contradiction
+[✓] Maintenance/TELKOMSALTD_01_30_2003-EX-10-LICENCE AND MAINTENANCE AGREEMENT.PDF — 9 modified_kept, 196 unchanged, 0 ollama_failed, 43 discarded_low_contradiction
+[✓] Maintenance/TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT.PDF — 2 modified_kept, 42 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Maintenance/UAGHINC_04_14_2004-EX-10.18-MAINTENANCE AGREEMENT.PDF — 1 modified_kept, 42 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Maintenance/VARIABLESEPARATEACCOUNT_04_30_2014-EX-13.C-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT.PDF — 0 modified_kept, 23 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Maintenance/VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT.PDF — 4 modified_kept, 103 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Maintenance/VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.PDF — 2 modified_kept, 122 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Maintenance/ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT.PDF — 1 modified_kept, 19 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.pdf — 5 modified_kept, 69 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement2.pdf — 0 modified_kept, 7 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3.pdf — 0 modified_kept, 26 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement4.pdf — 0 modified_kept, 3 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Manufacturing/InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement.pdf — 3 modified_kept, 87 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Manufacturing/KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement.pdf — 5 modified_kept, 128 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Manufacturing/NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf — 2 modified_kept, 26 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Manufacturing/UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf — 18 modified_kept, 396 unchanged, 0 ollama_failed, 76 discarded_low_contradiction
+[✓] Manufacturing/ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF — 0 modified_kept, 28 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Manufacturing/Antares Pharma, Inc. - Manufacturing Agreement.PDF — 7 modified_kept, 133 unchanged, 0 ollama_failed, 28 discarded_low_contradiction
+[✓] Manufacturing/Apollo Endosurgery - Manufacturing and Supply Agreement.PDF — 4 modified_kept, 139 unchanged, 0 ollama_failed, 32 discarded_low_contradiction
+[✓] Manufacturing/Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT.PDF — 0 modified_kept, 29 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Manufacturing/Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.PDF — 8 modified_kept, 62 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Manufacturing/ELECTRAMECCANICA VEHICLES CORP. - Manufacturing Agreement .PDF — 6 modified_kept, 109 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Manufacturing/Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement.PDF — 3 modified_kept, 114 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Manufacturing/Sonos, Inc. - Manufacturing Agreement .PDF — 9 modified_kept, 238 unchanged, 0 ollama_failed, 52 discarded_low_contradiction
+[✓] Manufacturing/VAPOTHERM, INC. - Manufacturing and Supply Agreement.PDF — 8 modified_kept, 157 unchanged, 0 ollama_failed, 26 discarded_low_contradiction
+[✓] Marketing/AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement.pdf — 2 modified_kept, 124 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Marketing/CcRealEstateIncomeFundadv_20181205_POS 8C_EX-99.(H)(3)_11447739_EX-99.(H)(3)_Marketing Agreement.pdf — 1 modified_kept, 53 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Marketing/EmmisCommunicationsCorp_20191125_8-K_EX-10.6_11906433_EX-10.6_Marketing Agreement.pdf — 0 modified_kept, 36 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Marketing/TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf — 2 modified_kept, 76 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Marketing/VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement.pdf — 9 modified_kept, 81 unchanged, 0 ollama_failed, 26 discarded_low_contradiction
+[✓] Marketing/XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement.pdf — 2 modified_kept, 82 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Marketing/GWG HOLDINGS, INC. - ORDERLY MARKETING AGREEMENT.PDF — 0 modified_kept, 40 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Marketing/LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF — 0 modified_kept, 41 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Marketing/Loop Industries, Inc. - Marketing Agreement.PDF — 4 modified_kept, 98 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Marketing/MetLife, Inc. - Remarketing Agreement.PDF — 2 modified_kept, 97 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Marketing/Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT .PDF — 23 modified_kept, 309 unchanged, 0 ollama_failed, 73 discarded_low_contradiction
+[✓] Marketing/NUVEEN - REMARKETING AGREEMENT.PDF — 4 modified_kept, 133 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Marketing/PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT .PDF — 19 modified_kept, 320 unchanged, 0 ollama_failed, 65 discarded_low_contradiction
+[✓] Marketing/Principal Life Insurance Company - Broker Dealer Marketing and Servicing Agreement .PDF — 4 modified_kept, 35 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Marketing/Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT.PDF — 4 modified_kept, 116 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Marketing/SightLife Surgical, Inc. - STRATEGIC SALES _ MARKETING AGREEMENT.PDF — 2 modified_kept, 51 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Marketing/Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT.PDF — 2 modified_kept, 68 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Non_Compete_Non_Solicit/Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF — 0 modified_kept, 36 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Non_Compete_Non_Solicit/VIVINT SOLAR, INC. - NON-COMPETITION AGREEMENT.PDF — 1 modified_kept, 14 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Non_Compete_Non_Solicit/WESTERN COPPER - NON-COMPETITION AGREEMENT.PDF — 1 modified_kept, 22 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Outsourcing/FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.pdf — 7 modified_kept, 119 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Outsourcing/ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.pdf — 1 modified_kept, 50 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Outsourcing/ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement.pdf — 9 modified_kept, 180 unchanged, 0 ollama_failed, 41 discarded_low_contradiction
+[✓] Outsourcing/PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement.pdf — 1 modified_kept, 61 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Outsourcing/ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT.PDF — 4 modified_kept, 120 unchanged, 0 ollama_failed, 33 discarded_low_contradiction
+[✓] Outsourcing/BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF — 2 modified_kept, 70 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Outsourcing/CCAINDUSTRIESINC_04_14_2014-EX-10.1-OUTSOURCING AGREEMENT.PDF — 1 modified_kept, 65 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Outsourcing/SYKESHEALTHPLANSERVICESINC_04_24_1998-EX-10.14-OUTSOURCING AGREEMENT.PDF — 3 modified_kept, 25 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Outsourcing/TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT.PDF — 11 modified_kept, 190 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] Outsourcing/DRAGONSYSTEMSINC_01_08_1999-EX-10.17-OUTSOURCING AGREEMENT.PDF — 0 modified_kept, 26 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Outsourcing/ELANDIAINTERNATIONALINC_04_25_2007-EX-10.21-Outsourcing Agreement.PDF — 3 modified_kept, 186 unchanged, 0 ollama_failed, 48 discarded_low_contradiction
+[✓] Outsourcing/HUBEIMINKANGPHARMACEUTICALLTD_09_19_2006-EX-10.1-OUTSOURCING AGREEMENT.PDF — 1 modified_kept, 30 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Outsourcing/MANUFACTURERSSERVICESLTD_06_05_2000-EX-10.14-OUTSOURCING AGREEMENT.PDF — 35 modified_kept, 659 unchanged, 0 ollama_failed, 108 discarded_low_contradiction
+[✓] Outsourcing/NEXSTARFINANCEHOLDINGSINC_03_27_2002-EX-10.26-OUTSOURCING AGREEMENT.PDF — 8 modified_kept, 161 unchanged, 0 ollama_failed, 41 discarded_low_contradiction
+[✓] Outsourcing/NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF — 5 modified_kept, 233 unchanged, 0 ollama_failed, 29 discarded_low_contradiction
+[✓] Outsourcing/OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF — 4 modified_kept, 101 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Outsourcing/OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF — 20 modified_kept, 305 unchanged, 0 ollama_failed, 50 discarded_low_contradiction
+[✓] Outsourcing/UNITEDNATIONALBANCORP_03_03_1999-EX-99-Outsourcing Agreement with the BISYS Group, Inc..PDF — 0 modified_kept, 4 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Promotion/DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.pdf — 10 modified_kept, 260 unchanged, 0 ollama_failed, 40 discarded_low_contradiction
+[✓] Promotion/ExactSciencesCorp_20180822_8-K_EX-10.1_11331629_EX-10.1_Promotion Agreement.pdf — 8 modified_kept, 264 unchanged, 0 ollama_failed, 37 discarded_low_contradiction
+[✓] Promotion/SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement.pdf — 5 modified_kept, 239 unchanged, 0 ollama_failed, 53 discarded_low_contradiction
+[✓] Promotion/VnueInc_20150914_8-K_EX-10.1_9259571_EX-10.1_Promotion Agreement.pdf — 0 modified_kept, 20 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Promotion/ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC..PDF — 3 modified_kept, 50 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Promotion/GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement.PDF — 4 modified_kept, 33 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Promotion/IMMUNOMEDICSINC_08_07_2019-EX-10.1-PROMOTION AGREEMENT.PDF — 18 modified_kept, 309 unchanged, 0 ollama_failed, 77 discarded_low_contradiction
+[✓] Promotion/MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF — 5 modified_kept, 128 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Promotion/ON4COMMUNICATIONSINC_07_02_2009-EX-10.1-PROMOTION AGREEMENT.PDF — 3 modified_kept, 43 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Promotion/WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT.PDF — 6 modified_kept, 147 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Promotion/CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT.PDF — 0 modified_kept, 49 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Promotion/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF — 13 modified_kept, 326 unchanged, 0 ollama_failed, 56 discarded_low_contradiction
+[✓] Reseller/BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.pdf — 4 modified_kept, 48 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Reseller/EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.pdf — 1 modified_kept, 150 unchanged, 0 ollama_failed, 46 discarded_low_contradiction
+[✓] Reseller/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf — 0 modified_kept, 33 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Reseller/IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement.pdf — 4 modified_kept, 161 unchanged, 0 ollama_failed, 27 discarded_low_contradiction
+[✓] Reseller/SalesforcecomInc_20171122_10-Q_EX-10.1_10961535_EX-10.1_Reseller Agreement.pdf — 0 modified_kept, 11 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Reseller/ASIANDRAGONGROUPINC_08_11_2005-EX-10.5-Reseller Agreement.PDF — 3 modified_kept, 98 unchanged, 0 ollama_failed, 27 discarded_low_contradiction
+[✓] Reseller/LOYALTYPOINTINC_11_16_2004-EX-10.2-RESELLER AGREEMENT.PDF — 10 modified_kept, 168 unchanged, 0 ollama_failed, 36 discarded_low_contradiction
+[✓] Reseller/MTITECHNOLOGYCORP_11_16_2004-EX-10.102-Reseller Agreement Premier Addendum.PDF — 3 modified_kept, 74 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Reseller/OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF — 2 modified_kept, 60 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Reseller/ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT.PDF — 0 modified_kept, 43 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Reseller/DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT.PDF — 4 modified_kept, 156 unchanged, 0 ollama_failed, 33 discarded_low_contradiction
+[✓] Reseller/WORLDWIDESTRATEGIESINC_11_02_2005-EX-10-RESELLER AGREEMENT.PDF — 8 modified_kept, 139 unchanged, 0 ollama_failed, 25 discarded_low_contradiction
+[✓] Service/GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf — 4 modified_kept, 81 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Service/IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.pdf — 3 modified_kept, 25 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Service/ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf — 10 modified_kept, 171 unchanged, 0 ollama_failed, 42 discarded_low_contradiction
+[✓] Service/VerizonAbsLlc_20200123_8-K_EX-10.4_11952335_EX-10.4_Service Agreement.pdf — 41 modified_kept, 521 unchanged, 0 ollama_failed, 113 discarded_low_contradiction
+[✓] Service/FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.pdf — 0 modified_kept, 24 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Service/FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_AMENDMENT.pdf — 0 modified_kept, 7 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Service/FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf — 1 modified_kept, 9 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Service/FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_SECONDAMENDMENT.pdf — 0 modified_kept, 9 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Service/KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part1.pdf — 1 modified_kept, 30 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Service/KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf — 1 modified_kept, 16 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Service/AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT.PDF — 2 modified_kept, 56 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Service/BLACKSTONEGSOLONG-SHORTCREDITINCOMEFUND_05_11_2020-EX-99.(K)(1)-SERVICE AGREEMENT.PDF — 2 modified_kept, 68 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Service/CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.PDF — 2 modified_kept, 92 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Service/PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement.PDF — 0 modified_kept, 45 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Service/ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT.PDF — 1 modified_kept, 57 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Service/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.PDF — 3 modified_kept, 107 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Service/MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT.PDF — 1 modified_kept, 39 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Service/NYLIACVARIABLEANNUITYSEPARATEACCOUNTIII_04_10_2020-EX-99.8.KK-SERVICE AGREEMENT.PDF — 0 modified_kept, 15 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Service/OAKTREECAPITALGROUP,LLC_03_02_2020-EX-10.8-Services Agreement.PDF — 4 modified_kept, 49 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Service/OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT.PDF — 2 modified_kept, 48 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Service/PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT.PDF — 0 modified_kept, 13 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Service/RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT.PDF — 4 modified_kept, 32 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Service/SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT.PDF — 0 modified_kept, 18 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Service/SOLUTIONSVENDINGINTERNATIONAL,INC_03_31_2020-EX1A-1 UNDR AGMT-SERVICES AGREEMENT.PDF — 2 modified_kept, 10 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Service/TALCOTTRESOLUTIONLIFEINSURANCECO-SEPARATEACCOUNTTWELVE_04_30_2020-EX-99.8(L)-SERVICE AGREEMENT.PDF — 0 modified_kept, 51 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Service/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF — 2 modified_kept, 62 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Service/TRANSMONTAIGNEPARTNERSLLC_03_13_2020-EX-10.9-SERVICES AGREEMENT.PDF — 0 modified_kept, 17 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Service/WPPPLC_04_30_2020-EX-4.28-SERVICE AGREEMENT.PDF — 8 modified_kept, 124 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Sponsorship/AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.pdf — 9 modified_kept, 65 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Sponsorship/ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.pdf — 0 modified_kept, 30 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Sponsorship/EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement.pdf — 0 modified_kept, 29 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Sponsorship/FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.pdf — 1 modified_kept, 65 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Sponsorship/CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.PDF — 1 modified_kept, 22 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Sponsorship/GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT.PDF — 3 modified_kept, 34 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Sponsorship/HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT.PDF — 1 modified_kept, 52 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Sponsorship/STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF — 6 modified_kept, 78 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Sponsorship/VIOLINMEMORYINC_12_12_2012-EX-10.14-SPONSORSHIP AGREEMENT.PDF — 12 modified_kept, 165 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Sponsorship/XYBERNAUTCORP_07_12_2002-EX-4-SPONSORSHIP AGREEMENT.PDF — 4 modified_kept, 67 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Sponsorship/CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT.PDF — 1 modified_kept, 32 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Sponsorship/DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT.PDF — 0 modified_kept, 14 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Sponsorship/DRKOOPCOMINC_04_21_1999-EX-10.28-SPONSORSHIP AGREEMENT.PDF — 2 modified_kept, 72 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Sponsorship/GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.PDF — 9 modified_kept, 80 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Sponsorship/HYDRONTECHNOLOGIESINC_03_31_1997-EX-10.47-SPONSORSHIP AGREEMENT.PDF — 2 modified_kept, 39 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Sponsorship/IPAYMENT,INC_05_14_2007-EX-10.1-SPONSORSHIP AGREEMENT.PDF — 10 modified_kept, 189 unchanged, 0 ollama_failed, 36 discarded_low_contradiction
+[✓] Sponsorship/IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF — 3 modified_kept, 41 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Sponsorship/LOGANSROADHOUSEINC_03_27_1998-EX-10.17-SPONSORSHIP AGREEMENT.PDF — 1 modified_kept, 35 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Sponsorship/LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT.PDF — 2 modified_kept, 31 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Sponsorship/MERCATAINC_03_09_2000-EX-10.21-SPONSORSHIP AGREEMENT.PDF — 3 modified_kept, 52 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Sponsorship/N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT.PDF — 7 modified_kept, 77 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Sponsorship/NATIONALPROCESSINGINC_07_18_1996-EX-10.4-SPONSORSHIP AGREEMENT.PDF — 2 modified_kept, 44 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Sponsorship/NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF — 7 modified_kept, 69 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Sponsorship/PACIFICSYSTEMSCONTROLTECHNOLOGYINC_08_24_2000-EX-10.53-SPONSORSHIP AGREEMENT.PDF — 1 modified_kept, 10 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Sponsorship/PROLONGINTERNATIONALCORP_03_23_1998-EX-10.16-SPONSORSHIP AGREEMENT.PDF — 2 modified_kept, 33 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Sponsorship/RUBIOSRESTAURANTSINC_03_31_2008-EX-10.75-SPONSORSHIP AGREEMENT.PDF — 3 modified_kept, 63 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Sponsorship/SONUSCORP_03_12_1997-EX-10.11-SPONSORSHIP AGREEMENT.PDF — 2 modified_kept, 56 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Sponsorship/TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT.PDF — 0 modified_kept, 11 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Sponsorship/VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.PDF — 6 modified_kept, 131 unchanged, 0 ollama_failed, 27 discarded_low_contradiction
+[✓] Sponsorship/VNUE,INC_07_10_2015-EX-10.1-SPONSORSHIP AGREEMENT.PDF — 1 modified_kept, 46 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Sponsorship/XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.PDF — 2 modified_kept, 41 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Strategic Alliance/CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement.PDF — 0 modified_kept, 27 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Strategic Alliance/ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT.PDF — 3 modified_kept, 165 unchanged, 0 ollama_failed, 30 discarded_low_contradiction
+[✓] Strategic Alliance/MOELIS_CO_03_24_2014-EX-10.19-STRATEGIC ALLIANCE AGREEMENT.PDF — 13 modified_kept, 195 unchanged, 0 ollama_failed, 45 discarded_low_contradiction
+[✓] Strategic Alliance/PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun).PDF — 5 modified_kept, 38 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Strategic Alliance/SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement.PDF — 1 modified_kept, 29 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Strategic Alliance/ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.PDF — 8 modified_kept, 134 unchanged, 0 ollama_failed, 33 discarded_low_contradiction
+[✓] Strategic Alliance/AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT.PDF — 7 modified_kept, 76 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Strategic Alliance/CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement.PDF — 4 modified_kept, 63 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Strategic Alliance/COOLTECHNOLOGIES,INC_10_25_2017-EX-10.71-Strategic Alliance Agreement.PDF — 1 modified_kept, 36 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Strategic Alliance/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF — 4 modified_kept, 87 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Strategic Alliance/ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF — 5 modified_kept, 75 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Strategic Alliance/FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF — 1 modified_kept, 71 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Strategic Alliance/GIGGLESN_HUGS,INC_06_23_2016-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF — 1 modified_kept, 50 unchanged, 0 ollama_failed, 21 discarded_low_contradiction
+[✓] Strategic Alliance/GOLDRESOURCECORP_12_11_2008-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF — 1 modified_kept, 65 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Strategic Alliance/ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF — 3 modified_kept, 57 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Strategic Alliance/INTELLIGENTHIGHWAYSOLUTIONS,INC_01_18_2018-EX-10.1-Strategic Alliance Agreement.PDF — 1 modified_kept, 28 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Strategic Alliance/INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement.PDF — 10 modified_kept, 160 unchanged, 0 ollama_failed, 40 discarded_low_contradiction
+[✓] Strategic Alliance/IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF — 2 modified_kept, 102 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Strategic Alliance/KALLOINC_11_03_2011-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF — 13 modified_kept, 189 unchanged, 0 ollama_failed, 35 discarded_low_contradiction
+[✓] Strategic Alliance/LIGHTBRIDGECORP_11_23_2015-EX-10.26-STRATEGIC ALLIANCE AGREEMENT.PDF — 1 modified_kept, 42 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Strategic Alliance/MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT.PDF — 2 modified_kept, 45 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Strategic Alliance/ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.PDF — 1 modified_kept, 60 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Strategic Alliance/PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF — 14 modified_kept, 220 unchanged, 0 ollama_failed, 59 discarded_low_contradiction
+[✓] Strategic Alliance/PHREESIA,INC_05_28_2019-EX-10.18-STRATEGIC ALLIANCE AGREEMENT.PDF — 11 modified_kept, 233 unchanged, 0 ollama_failed, 45 discarded_low_contradiction
+[✓] Strategic Alliance/REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF — 3 modified_kept, 37 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Strategic Alliance/ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF — 8 modified_kept, 153 unchanged, 0 ollama_failed, 29 discarded_low_contradiction
+[✓] Strategic Alliance/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF — 4 modified_kept, 117 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Strategic Alliance/TURNKEYCAPITAL,INC_07_20_2017-EX-1.1-Strategic Alliance Agreement.PDF — 0 modified_kept, 30 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Strategic Alliance/USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT.PDF — 8 modified_kept, 124 unchanged, 0 ollama_failed, 25 discarded_low_contradiction
+[✓] Strategic Alliance/VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF — 2 modified_kept, 83 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Strategic Alliance/WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF — 4 modified_kept, 124 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Strategic Alliance/XLITECHNOLOGIES,INC_12_02_2015-EX-10.02-STRATEGIC ALLIANCE AGREEMENT.PDF — 0 modified_kept, 13 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Supply/AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf — 5 modified_kept, 62 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Supply/LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement.pdf — 3 modified_kept, 47 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Supply/ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf — 5 modified_kept, 83 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Supply/WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement.pdf — 3 modified_kept, 147 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Supply/BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement.PDF — 11 modified_kept, 220 unchanged, 0 ollama_failed, 52 discarded_low_contradiction
+[✓] Supply/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.PDF — 4 modified_kept, 48 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Supply/GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.PDF — 1 modified_kept, 15 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Supply/MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT.PDF — 4 modified_kept, 112 unchanged, 0 ollama_failed, 29 discarded_low_contradiction
+[✓] Supply/PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT.PDF — 4 modified_kept, 127 unchanged, 0 ollama_failed, 28 discarded_low_contradiction
+[✓] Supply/SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF — 11 modified_kept, 139 unchanged, 0 ollama_failed, 30 discarded_low_contradiction
+[✓] Supply/BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT.PDF — 4 modified_kept, 75 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Supply/BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.PDF — 8 modified_kept, 155 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Supply/FUSIONPHARMACEUTICALSINC_06_05_2020-EX-10.17-Supply Agreement - FUSION.PDF — 4 modified_kept, 83 unchanged, 0 ollama_failed, 17 discarded_low_contradiction
+[✓] Supply/HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement.PDF — 5 modified_kept, 168 unchanged, 0 ollama_failed, 39 discarded_low_contradiction
+[✓] Supply/INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT.PDF — 6 modified_kept, 70 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Supply/ULTRAGENYXPHARMACEUTICALINC_12_23_2013-EX-10.9-SUPPLY AGREEMENT.PDF — 1 modified_kept, 39 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Supply/VAXCYTE,INC_05_22_2020-EX-10.19-SUPPLY AGREEMENT.PDF — 2 modified_kept, 123 unchanged, 0 ollama_failed, 29 discarded_low_contradiction
+[✓] Supply/VERICELCORP_08_06_2019-EX-10.10-SUPPLY AGREEMENT.PDF — 9 modified_kept, 151 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] Transportation/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.pdf — 3 modified_kept, 102 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Transportation/RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf — 6 modified_kept, 229 unchanged, 0 ollama_failed, 44 discarded_low_contradiction
+[✓] Transportation/TcPipelinesLp_20160226_10-K_EX-99.12_9454048_EX-99.12_Transportation Agreement.pdf — 0 modified_kept, 18 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Transportation/ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement.pdf — 0 modified_kept, 31 unchanged, 0 ollama_failed, 7 discarded_low_contradiction
+[✓] Transportation/ATMOSENERGYCORP_11_22_2002-EX-10.17-TRANSPORTATION SERVICE AGREEMENT.PDF — 1 modified_kept, 49 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Transportation/CHAPARRALRESOURCESINC_03_30_2000-EX-10.66-TRANSPORTATION CONTRACT.PDF — 6 modified_kept, 63 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Transportation/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.PDF — 7 modified_kept, 95 unchanged, 0 ollama_failed, 24 discarded_low_contradiction
+[✓] Transportation/GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.PDF — 35 modified_kept, 605 unchanged, 0 ollama_failed, 142 discarded_low_contradiction
+[✓] Transportation/KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT.PDF — 2 modified_kept, 34 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Transportation/MPLXLP_06_17_2015-EX-10.1-TRANSPORTATION SERVICES AGREEMENT.PDF — 5 modified_kept, 98 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Transportation/ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF — 6 modified_kept, 106 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Transportation/ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT.PDF — 12 modified_kept, 174 unchanged, 0 ollama_failed, 40 discarded_low_contradiction
+[✓] Transportation/MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT.PDF — 1 modified_kept, 29 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Agency Agreements/OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT1.pdf — 3 modified_kept, 104 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Agency Agreements/OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT2.pdf — 0 modified_kept, 4 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Agency Agreements/ATHENSBANCSHARESCORP_11_02_2009-EX-1.2-AGENCY AGREEMENT , 2009.PDF — 7 modified_kept, 142 unchanged, 0 ollama_failed, 32 discarded_low_contradiction
+[✓] Agency Agreements/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.PDF — 6 modified_kept, 174 unchanged, 0 ollama_failed, 36 discarded_low_contradiction
+[✓] Agency Agreements/AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT.PDF — 4 modified_kept, 114 unchanged, 0 ollama_failed, 26 discarded_low_contradiction
+[✓] Agency Agreements/ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT.PDF — 9 modified_kept, 118 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Agency Agreements/ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.PDF — 1 modified_kept, 20 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Agency Agreements/ALLIANCEBANCORPINCOFPENNSYLVANIA_10_18_2006-EX-1.2-AGENCY AGREEMENT.PDF — 4 modified_kept, 158 unchanged, 0 ollama_failed, 23 discarded_low_contradiction
+[✓] Agency Agreements/AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT.PDF — 3 modified_kept, 66 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Agency Agreements/BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.PDF — 4 modified_kept, 66 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Agency Agreements/BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT.PDF — 3 modified_kept, 62 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Agency Agreements/BLUEHILLSBANCORP,INC_05_20_2014-EX-1.1-AGENCY AGREEMENT.PDF — 2 modified_kept, 146 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+[✓] Agency Agreements/BLUEROCKRESIDENTIALGROWTHREIT,INC_06_01_2016-EX-1.1-AGENCY AGREEMENT.PDF — 7 modified_kept, 162 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Collaboration/ALLISONTRANSMISSIONHOLDINGSINC_12_15_2014-EX-99.1-COOPERATION AGREEMENT.PDF — 0 modified_kept, 55 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Collaboration/BERKELEYLIGHTS,INC_06_26_2020-EX-10.12-COLLABORATION AGREEMENT.PDF — 17 modified_kept, 287 unchanged, 0 ollama_failed, 61 discarded_low_contradiction
+[✓] Collaboration/CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.PDF — 4 modified_kept, 62 unchanged, 0 ollama_failed, 11 discarded_low_contradiction
+[✓] Collaboration/IDREAMSKYTECHNOLOGYLTD_07_03_2014-EX-10.39-Cooperation Agreement on Mobile Game Business.PDF — 7 modified_kept, 169 unchanged, 0 ollama_failed, 38 discarded_low_contradiction
+[✓] Collaboration/INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT.PDF — 21 modified_kept, 299 unchanged, 0 ollama_failed, 52 discarded_low_contradiction
+[✓] Collaboration/MACROGENICSINC_08_02_2013-EX-10-COLLABORATION AGREEMENT.PDF — 26 modified_kept, 339 unchanged, 0 ollama_failed, 67 discarded_low_contradiction
+[✓] Collaboration/SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement.PDF — 5 modified_kept, 126 unchanged, 0 ollama_failed, 28 discarded_low_contradiction
+[✓] Collaboration/TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT.PDF — 4 modified_kept, 43 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Collaboration/XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3).PDF — 7 modified_kept, 209 unchanged, 0 ollama_failed, 38 discarded_low_contradiction
+[✓] Collaboration/ANIXABIOSCIENCESINC_06_09_2020-EX-10.1-COLLABORATION AGREEMENT.PDF — 4 modified_kept, 63 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Collaboration/BIOCEPTINC_08_19_2013-EX-10-COLLABORATION AGREEMENT.PDF — 6 modified_kept, 103 unchanged, 0 ollama_failed, 32 discarded_low_contradiction
+[✓] Collaboration/CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF — 1 modified_kept, 95 unchanged, 0 ollama_failed, 25 discarded_low_contradiction
+[✓] Collaboration/CERES,INC_01_25_2012-EX-10.20-Collaboration Agreement.PDF — 21 modified_kept, 652 unchanged, 0 ollama_failed, 129 discarded_low_contradiction
+[✓] Collaboration/CHEETAHMOBILEINC_04_22_2014-EX-10.43-Cooperation Agreement.PDF — 6 modified_kept, 141 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Collaboration/ELFBEAUTY,INC_07_02_2020-EX-10.1-COOPERATION AGREEMENT.PDF — 3 modified_kept, 49 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Collaboration/FIBROGENINC_10_01_2014-EX-10.11-COLLABORATION AGREEMENT.PDF — 12 modified_kept, 225 unchanged, 0 ollama_failed, 53 discarded_low_contradiction
+[✓] Collaboration/FOUNDATIONMEDICINE,INC_02_02_2015-EX-10.2-Collaboration Agreement.PDF — 22 modified_kept, 297 unchanged, 0 ollama_failed, 62 discarded_low_contradiction
+[✓] Collaboration/HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT.PDF — 1 modified_kept, 67 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Collaboration/HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.PDF — 2 modified_kept, 49 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Collaboration/LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF — 4 modified_kept, 109 unchanged, 0 ollama_failed, 31 discarded_low_contradiction
+[✓] Collaboration/MEETGROUP,INC_06_29_2017-EX-10.1-COOPERATION AGREEMENT.PDF — 1 modified_kept, 68 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Collaboration/QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF — 3 modified_kept, 64 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Collaboration/SPIENERGYCO,LTD_07_10_2014-EX-10-Cooperation Agreement of 50MWp Photovoltaic Grid-connected Power Generation Project in Yangqiao of~1.PDF — 1 modified_kept, 7 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Collaboration/SPOKHOLDINGS,INC_06_19_2020-EX-10.1-COOPERATION AGREEMENT.PDF — 0 modified_kept, 36 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Collaboration/STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF — 1 modified_kept, 59 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Collaboration/URSCORPNEW_03_17_2014-EX-99-COOPERATION AGREEMENT.PDF — 3 modified_kept, 49 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Consulting Agreements/ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT(1).PDF — 1 modified_kept, 17 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Consulting Agreements/ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT.PDF — 0 modified_kept, 16 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Consulting Agreements/CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF — 3 modified_kept, 51 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Consulting Agreements/DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT.PDF — 3 modified_kept, 52 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+[✓] Consulting Agreements/EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC..PDF — 5 modified_kept, 52 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Consulting Agreements/GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.PDF — 2 modified_kept, 44 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Consulting Agreements/KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT.PDF — 0 modified_kept, 29 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Consulting Agreements/MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT.PDF — 3 modified_kept, 46 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Consulting Agreements/PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT.PDF — 2 modified_kept, 47 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Consulting Agreements/SLINGERBAGINC_05_27_2020-EX-10.7-CONSULTING AGREEMENT.PDF — 5 modified_kept, 89 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Consulting Agreements/SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT.PDF — 3 modified_kept, 26 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Affiliate Agreement/GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.PDF — 2 modified_kept, 33 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Endorsement Agreement/ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.PDF — 1 modified_kept, 62 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Endorsement Agreement/AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.PDF — 7 modified_kept, 62 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] Endorsement Agreement/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.PDF — 2 modified_kept, 27 unchanged, 0 ollama_failed, 8 discarded_low_contradiction
+[✓] Endorsement Agreement/MARSHALLHOLDINGSINTERNATIONAL,INC_04_14_2004-EX-10.15-ENDORSEMENT AGREEMENT.PDF — 1 modified_kept, 30 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Endorsement Agreement/MOSSIMOINC_04_14_2000-EX-10.14-ENDORSEMENT AGREEMENT.PDF — 3 modified_kept, 42 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Endorsement Agreement/MOVADOGROUPINC_04_30_2003-EX-10.28-ENDORSEMENT AGREEMENT.PDF — 1 modified_kept, 22 unchanged, 0 ollama_failed, 5 discarded_low_contradiction
+[✓] Endorsement Agreement/SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT.PDF — 2 modified_kept, 25 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Endorsement Agreement/TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF — 5 modified_kept, 54 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Endorsement Agreement/WARNINGMANAGEMENTSERVICESINC_12_10_1999-EX-10-ENDORSEMENT AGREEMENT.PDF — 1 modified_kept, 48 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Joint Venture _ Filing/ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 5 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Joint Venture _ Filing/BLACKROCKMUNIHOLDINGSINVESTMENTQUALITYFUND_04_07_2020-EX-99.01-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 3 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Joint Venture _ Filing/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.PDF — 2 modified_kept, 142 unchanged, 0 ollama_failed, 31 discarded_low_contradiction
+[✓] Joint Venture _ Filing/MACY_S,INC_05_11_2020-EX-99.4-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 4 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Joint Venture _ Filing/MFAFINANCIAL,INC_07_06_2020-EX-99.D-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 13 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Joint Venture _ Filing/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.PDF — 1 modified_kept, 78 unchanged, 0 ollama_failed, 18 discarded_low_contradiction
+[✓] Joint Venture _ Filing/NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 1 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+[✓] Joint Venture _ Filing/ONEMAINHOLDINGS,INC_02_20_2020-EX-99.D-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 14 unchanged, 0 ollama_failed, 1 discarded_low_contradiction
+[✓] Joint Venture _ Filing/PRECIGEN,INC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.PDF — 1 modified_kept, 0 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Joint Venture _ Filing/QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 14 unchanged, 0 ollama_failed, 4 discarded_low_contradiction
+[✓] Joint Venture _ Filing/RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 2 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Joint Venture _ Filing/SPRINGBANKPHARMACEUTICALS,INC_04_08_2020-EX-99.A-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 4 unchanged, 0 ollama_failed, 0 discarded_low_contradiction
+[✓] Joint Venture _ Filing/TALLGRASSENERGY,LP_02_20_2020-EX-99.26-JOINT FILING AGREEMENT.PDF — 0 modified_kept, 11 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] Joint Venture _ Filing/VIRGINGALACTICHOLDINGS,INC_04_08_2020-EX-99.1-JOINT FILING STATEMENT.PDF — 0 modified_kept, 1 unchanged, 0 ollama_failed, 2 discarded_low_contradiction
+
+=== FINAL TOTALS (parsed from log) ===
+  total_files = 510
+  total_modified_kept = 3212
+  total_modified_discarded = 13327
+  total_ollama_failed = 0
+  total_unchanged = 65607
+======================================

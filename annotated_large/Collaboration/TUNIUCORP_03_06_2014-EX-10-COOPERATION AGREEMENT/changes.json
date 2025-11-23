@@ -1,0 +1,98 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 179,
+    "end_char": 623,
+    "original": "(1)Nanjing Tuniu Technology Co., Ltd., with its registered address at 3-5/F Building No.6, Southeast University Science Park, 6 Changjianghou Street, Xuanwu District, Nanjing and its legal representative being Yu Dunde (\u201c Party A\u201d)\u037e (2)Beijing Tuniu Technology Co., Ltd., with its registered address at R1006 10/F Building No.4, Yard No.1 of Shangdishi Street, Haidian District, Beijing and its legal representative being Yu Dunde (\u201c Party B\u201d).",
+    "modified": "(1)Party A, Nanjing Tuniu Technology Co., Ltd., located at 3-5/F Building No.6, Southeast University Science Park, 6 Changjianghou Street, Xuanwu District, Nanjing and represented by Yu Dunde (\"A\"), acknowledges and accepts that any actions or omissions on its part may be subject to review and potential liability should they result in adverse consequences under this agreement.\n\n(2)Party B, Beijing Tuniu Technology Co., Ltd., residing at R1006 10/F Building No.4, Yard No.1 of Shangdishi Street, Haidian District, Beijing and also represented by Yu Dunde (\"B\"), shall not be held accountable for any actions or inactions taken by A under this agreement unless expressly stipulated otherwise. In the event that B suffers any losses due to A's actions, A will have no obligation to compensate B unless such compensation is explicitly required within the terms of this agreement.",
+    "contradiction_score": 0.6765892505645752,
+    "kept": true
+  },
+  {
+    "clause_index": 3,
+    "start_char": 871,
+    "end_char": 1271,
+    "original": "2.Party B is a limited liability company incorporated under the laws of the People\u2019s Republic of China, mainly engaged in research and development of computer software technology, technology transfer, technical consultancy and technical services, computer technology training, technical services and business consultancy services in relation to the internet-based sale and promotion of tour products.",
+    "ollama_generated": "2. Party B, incorporated under the laws of the People's Republic of China as a limited liability company, primarily focuses on activities including research and development of computer software technology, technology transfer, technical consultancy, and services, computer technology training, internet-based business consultancy services, and the provision of services related to the sale and promotion of tour products. However, it is important to note that Party B bears no explicit responsibility for the performance or outcomes of these activities, unless explicitly agreed upon in writing within this agreement.",
+    "contradiction_score": 0.0017584114102646708,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3536,
+    "end_char": 3973,
+    "original": "2.3Party A irrevocably undertakes that, without Party B\u2019s consent, Party A shall not conduct any other business or make any commercial arrangement, including without limitation being engaged in or otherwise participating in any commercial activities and businesses independently or together with any other person or entity, nor shall it carry out any activities that may be competitive with or cause adverse effect to Party B\u2019s business.",
+    "modified": "2.3 Party A acknowledges the discretion granted by Party B for potential involvement in alternative ventures. As such, Party A is not precluded from pursuing independent business opportunities or commercial arrangements; however, any actions undertaken must receive prior written consent from Party B. Activities that potentially conflict with or pose a risk of detriment to Party B's current operations may still require modification or suspension for the preservation of mutual interests. This understanding is not intended to restrict Party A from engaging in activities that are complementary to, but do not directly compete with, the business pursuits of Party B.",
+    "contradiction_score": 0.8258196115493774,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4681,
+    "end_char": 4928,
+    "original": "Party A agrees that Party B may, at its own discretion, provide the aforementioned Party B\u2019s Services to Party A and its subsidiaries, or purchase the required services from any third party and provide the services to Party A and its subsidiaries.",
+    "ollama_generated": "Party A grants Party B the discretionary authority to elect either: (i) supplying the stipulated services to Party A and its subsidiaries directly, or (ii) procuring the necessary services from a third party and then delivering these services to Party A and its affiliated entities. In all instances, Party A assumes responsibility for any costs associated with the acquisition of these services from a third party.",
+    "contradiction_score": 0.0053201294504106045,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4928,
+    "end_char": 5164,
+    "original": "Party A shall cause its subsidiaries to accept Party B\u2019s Services. The Parties agree that the subsidiaries of Party A may otherwise enter into an agreement with Party B in respect of Party B\u2019s Services in accordance with this Agreement.",
+    "ollama_generated": "Party B is granted the option, but not obligated, for its services to be accepted by the subsidiaries of Party A. The Parties mutually understand that the subsidiaries of Party A retain the discretion to independently negotiate and enter into an agreement with Party B, subject to the terms of this Agreement, should they choose to do so. In all other cases, the subsidiaries of Party A shall not be bound by any such agreement in relation to Party B\u2019s services unless explicitly specified otherwise within this Agreement.",
+    "contradiction_score": 0.2512519955635071,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 6254,
+    "end_char": 6459,
+    "original": "Such Service Fee shall be paid to the bank account designated by Party B in writing. If Party B intends to change its bank account, it shall send a written notice to Party A seven business days in advance.",
+    "modified": "The Service Fee is due to be remitted to an account nominated in writing by Party A. Any amendments to this designated account require a seven-business day prior written notice from Party B. In the event that Party B fails to provide such notice, Party A's obligation to make payments will continue to be fulfilled under the original bank account details.",
+    "contradiction_score": 0.5974774360656738,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 7268,
+    "end_char": 7740,
+    "original": "6.1.1 Party B shall have the right to terminate this Agreement in advance without the prior written consent from Party A, by sending a written notice to Party A but Party A may not terminate or rescind this Agreement\u037e 6.1.2 One Party requests to terminate this Agreement when the other Party is declared bankrupt in accordance with the laws\u037e 6.1.3 Party B fails to provide Party B\u2019s Services to Party A for more than three consecutive years due to the force majeure event.",
+    "ollama_generated": "6.1.1 This Agreement may be terminated at the sole discretion of Party A, without requiring prior written consent from Party B, upon providing a written notice to Party B. Conversely, Party B shall have no right to terminate or rescind this Agreement, except in the event specified in Section 6.1.2 below.\n\n6.1.2 Should either Party request termination of this Agreement, it will only be effective if the other Party has been declared bankrupt in accordance with the applicable laws.\n\n6.1.3 If a force majeure event prevents Party A from receiving Party B's Services for more than three consecutive years, Party A shall have the right to terminate this Agreement without further obligation to Party B.",
+    "contradiction_score": 0.19584433734416962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 8644,
+    "end_char": 8829,
+    "original": "6.3Each Party hereby irrevocably waives other rights to terminate this Agreement it may have under any applicable laws, except for the rights of the Parties agreed under this Article 6.",
+    "ollama_generated": "6.3Each Party acknowledges and agrees that, beyond the termination rights explicitly outlined in this Article 6, they shall not have the right to unilaterally terminate this Agreement under any legal provisions, with the exception of the agreed termination rights between the Parties as detailed herein.",
+    "contradiction_score": 0.0010824972996488214,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 12774,
+    "end_char": 12956,
+    "original": "11.Dispute Resolution 11.1Any dispute arising out of performance of this Agreement or in connection with this Agreement shall be resolved by the Parties through friendly negotiation.",
+    "modified": "11. Dispute Resolution\n11.1 In the event that a dispute arises concerning the execution or interpretation of this Agreement, the Parties shall first endeavor to resolve the matter informally and amicably, but if such attempts fail, either Party may initiate formal legal proceedings without prior notice.\n\nThis revised clause weakens the obligation for friendly negotiation by giving each party the option to directly proceed with formal legal proceedings if informal negotiations do not result in a resolution.",
+    "contradiction_score": 0.8374583125114441,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 16472,
+    "end_char": 16640,
+    "original": "Address: Tuiniu Building, 699-32Xuanwu Avenue, Xuanwu District, Nanjing Fax No.: (86 25) 86853999 Attention: General Manager Party B: Beijing Tuniu Technology Co., Ltd.",
+    "ollama_generated": "Location of Primary Contact: Tuiniu Building, 699-32 Xuanwu Avenue, Xuanwu District, Nanjing. Secondary Communication Method (Optional): (86 25) 86853999, Attn: General Manager. Legal Entity Represented: Beijing Tuniu Technology Co., Ltd., who shall be deemed the Receiving Party for all correspondence and notifications, though Party A retains the option to communicate via alternative means should the circumstances necessitate.\n\nThe above clause rephrases the original one by making it clear that while the fax number is provided as a secondary method of communication, the primary point of contact will still be at the specified location, and that the Receiving Party for all official matters is Beijing Tuniu Technology Co., Ltd. However, Party A reserves the right to communicate via alternative means if circumstances necessitate.",
+    "contradiction_score": 0.020114056766033173,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

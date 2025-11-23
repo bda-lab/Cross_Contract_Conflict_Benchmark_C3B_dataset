@@ -1,0 +1,71 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 2632,
+    "end_char": 2824,
+    "original": "1.1 Defined Terms Unless otherwise defined in this Agreement and Schedule 1 hereof, terms defined in the China JV Operating Agreement shall have the same meanings when used in this Agreement .",
+    "modified": "1.1 Interpretation of Terms: For all terms not explicitly defined within this Agreement or Schedule 1 attached, the definitions provided in the China JV Operating Agreement shall serve as a guide, but may be interpreted differently and will not necessarily hold the same meaning as used in this Agreement.\n\nExplanation: The original clause establishes that any term not defined in the current agreement or its attached schedule should hold the same meaning as it does in the China JV Operating Agreement. The revised clause suggests that while the definitions from the China JV Operating Agreement can be used as a guide, they may be interpreted differently within this agreement, thus weakening the obligation for terms to have the same meaning across agreements.",
+    "contradiction_score": 0.9290285706520081,
+    "kept": true
+  },
+  {
+    "clause_index": 7,
+    "start_char": 3094,
+    "end_char": 3803,
+    "original": "PURCHASE ORDERS 2.1 Outsource and Issuance of Purchase Orders Subject to the terms and conditions mentioned hereunder, the Parties agree to the outsource model based on [***]as follows, and the Parties also agree that they may add additional Products to this Agreement through additional Purchase Orders [***] For the avoidance of doubt, the outsource model is purely made based on the [***] Moreover, it is acknowledged by the Parties that[***] Therefore, subject to the prior notification to, and the instruction and the express approval of the customers, the Steering Committee could reasonably decide or change the outsource model at its own discretion in accordance with the China JV Operating Agreement.",
+    "ollama_generated": "PURCHASE ORDERS\n\n2.1 Power to Modify Outsource Model: In accordance with the terms and conditions outlined below, the Parties consent to the implementation of the outsource model as mutually agreed upon, with the stipulation that either Party may modify this model by adding supplementary Products via subsequent Purchase Orders [***]. For clarity, the outsource model is adaptable in nature, not fixed.\n\nTo eliminate any ambiguity, this flexibility in the outsource model is contingent on the following: [***] It should be noted that while both Parties acknowledge [***], they have the joint responsibility to ensure that any changes to the outsource model are communicated clearly and comply with the China JV Operating Agreement.\n\nHowever, the Steering Committee's ability to alter or amend the outsource model at its discretion is subject to the following conditions: (1) prior notification to both Parties; (2) explicit instructions from the customers regarding any proposed changes; and (3) express approval of these changes by both Parties. The Steering Committee retains the right to make such decisions, provided they are reasonable in light of the China JV Operating Agreement.",
+    "contradiction_score": 0.023826386779546738,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 5412,
+    "end_char": 6033,
+    "original": "Failure of the Suppliers to accept or reject a [***]within [***]hours shall constitute acceptance of such [***]. The lead time for the Products will be as set forth in the applicable [***]. Each [***]shall include the following:  (a) the Company\u2019s [***]number\u037e (b) identification of the quantity and type of the Product ordered by the Company\u037e (c) the price of each Product ordered per Schedule 2 attached hereto\u037e (d) the requested delivery date (subject to the applicable Product Lead Time)\u037e (e) any shipping instructions, including preferred carrier and shipping destination\u037e and (f) the specifications for the Product.",
+    "ollama_generated": "Refusal by the Suppliers to respond or make a decision regarding the submitted [***] within [***] hours will be considered as rejection of such [***]. The delivery timeline for the Products will be as specified in the relevant [***]. Each [***] should contain the following details: (a) the Company\u2019s contact information, (b) specification of the quantity and type of the Product requested by the Company, (c) the price per Product as outlined in Schedule 2 attached, (d) the proposed delivery date (taking into account the applicable Product Lead Time), (e) any shipping instructions, including preferred carrier and delivery location, and (f) the required specifications for the Product.\n\nThis revised clause places the onus on the Suppliers to respond or reject a submission, and if they fail to do so within the specified timeframe, it will be considered as rejection of the request. Additionally, the supplier's contact information is now explicitly stated in point (a), while the proposed delivery date is subject to Product Lead Time.",
+    "contradiction_score": 0.01048392802476883,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 13818,
+    "end_char": 14866,
+    "original": "LIMITED WARRANTIES 6.1 Suppliers Limited Warranty Each of the Suppliers warrants that the Products shall comply with the specifications and documentation agreed by the relevant Supplier and the Company in writing that is applicable to such Products for the Warranty Period. This warranty does not apply to any Product failures resulting from misuse, storage in or exposure to environmental conditions inconsistent with those specified in the applicable specifications or documentation, modification of the Product by anyone other than the relevant Supplier. If a Product fails to comply with the foregoing warranty, the relevant Supplier shall, at its option, either [***]such Product, or, in the event the foregoing options are not commercially practicable, [***]to the Company any amounts paid for the applicable Product. Without limiting the remedies specified in Article 8  and Section 9.2, this Section 6.1 states the exclusive remedy of the Company for failure of a Product to conform to the warranty provisions set forth in this Section 6.1.",
+    "ollama_generated": "LIMITED WARRANTIES 6.1 Warranty Limitations of Suppliers Each of the Suppliers warrants that the Products shall conform to the specifications and documentation agreed upon in writing between the relevant Supplier and the Company, applicable for the duration of the Warranty Period. This warranty does not extend to any Product malfunctions arising from deliberate misuse, storing or exposing the Product in environmental conditions deviating from those outlined in the specified specifications or documentation, or alterations made to the Product by a party other than the relevant Supplier. Should a Product fail to meet the warranty's requirements, the onus lies with the Company to demonstrate such failure. The relevant Supplier shall not be obligated to replace or refund the Product, but may instead choose to offer reasonable adjustments or compensations at their discretion, without obligation to do so. This Section 6.1 constitutes the entire liability of the Suppliers for any defects in the Products that may arise during the Warranty Period. The remedies outlined in Articles 8 and Section 9.2 remain available, but this section does not exclude other potential legal recourses.",
+    "contradiction_score": 0.12622621655464172,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 21766,
+    "end_char": 21782,
+    "original": "PHOTRONICS, INC.",
+    "ollama_generated": "PHOTRONICS, INC. (the \"Company\") shall have the discretionary right to terminate this Agreement, effective immediately, upon written notice to Client, if the Client fails to fulfill any material obligation or covenant under this Agreement within thirty (30) days of written notice from the Company requesting such compliance.\n\nRevised clause:\nThe Client shall be given an opportunity to cure any default under this Agreement within thirty (30) days of receiving a written notice from PHOTRONICS, INC. (the \"Company\") regarding such default. If the Client fails to timely and materially remedy the default, the Company may terminate this Agreement, effective immediately, without further notice to the Client.",
+    "contradiction_score": 0.13604016602039337,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 24029,
+    "end_char": 24038,
+    "original": "7. [***].",
+    "ollama_generated": "7. In the event that the [Party A] is unable to fulfill its obligations under this Agreement due to unforeseen circumstances beyond its control, [Party B] shall not hold [Party A] liable and shall make reasonable efforts to accommodate any delay or failure in performance by [Party A].",
+    "contradiction_score": 0.04368903487920761,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 24050,
+    "end_char": 24059,
+    "original": "9. [***].",
+    "ollama_generated": "9. The Obligor shall have the discretion to elect not to perform the designated action, subject to prior written notice to the Obligee and at the sole risk and expense of the Obligor. Any failure by the Obligor to provide such notice shall be deemed as an implicit approval for the Obligee to proceed without further notification or consultation.",
+    "contradiction_score": 0.20422953367233276,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

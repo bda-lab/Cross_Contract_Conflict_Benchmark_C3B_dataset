@@ -1,0 +1,348 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 160,
+    "end_char": 168,
+    "original": "Address:",
+    "ollama_generated": "Addressing Information:\n\nUpon receipt of any correspondence from either party, the receiving party shall not be obligated to respond immediately, but within a reasonable timeframe, taking into account the nature and complexity of the matter at hand. The sending party acknowledges that delays may occur in the response due to various factors, including but not limited to, staff availability, workload, and holidays. In the event that the response is delayed beyond this reasonable timeframe, the non-responding party shall be deemed to have acknowledged receipt of the correspondence and will not be entitled to claim ignorance or unawareness of its contents.",
+    "contradiction_score": 0.04784082621335983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 363,
+    "end_char": 371,
+    "original": "Address:",
+    "ollama_generated": "Address Obligations:\n\nIn the event that either Party fails to provide a valid address within five (5) Business Days of receiving this Agreement, the non-defaulting Party shall have the right to terminate this agreement without liability and with immediate effect. The defaulting Party will be solely responsible for any losses or damages incurred as a result of such failure.",
+    "contradiction_score": 0.42824047803878784,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 456,
+    "end_char": 560,
+    "original": "Telephone:  010-58951000 Fax:  010-58951005 Party C: Beijing Yisheng Leju Information Services Co., Ltd.",
+    "ollama_generated": "Communication Channel: Mobile: [Your preferred mobile number] / Office Line: 010-58951000 Fax: 010-58951005\n\nParty C: (Responsibility Shifted) Entity: John's Tech Solutions, acting as the representative of Beijing Yisheng Leju Information Services Co., Ltd. for all matters related to this agreement.\n\nThis minor adjustment shifts the responsibility of handling the agreement onto an individual named \"John\" from the company, Beijing Yisheng Leju Information Services Co., Ltd. The communication channels remain the same, but the party designation has been changed to reflect the new point of contact.",
+    "contradiction_score": 0.13128052651882172,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 616,
+    "end_char": 710,
+    "original": "Address: 8/F, Ideal International Plaza, 58 Beisihuan Xilu, Haidian District, Beijing Contact:",
+    "ollama_generated": "Location: Situated on the 8th Floor, at Ideal International Plaza, 58 Beisihuan Xilu, Haidian District, Beijing. Correspondence Point:\n\nThis revision subtly changes the focus from the location being an \"Address\" to a \"Correspondence Point,\" potentially suggesting that it's primarily for communication purposes rather than a physical presence.",
+    "contradiction_score": 0.0013622773112729192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 710,
+    "end_char": 975,
+    "original": "Telephone:  010-58951000 Fax:  010-58951005 In this Agreement, Party A, Party B and Party C individually a \u201cParty\u201d, collectively the \u201cParties\u201d.  The transaction contemplated to be jointly conducted by Party A and Party B hereunder is referred to as the \u201cOperation\u201d.",
+    "ollama_generated": "Communication: Mobile: +10-58951000, Email: [party_a_email]@example.com In this Agreement, each of Party A, Party B, and Party C shall be independently referred to as a \"Party,\" and collectively known as the \"Parties.\" The collaborative effort initiated by Parties A and B, herein referred to as the \"Project,\" shall serve as the focus of this Agreement.\n\nIn this revised clause, the communication methods have been updated, and the terminology has been slightly adjusted. Instead of referring to the jointly conducted transaction as the \"Operation,\" it is now called the \"Project.\" This change emphasizes a broader scope of cooperation between the Parties rather than a specific, potentially time-bound operation. Additionally, the responsibility for initiating the collaboration is shifted from Party A and Party B conducting an operation to the Parties engaging in a project, which is more neutral and less action-oriented.",
+    "contradiction_score": 0.39402174949645996,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 3469,
+    "end_char": 3502,
+    "original": "(i)  It is unknown to the public;",
+    "ollama_generated": "(ii) The relevant information has not been made publicly available for scrutiny.",
+    "contradiction_score": 0.006960171274840832,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 4487,
+    "end_char": 4679,
+    "original": "(g)  First Tier Channel on Baidu Net means any of the channels with the headings of news; real estate and home furnishing; tie bar; Zhidao; and entertainment in the product lists of Baidu Net.",
+    "ollama_generated": "(g) A Baidu Net First Tier Channel may encompass any of the following categories within the product listings of Baidu Net: news, real estate and home furnishings, tie bars, Q&A forums (Zhidao), and entertainment. Note that not all channels under these headings necessarily qualify as a First Tier Channel.",
+    "contradiction_score": 0.02368706464767456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 4679,
+    "end_char": 4865,
+    "original": "(h)  Second Tier Channel of Baidu Net means any of the channels with the headings of real estate, used homes, and decorations in the real estate and home furnishing channel of Baidu Net.",
+    "modified": "(i) Baidu Net's Second-Level Channels encompass any subcategories within its real estate and home furnishing section, specifically those labeled as property resale, residential realty, and interior design.",
+    "contradiction_score": 0.644907534122467,
+    "kept": true
+  },
+  {
+    "clause_index": 32,
+    "start_char": 5357,
+    "end_char": 5433,
+    "original": "1.2  Interpretation (a)  Any date in this Agreement means its calendar date.",
+    "ollama_generated": "1.2  Interpretation (a)  Any date in this Agreement shall be interpreted as the corresponding business day.\n\nThis modification allows for flexibility in the interpretation of dates, considering that certain events or actions might not occur on specific calendar days but on business days instead.",
+    "contradiction_score": 0.00931750051677227,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 5802,
+    "end_char": 5956,
+    "original": "ARTICLE II REPRESENTATIONS AND WARRANTIES 2.1  Legal Status Each Party represents and warrants to the other Parties that as of the date of this Agreement:",
+    "ollama_generated": "ARTICLE II REPRESENTATIONS AND WARRANTIES\n\n2.1 Assurance Regarding Legal Entity\nEach Party assures and declares to the other Parties, on the execution date of this Agreement:\n\nThis revised clause maintains the original intent but shifts the assurance from a representation and warranty to an 'assurance' or 'declaration.' This slight change weakens the obligation, as an assurance or declaration is generally seen as less binding than a representation and warranty. It also presents the same information in a concise and professional manner.",
+    "contradiction_score": 0.2863140404224396,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 7298,
+    "end_char": 7508,
+    "original": "ARTICLE III TERM OF THIS AGREEMENT 3.1  Term (a)  This Agreement will be effective as of the date of its execution, and term of the Cooperation will be four years from the date on which the channel is uploaded.",
+    "ollama_generated": "ARTICLE III TERM OF THIS AGREEMENT\n\n3.1 Duration (a) This Agreement shall become effective upon its execution, with the initial term of cooperation lasting for a period of four years. However, either Party may elect to terminate this agreement at any time after the first two years, upon providing written notice to the other party. The remaining term, if any, shall be determined by the date of such notice.",
+    "contradiction_score": 0.02723502367734909,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 7541,
+    "end_char": 7603,
+    "original": "(b)  The channel is expected to be uploaded on August 1, 2010.",
+    "ollama_generated": "(b) While every effort will be made to ensure the timely release of the channel, there may be unforeseen circumstances that prevent its upload on August 1, 2010. The parties acknowledge and agree that the actual upload date may vary from this specified date, but every attempt shall be made to adhere to it.",
+    "contradiction_score": 0.039858270436525345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 7850,
+    "end_char": 8222,
+    "original": "3.2  Extension Upon expiration of this Agreement, with all conditions being equal, Party B has the preferential right to continue Cooperation with Party A in respect of the real estate channel. If both Party A and Party B continue their Cooperation, they will negotiate to reach an agreement to that effect no less than one month prior to the expiration of this Agreement.",
+    "modified": "3.2 Upon the termination or expiration of this Agreement, it shall be at the discretion of Party A whether to continue Cooperation with Party B regarding the real estate channel. In the event that both Parties choose to continue their Cooperation, they will endeavor to negotiate a new agreement, with no specific timeframe imposed for such negotiations. However, Party B shall not have any preferential rights in this regard and is encouraged, but not required, to notify Party A of its intent to continue Cooperation at least one month prior to the expiration of this Agreement.",
+    "contradiction_score": 0.9196326732635498,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 8729,
+    "end_char": 8771,
+    "original": "(i)  formation of the Cooperation channel;",
+    "ollama_generated": "(ii) Establishment of the Cooperation channel shall be at the discretion of either party, with no explicit obligation to do so unless mutually agreed upon in writing.",
+    "contradiction_score": 0.36765947937965393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 8774,
+    "end_char": 8829,
+    "original": "(ii)  advertising operation of the Cooperation channel;",
+    "ollama_generated": "(ii) Permitting third parties to conduct promotional activities through the Cooperative Channel; [This version allows for promotion by third parties rather than the initial party operating the channel.]",
+    "contradiction_score": 0.01200784556567669,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 9836,
+    "end_char": 10597,
+    "original": "(i)  Leju.baidu.com (ii)  House.baidu.com (iii)  Jiaju.baidu.com (iv)  Fangyou.baidu.com (v)  Esf.baidu.com (vi)  Rent.baidu.com (vii)  Dichan.baidu.com (viii)  Jiancai.baidu.com (c)  Party B will be solely responsible for the sponsorship, operation, upgrade, and maintain of Baidu Real Estate and Home Furnishing Channel, including provision of bottom-level webpage and systems, integration of the data, information and intelligence provided by users relating to real estate and home furnishing on the Cooperation channel, and provide related maintenance and support to end-users. Party B has the discretion to arrange the layout and linkage of the channels, categories, articles and data relating to real estate and home furnishing on the Cooperation channel.",
+    "ollama_generated": "(a)  It shall be the exclusive responsibility of Party B to manage, maintain, update, and operate the Baidu Real Estate and Home Furnishing Platform, encompassing the provision of fundamental webpages and systems, amalgamation of user-provided data, information, and intelligence associated with real estate and home furnishing on the Collaborative platform. Party B shall retain discretion to determine the organization and linkage of the real estate and home furnishing channels, categories, articles, and data accessible through the Collaborative platform.\n\nHowever, it is important to clarify that any issues or concerns related to the functionality or accessibility of the Collaborative platform experienced by end-users will remain the responsibility of Baidu, as the owner and operator of the platform. Party B's role is limited to providing maintenance and support with regards to the specific content they are responsible for managing.",
+    "contradiction_score": 0.041453901678323746,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 10896,
+    "end_char": 11106,
+    "original": "(e)  During the term of this Agreement, Party A will add the Cooperation channel to the linkage access to the real estate and home furnishing  in the product list page of Baidu Net (http://www.baidu.com/more/).",
+    "ollama_generated": "(e) For the duration of this Agreement, Party A shall endeavor to incorporate a Cooperation section into their access linkage for real estate and home furnishing within the product list page on Baidu Net (http://www.baidu.com/more/) if they deem it feasible and appropriate, with no explicit obligation or guarantee for its implementation.",
+    "contradiction_score": 0.04423815384507179,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 13563,
+    "end_char": 14253,
+    "original": "(j)  To ensure legality of the contents within the Cooperation channel, Party B will make the contact of its customer services conspicuously displayed at the homepage of the Cooperation channel, and keep its users of the way to file a complaint upon occurrence of any tort or law-breaching incidents. Party B will respond to any complaint within a reasonable upon receipt thereof, which response process is subject to approval of Party A. If Party B receives any complaint of any third party regarding the tort or breach of any content in the Cooperation channel which is forwarded from Party A, Party B will delete such content within 24 hours or notify Party A of its responsive measures.",
+    "ollama_generated": "(j) In order to maintain the legality of content within the Cooperation Channel, Party B shall clearly indicate the contact details for their customer services on the homepage of the Cooperation Channel and provide guidance to users regarding the process for filing a complaint in instances where any tort or legal infringement occurs. Responsibility for addressing such complaints rests with Party B, who will endeavor to respond within a reasonable timeframe following receipt of the complaint, though Party A's approval may be required as part of this process. If Party B receives a complaint from a third party regarding potential torts or content breaches in the Cooperation Channel that has been forwarded by Party A, it will remove any offending content within 24 hours or communicate its response measures to Party A immediately. In such cases, Party A retains the ultimate discretion as to any further action or resolution.",
+    "contradiction_score": 0.3938615322113037,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 15167,
+    "end_char": 15398,
+    "original": "(i)  Within ten (10) business days upon execution of this Agreement, provide to Party B a schedule listing all agreements regarding Cooperation Channel which are valid as of the date hereof as well as a copy of all such agreements;",
+    "modified": "(ii) Following the signing of this Agreement, Party A shall have up to ten (10) business days to deliver to Party B a timeline outlining all existing Cooperative Channel agreements, along with copies thereof, effective as of the agreement execution date. However, the responsibility for any agreements entered into post-execution and not included in the initial submission will rest solely with Party A.",
+    "contradiction_score": 0.5507818460464478,
+    "kept": true
+  },
+  {
+    "clause_index": 71,
+    "start_char": 16065,
+    "end_char": 16471,
+    "original": "4.2  Advertising on the Cooperation Channel (a)  Party A agrees that the pricing, specifications and contents of the advertising on the Cooperation Channel is subject to sole discretion of Party B. Party B has absolute and sole control, approval and discretion regarding the advertising operation of the Cooperation Channel, may conduct and benefit from legal advertising operations at its sole discretion.",
+    "ollama_generated": "4.2 Advertising within the Collaboration Portal (a) Grants Party A the liberty to propose pricing, specifications, and content for the advertisements on the Collaboration Portal; however, Party B retains the right of final approval, control, and discretion in all aspects of the advertising operations within the portal. Party A acknowledges that Party B may engage in legal advertising activities at its own discretion and benefits derived therefrom shall solely belong to Party B.",
+    "contradiction_score": 0.44278013706207275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 20319,
+    "end_char": 20504,
+    "original": "(c)  Party A undertakes to provide support for Party B in marketing and promotional efforts, including without limitation joint promotional activities on Baidu leju Cooperation Channel.",
+    "ollama_generated": "(c) Party B shall have the option, but not obligation, to request assistance from Party A in marketing and promotional endeavors, including, yet not limited to, collaborative promotional activities through the Baidu Leju Cooperation Channel. In such cases where assistance is sought, Party A shall use its best efforts to comply, though any failures or delays in performance by Party A shall not constitute a breach of this Agreement unless such failure or delay materially and adversely affects the success of Party B's promotional efforts.",
+    "contradiction_score": 0.13312353193759918,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 21639,
+    "end_char": 21882,
+    "original": "(iii)  Party A and Party B have entered into agreement regarding map cooperation prior to this Agreement. Party B has the option to continue performing such agreement, or terminate such agreement and perform the Cooperation provided hereunder.",
+    "ollama_generated": "(iii) Prior to entering into this Agreement, Parties A and B had a pre-existing understanding concerning collaborative map activities, which is independent of this Agreement. Party A shall be responsible for continuing the performance of that previous agreement unless otherwise terminated by Party B. In the event that Party B chooses to terminate the prior agreement, it shall then assume the responsibilities outlined in this Agreement for the Cooperative efforts.",
+    "contradiction_score": 0.01240963488817215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 22148,
+    "end_char": 22536,
+    "original": "Cooperation Fee 1.  Cooperation Fee The cooperation fee under this Agreement will be RMB200 million, of which RMB160 million will be channel cooperation fee and RMB40 million will be promotion fee for the Cooperation Channel. The cooperation fee will be payable in four installments as follows (a)  Within 15 business days after the date hereof, Party B will pay RMB50 million to Party A.",
+    "ollama_generated": "Payment Structure Regarding Cooperative Fees:\n\nThe cooperative fees as stipulated in this Agreement amount to RMB200 million, with RMB160 million attributable to the Channel Partnership Fee and RMB40 million earmarked for Promotional Investments within the Cooperation Channel. The aforementioned cooperative fees will be distributed as follows:\n\n(a) Party A shall receive RMB50 million from Party B within 15 business days following the effective date of this agreement, constituting an initial payment towards the overall cooperative fees.\n\nIn this revised clause, the obligation for payment has been inverted, with the initial payment being made by Party B instead of Party A as stated in the original clause.",
+    "contradiction_score": 0.3857138454914093,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 22548,
+    "end_char": 22674,
+    "original": "(b)  Within 15 business days after the end of the first cooperation period, Party B will pay another RMB50 million to Party A.",
+    "ollama_generated": "(b) Party A shall have the right to receive an additional RMB 50 million from Party B no sooner than 15 business days following the conclusion of the initial cooperation period, provided that such payment is at Party A's sole discretion and not binding under any circumstances.",
+    "contradiction_score": 0.09189333021640778,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 22804,
+    "end_char": 23202,
+    "original": "(d)  Within 15 business days after the end of the third cooperation period, Party B will pay the remaining RMB50 million to Party 2.  Payment of Cooperation Fee The channel cooperation fee provided under this Agreement will be payable by Party B or its designated entity to the following account of Party A at the expense of Party B, which payment could be in foreign currency at equivalent amount.",
+    "ollama_generated": "(d) Following the completion of the third cooperation period, Party A shall have 15 business days to initiate a request for the remaining RMB50 million from Party B. The Cooperation Fee remittance specified within this Agreement will be received by Party B or its assigned entity from Party A's designated account, at no extra cost to Party B, and can be settled in a foreign currency equivalent. This clause establishes that the onus of initiating the payment request lies with Party A, not Party B.",
+    "contradiction_score": 0.4714524447917938,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 23282,
+    "end_char": 23796,
+    "original": "Bank:  China Merhcants Bank, Beijing Branch, Beisihuan Sub-branch Account number:  866180198510001 ARTICLE V RIGHTS AND OBLIGATIONS 5.1  Each of the Parties warrants that its execution and performance of this Agreement is in no violation of any third party interests or PRC 5.2  Party B will be responsible for server configuration, bandwidth, operation, maintenance, users and user services management and development necessary for the Cooperation Channel, as well as any expenses and liabilities arising thereof.",
+    "ollama_generated": "Bank: China Merchants Bank, Beijing Branch, Beisihuan Sub-branch Account number: 866180198510001\n\nARTICLE V RIGHTS AND OBLIGATIONS\n\n5.1 Each of the Parties acknowledges that it possesses the necessary authority to execute and perform this Agreement, but shall not be liable for any claims or disputes arising from third-party interests or PRC regulations, except in cases where such violation is proven with substantial evidence.\n\n5.2 Party A shall provide the Cooperation Channel, including server configuration, bandwidth, operation, maintenance, and any related user services. Party B accepts responsibility for managing users and developing user services on the Channel, as well as bearing any expenses and liabilities associated with these duties. The Parties acknowledge that this arrangement may be subject to change through mutual consent and agreement in writing.",
+    "contradiction_score": 0.43987157940864563,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 24299,
+    "end_char": 24480,
+    "original": "5.4  Any delay of service by Party B due to any force majeure will be notified to Party A immediately, and Party B will take prompt measures to ensure performance of this Agreement;",
+    "ollama_generated": "5.4 In the event that Party B experiences a delay in providing services due to circumstances beyond its control (force majeure), Party A acknowledges that such delay shall not be considered a breach of this Agreement, and Party B will make reasonable efforts to resume service delivery as soon as possible. However, the timeline for resumption of service shall not give rise to any liability or damages on the part of Party B for any delay or failure in performance under this Agreement.",
+    "contradiction_score": 0.007959870621562004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 25211,
+    "end_char": 25437,
+    "original": "5.8  Party A will provide to Party B the promotional resources provided under this Agreement, including Baidu network promotional resources, provide promotional support to Party B, and make promotion of Party B on its website.",
+    "ollama_generated": "5.8. While not expressly obligated, Party A shall extend the opportunity for Party B's benefit, by offering promotional resources as stipulated in this Agreement, such as Baidu network promotional resources. Party A may also offer promotional assistance to Party B, though it is not required to actively promote Party B on its website.",
+    "contradiction_score": 0.04448697343468666,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 26722,
+    "end_char": 27002,
+    "original": "ARTICLE VIII CONFIDENTIALITY 8.1  Unless with express prior written consent from the other Party (which consent may not be withheld without reason), none of the Parties may make any public announcement or statement regarding this Agreement or any relationship with this Agreement.",
+    "modified": "ARTICLE VIII CONFIDENTIALITY\n8.1  The Parties are granted discretionary freedom to communicate publicly about this Agreement and their association with it, provided that such communication is approved in writing by both Parties prior to disclosure. Each Party reserves the right to deny approval without specifying a reason.",
+    "contradiction_score": 0.9522404670715332,
+    "kept": true
+  },
+  {
+    "clause_index": 111,
+    "start_char": 28472,
+    "end_char": 28577,
+    "original": "8.4  The provisions under this Article VIII will have effect during and after the term of this Agreement.",
+    "ollama_generated": "8.4 The provisions outlined within this Article VIII shall remain applicable only for the duration of this Agreement, with the exception that certain clauses may continue to apply post-termination at our discretion.",
+    "contradiction_score": 0.3951999843120575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 29441,
+    "end_char": 30255,
+    "original": "ARTICLE X TERMINATION 10.1  Special Provisions The Parties agree that within three months prior to the 4  anniversary of the date hereof, Party B may conduct comprehensive review of the Cooperation contemplated hereunder and may elect to continue performing or terminate this Agreement. If Party B elects to terminate this Agreement, it will notify Party A in writing and this Agreement will terminate upon receipt of such written notice by Party A. Party B will settle any and all cooperation fee regarding the Cooperation Channel outstanding prior to 4  anniversary of the date hereof, and arrange appropriate transfer of all matters relating to the operation and construction of the Cooperation Channel to Party A. Such termination will not affect performance of any right and obligation occurred prior thereto.",
+    "ollama_generated": "ARTICLE X TERMINATION 10.1  Special Provisions\n\nThe Parties mutually agree that, following the expiration of three months from the fourth anniversary of the date hereof, Party A shall have the right to initiate a comprehensive review of the Cooperation outlined within this Agreement, and may choose either to continue or terminate the Agreement. In the event Party A elects to terminate, they will provide written notice to Party B, and such termination shall become effective immediately upon receipt of said notice by Party B.\n\nUpon termination, all outstanding cooperation fees related to the Cooperation Channel that accrue after the fourth anniversary of the date hereof shall be the responsibility of Party A. Furthermore, Party A will assume control of all matters pertaining to the operation and construction of the Cooperation Channel following termination. It is worth noting that such termination shall not affect any rights or obligations that have already been fulfilled prior to the effective date of termination.\n\nIn this revised version, the obligation to conduct a review before terminating has shifted from Party B to Party A, and the responsibility for outstanding cooperation fees following the fourth anniversary is now on Party A in case of termination. Additionally, the wording has been adjusted to maintain clarity and professionalism throughout the clause.",
+    "contradiction_score": 0.1347501277923584,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 116,
+    "start_char": 30315,
+    "end_char": 30372,
+    "original": "(a)  The Parties decide not to extend it upon its expiry;",
+    "ollama_generated": "(a) Upon the termination of this agreement, either Party reserves the right to elect not to renew or continue it further.",
+    "contradiction_score": 0.001782926614396274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 30532,
+    "end_char": 30627,
+    "original": "(d)  Any of the Parties declares bankruptcy or is in the process of liquidation or dissolution;",
+    "ollama_generated": "(d) Should any Party initiate or undergo proceedings for reorganization under bankruptcy laws, liquidation, or voluntary or involuntary dissolution.\n\nNote: The revised clause now states that the event in question is initiated by a party rather than simply occurring to a party, which slightly broadens the scope of potential events and may potentially weaken the obligation on the part of the other parties involved, depending on the specific circumstances and context of the contract.",
+    "contradiction_score": 0.014149438589811325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 31105,
+    "end_char": 31411,
+    "original": "10.3  If any of the Parties declares bankruptcy or is in the process of liquidation or dissolution, any Party may terminate this Agreement with immediate effect upon notice to the other Party in writing. Any Party encountering such circumstance will immediately notify the other Party of such circumstance.",
+    "ollama_generated": "10.3  In the event that any Party initiates bankruptcy proceedings, commences liquidation, or undergoes dissolution, the remaining Parties retain the discretion to terminate this Agreement. Any Party experiencing such situation shall promptly inform the other Party in writing of their circumstances and provide reasonable notice prior to termination. The continuance of this Agreement following such an event will be at the sole discretion of the unaffected Parties.",
+    "contradiction_score": 0.02096009999513626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 35884,
+    "end_char": 36250,
+    "original": "14.2  If any of the provisions under this Agreement is held illegal, invalid or unenforceable under any applicable law, the Parties will modify such provision so that this Agreement could be valid, effective and enforceable according to the original intent of the Parties as closely as possible, and the remainder of this Agreement will remain valid and enforceable.",
+    "ollama_generated": "14.2 In the event that any provisions within this Agreement are deemed unlawful, invalid, or unenforceable under applicable law, such provision shall be construed, to the extent possible, so as to give effect to the original intent of the Parties while maintaining the validity and enforceability of the Agreement in its entirety. If it is not possible to preserve the provision in a manner consistent with this standard, then such provision shall be deemed severable from the Agreement, and the remaining provisions of this Agreement shall remain binding and enforceable.",
+    "contradiction_score": 0.016473904252052307,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

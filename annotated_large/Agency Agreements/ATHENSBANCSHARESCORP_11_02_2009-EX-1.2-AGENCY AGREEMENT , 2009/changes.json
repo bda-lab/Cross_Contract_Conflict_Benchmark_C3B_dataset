@@ -1,0 +1,385 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 216,
+    "end_char": 314,
+    "original": "Investment Banking 10 South Wacker Drive, Suite 3400 Chicago, Illinois 60606 Ladies and Gentlemen:",
+    "ollama_generated": "Investment Banking, 10 South Wacker Drive, Suite 3400, Chicago, Illinois 60606, Esteemed Colleagues:\n\nIn consideration of the mutual covenants contained herein, and for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, it is hereby agreed as follows:\n\nInstead of assuming an affirmative obligation to perform specific actions or duties, Party A shall have no responsibility to act unless specifically requested by Party B in writing. Such requests must be sent via a secure and verifiable method, with reasonable time for compliance provided. If Party A fails to comply within the stipulated timeframe, Party B's sole remedy shall be to seek damages through arbitration or litigation, as outlined in this agreement.\n\nFurthermore, whereas previously the burden of proof was on Party A in certain instances, hereafter, the evidential burden of proving any alleged breach or default under this agreement shall rest with the party asserting such claim.\n\nLastly, where the original clause stated that each party would indemnify and hold harmless the other from any claims arising out of this agreement, the amended clause now requires each party to only indemnify and hold harmless the other for claims resulting directly from their own acts or omissions.\n\nThis Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.\n\nSincerely,\n[Your Name]\n[Your Title]",
+    "contradiction_score": 0.010196532122790813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 3202,
+    "end_char": 3699,
+    "original": "In connection with the Conversion and pursuant to the terms of the Plan as described in the  Prospectus, immediately following the consummation of the Conversion, subject to the approval of  the Bank \u2019s depositors and compliance with certain conditions as may be imposed by regulatory authorities, the Company will contribute $100,000 and 100,000 shares of Common Stock to the Athens  Federal Foundation (the \u201cFoundation \u201d) such shares hereinafter being referred to as the ( \u201cFoundation  Shares\u201d).",
+    "ollama_generated": "Upon successful completion of the Conversion, contingent upon the Bank's depositors' approval and adherence to any conditions set forth by regulatory authorities, the Company will be required to make a contribution of $100,000 and 100,000 shares of Common Stock to the Athens Federal Foundation (hereinafter referred to as the \"Foundation\"). However, it is noted that the Foundation's acceptance of these contributions, hereafter known as \"Foundation Shares,\" is not guaranteed. The Foundation reserves the right to refuse any or all of the contributed funds and/or shares at its sole discretion.\n\nIn this revised clause, the meaning has been slightly changed by shifting some responsibility from the Company to the Athens Federal Foundation. The original clause implied that the Foundation would automatically receive the contributions; here, it is clear that the Foundation has the right to refuse them. This makes the obligation less certain for the Company.",
+    "contradiction_score": 0.00207797740586102,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 3699,
+    "end_char": 4941,
+    "original": "The Company has filed with the Securities and Exchange Commission (the \u201cCommission \u201d) a registration statement on Form S -1 (File No. 333 -   ) (the \u201cRegistration Statement \u201d), containing a prospectus relating to the Offering, for the registration of the Shares under the  Securities Act of 1933 (the \u201c1933 Act\u201d), and has filed such amendments thereof and such amended  prospectuses as may have been required to the date hereof. The term \u201cRegistration Statement \u201d shall  include any documents incorporated by reference therein and all financial schedules and exhibits  thereto, as amended, including post -effective amendments. The prospectus, as amended, on file with  the Commission at the time the Registration Statement initially became effective is hereinafter  called the \u201cProspectus, \u201d except that if any Prospectus is filed by the Company pursuant to Rule  424(b) or (c) of the rules and regulations of the Commission under the 1933 Act (the \u201c1933 Act  Regulations \u201d) differing from the prospectus on file at the time the Registration Statement  initially became effective, the term \u201cProspectus \u201d shall refer to the prospectus filed pursuant to  Rule 424(b) or (c) from and after the time said prospectus is filed with the Commission.",
+    "modified": "The Offeror has submitted to the Securities and Exchange Commission (the \"Commission\") a registration statement on Form S-1 (File No. 333 - ) (hereinafter referred to as the \"Registration Statement\"), which encompasses a prospectus pertaining to the Offering, for securities registration under the Securities Act of 1933 (the \"1933 Act\"). The Offeror is responsible for filing any required amendments to the Registration Statement and associated prospectuses up until this agreement's execution. The term \"Registration Statement\" encompasses all documents referenced therein, as well as financial schedules and exhibits, with such amendments including post-effective amendments. The initial prospectus on file with the Commission upon the Registration Statement's effectiveness is referred to hereafter as the \"Initial Prospectus.\" However, should a prospectus be filed by the Offeror in accordance with Rule 424(b) or (c) of the Commission's rules and regulations under the 1933 Act that differs from the Initial Prospectus, then the term \"Prospectus\" shall encompass the prospectus filed pursuant to Rule 424(b) or (c) from the time it is submitted to the Commission.",
+    "contradiction_score": 0.7571686506271362,
+    "kept": true
+  },
+  {
+    "clause_index": 7,
+    "start_char": 5741,
+    "end_char": 6257,
+    "original": "Section 2. Retention and Compensation of Agent. Subject to the terms and conditions herein set  forth, the Company and the Bank hereby appoint the Agent as their exclusive financial advisor and  marketing agent (i) to utilize its best efforts to solicit subscriptions for Common Shares and to advise and assist the Company and the Bank with respect to the Company \u2019s sale of the Shares in the  Offering and (ii) to participate in the Offering in the areas of market making and in syndicate  formation (if necessary).",
+    "ollama_generated": "Section 2. Remuneration and Retention of Agent. In accordance with the stipulations outlined herein, the Bank and the Company mutually designate the Agent as their sole financial consultant and marketing representative. The Agent shall undertake the following responsibilities on a best-effort basis: (i) to extend its utmost efforts in procuring subscriptions for Common Shares, while offering advisory and assistance services to the Company and the Bank regarding the sale of such Shares within the Offering, and (ii) to engage in the Offering's market making activities and syndicate formation (should it become essential). It is noteworthy that the Agent's role does not include any obligation to purchase or hold shares within the Offering.",
+    "contradiction_score": 0.32325977087020874,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 8385,
+    "end_char": 8622,
+    "original": "(a) A management fee of $30,000 payable in four consecutive monthly installments of $7,500  each commencing with the execution of the Engagement Letter. This fee shall be deemed to have been  earned when due and shall be non -refundable.",
+    "ollama_generated": "(a) A management fee of $30,000 payable in four consecutive monthly installments of $7,500 each, with the first payment due upon execution of the Engagement Letter. This fee is considered as having been earned immediately and is non-refundable, regardless of the performance or outcomes of our services.",
+    "contradiction_score": 0.03583179786801338,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 8622,
+    "end_char": 9389,
+    "original": "(b) A success fee upon completion of the Offering of 1.125% of the aggregate purchase price of  the Common Shares sold in the Subscription Offering and Community Offering excluding shares  purchased by the Bank \u2019s officers, directors, or employees (or members of their immediate family),  any ESOP, tax -qualified or stock -based compensation plans (except IRAs) or similar plan created by  the Bank or the Company for some or all of its directors or employees, or contributed to any  charitable foundation established by the Bank in connection with the Conversion. In no event shall  the success fee paid for the sale of Common Stock in the Subscription and Community Offering be  less than $200,000. The management fee will be applied against the first success fee.",
+    "ollama_generated": "(b) A success fee at the completion of the Offering of 1.125% of the total value of Common Shares sold in the Subscription Offering and Community Offering, except for shares purchased by the Bank's officers, directors, or employees, their immediate family members, or any entity established for their benefit (such as ESOP, tax-qualified, stock-based compensation plans, or charitable foundations affiliated with the Bank). However, this success fee is subject to a minimum payment of $200,000. It's important to note that the management fee will be deducted from the success fee only if there are multiple success fees to be distributed.",
+    "contradiction_score": 0.001973946811631322,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 12066,
+    "end_char": 13295,
+    "original": "Section 3. Sale and Delivery of Shares. If all conditions precedent to the consummation of the  Conversion, including without limitation, the sale of all Shares required by the Plan to be sold,  are satisfied, the Company agrees to issue, or have issued, the Shares sold in the Offering and to  release for delivery certificates for such Shares on the Closing Date against payment to the  Company by any means authorized by the Plan; provided, however, that no funds shall be released to  the Company until the conditions specified in Section 8 hereof shall have been complied with to the reasonable satisfaction of the Agent and its counsel. The release of Shares against payment  therefor shall be made on a date and at a place acceptable to the Company, the Bank and the Agent.  Certificates for shares shall be delivered directly to the purchasers in accordance with their directions. The date upon which the  Company shall release or deliver the shares sold in the Offering, in accordance with the terms  herein, is called the \u201cClosing Date. \u201d Section 4. Representations and Warranties of the Company and the Bank. The Company and the  Bank jointly and severally represent and warrant to and agree with the Agent as follows:",
+    "ollama_generated": "Section 3. Sale and Delivery of Shares. Upon the fulfillment of all conditions precedent to the completion of the Conversion, including but not limited to the sale of all Shares necessary for compliance with the Plan, the Company will issue or have issued the Shares offered in the Transaction, and will arrange for the issuance of certificates for such Shares on the Delivery Date. However, funds shall only be received by the Company after the conditions outlined in Section 8 are met to a degree deemed acceptable by the Agent and its counsel, with the understanding that no specific timeframe is implied in this requirement. The issuance of shares against payment will occur at a location and on a date acceptable to the Company, the Bank, and the Agent. Certificates for shares shall be provided directly to the purchasers as directed by them. The day when the Company will release or deliver the shares offered in the Transaction, in accordance with these terms, is referred to as the \"Delivery Date.\" Section 4. Representations and Warranties of the Company and the Bank. The Company and the Bank jointly and severally represent and warrant to and agree with the Agent that they will meet the following obligations:\n\nIn this revised clause, the company's obligation to deliver shares has been weakened by introducing an understanding that no specific timeframe is implied in the condition for receiving funds. The term \"Closing Date\" has been changed to \"Delivery Date,\" which could be interpreted as a more flexible and less definitive deadline. Furthermore, the clause now clearly states that the conditions in Section 8 must be met to a degree deemed acceptable by the Agent and its counsel, rather than explicitly stating that the conditions must be complied with to the reasonable satisfaction of the Agent and its counsel. This change could potentially create some ambiguity regarding the level of compliance required.",
+    "contradiction_score": 0.07370027899742126,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 16962,
+    "end_char": 17975,
+    "original": "(c) As of the Applicable Time, neither (i) the Issuer -Represented General Free Writing  Prospectus(es) issued at or prior to the Applicable Time and the Statutory Prospectus, all  considered together (collectively, the \u201cGeneral Disclosure Package \u201d), nor (ii) any individual  Issuer -Represented Limited -Use Free Writing Prospectus, when considered together with the General  Disclosure Package, included any untrue statement of a material fact or omitted to state any  material fact necessary in order to make the statements therein, in the light of the circumstances  under which they were made, not misleading. The preceding sentence does not apply to statements in  or omissions from any Prospectus included in the Registration Statement relating to the offered  Securities or any Issuer -Represented Free Writing Prospectus based upon and in conformity with written information furnished to the  Company by the Agent specifically for use therein. As used in this paragraph and elsewhere in this  Agreement:",
+    "ollama_generated": "(c) Effective from the Applicable Time, neither (i) the Issuer-provided General Free Writing Prospectus(es) issued prior to or at the Applicable Time, together with the Statutory Prospectus (collectively referred to as the \"Disclosed Information Package\"), nor (ii) any individual Issuer-provided Limited -Use Free Writing Prospectus, in conjunction with the Disclosed Information Package, contained any material misstatement or omission of a fact necessary to avoid making the statements within them, under the circumstances at hand, deceptive. However, this provision does not extend to statements or omissions from any Prospectus incorporated into the Registration Statement for the offered Securities or any Issuer-provided Free Writing Prospectus that is based on and conforms to written information provided by the Agent for use specifically within it. For clarity, in this Agreement and elsewhere, the term \"Prospectus\" as used refers to a document intended to provide information about securities being offered for sale, rather than one furnished exclusively for the issuer's purposes.",
+    "contradiction_score": 0.003897611517459154,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 18397,
+    "end_char": 18955,
+    "original": "3. \u201cIssuer -Represented Free Writing Prospectus \u201d means any \u201cissuer free writing prospectus, \u201d as defined in Rule 433(h) of the 1933 Act Regulations, relating to the offered Shares in the form  filed or required or, if not required to be filed, in the form retained in the Company \u2019s records pursuant to Rule 433(g) under the 1933 Act Regulations. The term does not include any writing  exempted from the definition of prospectus pursuant to clause (a) of Section 2(a)(10) of the 1933  Act, without regard to Rule 172 or Rule 173 of the 1933 Act Regulations.",
+    "ollama_generated": "3. \"Issuer-Provided Unsolicited Written Communication Concerning Offered Shares\" refers to any such unsolicited written communication, as defined in Rule 433(h) of the Securities Act Regulations, pertaining to the offered Shares. This term encompasses communications filed or required to be filed, or if not required for filing, those retained in the Company's records pursuant to Rule 433(g) under the Securities Act Regulations. Excluded from this definition is any writing that falls under the exemption provided by clause (a) of Section 2(a)(10) of the Securities Act, disregarding Rules 172 and 173 of the Securities Act Regulations.",
+    "contradiction_score": 0.3774123787879944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 29350,
+    "end_char": 30692,
+    "original": "(j) The Company is duly organized, validly existing and in good standing as a corporation  under the laws of the State of Tennessee with full corporate power and authority to own, lease and  operate its properties and to conduct its business as described in the Registration Statement and the Prospectus, and, at the Closing Date, the Company will be qualified to do business as a foreign  corporation in each jurisdiction in which the conduct of its business requires such qualification,  except where the failure to so qualify would not have a Material Adverse Effect on the financial condition, results of operations or business of the Company. At the Closing Date, the Company will  have obtained all licenses, permits and other governmental authorizations currently required for  the conduct of its business except those that individually or in the aggregate would not materially  adversely affect the financial condition, results of operations or business of the Company and the  Bank, taken as a whole; all such licenses, permits and governmental authorizations will be in full  force and effect, and the Company will be in all material respects complying with all laws, rules,  regulations and orders applicable to the operation of its business. There are no outstanding  warrants or options to purchase any securities of the Company.",
+    "modified": "(j) At the Closing Date, while the Company is duly organized and validly existing as a corporation under the laws of the State of Tennessee, it may not necessarily be in good standing if certain technical formalities have not been fulfilled due to administrative oversights. The Company's corporate power and authority to own, lease, and operate its properties and conduct its business, as described in the Registration Statement and Prospectus, will remain intact. However, at the Closing Date, it may not be qualified to do business as a foreign corporation in each jurisdiction where such qualification is required for the conduct of its business if the failure to qualify would not have a Material Adverse Effect on the financial condition, results of operations, or business of either the Company or the Bank.\n\nAs for licenses, permits, and other governmental authorizations, the Company will strive to obtain all those currently required for the conduct of its business at the Closing Date; however, there may be exceptions where non-obtaining individual or aggregate permissions would not materially adversely affect the financial condition, results of operations, or business of either the Company or the Bank. All such licenses, permits, and governmental authorizations will be valid and in full force at the Closing Date, provided that the Company may not be fully complying with all laws, rules, regulations, and orders applicable to the operation of its business due to ongoing efforts to navigate complex legal landscapes.\n\nLastly, it is essential to note that there may exist outstanding warrants or options to purchase securities of the Company at the Closing Date, as the Company acknowledges its potential obligations in this regard but makes no guarantees regarding their resolution beforehand.",
+    "contradiction_score": 0.9331139922142029,
+    "kept": true
+  },
+  {
+    "clause_index": 36,
+    "start_char": 33572,
+    "end_char": 34200,
+    "original": "(n) The Company has received an opinion of its special counsel, Kilpatrick Stockton LLP, with  respect to the federal income tax consequences of the Conversion and an opinion of its tax advisor,  Hazlett, Lewis & Bieter, PLLC, with respect to the Tennessee income tax consequences of the Conversion; all material aspects of such opinions are accurately summarized in the Registration  Statement and the Prospectus. The Company and the Bank represent and warrant that the facts upon  which such opinions are based are truthful, accurate and complete. Neither the Company nor the Bank  will take any action inconsistent therewith.",
+    "modified": "(m) While the Company has received an opinion from its special counsel, Kilpatrick Stockton LLP, regarding the federal income tax implications of the Conversion, and an opinion from its tax advisor, Hazlett, Lewis & Bieter, PLLC, concerning the Tennessee income tax effects of the Conversion, it is not guaranteed that all such opinions have been fully or accurately represented within the Registration Statement and Prospectus. However, the Company and the Bank affirm that any facts relied upon in the formation of these opinions are deemed to be genuine, valid, and exhaustive at the time they were communicated. The parties reserve the right to take actions that may deviate from the assumptions underlying these opinions, provided such actions do not materially alter their essence or intent.",
+    "contradiction_score": 0.6594751477241516,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 47551,
+    "end_char": 47836,
+    "original": "(y) Keller & Company, Inc., which has prepared the Valuation Appraisal Report (as amended or  supplemented, if so amended or supplemented) of the Bank, has advised the Bank in writing that it  is independent of the Company and the Bank within the meaning of the Conversion Regulations.",
+    "ollama_generated": "(y) The Company acknowledges that Keller & Company, Inc., who has prepared the Valuation Appraisal Report (as amended or supplemented, if any such amendments or supplements are made), is not bound by any relationship of dependency with the Bank, as understood in accordance with the Conversion Regulations, in relation to the Bank. This independence, however, does not preclude Keller & Company, Inc., from having had prior business relationships with either the Company or the Bank.",
+    "contradiction_score": 0.020306743681430817,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 47836,
+    "end_char": 48983,
+    "original": "(z) The Company and the Bank have timely filed or extended all required federal, state and  local tax returns; the Company and the Bank have paid all taxes that have become due and payable in  respect of such returns, except where permitted to be extended, have made adequate reserves for similar future tax liabilities and no deficiency has been asserted with respect thereto by any  taxing authority. The Company and the Bank have no knowledge of any tax deficiency which has been  or might be assessed against either of them which, if the subject of an unfavorable decision, ruling or finding, could have, individually or in the aggregate with other tax deficiencies, a  Material Adverse Effect. All material tax liabilities have been adequately provided for in the  financial statements of the Company and the Bank in accordance with GAAP. There are no transfer  taxes or other similar fees or charges under Federal law or the laws of any state, or any political  subdivision thereof, required to be paid in connection with the execution and delivery of this  Agreement by the Company or with the issuance or sale by the Company of the Shares.",
+    "ollama_generated": "(y) The Bank and the Company represent that they have submitted or arranged for extensions, as necessary, on all required federal, state, and local tax returns in a timely manner; they have remitted payments for any taxes due and payable following such submissions, unless an extension has been granted, and have established sufficient reserves to cover anticipated future tax obligations. No adverse tax assessments or deficiencies, if unfavorably resolved, would pose a Material Adverse Effect on either party's financial condition. The Bank and the Company are unaware of any pending or potential tax deficiency assessments that could, in combination with other such assessments, have an adverse impact on their respective financial health. Compliance with applicable tax laws and regulations is reflected appropriately in the financial statements of both parties as required by GAAP. No transfer taxes, fees, or charges under federal or state law, or any political subdivision thereof, are payable by either party in connection with this Agreement's execution and delivery or the issuance or sale of the Shares.",
+    "contradiction_score": 0.09621196985244751,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 51927,
+    "end_char": 53691,
+    "original": "(gg) Neither the Company nor the Bank or any properties owned or operated by the Company or  the Bank, is in violation of or liable under any Environmental Law (as defined below), except for  such violations or liabilities that, individually or in the aggregate, would not have a Material Adverse Effect on the financial condition, results of operations or business of the Company and the  Bank, taken as a whole. There are no actions, suits or proceedings, or demands, claims, notices or  investigations (including, without limitation, notices, demand letters or requests for information  from any environmental agency) instituted or pending or, to the knowledge of the Company or the  Bank, threatened relating to the liability of any property owned or operated by the Company or the  Bank under any Environmental Law. For purposes of this subsection, the term \u201cEnvironmental Law \u201d means any federal, state, local or foreign law, statute, ordinance, rule, regulation, code,  license, permit, authorization, approval, consent, order, judgment, decree, injunction or agreement  with any regulatory authority relating to (i) the protection, preservation or restoration of the  environment (including, without limitation, air, water, vapor, surface water, groundwater, drinking  water supply, surface soil, subsurface soil, plant and animal life or any other natural resource),  and/or (ii) the use, storage, recycling, treatment, generation, transportation, processing,  handling, labeling, production, release or disposal of any substance presently listed, defined,  designated or classified as hazardous, toxic, radioactive or dangerous, or otherwise regulated,  whether by type or by quantity, including any material containing any such substance as a component.",
+    "ollama_generated": "(hh) The Company and the Bank, as well as any properties they own or manage, are not in breach of nor liable under any Environmental Regulations (as defined below), with the exception of violations or liabilities that, individually or cumulatively, would not significantly impact the overall financial status, operational results, or business operations of either party. No legal actions, lawsuits, claims, investigations, demands, notices, or threats regarding environmental liability for any property owned or operated by the Company or Bank are currently pending, known, or anticipated under any Environmental Regulation. For the purposes of this section, \"Environmental Regulations\" encompasses any federal, state, local, or international laws, statutes, ordinances, rules, regulations, codes, licenses, permits, authorizations, approvals, consents, orders, judgments, decrees, injunctions, or agreements with regulatory bodies pertaining to:\n   (i) the conservation, improvement, or remediation of environmental resources (such as air, water, vapor, surface water, groundwater, drinking water supply, surface soil, subsurface soil, flora and fauna, or any other natural resource), and/or\n   (ii) the handling, management, disposal, production, release, treatment, storage, recycling, transportation, processing, labeling, generation, or use of any substance currently classified as hazardous, toxic, radioactive, dangerous, or subject to regulation based on type or quantity, including any material containing such substances as a component.",
+    "contradiction_score": 0.07469849288463593,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 62994,
+    "end_char": 63190,
+    "original": "(e) No approval of any regulatory or supervisory or other public authority is required in  connection with the Agent \u2019s execution and delivery of this Agreement, except as may have been  received.",
+    "ollama_generated": "(e) The Agent's execution and delivery of this Agreement does not necessitate approval from any regulatory or supervisory or other public authority, unless such approval has already been obtained.",
+    "contradiction_score": 0.0016630861209705472,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 67322,
+    "end_char": 68031,
+    "original": "(f) The Company and the Bank will use their best efforts to cause any post -effective amendment  to the Registration Statement to be declared effective by the Commission and any post -effective  amendment to the Form AC or the Holding Company Application to be approved by the OTS and will  immediately upon receipt of any information concerning the events listed below notify the Agent:  (i) when the Registration Statement, as amended, has become effective; (ii) when the Form AC or the  Holding Company Application, as amended, has been approved by the OTS; (iii) of any comments from  the Commission, the OTS or any other governmental entity with respect to the Conversion  contemplated by this Agreement;",
+    "ollama_generated": "(f) While it is not guaranteed, the Bank and the Company will strive diligently, but without any specific assurance of success, to facilitate the declaration of effectiveness by the Commission for any post-effective amendment to the Registration Statement and the approval of such amendments by the OTS for the Form AC or the Holding Company Application. Upon receiving information regarding events outlined below, the Agent will be promptly informed:\n\n  (i) when the effective date of the Registration Statement, following any amendment, has been announced;\n  (ii) when the approval of the Form AC or the Holding Company Application, with any applicable amendments, has been granted by the OTS;\n  (iii) concerning any comments or inquiries from the Commission, the OTS, or other governmental bodies regarding the Conversion as outlined in this Agreement. The emphasis here lies on our efforts to facilitate approval, but it is important to note that success cannot be assured and timelines are not within our control.",
+    "contradiction_score": 0.0010622079716995358,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 68031,
+    "end_char": 69177,
+    "original": "(iv) of the request by the Commission, the OTS or any other  governmental entity for any amendment or supplement to the Registration Statement, the Form AC,  Holding Company Application or for additional information; (v) of the issuance by the Commission,  the OTS or any other governmental entity of any order or other action suspending the Conversion or  the use of the Registration Statement or the Prospectus or any other filing of the Company or the  Bank under the Conversion Regulations, or other applicable law, or the threat of any such action;  (vi) of the issuance by the Commission, the OTS or any authority of any stop order suspending the  effectiveness of the Registration Statement or of the initiation or threat of initiation or threat  of any proceedings for that purpose; or (vii) of the occurrence of any event mentioned in paragraph  (h) below. The Company and the Bank will make every reasonable effort (i) to prevent the issuance  by the Commission, the OTS or any other state authority of any such order and, (ii) if any such order shall at any time be issued, to obtain  the lifting thereof at the earliest possible time.",
+    "ollama_generated": "(iv) In response to a request for amendment or supplement by the Commission, the OTS, or any other governmental entity regarding the Registration Statement, Form AC, Holding Company Application, or the provision of additional information; (v) Upon the issuance by the Commission, the OTS, or any other governmental entity of any order or action that imposes a temporary halt on the Conversion, or the usage of the Registration Statement, Prospectus, or any other filing by the Company or Bank under the Conversion Regulations, or applicable law; (vi) Upon the issuance by the Commission, the OTS, or any authority of a stop order halting the effectiveness of the Registration Statement, or the initiation or threat thereof, or the initiation or threat of any proceedings for that purpose; or (vii) The occurrence of any event detailed in paragraph (h) below. It shall be the responsibility of the Company and Bank to: (i) take all reasonable measures to avoid the issuance of such orders by the Commission, the OTS, or any state authority, and (ii) should any such order be issued at any point, to act promptly in seeking its removal as soon as possible.",
+    "contradiction_score": 0.003761525731533766,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 69177,
+    "end_char": 69606,
+    "original": "(g) The Company and the Bank will deliver to the Agent and to its counsel two conformed copies  of the Registration Statement, the Form AC or the Holding Company Application, as originally filed  and of each amendment or supplement thereto, including all exhibits. Further, the Company and the  Bank will deliver such additional copies of the foregoing documents to counsel to the Agent as may  be required for any FINRA filings.",
+    "ollama_generated": "(g) Upon request by the Agent or its counsel, the Company and the Bank shall make available two conforming copies of the initially filed Registration Statement, the Form AC, or the Holding Company Application, as well as each amendment or supplement thereto, including all exhibits. It is understood that this obligation may not extend to providing such documents directly to any FINRA filing counsel, but rather, the responsibility for securing these copies lies with the Agent or its designated representatives.",
+    "contradiction_score": 0.009051179513335228,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 77835,
+    "end_char": 78306,
+    "original": "(s) The Company will make generally available to its security holders as soon as practicable,  but not later than 60 days after the close of the period covered thereby, an earnings statement (in  form complying with the provisions of Rule 158 of the 1933 Act Regulations) covering a twelve -month period beginning not later than the first day of the Company \u2019s fiscal quarter next following the  effective date (as defined in such Rule 158) of the Registration Statement.",
+    "ollama_generated": "(r) Security holders shall have access to an earnings statement, prepared according to Rule 158 of the 1933 Act Regulations, within a reasonable timeframe, though not earlier than 60 days following the close of the period in question. This earnings statement will cover a twelve-month period that commences no later than the last day of the Company's fiscal quarter preceding the effective date (as defined in Rule 158) of the Registration Statement. The timing and availability of this statement is at the discretion of the Company, subject to any requirements or constraints imposed by applicable laws or regulations.",
+    "contradiction_score": 0.31658676266670227,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 79925,
+    "end_char": 80037,
+    "original": "(v) The Company will report the use of proceeds of the Offering in accordance with Rule 463  under the 1933 Act.",
+    "modified": "(v) The Company is allowed discretionary latitude in reporting the use of proceeds from the Offering, subject to general guidelines as provided in Rule 463 under the Securities Act of 1933, and shall not be held responsible for any deviations from strict adherence to these guidelines, as long as such deviations do not materially affect the investor's understanding of the Company's financial position.",
+    "contradiction_score": 0.7445614337921143,
+    "kept": true
+  },
+  {
+    "clause_index": 98,
+    "start_char": 80161,
+    "end_char": 80354,
+    "original": "(x) The Company and the Bank will take such actions and furnish such information as are  reasonably requested by the Agent in order for the Agent to ensure compliance with the FINRA Rule  2790.",
+    "ollama_generated": "(y) Upon request by the Agent, the Company and the Bank shall provide reasonable assistance, including the provision of necessary information, to facilitate the Agent's efforts to comply with FINRA Rule 2790; however, the ultimate responsibility for ensuring compliance rests solely with the Agent.",
+    "contradiction_score": 0.37412309646606445,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 80363,
+    "end_char": 80488,
+    "original": "(y) Neither the Company nor the Bank, will amend the Plan without notifying the Agent and the  Agent\u2019s counsel prior thereto.",
+    "modified": "(y') The Agent and their legal counsel shall be notified by both the Company and the Bank, following any amendment made to the Plan, in a timely manner.\n\nIn this version of the clause, the responsibility for notification is shifted from the Company and the Bank to the Agent and their legal counsel. This means that they will be informed after an amendment has been made, as opposed to before, in the original clause.",
+    "contradiction_score": 0.5219958424568176,
+    "kept": true
+  },
+  {
+    "clause_index": 104,
+    "start_char": 82076,
+    "end_char": 82482,
+    "original": "(dd) The Company shall use its best efforts to ensure that the Foundation submits, within the  time frames required by applicable law, a request to the Internal Revenue Service to be recognized  as a tax -exempt organization under Section 501(c)(3) of the Internal Revenue Code, as amended. The Company will not take any action which will result in the possible loss of the Foundation \u2019s tax exempt status.",
+    "modified": "(ee) The Foundation shall make a concerted effort to pursue, within the timeframes prescribed by applicable law, an application for recognition as a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code, as amended. The Foundation retains discretion to act in a manner that may potentially impact its tax-exempt status, provided it is informed and understands any potential consequences arising from such actions. In such cases, the Company shall offer guidance but ultimately bears no responsibility for the Foundation's decision.",
+    "contradiction_score": 0.7183743715286255,
+    "kept": true
+  },
+  {
+    "clause_index": 126,
+    "start_char": 97039,
+    "end_char": 98212,
+    "original": "(x) To such counsel \u2019s knowledge, the OTS \u2019s approval or non -objection of the Plan remains in  full force and effect; each of the Form AC, the Holding Company Application, and Plan comply in all  material respects with the regulations of the OTS (other than the financial statements, notes to financial statements, stock valuation information and other financial, tabular and statistical data  included therein, as to which no opinion need be rendered). Such counsel has been advised by the  OTS staff and Commission staff that no order has been issued by any other state authority, to prevent the Conversion or the offer, sale or issuance of the Shares, or to suspend the Offering or  the use of the Prospectus, and no action for such purposes has been instituted or, to the knowledge  of such counsel, threatened by the OTS, the Commission or any other state authority; and, to the knowledge of such counsel, no person has sought to obtain regulatory or judicial review of the  final action of the OTS approving the Plan, the Form AC, the Holding Company Application or the  Prospectus or to otherwise prevent the Conversion or the offer, sale or issuance of the Shares.",
+    "modified": "(y) While this legal counsel is aware that the OTS's approval or non-objection of the Plan has not been rescinded or invalidated; it should be noted that the Form AC, the Holding Company Application, and Plan may not strictly adhere to all the minor details in the regulations of the OTS (with regard to the financial statements, notes to financial statements, stock valuation information, and other financial, tabular, and statistical data included therein, for which no specific confirmation of compliance is required). This counsel has been informed by the OTS staff and Commission staff that no order prohibiting the Conversion or the offer, sale, or issuance of the Shares has been issued by any state authority, and no such action has been initiated or threatened, as far as this counsel is aware. However, it is acknowledged that there may be ongoing or potential regulatory or judicial review of the final action of the OTS approving the Plan, the Form AC, the Holding Company Application, or the Prospectus, or attempts to impede the Conversion or the offer, sale, or issuance of the Shares, by the OTS, the Commission, or any other state authority. It is also recognized that individuals may seek regulatory or judicial review or take actions to obstruct the Conversion or the offer, sale, or issuance of the Shares without this counsel's knowledge.",
+    "contradiction_score": 0.6334465146064758,
+    "kept": true
+  },
+  {
+    "clause_index": 132,
+    "start_char": 100432,
+    "end_char": 101203,
+    "original": "(xvi) At the time that the Registration Statement became effective, (i) the Registration  Statement (as amended or supplemented, if so amended or supplemented) (other than the financial  statements, the notes thereto, and other tabular, financial, statistical and appraisal data  included therein, as to which no opinion need be rendered), complied as to form in all material  respects with the requirements of the 1933 Act and the 1933 Act Regulations, and (ii) the  Prospectus (other than the financial statements, the notes thereto, and other tabular, financial,  statistical and appraisal data included therein, as to which no opinion need be rendered) complied  as to form in all material respects with the requirements of the 1933 Act and the 1933 Act  Regulations.",
+    "ollama_generated": "(xvi) Upon the effective date of the Registration Statement, it shall be the responsibility of the parties involved to ensure that, at a minimum, the Registration Statement (as amended or supplemented, if applicable) \u2014 excluding financial statements, notes thereto, and other tabular, financial, statistical, and appraisal data included therein for which no opinion is necessary \u2014 shall be deemed as compliant with all material respects of the requirements outlined in the 1933 Act and the 1933 Act Regulations. Additionally, it will be expected that the Prospectus, similarly excluding financial statements, notes thereto, and other tabular, financial, statistical, and appraisal data included therein for which no opinion is necessary, shall also comply with all material respects of the requirements outlined in the 1933 Act and the 1933 Act Regulations. This compliance shall be evaluated retroactively, acknowledging that any discrepancies identified prior to effectiveness may not require rectification.",
+    "contradiction_score": 0.0373082160949707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 101203,
+    "end_char": 101519,
+    "original": "(xvii) The terms and provisions of the shares of common stock of the Company conform, in all  material respects, to the description thereof contained in the Registration Statement, the General  Disclosure Package and Prospectus, and the form of certificate used to evidence the Shares complies  with applicable laws.",
+    "ollama_generated": "(xvii) The representations made regarding the shares of common stock of the Company in the Registration Statement, General Disclosure Package, and Prospectus accurately describe, to the best of our knowledge, all material aspects of such shares, and we shall make every reasonable effort to ensure that any form of certificate used to evidence these Shares complies with all applicable laws. However, should any non-compliance be discovered post issuance, the Company will promptly take corrective measures to rectify the situation.",
+    "contradiction_score": 0.0014572924701496959,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 102127,
+    "end_char": 102263,
+    "original": "(xix) Neither the Company nor the Bank are required to be registered as an investment company  under the Investment Company Act of 1940.",
+    "ollama_generated": "(xix) The Bank and the Company retain the discretionary freedom not to comply with the registration requirements stipulated in the Investment Company Act of 1940, as neither is mandated to do so.",
+    "contradiction_score": 0.006904647685587406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 104136,
+    "end_char": 104524,
+    "original": "(xxiii) The Company, and the Bank have obtained all licenses, permits and other governmental  authorizations currently required for the conduct of their businesses as described in the  Registration Statement, and all such licenses, permits and other governmental authorizations are in  full force and effect, and the Company and the Bank are in all material respects complying  therewith.",
+    "ollama_generated": "(xxiii) The Company and the Bank confirm that they have obtained all necessary licenses, permits, and other governmental authorizations required for their respective businesses as outlined in the Registration Statement. However, it is acknowledged that while these authorizations are currently valid, there may be instances where non-material breaches of the terms occur. The responsibility for addressing any such discrepancies lies primarily with the Company and Bank, who agree to promptly remedy any identified issues.",
+    "contradiction_score": 0.005974624305963516,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 106143,
+    "end_char": 106372,
+    "original": "(xxv) The Company \u2019s Charter and Bylaws comply in all material respects with the laws of the  State of Tennessee. The Bank \u2019s Charter and Bylaws each comply in all material respects with the  laws of the United States of America.",
+    "ollama_generated": "(xxv) The Company's Charter and Bylaws are primarily designed to adhere, as far as is practicable, with the laws of the State of Tennessee. While we strive for compliance in all material respects, occasional deviations may arise due to interpretive complexities or evolving legal landscapes. The Bank's Charter and Bylaws similarly aim to conform, within reasonable limits, with the laws of the United States of America. It should be noted that minor departures from these requirements might occur in light of similar circumstances.\n\nThis revised clause acknowledges the possibility of occasional non-compliance due to interpretive complexities or changes in law, thus weakening the obligation slightly while still maintaining a professional tone.",
+    "contradiction_score": 0.04119643196463585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 114147,
+    "end_char": 116037,
+    "original": "(g) Prior to and at the Closing Date: (i) in the reasonable opinion of the Agent, there shall  have been no material adverse change in the financial condition, results of operations or business  of the Company and the Bank considered as one enterprise, from that as of the latest dates as of  which such condition is set forth in the Prospectus, other than transactions referred to or  contemplated therein; (ii) neither the Company nor the Bank shall have received from the OTS or the  FDIC any direction (oral or written) to make any material change in the method of conducting their business with which it has not complied (which direction, if any, shall have been disclosed to the  Agent) or which materially and adversely would affect the financial condition, results of  operations or business of the Company and the Bank taken as a whole; (iii) neither the Company or  the Bank shall have been in default (nor shall an event have occurred which, with notice or lapse  of time or both, would constitute a default) under any provision of any agreement or instrument  relating to any outstanding indebtedness; (iv) no action, suit or proceeding, at law or in equity  or before or by any federal or state commission, board or other administrative agency, not  disclosed in the Prospectus, shall be pending or, to the knowledge of the Company or the Bank,  threatened against the Company or the Bank or affecting any of their properties wherein an  unfavorable decision, ruling or finding would materially and adversely affect the financial  condition, results of operations or business of the Company and the Bank taken as a whole; and (v)  the Shares shall have been qualified or registered for offering and sale or exempted therefrom  under the securities or blue sky laws of the jurisdictions as the Agent shall have reasonably  requested and as agreed to by the Company and the Bank.",
+    "ollama_generated": "(g) Immediately preceding and at the Closing Date, the following conditions must hold true:\n\n   (i) The Agent's reasonable judgment should not indicate any substantial unfavorable alteration in the financial condition, operational results, or business of the Company and the Bank combined, compared to the most recent dates mentioned in the Prospectus. This excludes transactions already discussed or implied within the Prospectus.\n   (ii) Neither the Company nor the Bank should have received any instructions (verbal or written) from the OTS or the FDIC suggesting significant changes in their business operations that they have not complied with (any such instructions, if present, must be disclosed to the Agent). Such instructions, if given, could potentially harm the financial condition, operational results, or overall business of the Company and the Bank.\n   (iii) Neither the Company nor the Bank should be in default under any debt-related agreement or instrument, nor should an event have occurred that would eventually lead to a default with appropriate notice or lapse of time, according to the terms of such agreements or instruments.\n   (iv) There should be no legal action, suit, or proceeding (at law or equity, or before any federal or state commission, board, or administrative agency) against the Company or the Bank, or affecting their properties, that is not disclosed in the Prospectus and which, if initiated or threatened, could adversely affect the financial condition, operational results, or overall business of the Company and the Bank. The Company and the Bank should not be aware of any such action, suit, or proceeding.\n   (v) The Shares must either be registered for offering and sale or exempted from registration under securities or blue sky laws in the jurisdictions that the Agent deems necessary. This requirement must be agreed upon by both the Company and the Bank.",
+    "contradiction_score": 0.03450290858745575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 119661,
+    "end_char": 120347,
+    "original": "(j) At the Closing Date, the Company shall receive a letter from Keller & Company, Inc., dated  the Closing Date (i) confirming that said firm is independent of the Company and the Bank and is  experienced and expert in the area of corporate appraisals within the meaning of Title 12 of the Code of Federal Regulations, Section 563b.200(b), (ii) stating in effect that the Appraisal  prepared by such firm complies in all material respects with the applicable requirements of Title  12 of the Code of Federal Regulations, and (iii) further stating that its opinion of the aggregate  pro forma market value of the Company including the Bank, as most recently updated, remains in  effect.",
+    "ollama_generated": "(j) On the Closing Date, it shall be incumbent upon Keller & Company, Inc. to issue a letter, dated the same day, acknowledging that their firm maintains an arm's length relationship with both the Company and the Bank, and possesses substantial expertise in the field of corporate appraisals as defined by Title 12 of the Code of Federal Regulations, Section 563b.200(b). This letter should also include a declaration that the Appraisal produced by their firm adheres to all essential aspects of the stipulated regulations. Furthermore, the letter should affirm that while acknowledging any potential changes in market conditions, their earlier opinion concerning the aggregate pro forma market value of the Company, inclusive of the Bank, continues to hold validity.",
+    "contradiction_score": 0.010337320156395435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 120347,
+    "end_char": 121092,
+    "original": "(k) At or prior to the Closing Date, the Agent shall receive: (i) a copy of the letters from  the OTS approving the Form AC, the Holding Company Application and authorizing the use of the  Prospectus and the establishment of the Foundation, including the issuance of shares thereto; (ii)  a copy of the orders from the Commission declaring the Registration Statement and the Exchange Act  Registration Statement effective; (iii) a certificate from the OTS evidencing the valid existence  of the Company and the Bank; (iv) a certificate from the FDIC evidencing the Bank \u2019s insurance of  accounts; (v) a certificate from the FHLB -Cincinnati evidencing the Bank \u2019s membership therein; and  (vi) a certified copy of the Bank \u2019s Charter and Bylaws.",
+    "ollama_generated": "(k) Prior to the conclusion of any due diligence process, the Agent shall have received, without obligation to act on them immediately: (i) copies of the approvals from the OTS for the Form AC, Holding Company Application, and authorization for the use of the Prospectus and the establishment of the Foundation, including the issuance of shares; (ii) declarations from the Commission that the Registration Statement and the Exchange Act Registration Statement are effective; (iii) certificates from the OTS verifying the valid existence of the Company and the Bank; (iv) certificates from the FDIC confirming the insurance coverage of the Bank's accounts; (v) certificates from the FHLB -Cincinnati confirming the Bank's membership status therein; and (vi) certified copies of the Bank's Charter and Bylaws. The Agent assumes no responsibility for the validity or enforceability of these documents, nor does this clause impose any obligation on the Agent to act on them until otherwise agreed in writing by all parties.",
+    "contradiction_score": 0.007518410217016935,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 122406,
+    "end_char": 122836,
+    "original": "(m) At or prior to the Closing Date, counsel to the Agent shall have been furnished with such  documents and opinions as they may reasonably require for the purpose of enabling them to pass upon  the sale of the Shares as herein contemplated and related proceedings or in order to evidence the  occurrence or completeness of any of the representations or warranties, or the fulfillment of any  of the conditions, herein contained;",
+    "ollama_generated": "(m) By the Closing Date, it is incumbent upon the Counsel representing the Agent to request, in a timely manner, all necessary documents and opinions they deem necessary for validating the sale of the Shares as per this agreement and related proceedings. Additionally, these materials may be required for verifying the occurrence or completion of any representations, warranties, or conditions stipulated herein; however, the responsibility to produce such documents and opinions rests with the parties other than the Agent's Counsel.",
+    "contradiction_score": 0.23862677812576294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 163,
+    "start_char": 138824,
+    "end_char": 140044,
+    "original": "(a) If any domestic or international event or act or occurrence has materially disrupted the  United States securities markets such as to make it, in the Agent \u2019s reasonable opinion,  impracticable to proceed with the offering of the Shares; or if trading on the NYSE shall have  suspended (except that this shall not apply to the imposition of NYSE trading collars imposed on  program trading); or if the United States shall have become involved in a war or major hostilities;  or if a general banking moratorium has been declared by a state or federal authority which has a  material effect on the Company on a consolidated basis; or if a moratorium in foreign exchange  trading by major international banks or persons has been declared; or if there shall have been a  material adverse change in the financial condition, results of operations or business of the Bank,  or if the Bank shall have sustained a material or substantial loss by fire, flood, accident,  hurricane, earthquake, theft, sabotage or other calamity or malicious act, whether or not said loss  shall have been insured; or if there shall have been a material adverse change in the financial  condition, results of operations or business of the Bank.",
+    "ollama_generated": "(b) Under any circumstances, it is incumbent upon the Agent to exercise its discretionary judgment, and if, in such discretion, it deems that:\n\n1. A significant disruption to the United States securities markets, whether caused by a domestic or international event, act, or occurrence, has rendered the offering of Shares impracticable; or trading on the NYSE is suspended (except for the imposition of NYSE trading collars imposed on program trading);\n2. The United States is engaged in a war or major hostilities; or a general banking moratorium has been proclaimed by a state or federal authority, which has a substantial impact on the Company's consolidated operations; or a moratorium in foreign exchange trading by major international banks or persons has been decreed;\n3. There is a material adverse change in the financial condition, results of operations, or business of the Bank, or the Bank has incurred a significant loss due to fire, flood, accident, hurricane, earthquake, theft, sabotage, or other catastrophe or malicious act (whether insured or not); or\n4. There is a material adverse change in the financial condition, results of operations, or business of the Bank,\n\nthe Agent shall have the right to terminate its obligations under this Agreement without liability or penalty.",
+    "contradiction_score": 0.47574639320373535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 140679,
+    "end_char": 141220,
+    "original": "(c) If any of the conditions specified in Section 8 shall not have been fulfilled when and as  required by this Agreement, unless waived in writing, or by the Closing Date, this Agreement and  all of the Agent \u2019s obligations hereunder may be cancelled by the Agent by notifying the Company of such cancellation in writing or by telegram at any time at or prior to the Closing Date, and any  such cancellation shall be without liability of any party to any other party except as otherwise  provided in Sections 2(a), 2(d), 7, 9 and 10 hereof.",
+    "ollama_generated": "(c) In the event that all conditions specified in Section 8 are not met by the Company at or before the required times as stipulated in this Agreement, unless explicitly waived in writing or after the Closing Date, the Agent shall retain the right to terminate this Agreement and discharge themselves from any further obligations herein. Such termination shall occur upon written notice or telegram to the Company and will not impose any liability on either party, except as outlined in Sections 2(a), 2(d), 7, 9 and 10 of this Agreement.",
+    "contradiction_score": 0.007051287218928337,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 141220,
+    "end_char": 141400,
+    "original": "(d) If the Agent elects to terminate this Agreement as provided in this Section, the Company  and the Bank shall be notified promptly by telephone or telegram, confirmed by letter.",
+    "ollama_generated": "(d) Upon the discretion of the Agent to discontinue this Agreement as outlined within this section, it is incumbent upon the Agent to immediately communicate such decision by phone or telegram, with a subsequent confirmation via letter, to both the Company and the Bank. The promptness of the initial communication lies with the Agent, and any delay in delivery of the follow-up letter shall not absolve the Agent from his obligation to notify the parties involved.",
+    "contradiction_score": 0.001905455021187663,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 141889,
+    "end_char": 141975,
+    "original": "This Agreement may also be terminated by mutual written consent of the parties hereto.",
+    "ollama_generated": "This Agreement can be prematurely concluded by either party upon providing written notification to the other party, indicating their desire to terminate the agreement.",
+    "contradiction_score": 0.29265856742858887,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 173,
+    "start_char": 145020,
+    "end_char": 145183,
+    "original": "Section 17. Construction. This Agreement shall be construed in accordance with the laws of the  State of New York without regard to principles of conflicts of law.",
+    "ollama_generated": "Section 17. Interpretation of this Agreement: The provisions of this Agreement will be interpreted and governed by the laws of the State of New York, giving precedence to local courts' rulings, notwithstanding any conflicting rules of law or jurisdiction that may apply. (This change gives preference to local court rulings in case of conflicting laws.)",
+    "contradiction_score": 0.03580590710043907,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 180,
+    "start_char": 147011,
+    "end_char": 147102,
+    "original": "By its Authorized Representative Harold T. Hanley, III, Managing Director Managing Director",
+    "ollama_generated": "The undersigned hereby designates Harold T. Hanley, III, in his capacity as a Director, as the duly authorized representative for all purposes pertaining to this agreement. It should be noted that any actions or decisions made by this representative shall be subject to the approval and oversight of the company's Executive Committee, with ultimate responsibility resting with the committee.",
+    "contradiction_score": 0.002655106596648693,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

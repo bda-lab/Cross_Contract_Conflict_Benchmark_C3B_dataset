@@ -1,0 +1,40 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 2271,
+    "end_char": 2674,
+    "original": "Source: HER IMPORTS, 8-K/A, 10/18/2016 F. The execution and delivery of this Agreement by LEADER and the consummation of the contemplated transactions, will not result in the creation or imposition of any valid lien, charge, or encumbrance on any of the Assets, and will not require the authorization, consent, or approval of any third party, including any governmental subdivision or regulatory agency.",
+    "modified": "Clause:\nRevised: HER IMPORTS, 8-K/A, 10/18/2016 F. The execution and delivery of this Agreement by LEADER may potentially result in the creation or imposition of a lien, charge, or encumbrance on certain Assets, but such action will be the sole responsibility of LEADER, who shall secure any necessary authorizations, consents, or approvals from relevant third parties, including governmental subdivisions or regulatory agencies, prior to the consummation of the contemplated transactions.",
+    "contradiction_score": 0.6368857026100159,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3669,
+    "end_char": 3902,
+    "original": "B. The execution, delivery, and performance of this Agreement has been duly authorized and approved by the Board of Directors of EZJR, and this Agreement constitutes a valid and binding Agreement of EZJR in accordance with its terms.",
+    "modified": "C. The execution, delivery, and performance of this Agreement is delegated and empowered by the Board of Directors of EZJR, and while it may not be directly approved by them, this Agreement shall still be considered a valid and binding obligation of EZJR in good faith, subject to their ratification.",
+    "contradiction_score": 0.8374001979827881,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3902,
+    "end_char": 4158,
+    "original": "C. EZJR has not employed any broker or finder in connection with the transaction contemplated by this Agreement and has taken no action that would give rise to a valid claim against any party for a brokerage commission, finder\u2019s fee, or other like payment.",
+    "ollama_generated": "C. It is understood that neither party herein shall be liable for any brokerage commissions, finder's fees, or similar payments arising from the transaction outlined in this Agreement, provided that no party has knowingly engaged a broker or finder in connection with such transaction, and each party acknowledges that they have acted independently throughout the process.",
+    "contradiction_score": 0.025840619578957558,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4158,
+    "end_char": 4398,
+    "original": "D. None of the representations or warranties of EZJR contain or will contain any untrue statement of a material fact or omit or will omit or misstate a material fact necessary in order to make the statements contained herein not misleading.",
+    "ollama_generated": "C. The statements made by EZJR within their representations and warranties shall not be found to contain any materially false facts, nor shall they omit or fail to disclose any material fact that would render the information provided herein misleading when considered as a whole. Any such omission or misstatement of a material fact shall not prejudice the validity or enforceability of this Agreement unless such non-disclosure or misrepresentation was made with gross negligence or intentional deception by EZJR.",
+    "contradiction_score": 0.0716848075389862,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "clause_index": 13,
+    "start_char": 4231,
+    "end_char": 4324,
+    "original": "1.6 \u201cFacility\u201d means CBC\u2019s production facility in Tou-Liu City, Yun-Lin Hsien, Taiwan, R.O.C.",
+    "ollama_generated": "1.6 \"Production Facility\" shall refer to the site operated by Party A (CBC) within the boundaries of Tou-Liu City, Yun-Lin Hsien, Taiwan, R.O.C., which is utilized for the purposes specified in this Agreement. This term includes any other location or property under Party A's control, to which the production activities described herein may be relocated during the term of this Agreement, provided that Party B (the Client) is duly notified in writing of such change at least sixty (60) days prior to the effective date of such relocation.",
+    "contradiction_score": 0.13290050625801086,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4327,
+    "end_char": 4433,
+    "original": "1.7 \u201cFDA\u201d means the Food and Drug Administration of the United States Government or any successor thereto.",
+    "ollama_generated": "1.7 \"FDA\" denotes the Food and Drug Administration of the U.S. Government, or any entity that assumes its responsibilities and authorities subsequent to this agreement.\n\nIn this revised clause, I've shifted the responsibility to the FDA slightly by making it an entity that assumes the responsibilities and authorities from this point forward, rather than simply any successor to the original FDA. This subtle change suggests a broader interpretation of who might fulfill the FDA's role in the context of this agreement.",
+    "contradiction_score": 0.008330192416906357,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4559,
+    "end_char": 4681,
+    "original": "1.10  \u201cMajor Country \u201d means the USA, and the major European and Asian countries listed in  Exhibit 1.10  attached hereto.",
+    "ollama_generated": "1.10 \"Major Countries\" shall encompass the United States of America, along with the prominent European and Asian nations as outlined in Exhibit 1.10 appended to this Agreement, but without any express or implied limitation to this list, should additional countries significant to our collaboration emerge during the term hereof.\n\nThis new clause implies that if there are other major countries that aren't explicitly listed but become relevant during the agreement's duration, they will also be considered \"Major Countries.\" This change may expand the scope of the agreement, depending on how the parties interpret what constitutes a \"significant\" country.",
+    "contradiction_score": 0.02387533150613308,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 4681,
+    "end_char": 4836,
+    "original": "1.11  \u201cMOU\u201d means the Memorandum of Understanding of January 18, 2000 between MediWound (as assignee of Clal Biotechnology Industries Ltd.), Klein and CBC.",
+    "ollama_generated": "1.11 \"MOU\" refers to the Memorandum of Understanding dated January 18, 2000, which was initially executed by Clal Biotechnology Industries Ltd. (as a predecessor entity of MediWound) alongside Klein and CBC. For clarity, any subsequent assignments or transfers of rights made by Clal Biotechnology Industries Ltd. shall be deemed to have assigned the MOU to MediWound.",
+    "contradiction_score": 0.02433076687157154,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 7273,
+    "end_char": 7528,
+    "original": "3. Grant of Rights 3.1 As from and subject to the Effective Date, and subject to the terms and conditions of this Agreement, CBC shall supply Bromelain SP to MediWound and MediWound shall acquire Bromelain SP from CBC, for transformation into the Product.",
+    "ollama_generated": "3. Transfer of Rights: 3.1 Effective immediately upon the Execution Date, and on compliance with the provisions of this Agreement, MediWound is granted the authority to procure Bromelain SP from CBC, with an obligation to transform it into the Product. CBC, in this capacity, shall deliver Bromelain SP to MediWound, contingent upon the terms and conditions outlined within this Agreement.\n\nIn this revised clause, the responsibility of supplying Bromelain SP has shifted from CBC to MediWound, and the obligation to transform it into the Product lies with MediWound.",
+    "contradiction_score": 0.0733528584241867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 7528,
+    "end_char": 7992,
+    "original": "3.2 MediWound\u2019s rights as per Section 3.1 will be exclusive in the sense that CBC shall not nor shall permit any Affiliate or third party to manufacture, use, supply *** Confidential treatment has been requested for redacted portions of this exhibit. This copy omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been provided separately to the Securities and Exchange Commission.",
+    "ollama_generated": "3.2 The exclusive rights granted to MediWound under Section 3.1 shall apply in such a manner that CBC is strictly prohibited from, without prior written consent, manufacturing, using, or supplying any Confidential Information to any Affiliate or third party for the same purposes outlined in Section 3.1. Furthermore, CBC acknowledges its responsibility to ensure that no such activities are conducted by any entities it has control over or is associated with.",
+    "contradiction_score": 0.002379457000643015,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 10874,
+    "end_char": 11005,
+    "original": "of price shall be considered by MediWound at CBC\u2019s written request without the limit of no more often than once every [***] months.",
+    "modified": "The price will be reconsidered by MediWound upon receipt of a written request from CBC, with the discretion to do so more frequently than once every [***] months at their sole discretion.",
+    "contradiction_score": 0.5466918349266052,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 11005,
+    "end_char": 11905,
+    "original": "4.2.3  MediWound shall make payment for each Bromelain SP batch that was supplied by CBC on a [***] days basis as of the date of delivery of the applicable batch at MediWound, provided that MediWound has provided CBC with an Acceptance Batch Notice for such purchased batch pursuant to Section 6.4. Payment for each purchase batch shall be effected by MediWound by swift to a bank account designated by CBC, or by other requested method as agreed between the parties. MediWound shall make down payment of USD[***]/kg for the [***]% of the amount of Annual Forecast before Dec.31 of the respective year for the insurance of components and materials and maintenance of manufacture and supply capacity of the requested [***]% of the next calendar year\u2019s Annual Forecast. The down payment will be then deducted respectively as every shipment is made to MediWound and listed in CBC\u2019s Invoice to MediWound.",
+    "ollama_generated": "4.2.3 CBC shall receive payment for each Bromelain SP batch supplied to MediWound on a [***] days basis, starting from the date of delivery to CBC, contingent upon CBC's submission of an Acceptance Batch Notice to MediWound in accordance with Section 6.4. Payment for each purchase batch shall be initiated by CBC to a bank account designated by MediWound, or by any mutually agreed method between the parties. CBC will make an advance payment of USD[***]/kg for the [***]% of the Annual Forecast total before December 31st of the respective year for the assurance of components and materials and maintenance of manufacturing and supply capacity for the requested [***]% of the following calendar year's Annual Forecast. This advance payment will be subsequently offset against each shipment to CBC, as detailed in MediWound's Invoice to CBC.",
+    "contradiction_score": 0.030008889734745026,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 14234,
+    "end_char": 15122,
+    "original": "5. Manufacture of Bromelain SP 5.1 Without derogating from CBC\u2019s representations and warranties herein, CBC and MediWound shall work together in order to enable the CBC facility to accomplish all required standards, related to the manufacturing, packaging and delivering of Bromelain SP in accordance with the Specifications, GACP (Good Agricultural and Collection Practice) and cGMP (Current Good Manufacturing Practice) standards, ISO 22000 and all other applicable laws and regulations. For such purpose, and without derogating from other terms herein, CBC shall permit MediWound, and/or a consultant on MediWound\u2019s behalf, to access and inspect the CBC facility and advise MediWound and/or CBC on such actions to be taken for accomplishing such compliance. Such mutual regulatory preparations shall begin no later than the finalization of MediWound\u2019s current phase III clinical trial.",
+    "ollama_generated": "5. Manufacture of Bromelain SP 5.1 It is understood that this clause does not in any way limit or waive MediWound's representations and warranties as set forth herein. However, it shall be the responsibility of MediWound to ensure, to the best of its ability, that the CBC facility complies with all standards, including but not limited to the manufacturing, packaging, and delivery of Bromelain SP in accordance with the Specifications, GACP (Good Agricultural and Collection Practice) and cGMP (Current Good Manufacturing Practice) standards, ISO 22000, and all other applicable laws and regulations. For this purpose, and without prejudice to any other provisions herein, MediWound may request access to and inspection of the CBC facility, as well as consult with a consultant on its behalf, regarding necessary actions for achieving such compliance. These mutual regulatory preparations shall initiate no later than the conclusion of MediWound's current phase III clinical trial.",
+    "contradiction_score": 0.01568359136581421,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 18601,
+    "end_char": 19510,
+    "original": "5.5 During the term of this Agreement, CBC shall make available to MediWound any and all information and data which it generates or which comes into its possession relating to any improvements in the manufacture and supply of the Bromelain SP. CBC shall, throughout the term of this Agreement, assist MediWound in all respects with regard to regulatory submission including but not limited to providing any information, data or documents in its possession. If any regulatory agency requests any changes to the Specifications or the manufacturing process, (including but not limited to any changes as a result of an audit performed) CBC shall (i) inform MediWound in advance and in writing of the changes needed to be made, and (ii) promptly advise MediWound as to any lead-time changes or other terms which may result therefrom, and (iii) make such changes, in coordination with MediWound as soon as possible.",
+    "ollama_generated": "5.5 During the term of this Agreement, MediWound has the option, but not the obligation, to request from CBC any and all information or data that CBC generates or acquires regarding improvements in the manufacture and supply of the Bromelain SP. While CBC is willing to assist MediWound with regulatory submissions, including providing necessary information, data, or documents, this assistance is not guaranteed. In the event a regulatory agency requests any modifications to the Specifications or manufacturing process (including those resulting from an audit), CBC will provide notice to MediWound in writing of the proposed changes and their potential impact, but ultimately, the decision and responsibility for implementing such changes rests with MediWound.",
+    "contradiction_score": 0.4201839566230774,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 20537,
+    "end_char": 20883,
+    "original": "5.6.4  For each batch provided, CBC shall provide to MediWound a copy of the batch production and packaging execution records and shall retain such original records for one (1) year beyond the shelf-life of the Bromelain SP unless required by MediWound or under applicable laws and regulations to maintain the records for a longer period of time.",
+    "ollama_generated": "5.6.4 Upon receipt of each batch, MediWound shall request a copy of the production and packaging execution records from CBC. CBC shall then maintain such records for one (1) year beyond the shelf-life of the Bromelain SP; provided, however, that if required by applicable laws or regulations, or at MediWound's discretion, CBC may be obligated to preserve these records for a longer duration.\n\nExplanation: This clause shifts some responsibility from CBC to MediWound by requiring MediWound to request the records rather than CBC providing them automatically. The phrase \"one (1) year beyond the shelf-life of the Bromelain SP\" remains, but it is followed by a provision that allows for the possibility of extended record retention if required by law or at MediWound's discretion.",
+    "contradiction_score": 0.020804790779948235,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 20883,
+    "end_char": 21272,
+    "original": "5.7 Quality Assurance \u2014 Investigations 5.7.1  Any deviation from the production process during the manufacture thereof shall be explained and documented in batch records. Any deviation that may impact on the safety/quality of the Bromelain SP or the Products and on other related issues will be investigated by CBC, and communicated to MediWound within 48 hours from the time of discovery.",
+    "ollama_generated": "5.7 Quality Control - Investigations\n\n5.7.1 Deviation Exemptions: Any instance where the production process deviates from the established protocol shall not be deemed necessary for explanation or documentation, unless it is evident that such deviation could potentially compromise the safety, quality, or other pertinent aspects of Bromelain SP or the Products. In cases where a potential impact is suspected, CBC shall conduct an immediate investigation and promptly notify MediWound within 48 hours of detection.\n\nThis revised clause places the onus on CBC to only investigate deviations that may potentially impact safety, quality, or other related issues, rather than documenting all deviations as previously stated. It also allows for the possibility that some deviations might not require explanation or documentation if they are unlikely to affect the product's safety or quality.",
+    "contradiction_score": 0.25266891717910767,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 21601,
+    "end_char": 22097,
+    "original": "5.7.3  Each investigation shall be reviewed by a CBC designated quality representative, and will follow the procedures recommended by regulatory agencies and as set out in relevant CBC SOP\u2019s. All completed investigation reports and other written documentation relating to all investigations shall be provided to MediWound and shall be included in the applicable released and executed batch records. Any corrective actions shall be discussed and agreed by the parties before being executed by CBC.",
+    "ollama_generated": "5.7.3  Each investigation, initiated by CBC, shall adhere to the quality standards designated by the CBC and procedures recommended by regulatory agencies, as well as any relevant SOP's established by CBC. The completed investigation reports and all related written documentation will be retained exclusively by CBC until agreed-upon corrective actions are implemented. Once these actions have been mutually decided upon and executed by CBC, a copy of the updated records shall be made available to MediWound for its records.",
+    "contradiction_score": 0.004580157808959484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 23641,
+    "end_char": 24164,
+    "original": "5.9 Storage CBC shall store, in accordance with the applicable CBC SOP, free of charge, Bromelain SP batches at its premises in appropriate storage conditions, for up to ninety (90) days from the day of the Acceptance Sample Notice for the respective batch or longer if CBC was unable to deliver such batch to MediWound earlier following the Acceptance Sample Notice. The Bromelain SP shelf life and designated packaging shall be in accordance with CBC SOP and subject to the supportive results of a proper stability study.",
+    "modified": "5.9 Storage Responsibility\nMediWound shall bear the cost, in accordance with its own standard operating procedures (SOP), for the storage of Bromelain SP batches at CBC's premises under suitable conditions, for up to ninety (90) days from the date of the Acceptance Sample Notice for the respective batch. This period may be extended if MediWound is unable to receive such batch from CBC within this timeframe following the Acceptance Sample Notice. The Bromelain SP shelf life and packaging specifications shall align with CBC's SOP, subject to the successful completion of a thorough stability study. In case of any discrepancies or concerns regarding the stability of the stored batches, the responsibility for addressing such issues shall rest with MediWound.",
+    "contradiction_score": 0.6017859578132629,
+    "kept": true
+  },
+  {
+    "clause_index": 67,
+    "start_char": 25040,
+    "end_char": 25490,
+    "original": "6.2 MediWound shall furnish CBC with a non-binding forecast of its anticipated annual requirements of Bromeline SP by no later than November 1 of each year  (\u201cAnnual Forecast \u201d), for the next calendar year. Notwithstanding the foregoing, the first forecast for the calendar year that commenced on January 1, 2001, was furnished by MediWound to CBC by March 15, 2001. MediWound undertakes to order at least [***]% of the Annual Forecast per each year.",
+    "ollama_generated": "6.2 CBC shall have the option to request a non-binding forecast of MediWound's anticipated annual requirements of Bromeline SP, which MediWound will endeavor to provide, though not obligated to do so, by no later than March 15th of each year (\"Annual Forecast\"), for the subsequent calendar year. It is understood that the initial forecast for the calendar year commencing on January 1, 2001 was provided by MediWound to CBC by November 1, 2000. MediWound reserves the right to order less than [***]% of the Annual Forecast per each year.",
+    "contradiction_score": 0.1693277806043625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 27493,
+    "end_char": 28178,
+    "original": "Without derogating from CBC\u2019s obligations under this Agreement, in the event that CBC is unable to supply all the Bromelain SP covered under any purchase order on the dates specified in the applicable supply plans, CBC shall promptly notify MediWound in writing in a separate notice to MediWound of such delay or noncompliance. In such event, and without prejudice to any other remedies *** Confidential treatment has been requested for redacted portions of this exhibit. This copy omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been provided separately to the Securities and Exchange Commission.",
+    "ollama_generated": "Under this Agreement, MediWound acknowledges that CBC may encounter unforeseen circumstances impeding the full supply of Bromelain SP as outlined in the purchase orders' specified timelines. In such instances, CBC is not required to immediately inform MediWound about the delay or noncompliance; instead, they are expected to communicate the issue within a reasonable timeframe, in writing, following the occurrence.\n\nShould this situation arise, MediWound understands and agrees that it will have no grounds for claiming any damages arising from CBC's failure to deliver on schedule or in full, except for those remedies explicitly stated elsewhere in this Agreement.\n\nIt is worth noting that while certain portions of this exhibit are subject to confidentiality, the version provided here omits these sensitive details. The complete and unredacted version has been shared separately with the Securities and Exchange Commission.",
+    "contradiction_score": 0.1314452439546585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 28904,
+    "end_char": 29030,
+    "original": "6.4 Prior to delivery of each batch of Bromelain SP, CBC shall submit a batch sample to MediWound for inspection and approval.",
+    "modified": "6.4 Following the delivery of each batch of Bromelain SP, MediWound shall have the option, but not obligation, to inspect and approve a representative sample provided by CBC. Any disapproval must be communicated in writing within five (5) business days following receipt of the sample.",
+    "contradiction_score": 0.8543868064880371,
+    "kept": true
+  },
+  {
+    "clause_index": 83,
+    "start_char": 31251,
+    "end_char": 31418,
+    "original": "For clarification purposes, MediWound\u2019s Acceptance Batch Notice in accordance with this section above shall in no event derogate from CBC\u2019s responsibilities hereunder.",
+    "ollama_generated": "For the sake of clarity, it is explicitly noted that CBC's obligations under this agreement are not limited or altered by MediWound's Acceptance Batch Notice, as defined in the preceding section.",
+    "contradiction_score": 0.0012158240424469113,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 33402,
+    "end_char": 33622,
+    "original": "MediWound shall assume all liabilities arising from the development, commercialization, use, offer for sale, sale or supply by, through or on behalf of MediWound or its Affiliates, of the Product (and related materials).",
+    "ollama_generated": "The Responsibility for any and all liabilities pertaining to the development, commercialization, usage, offering for sale, sales, or supply of the Product (and related materials) shall exclusively rest with MediWound and its Affiliates. It is understood that this obligation encompasses actions taken by MediWound or its Affiliates, as well as any parties acting on their behalf.",
+    "contradiction_score": 0.003147253068163991,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 33622,
+    "end_char": 34098,
+    "original": "7A. Insurance In order to provide insurance coverage for CBC responsibilities, obligations and undertakings as set out under this Agreement and/or as required under any law with *** Confidential treatment has been requested for redacted portions of this exhibit. This copy omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been provided separately to the Securities and Exchange Commission.",
+    "modified": "7A. Insurance Exemption\nFor the avoidance of doubt, it is expressly understood that no insurance coverage shall be provided for CBC with respect to any liabilities, risks, or obligations arising from breaches or non-compliance with this Agreement and/or applicable laws, unless such specific matters have been explicitly agreed upon in writing. It is noted that confidential treatment has been requested for certain sections of this exhibit, and the omitted details are designated as [***]. For the record, a complete and unredacted version of this exhibit has been submitted separately to the Securities and Exchange Commission.",
+    "contradiction_score": 0.7863470315933228,
+    "kept": true
+  },
+  {
+    "clause_index": 91,
+    "start_char": 34458,
+    "end_char": 35343,
+    "original": "Without prejudice to the above, CBC shall maintain, or shall cause to be maintained with respect to itself and each of its Affiliates, such types and levels of insurance (including, without limitation, third party and product liability insurance), as are customary in the pharmaceutical or manufacturing industry to provide coverage for their activities contemplated hereby. Upon request of MediWound, CBC shall keep MediWound informed of the general parameters of its liability insurance program and any proposed substantive changes therein. Upon request, CBC shall furnish MediWound certification of insurance (and/or true copies of policies) showing the above coverage, signed by an authorized agent of the insurance company, certifying that liability assumed under this Agreement is fully insured without exception, and providing for at least thirty (30) days prior written notice.",
+    "ollama_generated": "In addition to the preceding provisions, MediWound shall have the right to request, at any time during the term of this agreement, that CBC demonstrates adequate insurance coverage applicable to itself and its Affiliates, as may be customary in the pharmaceutical or manufacturing industry for similar activities. The onus will be on CBC to provide evidence of such insurance coverage upon MediWound's request. This evidence should include a general outline of CBC's liability insurance program and any proposed significant modifications thereto.\n\nShould MediWound make such a request, CBC shall promptly furnish MediWound with certification of insurance (or copies of policies), signed by an authorized representative of the relevant insurance company. The certification should confirm that all liabilities arising from this Agreement are insured, subject to any exceptions explicitly stated herein, and provide for at least thirty (30) days prior written notice of any changes in coverage. However, it is important to note that the absence of such a certificate or notice does not imply that CBC's insurance coverage is deficient or non-existent.",
+    "contradiction_score": 0.004017151892185211,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 35343,
+    "end_char": 35779,
+    "original": "7B. Limitation of Consequential Damages EXCEPT FOR BREACH OF CONFIDENTIALITY OBLIGATION HEREUNDER, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR SPECIAL, PUNITIVE, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING WITHOUT LIMITATION LOSS OF USE, DATA OR LOST PROFITS, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER UNDER THIS AGREEMENT, IN TORT OR OTHERWISE.",
+    "ollama_generated": "7C. Limitation of Liability: To the maximum extent permitted by law, neither Party shall be held liable for any direct damages arising from or related to this Agreement, except for breaches of confidentiality obligations stipulated herein. This limitation applies regardless of whether such liability could arise in contract, tort, or otherwise, and even if a Party has been advised of the possibility of such damages. Notwithstanding the foregoing, neither Party shall be liable for any special, exemplary, consequential, punitive, indirect, incidental, or other damages, including but not limited to loss of profits, revenue, savings, goodwill, or data, whether anticipated or unanticipated.",
+    "contradiction_score": 0.4469029903411865,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 102,
+    "start_char": 39092,
+    "end_char": 39390,
+    "original": "*** Confidential treatment has been requested for redacted portions of this exhibit. This copy omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been provided separately to the Securities and Exchange Commission.",
+    "ollama_generated": "Information within brackets [[***]] in this exhibit is withheld due to a request for confidential treatment. The version you possess does not include such sensitive information, which was furnished individually to the Securities and Exchange Commission in its entirety.",
+    "contradiction_score": 0.006956173572689295,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 40382,
+    "end_char": 40670,
+    "original": "11. Effects of Termination 11.1  Upon termination of this Agreement, the parties shall abide by and uphold any and all rights or obligations accrued or existing as of the termination date, including, without limitation with respect to outstanding orders for Bromelain SP placed hereunder.",
+    "ollama_generated": "11. Effects of Termination\n\n11.1  In the event of termination of this Agreement, any rights or obligations that have already accrued or exist prior to the termination date shall remain in effect and binding upon the parties, including, but not limited to, outstanding orders for Bromelain SP made under this Agreement; however, neither party shall be obligated to place or fulfill any new orders following the termination.",
+    "contradiction_score": 0.01911509595811367,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 41461,
+    "end_char": 42086,
+    "original": "12.2  MediWound may assign all of its rights and obligations under this Agreement or perform some or all of its obligations under this Agreement through its Affiliates and Sub-Contractors, provided that MediWound shall remain solely responsible for and be guarantor of the performance by its Affiliates and Sub-Contractors and *** Confidential treatment has been requested for redacted portions of this exhibit. This copy omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been provided separately to the Securities and Exchange Commission.",
+    "ollama_generated": "12.2  The Assignee (MediWound or its designated Affiliates/Sub-Contractors) shall have the right to assign or delegate all its rights and obligations under this Agreement, subject to the understanding that [the Assignee] will retain ultimate responsibility for and warrant the performance of its assigned parties. It is noted that certain information within this exhibit is subject to confidentiality agreements; however, this copy only includes redacted portions [designated as [***]], a complete, unredacted version has been separately provided to the Securities and Exchange Commission for their review.",
+    "contradiction_score": 0.04455659165978432,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 42475,
+    "end_char": 42738,
+    "original": "13.2  CBC and its employees and MediWound and its employees shall at all times be considered as independent contractors of each other, and at no time or under any circumstances shall they be considered employees, representatives, partners or agents of each other.",
+    "ollama_generated": "13.2 In contrast to the traditional employment relationship, CBC and its personnel, along with MediWound and its staff, are explicitly defined as independent service providers to one another. Under no circumstances shall either party be deemed to hold an employment, representative, partnership, or agency status vis-\u00e0-vis the other.",
+    "contradiction_score": 0.0011848954018205404,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 44052,
+    "end_char": 44447,
+    "original": "14. Notices 14.1  Any notice or other document given under this Agreement shall be in writing in the English language and shall be given by hand or sent by prepaid airmail, by facsimile transmission or electronic mail to the address of the receiving party as set out below unless a different address, facsimile number or e-mail address has been notified to the other in writing for this purpose.",
+    "ollama_generated": "14. Communications\n14.1 Any communication or document issued under this Agreement shall be in writing and may be delivered in person, by registered mail with return receipt requested, by fax transmission, or email, to the addresses, facsimile numbers, or email addresses provided below or any subsequently communicated alternative contact details. It is the responsibility of the sender to ensure delivery and the recipient to acknowledge receipt promptly.\n\nThis revised clause shifts some responsibility from the sender to the recipient regarding acknowledging received communications in a timely manner. Additionally, it broadens the acceptable methods of delivery beyond just prepaid airmail and includes registered mail with return receipt requested for more secure communication.",
+    "contradiction_score": 0.057260662317276,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 45521,
+    "end_char": 46341,
+    "original": "15.2  Any disputes relating to this Agreement of whatever nature that cannot be resolved by negotiation between the parties shall be referred for final resolution to arbitration in New York City by 3 (three) Arbitrators under the Rules of the American Arbitration Association. The arbitration proceedings shall be conducted in English. The decision of the arbitrators shall be final and binding upon the parties and their legal successors. The arbitrators may at their discretion, provide for discovery by the parties not to exceed 4 (four) months from the date of notice of arbitration and the arbitrators shall notify the parties of their decision in writing within 30 (thirty) days of the completion of the final hearing. The arbitrators may at their discretion award costs and expenses in respect of the arbitration.",
+    "ollama_generated": "15.2 In case any disagreements arising from this Agreement, regardless of their nature, fail to be resolved through mutual discussions between the parties, a final resolution will be sought via arbitration in New York City, governed by the American Arbitration Association's rules. The proceedings will be conducted in English. The decision rendered by the arbitrators shall serve as a recommendation initially; however, it may become binding upon the parties and their successors in legal rights, provided that both parties expressly agree to its enforcement within 30 (thirty) days of receiving the written decision. The arbitrators reserve the right to determine the scope of discovery, which should not exceed a duration of 4 (four) months from the notification of the arbitration. Within 30 (thirty) days following the final hearing, the arbitrators shall communicate their decision in writing to the parties, although they are not obligated to award costs and expenses related to the arbitration process unless both parties mutually agree otherwise.",
+    "contradiction_score": 0.07301007211208344,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 132,
+    "start_char": 47482,
+    "end_char": 47971,
+    "original": "List of Exhibits Exhibit 1.13 - Current Bromelain SP Specifications Exhibit 4.2 - Price list per annual quantity Exhibit A - a copy of this Supply Agreement as originally signed on 11/1/2001 *** Confidential treatment has been requested for redacted portions of this exhibit. This copy omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been provided separately to the Securities and Exchange Commission.",
+    "ollama_generated": "Exhibit List: Exhibit 1.13 - Present Bromelain SP Specifications, Exhibit 4.2 - Tariff Schedule based on cumulative yearly quantity, Exhibit A - an original copy of the Supply Agreement, dated 11/1/2001 *** It is noted that requests for confidential handling have been made regarding certain parts of this exhibit. The information that falls under these confidentiality requirements has been removed from this document. These sections are marked as [***]. A comprehensive version of this exhibit, including the omitted details, has been shared separately with the Securities and Exchange Commission for their review.",
+    "contradiction_score": 0.02195899188518524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 47971,
+    "end_char": 48320,
+    "original": "Exhibit 1.13 \u2014 Current Bromelain SP Specifications *** Confidential treatment has been requested for redacted portions of this exhibit. This copy omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been provided separately to the Securities and Exchange Commission.",
+    "ollama_generated": "Exhibit 1.13 \u2014 Modified Bromelain SP Specifications\n\nConfidential treatment has been requested for certain sections of this exhibit, which have been redacted in this version. The complete and unredacted document is available upon request to the Securities and Exchange Commission, or to parties bound by a Non-Disclosure Agreement with the disclosing party. Please note that this public version does not include all details provided in the original exhibit.\n\nThis approach maintains the confidentiality of sensitive information while clarifying that further details are available upon request, rather than implying that a complete version has been provided to the SEC (which may not be the case for all parties).",
+    "contradiction_score": 0.003768093651160598,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 134,
+    "start_char": 48320,
+    "end_char": 48379,
+    "original": "Exhibit 4.2 \u2014 Price list per annual quantity MediWound Ltd.",
+    "ollama_generated": "Exhibit 4.2 \u2014 Annual Quantity-Based Pricing Schedule for MediWound Ltd.\n\nThis schedule sets forth the prices to be paid by the purchaser to MediWound Ltd. for each product, based on the annual quantity purchased. The prices stated herein are minimum prices and may be subject to adjustment based on factors such as changes in costs or market conditions. It is the responsibility of the purchaser to review this schedule periodically and notify MediWound Ltd. if they wish to discuss any potential modifications to the pricing structure.",
+    "contradiction_score": 0.006265952251851559,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 48961,
+    "end_char": 48999,
+    "original": "Challenge Bioproducts Corporation Ltd:",
+    "ollama_generated": "Challenge Bioproducts Corporation Ltd (the \"Buyer\"):\n\nIn the event that the Buyer encounters any issues or disputes arising out of or in connection with this agreement, it shall first endeavor to resolve such matters amicably and informally through discussions with the other party (the \"Supplier\"). If these discussions do not lead to a resolution within thirty (30) days from the date of initiation, either party may seek a binding resolution by submitting the matter to mediation. In the unlikely event that mediation fails, the parties agree to submit the dispute to arbitration in accordance with the rules of the International Chamber of Commerce, with the seat of arbitration in [City], and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction.\n\nThe Buyer acknowledges that it has carefully read this clause and understands its implications, including the waiver of its right to a jury trial and its agreement to resolve disputes through mediation and arbitration as provided herein. The Buyer also agrees that it bears the responsibility for initiating any dispute resolution proceedings and for the costs associated with such proceedings, subject to the rules of the chosen method of resolution.",
+    "contradiction_score": 0.0033570968080312014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 48999,
+    "end_char": 49026,
+    "original": "Date: 2011.10.12 Signature:",
+    "ollama_generated": "Date: 2011.10.12 Signature:\n\nIn the event that a party hereto fails to fulfill their obligations under this Agreement, the non-breaching party shall have the discretionary power to decide whether to exercise remedies or seek alternative solutions, without being obligated to take any specific action. The breaching party will be liable for any and all damages arising from such breach, but the non-breaching party shall not be held responsible for any losses incurred due to the failure to exercise a remedy or seek an alternative solution.",
+    "contradiction_score": 0.48129749298095703,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

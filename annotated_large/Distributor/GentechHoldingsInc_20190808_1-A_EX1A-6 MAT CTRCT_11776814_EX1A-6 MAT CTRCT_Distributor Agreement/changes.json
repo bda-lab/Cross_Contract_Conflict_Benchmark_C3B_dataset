@@ -1,0 +1,179 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 642,
+    "end_char": 1320,
+    "original": "Distributor desires to purchase the Products from Company for resale in the territories or geographic areas as defined in Section 1.b (the \u201cTerritory\u201d). Company desires to appoint Distributor as its exclusive distributor of the Products to all Clients that Distributor introduce, and upon confirmed the first order, this client come to be exclusive of Distributor, every new customer introduced by Distributor, must be approved by the company prior to any sale. After official approval from the Company, the customer introduced by Distributor, will appear on an official list in this contract, and will only be met by the Distributor and will follow the rules of this agreement.",
+    "ollama_generated": "Distributor expresses a preference for obtaining the Products from Company for retail purposes within the defined territories as outlined in Section 1.b (hereafter referred to as \"Authorized Territory\"). Company consents to designate Distributor as its exclusive distributor for all Clients, provided that such clients are initially introduced by Distributor. Once a confirmed order is received from the initial client, they will become exclusive to Distributor. However, it is the responsibility of Distributor to secure pre-approval from Company for any new customer they introduce before executing sales. Upon receiving Company's approval, such clients will be added to an official list within this contract and shall only engage in business with Distributor, abiding by the terms and conditions outlined herein.",
+    "contradiction_score": 0.006327847950160503,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1630,
+    "end_char": 1690,
+    "original": "AGREEMENT OF THE PARTIES 1. APPOINTMENT, ACCEPTANCE & SCOPE.",
+    "ollama_generated": "AGREEMENT OF THE PARTIES 1. DELEGATION, CONSENT & LIMITS.\n\nIn this agreement, each Party appoints, consents to, and acknowledges the scope of the services or goods provided, but understands that any actions exceeding the agreed-upon limits shall not be considered binding unless further explicit consent is obtained in writing from both Parties. This delegation and consent do not constitute a waiver of any Party's right to reject any part or whole of the services or goods that fall outside the initially agreed-upon scope.",
+    "contradiction_score": 0.02313331700861454,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2650,
+    "end_char": 2819,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (b) Territory . The rights granted Distributor hereunder are granted for the following geographical areas and markets. USA.",
+    "ollama_generated": "Clause:\nRevised: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (b) Territory . The rights extended to Distributor under this agreement encompass the following geographical areas and markets, provided that they may be limited or expanded as deemed necessary by Gentech Holdings. Excluded territories shall include all locations outside of the USA.\n\nIn this revised clause, I've inverted the condition by giving Gentech Holdings the power to limit or expand the territory where the rights granted can be exercised, and made explicit that any areas outside of the USA are excluded.",
+    "contradiction_score": 0.23438212275505066,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 4648,
+    "end_char": 5479,
+    "original": "(a) Communications Pursuant to this Distributor Agreement and Orders. Orders shall be made with Company. Company understands that its timely acceptance of orders from Distributor hereunder is an important element of this Agreement. Company shall have Seven (7) business days after its receipt to accept (or reject for a legitimate business reason) any order submitted by Distributor. All the negotiations between Company and Distributor will be by INCOTERMS Ex-works, in origin farm, in Brazil. So will must be respected the Transite Time to destiny delivery. Should Company fail to timely accept or reject an order from Distributor in accordance with this Section, such order shall be deemed accepted and shall become binding on Company. All orders shall be fulfilled by Company within Seven (7) business days of order acceptance.",
+    "ollama_generated": "(a) Communications Concerning this Distributor Agreement and Orders. Orders will originate from the Distributor, but it is understood that Company's prompt fulfillment or timely rejection of these orders, for a legitimate business reason, is an essential aspect of this Agreement. The Distributor acknowledges that Company may require up to Seven (7) business days following receipt of an order to make a decision. All negotiations between the parties will be governed by INCOTERMS Ex-works, originating at the farm in Brazil. It is important to note that any delays in transit time for delivery shall not be the responsibility of Company. However, if Company fails to respond within the specified timeframe regarding an order from the Distributor, such inaction will be deemed as acceptance, and the order will become binding on the Company. Once accepted, all orders must be fulfilled by the Company within Seven (7) business days.",
+    "contradiction_score": 0.006420252379029989,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 7071,
+    "end_char": 7182,
+    "original": "(d) Terms of Sale. All sales by Company shall be in accordance with the terms and conditions of this Agreement.",
+    "modified": "(d) Purchase Terms. All purchases made by the Client shall be subject to and governed exclusively by the terms and provisions set forth herein, which shall supersede any previous oral or written agreements concerning the sale of goods.",
+    "contradiction_score": 0.8800609111785889,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8490,
+    "end_char": 8801,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (b) Company is a corporation, duly organized, validly existing and in good standing in the State of Florida, and is and will remain in compliance with all applicable laws and regulations in the conduct of its business and, specifically, in its sale of the Products.",
+    "ollama_generated": "Clause:\nSource: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (b) The Company hereby acknowledges that it is a corporation duly organized, validly existing and in good standing in the State of Florida. The Company is not responsible for any non-compliance with laws or regulations, whether such non-compliance arises from its business activities or the sale of the Products, unless explicitly stated otherwise in writing. The Company's obligation to comply with applicable laws and regulations applies only to the extent it deems necessary in its sole discretion.",
+    "contradiction_score": 0.06824881583452225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 13607,
+    "end_char": 14281,
+    "original": "(f) The Recipient Party acknowledges that the Disclosing Party, because of the unique nature of the Proprietary Information, would suffer irreparable harm in the event that the Recipient Party breaches its obligation under this Agreement and that monetary damages would be inadequate to compensate the Disclosing Party for such a breach. The Parties agree that, in such a circumstance, the Disclosing Party shall be entitled, in addition to such monetary relief as may be applicable, to injunctive relief as may be necessary to restrain any continuing or further breach by the Recipient Party, without showing or proving any actual damages sustained by the Disclosing Party.",
+    "ollama_generated": "(f) The Recipient acknowledges that the disclosure of Proprietary Information could cause substantial and irreversible damage to the Discloser, for which monetary compensation may not be a sufficient remedy. In such a scenario, the Discloser reserves the right, without needing to prove any specific losses, to seek injunctive relief to prevent any future breaches by the Recipient. This includes obtaining temporary or permanent restraints on the use, disclosure, or dissemination of the Proprietary Information, as well as other appropriate equitable remedies. Any monetary damages that may also be applicable shall not exclude this right to injunctive relief.",
+    "contradiction_score": 0.005512622185051441,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 14281,
+    "end_char": 14592,
+    "original": "(g) The obligations of the Recipient Party under this Section 6 shall survive termination or nonrenewal of this Agreement for a period of thee (3) years. For the avoidance of doubt, the customer and sub-distributor lists of Distributor shall be deemed to constitute Proprietary Information under this agreement.",
+    "ollama_generated": "(g) The obligations of the Receiving Party under Section 6 will persist for a duration of three (3) years following any termination or non-renewal of this Agreement. For the sake of clarity, the distributor's customer and sub-distributor lists will be considered as Confidential Information under the terms of this agreement, and their protection shall remain binding post termination.",
+    "contradiction_score": 0.0031076346058398485,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 15079,
+    "end_char": 16021,
+    "original": "(c) Termination. Either Party may terminate this Agreement prior to its expiration upon the occurrence of either of the following: (i) the other Party becomes insolvent, or institutes (or there is instituted against it) proceedings in bankruptcy, insolvency, reorganization or dissolution, makes an assignment for the benefit of creditors or becomes nationalized or has any of its material assets confiscated or expropriated\u037e or (ii) the other Party (in this case, the \u201cbreaching Party\u201d) fails to perform any of its obligations hereunder and fails to correct such failure within Ninety (90) calendar days after receiving written demand therefore from the non-breaching Party, specifying the failure in sufficient detail for the breaching Party to correct such failure\u037e provided, however, that upon a second breach of the same obligation by such Party, the other Party may forthwith terminate this Agreement upon notice to the breaching Party.",
+    "ollama_generated": "(c) Termination. Either Party shall retain the right to terminate this Agreement prior to its scheduled end date under either of the following circumstances: (i) if the other Party encounters financial distress, initiates or experiences proceedings related to bankruptcy, insolvency, reorganization, dissolution, creditor protection, nationalization, or asset seizure; or (ii) if the other Party (hereinafter referred to as the \"defaulting Party\") neglects to fulfill any of its contractual obligations and fails to rectify such default within a period of Ninety (90) calendar days following receipt of a written notice detailing the default. Notably, upon a second infraction of the same obligation by the defaulting Party, the non-defaulting Party shall be granted immediate termination rights upon providing notification to the defaulting Party.",
+    "contradiction_score": 0.01590142957866192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 16952,
+    "end_char": 18087,
+    "original": "(a) Indemnification. Each Party (\u201cIndemnifying Party\u201d) shall indemnify, hold harmless and defend the other Party (\u201cIndemnified Party\u201d) and its officers, directors, agents, employees, and affiliates, from and against any and all claims, demands, actions, costs, expenses, liabilities, judgments, causes of action, proceedings, suits, losses and damages of any nature, which are threatened or brought against, or are suffered or incurred by, the Indemnified Party or any such person to the extent caused directly by acts or omissions of the Indemnifying Party relating to this Agreement, including without limitation (i) any negligent or tortious conduct, (ii) any breach of any of the representations, warranties, covenants or conditions of the Indemnifying Party contained in this Agreement, (iii) any violation of applicable laws or regulations, (iv) infringement or violation of any patent, copyright, trade secret, or other proprietary interest of any third party, and (v) any breach of any express or implied warranties relating to the Products, including implied warranties of merchantability and fitness for a particular purpose.",
+    "modified": "(b) Limitation of Liability and Indemnification. Each Party (\"Liability Shifting Party\") shall assume liability and compensate the other Party (\"Assuming Liability Party\") for any direct losses, damages, or expenses incurred by the Assuming Liability Party arising from this Agreement, to the extent that such losses are caused by the acts or omissions of the Liability Shifting Party. This obligation shall include, but is not limited to: (i) negligent or tortious actions, (ii) breaches of any of the representations, warranties, covenants, or conditions contained in this Agreement by the Liability Shifting Party, (iii) violations of applicable laws or regulations, (iv) infringement or violation of any third party's patent, copyright, trade secret, or other proprietary interest, and (v) breaches of express or implied warranties regarding the Products. However, this indemnification clause shall not apply to any losses, damages, or expenses resulting from the Assuming Liability Party's own negligent or tortious actions, breaches of the Agreement, violations of laws or regulations, infringement or violation of third-party rights, or breaches of express or implied warranties concerning the Products.",
+    "contradiction_score": 0.8972535133361816,
+    "kept": true
+  },
+  {
+    "clause_index": 50,
+    "start_char": 18087,
+    "end_char": 18296,
+    "original": "(b) Limitation of Liability.IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY SPECIAL, INDIRECT, EXEMPLARY OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR PURCHASE OR USE OF THE PRODUCTS.",
+    "ollama_generated": "(b) Limited Responsibility and Damages. Neither Party shall be accountable to the other for any incidental, consequential, special, or exemplary damages that may arise from this Agreement, the transaction related to this Agreement, or the use of the Products, regardless of whether they were foreseeable.",
+    "contradiction_score": 0.0015695554902777076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 19188,
+    "end_char": 19249,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 11. TRADEMARKS.",
+    "ollama_generated": "Clause:\nRevised: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 1-A. TRADEMARKS.\n\nUpon mutual agreement, the Trademark Owner shall not be obligated to actively defend or maintain the validity of any trademark in a jurisdiction where the Licensee is utilizing the Licensed Marks, unless specifically requested by the Licensee in writing and subject to the Trademark Owner's sole discretion. The Licensee shall bear all costs associated with such defense and maintenance.",
+    "contradiction_score": 0.4843749701976776,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 20195,
+    "end_char": 20390,
+    "original": "(a) Amendments. This Agreement may be amended only by a writing signed by each of the Parties, and any such amendment shall be effective only to the extent specifically set forth in such writing.",
+    "ollama_generated": "(b) Amendments: Any alterations to this Agreement must be made in writing and signed by all Parties involved. It is important to note that these amendments shall become effective upon execution, but will only apply to matters explicitly stated within the amending document.\n\nExplanation: This clause maintains the requirement for a written agreement to amend the contract but clarifies that the amendment will not have retroactive effects, applying only to the specific issues mentioned in the amending document.",
+    "contradiction_score": 0.41406911611557007,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 20390,
+    "end_char": 20663,
+    "original": "(b) Governing Law. This Agreement is a contract under the laws of the State of Florida and for all purposes shall be governed by and construed in accordance with the substantive laws of the State of Florida, without regard to its principles of conflicts of laws provisions.",
+    "modified": "(b) Jurisdictional Control. This Agreement is a binding contract subject to the legislative rules of the Commonwealth of Pennsylvania, and for all intents and purposes, shall be interpreted and enforced according to the substantive legal norms of the Commonwealth of Pennsylvania, disregarding its conflict-of-laws principles. In the event of a dispute, Pennsylvania courts shall have exclusive jurisdiction.",
+    "contradiction_score": 0.9800200462341309,
+    "kept": true
+  },
+  {
+    "clause_index": 64,
+    "start_char": 23661,
+    "end_char": 23844,
+    "original": "(h) Exhibits and Schedules.The exhibits or schedules attached hereto are an integral part hereof and all references herein to this Agreement shall include such exhibits and schedules.",
+    "ollama_generated": "(h) Exhibits and Schedules. The contents of any exhibits or schedules accompanying this Agreement, whether attached or referenced, are considered essential supplements to this Agreement. References within this Agreement to the terms \"this Agreement\" should be interpreted as encompassing said exhibits and schedules when applicable.\n\nThis revised clause weakens the original by stating that the exhibits and schedules are \"considered essential supplements,\" implying they are not strictly part of the main agreement but provide additional important information. It also shifts the responsibility to the reader for understanding how the exhibits and schedules affect the interpretation of the Agreement.",
+    "contradiction_score": 0.04520352557301521,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 23844,
+    "end_char": 25080,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (i) Notices. Unless otherwise specifically provided herein, all notices, consents, requests, demands and other communications required or permitted hereunder: (i) shall be in writing\u037e (ii)) shall be sent by email, certified or registered U.S. mail, or reliable express delivery service (with a copy sent by one of the foregoing means), charges prepaid as applicable, to the appropriate address(es) or number(s) set forth below\u037e and (iii) shall be deemed to have been given on the date of receipt by the addressee, as evidenced by (A) a receipt executed by the addressee (or a responsible person in his or her office), the records of the Person delivering such communication or a notice to the effect that such addressee refused to claim or accept such communication, if sent by messenger, U.S. mail or express delivery service, or (B) a receipt generated by the sender\u2019s email showing that such communication was sent to the appropriate number on a specified date, if sent by email. All such communications shall be sent to the addresses for each Party as first set forth above, or to such other addresses or numbers as any Party may inform the others by giving Seven (7) days prior notice.",
+    "ollama_generated": "Clause:\nSource: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (i) Notices. Except where explicitly stated otherwise within this agreement, all notices, consents, requests, demands, and other communications necessary or permitted herein shall comply with the following guidelines:\n\n   (i) They shall be in writing.\n   (ii) They may be delivered via email, certified or registered U.S. mail, or reliable express delivery service, but a physical copy sent by one of these methods is optional.\n   (iii) They will be considered received on the date when confirmed by:\n       A) An acknowledgment from the recipient or their representative, or\n       B) Proof of delivery provided by the sender, if no response is received within a reasonable timeframe after sending by email.\n\nAll such communications shall initially be directed to the addresses for each Party as first stated above. However, any Party may change their communication address by notifying the others with at least Seven (7) days' prior notice, and thereafter all future communications will be sent to the newly designated address or number.",
+    "contradiction_score": 0.14045117795467377,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 25427,
+    "end_char": 25600,
+    "original": "(k) Successors and Assigns. This Agreement shall be binding upon and shall inure to the benefit of each of the Parties and their respective successors and permitted assigns.",
+    "ollama_generated": "(k) Successors and Assigns. Any changes to the parties under this Agreement, whether by succession or assignment, will not affect the continuance of the Agreement; instead, the Agreement shall continue to bind the new parties and be enforceable by them.",
+    "contradiction_score": 0.2158154547214508,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 26426,
+    "end_char": 26595,
+    "original": "Distributor will be appropriately credited should Distributor make payment related to an order and later determine that it had achieved a greater discount per the above.",
+    "ollama_generated": "Upon determination by the Distributor that a greater discount was obtained for an order, the Supplier shall promptly adjust the invoice accordingly to reflect such increased savings realized by the Distributor. However, it is the responsibility of the Distributor to notify the Supplier in writing within a reasonable timeframe following the realization of the greater discount.",
+    "contradiction_score": 0.005712514277547598,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

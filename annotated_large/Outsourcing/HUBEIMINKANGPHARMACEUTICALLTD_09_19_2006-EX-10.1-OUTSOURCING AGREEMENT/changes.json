@@ -1,0 +1,91 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 330,
+    "end_char": 459,
+    "original": "DGT is an internet provider of professional digital photo-editing services for photography  studios and digital photo processors.",
+    "ollama_generated": "GTE functions as a digital platform, offering specialized internet-based photo-editing solutions primarily to photography studios and digital photo processing entities.",
+    "contradiction_score": 0.005666323471814394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3423,
+    "end_char": 3550,
+    "original": "In no event shall DGT be liable for consequential or incidental damages arising from  any breach or breaches of this Agreement.",
+    "ollama_generated": "Under no circumstances will DGT be held accountable for any indirect, special, exemplary, or punitive damages resulting from any violation or violations of this Agreement, regardless of whether such damages were foreseeable.",
+    "contradiction_score": 0.0022964272648096085,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3790,
+    "end_char": 4072,
+    "original": "Dolphin shall maintain at its principal place of business, or such other place as may  be most convenient, separate accounts and records of all services provided to  DGT, such accounts and records to be in sufficient detail to enable proper returns  to be made under this Agreement.",
+    "ollama_generated": "Dolphin is granted the flexibility to manage its service-related accounts and records for DGT at a location that is most convenient for them, provided these records are kept in a manner that allows for accurate reporting as required by this Agreement, but Dolphin shall retain discretion in determining the specific details of record keeping.",
+    "contradiction_score": 0.020544372498989105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4072,
+    "end_char": 4263,
+    "original": "Dolphin shall deliver to DGT on the date 30 days after each and every year a  detailed photo-editing report on all services provided on a unit basis (i.e. customer number, file number, cost).",
+    "ollama_generated": "DGT shall have the right, but not the obligation, to request from Dolphin, within a period of thirty days following each anniversary of the year, a comprehensive photo-editing report detailing all services provided on an individualized basis (including customer identifiers and file numbers, as well as associated costs). Such reports shall be submitted voluntarily by Dolphin at its own discretion.",
+    "contradiction_score": 0.00934692844748497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4518,
+    "end_char": 4754,
+    "original": "During the term of this Agreement, and thereafter, Dolphin shall use reasonable efforts  to ensure that all information provided to DGT or its representatives pursuant  to this Article remains confidential and is treated as such by DGT.",
+    "ollama_generated": "For the duration of this Agreement and beyond, Dolphin agrees to make every reasonable attempt to safeguard all information disclosed to DGT or its designated agents under this Article, while acknowledging that absolute confidentiality may not always be achievable. This obligation extends to ensuring that such information is handled with appropriate discretion and care by DGT.",
+    "contradiction_score": 0.001090829144231975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 5192,
+    "end_char": 5591,
+    "original": "In the event of any dispute arising between the parties concerning this Agreement,  its enforceability or the interpretation thereof, the same shall be settled by  a single arbitrator appointed pursuant to the provisions of the  Commercial  Arbitration Act  of the State of Nevada, or any successor legislation then in force. The language to  be used in the arbitration proceedings shall be English.",
+    "ollama_generated": "Upon the emergence of any disagreement among the parties regarding this Agreement, its validity, or its interpretation, each party shall have the right to initiate binding arbitration. This arbitration process will follow the guidelines set forth in the Commercial Arbitration Act of the State of Nevada, or any subsequent legislation that may be in effect at the time. It is to be noted that should both parties fail to mutually agree on an arbitrator within a reasonable period, one shall be appointed by the American Arbitration Association, with the language used in these proceedings being English.",
+    "contradiction_score": 0.3565050959587097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 8345,
+    "end_char": 8567,
+    "original": "5.Dolphin shall permit any duly authorized representative of DGT, during normal  business hours and at DGT's sole risk and expense, to enter upon and  into any premises of Dolphin for the purpose of inspecting the service.",
+    "ollama_generated": "5. Dolphin acknowledges and agrees that it shall grant unlimited access, during any time deemed convenient by DGT, to any duly authorized representative of DGT, at Dolphin's own risk and expense, for the purposes of inspecting the services provided. This includes, but is not limited to, entry upon and into any premises owned or controlled by Dolphin.",
+    "contradiction_score": 0.009285242296755314,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 10688,
+    "end_char": 10738,
+    "original": "12.Time shall be of the essence of this Agreement.",
+    "modified": "12. While adhering to reasonable timing, the completion of tasks under this Agreement is not strictly time-bound unless explicitly specified otherwise.",
+    "contradiction_score": 0.6291823983192444,
+    "kept": true
+  },
+  {
+    "clause_index": 36,
+    "start_char": 10954,
+    "end_char": 11109,
+    "original": "IN WITNESS WHEREOF the parties hereto have hereunto executed this Agreement on  the 1st  day of JUNE , 2006 , but effective as of the Date of Commencement.",
+    "ollama_generated": "IN WITNESS WHEREOF, the parties hereto acknowledge their execution of this Agreement on the 1st day of JUNE, 2006; however, its effectiveness is contingent upon and shall commence from the agreed-upon Commencement Date.\n\nThis modification keeps the original meaning but shifts the sequence of when the agreement becomes effective, making it clear that the agreement becomes effective on the date of commencement, not at the time of signing.",
+    "contradiction_score": 0.006011492107063532,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

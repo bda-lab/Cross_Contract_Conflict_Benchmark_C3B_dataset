@@ -1,0 +1,162 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 824,
+    "end_char": 852,
+    "original": "You may direct inquiries to:",
+    "ollama_generated": "It is at your discretion to reach out for queries to the following contact:\n\nThis subtle change weakens the obligation by making it optional, implying that while you can contact someone, you are not required to do so.",
+    "contradiction_score": 0.006642234977334738,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 852,
+    "end_char": 1027,
+    "original": "Thrivent Financial for Lutherans 4321 N. Ballard Road Appleton, WI 54919-0001 (800) 847-4836 The following amendments apply in lieu of any contract provisions to the contrary.",
+    "ollama_generated": "Thrivent Financial for Lutherans, located at 4321 N. Ballard Road, Appleton, WI 54919-0001, and reachable at (800) 847-4836, hereby supersedes any conflicting contractual provisions with the following amendments:\n\nIn the event of disagreement or dispute regarding the terms of this agreement, it shall be the responsibility of the parties involved to engage in good faith negotiations and reach a mutually satisfactory resolution. Any such resolution shall take precedence over any previously established terms or conditions.",
+    "contradiction_score": 0.008954798802733421,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1092,
+    "end_char": 1753,
+    "original": "MAINTENANCE OF SOLVENCY.  This provision applies only to benefits provided through the General Account. If the solvency of the Society becomes impaired, you may be required to make an extra payment. The Board of Directors will determine the amount of any extra payment. It will be based on each member\u2019s fair share of the deficiency. You may make the extra payment by an equivalent reduction in benefits or by a payment in cash. If you do not make the extra payment within 60 days from the date we notify you of your share of the deficiency, the amount will be charged as an indebtedness against the contract with interest compounded at the rate of 5% per year.",
+    "ollama_generated": "FINANCIAL REMEDIATION OBLIGATION. This provision pertains exclusively to benefits dispensed via the General Account. Should the Society's financial stability be compromised, it is understood that the Board of Directors may request additional contributions from members. The amount requested will be calculated as a fair proportion of the overall deficit, with each member liable for their respective share.\n\nIt is within your discretion to fulfill this obligation either by diminishing future benefits or by making a cash payment. If you opt for the latter and fail to do so within 60 days from the date we communicate your share of the deficiency, the outstanding amount will be added as an indebtedness against the contract, accruing interest at a rate of 5% per annum.",
+    "contradiction_score": 0.006364719942212105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2047,
+    "end_char": 2302,
+    "original": "DIVIDENDS.  Each year, we will determine our divisible surplus. This contract\u2019s share, if any, will be credited as a dividend. Since we do not expect this contract to contribute to divisible surplus, it is not expected that any dividends will be credited.",
+    "ollama_generated": "DIVIDENDS: It shall be determined annually whether the company has an available distributable amount exceeding its needs (referred to as \"divisible surplus\"). In the event that the contract's share, if any, is included in this divisible surplus, it will be considered for distribution as a dividend. However, due to the nature of this contract, it is anticipated that no such distributable amount will arise, thereby rendering it unlikely that any dividends will be declared.",
+    "contradiction_score": 0.37279149889945984,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2306,
+    "end_char": 2440,
+    "original": "DIVIDEND OPTIONS.  If dividends are credited after premiums can no longer be paid under this contract, dividends will be paid in cash.",
+    "ollama_generated": "DIVIDEND POLICY: In the event that dividends become payable subsequent to the point at which premium payments under this agreement cease, the Company shall have the discretion to either credit the dividend or offer a buyback option for the contract, with cash settlement being the default choice if no other arrangement is agreed upon.",
+    "contradiction_score": 0.02369716763496399,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2565,
+    "end_char": 2598,
+    "original": "Cash. Dividends are paid in cash.",
+    "ollama_generated": "Cash Disbursements:\nDividend payments may be made at the discretion of the issuing entity, either in cash or alternative forms of payment approved by the relevant authorities.",
+    "contradiction_score": 0.003537282580509782,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 2781,
+    "end_char": 2860,
+    "original": "ENDORSEMENT (continued ) The following provisions of this contract are amended:",
+    "ollama_generated": "MODIFICATION OF ENDORSEMENT (revised): In contrast to the original terms of this agreement, certain provisions herein shall be revised as follows:\n\nThis minor alteration in the wording aims to soften the impact and provide a more adaptable approach. The key difference lies in the introduction of \"contrast\" and \"shall be revised,\" which implies a change from the original terms but does not specify the nature or extent of the modification, maintaining a professional tone.",
+    "contradiction_score": 0.000930488808080554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 2860,
+    "end_char": 2949,
+    "original": "DEFINITIONS The DEFINITIONS  section of the contract is amended to include the following:",
+    "ollama_generated": "MODIFICATION OF DEFINITIONS: The current DEFINITIONS section in this contract shall be supplemented as follows:\n\nAdjustments: Any changes made by either Party to the agreed-upon product or service under this agreement shall constitute Adjustments.\n\nResponsibility for Initiating Adjustments: In the event of a need for adjustments, it is understood that the responsibility for initiating such adjustments rests primarily with the Client, unless otherwise specified in writing by the Service Provider. However, the Service Provider reserves the right to suggest necessary adjustments as deemed appropriate.\n\nTiming and Execution of Adjustments: The timing and execution of all adjustments shall be managed collaboratively between the Parties, and delays or difficulties in making adjustments shall not constitute a breach of this agreement unless expressly agreed otherwise in writing by both parties.\n\nLiability for Consequences of Adjustments: The Parties acknowledge that adjustments may have unforeseen consequences and agree to bear any associated costs and liabilities arising from such adjustments, except where the other party is found to have acted negligently or breached this agreement. In such cases, the responsible party shall indemnify the other against any losses incurred as a result.\n\nThe above clause aims to clarify the process, responsibility, and potential consequences of making adjustments to the agreed-upon product or service under this contract, while emphasizing collaboration between the parties and limiting the liability for unforeseen consequences of such adjustments.",
+    "contradiction_score": 0.06299474835395813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 3208,
+    "end_char": 3245,
+    "original": "Which previously was amended to read:",
+    "ollama_generated": "In the event of any dispute arising out of this Agreement, it is strongly encouraged that the Parties engage in good faith negotiations for a period of sixty (60) days from the commencement of such dispute. If, after this negotiation period, the Parties have not reached an agreement and either Party elects to pursue legal proceedings, it shall be solely responsible for initiating such actions before a court of competent jurisdiction.\"\n\nThe changes in this clause shift the responsibility of initiating legal proceedings from both parties to just one party, should negotiations fail after sixty (60) days. Additionally, the original clause suggested that both parties must make every reasonable effort to resolve disputes; the revised clause encourages negotiation but does not obligate either party to do so.",
+    "contradiction_score": 0.033256545662879944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 3312,
+    "end_char": 3381,
+    "original": "We, we, Our, our, Us, us, Society . Thrivent Financial for Lutherans.",
+    "ollama_generated": "In this Agreement, references to \"Party of the First Part\" shall be understood as \"Thrivent Financial for Lutherans,\" and the term \"Party of the Second Part\" shall represent any individual or entity engaging in transactions with Thrivent Financial for Lutherans. For the purposes of clarity, \"We,\" \"Our,\" and \"Us\" will refer to the Party of the First Part, Thrivent Financial for Lutherans.\n\nThis change rephrases the original clause to make it clearer that the primary party being referred to is Thrivent Financial for Lutherans, while also setting a more formal tone for the contract.",
+    "contradiction_score": 0.010585973970592022,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 3841,
+    "end_char": 3912,
+    "original": "ASSIGNMENT The ASSIGNMENT  section is amended to include the following:",
+    "ollama_generated": "MODIFICATION OF ASSIGNMENT SECTION:\n\nThe MODIFICATION of the ASSIGNMENT section encompasses the following alterations:\n\nUpon any event triggering the right of assignment, the assignor shall retain a limited, non-exclusive, and non-transferable right to continue utilizing the assigned rights or assets, under the conditions specified in this agreement. This right is subject to the assignee's prior written consent and the assignee's obligation to maintain the same level of performance as required by this contract. The assignor shall be responsible for any liabilities arising from such continued use, except where explicitly stated otherwise in this agreement.",
+    "contradiction_score": 0.02180376462638378,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 3912,
+    "end_char": 4062,
+    "original": "You may transfer ownership of this contract in accordance with our bylaws. Society membership rights and privileges cannot be transferred or assigned.",
+    "ollama_generated": "This contract's ownership may be reassigned according to the guidelines outlined in our bylaws; however, the benefits and rights associated with society membership are non-transferable and non-assignable.",
+    "contradiction_score": 0.003671858226880431,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 4062,
+    "end_char": 4165,
+    "original": "VB-TL-TFFL (18) page TL-2 Source: THRIVENT VARIABLE INSURANCE ACCOUNT B, N-6, 7/1/2019 Contract Number:",
+    "ollama_generated": "VB-TL-TFFL (18) revised page TL-2 Source: THRIVENT VARIABLE INSURANCE ACCOUNT B, N-6, 7/1/2019 Contract Number:\n\nIn the event that a distribution request is made by the Account Owner or an Authorized Individual, the Account Owner shall have the primary responsibility to ensure that the requested amount does not exceed the available cash value in the Account. However, if the requested amount surpasses the available cash value, Thrivent Financial will cover the excess, but any subsequent fees or penalties arising from this action will be the sole responsibility of the Account Owner.\n\nThis revision slightly alters the original clause by shifting a portion of the responsibility for excessive distribution requests from Thrivent Financial to the Account Owner.",
+    "contradiction_score": 0.01288184616714716,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 4165,
+    "end_char": 4261,
+    "original": "ENDORSEMENT (continued ) The following words or phrases in this contract are amended as follows.",
+    "ollama_generated": "MODIFICATION OF DEFINITIONS (amended) In the context of this agreement, the following terms shall be adjusted as described below.\n\n1. \"Obligation\" becomes \"Recommendation\": The parties acknowledge that the term \"Obligation\" is hereby replaced with \"Recommendation\". Each party is encouraged, but not bound, to adhere to any Recommendations made in this contract.\n\n2. \"Guarantee\" becomes \"Possibility\": The term \"Guarantee\" will be referred to as \"Possibility\" throughout this agreement. It is understood that no assurance of success or fulfillment can be given for any Possibilities outlined herein.\n\n3. \"Warranty\" becomes \"Probability\": The parties acknowledge and agree that the term \"Warranty\" will be changed to \"Probability\". Any statements regarding Probabilities should not be construed as definitive promises or guarantees of outcomes.\n\n4. \"Liability\" becomes \"Risk\": The parties understand that any Liability incurred by either party shall hereafter be referred to as \"Risk.\" Each party accepts the inherent Risks associated with their actions and decisions in accordance with this agreement.\n\n5. \"Indemnification\" becomes \"Contingency Plan\": The obligation of Indemnification is replaced with a Contingency Plan, which outlines steps to be taken in case of unforeseen events or circumstances that may impact the agreement's integrity or validity. Each party will collaborate to develop and maintain a mutually acceptable Contingency Plan for potential Risks.",
+    "contradiction_score": 0.07694999128580093,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 4267,
+    "end_char": 4304,
+    "original": "Any reference to: Is amended to read:",
+    "ollama_generated": "Any alteration of the following terms shall be interpreted as:\n\nThis slight adjustment in wording aims to subtly shift the focus:\n\nInstead of a direct amendment, the clause now suggests an interpretation or understanding of the terms differently. This can provide more flexibility and potentially open up room for negotiations, depending on the context of the agreement.",
+    "contradiction_score": 0.024004947394132614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 4304,
+    "end_char": 4827,
+    "original": "Thrivent Life Insurance Company Thrivent Financial for Lutherans the Company the Society the company. the Society A Stock Life Insurance Company. A Fraternal Benefit Society 625 Fourth Avenue South. 4321 North Ballard Road Minneapolis, MN 55415 Appleton, WI 54919-0001 Minneapolis, MN Appleton, WI Home Office. Service Center Nonparticipating Eligible for annual dividends Signed for Thrivent Financial for Lutherans President Secretary VB-TL-TFFL (18) page TL-3 Source: THRIVENT VARIABLE INSURANCE ACCOUNT B, N-6, 7/1/2019",
+    "ollama_generated": "Thrivent Financial for Lutherans, hereafter referred to as the Company or Society, is a Nonparticipating Fraternal Benefit Society headquartered at 625 Fourth Avenue South, Minneapolis, MN 55415 and Appleton, WI 54919-0001. The Home Office for this entity can be found in Minneapolis, MN, while the Service Center is located in Appleton, WI.\n\nThe Company offers Eligible policyholders the opportunity to receive annual dividends, subject to certain conditions and the discretion of Thrivent Financial for Lutherans President or Secretary. It should be noted that this is a variable insurance account under THRIVENT VARIABLE INSURANCE ACCOUNT B (N-6, 7/1/2019).\n\nIn case of any discrepancies, the decisions made by Thrivent Financial for Lutherans President or Secretary shall prevail. This clause is sourced from TL-3.",
+    "contradiction_score": 0.005315492395311594,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "clause_index": 7,
+    "start_char": 1444,
+    "end_char": 1507,
+    "original": "(f) \"Domain Name\" means the domain name described in Exhibit A.",
+    "ollama_generated": "(f) \"Designated Domain Name\" refers to the domain name outlined in Exhibit A, which shall be subject to change by mutual agreement of the parties, as provided in Section XYZ of this Agreement.",
+    "contradiction_score": 0.22479255497455597,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 2800,
+    "end_char": 2866,
+    "original": "(n) \"theglobe Site\" means all pages under the theglobe.com domain.",
+    "ollama_generated": "\"(m) 'theglobe Platform' encompasses all sub-domains associated with the theglobe.com main domain.\"\n\nThis change slightly shifts the scope of what is considered part of the platform, expanding it to include any sub-domains under the theglobe.com domain, rather than just pages within the main domain.",
+    "contradiction_score": 0.004882227163761854,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 2872,
+    "end_char": 2933,
+    "original": "(o) \"User\" means any person who accesses any Co-Branded Page.",
+    "modified": "(p) \"Co-Branded Page Visitor\" denotes any individual who navigates or interacts with any page co-branded by our company. This term includes, but is not limited to, those who may inadvertently arrive at such pages via external links or search engines.",
+    "contradiction_score": 0.7188313603401184,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 5413,
+    "end_char": 5913,
+    "original": "2.5  Rebranding.  If requested by theglobe, Boxlot shall implement on the Co-Branded Pages  new versions of the Page Templates  if theglobe changes the Page Templates across theglobe Site  generally.  Further, if requested by theglobe, Boxlot shall create additional branded versions of the Service and Co-Branded Pages branded with the branding of theglobe's distribution partners, which branded versions shall be implemented within 30 days and subject to approval in accordance with this Section 2.",
+    "ollama_generated": "2.5. Rebranding Flexibility: Upon request from Boxlot, theglobe has the discretion to modify the Page Templates on its global Site, and Boxlot shall accommodate these changes by updating the corresponding Page Templates on the Co-Branded Pages within a reasonable timeframe. Moreover, at Boxlot's request, theglobe retains the option to expand the Service and Co-Branded Pages with branding from theglobe's distribution partners. If such branded versions are requested, Boxlot will aim to complete their development within 30 days; however, final approval remains with theglobe, in accordance with this Section 2, to ensure compliance with its standards.",
+    "contradiction_score": 0.00916136335581541,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 11127,
+    "end_char": 11937,
+    "original": "4.1  Content.  Boxlot hereby grants to theglobe a non-exclusive, worldwide license to use, reproduce, create derivative works of (only as necessary to build pages in a manner consistent with this Agreement), publicly display, publicly perform and digitally perform Boxlot Banners , and those elements of the Boxlot Content  served from theglobe's servers (as denoted in Exhibit A), on theglobe Site  or otherwise as reasonably appropriate to advertise and promote the Service and the Co-Branded Pages .  Subject to the approval process in Section 2, theglobe hereby grants to Boxlot a non-exclusive, worldwide license to use, reproduce, create derivative works of (only as necessary to build Co- Branded Pages), publicly display, publicly perform and digitally perform the Page Templates  on Co-Branded Pages .",
+    "ollama_generated": "4.1 Content Licenses:\n\nTheglobe is granted a non-exclusive, worldwide license by Boxlot to utilize, reproduce, create derivative works of (solely for the purpose of developing pages in accordance with this Agreement), publicly display, perform publicly, and digitally perform the Boxlot Banners, as well as those components of the Boxlot Content hosted on theglobe's servers (as identified in Exhibit A), on theglobe Site or wherever deemed reasonably suitable for advertising and promoting the Service and Co-Branded Pages. Provided that the approval process outlined in Section 2 is adhered to, Boxlot receives a non-exclusive, worldwide license from theglobe to use, reproduce, create derivative works of (only as necessary to develop Co-Branded Pages), publicly display, perform publicly, and digitally perform the Page Templates on the Co-Branded Pages.\n\nIn this revised clause, the licensing rights granted by both parties are clarified, but the overall meaning is subtly altered. The license granted to theglobe is broadened to include the use of Boxlot's content for advertising and promoting the Service and Co-Branded Pages on any suitable location, rather than just on theglobe Site. Additionally, Boxlot's license to use the Page Templates is now contingent upon obtaining approval from theglobe before using them, whereas in the original clause, the license was granted unconditionally.",
+    "contradiction_score": 0.3083142042160034,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 12306,
+    "end_char": 13542,
+    "original": "4.3  Trademark Restrictions.  The Mark owner may terminate the foregoing trademark license if, in its reasonable discretion, the licensee's use of the Marks tarnishes, blurs or dilutes the quality associated with the Marks or the associated goodwill and such problem is not cured within 10 days of notice of breach\u037e alternatively, instead of terminating the license in total, the owner may specify that certain licensee uses may not contain the Marks.  Title to and ownership of the owner's Marks shall remain with the owner.  The licensee shall use the Marks exactly in the form provided and in conformance with any trademark usage policies.  The licensee shall not take any action inconsistent with the owner's ownership of the Marks, and any benefits accruing from use of such Marks shall automatically vest in the owner.  The licensee shall not form any combination marks with the other party's Marks other than the Domain Name  (if applicable).  If the Domain Name  is deemed a combination mark, neither party shall use the Domain Name  for any purpose except as expressly provided herein or attempt to register the Domain Name , and the parties will jointly cooperate on any enforcement action of infringement of the Domain Name .",
+    "modified": "4.3 Trademark Permissions: The grantor reserves the right, in its sole discretion, to revoke this trademark authorization if, upon reasonable notice, the grantee's use of the Marks is deemed to enhance, clarify, or strengthen the reputation connected with the Marks or their related goodwill. However, instead of entirely withdrawing the license, the grantor may permit some uses of the Marks to continue without the Marks being present. Ownership and title to the owner's Marks will remain exclusively with the grantor. The grantee is expected to reproduce the Marks faithfully in the form provided and in accordance with any established trademark usage guidelines. The grantee shall not undertake actions conflicting with the grantor's ownership rights of the Marks, and any advantages arising from the use of such Marks will be deemed as belonging to the grantor automatically. The grantee is prohibited from creating composite marks involving the other party's Marks beyond the Domain Name (if applicable). If the Domain Name is considered a composite mark, neither party shall utilize the Domain Name for any purpose other than as specified herein or endeavor to register it, and both parties will collaborate on any infringement enforcement actions related to the Domain Name.",
+    "contradiction_score": 0.6560995578765869,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 17655,
+    "end_char": 17667,
+    "original": "7.  REPORTS.",
+    "ollama_generated": "7. REPORTING OBLIGATIONS.\n\nThe undersigned shall have the discretion to submit Reports as deemed necessary, unless otherwise required by law or contractual obligations, with no specific frequency prescribed. The Company shall not be held responsible for any potential adverse consequences arising from the delay in submission of such Reports, provided that the delayed Report is submitted promptly once feasible.",
+    "contradiction_score": 0.06728807836771011,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 17667,
+    "end_char": 17880,
+    "original": "7.1  By theglobe.  Within 30 days following the end of each month, theglobe shall provide Boxlot with its standard reports regarding theglobe's promotions hereunder and reports on the computation of Net Revenues .",
+    "ollama_generated": "7.1  Boxlot, at its discretion, may request reports from theglobe. Upon Boxlot's written request, which must be made no later than 30 days after the end of each month, theglobe shall promptly furnish Boxlot with its standard reports detailing theglobe's promotions and calculations of Net Revenues for the relevant period.",
+    "contradiction_score": 0.002301214961335063,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 17880,
+    "end_char": 18468,
+    "original": "7.2  By Boxlot.  In addition to any other reports specified herein, Boxlot shall provide to theglobe the following reports: (a) daily usage reports regarding the Co-Branded Pages  describing the number of page impressions, number of Users and such other information as Boxlot generally provides to its other similar partners, (b) weekly demographic reports regarding the Service containing summary information regarding user demographic profiles, and (c) if applicable, within 30 days following the end of each month, reports regarding the computation of the fees it owes under Section 6.",
+    "ollama_generated": "7.2 Theglobe's Obligation: In addition to any other reports requested by Boxlot, theglobe will receive the following reports from Boxlot: (a) daily usage summaries about the Co-Branded Pages, including page impressions, number of Users, and any other information typically shared with Boxlot's similar partners, (b) weekly demographic analyses concerning the Service, detailing summary user demographic data, and (c) if applicable, monthly fee computations owed to Boxlot under Section 6 will be provided by theglobe within 30 days following the end of each calendar month.",
+    "contradiction_score": 0.009743421338498592,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 19702,
+    "end_char": 20312,
+    "original": "8.2  Termination for Failure to Perform.  By providing written notice, a party may immediately terminate this Agreement: (a) if the other party materially breaches this Agreement and fails to cure that breach within 15 days after receiving written notice of the breach, or (b) as provided in Sections 2.6   [Boxlot Content] or 12.7  [Force Majeure]  or Exhibit B.  In addition, by providing written notice, theglobe may immediately terminate this Agreement, or at its option immediately suspend its promotion and other efforts hereunder, in the case of Boxlot's breach of Section 12.1  [Compliance with Laws] .",
+    "ollama_generated": "8.2 Termination Options: Under written notice, a party holds the discretion to terminate this Agreement: (a) if the other party materially violates this Agreement and does not rectify the violation within 15 days following receipt of written notification of the infraction, or (b) as stipulated in Sections 2.6 [Boxlot Content] or 12.7 [Force Majeure] or Exhibit B. Furthermore, theglobe reserves the right to terminate this Agreement at its sole discretion, or alternatively elect to temporarily halt its promotional and other efforts, upon Boxlot's breach of Section 12.1 [Compliance with Laws]. Herein, the responsibility for deciding on the consequences of a violation lies solely with the aggrieved party.",
+    "contradiction_score": 0.02373741753399372,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 21003,
+    "end_char": 21429,
+    "original": "8.4  Termination for Changes.  By providing written notice, theglobe may terminate this Agreement in its sole discretion if: (a) Boxlot's business model changes such that the Service is no longer Boxlot's primary line of business, or (b) at the one year anniversary of the Launch Date , the Service is significantly inferior to the comparable services being offered by the market leaders in the person to person auction space.",
+    "ollama_generated": "8.4 Termination for Alterations. Theglobe reserves the right, at its sole discretion and without prior notice, to terminate this Agreement if: (a) there is a substantial shift in Boxlot's business model such that the Service is no longer a significant portion of their primary revenue streams, or (b) one year after the Launch Date, if it is determined by Theglobe, acting reasonably, that the Service does not meet an acceptable standard compared to the comparable services being offered by the top three market leaders in the person-to-person auction industry. In such cases, Theglobe shall not be held liable for any damages or losses incurred by Boxlot as a result of this termination.",
+    "contradiction_score": 0.2498752921819687,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 27248,
+    "end_char": 27692,
+    "original": "12.3  Publicity. Prior to the release of any press releases or other similar promotional materials related to this Agreement, the releasing party shall submit a written request for approval to the other party with a copy of the materials to be released, which request shall be made no less than 3 business days prior to the requested release date. A party shall not unreasonably withhold or delay the granting of its approval of such materials.",
+    "ollama_generated": "12.3 Publicity Approval Process: Any party desiring to issue press releases or similar promotional materials concerning this Agreement is required to provide a written notice, accompanied by the proposed materials, to the other party at least 3 business days before the planned release date. The recipient of this notice shall endeavor to respond promptly and reasonably, but retains the right to withhold approval if they deem the content to be inappropriate or detrimental to their interests, without undue delay.",
+    "contradiction_score": 0.019745338708162308,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 29826,
+    "end_char": 30377,
+    "original": "12.8  Notice.  Any notice under this Agreement will be in writing and delivered by personal delivery, overnight courier, confirmed facsimile, confirmed email, or certified or registered mail, return receipt requested, and will be deemed given upon personal delivery, 1 day after deposit with an overnight courier, 5 days after deposit in the mail, or upon confirmation of receipt of facsimile or email.  Notices will be sent to a party at its address set forth above or such other address as that party may specify in writing pursuant to this Section.",
+    "ollama_generated": "12.8 Notifications: Any notification made under this Agreement shall be in written form, transmitted via personal delivery, overnight courier, confirmed email, fax, or registered mail with return receipt requested. The notification will be considered received three business days following deposit with an overnight courier or 10 calendar days after posting by registered mail. Notifications can be sent to a party at the address provided herein, or any alternate address specified in writing by the recipient under this Section.\n\nNote: This revised clause lengthens the time for receipt of notices through the mail and sets a deadline for facsimile and email confirmations. Additionally, it allows parties to specify alternative addresses for receiving notifications.",
+    "contradiction_score": 0.010582878254354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 30840,
+    "end_char": 31981,
+    "original": "12.10  Equity Stake.  Boxlot shall grant to theglobe, pursuant to industry- standard terms negotiated between the parties in good faith, immediately vested options to purchase shares of common stock equal to up to 4% of Boxlot's fully diluted capital stock (in accordance with the chart below).  Theglobe shall be restricted from exercising such options until the first anniversary of the Effective Date, and such options shall have a five-year term.  Each such option shall have an exercise price equal to the lesser of (1) the price at which Boxlot's common stock is sold to the public in an initial public offering or (2) $6 per share\u037e each of the foregoing as may be adjusted for any stock splits, combinations or re-organizations affecting Boxlot's capital stock.  Boxlot shall grant to theglobe registration rights for such options and any shares of common stock issued or issuable upon the exercise of such options (including without limitation, two demand registration rights and unlimited piggyback registration rights) on Form S-1, Form S-3 or such other form as may be applicable pursuant to the Securities Act of 1933 as amended.",
+    "ollama_generated": "12.10 Equity Stake Amendment:\n\nTheglobe shall have the opportunity, upon industry-standard terms agreed upon by the parties in good faith, to acquire options for the purchase of up to 4% of Boxlot's fully diluted capital stock (in accordance with the chart below). This opportunity will become effective at a later date, determined solely by Boxlot, and may not be exercised until six months after such effective date. These options will expire five years from the date of their issuance.\n\nThe exercise price for each option will be determined as follows: if Boxlot's common stock has been offered to the public in an initial public offering (IPO), the exercise price will be the price per share at that time; otherwise, the exercise price will be $6 per share. This price may be adjusted for any stock splits, combinations or re-organizations affecting Boxlot's capital stock.\n\nBoxlot shall not grant to theglobe registration rights for these options unless and until Boxlot itself elects to register its securities for public sale under a registration statement on Form S-1, Form S-3, or any other form applicable under the Securities Act of 1933 as amended. Theglobe shall not have the right to demand registration more than twice during the term of these options, and may only piggyback onto Boxlot's registrations for additional offerings if unlimited space is available.",
+    "contradiction_score": 0.16881820559501648,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 38945,
+    "end_char": 39093,
+    "original": "B.   Response Time.  The mean response time for server response to access the Service shall not exceed more than 6 seconds during any 1 hour period.",
+    "ollama_generated": "B. Response Time Guidelines. While we strive to maintain swift service, occasional delays may occur, and the maximum server response time to access the Service may extend beyond six seconds for up to 5 minutes within any given one-hour period. This allows for unexpected system optimizations or increased traffic without breaching our commitment to providing you with a satisfactory user experience.",
+    "contradiction_score": 0.1327456533908844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 39326,
+    "end_char": 39650,
+    "original": "D.   Security.  Boxlot shall prevent unauthorized access to restricted areas of its servers and any databases or other sensitive material generated from or used in conjunction with the Service.  In addition, Boxlot shall immediately notify theglobe of any known security breaches or holes in the Service or Co-Branded Pages.",
+    "modified": "D. Security Obligations: Theglobe acknowledges that it is responsible for securing its own systems and networks. While Boxlot will implement reasonable security measures to protect the Service, any databases or sensitive material associated with it, Theglobe assumes the risk of unauthorized access to restricted areas of its servers or any Co-Branded Pages resulting from its failure to maintain adequate security protocols.\n\nIn case of a known or suspected security breach or vulnerability in the Service or the Co-Branded Pages, Theglobe shall promptly notify Boxlot without undue delay for cooperative action and remediation.",
+    "contradiction_score": 0.615901529788971,
+    "kept": true
+  },
+  {
+    "clause_index": 98,
+    "start_char": 40302,
+    "end_char": 40640,
+    "original": "theglobe may unilaterally add additional browsers or versions that the Service must be compatible with, effective after 30 days advance written notice, if theglobe certifies that such additional browsers or versions are used by more than 5% of its Users.  Users shall not require any plug-ins in order to access any Service functionality.",
+    "modified": "The Service provider, being theglobe, retains the discretion to introduce new browsers or versions, effective immediately upon providing a 30-day advance written notice, if said browsers or versions are utilized by at least 5% of its User base. The Users acknowledge and accept that they may be required to install necessary plug-ins to access certain functionalities of the Service.",
+    "contradiction_score": 0.927177906036377,
+    "kept": true
+  },
+  {
+    "clause_index": 102,
+    "start_char": 41628,
+    "end_char": 41866,
+    "original": "EXHIBIT C BOXLOT COMPETITIVE SET aciauction Auction 123 Auction Net Online Auction Network Auction Online Auction Sales Online Auction Universe Auction USA Auction Warehouse Auction World AuctionAddict AuctionFloor AuctionGate AuctionInc.",
+    "ollama_generated": "EXHIBIT C - BOXLOT COMPETITIVE SET, hereafter referred to as the \"Online Auction Ecosystem\": Auction 123, Auction Net, Online Auction Network, Auction Online, Auction Universe, Auction USA, Auction Warehouse, Auction World, AuctionAddict, AuctionFloor, and AuctionGate - AuctionInc.\n\nThe Seller acknowledges the right of the Buyer to participate in any auction facilitated by this collective platform (hereinafter \"Participating Platforms\"), subject to the individual terms and conditions applicable to each Participating Platform. The Seller expressly waives any claims against the Participating Platforms for any losses or damages arising from the Buyer's participation, provided that such participation complies with the respective terms and conditions of the Participating Platforms. In case of disputes, the Seller agrees to resolve such matters directly with the relevant Participating Platform involved. The Seller assumes all risks associated with the sale of goods or services on these platforms, and the Participating Platforms shall not be held liable for any breaches of contract or obligations by either party.",
+    "contradiction_score": 0.09375877678394318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 45313,
+    "end_char": 45475,
+    "original": ".    The \"welcome\" page will include a \"Privacy Policy\" informing the User that their data is being passed to a third party (Boxlot) in order to use the Services.",
+    "ollama_generated": "Upon accessing the initial interface, referred to as the \"welcome\" page, the User shall be presented with a clearly visible and easily accessible \"Privacy Policy\" notice. This policy discloses that by continuing to utilize our Services, the User consents to the transmission of their data to a trusted third party, Boxlot, for the sole purpose of facilitating these services.",
+    "contradiction_score": 0.0013729112688452005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 45475,
+    "end_char": 45752,
+    "original": ".    Any additional required User information is collected and entered into theglobe's database. Then, the required User information is sent to Boxlot all at once to create the new account. theglobe will include the User's \"username\" and \"UserID#\" in the data passed to Boxlot.",
+    "ollama_generated": "Upon user request, certain User information may be voluntarily provided for the purpose of creating a new account with Boxlot. While theglobe may facilitate this process by storing the provided User information temporarily in its database, it is solely the responsibility of the User to ensure that all necessary information is accurately provided and submitted directly to Boxlot. Theglobe will only disclose the User's \"username\" and \"UserID#\" when such information is explicitly requested by the User for the purpose of account creation with Boxlot.",
+    "contradiction_score": 0.276332288980484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 46938,
+    "end_char": 47150,
+    "original": ".    The User will only see the \"Welcome\" page until they consent to the privacy policy and enter any required information. This page will not appear after the User completes the initial account creation process.",
+    "ollama_generated": "The User's initial account creation process may include a step where they are presented with the \"Welcome\" page, requiring their consent to our privacy policy and entry of any necessary information. After these steps have been completed, the User will no longer be shown this page thereafter, unless they choose to review or update their information at a later time.",
+    "contradiction_score": 0.002998014446347952,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 47588,
+    "end_char": 47850,
+    "original": ".    The UserID# theglobe passes to Boxlot during account creation will be stored by Boxlot in association with each User. This UserID# is necessary to link individual user reporting and individual account updates between Boxlot and theglobe on an ongoing basis.",
+    "ollama_generated": ".    Upon account creation, the UserID# provided by the User (referred to as \"you\") will be retained by Boxlot for each associated account. This unique identifier is crucial in facilitating a connection between your individual user activities and account updates on both Boxlot and theglobe platforms. Notably, while we strive to maintain this link, Boxlot assumes no liability for any disruption or failure in the association of accounts or reports between our systems.",
+    "contradiction_score": 0.003614352084696293,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

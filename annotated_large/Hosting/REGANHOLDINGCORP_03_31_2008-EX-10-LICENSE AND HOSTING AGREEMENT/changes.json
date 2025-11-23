@@ -1,0 +1,277 @@
+[
+  {
+    "clause_index": 11,
+    "start_char": 3676,
+    "end_char": 4043,
+    "original": "ARTICLE II LICENSE OF LMG TOOLS Grant of License . LMG grants TAG a worldwide, nonexclusive, irrevocable, perpetual license to load, execute, access, employ, use, store, or display (\u201c Use\u201d) the object code  version of the LMG Tools and Documentation (the \u201c License\u201d) for the period specified in Exhibit A in accordance with the terms and conditions of this Agreement.",
+    "modified": "ARTICLE II GRANT OF LICENSE BY TAG TO LMG\nLicense Granted by TAG . TAG hereby grants LMG a non-exclusive, revocable, limited duration license to load, execute, access, employ, use, store or display (\"Use\") the object code version of the LMG Tools and Documentation (the \"Licensed Materials\") solely for the purposes specified in Exhibit A, as may be amended from time to time at TAG's discretion, subject to the terms and conditions of this Agreement. This license shall remain effective for the duration set forth in Exhibit A or until terminated by TAG upon written notice to LMG.",
+    "contradiction_score": 0.5592176914215088,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 5514,
+    "end_char": 6044,
+    "original": "Ownership of LMG Tools and Modifications . The LMG Tools and Documentation shall be and remain the property of LMG, and TAG shall have no right or interest therein except as set forth in this Agreement.  TAG shall be entitled to modify the LMG Tools and Documentation and to develop software derivative of or interfacing with the LMG Tools.  All modifications of and software derivative of the LMG Tools and Documentation developed by TAG shall be and remain the property of TAG, and LMG shall have no rights or interests therein.",
+    "modified": "Proprietorship over LMG Tools and Derivatives: The LMG Tools and accompanying Documentation will continue to belong exclusively to LMG, while TAG is granted limited rights as stipulated within this Agreement. Specifically, TAG may modify the LMG Tools and Documentation, and create software that either derives from or interfaces with these tools. However, any modifications made to the LMG Tools, or software derivative thereof, created by TAG will be owned solely by LMG, with TAG having no rights or interests in such property.\n\nExplanation: The original clause stated that TAG could modify the LMG Tools and create derivative works, but ownership of those modifications would belong to TAG. In the rewritten clause, I have altered the ownership of derivative works so that they belong to LMG instead, effectively strengthening LMG's position in the agreement.",
+    "contradiction_score": 0.8701217770576477,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 7475,
+    "end_char": 8252,
+    "original": "Contemporaneously with the execution of this Agreement, TAG, LMG and CSC shall execute a nondisclosure and non-use agreement granting TAG a license in the CSC Software sufficient for TAG to perform the TPA Services and otherwise satisfy its obligations under the New Customer Contracts, Subcontracts and Administrative Services and Teaming Agreement (the \u201cCSC Agreement\u201d).  TAG\u2019s use of, and LMG\u2019s rights regarding, the CSC Software will be governed by the terms of the CSC Agreement and not the terms of this Agreement.  At TAG\u2019s request, LMG shall exercise and make available to TAG all rights and benefits available to it under LMG\u2019s existing license with CSC including LMG\u2019s rights to receive error corrections, support, maintenance and upgrades to or for the CSC Software.",
+    "ollama_generated": "Upon execution of this Agreement, it is understood that TAG, LMG, and CSC will simultaneously execute a nondisclosure and non-use agreement. This agreement will grant TAG a license in the CSC Software, sufficient only for TAG to fulfill its obligations under the New Customer Contracts, Subcontracts, Administrative Services, Teaming Agreement, and any related tasks (hereafter referred to as \"CSC Agreement\").\n\nThe utilization of the CSC Software by TAG and the rights associated with it pertaining to LMG will be subject to the conditions outlined in the CSC Agreement, rather than this Agreement. Upon TAG's request, LMG shall facilitate and provide TAG with all rights and benefits accessible under its existing license agreement with CSC, including access to error corrections, support, maintenance, and updates for the CSC Software.\n\nIn essence, while TAG will be granted a license for the use of the CSC Software, it is important to note that the terms governing this usage will stem from the CSC Agreement, not this current agreement. Furthermore, LMG will aid TAG in accessing the benefits associated with its existing license agreement with CSC.",
+    "contradiction_score": 0.0013054475421085954,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 9899,
+    "end_char": 10091,
+    "original": "LMG shall provide (or will cause the third party vendor to provide) to TAG all upgrades, modifications, improvements, enhancements, extensions, and other changes to LMG Tools developed by LMG.",
+    "ollama_generated": "TAG shall have the option to request (and LMG shall consider in good faith) any upgrades, modifications, improvements, enhancements, extensions, or other changes to LMG Tools developed by LMG. If both parties agree upon such a change, then LMG will facilitate (or cause a third party vendor to facilitate) the provision of these alterations to TAG.",
+    "contradiction_score": 0.01530530210584402,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 10091,
+    "end_char": 10422,
+    "original": "LMG shall provide (or will cause the third party vendor to provide) to TAG any revisions to the existing Documentation developed for the LMG Tools, CSC Software and Other Third Party Software or necessary to reflect all corrections, updates, upgrades, modifications, improvements, enhancements, extensions or other changes thereto.",
+    "ollama_generated": "TAG shall have the option (but not obligation) to request revisions from LMG regarding any updates, enhancements, or modifications made to the existing Documentation for LMG Tools, CSC Software, and Other Third Party Software. LMG's provision of such revisions is contingent upon TAG's explicit request and is subject to LMG's availability and reasonable efforts to fulfill such requests.",
+    "contradiction_score": 0.12253536283969879,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 11783,
+    "end_char": 12957,
+    "original": "Retained LMG Personnel . LMG shall exercise commercially reasonable efforts to maintain the employment of the LMG employees identified in  Exhibit B (\u201cRetained Employees \u201d) for the estimated retention period specified in  Exhibit B or such other period as TAG may reasonably request (\u201c Retention Period \u201d). LMG shall cause them to devote the same amount of time and attention to the performance of the services under this Agreement as they presently devote to such services.  In all events, LMG shall retain a sufficient number of qualified personnel to perform the LMG Services.  The Retained Employees shall be employees of LMG for all purposes.  LMG shall be solely responsible for funding and distributing benefits under the benefit plans in which the Retained Employees participate and for paying any compensation and remitting any income, disability, withholding and other employment taxes for such Retained Employees.  For clarity, the foregoing shall not affect TAG\u2019s obligation to reimburse LMG for the costs specifically identified as reimbursable by TAG during the period, and under the terms and conditions, set forth in  Sections 4.1  and 4.2 of this Agreement.",
+    "ollama_generated": "Employed Retained Personnel: TAG shall request, within reason, a retention period for the employees listed in Exhibit B (\"Retained Employees\") as outlined in Exhibit B or any subsequent duration. TAG acknowledges that the Retained Employees will continue to devote their customary time and attention to the delivery of services under this Agreement. Notwithstanding, TAG understands that it is incumbent upon LMG to ensure an adequate workforce to fulfill the LMG Services. It should be noted that these employees remain employees of LMG for all intents and purposes.\n\nLMG shall independently manage and allocate funds for employee benefits under the plans in which the Retained Employees are enrolled, and will remunerate them as well as deduct and forward any applicable income, disability, withholding, and other employment taxes. For the record, this clause does not impinge on TAG's obligation to reimburse LMG for the expenses explicitly designated as reimbursable by TAG, in accordance with Sections 4.1 and 4.2 of this Agreement.",
+    "contradiction_score": 0.0067115528509020805,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 14114,
+    "end_char": 14923,
+    "original": "Continued Performance . LMG understand that TAG requires Use of the LMG Tools, CSC Software, Other Third Party Software, Documentation and LMG Services in order to perform the TPA Services for the New Customers.  Accordingly, LMG agrees that LMG will perform its obligations under this Article in a manner that does not degrade, diminish or otherwise interfere with the TPA Services or result in any default by, or liability of, TAG under the New Customer Contracts (including any default or liability with respect to service levels or quality of service).  Without limitation, LMG shall not under any circumstance, even during a dispute, suspend, terminate, diminish or degrade the performance of the LMG Tools, CSC Software, Other Third Party Software or LMG Services, or attempt or threaten to do the same.",
+    "ollama_generated": "Obligations Regarding Performance . TAG acknowledges that the execution of the TPA Services for New Customers relies on the utilization of LMG Tools, CSC Software, Other Third Party Software, Documentation, and LMG Services. As such, TAG accepts that TAG will fulfill its obligations under this Article without impairing, reducing, or otherwise disrupting the functionality of these elements, which may lead to a breach by, or financial responsibility of, LMG under the New Customer Contracts (including any infringements concerning service levels or quality of service). In no event, not even during a disagreement, will TAG intentionally halt, revoke, reduce, or deteriorate the operation of the LMG Tools, CSC Software, Other Third Party Software, or LMG Services, nor will TAG make any attempts or issue threats to do so.",
+    "contradiction_score": 0.011805915273725986,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 19580,
+    "end_char": 20796,
+    "original": "The LMG Tools, CSC Software, Other Third Party Software and Documentation are and shall be free and clear of all liens and encumbrances, and TAG shall be entitled to Use them without disturbance\u037e No portion of the LMG Tools, CSC Software and Other Third Party Software contains, at the time of delivery, any \u201cback door,\u201d \u201ctime bomb,\u201d \u201cTrojan horse,\u201d \u201cworm,\u201d \u201cdrop dead device,\u201d \u201cvirus,\u201d or other computer software routines or hardware components designed to (i) permit access or Use of such software or TAG\u2019s computer systems by LMG or a third party not authorized by this Agreement, or  (ii) disable, damage or erase the software or data\u037e The LMG Tools, CSC Software and Other Third Party Software and the design thereof shall not contain preprogrammed preventative routines or similar devices which prevent TAG from exercising the rights granted to TAG under this Agreement or from utilizing the software for the purpose for which they were designed\u037e and Each item of LMG Tools and, to LMG\u2019s knowledge, the CSC Software and Other Third Party Software (i) shall be free from defects and (ii) shall function properly under ordinary Use and operate in conformance with its Applicable Specifications and Documentation.",
+    "ollama_generated": "The LMG Tools, CSC Software, and any other third-party software provided, as well as their accompanying documentation, shall be free from any liens, encumbrances, or other claims, and TAG shall have the unrestricted right to utilize them without interference. No component of the LMG Tools, CSC Software, or third-party software at the time of delivery shall contain any \"back door,\" \"time bomb,\" \"Trojan horse,\" \"worm,\" \"drop dead device,\" \"virus,\" or other malicious software routines or hardware elements designed to (i) grant unauthorized access to TAG's computer systems or the provided software by LMG or any third party, or (ii) impair, harm, or delete the software or data. Furthermore, the design of the LMG Tools, CSC Software, and other third-party software shall not include any preprogrammed safeguards or similar devices that would hinder TAG's exercise of rights under this Agreement or prevent the use of the software for its intended purpose. Lastly, each piece of LMG Tools, to TAG's knowledge, and the CSC Software and other third-party software (i) shall be free from defects and (ii) shall function effectively under normal usage conditions and operate in accordance with their applicable specifications and documentation.",
+    "contradiction_score": 0.00845256820321083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 22446,
+    "end_char": 23141,
+    "original": "LMG shall notify TAG of any Claims against LMG based on an alleged Infringement of any party\u2019s intellectual property rights in and to the LMG Tools, CSC Software, Other Third Party Software or Documentation.  In the event an injunction is sought or obtained against Use thereof or in TAG\u2019s opinion is likely to be sought or obtained, LMG shall promptly, at its option and expense, either (i) procure for TAG the right to continue to Use the infringing software or Documentation as set forth in this Agreement, or (ii) replace or modify the infringing software or Documentation to make its Use non-infringing while being capable of performing the same function without degradation of performance.",
+    "modified": "TAG shall be responsible for promptly informing LMG of any claims asserted against TAG, alleging an infringement of LMG's intellectual property rights in relation to the LMG Tools, CSC Software, Other Third Party Software, or Documentation. In instances where TAG believes that an injunction may be sought or obtained regarding such use, or an injunction has already been obtained, it shall be at LMG's discretion and expense to address this situation. LMG may either: (i) secure for TAG the right to continue utilizing the infringing software or documentation in accordance with this Agreement; or (ii) assume responsibility for modifying or replacing the infringing software or documentation, ensuring that its functionality remains equivalent without any significant degradation of performance while being non-infringing.",
+    "contradiction_score": 0.5846961140632629,
+    "kept": true
+  },
+  {
+    "clause_index": 50,
+    "start_char": 23531,
+    "end_char": 24794,
+    "original": "5.3TAG Indemnification TAG shall indemnify and hold LMG, its affiliates and their respective successors, officers, directors, employees, and agents harmless from and against any and all Losses resulting from or arising out of (i) any Infringement by software provided by TAG or PSC or (ii) TAG\u2019s contributions to, misuse of or unauthorized modification of LMG Tools, CSC Software, Other Third Party Software or Documentation provided by LMG under this Agreement\u037e  provided, however , that TAG shall have no obligation under this Section to the extent (A) the claim or Infringement was the result of LMG\u2019s failure to obtain the required consents or approvals for which it is responsible, (B) LMG failed to provide written notice of the duties, obligations or restrictions to which TAG is subject, or (C) TAG\u2019s contributions to, use of, modification or other activities is consistent in all material respects with LMG\u2019s activities in the twelve (12) months prior to the Effective Date.  TAG shall defend and settle, at its expense, all suits or proceedings arising therefrom.  LMG shall inform TAG of any such Claim against LMG and shall have the right to participate in the defense of any such suit or proceeding at its expense and through counsel of its choosing.",
+    "ollama_generated": "5.3. Limitation on Liability: LMG shall assume responsibility for, and will indemnify and hold TAG, its subsidiaries, and their respective successors, officers, directors, employees, and agents harmless from any and all claims, damages, or losses (collectively, \"Losses\") arising from or resulting from (i) any infringement of intellectual property rights associated with software supplied by LMG or PSC, or (ii) LMG's misuse of, unauthorized modification of, or improper handling of TAG\u2019s tools, CSC Software, Other Third Party Software, or Documentation supplied under this Agreement. However, this indemnification will not extend to instances where (A) the infringement was due to TAG\u2019s failure to secure necessary consents or approvals for which it is responsible, (B) TAG was not provided with written notice of the duties, obligations, or restrictions applicable to it, or (C) TAG's activities are inconsistent, in all material respects, with LMG's activities during the twelve (12) months preceding the Effective Date. TAG shall have the right to participate in any defense of such claims at its own expense and through counsel of its choosing. LMG will bear the costs of defending and settling any such suits or proceedings.",
+    "contradiction_score": 0.1737368255853653,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 30723,
+    "end_char": 30851,
+    "original": "Survival of Article V . The provisions of this Article V shall survive the term or termination of this Agreement for any reason.",
+    "ollama_generated": "Persistence of Article V's Provisions Across Agreement Lifespan: Regardless of the cause or manner, the terms outlined in Article V shall remain binding and effective even beyond the duration or expiration of this Agreement.",
+    "contradiction_score": 0.0008707946981303394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 31311,
+    "end_char": 31765,
+    "original": "Termination for Cause . In the event that either party materially defaults in the performance of its duties or obligations set forth in this Agreement, and such default is not cured within thirty (30) days after written notice is given to the defaulting party specifying the default, then the party not in default may, by giving written notice thereof to the defaulting party, terminate the Agreement as of a date specified in such notice of termination.",
+    "ollama_generated": "Termination for Cause . Should either party materially breach its obligations or duties stipulated within this Agreement, and such breach remains unaddressed beyond thirty (30) days following receipt of written notice detailing the breach, the non-breaching party reserves the right to issue a termination notice at their discretion. The said termination shall take effect on a date specified in the termination notice. Notably, the breaching party will not be entitled to any claim or recourse against the non-breaching party following the effective date of termination.",
+    "contradiction_score": 0.006454999092966318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 32995,
+    "end_char": 33197,
+    "original": "LMG shall provide all such information and assistance as may be necessary for TAG to transition off using the LMG Tools, CSC Software and Other Third Party Software or to install and implement the same.",
+    "ollama_generated": "TAG may request from LMG any information and assistance that they deem necessary for their transition away from using the LMG Tools, CSC Software, and Other Third Party Software, or for their installation and implementation of alternative solutions. However, it is solely TAG's responsibility to execute this transition at their own pace and discretion, and LMG does not guarantee the success or efficiency of such a transition.",
+    "contradiction_score": 0.01054498739540577,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 35032,
+    "end_char": 35244,
+    "original": "LMG shall obtain any necessary rights and thereafter make available to TAG, pursuant to reasonable terms and conditions, any third party services then being utilized by LMG in the performance of the LMG Services.",
+    "ollama_generated": "TAG shall have the right, at its discretion, to request from LMG, under mutually agreeable terms and conditions, access to any third-party services that TAG deems necessary for the effective execution of the LMG Services by LMG. LMG's obligation is limited to facilitating such access where reasonably possible, subject to obtaining any required permissions or fulfilling any applicable legal obligations.",
+    "contradiction_score": 0.05691585689783096,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 38443,
+    "end_char": 39129,
+    "original": "ARTICLE VII CONFIDENTIALITY General. Each party (a \u201c Receiving Party \u201d) agrees that all Confidential Information provided or otherwise made available under this Agreement by the other party (a \u201c Disclosing Party \u201d) will be treated as confidential, regardless of whether marked or described as Confidential Information, and all confidentiality notices on that Confidential Information will be retained. In avoiding unauthorized disclosure or use of the Disclosing Party\u2019s Confidential Information, the Receiving Party will use at least the same degree of care, but no less than a reasonable degree of care, as it employs concerning its own Confidential Information of similar importance.",
+    "ollama_generated": "ARTICLE VII CONFIDENTIALITY\n\nLimited Use and Disclosure. Each party (referred to herein as the \"Recipient\") acknowledges that it may receive certain non-public, proprietary or sensitive information (\"Confidential Information\") from the other party (the \"Discloser\"). The Recipient understands that this Confidential Information, regardless of whether marked or described as such, is to be treated with care and confidentiality. However, the Recipient's use of the Discloser's Confidential Information shall not be limited to the same extent as it applies to the Recipient's own Confidential Information of similar importance. The Recipient shall exercise a reasonable degree of care in protecting the Confidential Information, but is not obligated to employ the highest level of care typically used for its own confidential information.\n\nIn this revised clause, the obligation on the Receiving Party (now called the \"Recipient\") to protect and use the Disclosing Party's Confidential Information has been slightly weakened by replacing \"at least the same degree\" with \"not limited to the same extent as\" and removing any reference to retaining confidentiality notices. Additionally, the Recipient is now only obligated to exercise a \"reasonable degree of care,\" which may be less than the highest level typically used for its own confidential information.",
+    "contradiction_score": 0.1508062332868576,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 39129,
+    "end_char": 40059,
+    "original": "Definition . \u201cConfidential Information \u201d shall mean, with respect to a party, all non-public written, electronic, and oral proprietary information communicated to the other party (or obtained by such other party while at the party\u2019s premises) during the Term in connection with this Agreement including  information relating to a party\u2019s products, services, designs, methodologies, business plans, finances, marketing plans, customers or prospects  and the terms of this Agreement.  Confidential Information will not include information that (a) was known by the Receiving Party without an obligation of confidentiality before its receipt from the Disclosing Party, (b) is independently developed by the Receiving Party, (c) is or becomes publicly available without a breach by the Receiving Party of this Agreement, or (d) is disclosed to the Receiving Party by a third person who is not required to maintain its confidentiality.",
+    "modified": "Definition . \"Confidential Materials\" shall encompass, with reference to each party, any non-public written, electronic, or oral proprietary data transmitted, disclosed, or gained access to by the other party (or during their stay on the premises of either party) throughout the Term, in relation to this Agreement. This includes, but is not limited to, information regarding a party's products, services, designs, methodologies, business strategies, financial status, marketing initiatives, clientele or potential clients, and the specific terms of this Agreement. \"Confidential Materials\" shall exclude:\n\n(a) Information that was known by the Receiving Party without a confidentiality obligation prior to its disclosure by the Disclosing Party;\n(b) Information that is independently created by the Receiving Party;\n(c) Information that becomes publicly accessible without a breach of this Agreement by the Receiving Party; or\n(d) Information received from a third party who is under no obligation to preserve its confidentiality.\n\nHowever, it is clarified that even if some portion of the Confidential Materials falls into one of the exceptions listed above, the Receiving Party shall still protect and maintain the confidentiality of any remaining portions that retain their confidential nature.",
+    "contradiction_score": 0.9589431285858154,
+    "kept": true
+  },
+  {
+    "clause_index": 79,
+    "start_char": 40059,
+    "end_char": 40514,
+    "original": "Disclosure . The Receiving Party may disclose Confidential Information only to its own officers, directors, and employees and to its consultants, subcontractors, and advisors who reasonably need to know it for the purposes contemplated by this Agreement.  The Receiving Party will be responsible to the Disclosing Party for any violation of the provisions of this Article VII by its officers, directors, employees, consultants, subcontractors or advisors.",
+    "ollama_generated": "Confidentiality Obligation . The Recipient is granted permission to share Confidential Information solely with their own officers, directors, and employees who are strictly necessary for the performance of this Agreement, as well as their designated consultants, subcontractors, and advisors. However, the Recipient shall not be directly liable for any unauthorized disclosure or misuse of Confidential Information by third parties, but will utilize reasonable efforts to ensure such entities comply with this Article VII's provisions.",
+    "contradiction_score": 0.44923099875450134,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 40722,
+    "end_char": 41193,
+    "original": "Reproduction . Except as otherwise provided in writing between the Parties, the Receiving Party may not print, copy or reproduce in any way, in whole or in part, any documents or other media containing the Disclosing Party\u2019s Confidential Information, other than copies for its officers, directors, employees, consultants or advisors who reasonably need to know it for the purposes contemplated by this Agreement, without the prior written consent of the Disclosing Party.",
+    "ollama_generated": "Reproduction . Unless specifically authorized in writing by both Parties, the Receiving Party is prohibited from reproducing, duplicating or disseminating, in any manner, whether wholly or partially, any documents or other media encompassing the Disclosing Party\u2019s Confidential Information. However, the Receiving Party may create copies for its own officers, directors, employees, consultants or advisors who have a legitimate need to access such information in furtherance of the objectives outlined within this Agreement. Such authorized parties are bound by the same confidentiality obligations as the Receiving Party. Any breach of these reproduction restrictions requires immediate written consent from the Disclosing Party.",
+    "contradiction_score": 0.0035105133429169655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 41193,
+    "end_char": 42078,
+    "original": "Required Disclosure . If the Receiving Party is requested to disclose any of the Disclosing Party\u2019s Confidential Information as part of an administrative or judicial proceeding or pursuant to any government or securities exchange rule or regulation, the Receiving Party will, promptly notify the Disclosing Party of that request and cooperate with the Disclosing Party, at the Disclosing Party\u2019s expense, in seeking a protective order or similar confidential treatment for the Confidential Information.  If no protective order or other confidential treatment is obtained, the Receiving Party will (a) disclose only  that portion of the Confidential Information that is legally required to be disclosed based on the opinion of its counsel and (b) use reasonable efforts to obtain reliable assurance that confidential treatment will be accorded the Confidential Information so disclosed.",
+    "ollama_generated": "Mandatory Consultation Regarding Disclosure Obligation . If a court or regulatory authority orders or requests the Disclosing Party's Confidential Information to be disclosed, the Receiving Party shall, without delay, inform the Disclosing Party and engage in a consultation with the Disclosing Party regarding potential protective measures. The Disclosing Party shall bear the costs associated with such consultation. If, after consultation, no mutually agreeable protective measure is reached, the Receiving Party may disclose the minimum amount of Confidential Information required by law or regulation. In such a case, the Receiving Party shall make reasonable efforts to negotiate confidentiality agreements with the receiving party or seek a court order ensuring the Confidential Information's protection to the fullest extent possible under applicable law.",
+    "contradiction_score": 0.06839191168546677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 43777,
+    "end_char": 44555,
+    "original": "LMG shall establish and maintain procedures and other safeguards against the destruction, loss, unauthorized access or alteration of Customer Data in the possession of LMG which are (i) no less rigorous than those maintained by LMG as of the Effective Date, and (ii) adequate to meet the requirements of the New Customer Contracts and applicable laws.  In the event LMG discovers or is notified of a breach or attempted breach of security relating to Customer Data, LMG shall (A) expeditiously notify TAG of such breach or attempted breach, (B) investigate such breach or attempted breach, (C) remediate the effects of such breach or attempted breach of security, and (D) provide TAG with such assurances as TAG shall request that such breach or attempted breach will not recur.",
+    "ollama_generated": "LMG is expected to implement and upkeep appropriate safeguards against unauthorized access, destruction, loss, or alteration of Customer Data in its custody, which may be less stringent than those currently employed by LMG but must still meet the minimum standards outlined in both the New Customer Contracts and applicable laws. In case LMG becomes aware of or is informed about a potential or actual security breach concerning Customer Data, it shall (A) promptly inform TAG of such incident, (B) conduct an investigation into the nature and extent of the security breach, (C) take reasonable steps to mitigate the consequences of the security breach, and (D) offer TAG any reasonable assurances that such security breaches will not reoccur; however, it is understood that LMG shall not be held liable for any unforeseen circumstances beyond its control which may lead to a recurrence of such incidents.",
+    "contradiction_score": 0.006960446015000343,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 44555,
+    "end_char": 44759,
+    "original": "At TAG\u2019s request, LMG shall restore all destroyed, lost or altered Customer Data.  Unless TAG has caused the destruction, loss or alteration,  LMG shall be responsible for the cost of restoring such data.",
+    "ollama_generated": "Upon TAG's demand, LMG will endeavor to recover, as far as reasonably practicable, any Customer Data that has been damaged, lost, or corrupted. In instances where LMG is not at fault for the damage, loss, or alteration of the data, TAG shall bear the costs associated with the recovery and restoration process.\n\nThis revised clause emphasizes the effort made by LMG to recover the Customer Data, while also shifting a portion of the financial responsibility to TAG in cases where the data issue was not caused by LMG.",
+    "contradiction_score": 0.004460930358618498,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 46255,
+    "end_char": 46976,
+    "original": "ARTICLE X MISCELLANEOUS Binding Nature, Assignment, and Subcontracting . This Agreement shall be binding on the parties and their respective successors in interest and assigns, but neither party shall  have the power to assign this Agreement without the prior written consent of the other party. LMG may not subcontract or delegate any of its duties or obligations of performance in this Agreement to any third party without the prior written consent of TAG.  If TAG grants such consent, LMG shall remain fully responsible for complete performance of all of LMG\u2019s obligations set forth in this Agreement and for any such third party\u2019s compliance with the  confidentiality and other provisions set forth in this Agreement.",
+    "modified": "ARTICLE X MISCELLANEOUS Binding Nature, Assignment, and Subcontracting\n\nThis Agreement shall bind both parties and their respective successors or assignees, provided that either party retains the right to assign this Agreement without obtaining prior written consent from the other, subject to a condition that any such assignment is made in good faith and does not materially adversely affect the other party's rights or obligations under this Agreement. TAG has the power to grant LMG the ability to subcontract or delegate some of its duties or obligations of performance in this Agreement to a third party, without the need for TAG\u2019s prior written consent. However, LMG shall remain responsible for any such third party's full compliance with all provisions set forth in this Agreement, including confidentiality and other provisions.",
+    "contradiction_score": 0.9608187675476074,
+    "kept": true
+  },
+  {
+    "clause_index": 97,
+    "start_char": 48192,
+    "end_char": 48373,
+    "original": "421 South 9th Street, Suite 222 Lincoln, Nebraska 68508 Attention: PresidentPerot Systems Corporation 2300 West Plano Parkway Plano, Texas 75075 Attn: Thomas D. Williams if to LMG :",
+    "ollama_generated": "421 South 9th Street, Suite 222, Lincoln, Nebraska 68508, Attention: President (LMG):\n\nIn the event that Perot Systems Corporation, Attn: Thomas D. Williams, at 2300 West Plano Parkway, Plano, Texas 75075 seeks communication regarding this agreement, all such correspondence should be directed to LMG at the aforementioned Nebraska address.\n\nIn this revised clause, the responsibility for receiving communications related to the agreement has been shifted from Perot Systems Corporation to LMG, the original addressee.",
+    "contradiction_score": 0.25918206572532654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 48482,
+    "end_char": 48542,
+    "original": "Stokes Lazarus & Carmichael LLP 80 Peachtree Park Drive N.E.",
+    "ollama_generated": "Shifted Responsibility Clause:\n\nCarmichael, Lazarus & Stokes LLP, 80 Peachtree Park Drive N.E., hereby assumes no liability or responsibility for any errors, omissions, or inaccuracies in the information provided, and no attorney-client relationship shall be established unless expressly agreed upon in writing.",
+    "contradiction_score": 0.2543034851551056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 48542,
+    "end_char": 49364,
+    "original": "Atlanta, GA  30309 Attention: Michael Ernst, Esquire Force Majeure.  The term \u201c Force Majeure \u201d shall mean fires or other casualties or accidents, acts of God, severe weather conditions, strikes or labor disputes, war or other violence, or any law, order, proclamation, regulation, ordinance, demand, or requirement of any governmental agency.  A party whose performance is prevented, restricted, or interfered with by reason of a Force Majeure condition shall be excused from such performance to the extent of such Force Majeure condition so long as such party provides the other party with prompt written notice describing the Force Majeure condition and takes all reasonable steps to avoid or remove such causes of nonperformance and immediately continues performance whenever and to the extent such causes are removed.",
+    "ollama_generated": "30309 Atlanta, GA Attention: Michael Ernst, Esquire\n\nForce Majeure Clause. The term \"Force Majeure\" shall encompass instances such as fires, casualties, accidents, natural disasters, severe weather conditions, labor disputes prolonged beyond a reasonable time, armed conflicts or acts of violence, and any mandatory compliance with laws, orders, proclamations, regulations, ordinances, demands, or requirements issued by governmental agencies.\n\nIn the event that either party's performance is impeded, hindered, or significantly delayed due to a Force Majeure event, such party shall be relieved from their obligations to the extent such event occurs, provided they provide prompt written notice detailing the Force Majeure incident and make every reasonable effort to mitigate or resolve the cause of nonperformance. Upon the removal or alleviation of the Force Majeure event, the affected party shall resume performance without delay.",
+    "contradiction_score": 0.0684918463230133,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 50508,
+    "end_char": 51012,
+    "original": "Waiver. Any waiver of this Agreement or of any covenant, condition, or agreement to be performed by a party under this Agreement shall (a) only be valid if the waiver is in writing and signed by an authorized representative of the party against which such waiver is sought to be enforced, and (b) apply only to the specific covenant, condition or agreement to be performed, the specific instance or specific breach thereof and not to any other instance or breach thereof or subsequent instance or breach.",
+    "ollama_generated": "Waiver Provisions:\n\nAny relaxation, exemption, or modification of this Agreement or any of its terms, covenants, or obligations shall be considered binding only under the following conditions:\n\n(a) The waiver must be in written form and signed by a duly authorized representative of the party granting the waiver, with the intent to release the other party from specified compliance.\n\n(b) Such waiver will only apply to the particular covenant, condition, or agreement in question, the specific instance or breach involved, and shall not extend to any future instances, breaches, or similar circumstances unless explicitly stated otherwise in writing and signed by the same authorized representative.",
+    "contradiction_score": 0.03340411186218262,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 52223,
+    "end_char": 52699,
+    "original": "Compliance with Laws . In the performance of LMG Services or the provision of LMG Tools and Documentation pursuant to this Agreement, LMG shall comply with the requirements of all applicable laws, ordinances, and regulations of the United States or any state, country, or other governmental entity. LMG shall indemnify, defend, and hold TAG harmless from and against any and all claims, actions, or damages arising from or caused by LMG\u2019s failure to comply with the foregoing.",
+    "ollama_generated": "Adherence to Legal Obligations: In providing LMG Services, utilizing LMG Tools, or distributing LMG Documentation as outlined in this Agreement, LMG is expected to adhere to all relevant laws, bylaws, and statutes of the United States, its states, or any foreign governmental entities. However, it is important to note that while LMG will make reasonable efforts to comply, it does not assume responsibility for any claims, legal actions, or damages that may arise from non-compliance, unless such failure to comply is proven to be a result of LMG's gross negligence or intentional misconduct.",
+    "contradiction_score": 0.012976435013115406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 53427,
+    "end_char": 54070,
+    "original": "Unauthorized Representations and Relationship of the Parties . Neither party shall (a) represent that this Agreement or the relationship created by this Agreement covers more than is specifically agreed to by the parties or (b) without the other party\u2019s prior written consent, make any representations or create any warranties, express or implied, concerning such other party or its products or services. This Agreement shall not constitute or create a joint venture, partnership or formal business organization of any kind.  The parties shall be independent contractors, and the employees of one shall not be employees or agents of the other.",
+    "ollama_generated": "Representation Limitations and Self-Binding Obligations of the Parties . It is expressly prohibited for either party to (a) assert that this Agreement, or the association engendered by it, encompasses commitments beyond those explicitly consented to by both parties, or (b) without receiving written consent from the other party prior, make any declarations or establish any guarantees, either expressed or implied, pertaining to the other party, their products, or services. This Agreement shall under no circumstances serve as a pretext for a joint venture, partnership, or any formal business union. The parties maintain their individual status as contractors, and the staff of one shall not be regarded as employees or agents by the other.",
+    "contradiction_score": 0.02252223528921604,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 475,
+    "end_char": 718,
+    "original": "Whereas, Bravatek is a corporation, which has technical expertise in security-related software, tools and systems/services (including telecom services) to support, deploy and test its current and potential customers' most critical initiatives.",
+    "ollama_generated": "In recognition of the fact, Bravatek serves as a corporation, boasting specialized knowledge in the development and application of security-related software, tools, systems, and services \u2013 encompassing telecom offerings \u2013 for the purpose of assessing, integrating, and enhancing the most pressing projects of both existing and prospective clients. Furthermore, Bravatek assumes no explicit responsibility for the outcomes or successes derived from these initiatives, as their execution remains under the domain of the client's discretion and control.",
+    "contradiction_score": 0.0026563815772533417,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1458,
+    "end_char": 1661,
+    "original": "1) Duties of Bravatek Bravatek agrees to serve as a non-exclusive project sales lead finder for COMPANY. In this capacity, Bravatek will use its best efforts to provide the following services to COMPANY.",
+    "ollama_generated": "1) Role of Bravatek\nBravatek consents to function as a non-obligated lead finder for project sales on behalf of COMPANY. In this role, Bravatek shall endeavor to deliver the following services to COMPANY; however, the success or failure of these efforts shall not be a cause for liability or breach of contract.\n\nThis revised clause shifts some responsibility from Bravatek to COMPANY by stating that the success of the efforts is not a basis for liability or breach of contract.",
+    "contradiction_score": 0.022133072838187218,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 4341,
+    "end_char": 4773,
+    "original": "5) Confidentiality \"Confidential information\" shall mean any and all technical and non-technical information, documents and materials related to client projects of party and products, services and business of each of the parties. COMPANY and Bravatek agree to maintain in strict confidence and not to disclose or disseminate, or to use for any purposes other than performance of the projects, the Confidential Information disclosed.",
+    "modified": "5) Disclosure and Use of Confidential Information\n\"Confidential Information\" is defined as any technical or non-technical information, documents, or materials related to party projects, products, services, or business that have been shared between Bravatek and the Company. Each party acknowledges and agrees that they shall only disclose such Confidential Information when necessary for the successful completion of their respective responsibilities. However, upon disclosure, neither party is obligated to maintain strict confidentiality with regard to the Confidential Information received from the other party. Instead, each party reserves the right to use, disclose, and disseminate the Confidential Information for any purposes they deem necessary or appropriate, including but not limited to the performance of their contractual obligations, compliance with applicable laws, regulations, or legal processes, or protection of their respective legitimate interests.",
+    "contradiction_score": 0.8470213413238525,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 5198,
+    "end_char": 5758,
+    "original": "6) Term of Confidentiality For a period of five (5) years after termination of this Agreement, the parties shall treat as confidential all information and take every reasonable precaution and use all reasonable efforts to prevent the unauthorized disclosure of the same. The parties agree to take all steps reasonably necessary and appropriate to ensure that their employees, agents, and/or assistants treat all information as confidential and to ensure that such employees, agents, and/or assistants are familiar with and abide by the terms of this Agreement.",
+    "ollama_generated": "6) Duration of Confidentiality Obligation: For a period of five (5) years following the termination of this Agreement, each party shall maintain the confidentiality of all shared information and will exercise due diligence to prevent any unauthorized disclosure. The parties acknowledge that it is their individual responsibility to ensure that their respective employees, contractors, or other representatives are made aware of and adhere to the terms of this Agreement regarding confidentiality. Furthermore, each party agrees to take all reasonable measures within their control to protect the confidentiality of shared information and to enforce such obligation upon their associates.",
+    "contradiction_score": 0.00369376502931118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 6579,
+    "end_char": 6995,
+    "original": "10) Indemnification COMPANY shall indemnify Bravatek, its directors, officers and employees, for any and all damages, costs, expenses, and other liabilities, including reasonable attorney's fees and court costs incurred in connection with any third-party claim, action or proceeding arising from the negligence or intentional misconduct of COMPANY or breach of COMPANY of any of its obligations under this Agreement.",
+    "ollama_generated": "10) Indemnity Bravatek shall be indemnified by COMPANY against any and all damages, costs, expenses, and other liabilities, including reasonable attorney's fees and court costs, incurred as a result of claims, actions, or proceedings instigated by third parties, provided that such claims arise from alleged breaches of Bravatek's obligations under this Agreement, the negligent or intentional acts of Bravatek's directors, officers, or employees. This indemnity shall not apply to any liabilities arising out of COMPANY's compliance with applicable laws and regulations.",
+    "contradiction_score": 0.04053094610571861,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 8124,
+    "end_char": 8167,
+    "original": "Bravatek Technologies, Inc.  Sibannac, Inc.",
+    "ollama_generated": "Bravatek Technologies, Inc. shall not be held responsible for any claims or disputes arising from the use of their products or services, unless such claims or disputes result directly and exclusively from Bravatek's intentional misconduct, gross negligence, or breach of a material provision of this agreement. In all other cases, Sibannac, Inc. shall bear any costs, damages, or liabilities that may arise.\n\nIn the event that Sibannac, Inc. wishes to make a claim against Bravatek Technologies, Inc., they must notify Bravatek in writing within thirty (30) days of becoming aware of the issue. Failure to do so shall constitute a waiver of any right to pursue such claim.\n\nIn case of any disputes arising under this agreement, both parties agree to engage in good faith negotiations to reach a mutually acceptable resolution. If the dispute remains unresolved after thirty (30) days from the commencement of negotiations, either party may submit the matter to binding arbitration in accordance with the rules of the American Arbitration Association. The decision of the arbitrator shall be final and binding upon both parties.\n\nThis clause shall survive termination or expiration of this agreement for any reason whatsoever.",
+    "contradiction_score": 0.155917689204216,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

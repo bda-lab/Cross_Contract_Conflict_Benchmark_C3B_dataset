@@ -1,0 +1,285 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1797,
+    "end_char": 1817,
+    "original": "2. Grant of License.",
+    "ollama_generated": "2. Permission to Use Intellectual Property (License).\n\nSubject to the terms herein, Licensor grants User a non-exclusive, revocable, and non-transferable right to use its Intellectual Property solely for the intended purpose as described in this Agreement. Any other use is expressly prohibited unless otherwise agreed upon by both parties in writing. The User acknowledges that any unauthorized use may result in termination of the License with immediate effect.",
+    "contradiction_score": 0.008152389898896217,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1817,
+    "end_char": 2122,
+    "original": "(a) Products. Upon the terms and conditions set forth in this Agreement, KI, Inc. hereby grants to Diplomat and Diplomat hereby accepts the right, license and privilege of utilizing KI's name and likeness solely upon and in connection with the manufacture, sale and distribution of the following products:",
+    "ollama_generated": "(a) Authorized Products. In accordance with the terms and conditions outlined in this Agreement, Diplomat is granted, and KI, Inc. consents, to the use of KI's name, trademark, and likeness for the production, marketing, and distribution of certain products, subject to the following limitations:\n\n1. Exclusive Jurisdiction: Such use is exclusive to Diplomat and may not be sub-licensed or transferred to any third party without prior written consent from KI, Inc.\n2. Quality Control: Diplomat shall ensure that all products bearing KI's name, trademark, or likeness comply with the quality standards set forth by KI, Inc., as communicated to Diplomat in writing.\n3. Product Recall: In case of any defect or issue arising from a product utilizing KI's intellectual property, Diplomat shall be solely responsible for managing and executing a recall, at its own expense, in consultation with KI, Inc. to mitigate potential harm to consumers and maintain the reputation of KI's brand.\n4. Indemnification: Diplomat agrees to indemnify and hold KI, Inc. harmless from any claims, damages, or expenses arising out of or in connection with the manufacturing, sale, or distribution of the products in question, except for those caused by the negligence or willful misconduct of KI, Inc.\n5. Termination: Upon termination of this Agreement, Diplomat shall cease using KI's name, trademark, or likeness in any capacity and remove all associated branding from its products.\n6. Dispute Resolution: Any disputes arising out of or related to this section shall be resolved through mediation before initiating any legal proceedings against KI, Inc.\n\nKI, Inc.'s consent to the use of its intellectual property in this context is not an endorsement, sponsorship, or partnership with Diplomat, but rather a business arrangement aimed at expanding the reach of both parties' products.",
+    "contradiction_score": 0.03492971137166023,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2503,
+    "end_char": 2563,
+    "original": "(b) Territory. The license hereby granted extends worldwide.",
+    "modified": "(b) Territory. For clarity, the granted license is limited to territories excluding those where local laws expressly prohibit the use of the licensed materials.",
+    "contradiction_score": 0.9256510734558105,
+    "kept": true
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3319,
+    "end_char": 3691,
+    "original": "The term \"net wholesale volume\" shall mean gross sales to all customers\u037e less returns, trade discounts and cash discounts\u037e but no deduction shall be made for other discounts or uncollectible accounts. No costs incurred in the manufacture, sale, distribution, or exploitation of the products covered by this Agreement shall be deducted from any royalty payable by Diplomat.",
+    "modified": "The term \"net wholesale volume\" will now represent gross sales to all customers; however, it will exclude only returns and trade discounts. Cash discounts and other discounts, as well as uncollectible accounts, shall be added back to the calculation. In this Agreement, any costs incurred by Diplomat in the manufacture, sale, distribution, or exploitation of the specified products will be eligible for deduction from royalties payable to you.",
+    "contradiction_score": 0.9940226674079895,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3691,
+    "end_char": 3880,
+    "original": "(b) Minimum Royalties. Diplomat agrees to pay KI, Inc. the minimum royalties set forth below as a minimum guarantee against royalties to be paid to KI, Inc. under subparagraph 3.(a), above:",
+    "ollama_generated": "(b) Guaranteed Minimum Royalties. KI, Inc. understands and agrees that Diplomat will make the minimum royalty payments as stipulated below, representing a minimum commitment to KI, Inc., even in cases where the royalties due under subparagraph 3.(a), above, may not be met:\n\nMinimum Guarantee Royalties:",
+    "contradiction_score": 0.012944723479449749,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3880,
+    "end_char": 5036,
+    "original": "(1) 1st License Year (8/1/95 - 1/30/97):     $ (2) 2nd License Year (2/1/97 - 1/30/98):     $ (3) 3rd License Year (2/1/98 - 1/30/99):     $ (4) 4th License Year (2/1/99 - 1/30/2000):   $ The minimum royalty for the 1st License Year shall be paid as follows: $ upon the signing of the Deal Memo dated August 24, 1995, the balance of $ to be paid in six (6) equal, consecutive, monthly installments of $ commencing with the month in which this Agreement is signed. No part of the minimum royalty for the first License Year shall in any event be repayable to Diplomat. The minimum royalty for the 2nd, 3rd and 4th License Years shall be made in four equal installments payable on February 1st, May 1st, August 1st and November 1st of each such License Year. Notwithstanding the foregoing, if royalties paid by Diplomat to KI, Inc. on net wholesale volume for any particular License Year under subparagraph 3(a) of this Agreement should exceed the minimum royalties remaining to be paid for that same License Year under this subparagraph 3(b), then no further payments of minimum royalties for such License Year shall be required under this subparagraph 3(b).",
+    "ollama_generated": "(1) For the Initial Licensing Period (August 1, 1995 - January 30, 1997): $\n        (2) For the Subsequent Licensing Periods (February 1, 1997 - January 30, 2000): $\n        The minimum royalty for the Initial Licensing Period shall be structured as follows: A lump sum of $ upon signing of the Deal Memo dated August 24, 1995, followed by five (5) subsequent, equal monthly installments of $ commencing from the month following the execution of this Agreement. It is clearly understood that any minimum royalties paid during the Initial Licensing Period, as stipulated in this subsection 3(b), are non-refundable to Diplomat. For the Subsequent Licensing Periods, the minimum royalty shall be divided into three equal installments payable on February 1st, May 1st, and August 1st of each respective period. It is worth noting that should Diplomat's royalties paid to KI, Inc. on net wholesale volume for any particular Licensing Period under subparagraph 3(a) of this Agreement surpass the remaining minimum royalties due for the same Licensing Period under this subsection 3(b), no additional payments of minimum royalties for that Licensing Period will be required under this subsection 3(b). However, should Diplomat fail to meet its royalty obligations as stipulated in the subsequent installments, it shall promptly make up these missed payments.",
+    "contradiction_score": 0.1930350661277771,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6827,
+    "end_char": 7554,
+    "original": "The license hereby granted shall be exclusive as to the products described in subparagraphs 2.(a)(1) and (2) of this Agreement, but nonexclusive as to all other products covered by this Agreement. Nothing in this Agreement shall be construed to prevent KI, Inc. from granting any other licenses for the use of KI's name or likeness, or from utilizing KI's name and likeness in any manner whatsoever, except that KI, Inc. agrees that except as provided herein it will grant no other licenses for the territory to which this license extends for the use of KI's name and likeness in connection with the sale of the products described in subparagraphs 2.(a)(1) and (2) of this Agreement effective during the term of this Agreement.",
+    "modified": "This license granted is exclusive in regard to the specific products outlined within subparagraphs 2.(a)(1) and (2) of this Agreement; however, it becomes nonexclusive for all other products detailed within this Agreement. It is important to note that this Agreement does not restrict KI, Inc. from granting additional licenses concerning their name or likeness, nor does it bar the utilization of KI's name and likeness in any form.\n\nHowever, with regard to the territory covered by this license, KI, Inc. agrees that they will not grant any other licenses for the use of their name and likeness in conjunction with the sale of the products described in subparagraphs 2.(a)(1) and (2), except as explicitly stipulated herein, throughout the duration of this Agreement.",
+    "contradiction_score": 0.539350688457489,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 7873,
+    "end_char": 8090,
+    "original": "(b) USA Appearance. KI will make one (1) personal appearance per License Year during the period of this Agreement on behalf of Diplomat at the Vision Expo in New York, New York, subject to the terms of this paragraph.",
+    "modified": "(b) Obligation for Appearance: Diplomat shall have the option, but not an obligation, for one (1) personal appearance per License Year during the term of this Agreement at the Vision Expo in New York, New York, subject to the terms of this paragraph. The responsibility for arranging and confirming this appearance lies with Diplomat, and KI will provide reasonable assistance upon request.",
+    "contradiction_score": 0.8640742301940918,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8090,
+    "end_char": 8426,
+    "original": "Such appearance shall be for the purpose of signing autographs, shall last for a period of up to three (3) hours, and shall be subject to KI's schedule and availability. Diplomat, at its own expense, shall provide KI with a hair and make-up assistant of KI's choosing for each personal or media appearance required under this Agreement.",
+    "ollama_generated": "The attendance at such events is solely for the purpose of providing autographs. The duration of these events may extend up to three (3) hours, though this is subject to KI's discretion and availability. The Party of Record is responsible for arranging a hair and make-up assistant at their expense, who must be chosen by KI for each personal or media appearance as outlined in this Agreement. This provision does not imply any obligation on the part of KI to attend events beyond the agreed duration or beyond the minimum number required under this Agreement.",
+    "contradiction_score": 0.0012902147136628628,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 8426,
+    "end_char": 8787,
+    "original": "(c) Travel. Travel expenses of KI in connection with all scheduled personal appearances under this Agreement, as well the travel expenses of KI's child, the child's nanny, KI's hair and make-up assistant of KI's choosing, and two (2) additional traveling companions of KI's choosing (collectively referred to as KI's \"entourage\"), shall be provided by Diplomat.",
+    "ollama_generated": "(c) Travel Arrangements: Diplomat shall be responsible for covering the travel expenses associated with KI and their entourage, which includes but is not limited to KI, KI's child, the child's nanny, one personal hair and make-up assistant selected by KI, and two additional traveling companions chosen by KI (collectively known as KI's \"traveling party\"). It is understood, however, that while Diplomat shall provide for the travel arrangements, KI retains the responsibility for ensuring the punctuality and appropriateness of their traveling party at all scheduled personal appearances under this Agreement.",
+    "contradiction_score": 0.0027347360737621784,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 8787,
+    "end_char": 10819,
+    "original": "KI and the members of her entourage shall travel via first class air and portal-to-portal limousine ground transportation. In addition, KI and the members of her entourage shall be lodged in first class hotel accommodations and all of them shall be reimbursed for all meals and other incidental expenses in connection with such appearances. All the above travel expenses of KI and the members of her entourage shall be billed directly to Diplomat. For purposes of this paragraph (c), the term \"travel expenses\" shall include (d) Photo Sessions. KI will participate in up to two (2) photo sessions per License Year during the period of this Agreement on behalf of Diplomat at a mutually acceptable time and place. The photo sessions shall be scheduled at KI's convenience upon not less than two (2) weeks prior notice, and shall be subject to KI's preexisting personal and professional commitments. The photo sessions shall be up to two (2) consecutive days in duration, each day to consist of no more than eight (8) working hours. The photo shoots shall be produced by SW, approved in writing by Diplomat (which approval shall not be unreasonably withheld), and all images produced from the photo sessions shall be the property of SW. The parties agree that all images from the photo sessions shall be retouched at the expense of Diplomat. In recognition of SW's expenses in connection with the above photo sessions, Diplomat shall pay SW the sum of $       per day for each day (or partial day) of such photo sessions. It is understood by the parties that such sum shall include all expenses required to provide Diplomat with positive film (excluding travel expenses of KI, as set forth in this Agreement), and that such sum contemplates a typical location for such photo sessions. If a more elaborate set-up for such photo sessions is required, and such set-up is mutually agreed to by the parties, then the above sum shall be increased to such amount as the parties shall agree. The above sum shall not include retouching images.",
+    "modified": "KI and their associates are granted premium economy air travel and limousine service for door-to-door transportation on the ground. Accommodation will be provided in luxury hotels, and all related expenses, including meals and incidentals connected with these engagements, will not be charged to KI or their entourage. Instead, Diplomat shall bear the costs of these travel arrangements, with the exception of personal expenses for KI and their associates, as detailed in this agreement.\n\nIn relation to this section (c), the term \"travel expenses\" will exclude Photo Sessions. Upon request from Diplomat, KI will consent to participate in up to two (2) photo sessions annually during the term of this Agreement, subject to a mutually convenient time and location and reasonable notice of at least two weeks. These sessions may last for no more than eight (8) hours per day over a maximum of two (2) consecutive days.\n\nThe production of these photo shoots will be managed by SW, with Diplomat's prior written approval required. All images derived from the photo sessions shall become the property of SW. Diplomat acknowledges responsibility for retouching the images as part of their expenses related to these photo sessions. In consideration of SW's costs associated with these photo shoots (excluding travel costs for KI, as outlined in this agreement), Diplomat will remunerate SW a fee of $      per day (or partial day) for each photo session day. The parties agree that this sum is intended for an average location and covers all necessary expenses, excluding additional costs associated with more elaborate set-ups, should they be mutually agreed upon by the parties. Any additional costs due to such elaborate set-ups will be added to the agreed fee. The remuneration does not cover retouching images.",
+    "contradiction_score": 0.9696519374847412,
+    "kept": true
+  },
+  {
+    "clause_index": 29,
+    "start_char": 12912,
+    "end_char": 12968,
+    "original": "7. KI, Inc.'s Title and Protection of KI. Inc.'s Rights.",
+    "ollama_generated": "7. Protection of KI, Inc.'s Titles and Claims to its Intellectual Property.\n\nThis change inverts the condition slightly by shifting the focus from KI, Inc. protecting its titles and rights, to other parties ensuring the protection of KI, Inc.'s intellectual property titles and claims. This subtle change may imply a shared responsibility or expectation among all parties involved in the contract.",
+    "contradiction_score": 0.006244345102459192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 12968,
+    "end_char": 13775,
+    "original": "(a) Diplomat agrees that it will not at any time during the term of this Agreement or thereafter attack (i) KI, Inc.'s title to, or rights in and to, KI's name or (ii) the validity of this license. KI, Inc. hereby indemnifies Diplomat and undertakes to hold it harmless against only those claims or suits (i) arising solely out of the authorized use of KI's name by Diplomat in accordance with this Agreement and (ii) brought by those persons or entities to whom KI, Inc. has licensed the use of KI's name and likeness. Prompt notice shall be given by Diplomat to KI, Inc. of any such claim or suit. In addition, KI, Inc. shall have the option to undertake and conduct the defense of any suit so brought and no settlement of any such claim or suit shall be made without the prior written consent of KI, Inc.",
+    "modified": "(a) Diplomat acknowledges that it may, during the term of this Agreement and thereafter, challenge certain aspects of its relationship with KI, Inc., specifically: (i) disputes regarding KI's exclusive right to use its name or (ii) questions pertaining to the validity of this licensing arrangement. However, KI, Inc. assumes all liability and is obligated to protect Diplomat from any claims or lawsuits exclusively resulting from: (i) authorized uses of KI's name by Diplomat in accordance with this Agreement and (ii) such uses licensed by KI, Inc. to third parties. Should Diplomat encounter any such claim or lawsuit, prompt notice must be provided to KI, Inc. Furthermore, KI, Inc. retains the right to manage and settle any such disputes at its discretion, with no settlement being reached without prior written consent from KI, Inc.",
+    "contradiction_score": 0.7353626489639282,
+    "kept": true
+  },
+  {
+    "clause_index": 32,
+    "start_char": 13985,
+    "end_char": 14286,
+    "original": "shall have the sole right to determine whether or not any action shall be taken in connection with such infringements or imitations. Diplomat shall not institute any suit or take any action in connection with any such infringements or imitations without first obtaining the written consent of KI, Inc.",
+    "ollama_generated": "KI, Inc. reserves the exclusive authority to decide whether any action should be taken regarding alleged infringements or imitations. The Diplomat is prohibited from initiating legal proceedings or taking any action related to such infringements or imitations without first obtaining a written approval from KI, Inc., prior to such actions being undertaken.",
+    "contradiction_score": 0.07476507872343063,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 16084,
+    "end_char": 17957,
+    "original": "Diplomat agrees that the products covered by this Agreement shall be of such style, appearance and quality as to be adequate and suited to their exploitation to the best advantage, protection and enhancement of KI's name and the good will pertaining to such name. Diplomat further agrees that (a) such products will be manufactured, sold and distributed in accordance with all applicable Federal, State and local laws, (b) that the policy of sale, distribution, and/or exploitation by Diplomat shall be to the best advantage of KI, Inc. and KI, and (c) that the latter policy shall in no manner reflect adversely upon the good name of KI and KI, Inc. To this end, Diplomat shall, before selling or distributing any of the products, furnish to KI, Inc. for its approval, free of cost, a reasonable number of samples of each product and the cartons, containers, packing and wrapping material for such products. The quality and style of such products, as well as of any carton, container or packing or wrapping material, shall be subject to the approval of KI, Inc., which shall not be unreasonably withheld or delayed. Failure to reject any product, carton, container, or packing or wrapping within 15 days of receipt of such item or items by KI, Inc. shall be deemed an acceptance of the quality and style of such item or items. After samples have been approved pursuant to this paragraph, Diplomat shall not depart therefrom in any material respect without KI, Inc.'s prior written consent. From time to time after Diplomat has commenced selling the products, and upon KI, Inc.'s written request, Diplomat shall furnish without cost to KI, Inc. not more than ten (10) additional random samples of each product being manufactured and sold by Diplomat under this Agreement, together with any containers and packing and wrapping material used in connection with such products.",
+    "ollama_generated": "Diplomat acknowledges that the goods encompassed by this Agreement shall be designed, crafted, and produced to a level of quality that may be considered satisfactory but not necessarily optimal for maximizing KI's brand visibility and market reputation. Diplomat additionally agrees that (a) these goods will be produced, marketed, and distributed in accordance with all relevant Federal, State, and local laws; (b) the strategy of sales, marketing, or exploitation by Diplomat shall prioritize its own interests over KI, Inc.'s and KI's; and (c) this strategy may potentially harm KI's and KI, Inc.'s reputation, although Diplomat bears no direct responsibility for any such negative impact.\n\nTo achieve this objective, Diplomat shall, prior to selling or distributing any of the goods, provide KI, Inc. with a reasonable number of samples of each product, as well as cartons, containers, packaging, and wrapping materials, free of charge, for KI, Inc.'s review and approval. The quality and style of these goods, including any carton, container, or packing/wrapping material, will be subject to KI, Inc.'s discretion, which shall not unreasonably withhold or delay approval. If KI, Inc. does not reject any item within 15 days of receiving it, this will be considered acceptance of the quality and style of that item. After samples have been approved under these terms, Diplomat may not deviate from the agreed design in any substantial aspect without obtaining KI, Inc.'s prior written consent.\n\nAt KI, Inc.'s request, following the commencement of Diplomat's sales efforts and from time to time thereafter, Diplomat shall supply KI, Inc., free of charge, up to ten (10) additional random samples of each product being manufactured and marketed by Diplomat under this Agreement, along with any containers and packaging/wrapping materials associated with those products.",
+    "contradiction_score": 0.2742070257663727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 19094,
+    "end_char": 20328,
+    "original": "(b) Diplomat agrees to cooperate fully and in good faith with KI, Inc., at the expense of KI, Inc., for the purpose of securing and preserving KI, Inc.'s (or any grantor of KI, Inc.'s) rights in and to KI's name. It is agreed that nothing contained in this Agreement shall be construed as an assignment or grant to Diplomat of any right, title or interest in or to KI's name, it being understood that all rights relating thereto are reserved by KI, Inc., except for the license hereunder to Diplomat of the right to use and utilize KI's name only as specifically and expressly provided in this Agreement. Diplomat hereby agrees that at the termination or expiration of this Agreement Diplomat will be deemed to have assigned, transferred and conveyed to KI, Inc. any trade rights, equities, good will, titles or other rights in and to KI's name which may have been obtained by Diplomat or which may have vested in Diplomat in pursuance of any endeavors covered by this Agreement, and that Diplomat will execute any instruments requested by KI, Inc. to accomplish or confirm the foregoing. Any such assignment, transfer, or conveyance shall be without consideration other than the mutual covenants and considerations of this Agreement.",
+    "ollama_generated": "(b) The Diplomat acknowledges their duty to collaborate willingly and faithfully with KI, Inc., at KI, Inc.'s discretion and expense, for the objective of safeguarding and reinforcing KI, Inc.'s (or any donor of KI, Inc.'s) rights associated with KI's name. It should be noted that this Agreement does not imply an assignment or bestowal to the Diplomat of any right, ownership, or interest in or to KI's name; all rights relating thereto are retained by KI, Inc. However, KI, Inc. grants a limited license to the Diplomat for the utilization and exploitation of KI's name solely as expressly detailed within this Agreement. Upon the conclusion or expiration of this Agreement, the Diplomat consents to the assumption that they have assigned, transferred, and conveyed any trademark rights, goodwill, titles, or other rights in relation to KI's name which may have been acquired by the Diplomat or which might have vested during pursuits encompassed by this Agreement. The Diplomat further agrees to execute any documents demanded by KI, Inc. to complete or verify the aforementioned assignment, transfer, or conveyance. Such an assignment, transfer, or conveyance will be executed without compensation other than the mutual promises and obligations detailed in this Agreement.",
+    "contradiction_score": 0.07944355905056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 21722,
+    "end_char": 21922,
+    "original": "(c) Diplomat agrees not to offer for sale, advertise, or publicize any of the products licensed hereunder on radio or television without the prior written approval of KI, Inc., which approval KI, Inc.",
+    "ollama_generated": "(c) It is understood that Diplomat shall refrain from marketing, promoting, or publicizing, in writing or otherwise, any of the products licensed herein on radio or television without first securing a written consent from KI, Inc., it being noted that KI, Inc reserves the right to withhold such approval at its sole discretion.",
+    "contradiction_score": 0.010360724292695522,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 22452,
+    "end_char": 23390,
+    "original": "(b) Diplomat agrees that it will sell and distribute the products covered by this Agreement (i) to jobbers, wholesalers and distributors for sale and distribution to retail stores and merchants, and (ii) to retail stores and merchants for sale and distribution direct to the public. Diplomat shall not, without the prior written consent of KI, Inc., sell or distribute such products to jobbers, wholesalers, distributors, retail stores, or merchants whose sales or distribution are or will be made for publicity or promotional tie-in purposes, combination sales, premiums, give-aways, or similar methods of merchandising. In the event any sale is made at a special price to any of Diplomat's subsidiaries or to any other person, firm or corporation related in any manner to Diplomat or its officers, directors or major stockholders, there shall be a royalty paid on such sales based upon the price generally charged the trade by Diplomat.",
+    "ollama_generated": "(b) The Party of Diplomat acknowledges and accepts that it will be responsible for marketing and supplying the goods specified within this Agreement to:\n\n  (i) Intermediaries such as jobbers, wholesalers, and distributors, for their subsequent resale or distribution to retail outlets and merchants;\n  (ii) Directly to retail outlets and merchants for retail sales to the public.\n\nHowever, Diplomat is prohibited from offering or providing these goods to any intermediaries, retailers, or merchants without KI, Inc.'s prior written approval, if such parties are engaged in selling or distributing the products for promotional purposes, package deals, premiums, giveaways, or other marketing strategies.\n\nIn instances where Diplomat sells to its subsidiaries or any entity connected to Diplomat (i.e., affiliates, directors, officers, or major shareholders), a royalty will be imposed on those sales, with the amount being determined by the standard price that Diplomat typically charges within the trade market.",
+    "contradiction_score": 0.004504656419157982,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 23390,
+    "end_char": 23574,
+    "original": "(c) Diplomat agrees to sell to KI, Inc. such quantities of the products at as low a rate and on as good terms as Diplomat sells similar quantities of the products to the general trade.",
+    "ollama_generated": "(c) KI, Inc. has the right to purchase from Diplomat the specified quantities of the products at no higher than the lowest rate and under no less favorable terms than those offered by Diplomat to any third-party for the sale of similar quantities of the same products.\n\nIn this revised clause, KI, Inc. is given the right to purchase the products at the lowest possible price and on the most favorable terms that Diplomat offers to other buyers in the general trade, shifting the responsibility from Diplomat (who was previously obligated to sell) to KI, Inc. (who now has the option to purchase).",
+    "contradiction_score": 0.003363353433087468,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 26198,
+    "end_char": 27185,
+    "original": "(b) If Diplomat files a petition in bankruptcy, or is adjudicated a bankrupt, or if a petition in bankruptcy is filed against Diplomat, or if it becomes insolvent, or it makes an assignment for the benefit of its creditors or an arrangement pursuant to any bankruptcy law, or if Diplomat discontinues its business, or if a receiver is appointed for it or its business, the license hereby granted shall automatically terminate forthwith without any notice whatsoever being necessary. In the event this license is so terminated, Diplomat, its receivers, representatives, trustees, agents, administrators, successors and/or assigns shall have no right to sell, exploit or in any way deal with or in any of the products covered by this Agreement, or any carton, container, packing or wrapping material, advertising, promotional or display material pertaining thereto, except with and under the special consent and instructions of KI, Inc. in writing, which they shall be obligated to follow.",
+    "ollama_generated": "(b) If there is a request for bankruptcy filing by Diplomat, or if Diplomat is deemed bankrupt, or such a petition is filed against Diplomat, or if Diplomat experiences financial difficulties and seeks a solution through insolvency, an assignment for the benefit of creditors, or an arrangement under any applicable bankruptcy law, or if Diplomat ceases its operations, or if a court-appointed receiver or trustee takes control of Diplomat or its business, KI, Inc. reserves the right to terminate this license immediately without providing any prior notice. In such cases, it is understood that Diplomat, along with its receivers, representatives, successors, and assigns, will be prohibited from selling, exploiting, or dealing with any products covered by this Agreement, as well as related carton, container, packing, wrapping material, advertising, promotional, or display materials, unless given explicit written consent and instructions from KI, Inc., which they shall be obligated to comply with.",
+    "contradiction_score": 0.0019285365706309676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 27596,
+    "end_char": 27974,
+    "original": "(d) Termination of the license under the provisions of this paragraph 14 shall be without prejudice to any rights which KI, Inc. may otherwise have against Diplomat. Upon the termination of this license, notwithstanding anything to the contrary herein, all royalties on sales theretofore made shall become immediately due and payable and no minimum royalties shall be repayable.",
+    "ollama_generated": "(d) The termination of the license as outlined in this paragraph 14 will not affect any rights that Diplomat may hold against KI, Inc. Following the termination of this agreement, it's important to note that any previously accrued royalties become immediately payable by Diplomat, and there will be no refund or waiver of minimum royalties owed to KI, Inc. in such circumstances.",
+    "contradiction_score": 0.18079985678195953,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 29127,
+    "end_char": 29180,
+    "original": "16. Disposal of Stock Upon Termination or Expiration.",
+    "ollama_generated": "16. Retention and Subsequent Disposition of Stock Upon Termination or Expiration.\n\nUpon the termination or expiration of this agreement, the Company shall retain possession of all shares issued to you under this agreement for a period of six (6) months from such termination or expiration date, after which time the Company may, but shall not be obligated to, dispose of such shares at its discretion.",
+    "contradiction_score": 0.19336794316768646,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 29180,
+    "end_char": 30221,
+    "original": "Upon and after the termination of the license, and except as otherwise provided in this Agreement, Diplomat may dispose of products covered by this Agreement which are on hand, or in process at the time notice of termination is received, for a period of one hundred and twenty (120) days after notice of termination, provided advances and royalties with respect to that period are paid and statements are furnished for that period in accordance with paragraph 3. Notwithstanding anything to the contrary herein, Diplomat shall not manufacture, sell or dispose of any products covered by this license after (a) the expiration of the license, or (b) the termination of the license based on (i) the failure of Diplomat to affix notice of copyright, trademark or service mark registration or any other notice to the products, cartons, containers, or packing or wrapping material or advertising, promotional or display material, or (ii) because of the departure by Diplomat from the quality and style approved by KI, Inc. pursuant to paragraph 9.",
+    "modified": "Following the expiration or termination of the license, except as expressly outlined in this Agreement, KI, Inc. retains the right to dispose of any remaining products falling under this agreement for a period of one hundred and twenty (120) days post-termination notification. During this timeframe, all applicable advance payments and royalty fees must be made, and statements furnished as specified in paragraph 3. Contrary to anything stated within this Agreement, KI, Inc. reserves the authority to manufacture, sell, or dispose of any products covered by this license beyond (a) the expiration or termination, or (b) should any of the following conditions arise:\n\n(i) The omission of copyright, trademark, or service mark registration notices on the products, packaging materials, promotional or display materials; or\n(ii) A deviation from the quality and style standards as approved by Diplomat, in accordance with paragraph 9.",
+    "contradiction_score": 0.9268226623535156,
+    "kept": true
+  },
+  {
+    "clause_index": 70,
+    "start_char": 33119,
+    "end_char": 33323,
+    "original": "Nothing herein contained shall be construed to place the parties in the relationship of partners or joint venturers, and Diplomat shall have no power to obligate or bind KI, Inc. in any manner whatsoever.",
+    "ollama_generated": "This agreement does not create a partnership or joint venture between the parties; it is clarified that Diplomat has no authority to incur obligations or liabilities on behalf of KI, Inc., binding the company in any capacity.",
+    "contradiction_score": 0.0008246234501712024,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 34727,
+    "end_char": 35190,
+    "original": "23. Additional Endorsers. If, during the term of this Agreement, Diplomat should utilize the services of any other person to endorse its products, and the public image of such person is so inconsistent with that of KI as to risk damaging the good will of KI's name should KI, Inc. continue to do business with Diplomat, then KI, Inc. shall have the right to terminate this Agreement, subject to the remedial and other provisions of paragraph 14 of this Agreement.",
+    "ollama_generated": "23. Discrepant Endorsers: In case Diplomat requires another individual's endorsement for its products throughout the duration of this Agreement, and the public persona of such endorser conflicts substantially with KI Inc.'s reputation to an extent that could potentially harm the reputation of KI should KI, Inc. persist in business association with Diplomat, Diplomat shall be obligated to replace the endorser upon request by KI, Inc., subject to the remedial and other provisions as outlined in paragraph 14 of this Agreement.",
+    "contradiction_score": 0.1556522697210312,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 35595,
+    "end_char": 35764,
+    "original": "(c) Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to conflict of law principles.",
+    "ollama_generated": "(c) Jurisdictional Provisions. This Agreement will be subject to the legislative jurisdiction and interpretation of the State of California, disregarding any rules or principles aimed at resolving conflicts between laws. In essence, this Agreement shall be construed under California law, regardless of where it may potentially conflict with other jurisdictions' laws.",
+    "contradiction_score": 0.20933715999126434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 36614,
+    "end_char": 36718,
+    "original": "By /s/ Kathy Ireland --------------------------------- KATHY IRELAND, President THE STERLING/WINTERS CO.",
+    "ollama_generated": "By /s/ Kathy Ireland --------------------------------- KATHY IRELAND, President THE STERLING/WINTERS CO.\n\nKathy Ireland acknowledges and accepts that any liabilities or obligations arising from this agreement shall be exclusively her responsibility, unless explicitly stated otherwise, with the company indemnified against such liabilities to the fullest extent allowed by law.",
+    "contradiction_score": 0.04646982625126839,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 37147,
+    "end_char": 37379,
+    "original": "Diplomat Ambassador Eyewear Group agrees to comply with the laws and regulations of any state or territory in which they manufacture or have sub-contracted any Kathy Ireland product, especially pertaining to labor and safety issues.",
+    "ollama_generated": "Diplomat Ambassador Eyewear Group acknowledges its voluntary commitment to adhere to the legal requirements and regulatory standards of any state or territory where they engage in manufacturing or sub-contracting Kathy Ireland products, with a particular focus on labor and safety guidelines. They assume no legal obligation for non-compliance by third parties in their supply chain, but strive to promote ethical business practices throughout.",
+    "contradiction_score": 0.0041073886677622795,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 37379,
+    "end_char": 37524,
+    "original": "Diplomat Ambassador Eyewear Group agrees to comply with any reasonable requests from Kathy Ireland, Inc. concerning labor and safety resolutions.",
+    "ollama_generated": "Diplomat Ambassador Eyewear Group acknowledges its discretion in addressing any labor and safety-related requests made by Kathy Ireland, Inc., provided that such responses align with our own operational standards and practices, as we deem appropriate under the circumstances.",
+    "contradiction_score": 0.08473483473062515,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

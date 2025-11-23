@@ -1,0 +1,79 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 2573,
+    "end_char": 3868,
+    "original": "Customer agrees not to transmit, re-transmit or store materials on or through the eGain System or the Software that are harmful to the eGain System or Software, or in violation of any applicable laws or regulations, including without limitation laws relating to infringement of intellectual property and proprietary rights of others. To the extent that certain components of the Software may be downloaded to Customer's or User's computer as a result of accessing the Software as part of the Hosting Services, eGain grants Customers a non-exclusive, non-transferable, limited license, with right to sublicense solely to Users, to use such Software only in connection with the Hosting Services. Neither Customer nor Users are otherwise permitted to use the Software, nor will Customer or Users disassemble, decompile or otherwise attempt to discern the source code of such Software. Customer agrees that, except as expressly set forth in this Section and in Section 11, it will not rent, lease, sublicense, re-sell, time-share or otherwise assign to any third party this Agreement or any of Customer's rights or licenses to access the Software or the eGain System, nor shall Customer use, or authorize others to use, the Software, Hosting Services or the eGain System to operate a service bureau.",
+    "ollama_generated": "Customer undertakes to exclusively utilize materials transmitted, re-transmitted, or stored on or through the eGain System or the Software for purposes that are not detrimental to the eGain System, Software, or in contravention of any applicable laws or regulations. Specifically, these restrictions apply to materials infringing upon intellectual property and proprietary rights of others, as well as any unlawful content.\n\nRegarding software components downloaded onto Customer's or User's computer during the use of Hosting Services, eGain grants a non-permanent, non-assignable, non-transferable license to Customers and their authorized Users for the sole purpose of using such Software in conjunction with the Hosting Services. However, under no circumstances are Customers or Users allowed to disassemble, decompile, or seek knowledge of the source code for the Software.\n\nCustomer acknowledges that, beyond the rights explicitly granted in this Section and Section 11, they may not transfer, assign, rent, lease, sublicense, resell, time-share, or otherwise convey this Agreement or any of their access rights to the Software or eGain System to third parties. Furthermore, Customer agrees that neither they nor authorized Users will utilize the Software, Hosting Services, or the eGain System for operating a service bureau, unless otherwise specified in this agreement.",
+    "contradiction_score": 0.013109548017382622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 6196,
+    "end_char": 6715,
+    "original": "6.1 eGain warrants and represents to Customer that (i) the Software will perform substantially in accordance with the documentation, if any, provided by eGain to Customer, and (ii) the Hosting Services will be performed in a professional and workmanlike manner and in accordance with Section 2. In the event of Downtime (as defined in this Section 6.1 below), as Customer's sole and exclusive remedy and eGain's sole and exclusive liability, the monthly fee payable for the Hosting Services shall be reduced as follows:",
+    "modified": "6.1 The Customer acknowledges and accepts that (i) eGain makes no guarantees regarding the performance of the Software beyond its general capabilities as described in any documentation provided by eGain, and (ii) eGain will use reasonable care and skill in providing the Hosting Services, but does not warrant they will be performed perfectly or without interruptions. In the event of Downtime (as defined in this Section 6.1 below), the monthly fee payable for the Hosting Services shall not be reduced, and the Customer has no right to any compensation or damages. This Section 6.1 sets forth the entire liability of eGain with respect to the performance of the Software and Hosting Services, and the Customer's sole remedy in the event of Downtime is to terminate this agreement upon providing written notice to eGain.",
+    "contradiction_score": 0.9886022210121155,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 7117,
+    "end_char": 7506,
+    "original": "For the purposes of this Agreement, \"Downtime\" shall mean any interruption in the availability of Hosting Services to Customer (excluding scheduled interruptions of which Customer is notified 48 hours in advanced), only if such interruption is due either to: 1) an error in the Software, or 2) failure of the eGain System (but not including problems associated with Internet connectivity).",
+    "ollama_generated": "For the scope of this Agreement, \"Downtime\" denotes any reduction in the Customer's access to Hosting Services, except for prearranged downtimes communicated at least 48 hours prior. The reduction must stem either from: 1) a malfunction in the Software, or 2) an incapacity of the eGain System, provided that network connectivity issues are not among the causes.\n\nThe focus here is on emphasizing a reduction rather than complete interruption, and shifting the responsibility for scheduled downtime to the Customer, while maintaining the conditions for Downtime.",
+    "contradiction_score": 0.0076924879103899,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 15297,
+    "end_char": 16282,
+    "original": "10.2 Effect of Termination. Upon any termination of this Agreement, eGain shall immediately cease providing all Hosting Services, and Customer shall no longer have access to the Software or the eGain System. Except in the event of termination for Customer's breach, eGain shall provide Customer with an electronic copy of the final Reports (covering the month just prior to termination of this Agreement). eGain shall be entitled to retain a copy (whether electronic or otherwise) of the Online Messages and the Reports for its records and internal purposes and shall not disclose such Online Messages or Reports to any third party except as permitted under Section 4. Within fifteen (15) days of any termination of this Agreement, Customer shall pay to eGain all unpaid fees accrued prior to termination. Sections 4, 5 (as to amounts accrued but unpaid), 7, 8, 10.2 and 12 and Exhibit A (as to amounts accrued but unpaid) shall survive any expiration or termination of this Agreement.",
+    "modified": "10.2 Consequences of Termination. Upon any termination of this Agreement by either party, the Customer will retain access to the Software and eGain System for a grace period of thirty (30) days, during which time eGain shall continue to provide Hosting Services. Post this grace period, the Customer shall no longer have access to the Software or the eGain System. In cases where the termination is not initiated by the Customer's breach, eGain will promptly deliver an electronic copy of the final Reports (covering the month just prior to the termination of this Agreement) to the Customer. The Customer grants eGain permission to retain a copy (whether electronic or otherwise) of the Online Messages and the Reports for its records and internal purposes, and eGain may choose to disclose such Online Messages or Reports to third parties as permitted under Section 4. Upon any termination, the Customer will be responsible for settling all unpaid fees accrued prior to termination within fifteen (15) days. Sections 4, 5, 7, 8, 10.2, 12, and Exhibit A will continue to apply after the expiration or termination of this Agreement, with regards to amounts accrued but unpaid.",
+    "contradiction_score": 0.8051048517227173,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 16282,
+    "end_char": 17005,
+    "original": "11. Customer References. Customer agrees that, during the term of this Agreement, eGain may reference Customer in eGain's customer listings and may place Customer's name and logo on eGain's Web site and in collateral marketing materials relating to eGain's products and services. Customer hereby grants eGain a right to use Customer's trademarks (name and logo only) designated by Customer for such limited uses, subject to Customer's trademark/logo usage guidelines, if any, provided by Customer to eGain. With these limited exceptions, eGain agrees that it may not use Customer's name, logo or any other trademarks (including in any press releases, customer \"case studies,\" and the like) without Customer's prior consent.",
+    "modified": "11. Limitation on eGain's Use of Customer's Branding. The Client retains the discretion to permit, during the term of this Agreement, eGain to list the Client as a customer and display the Client's name and logo on eGain's website and marketing materials associated with eGain's products and services. eGain is granted a non-exclusive, revocable license to utilize the Client's trademarks (name and logo only) for these specific purposes, subject to any guidelines concerning the use of the Client's trademarks that the Client may provide to eGain. In all other instances, including but not limited to press releases, customer testimonials, and similar contexts, eGain is bound to seek the prior, written consent of the Client before using its name, logo, or any other trademarked elements.",
+    "contradiction_score": 0.5414458513259888,
+    "kept": true
+  },
+  {
+    "clause_index": 29,
+    "start_char": 18998,
+    "end_char": 19072,
+    "original": "Each party agrees to the terms and conditions contained in this Agreement.",
+    "ollama_generated": "This Agreement's terms and conditions shall be deemed voluntarily accepted by each party upon their execution hereof, and any subsequent changes or additions thereto shall only become binding with the mutual consent of both parties.",
+    "contradiction_score": 0.00443916954100132,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 19072,
+    "end_char": 19149,
+    "original": "Customer: Eliance Corporation Name:/s/                                 Title:",
+    "ollama_generated": ")\n   However, if it is discovered by either Party during the course of this Agreement that data or information provided by the Customer is incorrect, incomplete, or outdated, Service Provider shall have no liability for any resulting issues, and the Customer shall be solely responsible for rectifying such errors at its own expense. The Customer agrees to indemnify and hold harmless Service Provider from any claims arising from these rectifications or any consequences thereof.\n\n   (2) Service Provider will make reasonable efforts to provide the services described in this Agreement in a timely manner, but does not guarantee any specific results or outcomes. The Customer acknowledges that the success of the project depends on various factors beyond Service Provider's control and agrees to accept the final outcome as is, without claim for damages or additional compensation, unless otherwise specified in this Agreement.\n\n   (Rewritten clause:)\n   Service Provider will make reasonable efforts to provide the services described in this Agreement in a timely manner. However, due to factors beyond Service Provider's control, there may be unforeseen delays or issues that prevent the achievement of specified results or outcomes. In such cases, the Customer acknowledges that it may be necessary for additional time and resources to be devoted to the project, and agrees to pay any associated costs incurred by Service Provider as a result. Furthermore, the Customer releases Service Provider from any liability for damages or additional compensation claims related to these unforeseen circumstances, unless otherwise specified in this Agreement.\n\n   (3) In the event of any dispute arising between the Parties under this Agreement, the parties shall engage in good faith negotiations to resolve such disputes amicably. If the Parties are unable to reach a resolution through negotiation, either Party may submit the matter to binding arbitration, in accordance with the rules of the American Arbitration Association. The arbitration proceedings shall take place in the city where Service Provider is headquartered.\n\n   (Rewritten clause:)\n   In the event of any dispute arising between the Parties under this Agreement, the Customer shall be responsible for initiating good faith negotiations to resolve such disputes amicably. If, after a reasonable period of time, the Parties have been unable to reach a resolution through negotiation, Service Provider may submit the matter to binding arbitration, in accordance with the rules of the American Arbitration Association. The arbitration proceedings shall take place in the city where Eliance Corporation is headquartered. The Customer agrees to bear the costs associated with these arbitration proceedings unless otherwise specified in this Agreement.",
+    "contradiction_score": 0.26750025153160095,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 19490,
+    "end_char": 19598,
+    "original": "___________________________               _________ Signature:______________________         Date:__________",
+    "ollama_generated": "Clause:\n___________________________              _________ Signature:______________________        Date:__________\n\nIn consideration of the mutual covenants and agreements contained herein, the undersigned acknowledges and agrees that they shall take all reasonable measures to comply with the provisions set forth in this agreement; however, it is understood that any failure or delay in compliance shall not constitute a material breach of this agreement unless such failure or delay continues for more than thirty (30) days.\n\nIn the event that the non-breaching party elects to terminate this agreement due to the other party's failure to comply, they shall provide written notice specifying the nature of the breach and allowing a reasonable cure period, not less than thirty (30) days, before termination takes effect.\n\nThe undersigned further agrees that any disputes arising from this agreement shall be resolved by binding arbitration in accordance with the rules of the American Arbitration Association. This clause governs the interpretation and application of the entire agreement and supersedes any prior or contemporaneous understandings regarding dispute resolution.\n\n___________________________               _________ Signature:______________________         Date:__________",
+    "contradiction_score": 0.006134864874184132,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

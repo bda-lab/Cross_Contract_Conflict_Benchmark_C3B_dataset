@@ -1,0 +1,168 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 1132,
+    "end_char": 1255,
+    "original": "Inactive Territories means a country in which the Distributor has not sold or supplied the Product during the Initial Term.",
+    "ollama_generated": "Inactive Territories denotes a nation where the Distributor has not experienced any demand for, nor distributed, the Product within the Initial Term, implying an absence of sales and supply activity.",
+    "contradiction_score": 0.0016873719869181514,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 1894,
+    "end_char": 2111,
+    "original": "GST: goods and services tax chargeable under the Goods and Services Tax Act and any similar replacement or additional tax or such other similar or analogous form of tax under the laws and regulations in the Territory.",
+    "ollama_generated": "GST: Any taxes, fees, charges, levies, or duties on goods and services that are mandated by the Goods and Services Tax Act, or any subsequent replacement or supplementary taxes with equivalent effect, as well as any other tax likenesses under the legal framework of the Territory. Notably, this includes but is not limited to taxes imposed under analogous legislations within the said jurisdiction.",
+    "contradiction_score": 0.001531115616671741,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 2834,
+    "end_char": 2900,
+    "original": "1.6 Words in the singular shall include the plural and vice versa.",
+    "ollama_generated": "1.6 For purposes of this agreement, references to words in the plural shall encompass the singular and conversely.\n\nIn this revised version, I have maintained the original meaning of including both singular and plural forms but changed the word order to make it more common in legal drafting, and adjusted phrasing for clarity and fluidity.",
+    "contradiction_score": 0.0018450088100507855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 4332,
+    "end_char": 4579,
+    "original": "Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 1.15 Any phrase introduced by the terms including , include , in particular  or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.",
+    "ollama_generated": "Clause:\nSource: FUSE MEDICAL, INC., 10-K, 3/21/2019\n1.15 The use of any phrases introduced by terms such as including, include, in particular, or similar expressions shall be interpreted as examples rather than exhaustive limitations on the scope of the preceding words. No implication should be made that the listed items are the only applicable ones.",
+    "contradiction_score": 0.02695423737168312,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 8094,
+    "end_char": 8323,
+    "original": "(a) the Supplier is the manufacturer of the Products\u037e and Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 (b) the Supplier will have no obligation to separately supply the Products, except as otherwise provided for in this Agreement.",
+    "ollama_generated": "(a') The Products supplied are primarily manufactured by the Supplier; however, the Supplier reserves the right to procure a portion of these products from third parties, subject to the terms of this Agreement.\n   (b') While the Supplier will make every reasonable effort to supply the Products as agreed upon, there may be instances where the Products are not separately supplied by the Supplier, and in such cases, the Buyer acknowledges and accepts that delays or non-delivery may occur, with no liability or claim arising against the Supplier.",
+    "contradiction_score": 0.0419161431491375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 8323,
+    "end_char": 8378,
+    "original": "4.2 Supplier's undertakings The Supplier undertakes to:",
+    "ollama_generated": "4.2 Obligations of the Supplier:\nThe Supplier agrees only to make reasonable efforts to:\n\nThis revision subtly weakens the original obligation by changing \"undertakes to\" into \"agrees only to make reasonable efforts to.\" This implies that the supplier is not fully committed to fulfilling the obligations, but will do so to a reasonable extent.",
+    "contradiction_score": 0.005018116440623999,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 10755,
+    "end_char": 10810,
+    "original": "7. Advertising and promotion 7.1 The Distributor shall:",
+    "modified": "7. Advertising and Promotion: 7.1 The Manufacturer may authorize the Distributor to:\n\nIn this revised clause, the responsibility for advertising and promotion has been shifted from the Distributor (original clause) to the Manufacturer, who now has the option to authorize the Distributor to perform these activities on their behalf. This change could reflect a scenario where the Manufacturer is a larger entity with more resources and wishes to delegate some promotional tasks to the Distributor.",
+    "contradiction_score": 0.9213526248931885,
+    "kept": true
+  },
+  {
+    "clause_index": 48,
+    "start_char": 11244,
+    "end_char": 11297,
+    "original": "8. Anti-bribery compliance 8.1 The Distributor shall:",
+    "ollama_generated": "8. Anti-Corruption Guidelines 8.1 The Supplier shall:\n\nIn this Agreement, the Supplier acknowledges its commitment to upholding the highest ethical standards regarding anti-corruption practices. To that end, the Supplier will:\n\na) Ensure that no employee, agent, or affiliate engages in any form of corrupt practice, including bribery, extortion, or embezzlement, either directly or indirectly, while performing duties associated with this Agreement;\n\nb) Maintain and enforce policies, procedures, and controls designed to prevent, detect, and remediate instances of corruption and ensure compliance with all applicable anti-corruption laws and regulations in every jurisdiction where it operates;\n\nc) Cooperate fully with the Principal and any competent authorities in investigating any allegations or suspected violations of anti-corruption laws and regulations in connection with this Agreement;\n\nd) Provide the Principal with relevant information and documentation upon request, to enable the Principal to monitor and verify compliance with these Anti-Corruption Guidelines.\n\nThis clause is intended to create a shared responsibility between the Supplier and the Principal for upholding anti-corruption standards. Any failure to meet these requirements may lead to termination of this Agreement and potential legal consequences.",
+    "contradiction_score": 0.0008869472658261657,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 11763,
+    "end_char": 11918,
+    "original": "9.2 The Distributor may sell and/or distribute the Products using the Trade Marks in conjunction with any trade marks owned or licensed by the Distributor.",
+    "ollama_generated": "9.2 The Distributor retains the right to utilize, without limitation, the Trade Marks in tandem with any trademarks they own or have a license for, while offering and distributing the Products. However, this does not require exclusive use of the licensed Trade Marks, and the Distributor may employ alternative branding as they deem appropriate.",
+    "contradiction_score": 0.0015401483979076147,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 13788,
+    "end_char": 14175,
+    "original": "(a) the Supplier shall in its absolute discretion, decide what action to take in respect of the matter (if (b) the Supplier shall conduct and have sole control over any consequent action that it deems necessary\u037e and (c) the Supplier shall pay all costs in relation to that action and shall be entitled to all damages and other sums that may be paid or awarded as a result of that action.",
+    "modified": "(a) In its sole discretion, the Client has the authority to determine the appropriate course of action with regards to the matter at hand. (b) Should the Client elect to initiate any subsequent actions, they will retain exclusive control over these actions and their execution. (c) TheClient shall bear all costs associated with such actions and shall be liable for any damages or other financial compensations that may arise as a result of these actions, including any payments or awards granted.",
+    "contradiction_score": 0.8673424124717712,
+    "kept": true
+  },
+  {
+    "clause_index": 68,
+    "start_char": 16281,
+    "end_char": 16809,
+    "original": "(a) give the Supplier written notice of the details of the matter\u037e (b) give the Supplier access to and allow copies to be taken of any materials, records or documents as the Supplier may require to take action under clause 10.2(c)\u037e (c) allow the Supplier the exclusive conduct of any proceedings and take any action that the Supplier requires to defend or resist the matter, including using professional advisers nominated by the Supplier\u037e and (d) not admit liability or settle the matter without the Supplier's written consent.",
+    "modified": "(a) The Client shall provide the Vendor with a written summary of the issue at hand; (b) The Client shall grant the Vendor access to, and allow duplicates to be made of, any materials, records, or documents as the Vendor deems necessary for action under clause 10.2(c); (c) The Client shall relinquish exclusive control over any potential proceedings, allowing the Vendor to act and engage in actions required to defend or contest the matter, including utilizing professional advisors of the Vendor's choosing; (d) It is within the Vendor's discretion to admit liability or settle the matter without seeking the Client's written consent.",
+    "contradiction_score": 0.9631831049919128,
+    "kept": true
+  },
+  {
+    "clause_index": 79,
+    "start_char": 23313,
+    "end_char": 23452,
+    "original": "12.4 Subject to clause 12.2, all other rights and licences of the Distributor under this agreement shall terminate on the termination date.",
+    "modified": "12.4 Except for those explicitly preserved by clause 12.2, the Distributor's remaining rights and licenses under this agreement shall be automatically renewed indefinitely following the termination date, unless otherwise mutually agreed upon by the parties.",
+    "contradiction_score": 0.7878360748291016,
+    "kept": true
+  },
+  {
+    "clause_index": 87,
+    "start_char": 25499,
+    "end_char": 25574,
+    "original": "14.3 Nothing in this clause shall limit or exclude any liability for fraud.",
+    "ollama_generated": "14.3 This clause does not absolve any party from liability arising from acts of fraudulent conduct.\n\nExplanation: The original clause states that nothing in the clause limits or excludes liability for fraud. The revised clause is more emphatic, stating explicitly that the clause does not absolve any party from liability arising from acts of fraudulent conduct, thus strengthening the obligation to uphold integrity and honesty in transactions.",
+    "contradiction_score": 0.06106679514050484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 28479,
+    "end_char": 28538,
+    "original": "20.2 Any notice shall be deemed to have been duly received:",
+    "ollama_generated": "20.2 For purposes of this Agreement, any notice shall be considered effectively delivered if:\n\n1. It is provided in writing or by electronic means; and\n2. In the case of a written notice, it is sent by registered or certified mail with return receipt requested, postage prepaid, addressed to the intended recipient at their last known address; or\n3. In the case of an electronic notice, it is sent to the email address provided in this Agreement, or such other electronic address as the recipient may subsequently designate in writing, and read by the recipient during regular business hours. If delivery occurs after business hours, the notice will be deemed received on the next business day.\n4. The recipient acknowledges receipt of the notice within a reasonable time period, either in writing or by affirmative response (e.g., by email).\n5. Failure to acknowledge receipt shall not preclude the giving party from proving delivery as provided for herein.\n\nThis revised clause shifts some responsibility to the recipient for acknowledging receipt of the notice and clarifies that failure to acknowledge does not prevent the sender from proving delivery.",
+    "contradiction_score": 0.006175150163471699,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 28538,
+    "end_char": 29019,
+    "original": "(a) if delivered personally, when left at the address and for the contact referred to in this clause\u037e or (b) if sent by pre-paid first class post or recorded delivery, at 9.00 am on the second Business Day after posting\u037e or (c) if delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed\u037e or (d) if delivered by email, on the date and at the time such email is received by the recipient whether such message is opened at that time.",
+    "ollama_generated": "Delivery of the item shall be considered complete under the following circumstances:\n\n(a) Upon personal delivery, once acknowledged in writing by the recipient or, if unavailable, left at the specified address and contact details within this clause, and no notice of non-receipt has been given within five Business Days.\n\n(b) If sent via pre-paid first class post or recorded delivery, the responsibility for delivery transfers to the recipient 48 hours after the posting date, provided that the item was properly addressed and appropriately postage-stamped.\n\n(c) Upon commercial courier delivery, the recipient shall be deemed to have received the item on the date specified by the courier, as long as the signed delivery receipt is obtained.\n\n(d) If sent via email, the recipient's acknowledgement of receipt or five Business Days without challenge shall constitute confirmation of delivery, regardless of whether the message was opened immediately.",
+    "contradiction_score": 0.1552729308605194,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 31048,
+    "end_char": 31127,
+    "original": "This agreement has been entered into on the date stated at the beginning of it.",
+    "ollama_generated": "This agreement shall be deemed effective as of the date specified at its outset. [This change emphasizes that the agreement is considered valid from the given date, but shifts the focus slightly to a more passive and less actionable phrasing.]",
+    "contradiction_score": 0.0012807536404579878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 31127,
+    "end_char": 32130,
+    "original": "Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 Schedule 1 AriaTM Hip Stem System Remedy TM Hip Stem system Logical TM Hip Cup system Signature BiPolar Head Genius Total knee system Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 Schedule 2 Territory Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 Schedule 3 The Trade Marks Origin TM, Logical TM, Aria TM, Remedy TM, Genius TM Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 Schedule 4 Prices Aria Stem $610 Origin Stem $610 Remedy Stem $610 Logical Cup $450 Logical Liner $210 Metal Head $240 Ceramic Head $340 BiPolar Head $250 PS / CR Femoral Component $550 Insert $340 Tibia Tray $440 Patella $70 Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 SIGNED  by Signature Orthopaedics Pty Ltd (ACN 106 702 416) In accordance with section 127 of the Corporations Act:) Director/Secretary Name (please print)Director Name (please print) SIGNED  by CPM Medical LLC) Director/Secretary Name (please print)Director Name (please print) Source: FUSE MEDICAL, INC., 10-K, 3/21/2019",
+    "ollama_generated": "In accordance with section 127 of the Corporations Act, and with understanding that this agreement may be subject to change or termination as FUSE MEDICAL, INC. deems necessary:\n\nDirector/Secretary Name (please print) - Signature Orthopaedics Pty Ltd (ACN 106 702 416)\nDirector Name (please print) - CPM Medical LLC\n\n- FUSE MEDICAL, INC. grants exclusive rights to distribute and promote the following products within specified territories:\n  - AriaTM Hip Stem System\n  - Remedy TM Hip Stem system\n  - Logical TM Hip Cup system\n  - Signature BiPolar Head\n  - Genius Total knee system\n\n- The prices for these products, effective immediately, are as follows:\n  - Aria Stem $610\n  - Origin Stem $610 (optional and interchangeable with Aria Stem)\n  - Remedy Stem $610 (optional and interchangeable with Aria Stem)\n  - Logical Cup $450\n  - Logical Liner $210\n  - Metal Head $240\n  - Ceramic Head $340 (subject to availability)\n  - BiPolar Head $250\n  - PS / CR Femoral Component $550\n  - Insert $340\n  - Tibia Tray $440\n  - Patella $70\n\n- FUSE MEDICAL, INC. retains the right to modify product pricing at any time and without prior notice, and Signature Orthopaedics Pty Ltd agrees to abide by any such modifications upon implementation.\n\n- Signature Orthopaedics Pty Ltd acknowledges the ownership of the following trademarks by FUSE MEDICAL, INC.:\n  - Aria TM\n  - Remedy TM\n  - Logical TM\n  - Origin TM\n  - Genius TM\n\n- Any disputes arising from this agreement shall be resolved through mediation and, if necessary, litigation in the courts of the state of New South Wales, Australia.",
+    "contradiction_score": 0.3580515384674072,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

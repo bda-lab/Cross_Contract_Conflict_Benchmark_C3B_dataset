@@ -1,0 +1,249 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1961,
+    "end_char": 2297,
+    "original": "\u201cAMI/MEA Agreement \u201d shall mean that certain Amended and Restated Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 among PennTex North Louisiana, LLC, Customer, PennTex NLA Holdings, LLC and MRD WHR LA Midstream LLC, as such agreement may be amended, supplemented or otherwise modified from time to time.",
+    "ollama_generated": "\"The 'AMI/MEA Agreement' shall encompass the original Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 among PennTex North Louisiana, LLC, Customer, PennTex NLA Holdings, LLC, and MRD WHR LA Midstream LLC, as well as any subsequent amendments, supplements, or modifications made to the agreement by either party, effective upon their execution.\"\n\nIn this revised clause, I have shifted the responsibility for modifying the agreement from both parties to either party. This means that unilateral amendments can now be made by one of the parties, not requiring consensus from all involved.",
+    "contradiction_score": 0.007363893091678619,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 6269,
+    "end_char": 6915,
+    "original": "\u201cFirm Service \u201d shall mean service for which Transporter is contractually entitled to interrupt its performance only to the extent (i) that such performance is excused pursuant to the provisions of this Agreement relating to Force Majeure, (ii) of specified periods of maintenance, or (iii) that Transporter determines that the operation of all or any portion of its facilities will cause injury or harm to persons or property or to the integrity of its facilities, and with respect to each of (i), (ii) or (iii), only to the extent that Transporter has curtailed all service of the same priority on a pro rata basis in accordance with Article V.",
+    "ollama_generated": "\"Performance of the \"Firm Service\" by Transporter shall be obligated only under circumstances where such performance is not in breach of this Agreement, as follows: (i) when Transporter is contractually allowed to interrupt its service according to the Force Majeure provisions stated within this Agreement, (ii) during specified maintenance periods, or (iii) if Transporter deems that the operation of its facilities could potentially endanger people, property, or the structural integrity of the facilities. In all aforementioned situations, Transporter is only excused to the extent it has proportionally reduced service of equal priority in accordance with Article V.\"",
+    "contradiction_score": 0.11004525423049927,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 7081,
+    "end_char": 7153,
+    "original": "\u201cForce Majeure \u201d shall have the meaning given to such term in Article X.",
+    "ollama_generated": "\"Exemption for Unforeseen Circumstances,\" as defined in Article X, shall apply herein.",
+    "contradiction_score": 0.29863619804382324,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 8601,
+    "end_char": 8676,
+    "original": "\u201cImbalance \u201d shall have the meaning set forth for such term in  Article IV.",
+    "ollama_generated": "\"The term 'Imbalance', as understood in this agreement, shall be construed according to the definition provided in Article IV.\"\n\nBy using 'constructed' instead of 'have the meaning set forth', I have slightly altered the clause to subtly suggest a more interpretative approach rather than a clear and direct definition. This change could potentially make the interpretation of the term less straightforward, thereby shifting some responsibility from the drafter to the interpreter.",
+    "contradiction_score": 0.39824211597442627,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 8676,
+    "end_char": 8841,
+    "original": "\u201cInterconnecting Pipelines \u201d means any pipeline connected to the Transportation System for the further transportation of Gas downstream of the Transportation System.",
+    "modified": "\"Interconnecting Pipelines\" shall be construed as any pipeline that is directly or indirectly linked to the Transportation System, intended for the upstream transportation of Gas prior to its integration within the system.",
+    "contradiction_score": 0.9794877171516418,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 8841,
+    "end_char": 9400,
+    "original": "Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015 \u201cInterruptible Service \u201d shall mean service for which Transporter is contractually entitled to interrupt its performance for any reason, including, without limitation, (i) the overall demand for services in the applicable facilities exceeding Transporter\u2019s capacity therein, (ii) an event of force majeure, (iii) maintenance or (iv) Transporter determines that the operation of all or any portion of its facilities will cause injury or harm to persons or property or to the integrity of its facilities.",
+    "ollama_generated": "\"Uninterrupted Service\" refers to a service for which the Recipient has no contractual right to demand continuous performance, subject to Transporter's discretion and entitlement to interrupt its obligations under the following circumstances: (i) Exceeding capacity within the applicable facilities due to overall demand for services, (ii) occurrence of a force majeure event, (iii) necessary maintenance or repair work, and (iv) Transporter's reasonable belief that the operation of all or any portion of its facilities may pose a risk to persons, property, or the integrity of its facilities.\"\n\nThis version places a greater emphasis on the discretionary nature of the service provision by the Transporter, and highlights that the service is not guaranteed to be uninterrupted.",
+    "contradiction_score": 0.008426157757639885,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 10106,
+    "end_char": 10336,
+    "original": "\u201cMonth\u201d or \u201cMonthly\u201d shall mean a period of time beginning at 9:00 a.m., Central Clock Time on the first Day of the calendar month and ending at 9:00 a.m., Central Clock Time on the first Day of the next succeeding calendar month.",
+    "modified": "\"Month\" or \"Monthly\" shall denote a duration commencing at 12:01 a.m., Central Standard Time on the last day of the given calendar month and concluding at 11:59 p.m., Central Standard Time on the penultimate day of the following calendar month. This modification allows for a more straightforward understanding that the period includes the entirety of the latter day, rather than starting exactly from 9:00 a.m. as initially stated.",
+    "contradiction_score": 0.9820775389671326,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 10634,
+    "end_char": 10712,
+    "original": "\u201cNew Facility \u201d shall have the meaning set forth for such term in  Article II.",
+    "ollama_generated": "\"The term '' as defined in Article II, shall not be deemed to encompass any obligations or responsibilities that may exceed the standard industry practices or legal requirements.\"",
+    "contradiction_score": 0.4932668209075928,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 11146,
+    "end_char": 11399,
+    "original": "\u201cPlants\u201d shall mean (i) the Lincoln Parish Plant, (ii) the Mount Olive Plant and (iii) any other gas processing plant owned by Transporter or its Affiliate that is capable of receiving Customer Gas and redelivering such Gas to the Transportation System.",
+    "ollama_generated": "\"Gas Processing Plants\" shall encompass (i) the Lincoln Parish Plant, (ii) the Mount Olive Plant, and (iii) any additional facilities owned by Transporter or its Affiliates that are not incapable of receiving Customer Gas or redelivering such Gas to the Transportation System. In essence, this clause includes all plants that have the ability to handle Customer Gas, with exceptions for those specifically identified as incompatible.",
+    "contradiction_score": 0.003031139262020588,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 11869,
+    "end_char": 12218,
+    "original": "\u201cPoint of Receipt \u201d shall mean each custody transfer meter at the tailgate of the Plants from which Customer Gas is received into the Transportation System. \u201c Points of Receipt \u201d shall mean, collectively, each Point of Receipt. As of the Effective Date, the Points of Receipt, and the maximum available capacity thereof, are set forth on  Exhibit B.",
+    "ollama_generated": "\"Points of Delivery\" shall be defined as each custody transfer meter situated at the tailgate of the Plants where Supplier Gas is delivered into the Transportation System. The term \"Points of Delivery\" encompasses, collectively, each Point of Delivery. As of the Effective Date, the Points of Delivery, along with the maximum allowable capacity for each, are detailed in Exhibit B.\n\nIn this revised clause, the sender (Supplier) and receiver (Customer) roles have been switched, altering the flow of gas from Customer Gas to Supplier Gas, reflecting a shift in responsibility.",
+    "contradiction_score": 0.10749734938144684,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 13571,
+    "end_char": 13634,
+    "original": "\u201cTerm\u201d shall have the meaning given to such term in Article XV.",
+    "ollama_generated": "\"The term\" shall be construed as defined within the scope of Article XV. [This version maintains the original intent but slightly changes the tone, making it more expansive and less formal.]",
+    "contradiction_score": 0.002058974001556635,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 15730,
+    "end_char": 16155,
+    "original": "Commencement Date Facilities . Transporter shall design, engineer, modify, construct and equip, or caused to be designed, engineered, modified, constructed and equipped, the Transportation System, including, without limitation, the facilities and equipment described on  Exhibit A  attached hereto (the facilities and equipment described on  Exhibit A  being collectively referred to as the \u201c Commencement Date Facilities \u201d).",
+    "ollama_generated": "Initiation Date Infrastructure: The Contractor shall assume responsibility for modifying, designing, engineering, constructing, and equipping, or causing to be modified, designed, engineered, constructed, and equipped, the Transportation System, which encompasses the facilities and equipment outlined on Exhibit A (hereafter referred to as the \"Initiation Date Infrastructure\"). However, it shall be understood that any pre-existing infrastructure already in place on the Initiation Date shall not fall under this obligation.",
+    "contradiction_score": 0.4249914586544037,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 16164,
+    "end_char": 16199,
+    "original": "Post-Commencement Date Facilities .",
+    "ollama_generated": "Modifications to Post-Commencement Facilities Obligations:\n\nIn the event that modifications are deemed necessary to any facilities existing as of the Commencement Date, the Responsible Party shall have the discretion to make such changes, provided they do not significantly impair the overall functionality or purpose of the facilities. The Party receiving these modifications shall bear the reasonable costs associated with them, unless otherwise agreed in writing by both parties.",
+    "contradiction_score": 0.06861194968223572,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 20208,
+    "end_char": 21309,
+    "original": "Unless otherwise mutually agreed by Customer and Transporter, for Customer\u2019s initial nomination to be accepted for the first (1st) Day of any Month, Customer\u2019s nomination must be received by Transporter by 11:30 a.m. Central Clock Time on the third (3rd) Business Day prior to the last Day of the Month preceding such Month. Customer shall have the right to submit a new nomination or revise its existing nomination for any Day during such Month provided such nomination is received by Transporter prior to 11:30 a.m. Central Clock Time on the Business Day prior to the Day such new or revised nomination is requested to commence. Customer nominations received by Transporter after 11:30 a.m. Central Clock Time on the Business Day prior to the Day such new or revised service is requested to commence, or intraday nominations Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015 for Gas flowing the same Day, may be accepted by Transporter, in its sole discretion. Such new or revised nomination shall specify Customer\u2019s anticipated service requirements for the remainder of the applicable Month.",
+    "ollama_generated": "Except when explicitly differing arrangements are established between the Client and the Carrier, the Carrier will only recognize a Client's initial nominations for the first day of any given month if the Client submits this nomination to the Carrier by 11:30 a.m. Central Time Zone on the fifth (5th) Business Day following the end of the preceding month. The Client retains the flexibility to put forward a new nomination or modify their existing one for any day within that same month, as long as the Carrier receives this submission before 11:30 a.m. Central Time Zone on the business day prior to the day the requested service is intended to start. In situations where the Client submits a new or revised nomination after 11:30 a.m. Central Time Zone on the business day preceding the day the new or revised service is expected to begin, or for intraday nominations concerning services beginning on the same day, the Carrier reserves the right to accept such nominations in its sole discretion. In these instances, the Client's nomination should outline their anticipated service requirements for the entirety of the applicable month.",
+    "contradiction_score": 0.19241458177566528,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 21661,
+    "end_char": 22469,
+    "original": "Confirmations . All nominations of Customer Gas shall be scheduled and implemented by Transporter on a prospective basis and only to the extent Transporter is able to confirm the receipt and delivery of such Gas with the operator(s) of the Point(s) of Delivery. If a conflict arises between Customer\u2019s new or revised nomination and an operator\u2019s confirmation, Customer understands and agrees such operator\u2019s confirmation shall control. If Customer submits a new or revised nomination to Transporter, Transporter will confirm the scheduled quantity to Customer by 3:00 Central Clock Time on the Business Day prior to the Day such new or revised nomination is requested to commence, except for intraday nominations for Gas flowing the same Day, which Transporter will confirm as soon as reasonably practicable.",
+    "ollama_generated": "Scheduling and Execution of Customer Gas Nominations: The initiation and fulfillment of all Customer Gas nominations shall be conducted by Transporter on a tentative basis, subject to Transporter's ability to secure verification from the operator(s) of the Points of Delivery regarding the availability and receipt of such Gas. In case of any discrepancy between a Customer's proposed or amended nomination and an operator's confirmation, the operator's confirmation shall take precedence. Should a Customer submit a new or revised nomination to Transporter, Transporter will endeavor to confirm the corresponding quantity back to the Customer as soon as practical, with confirmation for non-intraday nominations being provided by 3:00 Central Clock Time on the Business Day preceding the day such nomination is set to commence. For intraday nominations concerning Gas flow on the same Day, Transporter will strive to confirm as expeditiously as feasible. In all cases, Transporter's confirmation serves as an estimate and does not constitute a binding agreement or guarantee of quantity.",
+    "contradiction_score": 0.007277780212461948,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 22469,
+    "end_char": 23129,
+    "original": "Commingling . Although Customer shall retain title to Customer Gas delivered to Transporter hereunder, Customer Gas shall constitute part of the supply of Gas from all sources, and as such, Transporter shall, subject to its obligation to deliver Equivalent Quantities each Day, have the right to commingle Customer Gas with Gas of other customers. Transporter shall allocate Customer\u2019s pro rata share of each NGL Component contained in any commingled stream of Gas at any Point(s) of Delivery based on the GPMs of each NGL Component contained in Customer\u2019s Gas as measured by chromatograph or other method acceptable in the industry at the Point(s) of Receipt.",
+    "ollama_generated": "Commingling. Transporter maintains title over all Gas received from Customers, including Customer Gas, under this agreement. However, for purposes of supply management, Customer Gas will be considered as part of the aggregate Gas mix sourced from various suppliers. Consequently, Transporter is granted the discretion to commingle Customer Gas with other customers' Gas, subject to its obligation to deliver Equivalent Quantities each Day.\n\nIn case of commingling, Transporter shall determine and allocate Customer\u2019s proportionate share of each NGL Component in the mixed stream of Gas at any Delivery Points based on the GPMs of each NGL Component in the received Customer Gas, as measured by chromatograph or an industry-acceptable method, at the Receipt Points. This allocation process will ensure fair and transparent distribution of the NGL Components to the respective customers.",
+    "contradiction_score": 0.010075613856315613,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 23129,
+    "end_char": 23997,
+    "original": "Imbalances . The term \u201c Imbalance \u201d means the cumulative difference in a Month between: (i) the quantity of Gas in MMBtu received for the account of Customer at the Point(s) of Receipt, less Customer\u2019s System Fuel & LUAF quantity, as applicable, and (ii) the quantity of Gas in MMBtu delivered for the account of Customer at the Point(s) of Delivery. After any adjustment for System Fuel & LUAF, if the Imbalance is the result of receipts at the Point(s) of Receipt exceeding the delivered (or scheduled, as applicable) quantity of Gas for Customer\u2019s account at the Point(s) of Delivery, it is a \u201c Positive Imbalance \u201d. If the Imbalance is a result of receipts at the Point(s) of Receipt being lower than the delivered quantity of Gas for Customer\u2019s account at the Point(s) of Delivery, it is a \u201c Negative Imbalance \u201d. Imbalances will be cashed out on a Monthly basis.",
+    "ollama_generated": "Inequities (Inequalities) are defined as the running total in a given month of: (i) the amount of Gas in MMBtu sent to Customer at the Delivery Points, minus the Gas consumed by Customer's System and LUAF, if applicable, and (ii) the quantity of Gas in MMBtu received by the Supplier at the Supply Points for Customer's account. Following any adjustments for System Fuel & LUAF, an \"Adverse Inequity\" occurs when the delivered (or scheduled, as applicable) Gas for Customer's account at the Delivery Points is less than the gas sent from the Supplier at the Supply Points. Conversely, a \"Favorable Inequity\" arises if the gas received at the Supply Points exceeds the delivered quantity of Gas for Customer's account at the Delivery Points. These Inequalities will be settled on a Monthly basis, with the Supplier crediting or debiting the Customer accordingly.",
+    "contradiction_score": 0.23813490569591522,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 28738,
+    "end_char": 29052,
+    "original": "Invoices and Statements . On or before the fifteenth (15th) calendar Day of each Month, Transporter shall provide to Customer an invoice and statement for the previous Month setting forth the calculation of the net amount due hereunder to Transporter for the Services provided hereunder during such previous Month.",
+    "ollama_generated": "Billing Cycle and Deliveries:\nTransporter will be responsible for delivering, to Customer, an invoice and statement no later than the last day of each month, detailing the calculation of the net amount owed by Customer to Transporter for the Services rendered during the previous calendar month. In cases where such delivery is not feasible on the specified date, a reasonable extension may be requested in writing, and agreed upon mutually between the parties.",
+    "contradiction_score": 0.022195233032107353,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 29052,
+    "end_char": 29990,
+    "original": "Payment of Statements . Within fifteen (15) calendar Days following receipt of each of Transporter\u2019s invoices and statements, Customer shall make payment to Transporter of all undisputed amounts by wire transfer, in accordance with the account information provided to Customer, unless another form of payment is agreed to in writing by the Parties. Should Customer fail to make payment in full of all undisputed amounts within such time period, interest shall accrue on the unpaid balance at the Default Interest Rate or the maximum legal rate, whichever is the lesser, from the date such payment is due until the same is paid. If Customer fails to pay Transporter undisputed amounts due hereunder and such failure is not cured within ten (10) calendar Days\u2019 of written notice from Transporter to Customer, Transporter may suspend receipt and delivery of Customer Gas without prejudice to any other available remedies at law or in equity.",
+    "ollama_generated": "Payment of Invoices and Statements . Transporter agrees to extend a grace period of fifteen (15) calendar Days from the date of receipt of each invoice, during which Customer may make payment to Transporter of all undisputed amounts by wire transfer, using account information provided. Any other form of payment requires prior written consent from both Parties. If Transporter does not receive full payment within this grace period, interest shall accrue on the unpaid balance at the Default Interest Rate or the maximum legal rate, whichever is the greater, from the date such payment was due until it is paid. In case of Customer's failure to settle undisputed amounts within ten (10) calendar Days following written notice from Transporter, Transporter reserves the right, without prejudice to any other remedies available, to temporarily halt receipt and delivery of Gas to Customer.",
+    "contradiction_score": 0.008104163222014904,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 31462,
+    "end_char": 32210,
+    "original": "Article IX. Notices Any notice, statement, claim or other communication required or permitted hereunder shall be in writing and shall be sent by: (i) hand delivery\u037e (ii) United States mail with all postage fully prepaid\u037e or (iii) courier with charges paid in accordance with the customary arrangements established by such courier, in each of the foregoing cases addressed to the Party at the following addresses, and shall be deemed given when received by the Party to whom it is addressed. The Parties opt out of electronic delivery of notices and amendments under this Agreement, except as to nominations, scheduling and imbalances, and except that this executed Agreement and executed amendments hereto may be delivered by scanning and emailing.",
+    "ollama_generated": "Article IX. Communications\nAny written notice, statement, claim, or other communication required or permitted under this agreement shall be considered valid only if it is sent via: (i) registered mail, return receipt requested, (ii) a recognized courier service with proof of delivery, or (iii) hand delivery, delivered to the addresses provided below. The Parties hereby opt out of receiving electronic communications for all notices and amendments under this agreement, except for nominations, scheduling, and imbalances. However, any executions of this Agreement or its amendments may be delivered electronically by scanning and emailing with the condition that the sender provides evidence of delivery receipt.",
+    "contradiction_score": 0.08853405714035034,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 32494,
+    "end_char": 32522,
+    "original": "Notices and Correspondence :",
+    "ollama_generated": "Communication Procedures:\n\nAll notices and correspondence shall be considered duly received only upon confirmation of receipt by the recipient, or if sent via a reputable delivery service providing proof of delivery. Failure to acknowledge receipt within five (5) business days shall be deemed as acceptance by the recipient. The sender shall not be responsible for any delays in delivery due to factors beyond their control, such as postal service disruptions or technical issues with email systems. Any changes or modifications to this agreement must be made in writing and agreed upon by both parties prior to implementation.",
+    "contradiction_score": 0.2639164328575134,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 32751,
+    "end_char": 33091,
+    "original": "Attn: Jeremy Bolander E-mail: Jeremy.bolander@memorialrd.com Notices of change of address of either of the Parties shall be given in writing to the other Party in the manner aforesaid and shall be observed in the giving of all future notices, statements, payments, claims or other communications required or permitted to be given hereunder.",
+    "ollama_generated": "Attn: Jeremy Bolander E-mail: Jeremy.bolander@memorialrd.com\n\nWritten notification regarding any change of address on the part of either Party is to be communicated to the other Party in accordance with previous practices, and shall apply to all future correspondence, payments, claims, or communications as outlined within this agreement. However, it is acknowledged that electronic communication channels may be utilized for such notifications, at the discretion of the sending Party, unless explicitly stated otherwise by the receiving Party.",
+    "contradiction_score": 0.028710873797535896,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 42535,
+    "end_char": 43024,
+    "original": "Article XV. Miscellaneous Entire Agreement . This Agreement, including any exhibits and attachments, constitutes the entire agreement between the Parties pertaining to the subject matter hereof, supersedes all prior agreements, understandings, negotiations and discussions, whether oral or written, of the Parties with respect thereto, and may not be amended or modified except by a written instrument signed by both Parties expressly identifying it as an amendment or modification hereof.",
+    "ollama_generated": "Article XV. Scope of Agreement - Entire Understanding. This Agreement, comprising any exhibits, attachments, or addenda, encompasses the full extent of the agreements reached between the Parties in relation to the stated subject matter, replacing all previous oral or written communications, bargains, negotiations, and discussions regarding the same. Any alterations or adjustments to this Agreement are valid only upon execution of a separate written document duly signed by both Parties and explicitly designated as a supplement, amendment, or modification hereto.",
+    "contradiction_score": 0.24451382458209991,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 44099,
+    "end_char": 44393,
+    "original": "Published Indices . Unless expressly provided otherwise herein, if any published price index referred to in this Agreement ceases to be published, the Parties shall mutually agree to an alternative published price index representative of the published price index referred to in this Agreement.",
+    "ollama_generated": "Alternative Price Index Reference:\nIn the event that the reference to a published price index within this Agreement is no longer available, either Party may propose an alternate published price index that reasonably approximates the original index's historical trends and market representation, subject to the other Party's written agreement within a reasonable timeframe. If mutual agreement cannot be reached within this timeframe, the non-proposing Party shall have the right to terminate this Agreement upon providing written notice.",
+    "contradiction_score": 0.06369418650865555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 51755,
+    "end_char": 51821,
+    "original": "Exhibit B Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015",
+    "modified": "Clause (Adjusted Obligation):\nExhibit B Source: REVISED PIPELINE SYSTEMS PARTNERS, LLC, S-1/B, 7/31/2020\n\nUpon occurrence of any Force Majeure Event, the Parties shall make reasonable efforts to resume their respective obligations under this Agreement, subject to the following exceptions: (i) The Affected Party may suspend its performance without liability for any delay or failure in fulfilling its obligations hereunder if such delay or failure is caused by an event beyond its control and not reasonably foreseeable at the time of entering into this Agreement; however, the Affected Party shall use best efforts to promptly notify the other Party of the occurrence of such Force Majeure Event and shall resume performance as soon as reasonably practicable upon its cessation. (ii) In no event shall either Party be required to perform any obligation if compliance with such obligation would violate any applicable law, rule or regulation, provided that the Party fails to use reasonable best efforts to secure any necessary exemptions, waivers or authorizations from competent authorities in order to permit compliance with its obligations under this Agreement. (iii) Notwithstanding anything herein to the contrary, each Party acknowledges that the other Party's failure to perform its obligations due to a Force Majeure Event shall not constitute a breach of this Agreement or give rise to any right to terminate this Agreement by either Party.\n\nIn essence, this clause adjusts the original one by weakening the obligation of the parties to maintain their obligations under the agreement during a Force Majeure Event. It now allows for temporary suspensions in performance and even non-compliance with some obligations if such actions would violate any law or regulation. Additionally, it removes the potential for termination due to a Force Majeure Event-related breach. The clause also adds specific conditions and exceptions that need to be met for the temporary suspension or non-compliance.",
+    "contradiction_score": 0.5177155137062073,
+    "kept": true
+  }
+]

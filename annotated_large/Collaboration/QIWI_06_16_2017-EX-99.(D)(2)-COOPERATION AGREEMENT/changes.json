@@ -1,0 +1,159 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1627,
+    "end_char": 1957,
+    "original": "(D) Following the acquisition of CIHRUS by QIWI and in order to promote their mutual interests, the parties wish to cooperate for their mutual benefit in the fields of their business, including digital payments, and establish a steering committee in order to analyse and develop potential areas of cooperation between the Parties.",
+    "modified": "(D) Post the acquisition of CIHRUS by QIWI, each party acknowledges an obligation to explore possibilities for collaboration, focusing on their respective fields of business such as digital payments, with the goal of fostering individual advantage rather than mutual benefit. To facilitate this endeavor, a steering committee shall be formed to evaluate and propose potential avenues of independent cooperation between the parties.",
+    "contradiction_score": 0.9960108995437622,
+    "kept": true
+  },
+  {
+    "clause_index": 6,
+    "start_char": 2114,
+    "end_char": 2149,
+    "original": "1. Definitions and Interpretation .",
+    "ollama_generated": "1. Terminology and Construction .\n\nIn the event of any inconsistency between the terms defined in this Agreement and any other part hereof, the definitions provided in this section shall prevail. The Parties acknowledge and agree that words in the singular number include the plural, and in the plural number include the singular, as the context may require. All references to \"days\" are calculated from and including one day to but excluding the next day. In case any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, such holding shall not affect the validity or enforceability of any other provisions herein. Any notice required or permitted under this Agreement shall be in writing and shall be deemed effective when delivered personally or sent via confirmed facsimile transmission, email transmission, or certified mail, return receipt requested, postage prepaid, to the respective parties at the addresses set forth below, or to such other address as a party may designate by notice in accordance with this provision.\n\nThis clause emphasizes that any inconsistency in the definitions will be resolved in favor of those provided herein, and acknowledges that singular words can include plural and vice versa, depending on the context. It also clarifies that if any part of the agreement is deemed invalid or unenforceable, it won't affect the rest of the agreement. Furthermore, it specifies how notices are to be delivered and considered effective, providing flexibility for designating new addresses as necessary.",
+    "contradiction_score": 0.0023612051736563444,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3441,
+    "end_char": 4208,
+    "original": "(a) any information of whatever nature concerning the business, finance, assets, liabilities, dealings, transactions, know-how, customers, suppliers, processes or affairs of the other parties and any of their group undertakings from time to time\u037e (b) any information which is expressly indicated to be confidential in relation to the party disclosing it (or in relation to any of its group undertakings) from time to time, which any party may from time to time receive or obtain (verbally or in writing or in disk or electronic form or by any other means) from any other party as a result of negotiating, entering into, or performing its obligations pursuant to this Agreement\u037e in each case except to the extent that such information is, has or does become available:",
+    "ollama_generated": "(a) Any data or intelligence related to the business, finances, assets, liabilities, operations, relationships, contracts, processes, or overall activities of the other parties and any entities they control at any given point in time; (b) Any information explicitly labeled as confidential by either party (or their affiliated entities) that may be disclosed, directly or indirectly, to any party throughout the course of negotiations, execution, or fulfillment of this Agreement. This includes but is not limited to information communicated verbally, in writing, digitally, or via other means.\n\nHowever, this obligation to preserve confidentiality does not extend to any data or knowledge that: (1) was already known by the receiving party before its disclosure under this Agreement; (2) becomes publicly available through no fault of the recipient; (3) is obtained by the recipient from a third party who has the right to disclose it and who did not breach any confidentiality obligation in doing so; or (4) is independently developed by the recipient without using the disclosed information as a starting point.\n\nThis shift in language emphasizes that while parties are obligated to protect certain confidential information, they are also relieved of responsibility for maintaining confidentiality if the information was previously known, becomes public knowledge, was obtained from a third party with the right to disclose, or was independently developed without reliance on the disclosed information.",
+    "contradiction_score": 0.02800017036497593,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 6024,
+    "end_char": 6766,
+    "original": "(a) references to a \u201cparty\u201d mean a party to this Agreement and includes the successors in title to substantially the whole of its undertaking\u037e (b) references to a \u201cperson\u201d include a body corporate, an unincorporated association, a trust and a partnership\u037e (c) references to any statutory provision, rule or law shall include references to such statutory provision, rule or law as it may, after the date of this Agreement, from time to time be amended, supplemented or re-enacted and any subordinate legislation made under such statutory provision\u037e (d) references to \u201cClauses\u201d are to clauses of this Agreement\u037e and (e) words denoting the singular shall include the plural and vice versa and words denoting any gender shall include all genders.",
+    "ollama_generated": "(a) The term \"party\" encompasses any entity bound by this Agreement, as well as their successors inheriting a significant portion of their assets or liabilities. (b) The term \"person\" comprises corporations, unincorporated associations, trusts, partnerships, and any other legal entities. (c) Mentions of statutory provisions, rules, or laws extend to their respective amendments, supplements, replacements, and any subordinate legislation enacted under these provisions, as they may occur post the Agreement's date. (d) \"Clauses\" herein refer to sections within this Agreement. (e) Words that denote either the singular or plural number shall be interpreted interchangeably, and words denoting a specific gender shall be understood to encompass all genders.",
+    "contradiction_score": 0.001813948736526072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 6813,
+    "end_char": 6938,
+    "original": "1.3 The headings in this Agreement are inserted for convenience only and shall not affect its interpretation or construction.",
+    "ollama_generated": "1.3 The titles included within this Agreement are provided merely for ease of reference and do not impact the overall meaning or legal implications of the Agreement's contents.",
+    "contradiction_score": 0.0005093917134217918,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 9695,
+    "end_char": 10527,
+    "original": "(a) Participation of Otkritie as a privileged party in banking projects established by QIWI where QIWI seeks a banking partner\u037e (b) Subject to Applicable Law, commercial terms for QIWI to provide consumer scoring data it has collected to Otkritie\u037e (c) Commercial terms for Otkritie to act as settlement bank of NKO Rapida in accordance with Clause 4.1\u037e (d) Commercial terms relating to the amounts of deposits to be placed by NKO Rapida in Otkritie\u037e (e) Separation of NKO Rapida\u2019s digital wallet business from the core business of NKO Rapida\u037e (f) Commercial terms of cooperation of the parties in the areas of pre-paid cards and loyalty programs\u037e (g) Commercial terms of the use by Otkritie of the NKO Rapida brands owned by QIWI Group\u037e and (h) Commercial terms of the potential sale of the NKO Rapida\u2019s banking license to Otkritie.",
+    "ollama_generated": "(a) Opportunity for Otkritie to participate as a preferred party in banking initiatives spearheaded by QIWI, provided that QIWI is actively seeking a banking partner; (b) Shared understanding regarding the conditions under which QIWI may share consumer scoring data it has amassed with Otkritie, subject to applicable law; (c) Terms for Otkritie's role as the settlement bank for NKO Rapida, contingent upon compliance with Clause 4.1; (d) Terms outlining the deposits that NKO Rapida is obligated to deposit with Otkritie; (e) Structural arrangement for the division of NKO Rapida\u2019s digital wallet business from its core operations; (f) Conditions for cooperation between the parties in areas such as pre-paid cards and loyalty programs; (g) Terms permitting Otkritie's use of the NKO Rapida brands owned by QIWI Group, under mutual agreement; and (h) Terms outlining the possibility of Otkritie acquiring NKO Rapida\u2019s banking license, should such sale be mutually agreed upon.",
+    "contradiction_score": 0.0021788235753774643,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 12319,
+    "end_char": 12733,
+    "original": "5.1 Except as provided in clause 5.2, no party shall, and each party shall procure that their Representatives shall not, disclose to any third party, or use or exploit commercially for its or their own purposes, any Confidential Information. The obligations of the parties under this clause 5.1 shall remain in force until the relevant information enters the public domain otherwise than by the default of a party.",
+    "modified": "5.1 Subject to clause 5.2, each party has the discretion to disclose Confidential Information to third parties and use or commercially exploit such information for their own purposes, provided that any such disclosure or use is made in good faith and with due care not to harm the other party's interests. However, this permission does not release either party from its obligation to safeguard the Confidential Information once it has been shared, and these obligations shall persist until the relevant information becomes publicly available other than through the negligence or wrongful act of a party.",
+    "contradiction_score": 0.9155216217041016,
+    "kept": true
+  },
+  {
+    "clause_index": 35,
+    "start_char": 15338,
+    "end_char": 15681,
+    "original": "In this Clause 5.4, \u201c Litigation \u201d means any action, cause of action, claim, demand, suit, proceeding, citation, summons, subpoena, inquiry or investigation of any nature, civil, criminal, regulatory or otherwise, in law or in equity, pending or threatened, by or before any court, tribunal, arbitrator, expert or other governmental authority.",
+    "modified": "In the context of Clause 5.4, \"Dispute Resolution Proceedings\" encompass any legal action, claim, demand, suit, case, hearing, investigation, inquiry, or proceeding of any kind, whether civil, criminal, regulatory, or otherwise, initiated by either party or a third party, that is ongoing, contemplated, or potentially imminent, before any judicial body, administrative agency, arbitral tribunal, or other governing entity.",
+    "contradiction_score": 0.8091664910316467,
+    "kept": true
+  },
+  {
+    "clause_index": 36,
+    "start_char": 15713,
+    "end_char": 15747,
+    "original": "6. Effectiveness and Termination .",
+    "ollama_generated": "6. Operation and Cessation:\n\nThe terms of this agreement shall remain effective unless otherwise terminated by either party upon providing written notice to the other, in which case this agreement shall cease to be binding, but any accrued rights or obligations shall survive such termination. However, the Company reserves the right to terminate this agreement immediately, without prior notice, if the Client breaches any material provision of this agreement.",
+    "contradiction_score": 0.09750958532094955,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 18334,
+    "end_char": 18519,
+    "original": "8.1 A notice (including any approval, consent or other communication) in connection with this Agreement and the documents referred to in it or with any arbitration under this Agreement:",
+    "ollama_generated": "8.1 Any communication, including notices pertaining to approvals, consents, or other matters in relation to this Agreement and the documents associated with it, or concerning any arbitration under this Agreement:\n\n- Shall not be required unless made in writing, unless otherwise specified;\n- May be delivered by electronic means, provided that the sender can verify receipt;\n- If deemed invalid for any reason, shall not invalidate the Agreement itself or any other part of it;\n- The recipient's failure to object promptly upon receiving such communication will be considered as acceptance and agreement with its contents.",
+    "contradiction_score": 0.05467212572693825,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 18519,
+    "end_char": 19055,
+    "original": "(a) must be in writing in English\u037e (b) for the avoidance of doubt, must not be sent by electronic mail\u037e (c) must be delivered by hand, fax or courier using an internationally recognised courier company to the address specified below in relation to the Party to whom the notice is addressed, and marked for the attention of the person so specified, or to such other address or fax number or marked for the attention of such other person, as the relevant party may from time to time specify by notice given in accordance with this clause.",
+    "ollama_generated": "(a) Shall be communicated in writing, preferably in English; (b) To clarify, electronic transmission is permitted, but physical receipt of the document cannot be guaranteed unless it is delivered by hand, fax, or courier via a reputable international courier service; (c) The delivery method must ensure a confirmation of receipt. The recipient's current address for such deliveries is specified below, though alternative addresses or contacts may be accepted as long as the sender has been notified of these changes in accordance with this clause.",
+    "contradiction_score": 0.007956675253808498,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 19069,
+    "end_char": 19138,
+    "original": "The relevant details of each party at the date of this Agreement are:",
+    "ollama_generated": "This Agreement's essential details as of its effective date pertain to both parties:\n\nFrom this point forward, any modifications in either party's information shall be disclosed promptly and in writing to the other party for mutual awareness and record-keeping.",
+    "contradiction_score": 0.0014261759351938963,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 19365,
+    "end_char": 19574,
+    "original": "Attention: Mr. Philios Yiangou / Mr. Sergey Solonin 8.2 In the absence of evidence of earlier receipt, any notice shall take effect from the time that it is deemed to be received in accordance with Clause 8.3.",
+    "ollama_generated": "Notice Attention: Mr. Philios Yiangou / Mr. Sergey Solonin\n8.2. For purposes of this agreement, any notice shall be considered as effectively given when it is deemed to have been sent in accordance with Clause 8.3, unless evidence of earlier transmission is provided by the recipient.",
+    "contradiction_score": 0.02356709912419319,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 22965,
+    "end_char": 23030,
+    "original": "9.5 The language of the arbitration proceedings shall be English.",
+    "ollama_generated": "9.5 The parties shall endeavor to use their best efforts to ensure that all communications in the arbitration process are conducted primarily in the English language. However, should a party find it necessary or advantageous, they may present arguments, evidence, and respond in another language, subject to the arbitrator's discretion for any appropriate translation or interpretation services.",
+    "contradiction_score": 0.011957276612520218,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 25062,
+    "end_char": 25088,
+    "original": "(a) QIWI, if delivered to:",
+    "ollama_generated": "(b) Recipient, upon receipt of:\n\nThis change inverts the condition, shifting the onus from QIWI (the original sender or deliverer) to the recipient. In this revised clause, the recipient is now expected to act once they receive something, rather than QIWI being responsible for action based on delivery.",
+    "contradiction_score": 0.2698107063770294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 26133,
+    "end_char": 26198,
+    "original": "Witness Signature Witness Name Witness Occupation Witness Address",
+    "ollama_generated": "Affirming Party Signature Affirming Party Name Affirming Party's Position Affirming Party's Contact Information\n\nIn this revised version, the role of the witness has been replaced by that of an \"Affirming Party.\" This party's signature and information are required to acknowledge the agreement or document. The change subtly emphasizes the affirmation or ratification aspect, rather than the traditional third-party witness function.",
+    "contradiction_score": 0.026115447282791138,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

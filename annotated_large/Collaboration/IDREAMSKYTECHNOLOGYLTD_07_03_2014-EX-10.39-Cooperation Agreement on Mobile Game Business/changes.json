@@ -1,0 +1,445 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 589,
+    "end_char": 743,
+    "original": "Address: 7F, EVOC Technology Building, No. 31 Gaoxin Central 4th Road, Nanshan District, Shenzhen Zip code: 518057 Contact person: Chen Zhiyu Contact Tel:",
+    "ollama_generated": "Location: The premises are situated at 7F, EVOC Technology Building, No. 31 Gaoxin Central 4th Road, Nanshan District, Shenzhen, Postal Code: 518057. The primary point of contact is Chen Zhiyu who can be reached at the following telephone number:\n\nThis version slightly modifies the original by changing the order and phrasing to emphasize that the postal code is a separate piece of information rather than part of the address itself, making it clearer for recipients. However, this change does not significantly alter the original clause's meaning or obligations.",
+    "contradiction_score": 0.01009325496852398,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1432,
+    "end_char": 1653,
+    "original": "Article 1 Contents and Principles of Cooperation 1.1 Party A, as an Internet business provider, and Party B, as a mobile game content provider, will establish a cooperation relationship in the area of mobile game service.",
+    "modified": "Article 1 Scope and Basis of Collaboration\n  1.2 In the capacity of a mobile game content provider, Party B hereby engages with Party A, as an Internet business facilitator, to enter into a collaborative relationship for the provision of mobile game services. This relationship shall not be construed as binding Party A to any specific role in the development, creation, or maintenance of such mobile games.",
+    "contradiction_score": 0.8507660031318665,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2888,
+    "end_char": 3071,
+    "original": "1.6 Resources devoted by Party B: mobile game application system and relevant contents (including, without limitation, copyright, right of portrait and such other lawful rights), etc.",
+    "ollama_generated": "1.6 Expenditure of Resources by Party B: The provision and retention of the mobile game application system, along with its associated content (comprising, but not limited to, copyright, likeness rights, and any other lawful proprietary rights), shall be solely at the discretion of Party B, without any obligation or guarantee for ongoing availability. Party A acknowledges that any interruption or termination of these resources is beyond its control.",
+    "contradiction_score": 0.09255577623844147,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3073,
+    "end_char": 3151,
+    "original": "1.7 Scope of cooperation service: all users of Party A\u2019s interactive platform.",
+    "ollama_generated": "1.7 Limits of Cooperative Service: The cooperative services shall apply exclusively to those entities interacting on the platform, who are not deemed as the creators or managers of said platform, Party A's team members, or any affiliated parties.\n\nExplanation: This revised clause weakens the obligation by specifying that the scope of cooperation service does not apply to certain specific groups (creators, managers, team members, and affiliated parties) of Party A's platform users.",
+    "contradiction_score": 0.400447279214859,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 5216,
+    "end_char": 5688,
+    "original": "2.7 According to Management Measures for Cooperation in Mobile Game Business (V1.0), Party A shall have the right to review and assess Party B and its various business, select the superior and eliminate the inferior based on Party B\u2019s performance in business development, credit points and breaches, reward Party B\u2019s creative business and supervise Party B\u2019s customer service quality, and may terminate this Agreement with Party B if it fails to reach Party A\u2019s standards.",
+    "ollama_generated": "2.7 In accordance with the Management Measures for Cooperation in Mobile Game Business (V1.0), Party B is granted the opportunity to demonstrate their capabilities and performance, and Party A retains the discretion to evaluate Party B's business ventures, rewarding exceptional performance and providing constructive feedback. Party A reserves the right to set performance benchmarks and may request improvements in areas such as business development, credit points, and compliance with contractual obligations. Failure by Party B to meet these agreed-upon standards may result in a mutually agreed upon corrective action plan, but may ultimately lead to termination of this Agreement if necessary improvements are not achieved within a reasonable timeframe.",
+    "contradiction_score": 0.0023461265955120325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 7816,
+    "end_char": 8078,
+    "original": "2.13 During the term of cooperation, Party A may suspend its cooperation with Party B if there is user complaint on Party B\u2019s service quality issue, which has resulted in adverse social impact\u037e in serious cases, Party A may unilaterally terminate this Agreement.",
+    "ollama_generated": "2.13 Throughout the duration of our collaboration, Party B shall have the discretion to temporarily suspend their services should a significant number of user complaints arise concerning the perceived quality of their service, potentially causing social harm. In extreme cases where the impact is severe and rectification appears impractical, Party B retains the unilateral right to terminate this Agreement.",
+    "contradiction_score": 0.42292356491088867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 11481,
+    "end_char": 11711,
+    "original": "3.6 Party B guarantees that the prices of the various business it provides are in line with the pricing policies of the State, and it will be responsible for any price complaints made by relevant administrative authority or users.",
+    "modified": "3.6 It is understood that Party B shall make reasonable efforts to align the pricing of its services with prevailing market rates, as regulated by the State's pricing policies. However, Party B shall not be held solely responsible for resolving any price-related complaints or disputes instigated by relevant administrative authorities or users. The responsibility for such resolution may lie jointly with both parties, or alternate remedies, as mutually agreed upon, may be pursued.",
+    "contradiction_score": 0.8842845559120178,
+    "kept": true
+  },
+  {
+    "clause_index": 38,
+    "start_char": 11977,
+    "end_char": 12250,
+    "original": "3.8 In case of any issues of Party B\u2019s own systems (such as WAP website or game server) that affect Party A\u2019s communications system, Party B shall submit to the connection control by Party A thereon, and any consequence thus incurred shall be fully taken by Party B itself.",
+    "ollama_generated": "3.8 In the event of any issues arising within Party B's systems (including WAP website or game server) that may impact Party A's communication system, Party A shall have the right to impose connection control as necessary. Party B acknowledges full responsibility for any resulting consequences stemming from such actions taken by Party A.",
+    "contradiction_score": 0.015904488041996956,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 13693,
+    "end_char": 13834,
+    "original": "3.12 Party B shall not carry out business testing or provide business to customers at its own discretion without obtaining Party A\u2019s consent.",
+    "ollama_generated": "3.12 Party A acknowledges and consents that Party B may, at its sole discretion, engage in business testing or offer services to customers, provided Party A is notified of such activities in a timely manner.",
+    "contradiction_score": 0.48460251092910767,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 16176,
+    "end_char": 16343,
+    "original": "3.18 Party B shall not advertise, or make any statement favorable for, any competitor having the same or similar business scope as Party A in the services it provides.",
+    "ollama_generated": "3.18 Party A does not object to Party B advertising, or making statements favorable towards, competitors operating within the same or comparable business sphere, provided that these actions do not imply an endorsement or preference over Party A's services in the market.",
+    "contradiction_score": 0.3045540452003479,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 17460,
+    "end_char": 17914,
+    "original": "3.21 Except otherwise expressly agreed between the parties or agreed by Party A beforehand, Party B shall not transfer any cooperation business to a third party in any form whatsoever. Any transfer in violation hereof shall be deemed as a breach by Party B, for which Party B shall take relevant breaching liability and Party A may terminate this Agreement, suspend fee settlement and require Party B to undertake any direct or indirect loss thus caused.",
+    "modified": "3.21 Unless explicitly consented by both parties or granted by Party A priorly, Party B maintains the right to assign its cooperative duties to a third party. However, should such assignment contravene this agreement, it shall be deemed as a breach on the part of Party B, for which Party B will assume all resulting liability. Furthermore, in such instances, Party A reserves the option to terminate this Agreement, withhold fee payments temporarily, and necessitate Party B to compensate for any immediate or indirect losses that ensue.",
+    "contradiction_score": 0.9015397429466248,
+    "kept": true
+  },
+  {
+    "clause_index": 57,
+    "start_char": 19223,
+    "end_char": 19505,
+    "original": "4.3 Party B shall be responsible for the building and maintenance of its systems, including all hardware equipment, system debugging, opening, and system maintenance work relating to the the wireless value-added business under this Agreement and the costs of each of the foregoing .",
+    "ollama_generated": "4.3 Under this Agreement, Party B assumes responsibility for the operation, upkeep, and troubleshooting of its systems, encompassing all hardware components, diagnostic work, access, and maintenance tasks associated with the wireless value-added business. Party A will not bear any costs related to these duties.",
+    "contradiction_score": 0.1517082005739212,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 22348,
+    "end_char": 23003,
+    "original": "4.12 The business operated by Party B shall be confined to the category provided in Article 1 hereof. Any business beyond such scope shall be subject to an application filed by Party B to Party A via facsimile affixed with official seal, and may be opened and put in practice only after it is approved by Party A and has successfully passed the test. The application facsimile aforementioned shall specify the reason, expected time for business opening and business description. If Party B is discovered to have discretionally opened a business that fails to be approved by Party A, Party A may refuse to settle all the fees and terminate the cooperation.",
+    "ollama_generated": "4.12 The activities conducted by Party B shall not exceed the scope outlined in Article 1 herein. Any endeavors surpassing this boundary are presumed to be undertaken by Party B, unless explicitly communicated and approved in writing by Party A prior to initiation. Such approval will only become effective upon successful completion of any necessary tests or evaluations. The written notice from Party B must detail the purpose, projected timeline for commencement, and nature of the new activity. In the event that Party B engages in unapproved activities, Party A reserves the right to withhold all fees and discontinue cooperation.",
+    "contradiction_score": 0.0015571563271805644,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 23968,
+    "end_char": 24186,
+    "original": "4.15 The Parties shall keep records of users\u2019 use of the business for at least 6 months, and shall keep the record of user\u2019s customized business until more than 6 months after the business is canceled by relevant user.",
+    "ollama_generated": "4.15 For a period of no less than six months following the termination of a user's account by the relevant party, each Party shall retain records detailing the user's engagement with our business. However, once this six-month period has elapsed and the business is no longer active, either Party may discard any customized records pertaining to that specific user without prior notice.",
+    "contradiction_score": 0.1505538523197174,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 24333,
+    "end_char": 24569,
+    "original": "4.17 The Parties confirm to initially adopt such billing modes as payment by month, by time or by length of time for Party B\u2019s users\u037e other more reasonable billing modes may be additionally adopted upon negotiations between the Parties.",
+    "ollama_generated": "4.17 Initially, the Parties agree to implement billing methods such as monthly payments, hourly rates, or per-user duration for Party B's users. However, either Party has the discretion to propose and implement alternative, mutually agreed-upon billing modes, provided that they are considered reasonable by both parties following consultations.",
+    "contradiction_score": 0.0037348477635532618,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 24569,
+    "end_char": 25647,
+    "original": "4.18 Party B shall establish a \u201cblack list\u201d policy for customer service, based on which Party B will include the users who maliciously owe fees or customize services into a \u201cblack list\u201d for management, and Party B shall well explain such policy to relevant users. Party B shall use technical means to monitor the extraordinary traffic, and implement monitor alert and restriction on any owed fees that may be produced by large amount of information fee (over RMB 150/day/user) arising from malicious customization and ordering of services. Party B shall take restrictive measures on the canceled or recovered user numbers provided by Party A every day, and take restrictive measures on the canceled or empty numbers every month. In case Party B fails to take measures on such users, or fails to take measures in time, it shall be responsible for all high-value maliciously owed fees or such other owed fees arising from the using of mobile game services by the users with canceled or suspended number, and Party A will deduct such amounts from the information fee to be settled.",
+    "ollama_generated": "4.18 Party B is granted discretionary power to implement a \"grey list\" policy for customer service management, which may include users who exhibit abnormal behavior or incur excessive fees. Party A is responsible for clearly communicating this policy to the relevant users. For monitoring purposes, Party B shall employ technical means to track abnormal traffic patterns and will implement alerts and restrictions on any fees accrued from unconventional service usage exceeding RMB 150 per day per user.\n\nParty B reserves the right to impose restrictions on the daily user numbers provided by Party A, as well as monthly inactive or empty numbers. In the event that Party B fails to enforce restrictions on such users, or enforces them after an unreasonable delay, Party A shall be held liable for all high-value fees incurred maliciously and any other fees stemming from the use of mobile game services by users with cancelled or suspended numbers. These amounts will be deducted from the information fee owed to Party B.",
+    "contradiction_score": 0.17180182039737701,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 25650,
+    "end_char": 25803,
+    "original": "4.19 Party B shall not discretionally provide inquiry services of detailed bills of information fee to users, which shall be provided by Party A instead.",
+    "ollama_generated": "4.19 Rather than offering inquiry services involving detailed billing fees at its discretion, Party B is expected to direct such requests to Party A, who will provide these services as needed.",
+    "contradiction_score": 0.001194701180793345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 28325,
+    "end_char": 28783,
+    "original": "5.4 Party B shall be responsible for all kinds of customer inquiries and complaints arising from problems not related to Party A\u2019s network communication and platform during the cooperation. Party B shall clearly specify and make public the channel and body by which the business consulting, claims and complaints will be accepted. Party B shall be obliged to visit the online complaint handling system every day and respond to the complaints within 24 hours.",
+    "modified": "5.4 In instances where customer inquiries or complaints stem from issues not attributable to Party A's network communication and platform during our collaboration, Party A shall assume responsibility for addressing these concerns. Party A will publicly disclose the specific channels through which such business consultations, claims, and complaints can be lodged. While Party A is encouraged to actively monitor the online complaint handling system daily, it is not obligated to respond within any specific timeframe, aiming to address these matters in a timely and effective manner.\n\nThis revised clause aims to shift the responsibility for handling certain customer inquiries and complaints away from Party B and towards Party A while still maintaining the original requirement that clear channels for reporting such issues should be made public and accessible by both parties. The timeframe for response has also been relaxed, giving Party A more flexibility in addressing these matters without explicitly obligating them to respond within 24 hours.",
+    "contradiction_score": 0.8380913734436035,
+    "kept": true
+  },
+  {
+    "clause_index": 83,
+    "start_char": 30064,
+    "end_char": 30395,
+    "original": "5.8 If neither Party is able to judge which Party shall be responsible for the consulting or complaints it receives, it shall contact the other Party within 1 hour to find out the responsible Party and help the customer to solve the problem as soon as practicable. Neither Party shall shuffle its due responsibility to other Party.",
+    "ollama_generated": "5.8 In the event that either Party is unable to determine their own liability for any consultations or complaints received, they shall immediately notify the other Party and provide assistance in resolving the issue as promptly as possible. It is understood that both Parties may delegate tasks related to this resolution process to their respective representatives, provided that the initial responsibility remains with the Party initially contacted by the customer. Neither Party will abdicate or transfer its original responsibility to the other Party under any circumstances.",
+    "contradiction_score": 0.010599552653729916,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 30984,
+    "end_char": 31570,
+    "original": "5.11 If Party B exits this Agreement due to poor management or is unable to continue providing value-added business for other reasons of its own, Party B shall directly explain to users and handle the after-exit arrangements. Except for the exit according to the exit mechanism provided herein, Party B shall inform Party A and obtain its consent regarding the cease of value-added business provision three months in advance\u037e Party A shall timely terminate its service to collect information fee on behalf of Party B, and assist Party B in making explanations and descriptions to users.",
+    "modified": "5.11 In the event that Party A elects to depart from this Agreement due to management issues or circumstances beyond our control impeding the continuation of value-added business services, Party A will promptly communicate this decision to users and manage the post-departure arrangements directly. Excluding exits facilitated by the exit mechanisms outlined herein, Party A must notify Party B three months in advance of its intention to cease value-added business operations. During this timeframe, Party B shall take responsibility for maintaining services and collecting any applicable fees, while Party A offers technical assistance and guidance in communicating with users.",
+    "contradiction_score": 0.6100534200668335,
+    "kept": true
+  },
+  {
+    "clause_index": 89,
+    "start_char": 32310,
+    "end_char": 32803,
+    "original": "6.2 If Party A discovers in its spot checks conducted from time to time that any game, software, business, works, content or service provided by Party B is not in compliance with laws, regulations, industry rules, Party A\u2019s management measures or contractual agreement, Party B shall pay Party A additional amount of performance bond at RMB5,000 per violation, or RMB10,000 per business, to be payable to by Party B within 10 working days after the results of copyright spot checks are posted.",
+    "ollama_generated": "6.2 If any game, software, business, works, content, or service provided by Party B is discovered by Party A during its periodic inspections to be in non-compliance with laws, regulations, industry rules, Party A's management measures, or the contractual agreement, Party A shall have the right to claim a liquidated damage of RMB5,000 per violation, or RMB10,000 per business, from Party B. This damages claim shall be due and payable by Party B within 10 working days after the results of copyright spot checks are published.\n\nIn this revised clause, the responsibility for paying damages has been shifted from Party B to Party A, and the obligation is framed as a right to claim damages rather than an obligation to pay.",
+    "contradiction_score": 0.2774411141872406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 32803,
+    "end_char": 33923,
+    "original": "Page 11 of 29 Jiangsu Telecom Contract No.: JSXCS1200166CC000 6.3 If any game, software, business, works, content or service provided by Party B has intellectual property defects or other right defects or other illegal issues, or Party A or any of its relevant bodies faces accusation, lawsuit, complaint, negative media report, administrative penalty, then Party A will temporarily withhold the settlement payment during the period when such dispute is pending for at least RMB50,000 per violation (business), and deduct from the performance bond already paid by Party B\u037e at the same time, Party B shall pay an additional performance bond at an amount equivalent to the original one, within 10 working days upon the occurrence of the dispute. For the second time of the aforementioned violation, the amount of performance bond shall be additionally paid at RMB3,000 per time on the basis of the amount previous paid. For the third time of the aforementioned violation, Party A will withhold the full amount of the performance bond already paid by Party B, and terminate the full-range business cooperation for one year.",
+    "ollama_generated": "6.3 In case any game, software, business, works, content or service provided by Party B contains intellectual property issues, defects in rights, illegality, accusations, lawsuits, complaints, negative media reports, administrative penalties, or poses any other risks that may potentially harm the reputation or interests of Party A or its relevant entities, Party A reserves the right to withhold a portion of the settlement payment, not less than RMB50,000 per violation (business), for the duration of the dispute. Additionally, Party B shall be responsible for promptly replenishing the performance bond to an equivalent amount within 10 working days following the occurrence of the dispute. If such an issue arises for a second time, Party B will be required to increase the performance bond by RMB3,000 per instance based on the previous amount paid. Upon a third occurrence of these issues, Party A reserves the right to retain the full amount of the performance bond previously paid by Party B and may elect to terminate the business cooperation for a period of one year, subject to mutual agreement between the parties.",
+    "contradiction_score": 0.05542181432247162,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 34746,
+    "end_char": 34820,
+    "original": "Account name of Party A: Dazzle Interactive Network Technologies Co., Ltd.",
+    "ollama_generated": "Designated Account Holder of Party A: Dazzle Interactive Network Technologies Co., Ltd. (who shall be solely responsible for ensuring that all account-related communications are accurately and promptly received).\n\nThis subtle change shifts the responsibility of managing account-related communications onto Party A, while keeping the original clause's professional tone intact.",
+    "contradiction_score": 0.0009861289290711284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 35132,
+    "end_char": 35657,
+    "original": "Article 7 Billing and Settlement 7.1 The prices of information fee shall be formulated by Party B and approved by Party A in principle, provided that Party A may propose advice regarding fee rate and negotiate such proposal with Party B. any changes to the prices of information fee (including the changes in means of fee charging) may be implemented formally only after confirmed by Party A. All billing and settlement shall be subject to the provisions of Management Measures for Cooperation in Mobile Game Business (V1.0).",
+    "ollama_generated": "Article 7 Billing and Settlement\n\n7.1 The rates for the information fee will primarily be determined by Party B, with Party A retaining the right to suggest alterations to these rates for discussion with Party B. Any suggested modifications to the information fee rates (including adjustments in payment methods) may only become effective upon approval from Party A. It is to be noted that Party B shall bear the responsibility of implementing such changes formally and promptly. All billing and settlement procedures will remain subject to the stipulations outlined in the Management Measures for Cooperation in Mobile Game Business (V1.0).\n\nIn this revised clause, the emphasis has been shifted from an obligation on Party A to propose advice and negotiate with Party B about the fee rate, to Party B having the responsibility of implementing any changes after receiving Party A's suggestions. The clause now places a requirement on Party B to implement these changes formally and promptly, should they receive Party A's suggestions for modifications to the information fee rates.",
+    "contradiction_score": 0.2519961893558502,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 40730,
+    "end_char": 41007,
+    "original": "all content providers participating in such business). Party B and all the other content providers participating in such business shall share such 50% of income according to the proportion of the usage of their business to the total usage. The formula for calculation shall be:",
+    "ollama_generated": "Content Providers engaged in this enterprise shall jointly retain a collective 50% of the generated income, with Party B being responsible for distributing these funds equitably based on each provider's relative contribution to the overall usage. The distribution formula shall be as follows:\n\n(Income Generated x Contribution to Total Usage) / Total Usage = Proportionate Share\n\nThis means that while Party B serves as the primary disburser, each Content Provider will receive a proportion of the total income based on their individual contribution to the aggregate usage.",
+    "contradiction_score": 0.03371533006429672,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 42053,
+    "end_char": 42407,
+    "original": "7.6 The Parties shall settle the payment every month, and the initial settlement period shall be the end of the third month, which means that the information service fee generated in the first month shall be paid to the account of the partner by the end of the third month. When requesting payment of relevant contract price from Party A, Party B has to:",
+    "ollama_generated": "7.6 The Partner shall receive payment for the information service fee on a monthly basis, commencing with the fourth month following the execution of this Agreement. However, Party A may elect to make an initial payment covering the fees generated during the first three months, due upon request by Party B within the third month. In such cases, the initial payment shall be settled by the end of the third month. It is noted that Party B's obligation to invoice Party A for the relevant contract price may arise prior to the fourth month, but payment will only be expected upon receipt of such invoice.",
+    "contradiction_score": 0.08437876403331757,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 43743,
+    "end_char": 44403,
+    "original": "Page 15 of 29 Jiangsu Telecom Contract No.: JSXCS1200166CC000 7.8 All business revenue payable to Party B calculated by Party A according to the sharing percentages for different business under cooperation between the Parties, minus (or plus) other expenses payable (or receivable) by Party B, shall be the revenue to be finally settled to Party B (the \u201cSettled Information Service Dee\u201d). The aforementioned \u201cother expenses\u201d shall include, without limitation, penalty deducted for breach and co- location fee. As agreed between the Parties, Party B\u2019s business revenue and other payable expenses may be settled separately and apply different settlement process.",
+    "ollama_generated": "7.8 The total revenue generated from the collaborative businesses as determined by Party A in accordance with our previously agreed percentage shares shall constitute the potential revenue for Party B (hereinafter referred to as the \"Settled Information Service Dee\"). Deductions from this amount may be made for expenses incurred by Party B, such as penalties for non-compliance and co-location fees, but excluding any additional revenues that Party B may receive. As mutually agreed upon, these revenue and expense settlements can occur separately, with distinct settlement processes applied to each.",
+    "contradiction_score": 0.2847210168838501,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 45136,
+    "end_char": 45498,
+    "original": "After such change of Party B\u2019s corporate name, any amounts payable by Party A to Party B, whether incurred before or after such change, shall all be paid to the bank account with the changed name of Party B. If Party A fails to make the payment on time due to Party B\u2019s failure to properly complete the name change procedures, Party A will postpone such payment.",
+    "ollama_generated": "In the event that Party B amends its corporate name, all payments owed by Party A to Party B, regardless of when they were incurred, shall be made to the updated bank account designated by Party B. Should any delay in payment occur due to an alleged improper completion of the name change procedures by Party B, Party A reserves the right to temporarily suspend such payment, with the expectation that Party B will promptly resolve the issue and facilitate a seamless resumption of payments.",
+    "contradiction_score": 0.006618069484829903,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 48623,
+    "end_char": 49130,
+    "original": "8.3 The Parties may negotiate separately the terms regarding the use of Party A\u2019s enterprise name, service brand, business brand, trademark, markings or logo, etc. in the business hereunder. Party B shall not use any of the foregoing in any form whatsoever without reaching an agreement with Party A or obtaining Party A\u2019s prior written confirmation\u037e otherwise, an infringement will be constituted. In such case, Party B shall eliminate the negative impact and compensate Party A for any losses thus caused.",
+    "ollama_generated": "8.3 Either Party has the right to independently negotiate terms concerning the utilization of Party A's enterprise name, service brand, business brand, trademark, markings, or logo within this transaction. Without a prior written agreement with Party A or obtaining Party A's express consent, Party B is prohibited from using any such entity in any shape or form. Failure to comply with this provision may result in an infringement claim. In the event of an infringement, Party B shall be responsible for rectifying any damages caused and compensating Party A for any resulting losses.\n\nThis revised clause emphasizes that Party B is specifically prohibited from using Party A's intellectual property without prior written agreement or consent, whereas the original clause stated that they could not use it without an agreement or confirmation. Additionally, the new version makes it clear that Party B will be responsible for rectifying any damages and compensating Party A in case of infringement, while the original clause stated that they should eliminate the negative impact and compensate Party A.",
+    "contradiction_score": 0.036014191806316376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 51183,
+    "end_char": 51294,
+    "original": "9.4 The obligation of confidentiality provided in this article shall survive the termination of this Agreement.",
+    "ollama_generated": "9.4 The provisions regarding confidentiality set forth in this Agreement shall persist even after its termination. (In this version, the clause emphasizes that the confidentiality obligations will continue to apply post-termination.)",
+    "contradiction_score": 0.0037280316464602947,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 52617,
+    "end_char": 52871,
+    "original": "10.3 If Party B unilaterally terminates this Agreement, or is penalized with termination of cooperation according to Management Measures for Game Partner Credit Points, or if Party A terminates this Agreement pursuant to the terms hereof, Party B agrees:",
+    "ollama_generated": "10.3 In any instance where this Agreement may be mutually or unilaterally terminated by either Party A or Party B, in accordance with the Management Measures for Game Partner Credit Points or as permitted by the terms of this Agreement, it is understood that:\n\n1. Party B accepts full responsibility for any penalties or consequences associated with such termination.\n2. Upon termination, Party B shall promptly return all property, materials, and confidential information belonging to Party A.\n3. Party B waives any claims against Party A arising from the termination of this Agreement, save for any claims based on breach of this clause or other fraudulent conduct by Party A.\n4. In the event that Party A terminates this Agreement due to a material breach by Party B, Party B shall be liable to compensate Party A for any damages or losses incurred as a result of such breach.\n5. Any provisions of this Agreement which by their nature are intended to survive termination shall continue in full force and effect after the termination of this Agreement.",
+    "contradiction_score": 0.20064231753349304,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 53753,
+    "end_char": 53924,
+    "original": "10.6 Party A will not take any responsibility if the conduct of business agreed herein is impacted when Party A is carrying out necessary construction or network building.",
+    "ollama_generated": "10.6 It shall be understood that Party A holds no liability should the execution of the agreed-upon business activities encounter any disruptions arising from Party A's mandatory construction or network development efforts.",
+    "contradiction_score": 0.0006583099020645022,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 55203,
+    "end_char": 58129,
+    "original": "(1)Party B\u2019s service has any content that is illegal, in violation of rules, reactionary or against the principle of public order and good social customs\u037e (2)Party A has received from different users over 15 (included) justified complaints within one day, or over 50 (included) justified complaints within 30 days about the same subject\u037e (3)The user complaints incurred due to reasons attributable to Party B have caused adverse social impact, or have been reported to news media, administration of telecommunication, AIC or other relevant government agency\u037e (4)Party B is accused, or causes Party A to be accused of infringement, or Party or Party B is sued by others, penalized or reported by media for reasons attributable to Party B\u037e Page 19 of 29 Jiangsu Telecom Contract No.: JSXCS1200166CC000 (5)Party B violates laws, rules or regulations of the sector, or any documents, management measures or policies of telecommunication or relevant industry authority\u037e (6)Any hardware, software, business or game provided by Party B in this business is held by Party A to fail to satisfy the business requirements upon its testing, or is withdrawn by Party B earlier than agreed\u037e (7)Party B fails to have the relevant qualification, or provide its services beyond the permitted scope of its qualification\u037e (8)Party B discretionally discloses Party A\u2019s trade secrets, technical files, marketing plan, customer files, cooperation agreement and other key secrets to any third party\u037e (9)Party B unilaterally amends, terminates or refuses to perform, this Agreement without justified reason and without first reaching an agreement with Party A\u037e (10)Party B fails to obey the business supervision or management of Party A, or fails to remediate as required by Party A\u037e (11)Party B infringes on the communication secrets or personal privacy of users or other persons\u037e (12) Party B delays or fails to fully perform its obligations and duties hereunder\u037e (13)Party B breaches the Undertakings on Network Access Information Safety\u037e (14)Party B discretionally uses Party A\u2019s name, logo or other relevant information without Party A\u2019s consent, which causes adverse impact or economic loss to Party A\u037e (15)Party B\u2019s illegal advertising or practices has resulted in indemnification or negative media reports of Party A\u037e (16)Party B\u2019s 24-hour customer service call and other relevant information fails to match that existing on the service system, or fails to be accessed normally, or fails to make response for a long time\u037e (17)Party B fails to provide the customer service support as required by this Agreement and business management measures, shuffle responsibility to others, or fails to respond to any customer claims or complaints transferred by Party A in time as required by its commitments hereunder or Party A\u2019s management measures\u037e (18)Party B\u2019s other breach, or acts that are illegal, violating or detrimental to Party A\u2019s interests.",
+    "modified": "(1) It is the responsibility of Party B to ensure that their services do not contain content that is legal, in compliance with rules, progressive, or aligned with the principles of public order and good social customs; (2) Party A will only consider justified complaints from users if they number less than 15 within one day, or less than 50 within 30 days about the same subject; (3) Any user complaints incurred due to reasons attributable to Party B will not have caused adverse social impact, nor will they be reported to news media, administration of telecommunication, AIC or other relevant government agency unless otherwise agreed upon between Parties; (4) Neither Party A nor Party B shall be accused, sued by others, penalized or reported by the media for reasons attributable to the actions of the other party; (5) Both parties will comply with laws, rules, regulations, and any documents, management measures, or policies of telecommunication or relevant industry authority; (6) Party B\u2019s hardware, software, business, or game provided in this business must satisfy the agreed-upon requirements and must not be withdrawn earlier than agreed upon; (7) Party B is required to have the necessary qualifications and must provide services only within the scope of their qualification; (8) Party B will keep all trade secrets, technical files, marketing plans, customer files, cooperation agreements, and other key secrets confidential and will not disclose them to any third party without Party A's explicit consent; (9) Any unilateral amendment, termination, or refusal to perform this Agreement by Party B must be justified and agreed upon with Party A beforehand; (10) Party B must comply with the business supervision and management of Party A, remediate any issues as required, and respond to Party A's requests in a timely manner; (11) Party B will respect the communication secrets and personal privacy of users and other persons; (12) Party B is responsible for fulfilling their obligations and duties hereunder in a timely and complete manner; (13) Party B must abide by the Undertakings on Network Access Information Safety; (14) Party A has the right to use Party B's name, logo, or other relevant information with their consent, and any misuse causing adverse impact or economic loss to Party A will not be tolerated; (15) Any advertising or practices of Party B that result in indemnification or negative media reports for Party A must be avoided; (16) Party B's 24-hour customer service call and other relevant information must accurately match that existing on the service system, be accessible normally, and respond promptly; (17) Party B is responsible for providing the required customer service support as outlined in this Agreement, business management measures, and any agreements between Parties, and will not shirk responsibility or fail to respond to customer claims or complaints transferred by Party A in a timely manner; (18) Any breach, illegal actions, or actions harmful to Party A\u2019s interests by Party B must be addressed promptly and professionally.",
+    "contradiction_score": 0.8311643600463867,
+    "kept": true
+  },
+  {
+    "clause_index": 158,
+    "start_char": 58999,
+    "end_char": 59590,
+    "original": "Article 11 Force Majeure 11.1 In case this Agreement is unable to be performed or fully performed due to any accident or event of force majeure, neither Party shall compensate the other Party for any economic loss thus suffered. The Party encountering such event of force majeure shall immediately inform the circumstances to the other Party in writing and within fifteen days, shall provide the detailed information of the event and a valid document evidencing the reasons why this Agreement cannot be performed or fully performed or the performance of this Agreement needs to be postponed.",
+    "ollama_generated": "Article 11 Force Majeure\n\n11.1 In the event that either Party encounters an unforeseen circumstance, colloquially known as a \"Force Majeure Event,\" which renders the performance of this Agreement partially or entirely impracticable, both Parties shall have the right to seek relief without liability for any economic losses incurred.\n\nUpon the occurrence of such an event, the affected Party shall promptly notify the other Party in writing, providing detailed information about the event and supplying a valid document verifying the reasons behind the temporary suspension or adjustment of performance obligations, or the need for a postponement of the Agreement's execution. Such notification should be made within fifteen days of becoming aware of the Force Majeure Event.",
+    "contradiction_score": 0.0032724179327487946,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 59590,
+    "end_char": 59774,
+    "original": "The Parties shall negotiate to decide whether to continue the performance of this Agreement or terminate this Agreement according to the extent of the effect on the performance hereof.",
+    "ollama_generated": "The Party of primary concern may unilaterally elect to cease or continue the execution of this Agreement, without prior consultation with the other party, should they deem it necessary for the preservation of their interests; however, such decision shall not be made capriciously and shall consider the potential impact on performance.",
+    "contradiction_score": 0.3067428767681122,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 64002,
+    "end_char": 64886,
+    "original": "13.9 During the term hereof, any division, merger, dissolution, liquidation, bankruptcy or other events that lead to changes of Party B in the company nature, qualification and capacity for civil acts shall be notified to Party A in time, and subject to the provisions hereunder about the exit grace period. If Party B is deprived of the qualification or capacity to provide the wireless value added business hereunder due to its dissolution, liquidation or bankruptcy, this Agreement shall terminate accordingly. In case of division or merger of Party B, this Agreement shall terminate, and the successor company (or other entity) to Party B\u2019s wireless value added business hereunder shall re-apply for business opening to Party A, and timely modify Party B\u2019s enterprise identifier code and other information existing on Party A\u2019s business system or other business management system.",
+    "ollama_generated": "13.9 Throughout the duration of this agreement, any significant alterations in Party B's corporate structure, capabilities, or legal standing that may arise from reorganization, merger, dissolution, liquidation, bankruptcy, or similar events shall be promptly communicated to Party A. In such cases, the provisions regarding notice periods and termination rights as detailed within this agreement shall apply. If, as a result of Party B's dissolution, liquidation, or bankruptcy, it loses its ability to perform the wireless value-added business specified herein, this agreement will automatically terminate. In instances of division or merger involving Party B, this agreement shall be deemed terminated. However, any successor entity assuming control over Party B's wireless value-added business shall have the opportunity to renegotiate its relationship with Party A for the continuation of these services, subject to Party A's approval and the completion of a new application process. Upon such reapplication and acceptance, the successor company (or entity) will be required to update its enterprise identifier code and other relevant information within Party A's business systems or management platforms in a timely manner.",
+    "contradiction_score": 0.0028222056571394205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 174,
+    "start_char": 65376,
+    "end_char": 65820,
+    "original": "13.11 If Party B has to terminate this Agreement due to technical or operating difficulties, Party B shall serve an at least 3 month prior written notice to Party A, and after approved by Party B, offer a one-month exit grace period during which Party B shall continue to provide services for users and publish announcement in respect of the cease of game services at its website (Web/WAP) or through other channels at least 30 days in advance.",
+    "ollama_generated": "13.11 In the event that technical or operating difficulties necessitate the termination of this Agreement by Party B, a written notice shall be provided to Party A with a minimum duration of three months' advance notice. During this time, Party B remains responsible for providing services to users and will announce the cessation of game services on its website (Web/WAP) or through other channels at least 30 days prior to the termination date. Notwithstanding the foregoing, Party A shall have no obligation to continue paying fees during this exit grace period.",
+    "contradiction_score": 0.008794555440545082,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 183,
+    "start_char": 67638,
+    "end_char": 67699,
+    "original": "By authorized representative: Zhang Peng Signature and stamp:",
+    "ollama_generated": "By duly authorized agent: Zhang Peng, Submission of signature and stamp shall be deemed as final approval and binding acceptance of this agreement, understanding that any errors or ambiguities shall be interpreted in favor of the party providing the representation.\n\nExplanation: The original clause states that Zhang Peng's signature and stamp represent authorization. In the revised clause, Zhang Peng's signature and stamp are changed to final approval and binding acceptance of this agreement, making the obligation slightly stronger and shifting responsibility from the party asking for the signature to Zhang Peng. Additionally, any errors or ambiguities in the agreement will be interpreted in favor of the party providing the representation, which shifts some risk from the main contracting party to the agent (Zhang Peng).",
+    "contradiction_score": 0.06907594203948975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 67699,
+    "end_char": 67811,
+    "original": "[Company seal is affixed ] /s/ Zhang Peng Date: January 1, 2013 Party B: Shenzhen iDreamSky Technology Co., Ltd.",
+    "modified": "[Company seal is affixed] /s/ Zhang Peng Date: January 1, 2013\nParty A: Shenzhen iDreamSky Technology Co., Ltd.\n\nThis document is binding upon acceptance by either party, as indicated by their respective signatures below, and any subsequent changes or amendments shall be effective only upon written agreement signed by both parties. It is understood that Party A retains the sole responsibility for the validity of its signature and the authority to bind itself contractually, without the need for further approval or consent from any other party or entity.",
+    "contradiction_score": 0.764506459236145,
+    "kept": true
+  },
+  {
+    "clause_index": 186,
+    "start_char": 67874,
+    "end_char": 68016,
+    "original": "[Company seal is affixed ] /s/ Chen Xiangyu    Date: January 1, 2013 Page 25 of 29 Jiangsu Telecom Contract No.: JSXCS1200166CC000 Appendix 1:",
+    "ollama_generated": "[Company seal is affixed] /s/ Chen Xiangyu  Date: January 1, 2013 Page 25 of 29 Jiangsu Telecom Contract No.: JSXCS1200166CC000 Appendix 1:\n\nIn the event that the Parties hereto may deem it necessary or advisable to make any amendments, modifications, or supplements to this Agreement, the Party seeking such changes shall be responsible for initiating the process and obtaining the consent of the other Party prior to implementing any such alterations. This clause is intended to ensure a collaborative approach in maintaining the integrity and effectiveness of this Agreement throughout its term.\n\n(Original Clause: This Agreement may not be amended, modified or supplemented without the written consent of both Parties hereto. Any attempt to do so without such consent shall be void.)",
+    "contradiction_score": 0.11308277398347855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 68016,
+    "end_char": 68275,
+    "original": "Integrity Agreement In order to jointly safeguard the company interests of both Parties and cause the parties and their respective working staff to practice in an integral manner, in accordance with relevant laws and regulations, the Parties agree as follows:",
+    "ollama_generated": "Integrity Pledge\nIn recognition of the mutual benefit that collaboration between the Parties offers, and to promote ethical conduct among all involved, adhering to applicable laws and regulations, the Parties mutually obligate themselves to the following terms:\n\nThe Parties shall bear no responsibility for any actions taken by their respective employees that may potentially breach this pledge. Rather, it is the responsibility of each individual employee to uphold the integrity of the company, with consequences for non-compliance falling solely on the employee concerned.",
+    "contradiction_score": 0.06262630969285965,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 192,
+    "start_char": 69033,
+    "end_char": 69239,
+    "original": "5 Party A\u2019s working staff shall not privately discuss this project with Party B or reach a tacit understanding with Party B, nor disclose any bidding internal control information or corporate trade secrets.",
+    "ollama_generated": "5 Party A acknowledges and agrees that its employees shall refrain from engaging in private discussions regarding this project with Party B, and abstain from tacitly agreeing on any matters related to the project without written consent. Furthermore, Party A ensures that its staff will not disclose any proprietary bidding information or corporate trade secrets belonging to Party A, unless expressly authorized or required by law. In the event of any breach of this provision, Party A shall promptly notify and cooperate with Party B in resolving the issue.",
+    "contradiction_score": 0.003390045603737235,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 193,
+    "start_char": 69239,
+    "end_char": 69412,
+    "original": "6 Party A\u2019s working staff shall not seek benefits for his/her family members, relatives or friends in the project by taking advantage of his/her powers or official capacity.",
+    "ollama_generated": "6. It is explicitly prohibited for any member of Party A's workforce to leverage their position or authority within the project for personal gain, specifically benefits extended to family members, relatives, or associates. Any such actions shall be considered a breach of this agreement and may result in appropriate disciplinary action.",
+    "contradiction_score": 0.0011085480218753219,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 199,
+    "start_char": 70302,
+    "end_char": 70931,
+    "original": "If Party A discovers that Party B violates this Agreement, bribes Party A\u2019s working staff, or has committed any commercial bribery being investigated by judicial authority, Party A shall have the right to suspend the agreement and depending on the actual situation and consequences thereof, claim compensation from Party B for the economic loss thus incurred to Party A, record such bad acts of Party B, disallow Party B the access to Party A\u2019s full corporate scope to engage in the various services, supplies, construction and other project cooperation for 1 to 3 years, Call number for each Party to accept violation reporting:",
+    "ollama_generated": "Should it transpire that Party B infringes upon this Agreement, offers a bribe to Party A's staff, or is under investigation by a judicial authority for commercial bribery, Party A retains the discretion to temporarily pause the agreement. In such an event, Party A may seek reparation from Party B for any financial loss sustained, document these unlawful actions of Party B, restrict Party B's access to Party A's corporate domains for a period of 1 to 3 years, and communicate designated numbers for reporting violations to both Parties.",
+    "contradiction_score": 0.0009022156591527164,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 210,
+    "start_char": 75058,
+    "end_char": 75837,
+    "original": "Article 6 It shall establish efficient information safety and confidentiality management policies and technical protective measures, and accept the management, supervision and inspection of relevant competent authority of the relevant business of Dazzle Interactive Network Technologies Co., Article 7 in case of any violations of the above, Dazzle Interactive Network Technologies Co., Ltd. may take necessary actions, close relevant information source access\u037e in case of serious violation, Dazzle Interactive may terminate the cooperation business and claim legal responsibility from the information source provider. These undertakings will take effect upon executed by the information source provider and be kept in custody by Dazzle Interactive Network Technologies Co., Ltd.",
+    "ollama_generated": "Article 6: The Data Provider shall implement robust data security and confidentiality management practices, as well as appropriate technical safeguards, subject to the oversight, regulation, and audit by the relevant competent authority of Dazzle Interactive Network Technologies Co.'s operations. In the event of any breaches of these guidelines, Dazzle Interactive Network Technologies Co., Ltd. reserves the right to implement remedial measures, which may include limiting or revoking Data Provider's access to relevant information sources. For severe infractions, Dazzle Interactive may choose not to renew the cooperation agreement and pursue legal recourse against the Data Provider. These commitments will become binding upon execution by the Data Provider and shall be maintained by Dazzle Interactive Network Technologies Co., Ltd. for reference.",
+    "contradiction_score": 0.04422537237405777,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

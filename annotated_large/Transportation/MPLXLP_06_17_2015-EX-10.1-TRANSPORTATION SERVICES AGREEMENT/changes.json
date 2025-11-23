@@ -1,0 +1,267 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 2890,
+    "end_char": 3148,
+    "original": "\u201cChange in Law\u201d means the adoption, implementation or amendment of any Applicable Law by any Governmental Authority after the Effective Date that causes MPL to incur additional expenses in order to operate the Pipeline in compliance with such Applicable Law.",
+    "ollama_generated": "\"Alteration in Regulation\" refers to the introduction, modification, or enhancement of any applicable statute or rule enacted by a Competent Authority subsequent to the Effective Date, which necessitates MPL to bear extra costs for maintaining compliance with such revised regulation during pipeline operation. This includes any changes that do not impose additional expenses on MPL prior to the Effective Date.",
+    "contradiction_score": 0.4649820029735565,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 6435,
+    "end_char": 6593,
+    "original": "\u201cDay\u201d means a period of twenty-four (24) consecutive hours commencing 12:00 a.m. Central Standard Time, or such other period upon which the Parties may agree.",
+    "modified": "\"Day\" denotes a span of twenty-four (24) continuous hours initiating at 12:00 p.m., Central Standard Time. This definition, however, remains subject to modification by mutual consent between the Parties, should they choose to deviate from the standard timing.",
+    "contradiction_score": 0.8424334526062012,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 6598,
+    "end_char": 6659,
+    "original": "\u201cDeficiency Volume\u201d has the meaning set forth in Section 3.5.",
+    "ollama_generated": "\"For purposes of this Agreement, the term 'Deficiency Volume' shall be construed as defined in Section 3.5.\"\n\nThis revised clause maintains the original's professional tone but slightly changes the focus by using the phrase \"for purposes of this Agreement\" instead of directly referencing the section number, implying that the definition provided in Section 3.5 is to be understood within the context of this agreement rather than universally.",
+    "contradiction_score": 0.002290689153596759,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 6792,
+    "end_char": 6853,
+    "original": "\u201cElection Deadline\u201d has the meaning set forth in Section 6.6.",
+    "ollama_generated": "\"The stipulated 'Election Deadline' as detailed in Section 6.6, shall be subject to extension at the discretion of the governing body, if deemed necessary for a fair and thorough decision-making process.\"",
+    "contradiction_score": 0.006372024770826101,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 8407,
+    "end_char": 8842,
+    "original": "\u201cJoint Agreement\u201d means the agreement between ORPL and MPL to undertake certain improvements to provide expanded capacity on portions of the ORPL systems and install additional infrastructure to portions of the MPL systems pursuant to a multi-phase capital project. This agreement will also establish a joint tariff between ORPL and MPL, which derives both entities local movements and rates. MPL will ultimately file the joint tariff.",
+    "ollama_generated": "\"Joint Project Understanding\" denotes the mutual commitment between ORPL and MPL regarding the implementation of specific enhancements aimed at increasing capacity within certain ORPL systems and integrating new infrastructure into designated areas of the MPL systems. This undertaking will also institute a shared tariff system, encompassing both entities' local transportation fees and rates. Notably, ORPL shall assume responsibility for the filing of this jointly determined tariff with relevant authorities.",
+    "contradiction_score": 0.42788639664649963,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 9303,
+    "end_char": 9617,
+    "original": "\u201cProduct\u201d means the commodities commonly associated as specialty petroleum products, specifically condensate, natural gasoline, and diluent. Product may also include liquefied petroleum gas commodities such as butane. Product, as designed in this Agreement, does not refer to finished gasoline and diesel products.",
+    "ollama_generated": "\"Commodity\" refers to the specialized petroleum products typically recognized as condensate, natural gasoline, diluent, and liquefied petroleum gas commodities such as butane. In this Agreement, however, the term \"Commodity\" does not encompass finished gasoline or diesel products; rather, any responsibility concerning those products shall lie outside the scope of this agreement.",
+    "contradiction_score": 0.08114686608314514,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 10129,
+    "end_char": 10573,
+    "original": "\u201cQuarterly Volume Commitment\u201d means Shipper\u2019s commitment to ship, or otherwise pay for, each Contract Year of the fifteen (15) year term of this Agreement, at posted Pipeline Tariff Rates as set forth in Exhibit B, which equals a total annual Product volume as determined from Exhibit C.  With respect to the required quarterly volume, the volume of Product is equal to: (a) volume per day multiplied by\u037e (b) the number of Days in such Quarter.",
+    "ollama_generated": "\"Quarterly Volume Obligation\" refers to the Carrier's responsibility to deliver or reimburse for each Contract Year of the fifteen (15) year term of this Agreement, at the published Pipeline Tariff Rates as outlined in Exhibit B, which equates to a total annual Product volume as calculated from Exhibit C. Regarding the necessary quarterly commitment, the quantity of Product is computed as: (a) daily volume multiplied by\u037e (b) the number of Days in such Quarter.\n\nIn this revised clause, the Shipper's obligation has been shifted to the Carrier, making them responsible for the quarterly volume commitment.",
+    "contradiction_score": 0.09409084916114807,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 10587,
+    "end_char": 10691,
+    "original": "The Quarterly Volume Commitment will be reduced proportionately for any partial Quarter during the Term.",
+    "modified": "The Term permits a proportional increase in the Quarterly Volume Commitment for any partial Quarter that exceeds the expected quarterly volume, provided such increment does not surpass the initial commitment level.",
+    "contradiction_score": 0.957157552242279,
+    "kept": true
+  },
+  {
+    "clause_index": 43,
+    "start_char": 11403,
+    "end_char": 11468,
+    "original": "\u201cUnsubscribed Capacity\u201d has the meaning set forth in Section 3.9.",
+    "modified": "\"Referenced Capacity\" shall bear the interpretation as outlined in Section 3.9.\n\nBy using \"Referenced\" instead of \"Unsubscribed\", we've shifted the focus to a pre-existing term, which may have been previously defined or alluded to elsewhere in the contract, thus potentially requiring the reader to seek clarification elsewhere. This could be useful if you want to create ambiguity or direct attention towards another section of the agreement.",
+    "contradiction_score": 0.9699594378471375,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 13843,
+    "end_char": 14447,
+    "original": "3.2 Shipper will have the opportunity to fulfill its Quarterly Volume Commitment on a calendar quarter basis for condensate, natural gasoline, and diluent service. These three Products are interchangeable from a volume commitment standpoint and shipping a total volume of any one or combination of these Products will be applied towards the Quarterly Volume Commitment. Should MPL proceed with butane service, Shipper will also have the opportunity to fulfill its Quarterly Volume Commitment on a calendar quarter basis for butane service, separate from condensate, natural gasoline, and diluent service.",
+    "ollama_generated": "3.2 The Receiver shall be granted the liberty to meet their Quarterly Volume Obligation on a calendar quarter basis for condensate, natural gasoline, and diluent services. For the purpose of satisfying this Obligation, shipments of any one or a mix of these Products will be considered as fulfilling the required volume. Should MPL opt to provide butane services, the Receiver shall likewise have the chance to meet their Quarterly Volume Obligation for butane services independently from condensate, natural gasoline, and diluent services on a calendar quarter basis.\n\nIn this revised clause, the focus has been shifted from the Shipper (the original obligor) to the Receiver (the new obligor), who is now granted the liberty or opportunity to fulfill their Quarterly Volume Obligation, rather than having it as an expectation or obligation on their part.",
+    "contradiction_score": 0.07532630115747452,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 14681,
+    "end_char": 15562,
+    "original": "3.4 Shipper agrees to pay MPL monthly: (a) the Tariff Rates in effect for all Shipper Deliveries transported by MPL on the Pipeline during such month\u037e and (b) any loading, handling, transfer and other charges incurred with respect to such Shipper Deliveries for such month in accordance with the provisions as set forth in the Tariffs (or any other tariffs that may be applicable to such Shipper Deliveries). If the amount owed by Shipper is the subject of a good faith dispute, Shipper shall be obligated to pay only the undisputed portion of such amount pending the resolution of such dispute in accordance with this Agreement. Late payments of undisputed amounts shall accrue interest at a rate equal to two percent (2%) per annum, until paid. Such payments will be paid by Shipper to MPL within fifteen (15) Days of the invoice date or resolution of any dispute, if applicable.",
+    "ollama_generated": "3.4. Recipient (MPL) shall have the right to collect from the Provider (Shipper), on a monthly basis, the following amounts: (a) the Tariff Rates as currently applied to all Deliveries made by Shipper during such month over the Pipeline; and (b) any loading, handling, transfer, and other charges incurred with respect to such Deliveries for said month, as outlined in the Tariffs or any tariffs applicable to those specific Deliveries. It shall be the responsibility of the Provider to contest any amounts disputed within a reasonable timeframe, at which point they will only be liable for the undisputed portion of the amount while the dispute is being resolved in accordance with this Agreement. Any uncontested payments not received within fifteen (15) days from the invoice date or resolution of the dispute, if applicable, shall accrue interest at a rate equal to two percent (2%) per annum until paid.",
+    "contradiction_score": 0.10293371230363846,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 15562,
+    "end_char": 16028,
+    "original": "3.5 Subject to the provisions of Section 5 of this Agreement, if the volume of each Product shipped by Shipper on the Pipeline during the Quarter is less than the applicable Quarterly Volume Commitment for that Product then, in addition to paying any amounts incurred by Shipper pursuant to Section 3.4 with respect to Shipper Deliveries for such Quarter, Shipper shall also pay MPL a deficiency payment (the \u201cQuarterly Deficiency Payment\u201d)\u037e equal to the product of:",
+    "ollama_generated": "3.5 In the event that the volume of each Product delivered by Shipper through the Pipeline during a Quarter exceeds the applicable Quarterly Volume Commitment for that Product, and only then, in addition to fulfilling any obligations outlined in Section 3.4 regarding Shipper Deliveries for that Quarter, Shipper shall remit an excess payment (the \u201cQuarterly Excess Payment\u201d) to MPL. This excess payment will be calculated as the product of:\n\nThis modification weakens the obligation of the Shipper by making them liable for excess payments instead of deficiency payments if they exceed their commitments, and aligns the language with common practices in industry agreements.",
+    "contradiction_score": 0.1963251531124115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 18922,
+    "end_char": 19546,
+    "original": "3.7 Notwithstanding anything in Section 3.5 to the contrary, upon the expiration or termination of this Agreement for any reason to the extent that Shipper, at the time of such expiration or termination, holds any unused Prepaid Transportation Credits, Shipper shall be permitted to apply such Prepaid Transportation Credits against any amounts incurred by Shipper and payable to MPL with respect to any Shipper deliveries on the Pipeline until the expiration of the applicable Credit Period with respect to such Prepaid Transportation Credits. This Section 3.7 shall survive the expiration or termination of this Agreement.",
+    "ollama_generated": "3.7 Despite any provisions in Section 3.5 that might suggest otherwise, if this Agreement ends for any cause and Shipper possesses any unutilized Prepaid Transportation Credits at the time, Shipper will be obliged to use such credits to offset any sums due by Shipper to MPL for Shipper's deliveries on the Pipeline, within the validity period of those specific Prepaid Transportation Credits. This Section 3.7 shall persist even after the termination or expiration of this Agreement.\n\nIn this revised clause, the obligation is shifted to Shipper to use the unused Prepaid Transportation Credits, and the language has been adjusted for clarity and fluency.",
+    "contradiction_score": 0.00254074577242136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 23161,
+    "end_char": 23703,
+    "original": "4.3 If during the term of this Agreement, MPL becomes obligated as a result of a Change in Law Event to bear Compliance Costs, MPL shall have the right to increase the Tariff Rates on the Pipeline, including Shipper\u2019s committed rate as originally executed on Exhibit B in this Agreement or to impose a surcharge on its shippers (including Shipper) to recover such Compliance Costs. If MPL determines to recover any Compliance Costs from its shippers, it will do so in a manner that is reasonable and equitable to all shippers on the Pipeline.",
+    "ollama_generated": "4.3 In the event that, during the term of this Agreement, Shipper incurs Compliance Costs due to a Change in Law Event, Shipper shall have the discretion to pass on these costs by adjusting the Tariff Rates on the Pipeline, including MPL's original committed rate as specified on Exhibit B, or imposing a surcharge on MPL. Should Shipper opt to recuperate any Compliance Costs from MPL, it shall do so in a manner that is fair and proportionate to all parties utilizing the Pipeline.",
+    "contradiction_score": 0.11950087547302246,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 29561,
+    "end_char": 29936,
+    "original": "6.3 If the Shipper has agreed to pay, pursuant to Exhibit B and Exhibit C, a premium rate for transportation of Product on the Pipeline, the Shipper Deliveries shall not be reduced under normal operating conditions if the capacity for Product shipments is otherwise subject to prorationing in accordance with the prorationing provisions in MPL\u2019s Rules and Regulations Tariff.",
+    "ollama_generated": "6.3 Under normal operating conditions, reduction of Shipper Deliveries will not apply when the Shipper has agreed to pay a premium rate for transportation of Product on the Pipeline, as outlined in Exhibit B and Exhibit C. However, if prorationing of capacity for Product shipments is necessary in accordance with the prorationing provisions in MPL's Rules and Regulations Tariff, the Shipper may be subject to reduced deliveries. This does not alter the premium rate agreement between the parties.",
+    "contradiction_score": 0.356587290763855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 31286,
+    "end_char": 31494,
+    "original": "(i) the amount of the proposed expansion capacity\u037e (ii) the expected rates and rules and regulations that will apply to such expansion capacity\u037e (iii) the expected in-service date of such expansion/extension.",
+    "ollama_generated": "1. The anticipated extent of the proposed expansion, subject to change based on our assessment throughout the process;\n   2. The provisional rates, regulations, and conditions that may be applicable to said expansion, understanding these are subject to any amendments or adjustments as necessary;\n   3. The tentative date for bringing the expansion/extension into service, acknowledging that unforeseen circumstances may necessitate a modification to this timeline.",
+    "contradiction_score": 0.12839160859584808,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 33914,
+    "end_char": 34720,
+    "original": "7 Confidentiality 7.1 From and after the Effective Date, each Party shall hold, and shall cause its Affiliates and its and their respective directors, managers, officers, employees, agents, consultants, advisors, contractors, and other representatives (collectively, \u201cRepresentatives\u201d) to hold all Confidential Information of the other Party in strict confidence, with at least the same degree of care that applies to such Party\u2019s confidential and proprietary information and shall not use such Confidential Information except in connection with its performance or acceptance of services hereunder and shall not release or disclose such Confidential Information to any other Person, except its Representatives. Each Party shall be responsible for any breach of this Section 7 by any of its Representatives.",
+    "ollama_generated": "7 Confidentiality 7.1 Commencing on the Effective Date, each Party agrees to safeguard, and obligate their Affiliates and all their respective directors, managers, officers, employees, agents, consultants, advisors, contractors, and other representatives (collectively, \"Representatives\") to exercise due care in maintaining the confidentiality of the other Party's Confidential Information. This duty shall not extend beyond what is necessary for performing or fulfilling their respective obligations under this Agreement. The Parties acknowledge and accept that any unauthorized disclosure or use of the Confidential Information may occur through their Representatives. In such cases, the disclosing Party will not be held responsible for any resulting breaches of confidentiality.",
+    "contradiction_score": 0.14615538716316223,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 34720,
+    "end_char": 35811,
+    "original": "7.2 If a Party receives a subpoena or other demand for disclosure of Confidential Information received from any other Party or must disclose to a Governmental Authority any Confidential Information received from such other Party in order to obtain or maintain any required governmental approval, the receiving Party shall, to the extent legally permissible, provide notice to the providing Party before disclosing such Confidential Information. Upon receipt of such notice, the providing Party shall promptly either seek an appropriate protective order, waive the receiving Party\u2019s confidentiality obligations hereunder to the extent necessary to permit the receiving Party to respond to the demand, or otherwise fully satisfy the subpoena or demand or the requirements of the applicable Governmental Authority. If the receiving Party is legally compelled to disclose such Confidential Information or if the providing Party does not promptly respond as contemplated by this Section 7, the receiving Party may disclose that portion of Confidential Information covered by the notice or demand.",
+    "ollama_generated": "7.2 If a Party is required by law or a Governmental Authority to disclose Confidential Information received from any other Party, the Party shall, to the extent legally permissible and promptly, provide written notice to the providing Party, outlining the nature of the demand. Upon receipt of such notice, the burden of action shifts to the providing Party. The providing Party shall either seek an appropriate protective order, waive its rights to confidentiality under this Agreement to enable the receiving Party to comply with the demand, or otherwise satisfy the legal requirement or the demands of the applicable Governmental Authority. Failure by the providing Party to respond as required by this Section 7 within a reasonable time allows the receiving Party, without breaching this Agreement, to disclose the necessary Confidential Information to meet its obligations.",
+    "contradiction_score": 0.008480854332447052,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 43412,
+    "end_char": 43518,
+    "original": "11.3 Executed Transportation Service Agreements, in form and substance acceptable to both MPL and Shipper.",
+    "ollama_generated": "11.3 The form and substance of any Transportation Service Agreements executed by the parties shall be deemed acceptable to MPL only upon explicit approval from MPL, and such approval may not be unreasonably withheld. The Shipper shall bear the responsibility for any delays or issues arising from failure to meet MPL's requirements in this regard.",
+    "contradiction_score": 0.04962993040680885,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 43518,
+    "end_char": 44240,
+    "original": "If any terms of this Agreement are required to be modified in accordance with a decision, approval or authorization from FERC or any other governmental authority, the Parties agree to reasonably cooperate with one another in amending this Agreement to align with those decisions, approvals and authorizations from FERC or any other governmental agencies. If these conditions precedent are not satisfied for MPL after exercising commercially reasonable efforts to meet such condition precedent, MPL shall have the right to terminate this Agreement by written notice to Shipper. If this Agreement is terminated pursuant to this Section 11, MPL and Shipper shall be released from any and all obligations under this Agreement.",
+    "ollama_generated": "In the event that modifications to any provisions of this Agreement are necessitated due to a directive, sanction, or consent from FERC or any other relevant governmental entity, the Parties acknowledge their willingness to collaborate in good faith to modify this Agreement accordingly. However, if MPL is unable to meet these requirements despite employing reasonable commercial efforts, MPL reserves the option to terminate this Agreement through written notice to Shipper. The termination of this Agreement under this Section 11 shall absolve both MPL and Shipper from any outstanding obligations arising from this Agreement.",
+    "contradiction_score": 0.0010424625361338258,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 45499,
+    "end_char": 45861,
+    "original": "Name: Marathon Petroleum Company LP Address: 539 South Main Street Findlay, OH 45840 Attention: Optimization LP Manager Fax: (419) 421-4232 Name: Craig O. Pierson Address: 539 South Main Street Findlay, OH 45840 Attention: President Fax: (419) 421-3125 or to such other address as such Party may indicate by a notice delivered in accordance with this Section 13.",
+    "modified": "Name: Marathon Petroleum Company LP\n   Address: 539 South Main Street, Findlay, OH 45840\n   Attention: Optimization LP Manager\n   Fax: (419) 421-4232\n\n   Name: Craig O. Pierson\n   Address: 539 South Main Street, Findlay, OH 45840\n   Attention: President\n   Fax: (419) 421-3125\n\n   Or to such other address as the Receiving Party may provide in writing, upon which this document shall be deemed served and binding. The responsibility for ensuring the receipt of all notices lies solely with the Sender, and failure to receive notice due to any reason shall not affect the validity or enforceability of this agreement.",
+    "contradiction_score": 0.5309568047523499,
+    "kept": true
+  },
+  {
+    "clause_index": 107,
+    "start_char": 47023,
+    "end_char": 47373,
+    "original": "16.2 If either Party is in default as described above, then the non-defaulting Party may: (a) terminate this Agreement upon notice to the defaulting Party\u037e (b) withhold any payments due to the defaulting Party under this Agreement\u037e and/or (c) pursue any other remedy at law or in equity if such breach is not remedied as provided for in Section 14.1.",
+    "modified": "16.2 In the event that either Party fails to meet their obligations as outlined previously, the Party unaffected by such default shall have the discretion to: (a) provide written notice to the defaulting Party, allowing a reasonable period for remedy before electing to terminate this Agreement; (b) continue payments due to the defaulting Party, but may choose to withhold any portion deemed necessary to cover costs incurred as a result of such default; and (c) abstain from pursuing any immediate legal or equitable remedies, giving the defaulting Party an opportunity to rectify the breach in accordance with Section 14.1, unless such delay would cause substantial harm to the unaffected Party.",
+    "contradiction_score": 0.8839605450630188,
+    "kept": true
+  },
+  {
+    "clause_index": 108,
+    "start_char": 47373,
+    "end_char": 48539,
+    "original": "17. Credit Requirements and Financial Assurances 17.1 Financial Information. Shipper shall provide to MPL, at any time: (i) upon MPL\u2019s request, information (\u201cFinancial Information\u201d) that will allow MPL to assess (or reassess) and establish creditworthiness and Shipper\u2019s capacity to perform any financial obligations that could arise from the transportation of Shipper\u2019s Crude Petroleum on the Pipeline\u037e and (ii) upon MPL\u2019s good faith determination (which shall be no less than industry standards) of non-creditworthiness, MPL may request, financial assurance in respect of transportation or other services (\u201cFinancial Assurances\u201d). Financial Assurances shall be limited to a guarantee from the parent company of Shipper in a form and substance acceptable to MPL and sufficient in amount to cover 6-months of Shipper\u2019s  obligations to MPL so long as the guarantor has sufficient creditworthiness as set forth in this Section\u037e and if not, MPL may then request an irrevocable standby letter of credit in a form and from an issuer acceptable to MPL, and in an amount no greater than 6-months of tolls based on the Quarterly Volume Commitment, plus all applicable taxes.",
+    "ollama_generated": "17. Financial Obligations and Credit Assurances\n\n17.1 Financial Information. MPL shall have the right to request, at any time, financial information (\"Financial Information\") from Shipper that will enable us to evaluate (or re-evaluate) Shipper's creditworthiness and ability to fulfill any financial responsibilities stemming from the transportation of Shipper's Crude Petroleum through the Pipeline. In case MPL deems, in good faith, that Shipper may not meet these criteria, we reserve the option to request, financial assurances (\"Financial Assurances\") in relation to the transportation or other services provided.\n\n17.2 Financial Assurances shall consist of a guarantee from Shipper's parent company, in a form and substance acceptable to MPL, providing coverage for a period of 6-months equivalent to Shipper's obligations towards MPL, provided that the guarantor meets the creditworthiness standards outlined within this Section. If the guarantor does not meet these standards, MPL may request an irrevocable standby letter of credit, issuable by a bank acceptable to us, in an amount equal to 6-months' tolls based on the Quarterly Volume Commitment, plus all applicable taxes. However, in this case, the letter of credit shall only be invoked as a last resort and if alternative financial assurances, meeting MPL\u2019s requirements, have not been provided by Shipper.",
+    "contradiction_score": 0.27790823578834534,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 48908,
+    "end_char": 49499,
+    "original": "18. Miscellaneous 18.1 Wherever possible, each provision hereof shall be interpreted in such a manner as to be effective and valid under Applicable Law, but in case any one or more of the provisions contained herein shall, for any reason, be held to be invalid, illegal or unenforceable in any respect, such provision or provisions shall be ineffective to the extent, but only to the extent, of such invalidity, illegality or unenforceability without invalidating the remainder of such provision or provisions or any other provisions hereof, unless such a construction would be unreasonable.",
+    "ollama_generated": "18. Miscellaneous\n18.1 In the event that any provision within this Agreement is deemed incompatible with Applicable Law for any reason, it shall be interpreted to the greatest extent possible to remain effective and valid under such law. However, should any one or more provisions prove to be invalid, illegal, or unenforceable in any respect, such provision(s) shall be nullified to the minimum extent necessary without rendering the entire Agreement, or the remaining portion of the affected provision, null and void unless a reasonable interpretation that preserves the original intent is not feasible.",
+    "contradiction_score": 0.3055191934108734,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 50266,
+    "end_char": 50603,
+    "original": "18.4 Neither Party shall, without the approval of the other Party, make any press release or other public announcement concerning the transactions contemplated by this Agreement, except as and to the extent that either Party shall be so obligated by Applicable Law or the rules of any regulatory body, stock exchange or quotation system.",
+    "ollama_generated": "18.4 It is hereby understood that neither Party possesses an unconditional right to issue any press release or public announcement pertaining to the transactions outlined in this Agreement, without prior written consent from the other Party. Such permission may be withheld at the sole discretion of the recipient. However, each Party retains the ability to disclose information as required by Applicable Law, regulations, or mandates established by any relevant regulatory body, stock exchange, or quotation system.",
+    "contradiction_score": 0.008090969175100327,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 53147,
+    "end_char": 54548,
+    "original": "Deliveries to Canton will begin in late 2016 and deliveries to other locations will begin in mid-2017 The tariff rate for the first year of movements can be found in Appendix 4 The tariff rate will be adjusted annually in accordance with the standard FERC annual oil pipeline indexing methodology Marathon Pipe Line LLC & Ohio River Pipe Line LLC CONFIDENTIAL AND PROPRIETARY Appendix 5 - Capacity Request Form (CRF) - Ratable Volume(1) Please complete one form for each product type per delivery location Name of Shipper: Marathon Petroleum Company LP Term/Service [Priority, (5,10, 15 Year) Non-Priority] Priority 5 Year Product Type [Condensate, Natural Gasoline, Diluent or Butane]: Natural Gasoline Year Desired Volume Origination Location Delivery Location Rate 1 10 MBPD Cadiz/Scio Hammond $ 6.96 2 10 MBPD Cadiz/Scio Hammond $ 6.96 3 10 MBPD Cadiz/Scio Hammond $ 6.96 4 10 MBPD Cadiz/Scio Hammond $ 6.96 5 10 MBPD Cadiz/Scio Hammond $ 6.96 6 0 MBPD Cadiz/Scio Hammond $ 6.96 7 0 MBPD Cadiz/Scio Hammond $ 6.96 8 0 MBPD Cadiz/Scio Hammond $ 6.96 9 0 MBPD Cadiz/Scio Hammond $ 6.96 10 0 MBPD Cadiz/Scio Hammond $ 6.96 11 0 MBPD Cadiz/Scio Hammond $ 6.96 12 0 MBPD Cadiz/Scio Hammond $ 6.96 13 0 MBPD Cadiz/Scio Hammond $ 6.96 14 0 MBPD Cadiz/Scio Hammond $ 6.96 15 0 MBPD Cadiz/Scio Hammond $ 6.96 (1) - Assumes shipper transports the same volume on a per day basis each month of the year Notes:",
+    "ollama_generated": "Deliveries to Canton may commence at Marathon's discretion, with deliveries to other locations starting no earlier than mid-2017. The tariff rate for the first year of movements is outlined in Appendix 4. The tariff rate will be subject to adjustment annually, in accordance with the standard FERC annual oil pipeline indexing methodology, effective as of the beginning of each calendar year. Marathon Pipe Line LLC & Ohio River Pipe Line LLC reserve the right to modify or withdraw this rate at any time.\n\nAppendix 5 - Capacity Request Form (CRF) - Ratable Volume(1)\nPlease submit one form for each product type per delivery location.\nName of Shipper: Marathon Petroleum Company LP\nTerm/Service [Priority, (5,10, 15 Year) Non-Priority]: Priority 5 Year\nProduct Type [Condensate, Natural Gasoline, Diluent or Butane]: Natural Gasoline\nYear Desired Volume: As mutually agreed upon between the parties\nOrigination Location: Delivery Location: Rate\n1: 10 MBPD Cadiz/Scio Hammond: $6.96\n2: 10 MBPD (as per Shipper's requirement) Cadiz/Scio Hammond: The rate may be subject to change\n3: 10 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n4: 10 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n5: 10 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n6: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n7: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n8: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n9: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n10: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n11: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n12: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n13: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n14: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n15: 0 MBPD Cadiz/Scio Hammond: The rate may be subject to change\n(1) - Shipper is responsible for ensuring that the transported volume remains consistent on a per day basis each month of the year, unless otherwise agreed upon in writing by both parties.",
+    "contradiction_score": 0.027473079040646553,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 56963,
+    "end_char": 57338,
+    "original": "Deliveries to Canton will begin in late 2016 and deliveries to other locations will begin in mid-2017 The tariff rate for the first year of movements can be found in Appendix 4 The tariff rate will be adjusted annually in accordance with the standard FERC annual oil pipeline indexing methodology Marathon Pipe Line LLC & Ohio River Pipe Line LLC CONFIDENTIAL AND PROPRIETARY",
+    "ollama_generated": "Initiation of Deliveries:\n- Deliveries to Canton are expected to commence from early 2017, with deliveries to other locations following suit in late 2017.\n- The initial tariff rate for the first year of transactions can be found in Appendix 4.\n- The tariff rate will undergo an annual review and adjustment, in accordance with the established FERC annual oil pipeline indexing methodology.\n- It is important to note that any tariff rates provided herein are considered confidential and proprietary, and should be handled accordingly.\nMarathon Pipe Line LLC & Ohio River Pipe Line LLC",
+    "contradiction_score": 0.02947971411049366,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

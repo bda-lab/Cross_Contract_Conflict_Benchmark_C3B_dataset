@@ -1,0 +1,170 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 693,
+    "end_char": 751,
+    "original": "Background Cargill and Bioamber mutually agree as follows:",
+    "ollama_generated": "In light of the mutual understanding between Cargill and Bioamber, the following points are established:\n\nParties shall hold harmless each other from any claims, demands, liabilities, damages, losses, or expenses arising out of or related to the performance of either party's obligations under this Agreement, except where such claim, demand, liability, damage, loss, or expense results from the gross negligence or willful misconduct of the party claiming harmless.\n\nIn contrast to the original clause, this revised version provides protection for both parties but only in situations where the breach is not due to gross negligence or willful misconduct. This change effectively weakens the obligation to hold each other harmless under certain circumstances.",
+    "contradiction_score": 0.047303207218647,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 751,
+    "end_char": 1044,
+    "original": "Cargill  Confidential * Confidential treatment requested  A. Cargill has developed a yeast strain designated CB1 ( \u201cCB1\u201d) for fermenting dextrose and/or mixed sugar streams and related research tools for modifying  CB1,which are protected by Licensed Patents (as defined in Section 2.5 below).",
+    "modified": "Clause:\n\nCargill * Confidential treatment requested\nB. It is acknowledged that the party receiving this information, hereinafter referred to as \"Recipient,\" has come into possession of a yeast strain designated CB1 (\"CB1\") and associated research tools for modifying CB1, which are not exclusively owned by Cargill but may be subject to Licensed Patents (as defined in Section 2.5 below). The Recipient shall undertake all reasonable efforts to maintain the confidentiality of this information and prevent unauthorized disclosure or use. However, any obligation for the Recipient to preserve the secrecy of CB1 shall cease upon:\n\n1. The public disclosure of CB1 by a third party without fault on the part of the Recipient;\n2. The granting of a license to CB1 by Cargill to the Recipient or any affiliated entity;\n3. Any order or requirement by a court, governmental agency, or regulatory body with competent jurisdiction, subject to Recipient giving prompt written notice to Cargill of such disclosure and cooperating with Cargill in seeking an appropriate protective order or other remedy. In the event that the Recipient is required to disclose CB1 in this manner, it shall use reasonable efforts to limit the scope and amount of information disclosed to what is legally necessary.\n\nCargill bears no liability for any damages, claims, losses, liabilities, or expenses (including attorneys' fees) that may arise from the Recipient's use or handling of CB1. The Recipient hereby agrees to indemnify and hold Cargill harmless from any such claims or demands arising out of its possession, use, or disclosure of CB1.\n\nIn the event that the Recipient improperly uses or discloses CB1, the parties agree that irreparable harm may occur to Cargill for which monetary damages would be an inadequate remedy. In such cases, Cargill shall be entitled to seek equitable relief in the form of an injunction against further use or disclosure of CB1 by the Recipient.",
+    "contradiction_score": 0.7477676868438721,
+    "kept": true
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1044,
+    "end_char": 1223,
+    "original": "B. Bioamber desires to engage Cargill to further develop or modify CB1 with the goal of fermenting dextrose and/or mixed sugar streams to produce succinic acid and salts  thereof.",
+    "ollama_generated": "A. It is understood that Cargill's services are sought by Bioamber, with the aim of exploring, refining, or adjusting CB1's composition for the purpose of fermenting dextrose and/or mixed sugar streams, ultimately resulting in the production of succinic acid and its associated salts. The responsibility for initiating and guiding this process lies primarily with Cargill.",
+    "contradiction_score": 0.01362563669681549,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 11303,
+    "end_char": 12090,
+    "original": "Cargill  Confidential * Confidential treatment requested 2.7 Scale -Up. Following the successful technology transfer, upon request by Bioamber and subject to Cargill \u2019s availability of appropriate resources, Cargill  will enter at its sole discretion into a services agreement with Bioamber to assist in the fermentation scale -up of using Modified CB1 obtained under Milestones 2 and 3 for producing succinic acid and salts thereof at a single Bioamber facility or a  facility designated by Bioamber. Cargill shall invoice Bioamber [***] U.S. Dollars (US$[***]) per man -day provided, not inclusive of taxes or other governmental fees, and further adjusted for inflation at the time it goes into effect. Cargill shall  have no obligation to perform scale -up work at Cargill facilities.",
+    "ollama_generated": "2.7 Scale-Up. Upon successful technology transfer, upon Bioamber's request, and provided that resources suitable for such undertaking are available with Bioamber, Bioamber will be granted the discretion to engage Cargill in a services agreement for assistance in the fermentation scale-up of Modified CB1 obtained under Milestones 2 and 3. This collaboration will be directed towards producing succinic acid and salts thereof at a facility chosen by Bioamber, with Bioamber covering all costs associated with this project, including but not limited to labor expenses, expressed in U.S. Dollars (US$[***]) per man-day, exclusive of taxes or other governmental fees, with adjustments for inflation implemented at the time the agreement is executed. It should be noted that Cargill shall not be obligated to execute scale-up work at any Cargill facilities.",
+    "contradiction_score": 0.0024688350968062878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 15634,
+    "end_char": 16182,
+    "original": "The Receiving Party agrees to  disclose the Confidential Information of the Disclosing Party only to employees or agents of the Receiving Party who are directly involved with the Work Plan contemplated by this Development Agreement, and even then only to such extent as is necessary and essential to perform the Work Plan. The Receiving Party agrees to inform such employees and agents of the confidential nature of the information disclosed hereunder and to cause all such employees and agents to abide by the terms of  this Development Agreement.",
+    "ollama_generated": "The Disclosing Party authorizes the Receiving Party to share its Confidential Information with selected personnel or designated contractors, who are deemed essential for executing the Work Plan outlined in this Development Agreement. It is understood that these individuals will only receive information required to fulfill their responsibilities and abide by the conditions stipulated within this agreement. The onus is on the Receiving Party to ensure all recipients are aware of the confidential nature of the shared data, but it is not obligated to oversee or enforce their compliance with this Development Agreement beyond reasonable efforts.",
+    "contradiction_score": 0.01851739175617695,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 25554,
+    "end_char": 25858,
+    "original": "5.3 In consideration of the ownership rights granted to Bioamber under this Section 5, and the licenses granted to Bioamber under this Section 5 and the  Commercial License attached as Exhibit D, Bioamber agrees to the payment terms and its other obligations contained in the attached Commercial License.",
+    "modified": "5.3 Granted the ownership rights conferred upon Bioblue by this Section 5, and the licenses bestowed upon Bioblue under this Section 5 and the Commercial License appended as Exhibit D, Bioblue consents to the payment terms and its other responsibilities, as outlined in the Commercial License, contingent upon Bioblue's discretion and subject to any adjustments deemed necessary by Bioblue.",
+    "contradiction_score": 0.9201377630233765,
+    "kept": true
+  },
+  {
+    "clause_index": 45,
+    "start_char": 25858,
+    "end_char": 26500,
+    "original": "6. WRF Patents. Washington Research Foundation (WRF) is the owner of several patents relating to the expression of polypeptides in yeast (\u201cWRF  Patents\u201d). Prior to transferring CB1 or any other yeast strain to Bioamber, Bioamber shall provide to Cargill a letter from WRF stating that Bioamber has a license to the WRF Patents ( \u201cBioamber -WRF License \u201d). Upon receipt of  such letter, Cargill will transfer CB1 to Bioamber for Bioamber \u2019s use of the strain commensurate with and in accordance with the Bioamber -WRF License. Cargill shall have no liability to Bioamber for Bioamber \u2019s acts or failure to act  with respect to the WRF Patents.",
+    "ollama_generated": "6. Licensing Obligations Regarding WRF Patents. Bioamber is responsible for obtaining a valid and enforceable license from the Washington Research Foundation (WRF) for the use of their patents relating to the expression of polypeptides in yeast (\"WRF Patents\"). Prior to receiving CB1 or any other yeast strain from Cargill, Bioamber must provide Cargill with evidence demonstrating this licensing arrangement (\"Bioamber - WRF License\"). Upon Bioamber's presentation of such evidence, Cargill will consider transferring CB1 to Bioamber for use in accordance with the terms and conditions of the Bioamber -WRF License. Under no circumstances shall Cargill be held liable for any issues arising from Bioamber's use or misuse of the WRF Patents or its associated technologies.",
+    "contradiction_score": 0.043823543936014175,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 28474,
+    "end_char": 28641,
+    "original": "Cargill,  Incorporated Law Department / Mailstop 24 15407 McGinty Road West Wayzata, Minnesota 55391 USA Fax: 952 -742-6349 Attention: Bio TDC IP  Lawyer With copy to:",
+    "ollama_generated": "Recipient (hereafter referred to as \"Party\"), Attn: Legal Department, [Your Address] Fax: [Your Fax Number]\n\nCargill, Incorporated Law Department / Mailstop 24\n15407 McGinty Road West Wayzata, Minnesota 55391 USA\nAttn: IP Lawyer for Bio TDC\nWith a copy to: [Other relevant contacts at Cargill]\n\nSubject: Amended Clause Regarding Intellectual Property Obligations\n\nIn the event of any dispute or disagreement arising from this agreement, the burden of proof shall not be limited solely to the Party that has asserted a claim but may extend to both parties. The onus of providing evidence to substantiate their respective positions shall be shared equally, unless otherwise specified in writing. This provision is intended to promote fairness and transparency throughout any resolution process.",
+    "contradiction_score": 0.005645054392516613,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 30590,
+    "end_char": 30673,
+    "original": "Cargill  Confidential - 11 - * Confidential treatment requested 13. Miscellaneous .",
+    "ollama_generated": "Title: Miscellaneous (Revised)\n\nClause: Cargill Confidential - 11 - * Request for Limited Disclosure - 13.\n\nIn the event that this Agreement necessitates the disclosure of confidential information to a third party, Cargill shall endeavor to minimize such disclosure and ensure that the recipient agrees in writing to maintain the confidentiality of such information. However, Cargill shall not be held liable for any unauthorized disclosures or breaches of confidentiality by third parties to whom disclosure has been made in compliance with this Agreement.",
+    "contradiction_score": 0.03369257599115372,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 30673,
+    "end_char": 31454,
+    "original": "13.1 Third Party Patents . In addition to the WRF Patents as described more fully in Section 6, the CB1 Team of the Bio Technology Development Center of Cargill  represents that, to the best of its knowledge as of the Effective Date, the patents and patent applications of third parties that could impact the Work Plan and the commercialization thereof are provided in Exhibit E ( \u201cThird Party  Patents\u201d). Cargill shall have no liability to Bioamber for Bioamber \u2019s acts or failure to act with respect to such Third Party Patents. The Parties shall meet regularly throughout the Term of this Development Agreement to determine whether  or not licenses to Third Party Patents are needed to perform or continue to perform the Work Plan and the next steps if such licenses are needed.",
+    "ollama_generated": "13.1 Third-Party Patents: Beyond the patents detailed in Section 6 (WRF Patents), the CB1 Team of Cargill's Bio Technology Development Center represents, to the best of its knowledge as of the Effective Date, that all third-party patents and patent applications potentially affecting the Work Plan and its commercialization are listed in Exhibit E (Third Party Patents). Bioamber shall bear sole responsibility for any actions or omissions regarding these Third Party Patents. It is expected that the parties will convene frequently throughout the term of this Development Agreement to assess whether licenses for Third Party Patents are required for the execution or continuation of the Work Plan, and if so, it will be Bioamber's responsibility to secure these licenses. Cargill shall not be held liable for any potential issues arising from Bioamber's failure to obtain such licenses.",
+    "contradiction_score": 0.0051665171049535275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 32456,
+    "end_char": 32716,
+    "original": "13.6 Severability . All provisions contained herein are severable, and in the event any of them is held to be invalid by any competent court or arbitrator, this  Development Agreement is to be interpreted as if such invalid provision were not contained herein.",
+    "ollama_generated": "13.6 Interpretation Without Affected Provisions . In the event that any provisions of this Development Agreement are found to be unenforceable or invalid by a competent court or arbitrator, the remainder of this agreement shall remain binding and enforceable, and the intent of the parties in executing this agreement without the unenforceable or invalid provision(s) will be replaced with an acceptable substitute provision that reflects their original intent as closely as possible. The parties acknowledge that an acceptable substitute provision may not fully restore the effect of the unenforceable or invalid provision, but they agree to work together in good faith to establish a mutually satisfactory alternative.",
+    "contradiction_score": 0.02552250772714615,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 35341,
+    "end_char": 35468,
+    "original": "The Parties, through their authorized representatives, hereby agree to the terms and conditions of this  Development Agreement.",
+    "ollama_generated": "The Parties, empowered by their respective duly appointed agents, hereby acknowledge their mutual understanding and acceptance of the provisions contained within this Development Agreement.",
+    "contradiction_score": 0.0007035885355435312,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 36481,
+    "end_char": 36511,
+    "original": "Additional Fee Option Content:",
+    "ollama_generated": "Additional Charge Opt-in Provision:\n\nUpon your request, there shall be an optional fee applicable to certain services or goods provided by us. By expressly indicating your consent, you hereby accept that such fee may be charged, and you waive any right to dispute the reasonableness of such charge. Our decision on the applicability and amount of this additional charge shall be final and binding. In the event of non-payment, we reserve the right to withhold or cancel the requested services or goods.",
+    "contradiction_score": 0.017769014462828636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 36511,
+    "end_char": 36875,
+    "original": "Cargill  Confidential - 15 - * Confidential treatment requested  \u2022 [***] \u2022 [***] \u2022 [***] \u2022 [***] \u2022 [***] \u2022 The price will be negotiated, but as of the Effective Date of this Agreement, the fair market value is base package price of US $[***] \u2022 Genome sequence of CB1, including assembly and annotations as is Cargill \u2019s state of the art at the time of the request.",
+    "ollama_generated": "Confidential - 15 - * Request for Confidential Treatment \u2022 [***] \u2022 [***] \u2022 [***] \u2022 [***] \u2022 [***]\n\nThe disclosure of pricing details is subject to negotiation, with the understanding that as of the Effective Date of this Agreement, the base package price serves as a guide for fair market value, which may be subject to change. In regards to the genome sequence of CB1, Cargill will provide access to the most current state-of-the-art assembly and annotations available at the time of request, but no guarantee is made as to the accuracy or completeness of this data.\n\nIn this version, the obligation for providing a specific price has been weakened by stating that it serves as a guide for fair market value, which may be subject to change. Additionally, responsibility for the accuracy and completeness of genome sequence data has been shifted from explicit promise to providing access to \"the most current state-of-the-art\" data available at the time of request.",
+    "contradiction_score": 0.004753069952130318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 36875,
+    "end_char": 37619,
+    "original": "\u2022 The price will be negotiated, but as of the Effective Date of this Development Agreement, the fair market value is price of US $[***] EXHIBIT D COMMERCIAL LICENSE AGREEMENT Cargill  Confidential - 16 - * Confidential treatment requested EXHIBIT E Third Party Patents relating to the Work Plan Third Party Patents relating to Modified Work Plan Cargill  Confidential - 17 - * Confidential treatment requested Publication number and title  Assignee Publication number and title  Assignee EXHIBIT F Cargill\u2019s Guiding Principles Cargill\u2019s Compliance Policy on Intellectual Property [*** 2 pages omitted.] Cargill  Confidential - 18 - * Confidential treatment requested  \u2022 Cargill will comply with the laws of all countries to which it is subject.",
+    "ollama_generated": "\u2022 The price, initially determined as US $[***], may be subject to renegotiation at any time during the term of this Development Agreement, based on mutual agreement between the parties. However, in the absence of such renegotiation, the initial agreed price shall remain the baseline for all subsequent transactions.\n\nAs of the Effective Date of this Development Agreement, it is understood that the fair market value for the services rendered under this agreement is reflected in the aforementioned price as stated in EXHIBIT D COMMERCIAL LICENSE AGREEMENT with Cargill.\n\nConfidential - 16 - * Confidential treatment requested:\n- EXHIBIT D Third Party Patents relating to the Work Plan\n- EXHIBIT E Third Party Patents relating to Modified Work Plan\nCargill  Confidential - 17 - * Confidential treatment requested:\n- Publication number and title\n- Assignee\n\nEXHIBIT F Cargill\u2019s Guiding Principles and Compliance Policy on Intellectual Property [*** 2 pages omitted.] Cargill  Confidential - 18 - * Confidential treatment requested.\n\nIn regard to compliance with the laws of all countries, while Cargill acknowledges its responsibility to adhere to such legal requirements, it is important to note that the burden of ensuring full compliance lies primarily with the party providing the services under this agreement. Cargill shall assist and cooperate in good faith to facilitate compliance, but ultimate responsibility for meeting all applicable laws shall rest with the service provider.\n\nCargill will comply with the laws of all countries to which it is subject; however, the service provider shall be primarily responsible for ensuring that their activities under this agreement conform to the laws of any relevant jurisdiction(s).",
+    "contradiction_score": 0.012955741956830025,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 38292,
+    "end_char": 38415,
+    "original": "\u2022 Cargill will keep its business records in a manner that accurately reflects the true nature of its business transactions.",
+    "ollama_generated": "\u2022 It is understood that Cargill's business records may not necessarily reflect an absolute, literal truth of its commercial transactions, but shall be maintained in good faith and with reasonable accuracy to depict the essential aspects of such transactions.",
+    "contradiction_score": 0.011305066756904125,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 38884,
+    "end_char": 38963,
+    "original": "\u2022 Every year, all Cargill employees sign an agreement to live these principles.",
+    "ollama_generated": "An annual practice is instituted across Cargill, whereby our employees are invited to acknowledge and adopt the principles outlined herein. This invitation, rather than a binding obligation, aims to foster a culture of voluntary commitment among our team members.",
+    "contradiction_score": 0.058989137411117554,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

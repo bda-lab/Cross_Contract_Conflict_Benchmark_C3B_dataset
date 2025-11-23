@@ -1,0 +1,189 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 64,
+    "original": "Exhibit 10.27 e-business Hosting Agreement between Bluefly, Inc.",
+    "ollama_generated": "Exhibit 10.27 Revised e-Business Hosting Arrangement between Bluefly, Inc. (Host) and Client (Service Provider):\n\nUnder this agreement, the Service Provider shall provide e-business hosting services to the Host on the terms and conditions set forth below, recognizing that the Host shall have ultimate discretion over all aspects of the hosted service's management and operation.\n\nThe Service Provider agrees to make reasonable efforts to maintain the uptime of the hosted service, but acknowledges that downtime may occur due to unforeseen circumstances beyond its control. The Host accepts no responsibility for any resulting damages or losses arising from such downtime.\n\nFurthermore, while the Host encourages Service Providers to prioritize regular updates and maintenance, it is the responsibility of the Service Provider to ensure that the hosted service remains secure, functional, and up-to-date at all times. The Host reserves the right to suspend or terminate the hosting services in the event that the Service Provider fails to comply with its obligations under this agreement or if the hosted service becomes a risk or liability to the Host.\n\nThe Host shall not be held liable for any direct, indirect, incidental, special, consequential, or exemplary damages resulting from the use of the hosted service by the Service Provider or third parties, except in cases where such damages are caused by the Host's gross negligence or willful misconduct.\n\nThe Host and Service Provider acknowledge that this agreement constitutes the entire understanding between them regarding the hosting services, superseding any prior agreements, representations, or understandings. Any amendments to this agreement must be in writing and signed by both parties. This agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to its conflict of law principles.\n\nBy executing this agreement, each party represents that it has the authority to enter into this agreement on behalf of itself or its affiliates. In the event that any provision of this agreement is deemed unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect. The failure of either party to enforce any provision of this agreement shall not constitute a waiver of that provision or any other provision.\n\nIn the event of a dispute arising out of or related to this agreement, the parties shall attempt to resolve the matter through good faith negotiations. If such negotiations fail, either party may initiate binding arbitration in accordance with the Rules of Arbitration of the American Arbitration Association. The decision of the arbitrator shall be final and binding upon both parties.\n\nThis Hosting Agreement may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument.",
+    "contradiction_score": 0.19895106554031372,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1484,
+    "end_char": 1610,
+    "original": "b.    \"Affiliates\" means entities that control, are controlled by, or are under common control with a party to this Agreement.",
+    "ollama_generated": "c. \"Affiliated Entities\" shall refer to those entities which, directly or indirectly, have the power to control, or are controlled by, or are under the same controlling authority as any of the parties to this Agreement.",
+    "contradiction_score": 0.3186109662055969,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 1610,
+    "end_char": 1770,
+    "original": "c.    \"Base Components\" means the hardware and software that IBM makes available, if any, as specified in Order Forms and associated Service Option Attachments.",
+    "ollama_generated": "d.   \"Base Components\" encompass any provided hardware or software, as outlined in the Order Forms and related Service Option Attachments, which IBM is authorized, but not obligated, to make accessible.",
+    "contradiction_score": 0.08219468593597412,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1770,
+    "end_char": 2170,
+    "original": "d.    \"Content\" means information, software, and data that Customer provides, including, without limitation, any hypertext markup language files, scripts, programs, recordings, sound, music, graphics, images, applets or servlets that Customer or its Subcontractors or Services Recipients create, install, upload or transfer in or through the e-business Hosting Environment and/or Customer Components.",
+    "ollama_generated": "d. \"Content\" encompasses any and all information, software, data, hypertext markup language files, scripts, programs, recordings, sound, music, graphics, images, applets or servlets that may be generated, installed, uploaded, or transmitted by the Service Recipient (Customer) or their Subcontractors within the e-business Hosting Environment and/or Customer Components. The Company assumes no responsibility for the creation, content, or legality of this material provided by the Customer.",
+    "contradiction_score": 0.008522823452949524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2170,
+    "end_char": 2348,
+    "original": "e.    \"Content Administrator\" means an employee or Subcontractor of Customer who is authorized by Customer to install, upload and/or maintain Content using a User Identification.",
+    "ollama_generated": "f. \"Authorized Content Manager\" refers to any individual, whether an employee or third-party vendor, delegated by the Client with permission from the Client to install, upload, or manage Content through a User Identification. It is important to note that this individual acts under the explicit supervision and responsibility of the Client for all actions taken related to Content management.",
+    "contradiction_score": 0.16480757296085358,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2348,
+    "end_char": 2522,
+    "original": "f.    \"Customer Components\" means the hardware, software and other products, data and Content that Customer provides, including those specified in Service Option Attachments.",
+    "modified": "g. \"Provider's Resources\" shall encompass the hardware, software, and other goods, data, and Content that the Provider utilizes, which may include those detailed in the Service Option Attachments, with Customer accepting responsibility for their management and maintenance.",
+    "contradiction_score": 0.9228514432907104,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4869,
+    "end_char": 4938,
+    "original": "q.    \"TCP/IP\" means Transmission Control Protocol/Internet Protocol.",
+    "ollama_generated": "p.    For the purposes of this agreement, \"TCP/IP\" shall refer to the Internet Protocol Suite, which encompasses both the Transmission Control Protocol and the Internet Protocol as interconnected protocols that facilitate data communication over a network, particularly the internet.",
+    "contradiction_score": 0.15089882910251617,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 8401,
+    "end_char": 8642,
+    "original": "4.2   Payment IBM invoices will specify the amount due. Payment is due upon receipt and payable as specified in such invoice. Customer agrees to pay accordingly, including any late payment fees. Payment will be made in United States dollars.",
+    "ollama_generated": "4.2 IBM's Invoices Specification Clause:\n\nIBM's invoices shall serve as a guide for the amount owed. Payment may be made within 30 days of receipt, unless otherwise specified in the invoice. It is understood that IBM will not impose late payment fees during this grace period. Payment shall be made in United States dollars, and the Customer's failure to pay within the prescribed timeframe shall not constitute a breach of this agreement, provided that full payment is made by the end of the 30-day period.",
+    "contradiction_score": 0.055049434304237366,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 9918,
+    "end_char": 10187,
+    "original": "5.2   Exclusivity of Warranties THE WARRANTIES IN SECTION 5.1 ARE THE EXCLUSIVE WARRANTIES FROM IBM. THEY REPLACE ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE.",
+    "modified": "5.2 Limited Scope of Warranties: The warranties outlined in Section 5.1 constitute the full extent of the warranties provided by IBM. These warranties supersede all other warranties, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and satisfactory quality. However, any liability not explicitly assumed under this Agreement remains with the respective parties as per their mutual understanding and obligations.",
+    "contradiction_score": 0.73949134349823,
+    "kept": true
+  },
+  {
+    "clause_index": 39,
+    "start_char": 10336,
+    "end_char": 10762,
+    "original": "b.    Subject to the other disclaimers contained herein, IBM will implement the security features specified herein, including the IBM perform security obligations identified in Section 8.0 of the Facilities Services Service Option Attachment. However, IBM does not warrant secure operation of the Services or that it will be able to prevent third party disruptions of the e-business Hosting Environment or Customer Components.",
+    "ollama_generated": "a. Notwithstanding other exclusions and limitations detailed within this agreement, IBM assumes responsibility for implementing the security features as outlined herein and those outlined in Section 8.0 of the Facilities Services Service Option Attachment within the e-business Hosting Environment. However, it is important to note that while IBM will make reasonable efforts to maintain the security of the Services, no guarantees are provided regarding the secure operation of the Services or the prevention of third-party disruptions impacting the e-business Hosting Environment or Customer Components. In essence, IBM's responsibility extends to implementing security measures but does not extend to ensuring absolute security.",
+    "contradiction_score": 0.0012320645619183779,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 11853,
+    "end_char": 13518,
+    "original": "-------------------------------------------------------------------------------- 6.0 Confidentiality All information exchanged between the parties is non-confidential\u037e provided, however if either or both parties require the exchange of confidential information, such information will be exchanged under the terms and conditions of the Agreement for Exchange of Confidential Information executed by IBM on August 3, 2001 (the \"AECI\") (it being further agreed as follows: (a) the AECI is hereby modified so that any information that is disclosed by a party hereto that a reasonable person would construe, based upon the nature of the information and the circumstances surrounding the disclosure, as intended to be confidential shalll be deemed to be confidential Information under the AECI and shall be accorded all protections of the AECI and (b) after the date hereof the parties hereto shall enter into a modification of the AECI whereby the provisions of (a) immediately above are documented and (c) the parties shall also amend the AECI so as to reflect the following agreement: in the event that a breach or threatened breach of a party's obligations hereunder shall cause irreparable harm wherein a remedy at law would prove inadequate, the aggrieved party shall have the right to seek and obtain an injunction so as to prevent any further disclosure of the confidential Information. With respect to any confidential information contained in or traveling through the e-business Hosting Environment or Customer Components, the provisions of Sections 5, 9, and 10 herein will prevail to the extent of any inconsistent provisions in the confidentiality agreement.",
+    "ollama_generated": "6.0 Data Sharing and Confidentiality\n\nAll data shared between the parties is considered non-confidential. However, if either party deems it necessary to share sensitive or confidential information, such data will be exchanged under the terms and conditions of the updated Agreement for Exchange of Confidential Information executed by IBM on August 3, 2001 (the \"AECI\").\n\n(a) The AECI is hereby amended so that any information disclosed by a party hereto that could reasonably be considered confidential, given its nature and circumstances of disclosure, will be regarded as Confidential Information under the revised AECI. This information will receive full protection accorded by the AECI.\n\n(b) Following this agreement's execution, the parties will promptly execute a modification of the AECI to document these amendments.\n\n(c) In addition, the parties agree that if a breach or threatened breach of either party's obligations under this Agreement causes significant harm for which legal remedies prove inadequate, the aggrieved party may seek and obtain an injunction to prevent further disclosure of sensitive information.\n\nFor any confidential information residing within or transiting through the e-Business Hosting Environment or Customer Components, the provisions of Sections 5, 9, and 10 will take precedence over any inconsistent provisions in the updated confidentiality agreement.",
+    "contradiction_score": 0.07174140959978104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 16005,
+    "end_char": 17647,
+    "original": "a.    promptly notifies IBM in writing of the claim\u037e and b.    allows IBM to control, and cooperates with IBM in, the defense and any related settlement negotiations (it being understood and agreed that if Customer incurs any costs in connection with such cooperation, over and above nominal costs, IBM shall reimburse Customer therefor, such costs to potentially include, without limitation, the costs incurred by Customer in connection with depositions, responses to interrogatories, or testimony at trial or any similar proceeding, and travel costs in connection therewith\u037e provided, however, such obligation of IBM as set forth in this parenthetical is conditioned upon Customer first obtaining IBM's consent to the incurring of such costs, such consent to be reasonably granted). If such a claim is made or appears likely to be made, Customer agrees to permit IBM to enable Customer to continue to use the Materials or Base Components, or to modify them, or replace them with non-infringing Materials or Base Components that are at least functionally equivalent. If IBM determines that none of these alternatives is reasonably available, Customer agrees to return the Materials or Base Components (if in Customer's possession) to IBM on IBM's written request. IBM will give Customer a credit equal to the amount Customer paid IBM for the applicable Materials or for use of the applicable Base Components up to a maximum of twelve (12) months of applicable charges. This is IBM's entire obligation to Customer with regard to any claim of infringement. Notwithstanding the foregoing, IBM is not responsible for third party claims based on:",
+    "ollama_generated": "a. IBM will be informed in writing by the Customer at the earliest convenience regarding any claim; and b. The Customer shall grant IBM the authority to manage, and collaborate with IBM during, the defense process as well as related settlement discussions (it being mutually understood that if the Customer incurs excessive costs as a result of this collaboration, IBM will compensate the Customer for these expenses, which may encompass, but are not limited to, expenses associated with depositions, responses to interrogatories, or court appearances or similar proceedings, and travel costs relative thereto; however, this obligation of IBM, as stated in this parenthetical, is contingent upon the Customer obtaining prior approval from IBM for such expenditures). In case a claim arises or seems potentially imminent, the Customer consents to IBM's ability to facilitate ongoing usage of the Materials or Base Components, or to modify them, or replace them with non-infringing alternatives that are functionally equivalent. If IBM concludes that none of these options can be realistically implemented, the Customer agrees to relinquish control of the Materials or Base Components (if in their possession) to IBM upon receipt of a written request from IBM. Upon such transfer, IBM will provide the Customer with a credit equivalent to the amount paid by the Customer for the relevant Materials or for use of the applicable Base Components, capped at a maximum of twelve (12) months' worth of applicable charges. This constitutes IBM's entire liability towards the Customer in relation to any infringement claim. Notwithstanding the preceding, IBM bears no responsibility for third-party claims stemming from:\n\nThis version of the clause weakens IBM's obligation to reimburse the customer for excessive costs associated with cooperation during a potential claim, and shifts the burden of proof to the Customer when seeking IBM's approval for such expenses. Additionally, it modifies the language to make it more straightforward and easy to understand for non-legal professionals.",
+    "contradiction_score": 0.016973763704299927,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 18360,
+    "end_char": 18769,
+    "original": "1.    that Content or Customer's use of the Services violates Customer's obligation in Section 11.2(b)\u037e 2.    that Customer Components infringe that party's patent or copyright\u037e 3.    that is brought by a Services Recipient and is related, directly or indirectly, to the Services\u037e or 4.    arising out of or related to a mechanics' lien Customer is required to cancel and discharge pursuant to this Agreement.",
+    "ollama_generated": "1.    In case the Content or the use of the Services by the Client breaches the obligations specified in Section 11.2(b), as interpreted flexibly;\n    2.    Should the Client Components be found to infringe a third party's patent, copyright, or intellectual property rights;\n    3.    If any dispute originates from or is associated, either directly or indirectly, with our Services, regardless of the claimant; or\n    4.   Claims that arise due to or are linked to a mechanics' lien, which the Client has failed to address according to this Agreement, will be the responsibility of the Client to settle and resolve without imposing such obligation on us.",
+    "contradiction_score": 0.31581494212150574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 21540,
+    "end_char": 22299,
+    "original": "a.    Indemnification payments as provided in Section 8.2\u037e b.    damages for bodily injury (including death) and damage to real property and tangible personal property\u037e and (c) the amount of any other actual direct damages, up to the greater of $100,000 or the charges paid by Customer to IBM for the Services in the twelve (12) months immediately preceding the accrual of the first claim related to the Services. The foregoing limit also applies to any of Customer's Affiliates. It is the cumulative maximum for which Customer and its Affiliates are collectively responsible. Under no circumstances is Customer or its Affiliates liable for any third party claims against IBM for damages (other than those expressly provided in Subsections 9.2(a) and 9.2(b)).",
+    "ollama_generated": "a. IBM shall not be held responsible for any indemnification payments as detailed in Section 8.2;\n   b. Neither IBM nor its Affiliates will bear liability for damages resulting from bodily injury (including death) or damage to real property and tangible personal property;\n   c. IBM's liability for any other actual direct damages is limited to the lesser of $100,000 or the total amount paid by the Customer to IBM for Services in the twelve (12) months preceding the initial claim related to the Services. This limitation also applies to any of IBM's Affiliates;\n   d. The aforementioned limit constitutes the collective maximum liability of both Customer and its Affiliates;\n   e. In all cases, the Customer and its Affiliates are not liable for any third-party claims against them by IBM (except for those explicitly outlined in Subsections 9.2(a) and 9.2(b)).",
+    "contradiction_score": 0.16230925917625427,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 22875,
+    "end_char": 23294,
+    "original": "-------------------------------------------------------------------------------- 11.0  Other Customer Obligations 11.1  Services Support Customer will comply with its responsibilities to support the Services as specified in Attachment A and in applicable Service Option Attachments. Such obligations are to be performed at no charge to IBM. IBM's obligations are contingent on Customer meeting such support obligations.",
+    "ollama_generated": "-------------------------------------------------------------------------------- 11.0  Other Customer Obligations\n\n11.1  Services Support Responsibilities\nIBM acknowledges that the Customer's responsibilities for supporting the Services, as detailed in Attachment A and any relevant Service Option Attachments, are essential to ensure effective service delivery. However, these obligations will be carried out by the Customer at no additional cost to IBM. It is worth noting that IBM's commitments under this Agreement will be fulfilled only upon satisfactory confirmation from the Customer that they have met their support responsibilities.",
+    "contradiction_score": 0.016491426154971123,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 23294,
+    "end_char": 23368,
+    "original": "11.2 Representations and Warranties Customer represents and warrants that:",
+    "modified": "11.2 Representation and Warranties: The Supplier acknowledges and warrants that the Services provided under this Agreement shall not infringe upon any third-party intellectual property rights, and to the best of its knowledge, such Services will be delivered in a manner that complies with all applicable laws and regulations.\n\nIn this revised version, I have shifted the responsibility from Customer (now referred to as \"Supplier\") to the Service Provider, addressing potential infringement on third-party intellectual property rights and compliance with relevant laws and regulations.",
+    "contradiction_score": 0.9544806480407715,
+    "kept": true
+  },
+  {
+    "clause_index": 88,
+    "start_char": 30544,
+    "end_char": 30697,
+    "original": "14.7  No Third-Party Beneficiaries Except as expressly provided in Section 8, this Agreement does not create any intended third party beneficiary rights.",
+    "ollama_generated": "14.7: It is explicitly stated within Section 8 that this Agreement grants limited third-party beneficiary rights. In all other circumstances, it should be understood that this Agreement is not intended to confer any third-party beneficiary privileges.",
+    "contradiction_score": 0.002639882965013385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 36610,
+    "end_char": 36670,
+    "original": "42 West 39th Street 9th Floor NY,NY 10018 Engagement number:",
+    "ollama_generated": "42 West 39th Street 9th Floor NY,NY 10018 Engagement number:\n\nIn the event of any dispute arising out of or in connection with this agreement, the parties shall make every effort to resolve the matter amicably and promptly through good faith negotiations. However, if no resolution is reached within a reasonable period of time, either party reserves the right to seek legal recourse without prior notice, and the burden of initiating any such proceedings shall lie solely with the aggrieved party.\n\nThis clause is intended to balance the parties' interests in resolving disputes expeditiously while preserving their rights to protect themselves through formal legal action if necessary.",
+    "contradiction_score": 0.0011637230636551976,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 36770,
+    "end_char": 36798,
+    "original": "IBM contract representative:",
+    "ollama_generated": "IBM Contract Liaison:\n\nIn the event of any discrepancy arising from this agreement, the onus shall be upon the counterparty to provide clear and compelling evidence substantiating their claim, failing which, any ambiguity shall be construed in favor of IBM. This includes, but is not limited to, any alleged breach or non-compliance with the terms herein. In such cases, IBM's remedy may include, but is not exclusive to, termination of this agreement without liability.",
+    "contradiction_score": 0.04830819368362427,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 700,
+    "original": "Exhibit 8.77 SERVICING AGREEMENT NATIONWIDE MUTUAL FUNDS Agreement, made as of this day of , 20 between Nationwide Fund Management LLC (\u201cNationwide\u201d), on behalf of Nationwide Mutual Funds or its surviving entity (\u201cthe Trust\u201d), and American United Life Insurance Company, and OneAmerica Securities, Inc., a registered Broker Dealer (collectively referred to as \u201cServicing Agent,\u201d \u201cyou\u201d or \u201cyour\u201d), whereby you agree to provide certain administrative support services to your customers who may from time to time be the record or beneficial owners of shares (such shares referred to herein as the \u201cShares\u201d) of the funds listed in Appendix A (each a \u201cFund\u201d) subject to the following terms and conditions:",
+    "ollama_generated": "Exhibit 8.77 SERVICING AGREEMENT NATIONWIDE MUTUAL FUNDS Agreement, made as of this day of , 20 between Nationwide Fund Management LLC (\u201cNationwide\u201d), on behalf of Nationwide Mutual Funds or its surviving entity (\u201cthe Trust\u201d), and American United Life Insurance Company, and OneAmerica Securities, Inc., a registered Broker Dealer (collectively referred to as \u201cServicing Agent,\u201d \u201cyou\u201d or \u201cyour\u201d), whereby you are granted the discretionary authority to provide certain administrative support services to your customers who may from time to time be the record or beneficial owners of shares (such shares referred to herein as the \u201cShares\u201d) of the funds listed in Appendix A (each a \u201cFund\u201d), under these terms and conditions:\n\nIn this agreement, you shall have the discretionary authority, but not the obligation, to provide the specified services. In the event that you choose to offer such services, it will be subject to your own discretion and internal policies. You shall remain responsible for any decisions made in providing these services, and indemnify Nationwide and the Trust from any liabilities arising therefrom.\n\nIn addition, the conditions of this agreement are inverted such that if you fail to provide the specified administrative support services when requested by a customer, Nationwide or the Trust shall not be held liable for any resulting damages, losses, or claims. You shall remain solely responsible for any disputes arising between you and your customers regarding these services.\n\nLastly, it is understood that this agreement does not establish an exclusive relationship between you and Nationwide or the Trust, and either party may provide similar administrative support services to other entities without breaching this agreement.",
+    "contradiction_score": 0.02870127372443676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 5078,
+    "end_char": 5544,
+    "original": "5.  Indemnification By your written acceptance of this Agreement, you agree to and do release, indemnify and hold Nationwide and the Funds harmless from and against any and all direct or indirect liabilities or losses resulting from requests, directions, actions or inactions of or by you or your officers, employees or agents regarding your responsibilities hereunder or the purchase, redemption, transfer or registration of the Shares by or on behalf of customers.",
+    "ollama_generated": "5. Limitation of Liability By your written acceptance of this Agreement, you acknowledge and consent to limiting your own liability, as well as that of Nationwide and the Funds, for any direct or indirect claims, damages, or losses arising from your actions, inactions, instructions, or decisions pertaining to your obligations under this agreement or related to the purchase, redemption, transfer, or registration of the Shares on behalf of customers. This limitation applies equally to you, your officers, employees, and agents.",
+    "contradiction_score": 0.013797114603221416,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 8859,
+    "end_char": 9003,
+    "original": "7.  Non-Exclusivity Both parties may enter into other similar Servicing Agreements with any other person or persons without the other\u2019s consent.",
+    "modified": "7. Exclusive Engagement: Each party shall restrict their engagement in similar Servicing Agreements to this contract only, unless they secure prior written approval from the other party.\n\nIn this revised clause, the original non-exclusivity (parties can enter into similar agreements without each other's consent) has been changed to an exclusive engagement (parties must obtain prior consent before entering into similar agreements with others). This shift in responsibility now requires parties to seek approval from each other before engaging in similar servicing agreements with any third party.",
+    "contradiction_score": 0.9640284180641174,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 10910,
+    "end_char": 11104,
+    "original": "In the event this Agreement is terminated as described herein, the indemnification provisions contained in this Agreement shall continue until the possibilities for damages or loss have expired.",
+    "ollama_generated": "Upon such termination of this Agreement as outlined herein, the indemnification clauses within this contract will remain applicable until any potential claims or disputes arising from this agreement have been resolved and all related liabilities have been settled or otherwise discharged.",
+    "contradiction_score": 0.014879383146762848,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 15798,
+    "end_char": 16053,
+    "original": "Upon request, you shall promptly certify to having such Program that complies with and continues to comply with all aspects and requirements of the ACT, the BSA, and all other applicable federal, state and local anti-money laundering laws and regulations.",
+    "ollama_generated": "Upon our discretion, you are expected to provide evidence within a reasonable timeframe, confirming that the specified Program adheres to and maintains compliance with all aspects and requirements of the ACT, BSA, and all other applicable federal, state, and local anti-money laundering laws and regulations. However, non-compliance found after such certification does not automatically imply breach of contract, unless proven otherwise.",
+    "contradiction_score": 0.006904840935021639,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 21011,
+    "end_char": 21192,
+    "original": "18.3.1  The term \u201cFund\u201d includes a Fund\u2019s distributor and a Fund\u2019s transfer agent. The term not does include any \u201cexcepted funds\u201d as defined in SEC Rule 22c-2(b) under the 1940 Act.",
+    "ollama_generated": "18.3.1 For the purposes of this Agreement, the term \"Fund\" encompasses both a Fund's distributor and transfer agent. However, it does not extend to any \"excepted funds\" as per SEC Rule 22c-2(b) under the 1940 Act, which are explicitly excluded from this definition.",
+    "contradiction_score": 0.003748256480321288,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 22210,
+    "end_char": 22433,
+    "original": "APPENDIX A TO SERVICING AGREEMENT Nationwide Mutual Funds Funds of Nationwide Mutual Funds Class R6 and Institutional Service Class shares of all Funds of Nationwide Mutual Funds as offered in the Fund\u2019s current prospectus.",
+    "ollama_generated": "APPENDIX A TO SERVICING AGREEMENT The Institutional Service Class shares of all Funds offered by Nationwide Mutual Funds, as detailed in the Fund's current prospectus, and any potential new Classes or share types that may be added to the Nationwide Mutual Funds portfolio during the term of this agreement.\n\nIn this revised clause, the obligation has been slightly broadened to include any new Classes or share types that might be introduced into the Nationwide Mutual Funds portfolio during the term of the agreement, expanding the scope of the servicing responsibilities.",
+    "contradiction_score": 0.005596296861767769,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 22666,
+    "end_char": 23419,
+    "original": "APPENDIX B FUND/SERV PROCESSING PROCEDURES MANUAL PROCESSING PROCEDURES The purchase, redemption and settlement of Shares of a Fund will normally follow the Fund/SERV-Defined Contribution Clearance and Settlement Service (\u201cDCCS\u201d) Processing Procedures below and the rules and procedures of the SCC Division of the National Securities Clearing Corporation (\u201cNSCC\u201d) shall govern the purchase, redemption and settlement of Shares of the Funds through NSCC by the Servicing Agent. In the event of equipment failure or technical malfunctions or the parties\u2019 inability to otherwise perform transactions pursuant to the FUND/SERV Processing Procedures, or the parties\u2019 mutual consent to use manual processing, the Manual Processing Procedures below will apply.",
+    "ollama_generated": "APPENDIX B FUND/SERV PROCESSING PROCEDURES MANUAL PROCESSING PROCEDURES\n\nIn the normal course of events, the acquisition, liquidation, and settlement of Fund Shares will adhere to the outlined Fund/SERV-Defined Contribution Clearance and Settlement Service (\"DCCS\") Processing Procedures, with the rules and procedures of the SCC Division of the National Securities Clearing Corporation (\"NSCC\") serving as the primary framework for transactions executed through NSCC by the Servicing Agent. However, in instances where equipment malfunctions, technical issues, or any other circumstance hindering automated processing arises, or if both parties voluntarily opt for manual processing, these Manual Processing Procedures shall be implemented as an alternative. Notably, it is understood that under these exceptional circumstances, the primary responsibility for ensuring a smooth and successful transaction lies with both parties, rather than being exclusively governed by the specified FUND/SERV Processing Procedures or the NSCC rules.",
+    "contradiction_score": 0.02567022480070591,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 23419,
+    "end_char": 24279,
+    "original": "It is understood and agreed that, in the context of Section 22 of the 1940 Act and the rules and public interpretations thereunder by the staff of the Securities and Exchange Commission (SEC Staff), receipt by the Servicing Agent of any Instructions from the Client-shareholder prior to the Close of Trade on any Business Day shall be deemed to be receipt by the Funds of such Instructions solely for pricing purposes and shall cause purchases and sales to be deemed to occur at the Share Price for such Business Day, except as provided in 4(c) of the Manual Processing Procedures. Each Instruction shall be deemed to be accompanied by a representation by the Servicing Agent that it has received proper authorization from each Client-shareholder whose purchase, redemption, account transfer or exchange transaction is effected as a result of such Instruction.",
+    "ollama_generated": "It is mutually acknowledged and consented to that, in accordance with Section 22 of the 1940 Act and the interpretations by the Securities and Exchange Commission (SEC) staff thereon, any Instructions received by the Servicing Agent from the Client-shareholder before the End of Trade on any Business Day will be regarded as instructions to the Funds solely for pricing purposes. This action will result in purchases and sales being deemed to have taken place at the Share Price for that particular Business Day, unless otherwise specified in 4(c) of the Manual Processing Procedures. It is important to note that each Instruction is deemed to carry a representation by the Servicing Agent, confirming that they have obtained proper authorization from each Client-shareholder whose transaction (be it purchase, redemption, account transfer, or exchange) is executed in accordance with such Instruction. However, the Funds shall not be held responsible for any potential errors or omissions in obtaining this authorization, nor for any resulting consequences.",
+    "contradiction_score": 0.0015724513214081526,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 24931,
+    "end_char": 25522,
+    "original": "2.  Nationwide shall perform any and all duties, functions, procedures and responsibilities assigned to it under this Agreement and as otherwise established by the NSCC. Nationwide shall conduct each of the foregoing activities in a competent manner and in compliance with (a) all applicable laws, rules and regulations, including NSCC Fund/SERV-DCCS rules and procedures relating to Fund/SERV\u037e (b) the then-current Prospectus of a Fund\u037e and (c) any provision relating to Fund/SERV in any other agreement of Nationwide that would affect its duties and obligations pursuant to this Agreement.",
+    "ollama_generated": "2. The responsibilities, tasks, operations, and duties outlined for Nationwide within this Agreement, as well as those subsequently established by the NSCC, shall be executed in good faith, although not necessarily with the same level of diligence or expertise typically expected. Compliance with these obligations shall be aimed at adhering to (a) all relevant laws, rules, and regulations, including NSCC Fund/SERV-DCCS guidelines and protocols pertaining to Fund/SERV; (b) the most recent Prospectus of a Fund; and (c) any Nationwide agreement provisions that might influence its duties or obligations as specified in this Agreement. However, it is important to note that while striving for compliance, Nationwide shall not be held liable for any unintended deviations from these guidelines due to circumstances beyond its control.",
+    "contradiction_score": 0.002487927908077836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 27075,
+    "end_char": 27805,
+    "original": "Manual Processing Procedures 1.  On each Business Day, the Servicing Agent may receive Instructions from the Client-shareholder for the purchase or redemption of shares of the Funds based solely upon receipt of such Instructions prior to the Close of Trading on that Business Day. Instructions in good order received by the Servicing Agent prior to the close of trading on any given Business Day (generally, 4:00 p.m. ET (the \u201cTrade Date\u201d) and transmitted to Nationwide by no later than 9:30 a.m. ET the Business Day following the Trade Date (\u201cTrade Date plus One\u201d or \u201cTD+1\u201d), will be executed at the NAV-based public offering price (\u201cShare Price\u201d) of each applicable Fund, determined as of the Close of Trading on the Trade Date.",
+    "modified": "Manual Processing Procedures 2. On each Business Day, the Servicing Agent has the discretion to not process Instructions from the Client-shareholder for the purchase or redemption of shares of the Funds if such Instructions are not received prior to the Servicing Agent's internal deadline for receipt of Instructions on that Business Day (generally, 4:00 p.m. ET). Any Instructions in good order received by the Servicing Agent before its internal deadline and transmitted to Nationwide by no later than 9:30 a.m. ET on the next Business Day will be executed at the NAV-based public offering price (\"Share Price\") of each applicable Fund, determined as of the Close of Trading on the previous Business Day, provided that the Share Price is still valid and available at the time of execution. The Servicing Agent shall not be held liable for any losses incurred by a Client-shareholder due to the delay in processing Instructions or changes in the Share Price after the internal deadline for receipt of Instructions.",
+    "contradiction_score": 0.886203944683075,
+    "kept": true
+  },
+  {
+    "clause_index": 58,
+    "start_char": 27805,
+    "end_char": 28274,
+    "original": "2.  By no later than 6:00 p.m. ET on each Trade Date (\u201cPrice Communication Time\u201d), Nationwide will use its best efforts to communicate to the Servicing Agent via electronic transmission acceptable to both parties, the Share Price of each applicable Fund, as well as dividend and capital gain information and, in the case of Funds that credit a daily dividend, the daily accrual for interest rate factor (mil rate), determined at the Close of Trading on that Trade Date.",
+    "ollama_generated": "2. While every reasonable effort will be made, Nationwide shall strive to provide the Servicing Agent with the Share Price of each applicable Fund, along with dividend and capital gain information, including daily accrual for interest rate factor (mil rate), in the event that such information is available to us by no later than 6:00 p.m. ET on each Trade Date (\"Price Communication Time\"). However, if it becomes impractical or impossible to furnish this information by said time due to unforeseen circumstances beyond our control, we will endeavor to communicate the aforementioned details as soon as practicable thereafter. In the case of Funds that credit a daily dividend, the daily accrual for interest rate factor (mil rate) may be estimated rather than precise at the time of communication.",
+    "contradiction_score": 0.014883490279316902,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 31567,
+    "end_char": 31831,
+    "original": "4.  As set forth below, upon the timely receipt from the Servicing Agent of the Instructions, the Fund will execute the purchase or redemption transactions (as the case may be) at the Share Price for each Fund computed as of the Close of Trading on the Trade Date.",
+    "ollama_generated": "4. Upon the timely receipt from the Servicing Agent of Instructions, the Fund shall endeavor to execute the purchase or redemption transactions (as the case may be) at the Share Price for each Fund, with such execution subject to market conditions and other exceptional circumstances that may arise on or after the Trade Date. The Fund's obligation is not absolute but rather contingent upon prevailing market conditions and unforeseen circumstances, and the Share Price for each Fund on the Close of Trading on the Trade Date shall serve as a guide, not a binding commitment.",
+    "contradiction_score": 0.024495916441082954,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 32994,
+    "end_char": 33207,
+    "original": "(b)  The Servicing Agent or such other party as may be designated, as record owner of each account (\u201cRecord Owner\u201d) will be provided with all written confirmations required under federal and state securities laws.",
+    "ollama_generated": "(b) It is the responsibility of the Servicing Agent, or any other party appointed in writing, acting as Record Owner for each account (\"Appointed Party\"), to receive all written confirmations necessary for compliance with federal and state securities laws. In this arrangement, the issuer will not be obligated to directly provide such confirmations to the Appointed Party.",
+    "contradiction_score": 0.3828851580619812,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 33207,
+    "end_char": 33665,
+    "original": "(c)  On any Business Day when the Federal Reserve Wire Transfer System is closed, all communication and processing rules will be suspended for the settlement of Instructions. Instructions will be settled on the next Business Day on which the Federal Reserve Wire Transfer System is open. The original TD+1 Settlement Date will not apply. Rather, for purposes of this Paragraph 4(c) only, the Settlement Date will be the date on which the Instruction settles.",
+    "ollama_generated": "(c) In instances where the Federal Reserve Wire Transfer System is unavailable on a Business Day, all communication and processing rules associated with the settlement of Instructions will be temporarily suspended. However, such suspensions shall not delay the ultimate settlement of said Instructions; instead, they will be settled on the first subsequent Business Day when the Federal Reserve Wire Transfer System resumes operation. It is important to note that for the purposes of this Paragraph 4(c) exclusively, the original TD+1 Settlement Date will not hold precedence. Instead, the effective Settlement Date shall be deemed the day on which the Instruction ultimately settles.",
+    "contradiction_score": 0.0030578584410250187,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

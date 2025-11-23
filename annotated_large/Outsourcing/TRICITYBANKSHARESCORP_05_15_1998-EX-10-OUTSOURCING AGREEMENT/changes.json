@@ -1,0 +1,541 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 3869,
+    "end_char": 3982,
+    "original": "In consideration of the payments to be made and services to be performed hereunder, the parties agree as follows:",
+    "ollama_generated": "In light of the compensation to be received and duties to be fulfilled in accordance with this agreement, the parties mutually acknowledge and consent to the following terms:\n\nIn the event that the provider encounters any unexpected difficulties or delays in delivering the services specified herein, the obligee shall offer reasonable accommodations to ensure minimal disruption to the project timeline, without jeopardizing the quality of work.",
+    "contradiction_score": 0.0048500485718250275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 4099,
+    "end_char": 4324,
+    "original": "A.   Customer provides, through its Information Systems Department, systems development and operations, data processing, telecommunications and other information technology services for itself, and on behalf of its customers.",
+    "modified": "Service Provider shall be solely responsible for the provision, maintenance, and management of all systems development, operations, data processing, telecommunications, and other information technology services required by the Service Provider and/or any of its clients, with the understanding that such services may be utilized by the Customer at its discretion.",
+    "contradiction_score": 0.9974943399429321,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 5457,
+    "end_char": 5537,
+    "original": "The following terms shall have the meaning ascribed to them in this Section 1.2:",
+    "ollama_generated": "In this document, the terms defined in Section 1.2 herein will govern the interpretation of the following expressions:\n\nBy making this minor adjustment, we've moved away from using formal, definitive language and toward a more informal, explanatory tone. The meaning of the clause remains largely the same, but it is now easier for a non-lawyer to understand the purpose of the section.",
+    "contradiction_score": 0.002524956129491329,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 6660,
+    "end_char": 7118,
+    "original": "F.   \"Control\" shall mean the direct or indirect ownership of over 50% of the capital stock (or other ownership interest, if not a corporation) of any entity or the possession, directly or indirectly, of the power to direct the management and policies of such entity by ownership of voting securities, by contract or otherwise.  \"Controlling\" shall mean having Control of any entity and \"Controlled\" shall mean being the subject of Control by another entity.",
+    "ollama_generated": "G. \"Control\" will be defined as possessing direct or indirect ownership of more than 50% of the capital stock (or alternative ownership interest, if not a corporation) in any entity, or having the ability to significantly influence the decisions and policies of such entity through other means, including but not limited to contractual agreements. \"Exercising Control\" will denote the ability to control an entity, and being under someone else's control will be referred to as \"Being Controlled\".",
+    "contradiction_score": 0.4833468198776245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 7118,
+    "end_char": 7594,
+    "original": "G.   \"Conversion\" shall mean (i) the migration of Customer's data processing and other information technology services to the M&I system\u037e (ii) completion of upgrades of other software modifications as set forth in this Agreement\u037e and (iii) completion of all interfaces set forth in this Agreement and full integration thereof such that Customer is able to receive the Services in accordance with the criteria set forth in the Conversion Plan (as defined in Section 4.2 below).",
+    "ollama_generated": "G. \"Completion\" shall denote (i) the culmination of the process whereby Customer's data processing and other information technology services are seamlessly transferred onto the M&I system, without any significant disruptions to Customer's normal operations; (ii) attainment of upgrades and software modifications as detailed in this Agreement; and (iii) successful implementation of all interfaces as outlined in this Agreement, ensuring smooth operation and compatibility with the existing Customer setup. The Services shall then be accessible to the Customer in accordance with the specifications outlined in the Conversion Plan (as defined in Section 4.2 below), with any necessary adjustments made by the Service Provider for optimal functionality.",
+    "contradiction_score": 0.0013068165862932801,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 9576,
+    "end_char": 9703,
+    "original": "P.   \"Initial Services\" shall mean those Services requested by Customer from M&I under this Agreement as of the Effective Date.",
+    "ollama_generated": "Clause (P): The term \"Initial Services\" refers to the set of Services provided by M&I to Customer, as defined under this Agreement, which shall comprise solely of those requests made by Customer from M&I up to and including the Effective Date.",
+    "contradiction_score": 0.012370232492685318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 10323,
+    "end_char": 10438,
+    "original": "S.   \"Operations Center\" shall mean the datacenter used by M&I o provide some of the Services under this Agreement.",
+    "modified": "Clause:\nT.   \"Utilized Datacenter,\" as referred to herein, denotes the facility from which M&I may deliver certain services as per this Agreement. It is important to note that while the datacenter's use by M&I is subject to this agreement, the specific location or infrastructure of the datacenter remains at their discretion and is not explicitly defined within this contract.",
+    "contradiction_score": 0.8815484642982483,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 10828,
+    "end_char": 11273,
+    "original": "W.   \"Taxes\" shall mean any manufacturers, sales, use, gross receipts, excise, personal property or similar tax or duty assessed by any governmental or quasi-governmental authority upon or as a result of the execution or performance of any service pursuant to this Agreement or materials furnished with respect to this Agreement, except any income, franchise, privilege or like tax on or measured by M&I's net income, capital stock or net worth.",
+    "ollama_generated": "X. For the purposes of this Agreement, \"Taxes\" shall encompass any manufacturers, sales, use, gross receipts, excise, personal property, or comparable tax or levy imposed by any governing or quasi-governmental entity in connection with or resulting from the provision of services under this Agreement or related materials. However, it does not include income, franchise, privilege, or equivalent taxes based on M&I's earnings, stock, or net worth. Herein, the responsibility for paying such taxes shall primarily rest with the party incurring the tax liability, unless explicitly stated otherwise.",
+    "contradiction_score": 0.42297297716140747,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 11475,
+    "end_char": 11756,
+    "original": "Y.   \"User Manuals\" shall mean the documentation provided by M&I to Customer which describes the features and functionalities of each of the Accounts DP Services (defined in Section 6.2 below), as modified and updated by the customer bulletins distributed by M&I from time to time.",
+    "ollama_generated": "\"User Guides\" shall refer to the instructions supplied by M&I to the Customer, detailing the functionalities and characteristics of each Account DP Service (as outlined in Section 6.2 below), with the understanding that any amendments or updates made to these guides, as communicated to the Customer through M&I's periodic notifications, are to be considered an integral part of this agreement.",
+    "contradiction_score": 0.45695802569389343,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 11756,
+    "end_char": 12061,
+    "original": "1.3  References.  In this Agreement and the schedules and exhibits attached hereto, which are hereby incorporated and deemed a part of this Agreement, references and mention of the word \"include\" and \"including\" shall mean \"includes, without limitation\" and \"including, without limitation\", as applicable.",
+    "ollama_generated": "1.3 References. In this Agreement, along with its schedules and attached exhibits, which are considered an integral part hereof, the use of the terms \"include\" and \"including\" shall be construed to mean \"includes, but not limited to,\" and \"including, but not limited to,\" respectively. This interpretation allows for the possibility of other relevant items that may not have been specifically enumerated.",
+    "contradiction_score": 0.0023541548289358616,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 13802,
+    "end_char": 14333,
+    "original": "3.2  Third Party Services.  The parties acknowledge that certain services and information necessary for the performance of the Services may be provided by third parties.  M&I agrees that the performance and warranties contained in this Agreement shall apply to the Initial Services even if the same are to be performed by third parties.  Except as specifically stated in this Section 3.2, M&I shall have no liability to Customer for information supplied by, or services performed by, third parties in conjunction with the Services.",
+    "ollama_generated": "3.2 Third-Party Dependencies: The parties recognize that certain essential services and data for fulfilling the Services' requirements may be sourced from third parties. It is acknowledged that M&I holds no direct responsibility for such third-party services or information, unless explicitly specified in this Section 3.2.\n\nIn cases where M&I employs third parties to deliver the Initial Services, the performance standards and warranties outlined within this Agreement shall apply. However, under no circumstances shall M&I be held liable for any inaccuracies, delays, or service interruptions stemming from these third-party services or information, beyond what is explicitly stated in this Section 3.2.",
+    "contradiction_score": 0.005086378660053015,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 14806,
+    "end_char": 15408,
+    "original": "B.   Proper Instructions shall specify the action requested to be taken or omitted.  Proper Instructions shall include instructions sent to M&I or its agent(s) by letter, memorandum, telegram, cable, telex, telecopy facsimile, video (CRT) terminal or other \"on-line\" system, or similar means of communication, or given orally over the telephone or in person by a person authorized by Customer pursuant to Section 3.4(A) to provide Proper Instructions.  Proper Instructions shall include any file transmission received by M&I from Customer, or any agent of Customer who is thereof authorized in writing.",
+    "ollama_generated": "A. It is the responsibility of the Customer to ensure that their instructions are clear and unambiguous, outlining the desired action or lack thereof. Such instructions may be communicated to M&I or its designated representatives via various means, including but not limited to letters, memorandums, telegrams, cables, telexes, telecopy facsimile, video (CRT) terminals, or other \"on-line\" systems, phone calls, or personal interactions. These instructions may also be provided through file transmissions from the Customer or any authorized agent of the Customer, as long as such authorization is documented in writing in accordance with Section 3.4(A).\n\nIn this revised clause, the emphasis has shifted to the customer's responsibility to provide clear and unambiguous instructions, and M&I (or its agents) is no longer explicitly required to act upon those instructions unless they meet certain criteria (e.g., being clear, unambiguous, etc.). This change subtly strengthens M&I's position by placing more onus on the customer to ensure that their instructions are properly formulated and communicated.",
+    "contradiction_score": 0.28001174330711365,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 19179,
+    "end_char": 19532,
+    "original": "Conversion Project Coordinator - The coordinator would have responsibility for the overall Conversion process and the management of the Conversion team.  He/she would work to ensure that the people are given proper direction, and that all Conversion events are executed to meet the established goals, and to maintain consistency among the project teams.",
+    "ollama_generated": "Project Coordinator for Conversion - The appointed individual will oversee the entirety of the Conversion process and guide the Conversion team effectively. While striving for the provision of clear guidance, it is understood that some discretion may be required in executing Conversion events, ensuring they align with the established objectives but allowing room for flexibility to meet unforeseen challenges or opportunities. Additionally, the coordinator will aim to establish harmony among project teams, fostering a collaborative environment and encouraging a shared understanding of the project's overall vision.",
+    "contradiction_score": 0.0080884313210845,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 19968,
+    "end_char": 20182,
+    "original": "Conversion Representatives - Core teams of Conversion representatives shall be assigned to assist in establishing consistency in approach and execution.  These teams would work closely with the M&I Conversion team.",
+    "ollama_generated": "Designated Liaisons - Designated liaisons, comprising of key personnel from various departments, will be appointed for the purpose of promoting harmonious coordination and standardized procedures. These designated individuals will collaborate extensively with the M&I Conversion team, allowing for flexible adaptation to specific requirements as needed.",
+    "contradiction_score": 0.2323230504989624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 24030,
+    "end_char": 24219,
+    "original": "3.   \"Originating Depository Financial Institution\" or \"ODFI\" means the institution that receives the payment instructions from the Originators and forwards the entries to the ACH Operator.",
+    "modified": "3. \"ACH Operator's Initial Receiving Bank\" or \"APIRB\" denotes the bank that initially receives the payment instructions from the Origination Parties and subsequently transmits these entries to the ACH Operator.",
+    "contradiction_score": 0.7251507043838501,
+    "kept": true
+  },
+  {
+    "clause_index": 73,
+    "start_char": 25818,
+    "end_char": 26286,
+    "original": "2.   M&I shall transmit ACH Entries in accordance with the format requirements of the NACHA Rules to an ACH Operator using Customer's Routing Number.  M&I shall receive ACH Entries on behalf of Customer that are transmitted to M&I by an ACH Operator.  M&I shall provide reports to Customer, as described in the M&I ACH Manual (the \"Service Manual\").  If agreed to between Customer and M&I, M&I shall provide for the posting of ACH Entries to Customer deposit accounts.",
+    "ollama_generated": "2. The Customer grants authorization to M&I to transmit ACH Entries in accordance with the NACHA Rules, using a Routing Number provided by the Customer, to an ACH Operator. Received ACH Entries transmitted to M&I by an ACH Operator on behalf of the Customer will be handled accordingly. M&I shall make available reports to the Customer, as detailed in the M&I ACH Manual (the \"Service Manual\"). Under mutual agreement between the Customer and M&I, M&I may facilitate the posting of ACH Entries to Customer deposit accounts; however, any potential errors or issues arising from this service shall be the responsibility of the Customer.",
+    "contradiction_score": 0.010113202035427094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 26449,
+    "end_char": 26551,
+    "original": "4.   M&I may provide additional ACH services as requested by Customer and agreed to by M&I in writing.",
+    "ollama_generated": "4. Upon Customer's written request, M&I shall not be obligated but will endeavor to provide supplementary ACH services, subject to M&I's discretion and agreement.",
+    "contradiction_score": 0.006231467705219984,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 26551,
+    "end_char": 26840,
+    "original": "D.   M&I PC ACH Services.  Customer may provide its business depositors with access to M&I's ACH Services as provided in M&I's PC ACH User Manual (the \"PC ACH Service\").  Customer shall be responsible for informing M&I prior to permitting a new depositor to begin using the PC ACH Service.",
+    "ollama_generated": "D. M&I PC ACH Services Utilization by Customer's Depositors. While M&I encourages the use of its ACH Services, it is not obligated to provide these services (the \"PC ACH Service\") unless expressly agreed in writing. If a Customer chooses to grant its business depositors access to the PC ACH Service, the Customer shall promptly notify M&I upon onboarding any new depositor who intends to utilize the service. Any use of the PC ACH Service by unnotified depositors will be at the risk and liability of the Customer.",
+    "contradiction_score": 0.15891258418560028,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 26979,
+    "end_char": 27048,
+    "original": "E.   Customer Depositor Inquiries\u037e Erroneous or Rejected ACH Entries.",
+    "ollama_generated": "E. Responses to Customer Depositor Inquiries Regarding Erroneous or Unprocessed ACH Transactions: Obligations and Liabilities.\n\nUpon receipt of any inquiry from the Customer Depositor concerning a potentially erroneous or unprocessed Automated Clearing House (ACH) entry, the Service Provider shall promptly investigate the matter and provide a detailed response, including the findings of such investigation, within a reasonable timeframe. The Customer Depositor acknowledges and accepts that the Service Provider's sole responsibility is to make good faith efforts to address the issue, but it does not guarantee resolution or correction of any erroneous or unprocessed ACH entry.\n\nIn the event that an ACH entry is found to be erroneous or unprocessed and subsequently corrected, the Service Provider shall refund any associated fees charged to the Customer Depositor for such transaction, provided that the Customer Depositor has cooperated fully in the resolution process. The Customer Depositor shall bear any costs, expenses, or liabilities incurred as a result of errors or omissions caused by its failure to provide accurate and complete information regarding ACH entries.\n\nThis clause does not absolve the Customer Depositor from its obligations under any applicable law or regulation with respect to ACH transactions. Any disputes arising out of this clause shall be governed by the terms of the agreement between the Service Provider and the Customer Depositor.",
+    "contradiction_score": 0.4505667984485626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 28875,
+    "end_char": 28911,
+    "original": "H.   Compliance With Applicable Law.",
+    "ollama_generated": "I. Exemption from Strict Adherence to Applicable Laws.\n\nThis change weakens the obligation to comply with applicable laws by shifting the focus towards exemptions rather than strict adherence, providing more flexibility in interpretation and execution of the contract.",
+    "contradiction_score": 0.24303101003170013,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 28980,
+    "end_char": 29612,
+    "original": "Neither party shall have any responsibility for the other's compliance with Applicable Law, nor any liability to any person for the other's failure to comply with Applicable Law.  Each party shall indemnify the other and hold it harmless from any and all liabilities, claims, costs, expenses and damages of any nature (including but not limited to reasonable attorney's fees, allocated costs of staff counsel, expenses of litigation and any fees and expenses incurred in enforcing this provision) arising out of or related to any dispute or legal action by any party alleging a violation of Applicable Law by the indemnifying party.",
+    "ollama_generated": "Neither Party shall bear any obligation to ensure the other's adherence to Relevant Regulations, nor shall they be held accountable to any third party for the other's non-compliance with such Regulations. Instead, each Party agrees to defend and protect the other from any and all potential liabilities, claims, expenses, and damages (encompassing but not limited to reasonable attorney fees, costs of internal legal counsel, litigation costs, and fees incurred in enforcing this provision) that may arise from or are connected to any dispute or legal action initiated by a third party alleging a violation of the Relevant Regulations by the indemnifying Party.",
+    "contradiction_score": 0.009957213886082172,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 29979,
+    "end_char": 30081,
+    "original": "M&I shall have no responsibility for ensuring that such Originators have entered into such agreements.",
+    "ollama_generated": "The responsibility for confirming that the Originators have executed the necessary agreements lies with them, not with M&I.",
+    "contradiction_score": 0.0014795423485338688,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 32104,
+    "end_char": 32190,
+    "original": "Customer agrees to use M&I primarily for Customer's Bankcard Services data processing.",
+    "ollama_generated": "The Customer grants M&I permission to process its Bankcard Services data, with the understanding that such usage is not exclusive and may be utilized for other purposes at M&I's discretion.",
+    "contradiction_score": 0.04754596948623657,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 32190,
+    "end_char": 32394,
+    "original": "A.   Customer has membership in Visa U.S.A. Inc.  Customer shall provide M&I with copies of its fully executed Visa U.S.A. Inc. membership agreement promptly after execution of this Agreement by Customer.",
+    "ollama_generated": "The Client hereby acknowledges possession of a membership with Visa U.S.A. Inc. It is understood that the Client will share copies of its executed Visa U.S.A. Inc. membership agreement with M&I, but this disclosure shall be made at the discretion of the Client and need not occur until such time as M&I may reasonably require it.",
+    "contradiction_score": 0.11524641513824463,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 34989,
+    "end_char": 35590,
+    "original": "8.3  Pricing and Operational Assumptions.  The Fee Schedule sets forth the operational and pricing assumptions made by M&I following completion of its preliminary due diligence of Customer's requirements and its evaluation of information provided by Customer.  If, prior to the Conversion Date, the parties determine that one of more of the pricing or operational assumptions listed in the Fee Schedule is inaccurate or incomplete in any material respect, the parties will negotiate in good faith regarding an equitable adjustment to any materially and adversely impacted provisions of this Agreement.",
+    "ollama_generated": "8.3 Pricing and Operational Assumptions Adjustments. The Fee Schedule outlines the operational and pricing assumptions made by M&I based on its preliminary due diligence of Customer's requirements and analysis of information provided by Customer, prior to completion. If, after the Conversion Date, it is established that one or more of the pricing or operational assumptions in the Fee Schedule has become significantly inaccurate or inadequate, M&I reserves the right, at its discretion, to propose adjustments to any provisions of this Agreement that may be materially and adversely affected. The parties will engage in good faith discussions regarding these proposed adjustments, with the aim of reaching a mutually acceptable solution. However, M&I shall not be obligated to make any such adjustments if it determines, in its reasonable judgment, that the inaccuracy or inadequacy does not materially and adversely impact the Agreement.",
+    "contradiction_score": 0.2632441520690918,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 35782,
+    "end_char": 36565,
+    "original": "8.5  Corporate Support Services.  INTENTIONALLY OMITTED 8.6  Item Processing Services.  INTENTIONALLY OMITTED 8.7  Management Services.  INTENTIONALLY OMITTED 8.8  Visa Check/MasterMoney Card Services.  Following commencement of the Bankcard Services, Customer agrees to pay to M&I the fees set forth on the Fee Schedule.  Notwithstanding any provision to the contrary in the Agreement, or any general discount specified in the Fee Schedule, the fees for Bankcard Services shall not be subject to any discounts.  In addition to the charges specified on the Fee Schedule, Customer shall be responsible for all interchange fees and all dues, fees and assessments established by and owed to Visa U.S.A. Inc. and/or MasterCard International for the processing of Customer's transactions.",
+    "ollama_generated": "8.5  Bankcard Services Fees. Upon initiation of the Bankcard Services, the Customer acknowledges their commitment to remunerate M&I in accordance with the fees detailed in the Fee Schedule. Unlike any other provision within the Agreement or general reductions outlined in the Fee Schedule, the charges for Bankcard Services will not be eligible for any discounts. Furthermore, beyond the costs listed on the Fee Schedule, the Customer accepts full responsibility for all interchange fees and any dues, levies, and assessments imposed by Visa U.S.A. Inc., MasterCard International, or any other relevant entities related to the processing of their transactions. This obligation remains in effect regardless of any other terms stipulated within this Agreement.",
+    "contradiction_score": 0.15020546317100525,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 112,
+    "start_char": 37434,
+    "end_char": 37557,
+    "original": "Customer shall be responsible for all Expenses incurred by the participants in connection with such education and training.",
+    "modified": "The Service Provider will assume any expenses related to the attendees' participation in the educational and training events, unless otherwise specified in the agreement. The Customer is only responsible for costs that are explicitly mentioned or mutually agreed upon.",
+    "contradiction_score": 0.9724022746086121,
+    "kept": true
+  },
+  {
+    "clause_index": 117,
+    "start_char": 40560,
+    "end_char": 40599,
+    "original": "8.14 Modification of Terms and Pricing.",
+    "ollama_generated": "8.14 Flexibility Regarding Changes in Terms and Pricing:\n\nIn the event that either Party deems it necessary to modify the terms or pricing outlined in this Agreement, they shall have the discretion to do so, provided that advance written notice is given to the other Party prior to such changes taking effect. The receiving Party shall be responsible for reviewing and considering this notice within a reasonable timeframe. Failure to respond to the notice within said timeframe shall constitute acceptance of the proposed modifications by the receiving Party.",
+    "contradiction_score": 0.11674684286117554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 41034,
+    "end_char": 41205,
+    "original": "B.   REDACTED C.   Customer shall be entitled to receive discounts on certain Services as specifically set forth in the marked up price list made part of the Fee Schedule.",
+    "modified": "B. The Service Provider reserves the right, at its sole discretion, to withhold or modify the discounts applicable to certain Services as detailed in the amended price list appended to the Fee Schedule. In no event shall the Customer presume the availability of such discounts unless explicitly communicated by the Service Provider.",
+    "contradiction_score": 0.8991997241973877,
+    "kept": true
+  },
+  {
+    "clause_index": 122,
+    "start_char": 42003,
+    "end_char": 42418,
+    "original": "A.   Batch Processing. M&I will initiate batch processing and have bank operations reports available for transmission to Customer or make the processed item and reports available, within five (5) hours on all (but two) processing days in a calendar month [fifteen (15) hours at year end] provided M&I receives all input data from Customer at the Operations Center by 1:00 a.m. (local time of the Operations Center).",
+    "modified": "Processing Schedule: The Client shall ensure that all required data is delivered to our Operations Center by 1:00 a.m., local time (Operations Center's time), on all but two processing days in a calendar month. M&I will make every reasonable effort to have the processed items and reports available for transmission to the Client, or alternatively, made accessible within twelve (12) hours on regular processing days, and within twenty-four (24) hours during the year-end period, should M&I receive the data as stipulated.\n\nIn this revised clause, we have inverted the condition by making it the responsibility of the Client to deliver data on time, and we have weakened the obligation of M&I by using \"every reasonable effort\" instead of a specific timeframe for availability. Additionally, the processing time has been extended during the year-end period, indicating a potential slowdown in service at that time.",
+    "contradiction_score": 0.5158373713493347,
+    "kept": true
+  },
+  {
+    "clause_index": 124,
+    "start_char": 43189,
+    "end_char": 43416,
+    "original": "Service Availability Monday-Thursday     12:01 a.m.     -    12:00 midnight Friday              12:01 a.m.     -    12:00 midnight Saturday       12:01 a.m.     -    12:00 midnight Sunday         12:01 a.m.     -      2:00 a.m.",
+    "modified": "Service Availability:\nMonday-Thursday: 12:01 a.m. - 11:59 p.m. (Extended hours for your convenience)\nFriday: 12:01 a.m. - 12:00 midnight (Regular service hours)\nSaturday: 12:01 a.m. - 12:00 midnight (Continued service availability)\nSunday: 2:01 a.m. - 12:00 midnight (Reduced hours, but still accessible for essential needs)",
+    "contradiction_score": 0.8964582681655884,
+    "kept": true
+  },
+  {
+    "clause_index": 125,
+    "start_char": 43416,
+    "end_char": 45492,
+    "original": "6:00 a.m.        12:00 midnight Cardbase Management System Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday       7:00 a.m. -    12:00 midnight Sunday         7:00 a.m. -    12:00 midnight CIS & Deposit System Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday       7:00 a.m. -    12:00 midnight Sunday         7:00 a.m. -    12:00 midnight Loan System Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday       7:00 a.m. -    12:00 midnight Sunday         7:00 a.m. -    12:00 midnight General Ledger Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday       7:00 a.m. -    12:00 midnight Sunday         7:00 a.m. -    12:00 midnight Information Desktop Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday       7:00 a.m. -    12:00 midnight Sunday         7:00 a.m. -    12:00 midnight Teller System Monday - Thursday   6:45 a.m. -    12:00 midnight Friday              6:45 a.m. -    12:00 midnight Saturday       6:45 a.m. -    12:00 midnight Sunday         6:45 a.m. -    12:00 midnight IRS Government Reporting System Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday       7:00 a.m. -    12:00 midnight Sunday         7:00 a.m. -    12:00 midnight Account Analysis Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday       7:00 a.m. -    12:00 midnight Sunday         7:00 a.m. -    12:00 midnight Safe Box Monday - Thursday   7:00 a.m. -    12:00 midnight Friday              7:00 a.m. -    12:00 midnight Saturday - Sunday   7:00 a.m. -    12:00 midnight Monday - Thursday   12:01 a.m.     -    12:00 midnight Friday              12:01 a.m.     -    12:00 midnight Saturday       12:01 a.m.     -    12:00 midnight Sunday         12:01 a.m.     -       2:00 a.m.",
+    "ollama_generated": "7 Days a Week, 6:00 a.m. - 2:00 a.m.:\n- Cardbase Management System (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- CIS & Deposit System (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- Loan System (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- General Ledger (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- Information Desktop (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- Teller System (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- IRS Government Reporting System (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- Account Analysis (Excluding Fridays and Saturdays from 12:01 a.m. to 12:00 midnight)\n- Safe Box System (Available 24/7, except from 12:01 a.m. on Friday until 12:00 midnight on Saturday-Sunday)\n\nThe responsibility for ensuring the functionality of these systems during the stipulated times has been shifted to the users and management, while the vendor assumes no liability for any downtime or service interruptions outside these hours.",
+    "contradiction_score": 0.1525593101978302,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 45985,
+    "end_char": 46024,
+    "original": "Saturday       7:00 a.m. -    4:30 p.m.",
+    "ollama_generated": "Excluding Saturdays, Service Hours shall extend from 7:00 a.m. until the operations naturally wind down, but no later than 8:00 p.m., unless otherwise specified in writing by mutual agreement.",
+    "contradiction_score": 0.13497765362262726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 130,
+    "start_char": 46246,
+    "end_char": 46589,
+    "original": "6:00 a.m.        12:00 midnight _____________________ 1    M&I's objective is to provide 24 x 7 hour availability for these systems.  M&I does however need to perform regular technical maintenance (e.g., NCP maintenance), CPU IPLs, DASD installs, IHS gens, etc.).  This type of maintenance is performed between 2:00 a.m. and 6:00 a.m. CST/CDT.",
+    "ollama_generated": "6:00 p.m.        6:00 a.m. ______________ The Client's expectation for system availability is 24 x 7 hours, however, the Client acknowledges that we may need to perform regular technical maintenance (e.g., NCP maintenance), CPU IPLs, DASD installs, IHS gens, etc.). These routine upkeep activities will be carried out during the hours of 6:00 p.m. to 2:00 a.m. CST/CDT. The Client is responsible for addressing any potential issues that may arise during these maintenance windows.",
+    "contradiction_score": 0.025165803730487823,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 50310,
+    "end_char": 51431,
+    "original": "11.  TERMINATION 11.1 For Convenience.  Customer may terminate this Agreement during the Term upon at least one (1) years' written notice to M&I, provided that Customer pays M&I an early termination fee (\"Termination for Convenience Fee\") in an amount equal to REDACTED of the Estimated Remaining Value.  The Termination for Convenience Fee shall apply to any early termination of this Agreement other than pursuant to an Event of Default on the part of Customer or M&I or pursuant to Section 11.3 below.  Fifty percent of the Termination for Convenience Fee shall be paid to M&I within thirty (30) days following the date of Customer's notice and the remaining 50% shall be paid to M&I within thirty (30) days prior to the Effective Date of Termination.  In addition to the foregoing, Customer shall pay to M&I, any unamortized Conversion or other costs, reasonable Expenses in connection with the disposition of equipment, facilities and contracts related to M&I's performance of the Services on behalf of Customer.  The Termination for Convenience Fee shall not be subject to the limitations set forth in Section 13.4.",
+    "ollama_generated": "11. TERMINATION\n\n11.1 At M&I's Discretion. M&I retains the right, at its sole discretion and without cause, to terminate this Agreement during the Term upon providing written notice to Customer. However, in such an event, M&I shall be entitled to a late termination fee (\"Late Termination Fee\") equal to REDACTED of the Estimated Remaining Value. This Late Termination Fee applies only if M&I elects to terminate this Agreement without an Event of Default by either party or pursuant to Section 11.3 below.\n\nIn the event that M&I exercises its right to terminate, Customer shall pay M&I:\n- Fifty percent of the Late Termination Fee within thirty (30) days following the date of M&I's notice; and\n- The remaining fifty percent within thirty (30) days prior to the Effective Date of Termination.\n\nIn addition, Customer shall be responsible for paying to M&I any unamortized Conversion or other costs, as well as reasonable Expenses incurred by M&I related to the disposition of equipment, facilities, and contracts associated with the provision of Services to Customer. The Late Termination Fee shall not be subject to the limitations set forth in Section 13.4.\n\nThis clause is intended to provide M&I with a level of assurance regarding its investments and commitments under this Agreement, should it choose to terminate at its discretion.",
+    "contradiction_score": 0.07021474093198776,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 51460,
+    "end_char": 51475,
+    "original": "11.2 For Cause.",
+    "ollama_generated": "11.2 In the Event of Permitted Reasons.\n\nExplanation: The original clause 11.2 refers to a situation where there is \"Cause\" for termination or modification of the agreement. To weaken the obligation, I have changed it to \"In the event of permitted reasons,\" which implies that there are conditions under which the agreement can be modified or terminated, but those conditions are not as strict or severe as having a \"cause.\" This change subtly shifts some of the responsibility from the party with the initial obligation to the other party, as it is now implied that both parties have agreed to certain circumstances under which the contract may be altered.",
+    "contradiction_score": 0.38451284170150757,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 145,
+    "start_char": 53917,
+    "end_char": 54363,
+    "original": "(i) M&I becomes insolvent, or a receiver of conservator shall be appointed with respect to M&I\u037e or (ii) M&I shall fail to perform any of its obligations under this Agreement which have a material adverse effect on Customer, and such failure is not cured within 30 days after written notice from Customer\u037e or (iii) M&I fails to meet any Performance Standard and such failure is not cured within ninety (90) days after written notice from Customer.",
+    "ollama_generated": "(i) In the event that M&I does not rectify its financial insolvency, or if a receiver or conservator is appointed for M&I, such occurrence shall trigger this provision.\n\n   (ii) Should M&I breach any of its obligations under this Agreement, resulting in a material detriment to the Customer, and such breach remains unrectified for more than 30 days following written notification from the Customer, this clause will be invoked.\n\n   (iii) If M&I fails to meet any Performance Standard stipulated herein, and such failure persists beyond ninety (90) days following written notice from the Customer, this provision shall become effective.\n\nIn this rewritten clause, the obligations of M&I have been slightly weakened as it now gives them a longer period of time to cure their failures before this clause is invoked. Additionally, the responsibility has shifted to the Customer in terms of giving written notice and allowing a reasonable period for rectification.",
+    "contradiction_score": 0.31514880061149597,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 54363,
+    "end_char": 54931,
+    "original": "12.2 By Customer.  It shall be an Event of Default on the part of the Customer if: (i) Customer becomes insolvent, or a receiver of conservator shall be appointed with respect to the Customer\u037e or (ii) Customer shall fail to pay any sum due M&I within the prescribed time period, and such failure continues for ten days after written notice thereof from M&I\u037e or (iii) Customer shall fail to perform any of its other obligations under this Agreement which have a material adverse effect on M&I, and such failure is not cured within 30 days after written notice from M&I.",
+    "modified": "12.2 By M&I. It will be considered a Cure Period for M&I if: (i) M&I experiences financial distress, or a petition for bankruptcy is filed against M&I; or (ii) M&I fails to meet any payment obligations to the Customer within the prescribed timeframe, and such failure persists for 10 business days after receipt of notice from the Customer; or (iii) M&I breaches any of its material obligations under this Agreement that has a significant detrimental impact on the Customer, and such breach is not remedied within 30 business days following notification by the Customer.",
+    "contradiction_score": 0.9707489013671875,
+    "kept": true
+  },
+  {
+    "clause_index": 155,
+    "start_char": 58363,
+    "end_char": 58467,
+    "original": "A.   Throughout the Term of this Agreement, M&I shall maintain at all times at its own cost and expense:",
+    "ollama_generated": "B. During the Scope of this Contract, M&I shall endeavor to sustain, as their discretion allows, at their own financial risk:\n\nThis modification subtly alters the original clause by making M&I's obligation to maintain certain items a discretionary effort instead of an absolute requirement throughout the term of the agreement. Additionally, it shifts responsibility for any potential costs or expenses associated with this maintenance to M&I directly, emphasizing that they bear the financial risk in their efforts to sustain these items.",
+    "contradiction_score": 0.09595509618520737,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 58467,
+    "end_char": 58708,
+    "original": "1.   Commercial General Liability Insurance covering its premises, including bodily injury, property damage, broad form contractual liability and independent contractors, with primary limits of not less than two million dollars ($2,000,000).",
+    "ollama_generated": "1. Obligatory Commercial General Liability Insurance, encompassing the insured's premises for incidents involving bodily injury, property damage, contractual liabilities in a comprehensive manner, as well as independent contractors. The minimum primary coverage shall be set at an amount not exceeding two million dollars ($2,000,000), with the option for the insured to increase this limit at their discretion.",
+    "contradiction_score": 0.010548125952482224,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 58708,
+    "end_char": 58867,
+    "original": "2.   Fidelity Insurance covering employee dishonesty with respect to all aspects of the Services, in an amount not less than ten million dollars ($10,000,000).",
+    "ollama_generated": "2. Employee dishonesty indemnification shall be provided by a Fidelity Insurance policy, covering the scope of the Services, with a minimum coverage amount of ten million dollars ($10,000,000), yet recognizing that the Insured may have limited control over the actions of its employees and thus accepting that the insurance may not cover all instances of employee dishonesty.",
+    "contradiction_score": 0.23421692848205566,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 58867,
+    "end_char": 59077,
+    "original": "3.   Workers' Compensation Insurance as mandated or allowed by the state in which the Services are being performed, including at least five hundred thousand dollars ($500,000) coverage for Employer's Liability.",
+    "ollama_generated": "3. The Employer shall maintain a minimum Workers' Compensation Insurance coverage of at least five hundred thousand dollars ($500,000), as stipulated or permitted by the applicable state laws, to safeguard against potential liabilities arising from injuries sustained during the course of the Services provision. The Employer shall not be held responsible for any claims beyond the scope of this insurance coverage.",
+    "contradiction_score": 0.0016579359071329236,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 59261,
+    "end_char": 59766,
+    "original": "B.   All  policies of such insurance shall be written by a carrier or carriers rated \"A\" or above by Best, shall contain a clause requiring the carrier to give Customer at least thirty (30) days' prior written notice of any material change or cancellation of coverage for any reason, and simultaneously with M&I's execution of this Agreement, and annually thereafter, at Customer's request, M&I shall deliver to Customer original Certificates of Insurance evidencing the coverage required by this Section.",
+    "ollama_generated": "A. The insurance policies in question should ideally be issued by an insurer carrying an \"A\" rating or higher from Best, but it is not mandatory if a lower-rated carrier can demonstrate sufficient financial stability and commitment to our mutual interests. The policies are expected to include a provision that grants the Customer at least thirty (30) days' advance written notice of any significant changes or termination of coverage, except in extraordinary circumstances where prompt action is necessary to protect the insured interests. Upon signing this Agreement and on an annual basis thereafter, upon request by the Customer, M&I will provide original Certificates of Insurance demonstrating the required coverage as outlined in this Section, provided that such delivery shall be subject to the insurer's standard confidentiality terms and conditions regarding sensitive policy information.",
+    "contradiction_score": 0.11179220676422119,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 65066,
+    "end_char": 65793,
+    "original": "15.  DISPUTE RESOLUTION 15.1 Representatives of Parties.  All disputes arising under or in connection with this Agreement shall initially be referred to the Account Representatives (as defined in Section 18.1).  If the Account Representatives are unable to resolve the dispute within five (5) business days after referral of the matter to them, the managers of the Account Representatives shall attempt to resolve the dispute.  If, after five (5) days they are unable to resolve the dispute, senior executives of the parties shall attempt to resolve the dispute.  If, after give (5) days they are unable to resolve the dispute, the parties shall submit the dispute to the chief executive officers of the parties for resolution.",
+    "ollama_generated": "15. DISPUTE RESOLUTION\n\n15.1 Initiation and Escalation of Disputes: Any disagreements or disputes that arise from this Agreement will first be addressed by the parties' respective Senior Executives (as defined in Section 18.1). If these executives fail to reach a resolution within ten (10) business days following referral, the dispute shall then be escalated to the Account Representatives for their attempts at mediation. In the event that the Account Representatives cannot resolve the issue within five (5) additional business days, the parties will appoint external mediators to attempt resolution. If these mediators fail to reach a resolution after twenty (20) business days, the dispute shall be submitted to binding arbitration.\n\nThis revised clause places the burden of resolution on higher-level executives and introduces an escalation process that involves external mediation before reaching the final step of binding arbitration. This new version may shift some responsibility away from the Account Representatives in the initial stages of dispute resolution, while also allowing for a broader range of potential resolutions by introducing external mediators.",
+    "contradiction_score": 0.08795198798179626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 66194,
+    "end_char": 66277,
+    "original": "16.  REPRESENTATIONS AND WARRANTIES 16.1 By M&I.  M&I represents and warrants that:",
+    "modified": "16. DISCLAIMERS AND LIMITATIONS 16.1 By M&I. M&I disclaims and limits its liabilities to the extent permitted by law as follows:\n\nM&I does not make, nor does it imply or suggest, any representations or warranties of any kind in connection with the subject matter of this Agreement, except as expressly stated herein. Any such representations or warranties made prior to this Agreement are explicitly excluded and disclaimed. M&I shall have no liability for any claims, losses, or damages arising from the use of the services or goods provided under this Agreement, unless such claims, losses, or damages result directly from M&I's gross negligence or willful misconduct.",
+    "contradiction_score": 0.8686860799789429,
+    "kept": true
+  },
+  {
+    "clause_index": 185,
+    "start_char": 71676,
+    "end_char": 72228,
+    "original": "Each party shall instruct its employees, agents, and contractors of its confidentiality obligations hereunder and not to attempt to circumvent any such security procedures and devices.  Each party's obligation under the preceding sentence may be satisfied by the use of its standard form of confidentiality agreement, if the same reasonably accomplishes the purposes here intended.  All such Confidential Information shall be distributed only to persons having a need to know such information to perform their duties in conjunction with this Agreement.",
+    "ollama_generated": "Each party is empowered to delegate its confidentiality obligations under this agreement to its employees, agents, or contractors, provided they are made fully aware of these responsibilities and are bound by appropriate confidentiality agreements. Such delegates shall refrain from attempting to bypass any established security measures and devices. It is permissible for each party to fulfill its obligation through the utilization of its standard form of confidentiality agreement, so long as it effectively achieves the intended purposes. All Confidential Information shared under this agreement should be disclosed only to individuals whose knowledge of such information is essential for them to carry out their duties in relation to this Agreement.",
+    "contradiction_score": 0.012547329068183899,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 198,
+    "start_char": 78401,
+    "end_char": 79030,
+    "original": "20.3 Resumption of Services.  The Disaster Recovery Plan shall provide that, in the event of a Disaster, M&I is able to resume all Services in accordance herewith utilizing the Disaster Recovery Site within a commercially reasonable period following the declaration of any Disaster as provided in the Disaster Recovery Plan.  In the event M&I is unable to resume all Services to Customer within thirty (30) days following the declaration of any Disaster, Customer shall have the right to terminate this Agreement without penalty upon written notice to M&I delivered within forty-five (45) days after declaration of such Disaster.",
+    "ollama_generated": "20.3 Cessation and Resumption of Services. The Disaster Recovery Plan shall specify that, in the occurrence of a Disaster, Customer has the obligation to request the resumption of all Services, and M&I will make reasonable efforts to comply with such request within a commercially reasonable timeframe as defined in the Disaster Recovery Plan. In the event M&I is unable to commence Services again within thirty (30) days following Customer's request for resumption of Services after a declared Disaster, M&I may terminate this Agreement without penalty upon written notice to the Customer delivered within forty-five (45) days after such request.",
+    "contradiction_score": 0.017986999824643135,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 203,
+    "start_char": 80519,
+    "end_char": 81345,
+    "original": "21.3 Equipment and Network.  Customer shall obtain and maintain at its own expense its own data processing and communications equipment as may be necessary or appropriate to facilitate the proper use and receipt of the Services.  Customer shall pay all installation, monthly, and other charges relating to the installation and use of communications lines in connection with the Services.  M&I maintains and will continue to maintain a network control center with diagnostic capability to monitor communication line reliability and availability.  M&I shall not be responsible for the continued availability or reliability of the communications lines used by Customer in accessing the Services.  M&I agrees to perform reasonable diagnostic services and communicate to vendors any deficiencies of which M&I is, or becomes, aware.",
+    "ollama_generated": "21.3 Data Processing and Communications Equipment / Network: The Responsibility for the provision, maintenance, and costs associated with the data processing equipment and communication lines necessary or suitable for utilizing the Services lies solely with the Client. This includes all installation, monthly, and other charges related to these facilities.\n\nWhile M&I shall exert reasonable efforts to maintain a network control center equipped with diagnostic capabilities for monitoring communication line dependability and accessibility, it does not assume responsibility for the continued availability or reliability of the lines used by the Client to access the Services. M&I will, however, execute reasonable diagnostic services and promptly inform vendors about any identified deficiencies.",
+    "contradiction_score": 0.06493129581212997,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 204,
+    "start_char": 81345,
+    "end_char": 81855,
+    "original": "21.4 Reliance on Data.  M&I will process Items and data and perform those Services described in this Agreement on the basis of information furnished by Customer.  M&I shall be entitled to rely upon any such data, information, or instructions as provided by Customer.  If any error results from incorrect input supplied by Customer, Customer shall be responsible for discovering and reporting such error and supplying the data necessary to correct such error to M&I for processing at the earliest possible time.",
+    "modified": "21.4 Data Reliance and Error Responsibility: In utilizing the Items and services as outlined in this Agreement, M&I shall rely on the information, data, or instructions provided by the Customer. It is understood that M&I bears no responsibility for any errors arising from the data supplied by the Customer. Should an error occur due to incorrect inputs, M&I will promptly notify the Customer of the issue and provide reasonable assistance in correcting such error, but the onus remains with the Customer to identify, report, and rectify the error as swiftly as practicable. The Customer is responsible for the timely provision of any necessary data required to remedy such errors.\n\nIn this revised version, the responsibility for discovering and reporting errors caused by incorrect customer input has shifted from the Customer to M&I, while retaining the Customer's responsibility to rectify them promptly after being notified. Additionally, the clause now clarifies that M&I will provide assistance in correcting the errors.",
+    "contradiction_score": 0.7082428336143494,
+    "kept": true
+  },
+  {
+    "clause_index": 219,
+    "start_char": 89146,
+    "end_char": 90052,
+    "original": "A.   Acquisition of Additional Financial Institutions.  If Customer acquires Control after the date hereof of one or more bank holding companies, banks, savings and loan associations or other financial institutions that are not currently Affiliates, M&I agrees to provide Services for such new Affiliates and such Affiliates shall automatically be included in the definition of \"Customer\"\u037e provided that (a) the Conversion of each new Affiliate must be scheduled at a mutually agreeable time (taking into account, among other things, the availability of M&I Conversion resources) and must be completed before M&I has any obligation to provide Services to such new Affiliate\u037e (b) the Customer will be liable for any and all Expenses in connection with the Conversion of such new Affiliate and (c) Customer shall pay Conversion Fees in an amount to be mutually agreed upon with respect to each new Affiliate.",
+    "ollama_generated": "Financial Institution Expansion Clause. In the event that the Customer gains Control, following the date of this agreement, over one or more bank holding companies, banks, savings and loan associations, or other financial institutions not presently classified as Affiliates, M&I is prepared to extend Services to these newly incorporated entities, with such new Affiliates automatically being incorporated into the definition of \"Customer.\" However, it is stipulated that: (a) The integration of each new Affiliate must be coordinated at a mutually convenient time, considering factors like the availability of M&I resources for conversion. The completion of this integration should precede any obligations on M&I's part to provide Services to these new entities. (b) The Customer shall bear all costs associated with the integration of each new Affiliate, and (c) Negotiation will be required to determine the Conversion Fees for each new Affiliate, which fees will then become the responsibility of the Customer upon agreement.",
+    "contradiction_score": 0.03279192000627518,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 93071,
+    "end_char": 93870,
+    "original": "22.5 Relationship of Parties.  The performance by M&I of its duties and obligations under this Agreement shall be that of an independent contractor and nothing contained in this Agreement shall create or imply an agency's relationship between Customer and M&I, nor shall this Agreement be deemed to constitute a joint venture or partnership between Customer and 22.6 Notices.  Except as otherwise specified in the Agreement, all notices, requests, approvals, consents and other communications required or permitted under this Agreement shall be in writing and shall be personally delivered or sent by (i) first class U.S. mail, registered or certified, return receipt requested, postage pre-paid\u037e or (ii) U.S. express mail, or other, similar overnight courier service to the address specified below.",
+    "ollama_generated": "22.5 Role of Parties. While M&I will faithfully fulfill its duties and responsibilities as outlined in this Agreement, it is understood that such performance does not establish an employer-employee or joint venture relationship between M&I and the Customer. Instead, M&I operates autonomously under this Agreement without any implied partnership with the Customer.\n\n22.6 Communication Protocol. With the exception of instances specified within this Agreement, all formal correspondence, notifications, approvals, consents, and other communications mandated or permitted herein shall be provided in writing. Such written communication may be delivered personally or sent via (i) first-class U.S. mail, registered or certified, with return receipt requested and pre-paid postage, or (ii) overnight courier services such as U.S. express mail or similar expedited delivery methods to the addresses provided below. However, in cases of urgent matters, verbal communication may be permitted upon mutual agreement between the parties.",
+    "contradiction_score": 0.012207671999931335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 229,
+    "start_char": 94623,
+    "end_char": 95008,
+    "original": "22.9 Waiver.  No delay or omission by either party to exercise any right or power it has under this Agreement shall impair or be construed as a waiver of such right or power.  A waiver by any party of any breach or covenant shall not be construed to be a waiver of any succeeding breach or any other covenant.  All waivers must be in writing and signed by the party waiving its rights.",
+    "ollama_generated": "22.9 Waiver and Consequences:\n\nAny negligence on the part of either Party in exercising their rights or powers under this Agreement shall not be deemed to lessen or alter that right or power, nor shall it constitute a waiver for future instances. A concession by any Party regarding a violation or agreement term does not imply a waiver for subsequent violations or other terms. All waivers require written confirmation and signature from the waiving party to be valid.",
+    "contradiction_score": 0.045533016324043274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 95008,
+    "end_char": 95343,
+    "original": "22.10     Severability.  If any provision of this Agreement is held by court or arbitrator of competent jurisdiction to be contrary to law, then the remaining provisions of this Agreement will remain in full force and effect.  Articles 11, 13 and 17 shall survive the expiration or earlier termination of this Agreement for any reason.",
+    "modified": "22.10. Modified Severability. Should any provision within this Agreement be deemed unlawful by a court or competent arbitrator, the parties acknowledge that such unlawful provision may be severed, and the remaining provisions of this Agreement shall be valid and enforceable to the maximum extent permitted by law. The provisions outlined in Articles 11, 13, and 17 shall survive any expiration or termination of this Agreement, regardless of the cause.",
+    "contradiction_score": 0.5593908429145813,
+    "kept": true
+  },
+  {
+    "clause_index": 237,
+    "start_char": 97590,
+    "end_char": 97887,
+    "original": "23.  SOURCE CODE 23.1 Escrow.  M&I has entered into a Master Preferred Escrow Agreement (\"Escrow Agreement\") with Data Securities International, Inc. (\"DSI\"), Account no. 1309046-0001, pursuant to which M&I has deposited with DSI the source code for the IBS Licensed Software (the \"IBS Software\").",
+    "ollama_generated": "23. SOURCE CODE (AMENDED)\n\n23.1 Release of Escrow. The licensee, M&I, has entered into a Master Preferred Escrow Agreement (\"Escrow Agreement\") with Data Securities International, Inc. (\"DSI\"), Account no. 1309046-0001, under which the licensor, upon request by M&I or in certain specified events, may release the source code for the IBS Licensed Software (the \"IBS Software\") to M&I.\n\nIn this amended clause, the responsibility for releasing the source code has been shifted from M&I to the licensor, providing M&I with greater control over accessing the source code.",
+    "contradiction_score": 0.06468716263771057,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 238,
+    "start_char": 97887,
+    "end_char": 98073,
+    "original": "23.2 Copy of Source Code.  M&I agrees that Customer shall have the right to obtain a copy of the source code for the IBS Software pursuant to the terms and conditions of this Article 23.",
+    "ollama_generated": "23.2 Access to Source Code: Grant of Rights. The Company (M&I) reserves the right, at its sole discretion, to provide Customer with access to the source code for the Integrated Business System (IBS) Software, subject to the terms and conditions set forth in this Article 23.",
+    "contradiction_score": 0.01846037618815899,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

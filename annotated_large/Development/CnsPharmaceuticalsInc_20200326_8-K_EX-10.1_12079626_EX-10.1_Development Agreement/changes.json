@@ -1,0 +1,91 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 1069,
+    "end_char": 1300,
+    "original": "NOW, THEREFORE, in consideration of the covenants, conditions and agreements hereinafter set forth, and other valuable consideration, the receipt and sufficiency of which is hereby acknowledged, WPD and CNS hereby agree as follows:",
+    "modified": "HENCEFORTH, NOTWITHSTANDING THE AFOREMENTIONED CONSIDERATIONS AND AGREEMENTS TO FOLLOW, AND IN RECOGNITION OF SUCH CONSIDERATIONS, WPD and CNS mutually understand and commit as follows:\n\nIn this revised clause, the original \"agree\" has been replaced with \"mutually understand and commit,\" which suggests a more informal or collaborative approach. This change weakens the obligation slightly by making it sound less binding and more open to interpretation or negotiation.",
+    "contradiction_score": 0.6888720989227295,
+    "kept": true
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1645,
+    "end_char": 1819,
+    "original": "1.2 \u201cBusiness Day \u201d means any day other than a day which is a Saturday, a Sunday or any other day on which banks are authorized or required to be closed in New York City, NY.",
+    "ollama_generated": "1.2 \"Business Day\" denotes any day that is not a recognized holiday or weekend in New York City, NY, or any other day when financial institutions within the city are not legally or customarily closed for business.",
+    "contradiction_score": 0.0048718503676354885,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 4406,
+    "end_char": 4541,
+    "original": "1.10 \u201cSale\u201d, \u201cSells \u201d, \u201cSold\u201d means the transfer or disposition of a Development Product, for value, to a person or entity for end use.",
+    "ollama_generated": "1.10 \"Sale\", \"Sells\", \"Sold\" denotes the relinquishment or assignment of a Development Product, in exchange for consideration, to any individual or entity, with the caveat that such transfer is not intended for subsequent resale or commercial use without prior written consent.",
+    "contradiction_score": 0.16483111679553986,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 10453,
+    "end_char": 11825,
+    "original": "5.4 Data Privacy and Security Laws. WPD and its subsidiaries (if any) will at all times during the Term be in material compliance with all applicable data privacy and security laws and regulations, and WPD and its subsidiaries (if any) have taken or will take commercially reasonable actions to comply with the European Union General Data Protection Regulation (\u201c GDPR \u201d) (EU 2016/679) and all other applicable laws and regulations with respect to Personal Data (defined below) that have been announced as of the date hereof as becoming effective within 12 months after the date hereof, and for which any non-compliance with same would be reasonably likely to create a material liability (collectively, the \u201c Privacy Laws \u201d). To WPD\u2019s knowledge, WPD and its subsidiaries (if any) have been and currently are in material compliance with the GDPR. To ensure material compliance with the Privacy Laws, WPD and its subsidiaries (if any) have taken, and currently take, commercially reasonable steps reasonably designed to ensure compliance in all material respects with Privacy Laws relating to data privacy and security and the collection, storage, use, disclosure, handling, and analysis of Personal Data that WPD has collected, and collects, or is in WPD\u2019s possession or will be in WPD\u2019s possession during the Term. \u201cPersonal Data\u201d means \"personal data\" as defined by GDPR.",
+    "ollama_generated": "5.4 Data Privacy and Security Obligations: Party A acknowledges that they shall endeavor, but not guarantee, to maintain compliance with all applicable data privacy and security laws and regulations during the Term. Party A, along with its subsidiaries (if any), shall implement commercially reasonable measures aimed at achieving full compliance with the European Union General Data Protection Regulation (\u201cGDPR\u201d), as well as other applicable laws and regulations regarding Personal Data that are due to come into effect within the 12 months following this Agreement's date. Any significant non-compliance with these laws could potentially result in material liabilities, but it is understood that Party A, along with its subsidiaries (if any), may not be currently fully compliant with the GDPR, and compliance efforts will be ongoing.\n\n\"Personal Data\" as referred to herein shall have the meaning ascribed to it under GDPR. To ensure a reasonable level of compliance with these obligations, Party A and its subsidiaries (if any) shall take commercially prudent measures reasonably deemed appropriate for ensuring compliance in all material respects with laws concerning data privacy and security, as well as the handling, storage, use, disclosure, and analysis of Personal Data that Party A has, or may come to possess during the Term.",
+    "contradiction_score": 0.03131898492574692,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 11825,
+    "end_char": 12090,
+    "original": "ARTICLE 6 TERM AND TERMINATION 6.1 The term of this Agreement will commence on the Effective Date and remain in full force and effect until the expiration of the Sublicense Agreement, unless earlier termination by pursuant to the terms of this Agreement (\u201c Term \u201d).",
+    "ollama_generated": "ARTICLE 6 TERM AND TERMINATION\n\n6.1 The duration of this Agreement shall commence on the Effective Date and continue in effect until such time as either party may terminate it, at their sole discretion, upon providing written notice to the other (\" Termination Period \"). However, this Agreement shall automatically terminate upon the expiration or termination of the Sublicense Agreement.",
+    "contradiction_score": 0.15180175006389618,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 17100,
+    "end_char": 17828,
+    "original": "Source: CNS PHARMACEUTICALS, INC., 8-K, 3/26/2020 ARTICLE 8 INDEMNIFICATION 8.1 WPD hereby agrees to hold harmless and indemnify CNS, its officers, affiliates, employees, and agents (the \u201c CNS Indemnitees \u201d) from and against any and all third party claims, demands, causes of actions, costs of suit and reasonable and documented attorney\u2019s fees (collectively \u201cClaims \u201d) caused by, arising out of, or resulting from WPD\u2019s, its employees, agents\u2019, affiliates\u2019, licensees\u2019, sublicensees\u2019 or subcontractors\u2019 (i) negligence or willful misconduct\u037e (ii) breach of any warranty or representations set forth herein\u037e (iii) breach or alleged breach of third party intellectual property rights\u037e and (iv) use or sale of Development Products.",
+    "ollama_generated": "Clause:\nSource: CNS PHARMACEUTICALS, INC., 8-K, 3/26/2020 ARTICLE 8 INDEMNIFICATION\n\n8.1 In the event that any claims, demands, causes of actions, costs of suit and reasonable and documented attorney\u2019s fees (collectively \u201cClaims\u201d) are brought against CNS, its officers, affiliates, employees, and agents (the \u201cCNS Indemnitees\u201d), WPD assumes the obligation to defend and indemnify the CNS Indemnitees from such Claims. This indemnification shall apply to any and all Claims caused by, arising out of, or resulting from:\n\n   (i) the negligence or willful misconduct of WPD, its employees, agents', affiliates', licensees', sublicensees' or subcontractors';\n   (ii) any breach of warranty or representation made by WPD in this agreement;\n   (iii) infringement or alleged infringement of third-party intellectual property rights by WPD; and\n   (iv) the use or sale of Development Products by WPD.\n\nThis revised clause shifts the responsibility for indemnification to WPD in case any claims are brought against CNS Indemnitees, thus weakening the obligation of WPD as it now needs to defend and indemnify instead of merely holding harmless and indemnifying.",
+    "contradiction_score": 0.301690936088562,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 18593,
+    "end_char": 18830,
+    "original": "9.4 Any notice required by this Agreement will be given by personal delivery (including delivery by reputable messenger services such as Federal Express) or by prepaid, first class, certified mail, return receipt requested, addressed to:",
+    "ollama_generated": "9.4 Notifications prescribed by this Agreement can be made by the following methods:\n\n1. Personal delivery (including delivery via reliable courier services like Federal Express), or\n2. Electronic communication, provided that an email confirmation is obtained, or\n3. Registered mail with return receipt requested, sent to the most recent address provided by the other party in writing.\n\nThis revised clause expands the methods for delivering notices, inverting the original condition to now include electronic communication as a valid method (subject to obtaining email confirmation), in addition to personal delivery and registered mail.",
+    "contradiction_score": 0.03200826793909073,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 18859,
+    "end_char": 18881,
+    "original": "If to WPD: If to CNS :",
+    "ollama_generated": "If to WPD (Customer Network Service): If to CNS (Wireless Provisioning Department):\n\nUpon occurrence of a service interruption or failure, it shall be the responsibility of the Customer Network Service (CNS) to initiate immediate action to rectify the issue. However, if the CNS is unable to remedy the problem within a reasonable time frame, Wireless Provisioning Department (WPD) may take appropriate steps to resolve the matter at its own discretion.\n\nThis provision is intended to ensure that service disruptions are addressed in a timely and efficient manner, with the primary responsibility lying with the CNS, but allowing WPD to intervene when necessary for the continued satisfactory performance of the services provided under this agreement.",
+    "contradiction_score": 0.0013648937456309795,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 20050,
+    "end_char": 20363,
+    "original": "9.8 This Agreement will be governed by, construed and enforced in accordance with the laws of the State of Texas. Any dispute between the Parties regarding or related to this Agreement shall be litigated in the courts located in Houston, Texas, and WPD agrees not to challenge personal jurisdiction in that forum.",
+    "ollama_generated": "9.8 This Agreement shall be subject to the laws of the State of Texas, and any disputes arising from or concerning this Agreement will be adjudicated solely by the courts with jurisdiction over Houston, Texas. The Parties agree that WPD may challenge personal jurisdiction only if extraordinary circumstances warrant it, with the understanding that such a challenge may result in litigation being conducted within the designated forum.",
+    "contradiction_score": 0.005632032640278339,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

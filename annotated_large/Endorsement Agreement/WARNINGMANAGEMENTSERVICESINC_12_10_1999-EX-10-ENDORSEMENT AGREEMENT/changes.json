@@ -1,0 +1,71 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 1092,
+    "end_char": 1448,
+    "original": "(c)   \"Contract Year Quarter\" shall mean each 3 consecutive month period occurring during any Contract Year (\"Contract Year\" meaning any twelve month period herein commencing as of June 1) (so that, by way of example, the first Contract Year Quarter of the first Contract Year commences as of June 1, 1999, the second commences on September 1, 1999, etc.).",
+    "modified": "(c)   \"Contract Year Quarter\" shall refer to each non-overlapping period of four months within any Contract Term (\"Contract Term\" denoting the entire duration of this agreement, with the first Contract Term starting from the commencement date herein and continuing thereafter in twelve month increments, such that the first Contract Term Quarter starts on June 1 of the effective year). Consequently, for illustrative purposes, the first Contract Term Quarter in the inaugural Contract Term would begin on June 1, 1999, the second on October 1, 1999, and so forth. This definition allows for a slight difference in interpretation: rather than having three consecutive months, the quarters now consist of four months each, with a new quarter starting every fourth month from the start date.",
+    "contradiction_score": 0.9102776050567627,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 4178,
+    "end_char": 4383,
+    "original": "(c)   Pey Dirt has the right to terminate this Agreement immediately if Company's Endorsed Products are not being distributed in the Contract Territory to a significant number of stores by October 1, 1999.",
+    "ollama_generated": "(d) Company retains the option to continue distribution of their Endorsed Products within the Contract Territory beyond October 1, 1999; however, Pey Dirt reserves the right to terminate this Agreement if the number of stores carrying such products does not significantly increase by said date.",
+    "contradiction_score": 0.11035801470279694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6692,
+    "end_char": 7474,
+    "original": "(c)   Further, Pey Dirt will be entitled to fifty percent (50%) of all gross profits (i.e., gross revenues less only Company's actual out-of-pocket costs of obtaining the raw merchandise) generated from merchandise related to the Endorsed Products and/or the Manning Identification, said merchandise to be advertised exclusively on the back panel of each box of Endorsed Products.  Except for the advertising of merchandise related to the Endorsed Products and/or the Manning Identification, no other use of the back panel of each box of Endorsed Products is permitted without Pey Dirt's prior written consent.  It is agreed that all such merchandise must be mutually approved in all respects by the parties hereto, including, without limitation, the style, design and cost thereof.",
+    "ollama_generated": "(c) In addition, Pey Dirt shall have the exclusive right to receive fifty percent (50%) of the net profits (i.e., gross revenues minus all costs, including but not limited to the Company's expenses for obtaining the raw merchandise and any other associated costs) derived from merchandise linked to the Endorsed Products or the Manning Identification. This merchandise will be advertised exclusively on the packaging of each box of Endorsed Products, with the exception that no other use of this packaging space is allowed without Pey Dirt's prior written approval. It is understood and agreed upon by both parties that all such merchandise must meet mutual approval in terms of style, design, and pricing, with Pey Dirt having the final say in any disputes or disagreements regarding these aspects. Furthermore, the Company acknowledges its responsibility for covering any costs associated with the production and distribution of this merchandise, including but not limited to shipping, manufacturing, and any additional fees.",
+    "contradiction_score": 0.012120676226913929,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 9464,
+    "end_char": 9997,
+    "original": "6.    Payments\u037e Books and Records. (a) Pey Dirt may elect to have payments made by check, wire transfer or bank transfer.  Unless such election has been made in writing, all payments shall be made by check drawn to the order of \"Pey Dirt, Inc.\" and delivered to IMG, Suite 100, 1360 East 9th Street, Cleveland, Ohio 44114, Attn.: Peter Johnson.  Past due payments hereunder shall bear interest at the rate of (i) one and one-half percent (1-1/2%) per month, or (ii) the maximum interest rate permissible under law, whichever is less.",
+    "ollama_generated": "6. Payment Methods and Recordkeeping:\n\n(a) IMG has the discretion to decide the method of payment, either by check, wire transfer, or bank transfer. Absent such written notice, all payments shall be made by check, payable to \"Pey Dirt\" and sent to Pey Dirt, Inc., Suite 100, 1360 East 9th Street, Cleveland, Ohio 44114, Attn.: Peter Johnson.\n\n(b) Any payments not made on time will accrue interest at a rate of the maximum permissible by law, as long as this rate exceeds the rate of one and one-half percent (1-1/2%) per month. If the permissible rate is less than 1-1/2%, then the interest rate shall be set at 1-1/2% per month.\n\nBy shifting the payment method discretion to IMG, this clause weakens Pey Dirt's obligation for specifying the preferred payment method and allows for more flexibility in the choice of payment methods. Additionally, by adjusting the interest rate calculation, the clause shifts the responsibility for determining the applicable interest rate from Pey Dirt to IMG, favoring the latter if the legal maximum is lower than 1-1/2% per month.",
+    "contradiction_score": 0.30796176195144653,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 18353,
+    "end_char": 18858,
+    "original": "The termination rights set forth in this section shall not constitute the exclusive remedy of the nondefaulting party hereunder, however, and if default is made by either party hereunder, the other may resort to such other remedies as said party would have been entitled to if this section had been omitted from this Agreement.  Termination under the provisions of this section shall be without prejudice to any rights or claims which the terminating party may otherwise have against the defaulting party.",
+    "ollama_generated": "The termination options outlined in this section do not limit the available remedies for either party in case of default. In contrast, if a breach occurs by either party, the wronged party retains the right to pursue additional actions beyond those specified, as if this section had not been included in this Agreement. Termination under these provisions does not affect any other rights or claims that the terminating party may possess against the breaching party.",
+    "contradiction_score": 0.2512897253036499,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 23172,
+    "end_char": 23529,
+    "original": "17.   Waiver.  The failure of either party at any time or times to demand strict performance by the other of any of the terms, covenants or conditions set forth herein shall not be construed as a continuing waiver or relinquishment thereof and each may at any time demand strict and complete performance by the other of said terms, covenants and conditions.",
+    "ollama_generated": "17. Waiver and Time Limitation:\nAny previous forbearance or failure to enforce by either party any term, covenant, or condition specified herein shall not be deemed a waiver or relinquishment of that provision. However, all rights to enforce said terms, covenants, and conditions are waived if not asserted within six months from the date upon which the alleged breach occurred. After this timeframe, the relevant provision will no longer be considered enforceable.",
+    "contradiction_score": 0.04599513113498688,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 26074,
+    "end_char": 26280,
+    "original": "22.   Entire Agreement.  This writing constitutes the entire agreement between the parties hereto and may not be changed or modified except by a writing signed by the party or parties to be charged thereby.",
+    "ollama_generated": "22. Scope of Agreement: Any prior oral or written communications, representations, or understandings relating to the subject matter herein are superseded entirely by this agreement. Amendments to this agreement can only be validly made through a mutually executed written instrument signed by all parties involved.",
+    "contradiction_score": 0.07114244252443314,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

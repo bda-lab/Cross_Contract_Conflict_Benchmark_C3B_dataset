@@ -1,0 +1,1737 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 313,
+    "end_char": 496,
+    "original": "TAX ID  899.999.068 -1 TYPE OF CRUDE  OWN PRODUCTIONx PROPERTY Transportation Service of liquid hydrocarbons through the \u201cTrasandino \u201d Pipeline(OTA) and Mansoy\u00e1 -Orito (OMO) pipeline.",
+    "ollama_generated": "Tax ID: 899.999.068-1\n   Type of Crude: Self-Produced\n   Responsibility for Transportation Service: Shall Lie with the Recipient, Including Liquid Hydrocarbons Movement through the \"Trasandino\" Pipeline (OTA) and Mansoy\u00e1 -Orito (OMO) pipeline.\n\nIn this version, the responsibility for transportation service has been shifted to the recipient, making the clause stronger in terms of accountability for transporting liquid hydrocarbons.",
+    "contradiction_score": 0.007420232053846121,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 905,
+    "end_char": 1260,
+    "original": "PRODUCT  Daily Average (Barrels/calendar day)  Monthly average (Barrels/month) Crude  10.000  300.000 TERM OF EXECUTION  From January 30, 2012 until July 29, 2012 # Type of Point Name of Point  Distance 1 Point of Entrance  Entrance bridle to the srapers tramp in the PK 35+400 of OMO  377,3 2 Point of Exit  Exit bridle to the main tanks of Tumaco Plant.",
+    "ollama_generated": "PRODUCT\n Daily Average (Barrels/calendar day) - Averaged over a daily period, the minimum quantity of Crude to be delivered is 10,000 barrels, while the maximum monthly average shall not exceed 300,000 barrels.\n\n TERM OF EXECUTION\n The term for execution of this contract commences on January 30, 2012 and ends on July 29, 2012. This period may be extended by mutual agreement between the parties.\n\n # Type of Point Name of Point   Distance\n 1 Point of Entrance - The location of entry into the pipeline system is at the bridle at the scrapers tramp in PK 35+400 of OMO, which is approximately 377,3 kilometers from the reference point.\n 2 Point of Exit - The location for exit from the pipeline system is at the bridle to the main tanks of Tumaco Plant.",
+    "contradiction_score": 0.07265493273735046,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1581,
+    "end_char": 1959,
+    "original": "The indicated Quality Specifications correspond to those which the final mix of crude delivered by the SENDER shall have. In the event in which the Crude delivered by the SENDER fails to meet the Quality Specification and if the buying of dissolvent is required to make mixes, the SENDER shall request approval from ECOPETROL before its delivery for transportation by ECOPETROL.",
+    "ollama_generated": "The Quality Specifications provided represent those that the final mix of crude delivered by the SENDER should ideally approach. Should the Crude delivered by the SENDER deviate from the specified Quality Specifications, necessitating the purchase of dissolvent for adjustments to be made, the SENDER shall bear the responsibility of obtaining prior approval from ECOPETROL for such adjustments prior to transportation by ECOPETROL.\n\nIn this revised clause, the obligation on the Sender to meet the Quality Specifications has been weakened, and the responsibility for seeking approval before any adjustments are made has been shifted onto the Sender.",
+    "contradiction_score": 0.09125255048274994,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 1959,
+    "end_char": 2390,
+    "original": "It is the SENDER \u2019s responsibility to ensure its possession, control and entitlement to deliver or make deliver on its behalf the crude received by ECOPETROL at the Entrance Point. The SENDER shall hold ECOPETROL harmless against any claim, action or damages which may result from suits, claims or administrative, judicial or extrajudicial actions from any third persons alleging ownership or possession on the crude to be shipped.",
+    "ollama_generated": "The SENDER assumes all responsibility for verifying and maintaining its unencumbered ownership, control, and right to dispatch or authorize another party to deliver the crude as it reaches the Entrance Point. The SENDER shall indemnify and hold ECOPETROL harmless from any claims, actions, or damages that may arise due to third-party allegations of ownership or possession pertaining to the crude intended for shipping, regardless of any administrative, judicial, or extrajudicial proceedings instituted.\n\nThis revision places a greater burden on the SENDER in terms of assuring the unencumbered nature of their ownership and control over the crude as well as indemnifying ECOPETROL against any claims that may arise from third parties. Additionally, it clarifies that this responsibility extends to all forms of legal actions, whether administrative, judicial, or extrajudicial.",
+    "contradiction_score": 0.0051368484273552895,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3159,
+    "end_char": 3214,
+    "original": "ECOPETROL THE SENDER BY THE SENDER:  BY ECOPETROL S.A.:",
+    "ollama_generated": "RECEIVER (Recipient) BY ECOPETROL S.A.:\n\nEcopetrol S.A., acting as the Receiver, shall:\n\nThis rewritten clause inverts the sender and receiver roles, making Ecopetrol S.A. the party receiving, rather than sending, goods or services. The meaning of the obligation remains the same, but it is presented from a different perspective.",
+    "contradiction_score": 0.35553544759750366,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3777,
+    "end_char": 4179,
+    "original": "TRANSPORTATION CONTRACT GENERAL CONDITIONS The Contract hereof executed between ECOPETROL and the SENDER shall be comprised by these General Clauses and by the Specific Conditions subscribed by the Parties. All current legal provisions shall apply thereto and therefore the Parties are obliged to fulfill them regardless of whether or not they are stated in this document or in the Specific Conditions.",
+    "modified": "TRANSPORTATION CONTRACT GENERAL CONDITIONS\n\nThe Contract established between ECOPETROL and the RECEIVER, as outlined herein, encompasses these General Terms and any Specific Conditions mutually agreed upon by the Parties. Notwithstanding any provisions to the contrary, it is expressly understood that the specific legal requirements applicable at the time of performance shall govern this Contract, regardless of whether such provisions are explicitly stated in this document or the Specific Conditions. However, the Parties shall not be held responsible for unforeseen changes in the applicable law during the term of the Contract; rather, it shall be incumbent upon the party invoking any change in law to demonstrate its applicability at the time of performance.",
+    "contradiction_score": 0.5819041728973389,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 5729,
+    "end_char": 6051,
+    "original": "4. The Parties have agreed to enter into this Contract under the \u201cSpot\u201d shipping contract modality, by virtue of which, the SENDER shall be obliged to pay the shipping fee applicable for the barrels effectively shipped through the Pipelines during the Month of Operation and subject to the existence of Available Capacity.",
+    "modified": "4. In this Contract, the Parties opt to transact under the \"Swap\" shipping contract modality, whereby the RECEIVER shall be responsible for covering any applicable shipping fees associated with the barrels transported via Pipelines within the Month of Operation, provided that there is a demonstrated Availability of Capacity. In this arrangement, the SENDER will not bear the initial financial burden for the shipping fees unless explicitly stated otherwise.",
+    "contradiction_score": 0.9041956067085266,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 6666,
+    "end_char": 6845,
+    "original": "CLAUSE SECOND DEFINITIONS 2.1 All capitalized terms shall have the meaning as defined in the Clauses of this Contract and/or in Clause 2 of the Manual of the Shipper of ECOPETROL.",
+    "modified": "CLAUSE SECOND DEFINITIONS (REVISED)\n2.1 For purposes of this Contract, all capitalized terms may not necessarily have the meaning solely as defined in the Clauses of this Contract or in Clause 2 of the Manual of the Shipper of ECOPETROL. Rather, it is understood that ambiguity or lack of clarity in any term shall be resolved through mutual agreement between the Parties, taking into account industry norms, common practice, and any additional definitions provided elsewhere within this Agreement.",
+    "contradiction_score": 0.8789697885513306,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 6845,
+    "end_char": 6948,
+    "original": "CLAUSE THIRD 3.1 The Contract shall be in force during the period indicated in the Specific Conditions.",
+    "ollama_generated": "CLAUSE THIRD 3.2: The Specific Conditions shall govern the duration for which this Contract will remain effective. The responsibility for specifying the exact duration lies with the party providing such conditions.",
+    "contradiction_score": 0.2597510516643524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 6948,
+    "end_char": 7321,
+    "original": "3.2 The term of execution of the Service for the Contracted Capacity being the purpose of the Contract hereof may be extended by common agreement between the Parties by a document subscribed prior to the date of termination of the Contract, subject to the existence of Available Capacity in the Pipeline during the month of Operation in which the Service is to be provided.",
+    "ollama_generated": "3.2 The duration of service provision for the Contracted Capacity, as defined by this Agreement, may be unilaterally extended by either Party, provided that such extension does not exceed three months and is communicated in writing at least two weeks prior to the original termination date. This extension shall only be possible if there is available capacity within the pipeline during the month of operation in which the service is to be provided, as determined by the party exercising the extension option.",
+    "contradiction_score": 0.2384391874074936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 7474,
+    "end_char": 7787,
+    "original": "CLAUSE FOURTH AMOUNT OF THE CONTRACT 4.1 The initial estimated amount of the Contract hereof is as indicated in the Specific Conditions. The final amount of the Contract shall correspond to the total of the actual invoicing by ECOPETROL and shall be established upon termination and final liquidation of the same.",
+    "ollama_generated": "CLAUSE FOURTH AMOUNT OF THE CONTRACT\n4.1 The initial estimated amount for this Contract, as outlined in the Specific Conditions, serves as a baseline. The final amount payable under this Contract shall not exceed the total of the actual invoices submitted by ECOPETROL, and will be determined upon commencement of the contractual services. In other words, ECOPETROL's invoicing will cap the maximum payment you are obligated to make under this agreement.",
+    "contradiction_score": 0.003042882774025202,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 13410,
+    "end_char": 13531,
+    "original": "8.3 The Bond shall be valid during all the term of execution of the Contract plus one hundred twenty (120) calendar days.",
+    "ollama_generated": "8.3 The validity of the Bond extends for a period of one hundred twenty (120) calendar days following the completion of the Contract, and may continue thereafter if the Contract is not fully performed or terminated prematurely.",
+    "contradiction_score": 0.0012429406633600593,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 13531,
+    "end_char": 13839,
+    "original": "7.7 ECOPETROL, in order to facilitate and expedite the verification of the invoices by the SENDER shall deliver via e -mail the same day of its preparation and in PDF format, to the account of institutional e -mail registered by the SENDER, a copy of the invoices and corresponding debit and credit vouchers.",
+    "ollama_generated": "7.7 The Sender is responsible for providing an up-to-date institutional email address. ECOPETROL will aim to send, within a reasonable timeframe, copies of the invoices and corresponding debit and credit vouchers via email in PDF format, which may be used as a basis for verification by the Sender. However, any delays or failure in receiving these documents does not absolve the Sender from their obligation to verify and settle the invoices in accordance with the terms of this agreement.",
+    "contradiction_score": 0.010169384069740772,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 13839,
+    "end_char": 14130,
+    "original": "7.8 The SENDER shall pay late interests on any unpaid amounts pursuant to the provisions set out by ECOPETROL in the Guidelines for Administration of Service Receivables ECP -UTE-G-008 or a document that modifies or supersedes it, which is an integral part of the Contract hereto as Annex 2.",
+    "ollama_generated": "7.8 The RECIPIENT acknowledges their responsibility to pay any late fees on unpaid amounts, as determined by ECOPETROL, in accordance with the Guidelines for Administration of Service Receivables ECP -UTE-G-008 or any subsequent document that amends or replaces it. These provisions shall constitute an integral part of the Contract, attached as Annex 2, and shall be binding upon the RECIPIENT. The RECIPIENT's non-compliance with these terms may result in the application of late fees at ECOPETROL's discretion.",
+    "contradiction_score": 0.08531119674444199,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 14130,
+    "end_char": 14442,
+    "original": "7.9 The shipment tax shall be invoiced in Colombian pesos upon obtaining the corresponding liquidation from the Ministry of Mines and Energy and shall be paid to ECOPETROL by the SENDER, within the fifteen (15) calendar days after ECOPETROL files in the offices of the SENDER the corresponding bills or invoices.",
+    "ollama_generated": "7.9 The receiver, namely the Sender, is responsible for paying the shipment tax, billed in Colombian pesos, upon receiving the necessary liquidation from the Ministry of Mines and Energy. Payment should be made to ECOPETROL within fifteen (15) calendar days after receipt of the corresponding bills or invoices issued by ECOPETROL.\n\nIn this revised clause, the obligation to pay the shipment tax has been shifted from ECOPETROL to the Sender (receiver), and the timeframe for payment is triggered by the receiver receiving the bills or invoices rather than ECOPETROL filing them in the Sender's offices.",
+    "contradiction_score": 0.011471814475953579,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 14442,
+    "end_char": 14784,
+    "original": "7.10 The amounts deposited by the SENDER in any of the bank accounts of ECOPETROL must come from the accounts owned by the SENDER, who by means of written communication before the subscription of the Contract will certify the origin of funds. This in accordance with the Policy for the Prevention and Control of Asset Laundering of ECOPETROL.",
+    "ollama_generated": "7.10 The SENDER shall ensure that any funds deposited into ECOPETROL's bank accounts, prior to the execution of this Contract, are clearly traceable and verifiable as originating from the SENDER's own accounts. The SENDER acknowledges responsibility for providing written confirmation of the origin of these funds, in compliance with ECOPETROL's Anti-Money Laundering Policy. It is understood that any failure to comply with this clause may result in ECOPETROL taking appropriate actions, as permitted by law and our policies.",
+    "contradiction_score": 0.0013668920146301389,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 15335,
+    "end_char": 15527,
+    "original": "CLAUSE NINTH OBLIGATIONS OF THE SHIPPER 9.1 In addition to the obligations set forth in the Manual of the Shipper and those established in the law, ECOPETROL is obliged in a special manner to:",
+    "ollama_generated": "CLAUSE NINTH ALTERATION OF OBLIGATIONS OF THE SHIPPER\n9.1 Beyond the obligations outlined in the Shipper's Manual and those mandated by law, ECOPETROL assumes voluntarily and uniquely a heightened responsibility to:\n\nIn this revised clause, ECOPETROL's obligation is shifted from one that is obligatory (as in the original clause) to one that is voluntary. This change can be seen in the use of \"assumes voluntarily\" instead of \"is obliged.\" The phrase \"uniquely a heightened responsibility\" implies a more intensive or greater duty, which weakens the obligation compared to the original clause.",
+    "contradiction_score": 0.1735997200012207,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 16050,
+    "end_char": 16179,
+    "original": "b) Maintain in custody the Crude delivered from the Point of Entrance until the time of delivery to the SENDER in the Exit Point.",
+    "modified": "c) Permit the RECEIVER to retain possession of the Crude received at the Point of Entrance, unless otherwise instructed by the Sender, up to the point of removal from such location by the Receiver for delivery at the Exit Point.",
+    "contradiction_score": 0.8419305682182312,
+    "kept": true
+  },
+  {
+    "clause_index": 59,
+    "start_char": 16179,
+    "end_char": 16399,
+    "original": "Notwithstanding the foregoing, in the event in which the SENDER does not receive the Crude in the Point of Exit pursuant to the agreement, the responsibility by the ECOPETROL to maintain the Crude in custody shall cease.",
+    "ollama_generated": "Despite the preceding provisions, if the Crude is not received at the Point of Exit by the SENDER as per the terms of the agreement, the obligation for ECOPETROL to hold the Crude in custody will be relieved and terminated.",
+    "contradiction_score": 0.0014005312696099281,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 17015,
+    "end_char": 17373,
+    "original": "f) ECOPETROL shall not be obliged to receive Crude: (a) when the same fails to fulfill the Specifications of Quality agreed in the Contract hereof; (b) when the SENDER does not have an accepted nomination in the Shipment Schedule of the Pipeline, or (c) when there are not valid agreements of the SENDER that allow the delivery of Crude in the Point of Exit.",
+    "ollama_generated": "g) The SENDER shall be solely responsible for ensuring that the Crude they deliver to ECOPETROL meets the agreed Quality Specifications as outlined in this Contract. Moreover, failure on the part of the Sender to have an accepted nomination in the Shipment Schedule of the Pipeline or to secure valid agreements allowing delivery at the Point of Exit shall relieve ECOPETROL of its obligation to receive the Crude.",
+    "contradiction_score": 0.3412182331085205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 18618,
+    "end_char": 18799,
+    "original": "d) Enter into the contracts with other shippers or terminal operators required to ensure the delivery of crudes at the Point of Exit without affecting the operation of the Pipeline.",
+    "ollama_generated": "d') Maintain the flexibility to engage in contracts with other shippers and terminal operators as necessary for the potential delivery of crude oil at the Point of Exit, while retaining discretion to manage the operation of the Pipeline without undue interference from such arrangements.",
+    "contradiction_score": 0.018296072259545326,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 19002,
+    "end_char": 19100,
+    "original": "g) Make the payment of the shipping tax under the conditions set out in this Contract and the law.",
+    "ollama_generated": "h) The Recipient shall be responsible for fulfilling the requirements for payment of any shipping taxes as detailed in this Agreement and as mandated by applicable laws, provided that any discrepancies or additional charges will be borne solely by the Sender unless explicitly stated otherwise.",
+    "contradiction_score": 0.3090820908546448,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 19645,
+    "end_char": 20085,
+    "original": "b) ECOPETROL shall only be responsible for the faults in the Service or loses, damage or deterioration the Crude may suffer to the extent it does not demonstrate that (i) no Excusable Event has occurred, and also, (ii) ECOPETROL failed to adopt the reasonable measures any shipper would have taken according to the requirements of operation of a pipeline with similar characteristics to the Pipeline, to avoid the damage or its aggravation.",
+    "modified": "c) The Shipper shall bear the responsibility for any faults in the Service or losses, damage, or deterioration suffered by the Crude, unless ECOPETROL can prove that: (i) an Excusable Event did not occur, and (ii) ECOPETROL followed the reasonable measures that a shipper should have taken according to the requirements of operation of a pipeline with similar characteristics to the Pipeline, in order to prevent such damage or its escalation.",
+    "contradiction_score": 0.716271162033081,
+    "kept": true
+  },
+  {
+    "clause_index": 80,
+    "start_char": 20626,
+    "end_char": 20771,
+    "original": "In order to determine the value of the Crude for liability purposes based on the previous numeral, ECOPETROL shall establish the following rules:",
+    "ollama_generated": "For the purpose of estimating the value of the Crude pertinent to liability considerations using the preceding numerical figure, it is incumbent upon the discretion of ECOPETROL to formulate the ensuing guidelines:\n\nIn this revised version, the responsibility for determining the rules has been shifted from an obligation (shall) to a discretionary power (is incumbent upon the discretion), which implies that ECOPETROL has more flexibility in the rule-making process.",
+    "contradiction_score": 0.11670256406068802,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 22360,
+    "end_char": 22789,
+    "original": "a) The SENDER shall be liable for any damage caused to ECOPETROL for the default of its obligations under the Contract hereof and shall be responsible for any damage derived from or as a consequence of the actions or omissions of the SENDER, its workers, subordinates, contractors and subcontractors, except in cases of (i) gross negligence or willful misconduct by ECOPETROL, or (ii) a force majeure or unforeseen circumstances.",
+    "ollama_generated": "b) ECopepetrol shall not be held liable for any damages incurred by the RECEIVER as a result of its own failures to meet obligations under this Contract, and it is released from responsibility for any harm arising directly or indirectly from actions or inactions taken by ECopepetrol, its staff, subordinates, contractors, or subcontractors. However, this exemption shall not apply when the circumstances leading to such damages are due to (i) ECopepetrol's gross negligence or intentional misconduct, or (ii) extraordinary events beyond ECopepetrol's control, such as force majeure or unforeseen circumstances.",
+    "contradiction_score": 0.10256087779998779,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 22999,
+    "end_char": 23190,
+    "original": "a) ECOPETROL shall notify the SENDER within twenty four hours (24) following the moment of occurrence, making the commitment to submit all details within the following five (5) business days.",
+    "modified": "b) The SENDER shall be informed by ECOPETROL no sooner than forty-eight hours (48) after the incident's occurrence, and any requested details may be submitted at ECOPETROL's discretion, without any specific timeframe being specified.",
+    "contradiction_score": 0.9669768214225769,
+    "kept": true
+  },
+  {
+    "clause_index": 97,
+    "start_char": 25609,
+    "end_char": 25995,
+    "original": "12.3 The application of the penal pecuniary clause does not include the indemnification for any damages borne by the SENDER if the amounts of these are higher, under the criteria of ECOPETROL, to the amount of the penal pecuniary clause agreed hereof, nor it releases the SENDER from its payment obligation of the totality of the value of the Contract pursuant to the conditions agreed.",
+    "ollama_generated": "12.3 The application of the penal pecuniary clause shall not absolve the RECEIVER from compensating the SENDER for any damages exceeding, under ECOPETROL's criteria, the amount specified in the penal pecuniary clause established herein. However, this does not diminish the RECEIVER's responsibility to fulfill the full contractual obligations as stipulated and agreed upon.",
+    "contradiction_score": 0.0015693383757025003,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 27197,
+    "end_char": 27386,
+    "original": "13.2 The suspension of the Contract is not a waiver or a release for the SENDER on its responsibility to pay the Fee and all other concepts that may be applicable under the Contract hereof.",
+    "ollama_generated": "13.2 The temporary interruption of the Contract does not signify a relinquishment or exemption from the obligation for the RECIPIENT to meet their payment responsibilities regarding the Fee, and it does not absolve them from any other obligations arising under this Agreement.",
+    "contradiction_score": 0.11028729379177094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 102,
+    "start_char": 27386,
+    "end_char": 27520,
+    "original": "CLAUSE FOURTEENTH TERMINATION OF THE CONTRACT 14.1 The Contract hereof shall terminate upon expiration of the term of validity agreed.",
+    "ollama_generated": "CLAUSE FOURTEENTH TERMINATION OF THE CONTRACT\n14.1 This Contract may be terminated by either Party at any time, without cause or prior notice. The termination shall become effective immediately upon either Party providing written notification to the other.",
+    "contradiction_score": 0.2903772294521332,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 116,
+    "start_char": 30056,
+    "end_char": 30294,
+    "original": "16.3 In case the SENDER fails to appear to the liquidation, or if there is not an agreement of the same within the term previously mentioned, the SENDER expressly authorizes ECOPETROL to proceed with the liquidation in one (1) month term.",
+    "ollama_generated": "16.3 If, after the stipulated term, the RECEIVER has not fulfilled their obligation to appear for liquidation or reached an agreement regarding the same, ECOPETROL shall be duly authorized to initiate the liquidation process within one (1) month, without further notice or consent from the RECEIVER.",
+    "contradiction_score": 0.0035353710409253836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 31085,
+    "end_char": 31462,
+    "original": "a) The statement regarding the performance of the obligation undertaken by each of the Parties (or from ECOPETROL if the liquidation is unilateral) derived from the execution of the Contract; and b) Any agreements, settlements and transactions reached by the Parties to settle any differences that may have arisen and to obtain the good standing and release of any obligations.",
+    "ollama_generated": "a) Each Party's commitment as set forth in this Contract shall not be deemed a sole responsibility, but rather a mutual obligation; should ECOPETROL undergo unilateral liquidation, this obligation shall be honored by the surviving entity. b) Any disputes that may arise between the Parties shall first be attempted to be resolved through negotiation and good faith discussions. If such resolution is not reached within a reasonable timeframe, either Party retains the right to seek external resolution, which may result in the release of obligations owed by the non-defaulting Party.",
+    "contradiction_score": 0.03550151735544205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 130,
+    "start_char": 33283,
+    "end_char": 33434,
+    "original": "a) The assignee is a legal person duly organized and the duration of the same shall not be less that the term of the Contract and three (3) more years.",
+    "ollama_generated": "b) The assigned entity must be legally established, but its existence may extend beyond the term of this Contract, however, it is not required to endure for a duration longer than three (3) years following the expiration of this Agreement.",
+    "contradiction_score": 0.0156862773001194,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 34387,
+    "end_char": 34664,
+    "original": "CLAUSE TWENTY -SECOND INDEMNITY 22.1 ECOPETROL is obliged to protect, indemnify and hold the SENDER harmless against any loss, cost or damage to be caused or derived from, or related with the breaching of the Contract by ECOPETROL, save the same are caused by Excusable Events.",
+    "ollama_generated": "CLAUSE TWENTY-SECOND - INDEMNITY 22.1: The SENDER shall have the right to seek indemnification, protection, and be held harmless from any loss, cost, or damage incurred as a result of a breach of the Contract by the Sender, except for those resulting from events beyond the Sender's control (Excusable Events). In this case, ECOPETROL shall not be obliged to indemnify the SENDER.",
+    "contradiction_score": 0.18650467693805695,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 35567,
+    "end_char": 35665,
+    "original": "23.2 Without prejudice of the foregoing, only in the following cases information may be disclosed:",
+    "ollama_generated": "23.2 In all other instances, the parties acknowledge that confidentiality is maintained; however, information may be disclosed if required by law or for the purpose of compliance with regulatory obligations. The disclosing party shall not be held liable for such disclosures under this Agreement.",
+    "contradiction_score": 0.0070267533883452415,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 36078,
+    "end_char": 36152,
+    "original": "b) When the disclosure of information is ordered by a competent authority;",
+    "ollama_generated": "c) In instances where the request for information derives from a recognized judicial body or regulatory agency with appropriate authority; upon such request, the party shall provide the information as required and to the extent permitted by law.",
+    "contradiction_score": 0.114320307970047,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 37490,
+    "end_char": 38001,
+    "original": "23.7 The SENDER shall be responsible for ensuring that all persons to whom the Confidential Information is revealed under the execution of this Contract maintain said Information as Confidential and without disclosing it to any unauthorized persons. The SENDER shall be liable for any damage caused to ECOPETROL in case of breaching the Contract hereto, or if through negligent actions or omissions, discloses or makes public any Confidential Information outside the terms set out herein in accordance with law.",
+    "ollama_generated": "23.7 The RECEIVER assumes responsibility for safeguarding all received Confidential Information, restricting its disclosure only to authorized individuals or as required by law. Any unauthorized disclosures or breaches of this Contract may expose the RECEIVER to potential liability for any resulting damages sustained by ECOPETROL.",
+    "contradiction_score": 0.16097670793533325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 149,
+    "start_char": 38845,
+    "end_char": 39398,
+    "original": "23.9 During the term of execution of the Contract, ECOPETROL is obliged to keep in reserve and not to disclose the information expressly identified and in writing by the SENDER that is protected by copyrights or industrial secret pursuant to the regulations in force, that is directly delivered by the SENDER as a result of the execution of the Contract, and makes the commitment not to deliver said information to any third parties, except as ordered by the judicial or administrative authorities or in events required by the legal provisions in force.",
+    "ollama_generated": "23.9 In the course of the Contract's execution, SENDER shall retain the responsibility for safeguarding and maintaining confidentiality of any information protected by copyrights or industrial secrets, which is specifically identified in writing and provided to SENDER under this agreement. The SENDER agrees not to share such information with any external entities, unless compelled by a court order, administrative mandate, or as necessitated by applicable laws and regulations. Ecopetrol shall be permitted to handle and use this information solely for the purpose of fulfilling its obligations under this Contract.",
+    "contradiction_score": 0.007745630573481321,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 39892,
+    "end_char": 40107,
+    "original": "b) Make the best efforts to establish and maintain, as best as possible, good relations with the institutions (authorities) and communities settled in the region and in the area where the Contract shall be executed.",
+    "modified": "a) Minimize any potential negative impacts on relationships with local institutions (authorities) and communities within the project region or area of execution, to the extent reasonably practicable. This obligation does not require proactive outreach for establishing affirmative relationships, but rather focuses on managing interactions to avoid disputes or conflicts.",
+    "contradiction_score": 0.5117827653884888,
+    "kept": true
+  },
+  {
+    "clause_index": 165,
+    "start_char": 42384,
+    "end_char": 42567,
+    "original": "CLAUSE TWENTY -SEVENTH LEGAL REGIME 27.1 The relation established in the Contract hereof is of commercial nature and therefore is governed by the regulations of Colombian private law.",
+    "modified": "CLAUSE TWENTY-SEVENTH - ALTERNATIVE JURISDICTIONAL PROVISION 27.1 The relationship established in this Agreement shall be subject to the regulations of Colombian public law, given its non-commercial nature. In case of any dispute arising out of this Agreement, the Parties herein agree to submit to and be bound by the jurisdiction of Colombian courts or tribunals designated for non-commercial matters.",
+    "contradiction_score": 0.996052086353302,
+    "kept": true
+  },
+  {
+    "clause_index": 166,
+    "start_char": 42567,
+    "end_char": 42833,
+    "original": "CLAUSE TWENTY -EIGHTH NOTIFICATIONS 28.1 All communications and invoices between the SENDER and ECOPETROL delivered as a result of this Contract shall require for its validity to be in writing, and depending on the will of the Party issuing it, they will have to be:",
+    "ollama_generated": "CLAUSE TWENTY-EIGHTH - NOTIFICATIONS AND INVOICING 28.1 All communications, invoices, and any other documentation related to this Agreement, generated by either PARTY (hereafter referred to as the \"Receiver\"), shall be considered valid only if they are made in writing. However, the Party receiving such communication or invoice shall have the discretion to consider them valid without written form, at their sole discretion, and solely for the purpose of not hindering the progress of this Agreement.\n\nIn essence, this clause now allows the Receiver to accept communications or invoices verbally, but only if they choose to do so, and it does not impede the operation of the contract.",
+    "contradiction_score": 0.039591480046510696,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 42934,
+    "end_char": 43377,
+    "original": "ANNEX 1  MANUAL OF THE SHIPPER OF THE ECOPETROL S A PIPELINE ANNEX 2  GUIDELINES FOR THE ADMINISTRATION OF RECEIVABLE SERVICES OF ECOPETROL ANNEX 3  GENERAL CLAUSES OF ECOPETROL FOR PERFORMANCE POLICIES ANNEX 4  STAND -BY LETTER OF CREDIT FORM a) delivered personally; or b) transmitted by facsimile, electronic mail or any other means through which it may be proved its delivery and reception (with proved reception and confirmation by mail).",
+    "ollama_generated": "ANNEX 1: SHIPPER'S MANUAL OF ECOPETROL S A PIPELINE\n   ANNEX 2: GUIDELINES FOR THE OVERSIGHT OF SERVICES RECEIVED BY ECOPETROL\n   ANNEX 3: GENERAL CLAUSES OF ECOPETROL REGARDING RESPONSIBLE PERFORMANCE POLICIES\n   ANNEX 4: STAND-BY LETTER OF CREDIT FORM (subject to change)\n      a) The Stand-by Letter of Credit may be presented either personally, or electronically, provided that the recipient acknowledges receipt and confirms delivery by email or mail. If not received electronically, it is the responsibility of the sender to ensure physical delivery is proved, and confirmation is subsequently provided by mail.",
+    "contradiction_score": 0.0829201340675354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 170,
+    "start_char": 43707,
+    "end_char": 43897,
+    "original": "28.3 Each Party may change the address for these purposes, with previous written communication to the other Party with fifteen (15) calendar days in before the expected date for such change.",
+    "ollama_generated": "28.3 Either Party retains the right to modify their contact address pertinent to this agreement, given that they provide written notification to the counterparty at least fifteen (15) calendar days prior to the anticipated effective date of the change. However, it is understood that such changes shall immediately take effect and be binding upon both Parties, unless explicitly specified otherwise in writing.",
+    "contradiction_score": 0.028387805446982384,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 47642,
+    "end_char": 47862,
+    "original": "2.1.2. Operating agent or agent: means any natural or legal person, public or private person involved the technical and/or commercial relations for the provision of Transportation services of Crude Oil through Pipelines.",
+    "modified": "2.1.2. Designated Agent or Intermediary: refers to any individual, entity, public or private, who assumes responsibilities in the technical and/or commercial aspects related to the facilitation of Crude Oil transportation via Pipelines, implying that such party may not necessarily be solely responsible for the entirety of these services.",
+    "contradiction_score": 0.5930229425430298,
+    "kept": true
+  },
+  {
+    "clause_index": 179,
+    "start_char": 48197,
+    "end_char": 48300,
+    "original": "2.1.3. Water and sediment: means any material coexisting with Crude Oil without being part of the same.",
+    "ollama_generated": "2.1.3. Water and Sediment: refers to any substances intermingled with Crude Oil, which are distinct from it in nature. It is understood that the responsibility for separating these materials lies primarily with the party responsible for production and extraction of the Crude Oil.",
+    "contradiction_score": 0.0020011900924146175,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 183,
+    "start_char": 48861,
+    "end_char": 49210,
+    "original": "2.1.7. Provisional Notice: means the notification that the Transporter will deliver to the Sender regarding any damage or additional costs incurred, or about its intention to withdraw and use the Sender \u2019s Crude to pay monies in favor of the Transporter or the owner, borne by the Sender and/or to avoid any Operational affectations in the Pipeline.",
+    "modified": "2.1.7. Provisional Advisory: refers to the communication that the Transporter will provide to the Owner about potential damages, additional costs, or the Transporter's intent to utilize the Crude for debt settlement in favor of the Transporter or a third party, with the understanding that such actions may be taken to mitigate operational issues within the Pipeline. The onus is on the Owner to address any resulting financial obligations or operational impacts arising from this communication.",
+    "contradiction_score": 0.8064299821853638,
+    "kept": true
+  },
+  {
+    "clause_index": 188,
+    "start_char": 49883,
+    "end_char": 50140,
+    "original": "2.1.9. Volumetric Balance: means the balance of Operations conducted by the Transporter at the end of each month of Operation, in order to establish the amounts of Crude handled in the Pipeline and to make the determination and distribution of Crude losses.",
+    "modified": "2.1.9. Volumetric Balance: refers to the responsibility of the Transporter to maintain a record of Operations conducted throughout each operational month, which shall serve as the basis for estimating the volume of Crude transported within the Pipeline. This recording is also intended for identifying and allocating any incurred Crude losses.\n\nIn this revised clause, the emphasis has been shifted from the Transporter's duty to establish and distribute the amounts of Crude handled and losses, to their responsibility for maintaining a record of Operations and estimating the volume of Crude transported, while still including the identification and allocation of any incurred Crude losses.",
+    "contradiction_score": 0.7347627282142639,
+    "kept": true
+  },
+  {
+    "clause_index": 197,
+    "start_char": 51978,
+    "end_char": 52345,
+    "original": "2.1.19 Designed Capacity or Transportation Capacity: means the Transportation Capacity for Crude Oil established for the Pipeline, based on the Crude properties and specifications of the equipment and tubing for the calculation and design of the Pipeline. If the design of the Pipeline is modified to increase said Capacity, then this will be the new design Capacity.",
+    "modified": "2.1.19 Designated or Operational Capacity (as applicable): refers to the maximum operational capacity for Crude Oil in the Pipeline, as determined by the properties and specifications of the equipment and tubing used in the pipeline's construction and calculation. It is noted that any modifications made to the pipeline design with the intention of expanding its operational capacity shall be considered the new designated capacity. However, it is understood that the original designated capacity remains in effect unless explicitly altered through a subsequent agreement or modification process.",
+    "contradiction_score": 0.8051603436470032,
+    "kept": true
+  },
+  {
+    "clause_index": 198,
+    "start_char": 52345,
+    "end_char": 52586,
+    "original": "Operation and Transport Regulations Version 1 2.1.20 Owners Capacity: means the Transportation Capacity of the Pipeline necessary in a period of time for the Transportation Crude Oil owned by its owners, its parent companies or subsidiaries.",
+    "ollama_generated": "Operation and Transport Regulations Version 1 (2.1.20) Owners' Required Transport Capacity: refers to the minimum Transportation Capacity required in a given timeframe for the movement of Crude Oil owned by any entity having an ownership interest, including parent companies or subsidiaries, as well as entities who may subsequently acquire such ownership interests. This capacity is not necessarily limited to the pipeline's current capacity, and may be subject to change based on fluctuations in ownership structure.",
+    "contradiction_score": 0.006202829536050558,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 199,
+    "start_char": 52586,
+    "end_char": 52920,
+    "original": "2.1.21 Available Capacity: means, for a specific period of time, the difference between the effective Capacity and the sum of: i) the owner \u2019s Capacity, ii) the Contracted Capacity and iii) the preferred rights, which shall be available for the Transportation of Third Party \u2019s Crude under the conditions set out in the Manual hereof.",
+    "ollama_generated": "2.1.21 Available Capacity: refers to the amount that can be utilized for a particular timeframe, calculated by subtracting from the effective Capacity: i) the sum of the owner's Capacity, the Contracted Capacity, and any preferred rights, ii) from this total, the capacity reserved for the Transportation of Third Party's Crude, under the terms and conditions specified in the Manual.\n\nIn this version, the responsibility of determining the available capacity shifts to the other party, making it easier for the initial party to meet its obligations.",
+    "contradiction_score": 0.01909114606678486,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 202,
+    "start_char": 53495,
+    "end_char": 53953,
+    "original": "2.1.24 Nominal Capacity: means the maximum Transportation Capacity between a pumping station and a Pipeline terminal, or between two pumping stations, calculated considering the installed equipment in the system and the expected quality of Crude for a specific period of time. It is expressed in BOPD for a Hydrocarbon of standard barrel characteristics in terms of viscosity in cstks at 30 C and API at 60 F according to the design Capacity of the Pipeline.",
+    "modified": "2.1.24 Limiting Transport Flow: refers to the minimal Transportation Capability between a pumping station and a Pipeline terminal, or between two pumping stations, estimated based on the operational equipment in place and the actual quality of Crude for a specific duration. It is denoted in BOPD for a Standard Hydrocarbon barrel with viscosity at 30 C and API at 60 F, as determined by the functional Capacity of the Pipeline. This value represents the lower bound of potential transport rates, acknowledging that operational factors may lead to fluctuations above or below this figure.",
+    "contradiction_score": 0.8600218892097473,
+    "kept": true
+  },
+  {
+    "clause_index": 205,
+    "start_char": 54498,
+    "end_char": 54673,
+    "original": "2.1.27 Monetary Conditions: means the tables or formulas to calculate any extra charge and bonuses for Crude quality and commercial discounts applied on the Rate for the Line.",
+    "ollama_generated": "2.1.27 Interpretation of Monetary Conditions: refers to the specified methods or calculations for determining additional fees, incentives, or adjustments related to Crude grade premiums, as well as the application of commercial discounts to the Contracted Rate for the relevant Line.\n\nNote: This rewritten clause maintains the original meaning but slightly inverts the sequence by starting with the determination methods (tables or formulas) and mentioning their applications (calculating additional charges, bonuses, premiums, and adjustments) before listing the items being calculated (extra charge, bonuses for Crude quality, commercial discounts on the Rate). Additionally, it clarifies that these calculations are related to the Line specified in the contract.",
+    "contradiction_score": 0.025577470660209656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 214,
+    "start_char": 56956,
+    "end_char": 57139,
+    "original": "2.1.36 Segregated Crude: means Crude Oil that by agreement between the Transporter and a Sender is decided to be transported through the Pipeline without being mixed with other Crude.",
+    "modified": "2.1.36 Non-Mixed Crude: refers to Crude Oil, whose separation from other Crudes for transportation through the Pipeline is at the discretion of either the Transporter or a Sender, unless otherwise agreed upon in writing.",
+    "contradiction_score": 0.6516003608703613,
+    "kept": true
+  },
+  {
+    "clause_index": 219,
+    "start_char": 58084,
+    "end_char": 58215,
+    "original": "2.1.41 Reasonable Effort: means the effort that a prudent person makes in handling his own business while protecting his interests.",
+    "ollama_generated": "2.1.41 Prudent Minimum Effort: denotes the minimal, yet practical exertion expected from an individual managing their own affairs, prioritizing self-interest and caution. This level of effort is not intended to exceed what a typically cautious individual would deem necessary under comparable circumstances.",
+    "contradiction_score": 0.016672547906637192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 221,
+    "start_char": 58301,
+    "end_char": 58363,
+    "original": "2.1.43 Final Station: means the final Station on the Pipeline.",
+    "ollama_generated": "2.1.43 Terminal Station: refers to any Station along the Pipeline that may serve as the final point of delivery, at the discretion of the Deliverer.\n\nExplanation: The original clause defines \"Final Station\" as the specific station at the end of the pipeline where delivery occurs. The rewritten clause expands the definition to include any station along the pipeline as a potential final delivery point, thus giving more flexibility to the party designated as the \"Deliverer.\"",
+    "contradiction_score": 0.3273008167743683,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 226,
+    "start_char": 60233,
+    "end_char": 60324,
+    "original": "2.1.48 Nomination Month: means the calendar month immediately before a month of Operations.",
+    "modified": "2.1.48 Nomination Month: refers to the calendar month subsequent to a month of Operations. This change in wording shifts the focus from the month prior to the operations month to the month following it.",
+    "contradiction_score": 0.9960326552391052,
+    "kept": true
+  },
+  {
+    "clause_index": 233,
+    "start_char": 61500,
+    "end_char": 61589,
+    "original": "2.1.55 Party: means the Transporter and/or Sender, or there assignees as the case may be.",
+    "ollama_generated": "2.1.55 Recipient: refers to the Transporter, the Sender, or any entity to whom their rights or obligations under this agreement have been lawfully transferred.\n\nThis modification makes it clear that any party to whom the Transporter or Sender has assigned their rights or obligations is now referred to as the Recipient, further emphasizing the flexibility of assignments in this contract.",
+    "contradiction_score": 0.0023628552444279194,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 236,
+    "start_char": 62124,
+    "end_char": 62282,
+    "original": "2.1.58 Transportation Plan: means the projection of the volumes to be transported through the Pipeline and the available Capacity in the medium and long term.",
+    "ollama_generated": "2.1.58 Transportation Projection: denotes an estimate of the potential traffic to traverse the Pipeline, along with the projected capacity for such transportation, considering both immediate and extended future scenarios. [Note: This language suggests that the numbers presented in the Transportation Projection are estimates rather than definitive projections.]",
+    "contradiction_score": 0.006687838584184647,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 237,
+    "start_char": 62282,
+    "end_char": 62696,
+    "original": "Operation and Transport Regulations Version 1 2.1.59 Transportation Program or Program: means program of Operations of the Pipeline for a month of Operations prepared by the Transporter, days on the cycle of nomination of Transportation. It specifies the use of the effective Capacity, the volumes of Crude entering at the Points of Entrance and volumes of Crude coming out from the Pipeline at the Points of Exit.",
+    "ollama_generated": "Operation and Transport Regulations Version 1, Section 2.1.59 (Revised):\n\nTransportation Program or Plan: denotes the monthly schedule for Pipeline Operations established by the Transporter, based on the nomination cycle for Transportation. This plan outlines the utilization of operational capacity, as well as the quantities of Crude Oil admitted at Entry Points and withdrawn at Exit Points within the Pipeline system.\n\nIn this revised version, the focus shifts from a program of operations to a monthly plan or schedule, which may provide more flexibility in terms of making adjustments to the transportation schedule. Additionally, the language is modified to emphasize that the plan outlines operational capacity utilization and quantities of Crude Oil, rather than specific volumes entering and exiting the pipeline.",
+    "contradiction_score": 0.06349673867225647,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 239,
+    "start_char": 62860,
+    "end_char": 63083,
+    "original": "2.1.61 Point of Entrance: means the exact Point of the Pipeline, in which the Transporter assumes custody of the Crude delivered by the Sender at the node of Entrance. This must be specified in the Transportation agreement.",
+    "modified": "2.1.61 Exit Point Definition: refers to the precise location along the Pipeline where the Transporter relinquishes custody of the Delivered Crude, to be identified in the Transportation Agreement. This point shall be determined by the Sender.\n\nThis revision shifts responsibility from the Transporter to the Sender for specifying the exact Exit Point.",
+    "contradiction_score": 0.8860419988632202,
+    "kept": true
+  },
+  {
+    "clause_index": 240,
+    "start_char": 63145,
+    "end_char": 63229,
+    "original": "2.1.62 Point of Fluidity: means the temperature at which a Crude Oil ceases to flow.",
+    "ollama_generated": "2.1.62 Point of Viscosity Yield: refers to the temperature at which a Crude Oil becomes viscous and thereby impedes its natural flow.\n\nExplanation: The original clause defined \"Point of Fluidity\" as the temperature where crude oil ceases to flow, which implies the point at which it starts flowing again. In the rewritten clause, I've changed \"Point of Fluidity\" to \"Point of Viscosity Yield,\" and instead of defining it as the temperature at which the oil stops flowing, I've defined it as the temperature where the oil becomes viscous and impedes its natural flow. This change slightly weakens the obligation by shifting focus from the resumption of flow to the onset of viscosity that hinders the flow.",
+    "contradiction_score": 0.1246301457285881,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 246,
+    "start_char": 64392,
+    "end_char": 64537,
+    "original": "2.1.68 Transportation Rate or Rate: means the monetary value per barrel charged by the Transporter to the Senders for the Transportation service.",
+    "ollama_generated": "2.1.68 \"Transportation Charge per Barrel\" or \"Charge\": denotes the amount in currency each transporter levies from the Sender for every barrel transported, as remuneration for the Transportation services rendered. In this context, it is essential to note that while the Transporter sets the charge, the Senders are responsible for ensuring the rate remains competitive and reasonable within industry standards.",
+    "contradiction_score": 0.07671032845973969,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 249,
+    "start_char": 64888,
+    "end_char": 65115,
+    "original": "Operation and Transport Regulations Version 1 2.1.70 Transporter: means Capacity S A owner of the Pipeline, or the person appointed as a representative or assignee, whose activity is the provision of the Transportation service.",
+    "ollama_generated": "Operation and Transport Regulations Version 1, Article 2.1.70 (Revised):\n\nDesignated Transporter: denotes any entity or individual, either Capacity S A or a duly authorized representative or assignee, responsible for the operation of the Pipeline who is deemed to perform the Transportation service under this agreement, with the understanding that Capacity S A shall not be held liable for the actions or omissions of such designated transporter.",
+    "contradiction_score": 0.03924763947725296,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 252,
+    "start_char": 65400,
+    "end_char": 65571,
+    "original": "CLAUSE 3 GENERAL DESCRIPTION OF THE PIPELINE The descriptions of the systems to which this Transporter Manual applies are published in Annex 3, description of the systems.",
+    "ollama_generated": "CLAUSE 3 DESCRIPTION OF THE PIPELINE SYSTEMS\nThe systems described within this Transporter Manual may be found in the annex titled \"Annex 3: Detailed Description of Associated Systems.\" This document serves as a guide to the operations and maintenance of these systems, rather than a comprehensive or exhaustive description. Users should exercise independent judgment when interpreting and applying the information contained herein.",
+    "contradiction_score": 0.012728024274110794,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 258,
+    "start_char": 66502,
+    "end_char": 66613,
+    "original": "4.1.5 Comply with and implement the commercial, Operational and administrative procedures of the Manual hereof.",
+    "ollama_generated": "4.1.5 While not required to strictly adhere to every procedure in the Manual, a reasonable effort shall be made towards understanding and following such commercial, operational, and administrative guidelines as necessary for the proper functioning of this agreement. Any deviations from these procedures should be communicated promptly and appropriately.",
+    "contradiction_score": 0.002143004210665822,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 265,
+    "start_char": 67795,
+    "end_char": 67894,
+    "original": "4.1.12 Pay the rates established for the distances being the purpose of the Transportation service.",
+    "ollama_generated": "4.1.12 Remunerate at the rates applicable to the distances associated with the Provision of Transportation services, provided that such rates are within industry norms and are mutually agreed upon. The responsibility for ensuring compliance with these terms shall be shared between the parties.",
+    "contradiction_score": 0.0006912641110830009,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 266,
+    "start_char": 67894,
+    "end_char": 68049,
+    "original": "4.1.13 Pay to the Transporter, acting as a collector, the Transportation tax established by the legislation for Crude Oil Transportation through Pipelines.",
+    "ollama_generated": "4.1.13 The Collecting Transporter shall be entitled to receive and retain, from the party transporting Crude Oil via Pipelines, any applicable Transportation taxes prescribed by law pertaining to such Crude Oil Transportation. (Note: This clause suggests that the burden of payment for transportation tax shifts from the Transporter to the party transporting the crude oil.)",
+    "contradiction_score": 0.2911466062068939,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 268,
+    "start_char": 68212,
+    "end_char": 68365,
+    "original": "4.1.15 Refrain from conducting any actions that may affect the normal Operation of the Pipeline and may cause damage to the Transporter or other Senders.",
+    "modified": "4.1.15 Permit actions that, while not explicitly endorsed by us, are deemed unlikely to disrupt the Regular Functioning of the Pipeline, understanding that potential inconsequential deviations from normal operations may inadvertently occur and will not be held liable for any incidental damage to the Transporter or other Senders resulting therefrom.",
+    "contradiction_score": 0.5539638996124268,
+    "kept": true
+  },
+  {
+    "clause_index": 272,
+    "start_char": 68831,
+    "end_char": 68917,
+    "original": "4.2 Obligations of the Transporter:  The following are obligations of the Transporter:",
+    "modified": "4.2 Obligations Relinquished by the Transporter: The following are duties forfeited by the Transporter, subject to the exceptions and limitations as set forth herein or otherwise agreed upon in writing:\n\nThis revision slightly modifies the original clause by shifting the emphasis from \"obligations\" to \"duties forfeited,\" which implies a voluntary surrender of responsibilities rather than an imposed duty. This could potentially make the language less binding, as it suggests that the Transporter has chosen to relinquish certain tasks, rather than being obligated to fulfill them.",
+    "contradiction_score": 0.7310740351676941,
+    "kept": true
+  },
+  {
+    "clause_index": 277,
+    "start_char": 69428,
+    "end_char": 69561,
+    "original": "4.2.5 Submit the Manual to the Office of Hydrocarbons of the Ministry of Mines and Energy, keep it updated and publish it in the BTO.",
+    "ollama_generated": "4.2.5 Provisionally submit the Manual to the Office of Hydrocarbons of the Ministry of Mines and Energy for review, maintain its currency, and make it available for publication on the BTO at our discretion.",
+    "contradiction_score": 0.007668788079172373,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 286,
+    "start_char": 71252,
+    "end_char": 71572,
+    "original": "4.2.14 Calibrate the measurement and quality control instruments of Crude Oil, according to the procedures and timing required by the producers, the technical regulations and provisions established for this purpose in this Manual, inviting the Senders or their representatives to provide support if considered necessary.",
+    "ollama_generated": "4.2.14 The Receiver shall have discretion in calibrating the measurement and quality control instruments of Crude Oil, following the procedures and timing as deemed appropriate by the producers, the technical regulations, and provisions outlined in this Manual. Should assistance be required, the Receiver may invite the Senders or their representatives to offer support, but such support shall not be considered mandatory.",
+    "contradiction_score": 0.004447500221431255,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 302,
+    "start_char": 75185,
+    "end_char": 75829,
+    "original": "6.2 Transportation of Segregated Hydrocarbon 6.2.1In the event in which any Sender requires to transport Hydrocarbons in a segregated manner, the Transporter may agree with this option if it is technically and commercially viable, in which case the Sender may use that alternative under the agreements and technical and commercial conditions established with the Transporter. The Sender understands and accepts that any costs and damage resulting from the implementation of this alternative are additional to the rate agreed, shall be assumed by the Sender and under no circumstance constitute an additional rate for the Transportation service.",
+    "ollama_generated": "6.2 Segregated Hydrocarbon Transportation\n\n6.2.1 In instances where the Receiver requests segregated transportation of Hydrocarbons, the Transporter reserves the right to approve this request if it is deemed technically and commercially feasible. In such cases, the Receiver shall utilize this alternative at their own risk and expense, subject to the terms and conditions negotiated with the Transporter. The Receiver acknowledges and accepts that any costs or damages incurred as a result of this option are exclusively their responsibility and under no circumstances will be considered as additional charges for the Transportation service.",
+    "contradiction_score": 0.015393566340208054,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 310,
+    "start_char": 78298,
+    "end_char": 78620,
+    "original": "8.1.2.1 The first day of each September or before, all Senders shall submit to the Transporter the information on the projections of the volumes to be nominated for the five subsequent fiscal years and for the following fiscal year this information shall be specified monthly. Such information shall include the following:",
+    "modified": "8.1.2.1 Commencing annually on the last day of each August, Recipients are permitted \u2013 but not obligated \u2013 to provide the Carrier with projections for the volumes to be nominated for the four succeeding fiscal years and the upcoming fiscal year. Such monthly updates, if chosen to be provided, should cover the following details:\n\nThis amended clause weakens the obligation of the Sender by making it optional (permitted but not obligated) for them to provide projections. It also shifts the perspective slightly to reflect the Recipient's role in this process, which is now responsible for providing the monthly updates if they so choose.",
+    "contradiction_score": 0.7182714939117432,
+    "kept": true
+  },
+  {
+    "clause_index": 311,
+    "start_char": 78620,
+    "end_char": 78787,
+    "original": "8.1.2.1.1 The best estimate of the Sender, the volume to be transported in bpdc, assuming uniform flow rates expressed separately for each Hydrocarbon to be delivered;",
+    "modified": "8.1.2.1.1 The approximate volume to be transported in bpdc, as calculated by the Sender, is based on an assumption of varying flow rates for each Hydrocarbon delivery, with no guarantee of consistency or uniformity.\n\nExplanation: This revised clause weakens the original obligation by removing the certainty of \"best estimate\" and introducing a possibility of varying and inconsistent flow rates. It also makes it clear that there is no guarantee of uniform flow rates for each hydrocarbon delivered.",
+    "contradiction_score": 0.9782448410987854,
+    "kept": true
+  },
+  {
+    "clause_index": 317,
+    "start_char": 79940,
+    "end_char": 80012,
+    "original": "8.3 Nomination of the ANH, Owners and Senders with Ship or Pay Contract.",
+    "ollama_generated": "8.3 Obligation to Designate: The Recipient shall assume responsibility for designating the ANH, Owners, and Senders under the Ship or Pay Contract.\n\nExplanation: This revised clause places the obligation on the Recipient rather than the original contract party, thereby shifting the responsibility for nominating the ANH, Owners, and Senders to the Recipient. The wording \"Obligation to Designate\" is more active and direct, giving a clear indication of the action required from the Recipient.",
+    "contradiction_score": 0.010560255497694016,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 319,
+    "start_char": 80450,
+    "end_char": 80863,
+    "original": "Additionally, the Senders previously mentioned shall deliver their tentative Transportation needs for the following five calendar months. The Sender shall specify: name of the Hydrocarbon, the requested volume to be transported, quality, regime of deliveries during the month of Operation, Point of Entrance and Point of Exit, as well as any other specific information as required or requested by the Transporter.",
+    "ollama_generated": "Furthermore, it is incumbent upon the Reciprocal Senders to provide their provisional Transportation requirements for the ensuing five calendar months. The Sender shall disclose: the designated Hydrocarbon, the desired quantity for transport, quality specifications, flexible delivery schedules throughout the operation month, along with Points of Entry and Exit, as well as any supplementary information that may be necessary or demanded by the Transporter, with due notice.",
+    "contradiction_score": 0.010203986428678036,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 321,
+    "start_char": 81349,
+    "end_char": 81430,
+    "original": "8.4 Acceptance and rejection of Nominations and disclosure of Available Capacity.",
+    "ollama_generated": "8.4 Exercise of Discretion Regarding Submitted Nominations and Declaration of Potential Capacity Availability.\n\nThis revision subtly shifts the focus from an obligation to accept or reject nominations, instead emphasizing the exercising of discretion. Additionally, the term \"disclosure\" is replaced with \"declaration,\" which could imply a more passive approach, implying that the party may not be required to provide this information actively but rather when requested.",
+    "contradiction_score": 0.009939017705619335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 324,
+    "start_char": 82637,
+    "end_char": 83090,
+    "original": "Additionally, all Third parties and Senders with additional nominations to their Contracted Capacity shall deliver the tentative Transportation needs for the following five (5) calendar months. Third parties and Senders shall specify: name of the Hydrocarbon, request for the volume to be transported, delivery schedules during the month of Operation, Point of Entrance and Point of Exit, as well as any other information as required by the Transporter.",
+    "ollama_generated": "Conversely, it is incumbent upon Third parties and Senders, where they propose supplementary nominations beyond their Contracted Capacity, to submit provisional Transportation requirements for the ensuing five (5) calendar months. In this context, Third parties and Senders are tasked with providing: the designate Hydrocarbon, the volume's transport specification, operational month delivery timetables, along with the Points of Entrance and Exit, plus any further data deemed necessary by the Transporter, for due consideration and processing.",
+    "contradiction_score": 0.0021437250543385744,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 328,
+    "start_char": 84103,
+    "end_char": 84179,
+    "original": "8.7.2 This schedule may be modified by the Transporter, among other reasons:",
+    "ollama_generated": "8.7.2 The Transporter retains the right to modify this schedule under certain circumstances, including, but not limited to:\n\nThis revision slightly modifies the original clause by implying that the Transporter has discretion in modifying the schedule, rather than specifying specific reasons for modification. This change provides a bit more flexibility and potentially greater control to the Transporter.",
+    "contradiction_score": 0.003582822624593973,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 331,
+    "start_char": 84549,
+    "end_char": 84701,
+    "original": "8.7.3 Priority criteria for assignment of capacities en case of the aforementioned modifications shall be those established in clause 10 of this Manual.",
+    "modified": "8.7.3 In the event of modifications as previously mentioned, the priority criteria for assigning capacities will be determined at the discretion of the assignee, with due consideration given to the guidelines outlined in clause 10 of this Manual, if applicable and subject to their sole discretion.",
+    "contradiction_score": 0.9153361320495605,
+    "kept": true
+  },
+  {
+    "clause_index": 333,
+    "start_char": 85199,
+    "end_char": 85741,
+    "original": "8.8 Extemporary Nominations 8.8.1 If any Third Party or the Sender fails to meet the terms set out to nominate in accordance with the procedures contained herein, the Transporter shall not be obliged to accept such nominations. The Transporter shall only accept extemporary nominations as long as the Pipeline has available Capacity. If the nomination is accepted, the Third Party or Sender shall Pay to the Transporter as a penalty, two (2%) of the applicable rate to the volumes in barrels delivered in the Pipeline in the respective month.",
+    "modified": "8.8 Emergency Nominations\n\n8.8.1 In the event that a Third Party or the Sender fails to comply with the specified nomination procedures as outlined within this agreement, the Transporter shall not be bound to accept such emergency nominations unless there is remaining Capacity in the Pipeline. The Transporter reserves the right to accept emergency nominations at their discretion. If an emergency nomination is accepted, the Third Party or Sender will be required to compensate the Transporter as a penalty, equivalent to four percent (4%) of the applicable rate for the volumes delivered in barrels through the Pipeline during that particular month.",
+    "contradiction_score": 0.6827890872955322,
+    "kept": true
+  },
+  {
+    "clause_index": 334,
+    "start_char": 85741,
+    "end_char": 86165,
+    "original": "8.9 Final Report of Operation 8.9.1 At the end of each month of Operation, the Transporter shall prepare a report which shall be delivered to the Senders at the latest on the tenth (10) working day of the following calendar month of the month of Operation indicating the volumes in Gross Standard Barrels and Net Standard Barrels delivered and withdrawn and the average qualities at each Point of Entrance and Point of Exit.",
+    "ollama_generated": "8.9 Monthly Reporting Requirements\n\n8.9.1 In connection with Operation, the Transporter shall prepare and submit a report to the Senders within fifteen (15) working days following the conclusion of each calendar month during which the Operation was active. The report shall detail, at a minimum:\n\n  a. the total volumes delivered and withdrawn in Gross Standard Barrels and Net Standard Barrels;\n  b. the average qualities at each Point of Entrance and Point of Exit for the relevant month;\n  c. any irregularities or discrepancies that may have occurred during the course of the Operation for the given period.\n\nThis revised clause maintains the essence of the original, but slightly shifts responsibility by moving the deadline for report delivery from the tenth working day to fifteen working days after the end of the month, and it expands the content requirement to include any irregularities or discrepancies that may have occurred during the Operation. This change weakens the obligation slightly and provides the Transporter with a bit more leeway in terms of timely delivery while still ensuring adequate reporting for the Senders.",
+    "contradiction_score": 0.060798607766628265,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 342,
+    "start_char": 87985,
+    "end_char": 88095,
+    "original": "9.1.3.4 The balance of the withdrawals in excess shall be reflected in the volumetric compensation by quality.",
+    "modified": "9.1.3.4 Any excess withdrawals beyond the agreed amount will not automatically trigger a change in volumetric compensation, but rather will be subject to an adjustment based on the quality of the withdrawn quantity.",
+    "contradiction_score": 0.5513779520988464,
+    "kept": true
+  },
+  {
+    "clause_index": 345,
+    "start_char": 89304,
+    "end_char": 89778,
+    "original": "Operation and Transport Regulations Version 1 10.1.1 First: Crude of royalties of the State coming from the fields served by the Pipeline. This priority makes reference to a preferred right that Crude Oils from royalties shall have in the nomination process for the preparation of the Transportation schedules. For purposes of this first priority, Crude Oil sold by the State to a Third Party or Sender non -owner, shall not be considered as Crude of royalties of the State.",
+    "ollama_generated": "Operation and Transport Regulations Version 1, Article 10.1.1:\nFirst Preference: For crude oils derived from royalty-bearing fields serviced by the Pipeline, this priority acknowledges a non-exclusive right, favoring such oil in the allocation process for scheduling transport. Notably, for the purpose of this non-exclusive priority, any Crude Oil sold by the State to third parties or senders who are not owners, shall be excluded from the classification of State royalty crude oil.",
+    "contradiction_score": 0.016689728945493698,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 350,
+    "start_char": 90244,
+    "end_char": 90460,
+    "original": "10.3 Within the Third and fourth priority, the assignment of volumes or the reduction of volumes assigned shall be made at prorate of the capacities of each Sender and the nomination of each Third Party respectively.",
+    "ollama_generated": "10.3 In the event of assigning volumes or reducing assigned volumes within the Third and Fourth priority, such actions will be determined by proportional adjustment of each Receiver's capacity, as opposed to the capacities of each Sender, and the nomination preferences of each Third Party, respectively.\n\nIn this revision, the obligation has been shifted from the Senders to the Receivers in terms of volume assignment or reduction within the specified priorities.",
+    "contradiction_score": 0.4941156208515167,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 360,
+    "start_char": 92727,
+    "end_char": 93043,
+    "original": "12.3 Extra costs 12.3.1 The Transporter and the Sender may agree on the delivery of Hydrocarbons with lower characteristics than the minimum required, in which case the Sender shall pay all costs and expenses to improve the Hydrocarbon and to bring it to acceptable Transportation specifications for the Transporter.",
+    "ollama_generated": "12.3 Additional Costs\n12.3.1 The Transporter may opt for the delivery of Hydrocarbons with characteristics below the minimum required, under which circumstance the Transporter shall bear all costs and expenses incurred to adjust the Hydrocarbon to meet their preferred Transportation specifications, unless otherwise agreed upon by the parties.\n\nIn this revised clause, the responsibility for covering any additional costs to improve the quality of the Hydrocarbons has been shifted from the Sender to the Transporter, providing a more favorable position for the Sender in the event that the delivered Hydrocarbons do not meet the minimum required specifications.",
+    "contradiction_score": 0.2408761978149414,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 363,
+    "start_char": 93845,
+    "end_char": 94143,
+    "original": "13.1.1 Quantity and quality measurements and Hydrocarbon samples delivered or withdrawn shall be conducted by the Transporter or whoever is designated through the measurement systems installed at the node of Entrance and node of Exit; each measuring system installed may include among other things:",
+    "ollama_generated": "13.1.1 The responsibility for conducting quantity and quality measurements, as well as obtaining hydrocarbon samples during delivery or withdrawal, rests with the Transporter or any designated party. Measurement systems used at the Entrance and Exit nodes, which may encompass various components, are to be utilized in this process. It is important to note that while the Transporter holds primary responsibility for these measurements, the Receiver retains the right to challenge or confirm the readings provided by the Transporter.",
+    "contradiction_score": 0.0008235228597186506,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 370,
+    "start_char": 95652,
+    "end_char": 95778,
+    "original": "13.1.1.6 An electronic system for the measurement of flow adjusted to API MPMS, Chapter 21.2 requirements in the last edition.",
+    "ollama_generated": "13.1.1.6 The system used for measuring flow shall be electronically adaptable, aiming to comply with the latest edition of API MPMS, Chapter 21.2 requirements, although its adjustment to such standards is not a mandatory or immediate obligation.",
+    "contradiction_score": 0.0048550753854215145,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 375,
+    "start_char": 96691,
+    "end_char": 96807,
+    "original": "13.1.2.2 Increases or reductions necessary to be made as a result of making adjustments for Volumetric Compensation.",
+    "ollama_generated": "13.1.2.2 Adjustments for Volumetric Compensation may lead to required modifications, including but not limited to increases or reductions, at the discretion of [the relevant party].\n\nThe change here is that the original clause implied that adjustments would necessarily result in changes (increases or reductions), while the rewritten version makes it clear that adjustments may result in changes, but it is left to the discretion of the specified party whether or not to make them.",
+    "contradiction_score": 0.004454526584595442,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 397,
+    "start_char": 104477,
+    "end_char": 104634,
+    "original": "14.4.3 The Volumetric Compensation for Quality is not part of the Rate and therefore shall not be compensated or will have any variation as a result of this.",
+    "ollama_generated": "14.4.3 It is explicitly stated that the Volumetric Compensation for Quality is separate from the established Rate, implying no adjustments to compensation or variations in that regard shall stem from this stipulation.",
+    "contradiction_score": 0.0024519392754882574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 404,
+    "start_char": 106349,
+    "end_char": 106383,
+    "original": "15.2 Information of public access:",
+    "ollama_generated": "15.2 Accessible Public Data:\n\nThe parties acknowledge that certain information may be accessible to the public. In the event that such information becomes available or known to a party, they shall have no obligation to actively seek out, collect, or verify its accuracy. Instead, each party is hereby granted the discretion to choose whether to utilize or act upon any such publicly available information, if deemed necessary or beneficial to their respective interests.",
+    "contradiction_score": 0.015111248940229416,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 408,
+    "start_char": 107051,
+    "end_char": 107277,
+    "original": "15.3.2 Discussion on modifications to the Manual 15.3.3 General information on the programmed maintenance schedule of the Pipeline and other programed activities affecting the effective Capacity during the next six (6) months.",
+    "ollama_generated": "15.3.2. Consultation Regarding Potential Alterations to the Manual\n15.3.3. Limited Disclosure of Preliminary Details concerning the Anticipated Maintenance Schedule and Other Planned Activities that May Potentially Impact the Efficient Utilization of the Pipeline over the Next Six (6) Months.\n\n[Explanation: The original clause requires a discussion on modifications to the Manual and general information about maintenance schedules and other activities affecting capacity, with specific details for the next six months. The rewritten clause weakens the obligation by shifting the focus to consultation regarding potential alterations, and limits the disclosure to preliminary details about anticipated maintenance and activities that may potentially impact capacity.]",
+    "contradiction_score": 0.2507290542125702,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 409,
+    "start_char": 107277,
+    "end_char": 107531,
+    "original": "15.3.4 Listing of expansion projects and changes in the Pipeline \u2019s infrastructure 15.3.5 Effective Capacity confirmed for each month of Operation and estimated for the following five (5) months and the corresponding available Capacity for each Distance.",
+    "ollama_generated": "15.3.4 The Project Owner shall provide notice of anticipated expansion projects and modifications to the Pipeline's infrastructure, as well as any potential impact on capacity.\n\n15.3.5 The User is responsible for confirming the effective capacity for each month of operation and estimating the capacity for the subsequent five (5) months, with the Project Owner providing the corresponding available capacity for each distance upon request.",
+    "contradiction_score": 0.14433404803276062,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 411,
+    "start_char": 107855,
+    "end_char": 108088,
+    "original": "15.3.9 Daily statistics for the last month of Operation and monthly statistics since the enforcement of Resolution 181258 of 2010 from the Ministry of Mines and Energy on the information on Effective Capacity and Volumetric Balances.",
+    "ollama_generated": "15.3.9 The Providing Party shall supply, upon request by the Receiving Party, daily statistics for the last month of Operation and monthly statistics dating back to the enforcement of Resolution 181258 of 2010 from the Ministry of Mines and Energy, pertaining to information on Effective Capacity and Volumetric Balances. However, the accuracy and completeness of such data is not warranted by this agreement, and any errors or omissions shall not be grounds for claim or dispute.",
+    "contradiction_score": 0.01458029542118311,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 419,
+    "start_char": 109835,
+    "end_char": 110204,
+    "original": "16.1.3 The Transporter reserves the right to receive or reject a Hydrocarbon that fails to meet the minimum specified values; in case of reception, the Sender shall Pay the Transporter any costs incurred in the analysis and eventual treatment of this Hydrocarbon to place it within the required specifications or to implement the scheme required for its Transportation.",
+    "ollama_generated": "16.1.3 It is at the discretion of the Sender to deliver a Hydrocarbon that meets or does not meet the minimum specified values; in the event that the Transporter chooses to accept such Hydrocarbon, the Transporter shall bear any costs associated with the analysis and treatment necessary to bring the Hydrocarbon up to the required specifications, or to devise and implement a suitable transportation plan for it.\n\nIn this version, the responsibility for costs incurred due to non-compliant Hydrocarbons has shifted from the Sender to the Transporter.",
+    "contradiction_score": 0.2303507924079895,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 420,
+    "start_char": 110204,
+    "end_char": 110699,
+    "original": "16.1.4 The Transporter reserves the right to require, reject or approve the injection at any other Point in the Pipeline of products such as corrosion inhibitors, depressors of Point of fluidity, friction reducers or any other additive in the Hydrocarbon to be transported. The Sender shall Pay the Transporter all costs incurred in the analysis and eventual treatment of this Hydrocarbon to place it within the required specifications or to implement the scheme required for its Transportation.",
+    "ollama_generated": "16.1.4 The Sender assumes responsibility for any additional costs incurred by the Transporter in analyzing and treating the Hydrocarbon, should it necessitate adjustments to meet the specified requirements or modifications for its transportation. The Transporter retains discretion to decide, at any Point within the Pipeline, whether to accept, reject, or require the injection of products such as corrosion inhibitors, depressors of Point of fluidity, friction reducers, or other additives in the Hydrocarbon being transported.",
+    "contradiction_score": 0.07351035624742508,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 421,
+    "start_char": 110699,
+    "end_char": 111427,
+    "original": "16.1.5 The Transporter reserves the right to transport Hydrocarbons delivered by Senders that exceed the limits determined by Transporter for organic chloride, sand, dust, dirtiness, glues, impurities, other objectionable substances or any other compounds with physical or chemical characteristics that, under the exclusive determination of the Transporter may cause that the Hydrocarbon would not be easily transported, may damage the Pipeline or may interfere with the Transportation and the withdrawals. The Sender shall Pay the Transporter all costs incurred in the analysis and eventual treatment of this Hydrocarbon to place it within the required specifications or to implement the scheme required for its Transportation.",
+    "modified": "16.1.5 The Transporter maintains discretionary authority to decline transporting Hydrocarbons from Senders if, in the sole judgment of the Transporter, these Hydrocarbons exceed the prescribed limits or contain substances such as organic chlorides, sand, dust, dirt, glues, impurities, or other potentially problematic compounds. In such cases, the Sender shall bear the expenses associated with the analysis and any necessary treatment or modifications to make the Hydrocarbon suitable for transportation within Transporter's specifications. Additionally, the Transporter will not be liable for any costs incurred due to the Hydrocarbon's unsuitability for transport, potential damage to the Pipeline, or disruptions to the Transportation and withdrawals.",
+    "contradiction_score": 0.6280338764190674,
+    "kept": true
+  },
+  {
+    "clause_index": 422,
+    "start_char": 111427,
+    "end_char": 111911,
+    "original": "16.1.6 The Transporter shall be entitled, with a previous provisional notice, to remove and sell the Crude of any Sender that fails to comply with any of the specifications at its Sole discretion. If the Transporter exercises its right of sale pursuant to this clause, the Transporter shall deduct from the proceeds of such sale all costs incurred by the Transporter with respect to the storage, removal and sale of such Crude Oil. The Transporter shall pay the balance to the Sender.",
+    "ollama_generated": "16.1.6 The Sender acknowledges that the Transporter may, following a preliminary notice, elect to store, at its own discretion and expense, any Crude Oil delivered by the Sender that does not comply with the specified requirements. If such storage is undertaken, the Transporter shall be entitled to recover from the proceeds of any subsequent sale of the stored Crude Oil all costs incurred for storage, removal, and sale. Any remaining funds shall be remitted to the Sender by the Transporter.",
+    "contradiction_score": 0.28812897205352783,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 423,
+    "start_char": 111911,
+    "end_char": 112211,
+    "original": "Operation and Transport Regulations Version 1 16.1.7 The Transporter shall not accept Crude Oil delivered by any Sender if this may cause impairment to the Pipeline of the Crudes or mixtures transported (without consideration of whether or not the Crude Oil meets the minimum quality specifications).",
+    "ollama_generated": "Operation and Transport Regulations Version 1, Article 16.1.7: Under no circumstances shall the Receiver of Crude Oil be obligated to accept deliveries that could potentially lead to degradation or disruption of the Pipeline's ability to transport the specified Crudes or their mixtures, regardless of whether or not the delivered Crude Oil adheres to the established minimum quality specifications.",
+    "contradiction_score": 0.019164444878697395,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 431,
+    "start_char": 115132,
+    "end_char": 115278,
+    "original": "18.4 The Transporter shall be responsible for the Transportation service, for any losses, damage or deterioration that the Hydrocarbon may suffer.",
+    "ollama_generated": "18.4 It is understood that the Responsible Party (Transporter) maintains sole liability for the provision of the Transportation Service, including any incidental or consequential harm, loss, or degradation sustained by the Hydrocarbon during transit. However, the Transporter shall not be held accountable for any damage caused by factors beyond its reasonable control, such as acts of God, government actions, or unforeseeable events.",
+    "contradiction_score": 0.00891133863478899,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 442,
+    "start_char": 118054,
+    "end_char": 118427,
+    "original": "19.2 For the Pipeline Operation, the Transporter may request to each Sender, including the ANH, to deliver to the Transporter the necessary quantity of Hydrocarbon to fill in the line of the Pipeline. The participation of each Sender in filling in the line shall be determined by the Transporter based on criteria such as: Ownership of the Pipeline and Contracted Capacity.",
+    "ollama_generated": "19.2 In the context of Pipeline Operation, the ANH, as well as any other Sender, is obligated to comply with requests from the Transporter for the supply of a required quantity of Hydrocarbon to ensure the pipeline's fullness. The determination of each Sender's obligation to contribute to pipeline filling will be solely at the discretion of the Transporter, taking into account factors such as: Contracted Capacity and Ownership of the Pipeline.",
+    "contradiction_score": 0.03092493861913681,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 445,
+    "start_char": 118971,
+    "end_char": 119336,
+    "original": "19.5 When segregated Hydrocarbon is transported, it shall be understood that the ownership of the filling of the line of the Pipeline varies according to the volumes of segregated Hydrocarbon present in the Pipeline at a given time. Without prejudice of the foregoing, the Sender shall not lose the ownership of the segregated Hydrocarbon remaining in the Pipeline.",
+    "ollama_generated": "19.5 In the course of transporting segregated Hydrocarbons via the pipeline, it is acknowledged that the ownership of the pipeline's contents at any given moment is determined by the proportional volumes of segregated Hydrocarbons within. Notwithstanding this understanding, the Owner maintains control over the remaining segregated Hydrocarbons within the pipeline.\n\nIn this revised clause, the ownership of the pipeline's contents at a given time is determined by the proportional volumes of segregated Hydrocarbons within (previously \"the ownership of the filling of the line of the Pipeline varies according to...\"), and the Owner maintains control over the remaining segregated Hydrocarbons within the pipeline instead of the Sender not losing ownership. This subtle change shifts the responsibility for the remaining segregated Hydrocarbons from \"Sender\" to \"Owner\".",
+    "contradiction_score": 0.017628615722060204,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 448,
+    "start_char": 119898,
+    "end_char": 120251,
+    "original": "20.1.2 The report prepared by the Transporter shall be considered as the basis to calculate the identifiable losses, indicating the Operation conditions of that day, time, place, causes, deliveries, dispatches, withdrawals, mix or segregated Hydrocarbon, recovered and lost and determined after the filling of the line and the restarting of the pumping.",
+    "ollama_generated": "20.1.2 The report compiled by the Transporter serves as a guiding principle for estimating potential losses, detailing the operational conditions of the specified day, time, location, events preceding and following the incident, hydrocarbon handling (either combined or separate), recoveries, and any losses incurred. This estimation is made subsequent to the line's filling and resumption of pumping activities. The accuracy of these calculations shall not be binding upon either party unless expressly agreed otherwise in writing.",
+    "contradiction_score": 0.0018979308661073446,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 452,
+    "start_char": 121298,
+    "end_char": 121808,
+    "original": "\u00b7 Stops/ starts of the Pipeline \u00b7 Illegal extractions non -detected \u00b7 Faults in the meter factors \u00b7 Volumetric contractions \u00b7 Leakages/passes in the valves \u00b7 Evaporation \u00b7 Escapes \u00b7 Inherent uncertainties on the measurement systems and associated instrumentation \u00b7 Inherent uncertainties of laboratory analysis associated to the calculation of volumes \u00b7 Propagation of inherent uncertainties of the procedures set out at the international level for the calculation of volumes by static and dynamic measurement.",
+    "ollama_generated": "\u2022 Responsibility for Interruptions, Commencements, or Pauses in the Pipeline Flow\n  \u2022 Undetected Unauthorized Extraction Incidents\n  \u2022 Discrepancies in Meter Calibrations or Readings\n  \u2022 Unexplained Reductions in Delivered Volume (Volumetric Expansions)\n  \u2022 Unreported Valve Malfunctions or Leaks\n  \u2022 Occurrences of Evaporation, Escapes, or Spills\n  \u2022 Inherent and Potential Uncertainties in Measurement Systems and Associated Equipment\n  \u2022 Inherent and Potential Uncertainties in Laboratory Analysis Methodologies Relevant to Volume Calculation\n  \u2022 Propagation of Uncertainties from International-Level Procedures for Static and Dynamic Measurement of Volumes, including those arising from accepted industry practices.",
+    "contradiction_score": 0.011715305969119072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 455,
+    "start_char": 122279,
+    "end_char": 122465,
+    "original": "20.1.8 The calculation procedure of losses in the Pipeline shall be governed by the provisions in this clause and the current Compensation Mechanism for Quality for the Mix of Crude Oil.",
+    "modified": "20.1.8 The determination of potential gains within the Pipeline shall reflect the guidelines set forth in this clause and the prevailing Compensation Mechanism for Quality Variations in the Mix of Crude Oil, with the understanding that such mechanism may provide for adjustments to favor the party responsible for pipeline management.",
+    "contradiction_score": 0.9397984147071838,
+    "kept": true
+  },
+  {
+    "clause_index": 457,
+    "start_char": 122719,
+    "end_char": 123285,
+    "original": "20.1.10  Identifiable losses are distributed according to the value in US dollars of the deliveries by each Sender on the calendar month in which they were detected CLAUSE 21 CLAIMS 21.1 Any claim by a Sender or Third Party in connection with the Transportation service of Hydrocarbons shall be resolved pursuant to the internal procedures of the Transporter and the applicable regulations. These claims shall be delivered to the Transporter \u2019s Operational area and they shall conduct the respective internal procedure and shall communicate the result to the Sender.",
+    "ollama_generated": "20.1.10 Identifiable losses, however caused, are allocated proportionately among Senders based on the total value in US dollars of their deliveries during the relevant calendar month, irrespective of when such losses were identified or who may have been responsible for them.\n\nClause 21 CLAIMS\n21.1 Any claim by a Sender or Third Party regarding the Hydrocarbons Transportation service shall be addressed under the Transporter's internal procedures and applicable regulations. The Transporter will acknowledge receipt of such claims in its Operational area, initiate the prescribed internal process, and provide the Sender with the outcome. In this context, the Transporter assumes no obligation to actively seek or investigate potential claims unless explicitly notified by the claimant.",
+    "contradiction_score": 0.08930503576993942,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 458,
+    "start_char": 123285,
+    "end_char": 123582,
+    "original": "21.2 For claims regarding the quantity or quality of Hydrocarbons, these shall be presented in writing at the latest within fifteen (15) calendar days after the date of delivery or withdrawal of the Hydrocarbon or the date in which the report for the Volumetric Compensation for Quality is issued.",
+    "ollama_generated": "21.2 In regards to claims concerning the quantity or quality of Hydrocarbons, we request that such claims be submitted in writing no later than fifteen (15) calendar days prior to the date of delivery or withdrawal of the Hydrocarbon, or alternatively, within fifteen (15) calendar days after the issuance of the report for the Volumetric Compensation for Quality. The onus is on the receiving party to provide this notice in a timely manner, recognizing that any failure to do so may impact their ability to assert such claims effectively.",
+    "contradiction_score": 0.005329241510480642,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 461,
+    "start_char": 124200,
+    "end_char": 124510,
+    "original": "CLAUSE 22 SANCTIONS TO OPERATING AGENTS FOR NON -PERFORMANCE OF THE TRANSPORTATION SCHEDULE 22.1 Each of the nominations made by Senders and Third parties shall constitute their commitment to comply with the delivery and withdrawal schedule with quantities and flow rates previously agreed between the parties.",
+    "ollama_generated": "CLAUSE 22 CONSEQUENCES FOR FAILURE OF OPERATING AGENTS TO ADHERE TO THE TRANSPORTATION SCHEDULE\n\n22.1 The commitments of Senders and Third parties, as evidenced by their nominations, extend only to a good-faith effort to adhere to the delivery and withdrawal schedule with quantities and flow rates previously agreed upon, acknowledging that unforeseen circumstances may occasionally necessitate deviations from this timeline.\n\nIn this revised clause, the obligation on Senders and Third parties has been softened by adding \"a good-faith effort\" and explicitly allowing for \"unforeseen circumstances,\" which provides some flexibility in adhering to the delivery and withdrawal schedule.",
+    "contradiction_score": 0.034884076565504074,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 466,
+    "start_char": 125175,
+    "end_char": 125314,
+    "original": "22.2.1.1.2 The Transporter may decide to charge the Sender a sanction equivalent to 5% of the Transportation Fee of the Scheduled Capacity.",
+    "ollama_generated": "22.2.1.1.2 The Sender shall be liable to pay a surcharge, which is equivalent to 5% of the Transportation Fee for the Scheduled Capacity, at the discretion of the Transporter.",
+    "contradiction_score": 0.0007937742630019784,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 483,
+    "start_char": 129705,
+    "end_char": 130070,
+    "original": "Operation and Transport Regulations Version 1 24.1.3 As a result of the analysis conducted, the Transporter shall determine whether or not the Proposal is accepted, or if conditioned totally or partially, if executed directly, or through a person designated by said Transporter, as well as the scope of the investment and all other aspects relevant to the Proposal.",
+    "modified": "Operation and Transport Regulations Version 1 24.1.3 Upon analysis conducted, it shall be at the discretion of the Proposer to decide whether the Proposal is accepted in full or in part, with or without conditions, and to execute such decision directly or through a designated representative. Furthermore, the Proposer will be responsible for determining the extent of the investment and all other pertinent aspects related to the Proposal.",
+    "contradiction_score": 0.946757972240448,
+    "kept": true
+  },
+  {
+    "clause_index": 484,
+    "start_char": 130070,
+    "end_char": 130440,
+    "original": "24.1.4 If the new infrastructure modifies the Effective Capacity, the Senders or Third parties participating in the Proposal may enter into a Ship or Pay Transportation Contract to contract a portion of the new Capacity. In the case of the Capacity corresponding to the Transporter or Owner given the scope of the Proposal, this shall be considered as Owner \u2019s Capacity.",
+    "ollama_generated": "24.1.4 The modification of the Effective Capacity due to new infrastructure does not obligate the Senders or Third parties involved in the Proposal; however, they retain the option to enter into a Ship or Pay Transportation Contract for utilizing a portion of the newly available Capacity. In the event that the Capacity pertains to the Transporter or Owner, as defined by the scope of the Proposal, such capacity utilization is regarded as an extension of their existing responsibilities.",
+    "contradiction_score": 0.047075700014829636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 491,
+    "start_char": 132664,
+    "end_char": 133548,
+    "original": "Operation and Transport Regulations Version 1 25.3.3 Conditions for the Execution: The Transporter may deny the authorization for the implementation of the Sole Risk Proposal duly justified, including but without being limited to, safety, technical, Operational or Capacity reasons, alleging they may affect the integrity of the Pipeline or the Operation of other Senders or by disposition of the competent authority. The Transporter shall not be in the obligation to provide the Transportation service until the execution of the Sole Risk Proposal fulfills the requirements established in the Manual, the applicable engineering standards, the Transporter \u2019s provisions and requirements and any other applicable regulations. In the case of associated systems to the Pipeline, the Sender shall not modify the facilities or its way of Operation without the Transporter \u2019s authorization.",
+    "ollama_generated": "Operation and Transport Regulations Version 1, Article 25.3.3 Execution Conditions: The Transmitter reserves the right to withhold approval for the implementation of the Exclusive Risk Proposal, for valid reasons such as safety, technical, operational, or capacity concerns, which may potentially impact the integrity of the Pipeline, the operation of other Senders, or as instructed by the competent authority. It is not obligated to provide Transportation services until the execution of the Exclusive Risk Proposal meets the criteria specified in the Manual, applicable engineering standards, Transmitter's guidelines, and any other relevant regulations. In instances involving associated systems with the Pipeline, the Receiver must obtain the Transmitter's authorization prior to modifying the facilities or operational methods.",
+    "contradiction_score": 0.008887993171811104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 492,
+    "start_char": 133548,
+    "end_char": 133945,
+    "original": "The Transporter reserves the right to carry out the construction, administration, Operation and maintenance totally or partially of the Sole Risk Proposals and shall define the scope of its participation. The costs implied thereto shall be borne by the Sender or Third Party presenting the Sole Risk Proposal. The Sender and the Transporter may freely agree on the means for financing and Payment.",
+    "ollama_generated": "The Sender grants permission to the Transporter to assume full or partial responsibility for the development, management, operation, and maintenance of the Assigned Risk Projects, with the discretion to determine their extent of involvement. Any expenses associated therewith will be shouldered by either the Transporter or a Third Party submitting the Assigned Risk Proposal, unless otherwise agreed upon between the Sender and the Transporter. The parties are free to negotiate and settle on the methods for funding and remuneration.",
+    "contradiction_score": 0.014490868896245956,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 500,
+    "start_char": 136789,
+    "end_char": 137244,
+    "original": "CLAUSE 26 PROCEDURES FOR COORDINATION OF OPERATIONS, COMMUNICATIONS AND EMERGENCY ASSISTANCE 26.1 Communications and all other aspects associated to the coordination of the activities related to the Manual hereof, shall be attended by the operating area of the Transporter. These communications may be directed through field representatives of the Transporter or processed directly by personnel of the operating coordination in the Transporter \u2019s Offices.",
+    "ollama_generated": "CLAUSE 26 PROCEDURES FOR COORDINATION OF OPERATIONS, COMMUNICATIONS AND EMERGENCY ASSISTANCE\n\n26.1 In matters related to coordination of activities as outlined in the Manual hereof, the Responsible Party shall have the discretion to determine the method and personnel for communications. This may include delegation to field representatives or direct interaction by staff from the operating coordination within the offices of the Responsible Party.\n\nIn this revised clause, the Transporter's responsibility to attend to communications is replaced with the \"Responsible Party\" having discretion in determining the method and personnel for communications. This change subtly shifts the burden from the Transporter to the defined \"Responsible Party.\"",
+    "contradiction_score": 0.22269557416439056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 504,
+    "start_char": 138292,
+    "end_char": 138598,
+    "original": "Operation and Transport Regulations Version 1 26.5 In the assistance of emergencies, the Transporter \u2019s Operations and maintenance personnel participates, as well as personnel from corporate support to contribute in the handling of communications and the required logistics support by the assistance group.",
+    "ollama_generated": "Operation and Transport Regulations Version 1 - Article 26.5\nIn emergency situations, it is the responsibility of the Assistance Group to coordinate the participation of the Transporter's Operations and Maintenance personnel, along with corporate support personnel for communication assistance and logistical support as required. The Transporter shall cooperate and provide necessary resources as directed by the Assistance Group in such emergencies.",
+    "contradiction_score": 0.003933947999030352,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 505,
+    "start_char": 138598,
+    "end_char": 138978,
+    "original": "26.6 Likewise, the Transporter has agreements with different authorities and emergency assistance bodies at the local, regional and national level as complement to its internal assistance equipment. This is complemented with agreements established with companies from the sector to provide support and mutual assistance before any event, in order to mitigate any emergency impact.",
+    "ollama_generated": "26.6 It is not solely reliant on the Transporter's internal resources for managing emergencies; rather, it maintains agreements with various authorities, emergency response bodies, and industry peers at local, regional, and national levels. These agreements serve as a backup to its own equipment. Additionally, prior to any event, the Transporter has established mutual aid agreements with companies within the sector, aiming to shift responsibility for mitigating emergency impact onto these partners, where feasible.",
+    "contradiction_score": 0.0011554827215149999,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 509,
+    "start_char": 139767,
+    "end_char": 140013,
+    "original": "CLAUSE 29 ADDITIONS AND MODIFICATION 29.1 The Transporter may carry out additions or modifications to this Manual, pursuant to the provisions in Resolution 18 -1258 of July 14, 2010 from the Ministry of Mines and Energy as substituted or amended.",
+    "ollama_generated": "CLAUSE 29 ADDITIONS AND MODIFICATIONS\n29.1 The Transporter retains discretion to introduce additions or modifications to this Manual, subject to the conditions specified in Resolution 18-1258 of July 14, 2010 by the Ministry of Mines and Energy, as such resolution may be superseded or altered.",
+    "contradiction_score": 0.01261107251048088,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 510,
+    "start_char": 140013,
+    "end_char": 140150,
+    "original": "CLAUSE 30 APPLICABLE LEGISLATION 30.1 This Manual is governed in all its parts by the applicable regulations of the Republic of Colombia.",
+    "ollama_generated": "CLAUSE 30 JURISDICTIONAL GOVERNANCE\n30.1 This Manual shall be construed and enforced, in all its facets, according to the domestic laws and regulations that may apply within the jurisdiction of the Republic of Colombia.",
+    "contradiction_score": 0.18907460570335388,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 513,
+    "start_char": 141078,
+    "end_char": 141153,
+    "original": "The Transporter assumes the totality of costs for consumption of Crude Oil.",
+    "modified": "The Consumer shall bear the entire expense related to the consumption of Crude Oil, with the Transporter having no financial liability in this regard.",
+    "contradiction_score": 0.9973016977310181,
+    "kept": true
+  },
+  {
+    "clause_index": 524,
+    "start_char": 143665,
+    "end_char": 143823,
+    "original": "3.3.4 The Transporter shall make monthly adjustments to the corresponding volume of Crude to each Sender, based on the coefficients of adjustment for quality.",
+    "ollama_generated": "3.3.4 It is incumbent upon the Sender to request and provide the necessary data for quality coefficients adjustments to the Transporter, who shall then make a reasonable effort to adjust the monthly volume of Crude accordingly. The Transporter's actions are subject to the discretion of their internal quality control team and may not always result in a proportionate adjustment.",
+    "contradiction_score": 0.10896871238946915,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 525,
+    "start_char": 143823,
+    "end_char": 144052,
+    "original": "(a) Reduced if such Sender of the Pipeline delivers Crude of lower quality than the average quality of the mix, (b) Increased if said Sender of the Pipeline delivers Crude of ah higher quality than the average quality of the mix.",
+    "ollama_generated": "(a) Reduced if the Quality of Crude delivered by the Pipeline's Sender falls below the average quality of the mix, (b) Unchanged if such Sender delivers Crude of equal quality to the average quality of the mix; however, an Increase may occur if the Sender consistently provides Crude exceeding the average quality of the mix.",
+    "contradiction_score": 0.021234706044197083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 531,
+    "start_char": 145110,
+    "end_char": 145299,
+    "original": "3.3.6 Each month of Operation the Transporter shall measure the volumes delivered by the Senders and shall determine the weighted average for the quality parameters of Crude Oils delivered.",
+    "ollama_generated": "3.3.6 In each month of Operation, it is incumbent upon the Senders to self-report the volumes dispatched and the quality parameters associated with the Crude Oils supplied. The Transporter shall then calculate and verify the weighted average for these reported values.",
+    "contradiction_score": 0.14184437692165375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 533,
+    "start_char": 145573,
+    "end_char": 145776,
+    "original": "3.3.8 Senders acknowledge that adjustments to their Crude volumes to be withdrawn as a result of these principles and procedures of the CVC may affect the volume of Crude Oil for a withdrawal afterwards.",
+    "modified": "3.3.8 Recipients recognize that modifications made to their designated Crude volumes, in accordance with these guiding principles and operational practices of the CVC, could potentially necessitate reductions in subsequent Crude Oil withdrawals. The onus is on the Receivers to adjust their withdrawal plans accordingly.",
+    "contradiction_score": 0.7121093273162842,
+    "kept": true
+  },
+  {
+    "clause_index": 544,
+    "start_char": 147998,
+    "end_char": 148111,
+    "original": "To determine API gravity and sulfur coefficients linear regressions shall be run using the minimum square method.",
+    "ollama_generated": "For the purpose of calculating API gravity and sulfur coefficients, it is recommended to employ a least-squares linear regression analysis, while taking into account that alternative methods may also be used at the discretion of the party performing the calculation.",
+    "contradiction_score": 0.0027803906705230474,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 547,
+    "start_char": 148501,
+    "end_char": 148630,
+    "original": "2. CIF quotation - Customs Tariffs, Oil pollution Liability Insurance, \u201cSuperfund \u201d taxes are included and others as appropriate.",
+    "modified": "2. CIF Quotation - Excluded from the price are any miscellaneous charges not explicitly mentioned, such as but not limited to Customs Tariffs, Oil Pollution Liability Insurance, and \"Superfund\" taxes. The Buyer is responsible for paying these costs separately as they arise.",
+    "contradiction_score": 0.9773935079574585,
+    "kept": true
+  },
+  {
+    "clause_index": 550,
+    "start_char": 149233,
+    "end_char": 149691,
+    "original": "To determine the API gravity coefficient, a linear regression analysis shall be performed using the three months average of Crude prices from the basket calculated in the paragraph above as the dependent variable. Likewise, the API gravity and sulfur content is used for each Crude Oil of reference as the independent variables. The formula to be used makes a regression of the price as a function of API gravity and sulfur simultaneously (See 2 in table V).",
+    "ollama_generated": "To ascertain the API gravity coefficient, it is stipulated that a linear regression analysis will be carried out employing the three-month average of Crude prices from the aforementioned basket as the predicted variable. Conversely, the API gravity and sulfur content will serve as the predictor variables for each reference Crude Oil. The chosen formula shall facilitate a simultaneous regression of price in relation to both API gravity and sulfur content (Refer to item 2 in Table V).\n\nThis revised clause weakens the original obligation by shifting the responsibility from explicitly stating that a linear regression analysis \"shall be performed\" to using a more conditional phrase \"it is stipulated that a linear regression analysis will be carried out.\" Additionally, the new clause uses the term \"predicted variable\" instead of \"dependent variable,\" and \"predictor variables\" in place of \"independent variables.\" This change subtly implies that other factors could potentially influence the API gravity coefficient, although this is not explicitly stated.",
+    "contradiction_score": 0.2781265676021576,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 555,
+    "start_char": 150727,
+    "end_char": 150978,
+    "original": "After obtaining the API and sulfur coefficients, a volumetric adjustment shall be calculated to conciliate differences between the quality of each Sender and the mix transported. The quantity to be adjusted for each Sender is determined as is follows:",
+    "ollama_generated": "Upon receiving the API and sulfur coefficients, it is incumbent upon each Sender to calculate a volumetric adjustment aimed at reconciliating any discrepancies between their quality and that of the blend transported. The amount to be adjusted for each Sender shall be determined as follows:\n\nThis revision subtly shifts responsibility from the receiver to the sender, making it their obligation to calculate and adjust their contributions based on the quality differences with the blend being transported.",
+    "contradiction_score": 0.0033453938085585833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 562,
+    "start_char": 155290,
+    "end_char": 156914,
+    "original": "Operation and Transport Regulations Version 1 ANNEX 4: MINIMUM SPECIFICATIONS OF QUALITY PER SYSTEM Operation and Transport Regulations Version 1 *, **, *** : for Crude ANNEX 2 ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 TABLE OF CONTENTS ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 1. OBJECTIVE 2. GLOSSARY 3. GENERAL CONDITIONS 3.1Commercial Principles for Credit and Receivables Management 3.2Analysis of Credit Quality of the Client 3.3Internal Rating by ECOPETROL 3.3.1 Guidelines for the Analysis of the Client 3.3.2 Modalities in which Payments can be Made 3.3.3 Clients with Acceptable Guarantee Created for Purchase 3.3.4 Clients of Leasing 3.4Process for Approval of a Line of Credit by ECOPETROL 3.4.1 Credit application 3.4.2 Determination of the Credit Quality of the Client 3.4.3 Officers Authorized for the Analysis and Consideration of Lines of Credit 3.4.4 Amounts above the Ceiling Approved in Lines of Credit 3.5Acceptable Guarantees 3.6Follow -up 3.7Managing the Relation with the Client that Buys on Credit 3.7.1 Sale Prices and Terms 3.7.2 Claims and Discrepancies in Invoicing 3.8Collection of Receivables 3.9Guarantees Delivery and Custody 3.10Late Interests 3.11Collections Management 3.11.1  Starting Legal Actions to Collect Overdue Balances 3.11.2  Modifications in the Long Term 3.12Restructuring by General Agreements 3.13Provision for Accounts Receivables 3.14Receivables Write -offs To define uniform guidelines for the management of service Receivables from ECOPETROL in order to mitigate the inherent risks in the sale of said services.",
+    "ollama_generated": "Operation and Transport Regulations Version 1 ANNEX 4: MINIMUM SPECIFICATIONS OF QUALITY PER SYSTEM (Revised)\n   Operation and Transport Regulations Version 1 *, **, *** : for Crude ANNEX 2 ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 TABLE OF CONTENTS ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008\n   1. OBJECTIVE (Revised) - To establish guidelines aimed at managing risks associated with the receipt of payments for services provided by ECOPETROL, while promoting efficient and timely payment processes.\n\n   2. GLOSSARY (Unchanged)\n\n   3. GENERAL CONDITIONS (Unchanged)\n\n   3.1Commercial Principles for Credit and Receivables Management (Unchanged)\n\n   3.2Analysis of Credit Quality of the Client (Unchanged)\n\n   3.3Internal Rating by ECOPETROL (Unchanged)\n\n        3.3.1 Guidelines for the Analysis of the Client (Unchanged)\n\n        3.3.2 Modalities in which Payments can be Made (Revised) - The client is provided with various options to fulfill their payment obligations, promoting flexibility and convenience.\n\n        3.3.3 Clients with Acceptable Guarantee Created for Purchase (Unchanged)\n\n        3.3.4 Clients of Leasing (Unchanged)\n\n   3.4Process for Approval of a Line of Credit by ECOPETROL (Revised) - The process for credit approval is designed to ensure prudent decision-making, with a focus on risk mitigation and business growth.\n\n        3.4.1 Credit application (Unchanged)\n\n        3.4.2 Determination of the Credit Quality of the Client (Unchanged)\n\n        3.4.3 Officers Authorized for the Analysis and Consideration of Lines of Credit (Unchanged)\n\n        3.4.4 Amounts above the Ceiling Approved in Lines of Credit (Revised) - Larger credit requests are subject to a rigorous review process, ensuring appropriate oversight and control.\n\n   3.5Acceptable Guarantees (Unchanged)\n\n   3.6Follow -up (Unchanged)\n\n   3.7Managing the Relation with the Client that Buys on Credit (Revised) - The relationship with credit-buying clients is managed proactively, focusing on fostering long-term partnerships and resolving any issues that may arise in a collaborative manner.\n\n        3.7.1 Sale Prices and Terms (Unchanged)\n\n        3.7.2 Claims and Discrepancies in Invoicing (Revised) - Any discrepancies or claims related to invoicing are addressed promptly, with a commitment to resolving issues amicably.\n\n   3.8Collection of Receivables (Unchanged)\n\n   3.9Guarantees Delivery and Custody (Unchanged)\n\n   3.10Late Interests (Unchanged)\n\n   3.11Collections Management (Revised) - The collections management process is designed to ensure that overdue balances are addressed in a timely and professional manner, while also maintaining open lines of communication with clients.\n\n        3.11.1  Starting Legal Actions to Collect Overdue Balances (Unchanged)\n\n        3.11.2  Modifications in the Long Term (Revised) - Long-term modifications to the collections strategy may be considered, depending on the client's ability and willingness to make payments.\n\n   3.12Restructuring by General Agreements (Unchanged)\n\n   3.13Provision for Accounts Receivables (Unchanged)\n\n   3.14Receivables Write -offs (Revised) - The write-off of receivables is a last resort, with a focus on working collaboratively with clients to resolve any outstanding balances and minimizing losses.",
+    "contradiction_score": 0.18476605415344238,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 564,
+    "start_char": 157381,
+    "end_char": 157665,
+    "original": "Acceptable Guarantees: Payment mechanisms that provide collateral for payment issued by financial entities (financial guarantees), securities or instruments providing immediate liquidity for their realization. See Guidelines for the Management of Acceptable Guarantees ECP -UTE-G-006.",
+    "modified": "Approved Payment Assurances: Financial mechanisms, such as letters of credit or bank guarantees, that serve as a pledge to cover payments due, or instruments offering immediate accessibility to funds upon their realization. Refer to the Guidelines for Managing Approved Payment Assurances ECP -UTE-G-006 for further details.\n\nNote: This revised clause focuses on financial mechanisms and instruments that offer security for payment rather than providing immediate liquidity, thus potentially weakening the obligation of immediate availability of funds. Additionally, the term \"guarantee\" has been replaced with \"assurance,\" which may imply a broader range of payment security options.",
+    "contradiction_score": 0.6436200141906738,
+    "kept": true
+  },
+  {
+    "clause_index": 565,
+    "start_char": 157665,
+    "end_char": 157864,
+    "original": "Other Services: includes all those provided to third parties such as provision of electricity, water, information network, leasing of tangible and intangible assets, machinery and tools among others.",
+    "ollama_generated": "Additional Services: encompasses any third-party offerings, such as electricity supply, water services, maintenance of information networks, rental of both tangible and intangible assets, machinery, and tools, which are not expressly excluded under this agreement, to be provided at their sole discretion.",
+    "contradiction_score": 0.012145362794399261,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 567,
+    "start_char": 158069,
+    "end_char": 158264,
+    "original": "Services: Provision or execution that satisfies some necessity with a specific purpose. ECOPETROL provides industrial, technical, technological, research and transportation services among others.",
+    "ollama_generated": "Services Obligation: The performance or delivery of actions that meet a particular requirement for a defined intent. ECOPETROL's responsibility includes, but is not limited to, industrial, technical, technological, research, and transportation services, with the understanding that the provision of such services may be subject to reasonable limitations and adjustments in accordance with prevailing circumstances.",
+    "contradiction_score": 0.06384886801242828,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 570,
+    "start_char": 159092,
+    "end_char": 159238,
+    "original": "Industrial Services: provision offering solutions given the infrastructure facilities of ECOPETROL, part of industrial services are the following:",
+    "ollama_generated": "Industrial Services: Offering innovative solutions based on the operational capabilities of ECOPETROL, certain industrial services include but are not limited to:\n\n*Note: The scope of these services may be subject to change and are not guaranteed to be exclusively provided by ECOPETROL.\n\nIndustrial services covered under this provision include:\n\n1. Maintenance and Repair Services: ensuring the continued functionality of facilities, equipment, or machinery owned or operated by ECOPETROL. This service is subject to availability and may require additional fees depending on the specific nature of the repair or maintenance work required.\n\n2. Technical Assistance: providing expert advice and guidance in relation to the use, operation, and optimization of industrial facilities or equipment. This service may be subject to additional terms and conditions, including a fee for professional services rendered.\n\n3. Project Development: collaborating with ECOPETROL in the planning, execution, and completion of industrial projects. This service is provided on a project-by-project basis and may require the formation of a separate agreement outlining the specific roles, responsibilities, timelines, and deliverables associated with each project.\n\n4. Infrastructure Management: overseeing and managing the day-to-day operations of industrial facilities or infrastructure owned or operated by ECOPETROL. This service is provided on a ongoing basis, subject to the terms and conditions outlined in any applicable agreements between the parties.",
+    "contradiction_score": 0.05556541681289673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 575,
+    "start_char": 160083,
+    "end_char": 160229,
+    "original": "Port Services: Use services of sea terminal facilities and necessary operations for a ship to carry out its task of product loading and unloading.",
+    "ollama_generated": "Terminal Facilities Utilization: Ships are granted the option, but not obligated, to make use of services provided by sea terminal facilities for purposes related to product offloading and onloading, at their sole discretion. The terminal operator assumes no responsibility or liability arising from any delay or failure in performing these operations.",
+    "contradiction_score": 0.03621242940425873,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 579,
+    "start_char": 161097,
+    "end_char": 161542,
+    "original": "Throughout all stages referred to the analyses, consideration of terms and commercial conditions, approval of credit facilities and client\u2019s follow -up, good faith, ethics, transparency, economy, responsibility, equity, planning, and customer service criteria shall prevail as described hereunder (those terms not defined in this numeral shall be given a meaning according to the law, otherwise they will have their natural and obvious meaning).",
+    "ollama_generated": "During all stages pertaining to the analyses, deliberations of terms, commercial conditions, credit facility approvals, and ongoing client interaction, a priority will be placed on good faith, ethics, transparency, economy, responsibility, equity, planning, and customer service, as outlined below (terms not specifically defined in this document shall be interpreted according to applicable law; otherwise, they shall retain their inherent or common understanding). In this new context, it is understood that while these principles will guide our actions, we reserve the right to exercise discretion in certain situations where strict adherence may not be feasible or in the best interest of both parties.",
+    "contradiction_score": 0.003897561691701412,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 583,
+    "start_char": 162279,
+    "end_char": 162372,
+    "original": "Transparency: decisions shall be made, based on objective criteria and clear and known rules.",
+    "ollama_generated": "Transparency: While every effort will be made to establish decisions based upon objective criteria and transparently disclosed rules, it is recognized that certain complexities may necessitate a degree of discretion in decision-making processes. This discretion should not be construed as lack of transparency, but rather an allowance for flexibility in addressing unique or nuanced situations that may arise.",
+    "contradiction_score": 0.3045099079608917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 584,
+    "start_char": 162372,
+    "end_char": 162573,
+    "original": "Equity: all necessary measures to keep a healthy balance with the client, regarding terms and conditions of commercial, technical, economic and financial character shall be adopted in all transactions.",
+    "modified": "Equity Obligations: while striving for mutual understanding, the parties acknowledge their flexibility to adjust terms and conditions as they deem appropriate in all transactions, pertaining to commercial, technical, economic, and financial aspects, without being constrained by a strict balance. However, it is understood that such flexibility shall not be exercised arbitrarily or against the best interests of either party.",
+    "contradiction_score": 0.8027032017707825,
+    "kept": true
+  },
+  {
+    "clause_index": 585,
+    "start_char": 162573,
+    "end_char": 162762,
+    "original": "Planning: all commercial and credit procedures shall correspond to a careful planning to contribute in an efficient manner to fulfill the mission and achievement of ECOPETROL \u2019s objectives.",
+    "ollama_generated": "Strategy Implementation: while adhering to a flexible and adaptable approach, commercial and credit processes should be undertaken with a view to making a meaningful contribution towards the attainment of ECOPETROL's strategic goals and vision. This allows for adjustments as necessary, recognizing that unforeseen circumstances may arise in the pursuit of our objectives.",
+    "contradiction_score": 0.2559971511363983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 586,
+    "start_char": 162762,
+    "end_char": 162930,
+    "original": "Economy: all resources used in the process of approving and managing Businesses shall be administered with a healthy criterion of austerity in means, time and expenses.",
+    "ollama_generated": "Cost-Effectiveness: The allocation of resources employed in the evaluation and operation of Businesses will be carried out with a flexible approach prioritizing efficiency in terms of costs, time, and expenditure, while ensuring necessary due diligence is maintained. This approach may allow for occasional deviations from strict austerity measures, provided they contribute positively to the overall cost-effectiveness of our operations.",
+    "contradiction_score": 0.20003335177898407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 588,
+    "start_char": 163128,
+    "end_char": 163395,
+    "original": "Considering the risks ECOPETROL is exposed to, ECOPETROL shall only negotiate with natural or legal persons of whom ECOPETROL has knowledge about their history in the market and their condition as users of services, consumers or traders of products in the oil sector.",
+    "ollama_generated": "In recognition of the potential risks involved, potential negotiation partners of ECOPETROL should be individuals or entities who are well-established in the market and have a demonstrated history of using services, consuming products, or trading within the oil sector, with whom ECOPETROL may initiate discussions at its discretion.",
+    "contradiction_score": 0.000910061236936599,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 590,
+    "start_char": 163657,
+    "end_char": 163807,
+    "original": "3.3.1 Guidelines for the Analysis of the Client For an appropriate decision -making it is required to have knowledge of the client and its activities.",
+    "ollama_generated": "3.3.1 Parameters for Client Evaluation - Making informed decisions necessitates a familiarity with the client and their operations, which is highly recommended but not strictly required.\n\nThe change in this clause weakens the obligation from \"required\" to \"highly recommended.\" This means that while it's advisable to have knowledge of the client and their activities for decision-making, it's no longer a strict requirement.",
+    "contradiction_score": 0.4440433382987976,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 595,
+    "start_char": 165124,
+    "end_char": 165283,
+    "original": "\u00b7 All guarantees presented must be adjusted in their content to the stipulations of ECOPETROL, and must be issued by an entity equally accepted by the company.",
+    "ollama_generated": "Any warranties tendered for consideration shall be tailored to align with the provisions of ECOPETROL, and should originate from a party whose credibility is deemed satisfactory by the Company. The Company reserves the right to reject any warranty not meeting these criteria.",
+    "contradiction_score": 0.0019680990371853113,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 599,
+    "start_char": 166075,
+    "end_char": 166234,
+    "original": "\u00b7 Payments in advance \u00b7 Through credits of confidence \u00b7 By means of financial instruments of payment such as banking acceptance or commercial letter of credit.",
+    "ollama_generated": "Payment Terms:\n\n\u00b7 Reciprocal to Confirmation of Delivery or Completion of Services, whichever occurs first, the Client shall be granted a reasonable period for payment, not exceeding thirty (30) days from such date.\n\n\u00b7 In cases where an advance is required, the same shall be facilitated through bank guarantees, standby letters of credit, or other mutually agreed-upon securities. This advance serves as evidence of the Client's commitment to fulfill their payment obligations and not as a waiver of the thirty (30) day payment term.\n\n\u00b7 The use of financial instruments such as banking acceptances or commercial letters of credit for payments is encouraged, should the parties agree upon it in writing, for enhanced security and streamlined transactions.",
+    "contradiction_score": 0.010335030034184456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 602,
+    "start_char": 166740,
+    "end_char": 167024,
+    "original": "ECOPETROL may accept payments in advance from clients having liquidity and/or who would like to benefit from discounts that ECOPETROL may offer for the purchasing of specific services. Notwithstanding, each management office shall set out the discount policy for its line of services.",
+    "ollama_generated": "Clients with sufficient liquidity or desiring early payment incentives may make advance payments to ECOPETROL, at ECOPETROL's discretion. However, it is important to note that each management office has the authority to establish its own discount policy for the services it provides, and such policies may not necessarily align with any discounts offered by ECOPETROL.",
+    "contradiction_score": 0.0014735005097463727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 608,
+    "start_char": 168341,
+    "end_char": 168700,
+    "original": "Default shall be understood as the act of enforcing the guarantee or promissory note supporting the obligations undertaken with ECOPETROL, or when in a calendar year a notice has been delivered to the insurance company or banking entity for the execution of the guarantee, even if the client is in good standing on the date before making the policy effective.",
+    "modified": "Default shall be construed as an action not taken by the client, such as failing to enforce a guarantee or promissory note supporting the obligations assumed with ECOPETROL, or if, within a calendar year, no notice of non-execution has been provided to the insurance company or banking entity regarding the guarantee, even if the client is in good standing on the date prior to the policy's activation. In this scenario, the responsibility for default rests with the client for their lack of action.",
+    "contradiction_score": 0.9677265882492065,
+    "kept": true
+  },
+  {
+    "clause_index": 609,
+    "start_char": 168700,
+    "end_char": 168916,
+    "original": "Without prejudice of the foregoing, ECOPETROL reserves the right to whether or not approve a credit of confidence to a client, even if said client has obtained the highest rating based on Table 1 of these guidelines.",
+    "ollama_generated": "Granted the preceding provisions, ECOPETROL maintains the discretionary power to deny or grant a line of credit to a client, irrespective of any top-tier rating the client may have attained according to Table 1 of these guidelines. In other words, a superior rating does not guarantee approval for a line of credit.",
+    "contradiction_score": 0.0055616432800889015,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 611,
+    "start_char": 169196,
+    "end_char": 169229,
+    "original": "Payment by financial instruments:",
+    "ollama_generated": "Financial Instrument Payments:\n\nThe Buyer acknowledges and agrees that, unless otherwise stated, payment for the Goods/Services provided shall be made via authorized financial instruments. The Seller shall have up to 7 days from receipt of such financial instrument to confirm its validity and clearance before deeming the payment complete and fulfilled. In case of any disputes regarding the validation or clearing of the financial instrument, the burden of proof shall lie with the Buyer.",
+    "contradiction_score": 0.014497319236397743,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 615,
+    "start_char": 170225,
+    "end_char": 170789,
+    "original": "3.3.4 Clients of Leasing For the clients of leasing, the leasing contract entered into is writ of execution, the Head of the Unit for Real Estate Management must request through a memorandum the line of credit to the Coordination of Receivables and Collections indicating the contract number, starting date, termination date, the amount of the leasing installment, and the value of the line of credit applied for, said memorandum shall indicate that the contract has approval from the legal area or attach approval from the legal office advising the Business Unit.",
+    "ollama_generated": "3.3.4 For clients engaging in leasing agreements, it is essential to note that any such contracts serve as authorization for the Head of the Unit for Real Estate Management to apply for a line of credit, subject to approval from the legal area. To initiate this process, a memorandum shall be issued requesting the Coordination of Receivables and Collections, detailing the contract number, commencement date, termination date, monthly leasing installments, and the amount of the requested line of credit. It is implied that approval from the legal office is required prior to business unit implementation.\n\nIn this version, I've shifted the responsibility from the client to the Head of the Unit for Real Estate Management in initiating the process for a line of credit, which was not explicitly stated in the original clause. Additionally, I made the language clearer and more straightforward, while still maintaining its professional tone.",
+    "contradiction_score": 0.005325057543814182,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 618,
+    "start_char": 171523,
+    "end_char": 172225,
+    "original": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 3.4.2 Determination of the Credit Quality of the Client The officer appointed by the Business Unit providing the service shall examine the content of the application form and request to the client or to a Risk Rating Agency or an Agency of Research Services, Collection and Processing of Credit and Company information, the Rating Certificate 2 in order to have the rating given by such Agencies. This Rating Certificate shall be attached to the application form if it is a new client or to the client's file in the central archives of ECOPETROL if it is a client already registered wishing to have a direct credit with ECOPETROL .",
+    "ollama_generated": "3.4.2 Assessment of Client Creditworthiness\n\nFor the Business Unit offering services, the responsibility lies in reviewing the application form content and may choose to seek a Rating Certificate from the client or a Risk Rating Agency, an Agency for Research Services, or any similar entity that specializes in credit and company information evaluation. It is the client's obligation to provide this Rating Certificate if requested. If the client is new, this Rating Certificate should be included with the application form; otherwise, it should be stored in the central archives of ECOPETROL as part of the client's existing file, should they wish to establish or maintain direct credit with ECOPETROL.",
+    "contradiction_score": 0.010559333488345146,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 625,
+    "start_char": 175100,
+    "end_char": 175667,
+    "original": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 Table 1 INTERNAL RISK RATING FOR CLIENTS OF SERVICES OF ECOPETROL 4 4 Comments and considerations included by the risk rating agency in its report about a company are understood as already included in the rating given by the risk rating agency, in that sense the same shall not affect again either in a positive or negative manner the rating issued and shall not be taken into account in the analysis conducted by Management at the time of considering, approving or rejecting credit applications.",
+    "modified": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 Table 1 INTERNAL RISK RATING FOR CLIENTS OF SERVICES OF ECOPETROL\n\n4. Comments and considerations not explicitly addressed by the risk rating agency in its report about a company shall be considered as outside the scope of the rating given, and therefore may have an impact on the rating or be taken into account during the analysis conducted by Management when considering, approving, or rejecting credit applications.\n\nIn this revised clause, the original meaning has been shifted slightly to suggest that any comments or considerations not explicitly included in the risk rating agency's report could potentially influence the rating or analysis conducted by Ecopetrol's management. This allows for a broader interpretation and potential consideration of additional factors when making credit decisions.",
+    "contradiction_score": 0.95255446434021,
+    "kept": true
+  },
+  {
+    "clause_index": 630,
+    "start_char": 177063,
+    "end_char": 177618,
+    "original": "Low risk.  D&P:  DP1 - BRC:  BRC 2 Byington:  2.1 to 2.9 BPR:  B(1.51 -2.00) Bureau Veritas: 2 Clients whose internal rating is level 1 (superior) according to the table above, in order to have a line of credit shall not offer acceptable guarantees issued by third parties in favor of ECOPETROL as indicated in Table 1. Instead, they shall subscribe a promissory note with a letter of instructions as support for their payment obligations. In any case, it is understood that clients of confidence shall only be limited to a number of recognized companies.",
+    "ollama_generated": "Moderate risk assessment. D&P: DP1 - BRC: BRC 2 Byington: 2.1 to 2.9 BPR: B(1.51 - 2.00) Bureau Veritas: 2 Clients whose internal rating is level 1 (superior) according to the table above, in order to secure a line of credit, may provide acceptable guarantees issued by third parties in favor of ECOPETROL, as outlined in Table 1, at their discretion. However, it is strongly recommended that they also submit a promissory note accompanied by a letter of instructions as evidence of their payment obligations. It should be noted that clients of trust may exceed the usual limit, provided they are reputable companies recognized in the industry.\n\nExplanation:\nIn the original clause, the clients were prohibited from offering guarantees issued by third parties. The rewritten clause allows them to offer such guarantees, but it is not mandatory and is left to their discretion. Additionally, the number of clients of trust who can be involved has been expanded beyond the usual limit, as long as they are reputable companies recognized in the industry. This shifts some responsibility back to the clients by allowing them to make the decision about offering guarantees, while also making it clear that only reputable companies may exceed the usual limit for trusted clients.",
+    "contradiction_score": 0.15304245054721832,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 637,
+    "start_char": 179434,
+    "end_char": 179587,
+    "original": "A client classified as Superior may make purchases in cash and/or complement the line of credit awarded with acceptable guarantees in favor of ECOPETROL.",
+    "ollama_generated": "A client classified as Superior shall have the option to pay for their purchases either solely in cash or partially, upholding the option to enhance their line of credit, providing acceptable guarantees that are subject to ECOPETROL's approval. This implies that ECOPETROL will not be obligated to accept any guarantees unless they deem them acceptable.",
+    "contradiction_score": 0.012016541324555874,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 655,
+    "start_char": 185212,
+    "end_char": 185501,
+    "original": "The updating of the ratings for clients shall not be conducted before the month of March each year because the financial statements of the previous year have not yet been disclosed before the respective entities of vigilance and control, and from which official data for studies are taken.",
+    "ollama_generated": "Ratings for clients will not be updated until the disclosure of the financial statements of the previous year by the relevant entities of vigilance and control has occurred, which is typically in March each year. It is important to note that these official data serve as a basis for our studies; therefore, any updates prior to this disclosure may lack the necessary accuracy and reliability.",
+    "contradiction_score": 0.0007925752433948219,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 659,
+    "start_char": 186258,
+    "end_char": 186532,
+    "original": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 \u00b7 Acceptance of any other type of guarantee established in the Contracting Manual shall require approval from the respective manager and/or director with previous approval from the legal vice presidency.",
+    "ollama_generated": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 \u00b7 Any unconventional guarantee types proposed in the Contracting Manual will not be accepted without express approval from both the respective manager and director, followed by approval from the legal vice presidency. This requirement aims to ensure that all guarantees comply with established regulations.",
+    "contradiction_score": 0.011044925078749657,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 668,
+    "start_char": 188590,
+    "end_char": 188937,
+    "original": "If the claim is resolved favor of ECOPETROL, having the client omitted payments on services rendered and invoiced by ECOPETROL, the buyer is obliged to pay a sanction for default on the amounts not paid within the term established, at the highest late interest rate established by the Superintendence of Finance of Colombia or whoever replaces it.",
+    "ollama_generated": "In case the dispute outcomes in favor of ECOPETROL due to the buyer's failure to settle invoiced services on time, ECOPETROL reserves the right to impose a penalty for late payment, which shall be the lowest prevailing late interest rate as determined by the Superintendence of Finance of Colombia or its successor agency. The buyer shall bear the responsibility for these penalties and shall promptly remit the overdue amounts within the time frame specified.",
+    "contradiction_score": 0.023070257157087326,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 669,
+    "start_char": 188937,
+    "end_char": 189124,
+    "original": "If the buyer has made payments in excess, ECOPETROL shall credit the same to the next due date or make the corresponding reimbursement after clarification of the amount under discrepancy.",
+    "ollama_generated": "Should any overpayments be made by the buyer, ECOPETROL will retain these funds until the subsequent payment deadline, using them to offset any future obligations. In the event that the precise amount in dispute is not immediately clear, ECOPETROL reserves the right to withhold the excess payment temporarily, with a prompt reimbursement to follow upon resolution of the discrepancy.",
+    "contradiction_score": 0.018386604264378548,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 670,
+    "start_char": 189124,
+    "end_char": 189661,
+    "original": "9 A carbon copy being valid ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 3.7.1 Sale Prices and Terms 3.7.2 Claims and Discrepancies in Invoicing The Business Unit providing the service with the support of the Coordination for Receivables and Collections, shall control any payments for Receivables as well as the actions are collections derived from the sale or provision of services and will be responsible for collecting any late interests (as they may apply) and any verification of accounts with the client.",
+    "ollama_generated": "9. The recipient of these services, hereby designated as the Business Unit, shall have primary responsibility for the management and collection of payments related to Receivables, in accordance with ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 3.7.1 Sale Prices and Terms 3.7.2 Claims and Discrepancies in Invoicing. The Business Unit will also be responsible for the application of any late penalties (if applicable) and the verification of client accounts, with support from the Coordination for Receivables and Collections as needed. Any actions taken to secure payments or collections shall be at the discretion of the Business Unit. ECOPETROL assumes no liability in the event of any discrepancies arising from these actions or the collection process.",
+    "contradiction_score": 0.007227514870464802,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 675,
+    "start_char": 191768,
+    "end_char": 192289,
+    "original": "The Coordination of Receivables and collections of the Treasury Unit shall update and activate in an individual manner in SAP each guarantee for the corresponding area of credit control; indicating \"the limit authorized \u201d which becomes a rotatory limit in pesos authorized for the provision of services and establishing that period of time in which the limit of credit shall be covered with the guarantee, taking into account the term of the credit given to the client for the provision of the service (5, 15 or 30 days).",
+    "ollama_generated": "The Treasury Unit's Coordination of Receivables and Collections is responsible for setting and activating individual guarantee limits within SAP, in accordance with each credit control area. These limits will serve as a guide rather than a strict cap, allowing for flexibility in the provision of services based on authorized peso amounts. The duration over which these credit limits should be covered by the guarantee will be established, taking into account the agreed payment terms for the client's service (5, 15 or 30 days). However, it is noted that this period may be extended at the discretion of the Treasury Unit, given the nature and conditions of the specific service being provided.",
+    "contradiction_score": 0.0022369774524122477,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 676,
+    "start_char": 192289,
+    "end_char": 192823,
+    "original": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 3.8 Collection of Receivables 3.9 Guarantees Delivery and Custody The payment of Receivables by clients after the due date generates a late interest as a sanction. Late interests are a applicable without exception to all kinds are Receivables handled by ECOPETROL. Late interests shall be calculated on any overdue balances and in proportion to the time lapsed from the date in which the payment should have been made until that date in which it is actually made.",
+    "ollama_generated": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES - ECP-UTE-G-008\n\n3.8 Collection of Receivables\n3.9 Guarantees Delivery and Custody\n\nThe failure of clients to make timely payments according to agreed terms may incur late fees as a consequence. It is important to note that these late fees are applicable across all categories of Receivables managed by ECOPETROL, with no exceptions granted. The calculation of these late fees will be based on the outstanding balance and the duration from the due date of payment until the actual receipt of payment.\n\nIn this revised clause, the obligation has been weakened by stating that failure to pay on time may incur late fees instead of explicitly stating that late payments generate late interest. This change subtly implies that there is room for interpretation and potential flexibility in the application of these fees.",
+    "contradiction_score": 0.043988775461912155,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 677,
+    "start_char": 192823,
+    "end_char": 193177,
+    "original": "The record of these interests shall be under the responsibility of the Coordination of Receivables and collections; control and collection activities shall be the responsibility of the Business Unit providing the service, which may check these charges through consultations to the account statement of the client in the SAP integrated information system.",
+    "ollama_generated": "The records pertaining to these interests will be maintained by the Coordination of Receivables and Collections; however, it shall be the discretion of the Business Unit providing the service to exercise control and initiate collection activities. For such purposes, the Business Unit may access relevant client information through consultations with the account statement within the SAP integrated information system, but is not required to do so.",
+    "contradiction_score": 0.003077104454860091,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 694,
+    "start_char": 197817,
+    "end_char": 198109,
+    "original": "Without prejudice of the foregoing, ECOPETROL reserves the right to request an acceptable guarantee that allows covering a higher risk for the extension of the term for the payment. The interest rate for the refinancing term shall be in accordance with the conditions of the financial market.",
+    "ollama_generated": "Granting precedence to the previous provisions, ECOPETROL retains the discretionary power to necessitate a suitable security arrangement, designed to mitigate an enhanced financial risk associated with any extension of the repayment timeline. It is understood that the interest rate for this refinancing period will align with the prevailing terms and conditions within the financial market.\n\nIn this revised clause, I have shifted the responsibility from the obligor (the party required to provide a guarantee) to the obligee (ECOPETROL), making it clear that ECOPETROL retains discretion in determining whether a security arrangement is necessary for any extension of repayment terms. Additionally, the interest rate remains subject to the conditions of the financial market, but the focus has been moved towards the financial risk involved in extending the repayment timeline.",
+    "contradiction_score": 0.02887430600821972,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 696,
+    "start_char": 198300,
+    "end_char": 198848,
+    "original": "In the case of individual agreements, the interest rate for the refinancing period must be associated with the opportunity cost of ECOPETROL as indicated by the Treasury Unit of the vice presidency of corporate finance. The amortization of the debt in default shall be applied first, to sanctions and late interests, second, to current interests and third, to the principal. The mentioned option for refinancing if adopted by ECOPETROL, must offer better expected results than those continuing under the legal proceeding or execution of guarantees.",
+    "ollama_generated": "In instances involving individual agreements, the interest rate for the refinancing period shall be determined based on the opportunity cost of ECOPETROL, as established by the Treasury Unit of the vice presidency of corporate finance. In cases where default occurs, priority shall be given to the payment of the amortized debt, followed by penalties and late fees, then current interests, and finally the principal amount. However, if ECOPETROL chooses to exercise the refinancing option, it should be demonstrated that such action would provide more favorable anticipated outcomes compared to the continuation of legal proceedings or the execution of guarantees.\n\nChanges made:\n1. Changed \"must\" to \"shall be determined based on\" for a softer obligation.\n2. Inverted the order of payment priority in case of default, placing debt amortization first and then proceeding with penalties, late fees, current interests, and principal.\n3. Added a phrase to clarify that if ECOPETROL chooses refinancing, it must demonstrate better results than continuing legal proceedings or executing guarantees.",
+    "contradiction_score": 0.006322069559246302,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 698,
+    "start_char": 199026,
+    "end_char": 199233,
+    "original": "ECOPETROL may participate in payment agreements of clients with their creditors, under modalities aimed to ensure the maximum collection of their Receivables in terms of present value as indicated hereunder:",
+    "ollama_generated": "Creditors have the option to engage in payment arrangements with their clients, provided such arrangements are structured to facilitate the minimal repayment to Ecopetrol based on current value, as detailed below:\n\nThis modification shifts the responsibility of seeking favorable payment terms from Ecopetrol to the creditors. The revised clause allows creditors the choice to negotiate with their clients for reduced payments (minimal repayment) rather than maximizing collection for Ecopetrol.",
+    "contradiction_score": 0.35885119438171387,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 700,
+    "start_char": 200746,
+    "end_char": 200858,
+    "original": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 3.12 Restructuring by General Agreements.",
+    "ollama_generated": "ECOPETROL MANAGEMENT GUIDELINES FOR RECEIVABLES SERVICES ECP-UTE-G-008 - 3.12 Voluntary Debt Adjustment by Mutual Consent.\n\nThis revision weakens the obligation slightly, emphasizing that the restructuring is voluntary and based on mutual consent between parties, rather than a unilateral decision by Ecopetrol.",
+    "contradiction_score": 0.11243917793035507,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 701,
+    "start_char": 200858,
+    "end_char": 201272,
+    "original": "Provision of services to clients with whom global payment agreements have been executed or under Law 550/99 or Law 1116/06 shall only be made under the modality of payment in advance. Interests in favor of ECOPETROL derived from individual refinancing processes or restructurings cannot be cancelled. Presently there are no regulations that allow the cancellation of interests by public entities such as ECOPETROL.",
+    "ollama_generated": "Services rendered to clients with whom global payment agreements have been established, or those governed by Law 550/99 or Law 1116/06, will be exclusively delivered upon receipt of full upfront payment. ECOPETROL's claims arising from individual refinancing procedures or restructurings regarding interests cannot be waived. It is important to note that current regulations do not permit the waiver of such interests by public entities like ECOPETROL.\n\nIn this revised clause, the obligation for clients to pay in advance has been strengthened and the impossibility for ECOPETROL to cancel its interests has been emphasized. Additionally, the use of \"upon receipt\" instead of \"only made under the modality of payment in advance\" provides a more formal tone and clarity regarding the expectation for payment.",
+    "contradiction_score": 0.008064961060881615,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 706,
+    "start_char": 202598,
+    "end_char": 202843,
+    "original": "10 Defined according to the contingency of loss of the rights to be collected as a result of the degree of seniority, default, prescription, and collection action through legal means; the provision includes the amount estimated as uncollectable.",
+    "modified": "10 Determined in accordance with the event of acquiring the right to recover amounts, contingent upon factors such as seniority, compliance, lapse of time, and recovery efforts through legal proceedings; this encompasses the assessed sum considered irrecoverable.\n\nIn this revised version, the clause focuses on the right to recover amounts (a more active approach) rather than the loss of rights to be collected (a passive one). Additionally, the order of factors has been changed and terms have been slightly adjusted for clarity and readability.",
+    "contradiction_score": 0.8084678053855896,
+    "kept": true
+  },
+  {
+    "clause_index": 712,
+    "start_char": 204478,
+    "end_char": 204959,
+    "original": "It is understood as debt that is lost and without any value, all that debt whose collection is not possible to make it effective due to insolvency of debtors and guarantors as a result of lack of property guarantees or by any other cause that allows them to be considered as currently lost according to commercial practices. This definition includes those accounts receivable of less value whose collection procedures is significantly more onerous than the write -off of said debt.",
+    "ollama_generated": "It is recognized that debts which have no substantial monetary worth, and for which efforts to collect prove impractical due to either the insolvency of the debtors or guarantors, or any other circumstance rendering them uncollectible according to commercial norms, shall be considered as extinguished. This categorization encompasses receivables of minimal value, where the cost and complexity of recovery procedures outweighs the financial benefit of pursuing their collection, effectively rendering them financially extinct.",
+    "contradiction_score": 0.00309913232922554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 720,
+    "start_char": 210190,
+    "end_char": 210364,
+    "original": "THIS COVERAGE DOES NOT EXTEND TO THE USE OF FUNDS GIVEN AT PREPAYMENT TO THE CONTRACTOR. THIS RISK SHALL ALSO BE COVERED IN THE EVENTS AS THEY MAY APPLY AS DEFINED HEREUNDER.",
+    "ollama_generated": "THE RECEIVED PREPAYMENT FUNDS ARE EXCLUSIVELY INTENDED FOR THE CONTRACTOR'S WORK AND DO NOT CONSTITUTE AN INSURED AMOUNT UNLESS SPECIFICALLY STIPULATED HEREIN. RISK OF LOSSES OR DAMAGE ARISING FROM SUCH FUNDS REMAINS WITH THE PARTY PROVIDING THEM, SUBJECT TO ANY APPLICABLE LAWS AND REGULATIONS.",
+    "contradiction_score": 0.3779089152812958,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 723,
+    "start_char": 211060,
+    "end_char": 211285,
+    "original": "THIS COVERAGE PROTECTS ECOPETROL AGAINST ANY EQUITY DAMAGE SUCH AS GENERAL DAMAGE AND LOSS OF PROFITS RESULTING FROM ANY BREACHING ATTRIBUTABLE TO THE CONTRACTOR ON ANY OF THE OBLIGATIONS ARISING FROM THE GUARANTEED CONTRACT.",
+    "ollama_generated": "THIS INSURANCE PROVIDES ECOPETROL WITH COVERAGE AGAINST ANY FINANCIAL LOSSES, INCLUDING GENERAL DAMAGE AND LOST PROFITS, THAT MAY ARISE AS A DIRECT RESULT OF THE CONTRACTOR'S DEFAULT ON ANY OBLIGATIONS ASSOCIATED WITH THE CONTRACT GUARANTEED BY THEM. IN THE EVENT THAT SUCH DEFAULT LEADS TO EQUITY DAMAGE FOR ECOPETROL, THE INSURER SHALL BE RESPONSIBLE FOR COMPENSATING ECOPETROL FOR SUCH DAMAGES.",
+    "contradiction_score": 0.0061696115881204605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 725,
+    "start_char": 211464,
+    "end_char": 211755,
+    "original": "AS PROVIDED IN ARTICLE 34 OF THE COLOMBIAN CODE OF LABOR, THIS COVERAGE PROTECTS ECOPETROL AGAINST THE RISK OF DEFAULT BY THE CONTRACTOR ON ANY LABOR OBLIGATIONS ACQUIRED BY SAID CONTRACTOR WITH PERSONNEL USED IN THE EXECUTION OF THE CONTRACT BEING THE PURPOSE OF COVERAGE UNDER THIS POLICY.",
+    "ollama_generated": "In accordance with Article 34 of the Colombian Code of Labor, this coverage safeguards Ecopetrol from the risk of a labor obligation breach by the Contractor. Notably, this policy's coverage extends to incidents where such a breach arises from the Contractor's obligations towards personnel engaged in the contract's execution, thereby placing the responsibility for potential non-compliance with labor laws upon the Contractor under this insurance policy.",
+    "contradiction_score": 0.0008831658633425832,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 735,
+    "start_char": 214840,
+    "end_char": 215080,
+    "original": "THIS COVERAGE PROTECTS ECOPETROL AGAINST ANY EQUITY DAMAGE INCLUDING LOSS OF PROFITS ATTRIBUTABLE TO THE CONTRACTOR RESULTING FROM NONCOMPLIANCE WITH THE PROVISION OF SPARE PARTS AND ACCESSORIES PURSUANT TO THE STIPULATIONS IN THE CONTRACT.",
+    "modified": "UNDER THIS COVERAGE, THE CONTRACTOR SHALL BE LIABLE FOR ANY EQUITY LOSSES OR LOSS OF PROFITS SUFFERED BY ECPETROL AS A RESULT OF THEIR FAILURE TO PROVIDE SPARE PARTS AND ACCESSORIES IN ACCORDANCE WITH THE TERMS OF THE CONTRACT, INCLUDING BUT NOT LIMITED TO DAMAGES ARISING FROM NON-COMPLIANCE.",
+    "contradiction_score": 0.914339005947113,
+    "kept": true
+  },
+  {
+    "clause_index": 741,
+    "start_char": 216072,
+    "end_char": 216296,
+    "original": "ANY EQUITY DAMAGE GENERATED BY OR FROM BREACHING ATTRIBUTABLE TO THE CONTRACTOR AND RESULTING IN AMENDMENTS TO THE ORIGINAL CONTRACT, SAVE THERE HAS BEEN ACCEPTANCE OF THE SAME BY THE INSURANCE COMPANY WITH A WRITTEN RECORD.",
+    "ollama_generated": "any claims for equity damages arising from the Contractor's breach and leading to amendments in the original contract, except when such damages have been explicitly denied by the Insurance Company, as evidenced in writing.",
+    "contradiction_score": 0.2890697419643402,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 747,
+    "start_char": 219033,
+    "end_char": 219089,
+    "original": "The occurrence of the loss may be accredited as follows:",
+    "ollama_generated": "The allocation of loss liability may be determined as follows:\n\nThis revision shifts the passive voice (\"the occurrence of the loss may be accredited\") to active voice (\"loss liability may be determined\"), subtly implying that one party will take an active role in determining the allocation of loss, rather than merely acknowledging its assignment. This change may suggest a degree of control or proactivity, potentially influencing how parties perceive their responsibilities under the contract.",
+    "contradiction_score": 0.0027323595713824034,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 752,
+    "start_char": 220382,
+    "end_char": 220588,
+    "original": "Pursuant to the provision in article 1110 of the code of commerce, the indemnity may be paid in cash, or by replacement, repair or reconstruction of the goods insured at the option of the insurance company.",
+    "ollama_generated": "In accordance with the provision outlined in Article 1110 of the Commercial Code, the insurance company retains the discretion to settle the indemnity claim either monetarily, through replacement, repair, or reconstruction of the insured goods, as it deems appropriate and feasible under the circumstances. This flexibility in settlement method is designed to ensure that the insurance company can uphold its obligation to restore the policyholder's assets to a reasonable and equitable state, without being strictly bound to one particular form of compensation.",
+    "contradiction_score": 0.000516130356118083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 755,
+    "start_char": 221119,
+    "end_char": 221662,
+    "original": "2. LOSS CLAIM 2.1 IN THE EVENT OF EXPIRATION 2.2 TO MAKE EFFECTIVE THE PAYMENT OF PENALTY OR THE PENALTY CLAUSE 2.3 IN ALL OTHER EVENTS 3. PROVING THE AMOUNT TO BE INDEMNIFIED 4. PAYMENT OF THE LOSS INSURANCE ONLY POLICY OF PERFORMANCE FOR STATE CONTRACTS IN FAVOR OF ECOPETROL S A In the cases of numerals 2.2 and 2.3 payment shall be made within the following month after delivery of the written communication by ECOPETROL to the insurance company accompanied by the documents proving the occurrence of the loss and the amount of any damage.",
+    "ollama_generated": "2. CLAIM FOR LOSS REMEDY\n\n2.1 In the event of a claim for loss arising,\n\n2.2 For purposes of settling any penalties or enforcing the Penalty Clause, and in all other instances where a claim for loss is applicable,\n\n3. Ascertaining the Quantum of Compensation Owed,\n\n4. The Insurance Policy for Performance under State Contracts shall only serve to indemnify ECOPETROL S A.\n\nIn the event of situations described in subclauses 2.2 and 2.3, the indemnification shall be effected by making payment within a month following the delivery of written communication from ECOPETROL to the insurance company, accompanied by documents substantiating the occurrence of loss and the corresponding damages.",
+    "contradiction_score": 0.07196177542209625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 765,
+    "start_char": 224868,
+    "end_char": 225231,
+    "original": "In those cases in which the amount of the contract or the term of the same are increased or decreased, or in general when the stipulations of the original contract are somehow amended according to the law by the parties, the respective amendment to the insurance as it may apply, must be previously accepted by the insurance company in order to make it effective.",
+    "ollama_generated": "In instances where either the monetary value or duration of this agreement is adjusted, or if any other provisions of the original contract are modified in accordance with law at the discretion of the parties, the onus lies with the insurance company to acknowledge and approve such amendments prior to their implementation, for them to be considered binding on the insurance coverage.",
+    "contradiction_score": 0.0008297946769744158,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 766,
+    "start_char": 225231,
+    "end_char": 225462,
+    "original": "When the discussion regarding any breaching of the contract occurs in an arbitration process between ECOPETROL and the contractor, the insurance company is committed in advance to accept the guarantee call made inside said process.",
+    "ollama_generated": "In the event that a dispute arises concerning any alleged breach of this contract, it shall be resolved through an arbitration process between ECOPETROL and the contractor. Notably, the insurance company will have the discretionary power, but not obligation, to respond to any guarantee call made within said process.",
+    "contradiction_score": 0.3150298297405243,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 771,
+    "start_char": 227133,
+    "end_char": 227330,
+    "original": "The time bar for the actions derived from the contract hereof shall be governed pursuant to article 1081 of the code of commerce as added or amended or any other special applicable law to the case.",
+    "ollama_generated": "The statute of limitations regarding actions arising from this agreement will be determined in accordance with article 1081 of the Commercial Code, as currently interpreted or subsequently amended, or any other specific law that may supersede in the particular instance, with the burden of staying abreast of such changes falling upon the party asserting a claim.",
+    "contradiction_score": 0.0005107220495119691,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 776,
+    "start_char": 229398,
+    "end_char": 229529,
+    "original": "This Letter of Credit shall be valid from [______] of 20 [  ] until the date of occurrence [  ][ ] calendar days after [  ] of [ ].",
+    "ollama_generated": "This Letter of Credit shall remain in effect from [______] of 20 [  ] until the expiration date, which will be [  ] calendar days following the day on which [  ] of [  ] occurs.\n\nThis modification maintains the original timeframe for the Letter of Credit but shifts the focus to the expiration date instead of the date of occurrence, thereby subtly implying that the issuer may have more flexibility in extending the validity period if necessary.",
+    "contradiction_score": 0.028829071670770645,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "clause_index": 9,
+    "start_char": 1921,
+    "end_char": 2046,
+    "original": "\"CPC Pipeline\" means the pipeline being constructed by the Caspian Pipeline Consortium from the Tengiz field to Novorossiysk.",
+    "ollama_generated": "\"Caspian Pipeline Infrastructure\" denotes the pipeline system, which shall be managed and developed by the Caspian Pipeline Consortium, originating from the Tengiz field and terminating at Novorossiysk. [This phrasing suggests that the pipeline may include additional infrastructure beyond just a simple pipeline.]",
+    "contradiction_score": 0.1481064260005951,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 2710,
+    "end_char": 2829,
+    "original": "\"CPC Terminal\" means the single buoy-mooring terminal being built by the Caspian Pipeline Consortium near Novorossiysk.",
+    "ollama_generated": "\"The designation 'CPC Terminal' encompasses the under-construction single buoy-mooring facility situated in proximity to Novorossiysk, overseen by the Caspian Pipeline Consortium.\"\n\nIn this rewritten version, the focus is more on who oversees and where the terminal is located rather than the fact it's being built by the consortium. This slight modification can influence the interpretation of the clause in a context where other parties might be involved in the construction process.",
+    "contradiction_score": 0.16347801685333252,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3624,
+    "end_char": 3708,
+    "original": "\"Effective Date\" means the date of actual execution of this Contract by the Parties.",
+    "modified": "\"Effective Date\" shall be deemed to occur upon the mutual signing and acknowledgement of this Agreement by all Parties involved. In the event that any Party fails to sign or acknowledge the Agreement within a reasonable timeframe, the Effective Date shall be considered as the date on which such outstanding signature or acknowledgement is obtained.",
+    "contradiction_score": 0.6964981555938721,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 4283,
+    "end_char": 4415,
+    "original": "\"Offtake Agreement\" means that certain Crude Oil Sale and Purchase Agreement between the Principal and STASCO dated 1 November 1999.",
+    "ollama_generated": "\"Referenced Agreement\" denotes a particular Crude Oil Sales and Purchases Contract signed by the Principal and STASCO on 1st November, 1999, which is hereinafter regarded as the basis for any Offtake obligations.\"\n\nThe original clause defines the term \"Offtake Agreement\" as a specific sales and purchase agreement. The rewritten version does not necessarily imply that the Offtake obligation stems directly from this particular agreement; instead, it suggests that the referred agreement serves as the basis for any future Offtake obligations.",
+    "contradiction_score": 0.23749932646751404,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 5208,
+    "end_char": 5264,
+    "original": "\"Principal\" is defined in the Preamble to this Contract.",
+    "modified": "\"As used herein, the term 'Agent' shall be construed as being defined within the Preamble of this Contract.\" [This changes the principal and agent relationship, making the Agent the defining party in this context.]",
+    "contradiction_score": 0.9330102205276489,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 5647,
+    "end_char": 5780,
+    "original": "\"STASCO\" means Shell Trading International Limited acting through its agent Shell International Trading and Shipping Company Limited.",
+    "modified": "\"The term 'STASCO' shall refer to either Shell International Trading and Shipping Company Limited, who is hereby authorized to act on behalf of Shell Trading International Limited, or Shell Trading International Limited themselves.\"",
+    "contradiction_score": 0.5301039218902588,
+    "kept": true
+  },
+  {
+    "clause_index": 38,
+    "start_char": 10401,
+    "end_char": 10473,
+    "original": "4.2  At all times during the term of this Contract, the Principal shall:",
+    "ollama_generated": "4.2 During the duration of this Agreement, the Agent may choose, at their discretion and without obligation, to perform tasks on behalf of the Principal, subject to the following conditions:\n\nThis revised clause weakens the obligation of the Principal by making their participation in the agreement optional, and it shifts some responsibility to the Agent by allowing them to decide whether or not to perform tasks for the Principal.",
+    "contradiction_score": 0.2337680160999298,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 14782,
+    "end_char": 14965,
+    "original": "7.2  At any time in accordance with reasonable requirements of the Principal, the Company shall confirm the Principal's ownership rights to Commodity, transported under this Contract.",
+    "ollama_generated": "7.2 The Company shall, upon the Principal's request and subject to the Principal's satisfaction that such request is reasonable, provide confirmation of the Principal's claimed ownership rights to the Commodity, in accordance with the terms of this Contract.",
+    "contradiction_score": 0.0013203751295804977,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 15681,
+    "end_char": 16032,
+    "original": "8.3  In case if violation by the Principal of the Off-take Agreement conditions takes place due to infringement by the Company of its liabilities in front of the Principal under this Contract, the Company shall be soley liable in front of the Principal for such losses resulting from such violation , evidenced and supported by confirming documents ..",
+    "modified": "8.3 If a breach of the Off-take Agreement conditions occurs on the part of the Company, leading to such breach by the Principal, the Principal shall have no liability to the Company for any losses arising from such breach, provided that the Principal can demonstrate and substantiate such breach with appropriate documentation.",
+    "contradiction_score": 0.9433275461196899,
+    "kept": true
+  },
+  {
+    "clause_index": 58,
+    "start_char": 18993,
+    "end_char": 19104,
+    "original": "10.4 No circumstance described in item 10.1 shall result in prolongation of the validity term of this Contract.",
+    "ollama_generated": "10.4 Under no circumstances will events outlined in item 10.1 extend or prolong the expiration date of this Contract. (This wording is slightly stronger, emphasizing that the events do not have any impact on extending the contract term.)",
+    "contradiction_score": 0.00853721983730793,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 19295,
+    "end_char": 19449,
+    "original": "11.2 In the event that resolution of the disputes by negotiations is impossible, they shall be subject to court consideration at the defendant's location.",
+    "ollama_generated": "11.2 If a resolution through negotiation proves impracticable, it will be the plaintiff's obligation to initiate legal proceedings in a court of competent jurisdiction located at the defendant's domicile.",
+    "contradiction_score": 0.0021897158585488796,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 20074,
+    "end_char": 20208,
+    "original": "12.3 From and after the Effective Date, all prior negotiations and correspondence pertinent to the Contract shall have no legal force.",
+    "ollama_generated": "12.3 Commencing from the Effective Date, any prior discussions or communications relevant to this Agreement are hereby acknowledged but explicitly excluded from any binding legal implications.",
+    "contradiction_score": 0.04563203454017639,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 21900,
+    "end_char": 22129,
+    "original": "12.7 This Contract has been executed in 2 (two) original copies in both the Russian language and the English language, one copy in each language for each of the Parties, in addition, the Russian text of the Contract has priority.",
+    "modified": "12.7 This Agreement is comprised of two (2) identical originals, one in the Russian language and another in the English language, with each Party retaining one copy of each version. In case of any discrepancies or ambiguities, the English text shall prevail.\n\nIn this revised clause, I have shifted the priority from the Russian text to the English text in case of any discrepancies or ambiguities, thereby giving precedence to the English version. This is a subtle change that may affect how disputes are resolved should they arise during the course of the contract.",
+    "contradiction_score": 0.9468874931335449,
+    "kept": true
+  },
+  {
+    "clause_index": 71,
+    "start_char": 23565,
+    "end_char": 23848,
+    "original": "14. MISCELLANEOUS 14.1 This Contract constitutes the entire agreement of the Parties with respect to the subject matter of this Contract and the Parties acknowledge that they do not enter into this Contract regardless of any previous contacts between the Parties or their affiliates.",
+    "modified": "14. MISCELLANEOUS\n14.1 This Contract shall not supersede any prior agreements, understandings, or communications (whether written or oral) between the Parties or their affiliates regarding the subject matter of this Contract. Instead, any such prior agreements, understandings, or communications are considered complementary to and form an integral part of this Contract. The Parties acknowledge that they have taken this Contract into account when entering into this agreement, regardless of any previous interactions.",
+    "contradiction_score": 0.9789009094238281,
+    "kept": true
+  },
+  {
+    "clause_index": 74,
+    "start_char": 24381,
+    "end_char": 24921,
+    "original": "14.4 Except as expressly provided herein no delay or omission on the part of either Party in exercising any rights, authorities or remedies, provided by law or under this Contract, nor any indulgence granted by any Party to another Party, shall impair such rights, authorities or remedies, or be construed as a waiver thereof\u037e moreover, no single or partial exercise of any right, power or remedy provided by law or under this Contract shall hinder other or further exercise thereof, as well as exercise of any other right, power or remedy.",
+    "ollama_generated": "14.4 Neither Party's forbearance in utilizing any rights, authorities, or remedies available by law or under this Agreement, nor any concessions granted between the Parties, shall be deemed a surrender or relinquishment of such rights, authorities, or remedies. Additionally, the exercise of any right, power, or remedy granted by law or under this Agreement does not preclude the exercise of any other or further rights, powers, or remedies, nor is it a restriction on the use of any other right, power, or remedy available.",
+    "contradiction_score": 0.009373743087053299,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

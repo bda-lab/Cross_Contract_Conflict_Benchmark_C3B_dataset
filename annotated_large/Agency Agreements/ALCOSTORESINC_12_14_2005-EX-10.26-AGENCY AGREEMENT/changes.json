@@ -1,0 +1,61 @@
+[
+  {
+    "clause_index": 11,
+    "start_char": 7191,
+    "end_char": 8137,
+    "original": "Section 2.03 Payment of Purchase Price.  On or before the Lease Commencement Date for any Schedule, the Company shall present to Lessor documentation ( \u201cPurchase Documentation\u201d ), in form and substance satisfactory to Lessor in its sole discretion, which (i) describes all units of Equipment ordered, received and accepted by the Company as agent for Lessor in connection with such Schedule, and (ii) if Company has paid any Supplier for any of the Equipment, includes evidence of the Purchase Price paid to Supplier for each such unit of Equipment and of passage of title thereto to Lessor. Upon the latter of (A) Lessor\u2019s receipt of the Purchase Documentation or (B) the satisfaction of all conditions precedent on or after the applicable Lease Commencement Date, Lessor shall pay the Supplier or reimburse the Company, as the case may be, for the aggregate Purchase Price for all Equipment purchased hereunder in connection with such schedule.",
+    "modified": "Section 2.03 Payment Obligations Regarding Purchase Price. Within a reasonable time after the Lease Commencement Date for any Schedule, the Company shall submit to Lessor acceptable documentation ( \"Purchase Documentation\" ), at the Lessor's sole discretion, which (i) outlines all Equipment units procured by the Company as an agent of Lessor in relation to such Schedule, and (ii) when the Company has made payments to Suppliers for any of the Equipment, includes proof of the Purchase Price paid to Suppliers for each Equipment unit and confirmation of title transfer to Lessor. Following either (A) the receipt of the Purchase Documentation by Lessor or (B) the fulfillment of all conditions precedent on or following the applicable Lease Commencement Date, it shall be the responsibility of the Company to collect from Lessor or receive reimbursement from Lessor, as appropriate, for the total Purchase Price paid for the Equipment acquired under this agreement in relation to such schedule. This obligation to remunerate or provide reimbursement will only arise after the Lessor's approval of the submitted documentation and the satisfaction of all conditions precedent.",
+    "contradiction_score": 0.7147037982940674,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 8732,
+    "end_char": 9158,
+    "original": "1. Maximum Aggregate Capitalized Lessor\u2019s  Cost:  $14,500,000.00 2. Basic Term Lease Rate Factor:  To be mutually agreed upon by Company and Lessor 3. Basic Term (No. of Months):  To be mutually agreed upon by Company and Lessor 4. Equipment Type:  To be mutually agreed upon by Company and Lessor 5. Agency Agreement Expiration Date and Last Delivery  Date:  October 31, 2006 ARTICLE III TERMINATION Section 3.01 Termination.",
+    "ollama_generated": "1. Maximum Aggregate Capitalized Lessee's Cost: Negotiable (Within a reasonable range)\n   2. Basic Term Lease Rate Factor: To be unilaterally determined by the Lessor, subject to the Lessee's consent\n   3. Basic Term (No. of Months): Initially proposed by the Lessor, with the flexibility for adjustment based on Lessee's approval\n   4. Equipment Type: Proposed initially by the Lessor, subject to change following mutual agreement between parties\n   5. Agency Agreement Expiration Date and Last Delivery Date: October 31, 2006\n   ARTICLE III TERMINATION Section 3.01 Termination.\n     In this revised clause, the Lessee has less control over some of the initial terms, such as the lease rate factor, basic term, and equipment type, while still maintaining an opportunity for negotiation and agreement. Additionally, the Lessor is granted more freedom to propose initial values for these terms, with the understanding that they can be adjusted based on Lessee's approval. The agency agreement expiration date remains unchanged.",
+    "contradiction_score": 0.21687498688697815,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 9478,
+    "end_char": 9694,
+    "original": "(b) In the event the Company is in default hereunder or under the Lease, Lessor may  elect to terminate this Agreement immediately, which shall be effective upon the  receipt of written notice thereof by the Company.",
+    "ollama_generated": "(b) Upon the occurrence of a default by the Company under this Agreement or the Lease, the Lessor retains the discretionary power to allow the agreement to continue, but may also choose to terminate it with immediate effect upon providing written notice to the Company. The termination shall become effective upon receipt of such notice by the Company. In this scenario, the choice to terminate lies solely with the Lessor and is not obligatory should a default occur.",
+    "contradiction_score": 0.03286545351147652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 9917,
+    "end_char": 10077,
+    "original": "IN WITNESS WHEREOF , the parties hereto have caused their duly authorized representatives to execute and deliver this Agreement on the date first above written.",
+    "ollama_generated": "FOR THE RECORD AND TO ESTABLISH LEGAL CONSENT, the signatories below, being the aforementioned parties, hereby acknowledge their approval of this Agreement, with effect from the date initially indicated above. It is understood that the respective designated representatives have the authority to execute and transfer this document on behalf of their respective entities.",
+    "contradiction_score": 0.003271734109148383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 10112,
+    "end_char": 10175,
+    "original": "General Electric Capital Corporation Duckwall-Alco Stores, Inc.",
+    "ollama_generated": "Duckwall-Alco Stores, Inc., hereinafter referred to as \"Debtor,\" grants General Electric Capital Corporation, hereinafter referred to as \"Creditor,\" the right to pursue remedies for any default or breach of this Agreement by Debtor, without being obligated to exhaust all available remedies prior to seeking such recourse. This provision is intended to provide Creditor with maximum flexibility in protecting its interests under this Agreement.\n\nIn other words: The Debtor agrees that, should there be any default or breach of this agreement on their part, the Creditor shall have the authority to immediately pursue all available remedies without first attempting to resolve the issue through alternative means. This provision aims to provide the Creditor with the broadest possible scope for safeguarding its interests under this Agreement.",
+    "contradiction_score": 0.025350557640194893,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10884,
+    "end_char": 11055,
+    "original": "\u2022The invoices should be mailed directly to General Electric Capital Corporation. Also, all invoices should reference the appropriate Purchase Order/Sales Agreement Number.",
+    "ollama_generated": "For ease of record-keeping and compliance, it is expected that all invoices will be emailed directly to General Electric Capital Corporation, and each invoice must clearly state the relevant Purchase Order/Sales Agreement Number for prompt processing.",
+    "contradiction_score": 0.0033555938862264156,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

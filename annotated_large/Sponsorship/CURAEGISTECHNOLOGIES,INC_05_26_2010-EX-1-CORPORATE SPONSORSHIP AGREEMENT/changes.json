@@ -1,0 +1,131 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 374,
+    "original": "CORPORATE SPONSORSHIP AGREEMENT This agreement (the \u201cAgreement \u201d) is entered into as of May 18, 2010, (the \u201cEffective Date \u201d) by and between Phoenix Performance, LLC, 481 Schuylkill Road, Phoenixville, PA 19460 ( \u201cVendor\u201d) and Torvec Inc.., a New York corporation with its principal place of business located at 1999 Mt Read  Blvd, Building 3, Rochester, NY. 14615 (Torvec).",
+    "ollama_generated": "SPONSORSHIP AGREEMENT BETWEEN PARTIES\n\nThis agreement (the \"Agreement\") is executed on May 18, 2010 (the \"Effective Date\"), by and between Torvec Inc., a New York corporation with its principal place of business located at 1999 Mt Read Blvd, Building 3, Rochester, NY. 14615 (\"Sponsor\") and Phoenix Performance, LLC, 481 Schuylkill Road, Phoenixville, PA 19460 (Vendor).\n\nIn this Agreement, the obligations of Vendor shall be considered optional, while Sponsor's commitments under this Agreement will remain binding and mandatory. Any breach of this Agreement by Vendor shall not automatically terminate the Agreement unless explicitly stated otherwise. Additionally, should any disputes arise between the parties, Sponsor will have the discretion to seek resolution through alternative dispute resolution methods or litigation at its sole discretion.",
+    "contradiction_score": 0.12145411968231201,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2449,
+    "end_char": 2905,
+    "original": "See Exhibit A The schedule set forth in Exhibit A will constitute invoicing for the events.  Notwithstanding the above, Torvec may, in its sole discretion, cancel its participation in  any of the above -referenced events by notifying Vendor of such cancellation not later than  two weeks prior to the due date(s) for payment hereunder. All checks shall be made payabe  to: Phoenix Performance, LLC and mailed to 481, Schuylkill Rd, Phoenixville, Pa. 19460.",
+    "ollama_generated": "The payment schedule outlined in Exhibit A will serve as the basis for invoicing related to the events. However, it is important to note that Vendor has the option, at its sole discretion, to withdraw from any of the aforementioned events by providing Torvec with written notice of cancellation no later than fourteen days prior to the specified payment dates outlined herein. All payments shall be made payable to Phoenix Performance, LLC and sent via mail to 481 Schuylkill Rd, Phoenixville, Pa. 19460.\n\nIn this revised version, I've shifted the discretion for canceling participation in events from Torvec to the Vendor, giving them more flexibility. The clause now emphasizes that the vendor has the option to withdraw rather than stating it as an action Torvec may take.",
+    "contradiction_score": 0.018744736909866333,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3008,
+    "end_char": 3126,
+    "original": "4. Torvec Benefits During the Term of this Agreement, Torvec shall be entitled to the following  sponsorship benefits:",
+    "modified": "4. Sponsor's Entitlement Throughout the Agreement Term, the Sponsor shall have the right to receive the following benefits attributable to Torvec:\n\nThis modification shifts the perspective of who is entitled to the benefits from Torvec (the original beneficiary) to the Sponsor. This could potentially imply a change in the agreement's balance of power or responsibilities, depending on the specific context of the contract.",
+    "contradiction_score": 0.5232770442962646,
+    "kept": true
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3450,
+    "end_char": 3575,
+    "original": "c) Sole right to disapprove any driver selected by Vendor for any  reason. The driver for these events will be John Heinricy.",
+    "ollama_generated": "d) Right of first refusal granted to Vendor in selecting a driver for any given reason. Should the Vendor elect not to exercise this right, John Heinricy shall serve as the default driver for these events.",
+    "contradiction_score": 0.3236232101917267,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 4848,
+    "end_char": 5409,
+    "original": "The approval by a party to use its registered symbols or trademarks does not convey any  rights, title or interest to the other party in and to such registered symbols and trademarks. The  party receiving permission to use a registered symbol or trademark will (i) follow all reasonable instructions from the owner regarding that symbol or trademark; and (ii) take all reasonable steps to protect it,  including, when appropriate, using the symbols \u201c\u00ae\u201d or \u201c\u2122\u201d. The rights granted under this Section 6  cease upon the expiration or termination of this Agreement.",
+    "ollama_generated": "The granting of approval by one party for the use of its registered symbols or trademarks does not impart any rights, ownership, or control over such intellectual property to the receiving party. The recipient of permission to utilize a registered symbol or trademark shall (i) adhere to all reasonable guidelines provided by the owner regarding said symbol or trademark; and (ii) take all prudent measures to safeguard it, including, when necessary, designating them with the symbols \u201c\u00ae\u201d or \u201c\u2122\u201d. It is the duty of the recipient to maintain these rights as defined in this Section 6, which will only persist so long as this Agreement remains in force. Upon termination or expiration of this Agreement, any rights granted under this section shall automatically cease and revert back to the original party.",
+    "contradiction_score": 0.004724175203591585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 6176,
+    "end_char": 6327,
+    "original": "8. Insurance Vendor shall maintain insurance for not less than the following limits and coverage with duly  licensed insurance companies having an A.M.",
+    "ollama_generated": "8. The Assured Party is granted the discretion to select insurance policies, subject to a minimum coverage limit as defined below, from authorized and reputable insurers rated 'A.M.' or higher by a recognized credit rating agency. The Assured Party shall maintain continuous insurance coverage throughout the term of this Agreement.",
+    "contradiction_score": 0.08285177499055862,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 6980,
+    "end_char": 7276,
+    "original": "10. Notices All notices provided herein shall be in writing and are effective upon receipt if hand  delivered, sent by overnight courier (with ability to confirm receipt), by fax or by registered or  certified mail, return receipt requested, addressed to the respective parties hereto as follows:",
+    "ollama_generated": "10. Communications: All communications related to this agreement should be in writing and shall be deemed delivered upon confirmation of successful transmission, if sent electronically via a secure messaging platform with read confirmation or by email with automatic delivery receipt; otherwise, it will be considered delivered on the third business day following the date of mailing when sent by registered or certified mail, return receipt requested, to the respective parties at the addresses provided below:\n\n[Insert appropriate contact information for each party]",
+    "contradiction_score": 0.20061451196670532,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 7353,
+    "end_char": 7444,
+    "original": "Either party may change its address for notice by giving written notice to the other party.",
+    "ollama_generated": "Upon reasonable written notice provided to the other party, only one party shall have the right to alter their contact address for communications. The receiving party shall be responsible for updating their records accordingly and ensuring continued receipt of all notices and correspondence.",
+    "contradiction_score": 0.1855902075767517,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 8705,
+    "end_char": 8745,
+    "original": "Phoenix Performance, LLC   Torvec, Inc..",
+    "ollama_generated": "Torvec, Inc. shall hereby indemnify Phoenix Performance, LLC against any and all claims, actions, proceedings, losses, liabilities, damages, expenses or costs (including reasonable attorneys' fees) arising out of or in connection with Torvec's breach of this Agreement, except for those caused by Phoenix Performance's gross negligence or willful misconduct.\n\n(Original Clause: Phoenix Performance, LLC shall indemnify and hold harmless Torvec, Inc. against any and all claims, actions, proceedings, losses, liabilities, damages, expenses or costs (including reasonable attorneys' fees) arising out of or in connection with Phoenix Performance's breach of this Agreement, except for those caused by the negligence or willful misconduct of Torvec, Inc.)",
+    "contradiction_score": 0.174409881234169,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 10033,
+    "end_char": 10274,
+    "original": "16. Other Instruments The parties will execute and deliver such other and further instruments and documents as are  or may become necessary to effectuate and carry out the rights, responsibilities, and obligations  created by this Agreement.",
+    "ollama_generated": "16. Additional Instruments: Each party shall be prepared to execute and deliver any additional instruments or documents that might be deemed necessary for the fulfillment and execution of the rights, duties, and commitments as outlined in this Agreement, at the discretion of either party, without undue delay upon request.",
+    "contradiction_score": 0.002791637321934104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 10437,
+    "end_char": 10924,
+    "original": "18. Governing Law, Jurisdiction and Venue This Agreement is to be governed and construed according to the laws of the State of New York  without regard to conflicts of law. The parties agree that each of them hereby submits to the  jurisdiction of the New York State and federal courts for the purpose of resolving any dispute  arising under this Agreement and that the exclusive venue for resolution of such disputes shall be  state or federal courts located in Monroe County, New York.",
+    "ollama_generated": "18. Jurisdiction, Governing Law, and Venue: This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of New York, disregarding any rules that might potentially contradict one another. The parties mutually agree to be bound by the jurisdiction of the New York State and federal courts for the resolution of any disputes arising from this Agreement. It is explicitly clarified that the sole venue for the settlement of such disputes shall reside with state or federal courts situated within Monroe County, New York; however, the defendants retain the right to bring a motion before the court seeking a more convenient location should it be deemed equitable and just by the presiding judge.\n\nIn this revised clause, the parties now retain the right to request a more convenient venue for dispute resolution, thus slightly weakening their obligation to adhere strictly to Monroe County courts.",
+    "contradiction_score": 0.08381851017475128,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 11350,
+    "end_char": 11804,
+    "original": "21. Force Majeure Neither party will hold the other liable for failure to comply with any of the terms or  conditions of this Agreement when such failure to comply has been caused by fire, weather, labor  dispute, strike, war, insurrection, terrorism, government restriction or acts of God beyond the reasonable control of the parties, provided the party failing to comply uses all reasonable  diligence to remedy such failure as promptly as practicable.",
+    "ollama_generated": "21. Unforeseen Circumstances: Each party shall be absolved from any liability for non-compliance with the provisions of this Agreement, should such non-compliance arise from events beyond our respective reasonable control, including but not limited to fire, weather, labor disputes, strikes, war, insurrection, terrorism, government restrictions, or acts of God. However, it is incumbent upon the party encountering the unforeseen circumstance to exercise all due diligence in addressing and resolving the non-compliance promptly and efficiently to the greatest extent possible under the given circumstances.",
+    "contradiction_score": 0.07057852298021317,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 12303,
+    "end_char": 12534,
+    "original": "IN WITNESS WHEREOF, and intending to be legally bound hereby, the parties have caused this  Agreement to be executed and delivered by their proper and duly authorized officers or  representatives as of the date first above written.",
+    "ollama_generated": "THIS AGREEMENT is entered into freely and voluntarily by the Parties, intending to be legally bound herein, and acknowledging that they have read, understood, and agreed to its terms. The Parties authorize their respective officers or duly appointed representatives to sign and deliver this Agreement on the date first written above.\n\nThis revised clause slightly changes the original's tone by emphasizing the free and voluntary nature of the agreement while shifting the focus towards the action of signing and delivering the agreement to a later point in time (date first written above).",
+    "contradiction_score": 0.12503646314144135,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "clause_index": 9,
+    "start_char": 4469,
+    "end_char": 4487,
+    "original": "December 10, 1993.",
+    "modified": "Effective as of December 10, 1993, it shall be incumbent upon the obligor to perform their obligations under this agreement, with the understanding that non-performance shall not automatically constitute a breach of contract, unless expressly specified otherwise. The obligee's discretion in such instances is hereby recognized and granted, affording them the opportunity to address any non-performance issues through dialogue and negotiation before resorting to legal action.",
+    "contradiction_score": 0.6666062474250793,
+    "kept": true
+  },
+  {
+    "clause_index": 11,
+    "start_char": 4683,
+    "end_char": 5171,
+    "original": "Page 3 2.   TERM OF AGREEMENT XIMAGE's obligations hereunder shall become effective upon the \"Effective Date\" and, unless sooner terminated as provided herein, shall remain in full force and effect for at least one year thereafter. This Agreement shall automatically renew for consecutive one (1) year terms at XIMAGE's then prevailing rates at the end of each one (1) year term unless either party gives at least sixty (60) days prior written notice of the non-renewal of this Agreement.",
+    "ollama_generated": "Page 3 - 2. The obligations of XIMAGE, as outlined in this Agreement, commence on the specified \"Effective Date.\" Unless mutually agreed otherwise or terminated as per the provisions herein, these obligations will persist for a minimum period of one year. Upon expiration of each subsequent year, this Agreement will be extended for another year, subject to XIMAGE's current rates, unless either party provides at least sixty (60) days prior written notice expressing their intention not to renew the Agreement.",
+    "contradiction_score": 0.00797947682440281,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 5884,
+    "end_char": 6452,
+    "original": "(a)  telephone support as reasonably requested by MORPHO at the rate of $100 per hour for all hours in excess of 40 hours in any one-year (b)  on-site visits to MORPHO's sites as determined to be necessary by Morpho for Error correction, unless error correction is normally performed via Dial up from the XImage facility in San Jose\u037e (c)  give title to all modifications and improvements to the PSS Software which XIMAGE generally makes available to its other customers (at no additional Charge) under standard software maintenance agreements relating to the Software.",
+    "ollama_generated": "(a) Telephone support will be provided by MORPHO as needed, at a rate of $100 per hour for all hours below 40 hours in any one-year, with no additional charge for any hours beyond that threshold.\n   (b) On-site visits to MORPHO's sites will only be conducted by XIMAGE when deemed necessary by Morpho, provided that error correction can typically be performed remotely via Dial up from the XImage facility in San Jose. If on-site visits are required, they shall not be subject to any additional charges.\n   (c) XIMAGE will retain title to all modifications and improvements made to the PSS Software, with the exception that these enhancements will be provided to MORPHO at no additional charge when offered to other XIMAGE customers under standard software maintenance agreements relating to the Software.",
+    "contradiction_score": 0.16799858212471008,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 6452,
+    "end_char": 6791,
+    "original": "If MORPHO requests XIMAGE to perform any other services, the related terms and conditions shall be based on further separate agreement between the parties. This Agreement and the rights and duties contained herein are not be deemed to cover maintenance services with respect to hardware. Such may be decided in accordance with paragraph 9.",
+    "ollama_generated": "In the event that XIMAGE is required by MORPHO to undertake additional services, it shall be the responsibility of both parties to establish the terms and conditions for such services through a subsequent, standalone agreement. It is important to note that this Agreement does not encompass hardware maintenance services. Instead, any decisions regarding these services should be made in accordance with paragraph 9. In other words, the absence of explicit provisions in this Agreement concerning hardware maintenance does not imply that MORPHO waives its right to request such services or XIMAGE's obligation to provide them; rather, the parties must address this matter separately as stipulated in paragraph 9.",
+    "contradiction_score": 0.0010508018312975764,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 8586,
+    "end_char": 9004,
+    "original": "The Annual Maintenance Charge includes all federal, state, county, local, or other taxes arising in the United States or its states (or other internal jurisdictions), but does not include all taxes arising under any law other than that of the United States. MORPHO shall be responsible for all taxes arising under the law of any jurisdiction except the United States and its states (and other internal jurisdisctions).",
+    "modified": "The Annual Maintenance Charge encompasses all federal, state, county, local, or other taxes levied within the U.S. or its territories (or other internal administrative bodies), yet it does not incorporate taxes imposed by legislations outside of the United States. It is incumbent upon you, as the party being charged, to bear the responsibility for any taxes stemming from legal systems beyond the United States and its territories (and other internal administrative entities). In this scenario, MORPHO will only be accountable for taxes imposed by jurisdictions within the United States and its territories.",
+    "contradiction_score": 0.6275110840797424,
+    "kept": true
+  },
+  {
+    "clause_index": 19,
+    "start_char": 9004,
+    "end_char": 10480,
+    "original": "7.   NON DISCLOSURE Each party agrees to maintain in confidence what it knows or has reason to know is regarded as confidential by the other party (\"Confidential Information\"). The Confidential Information will include, but will not be limited to, trade secrets, the structure, sequence and organization of the program, marketing plans, blueprints, techniques, processes, procedures and formulae. Each party will use the Confidential Information solely to accomplish the purposes of the Agreement. Each party will not disclose the Confidential Information to any person except its employees or consultants to whom it is necessary to disclose the Confidential Information for such purposes. Each party agrees that the Confidential Information will be disclosed or made available only to those of its employees or consultants who have agreed to receive it under termes at least as restrictive as those specified in this Agreement. Each party will use reasonable measures to maintain the confidentiality of the Confidential Information, but not less than the measures it uses for its confidential information or similar type. Each party will immediately give notice to the Disclosing Party of any unauthorized use or disclosure of the Confidential Information. The Recipient agrees to assist the disclosing party in remedying any such unauthorized use or disclosure of the Confidential Information. This obligation will not apply to the extent that the Recipient can demonstrate:",
+    "ollama_generated": "7. DISCRETIONARY DISCLOSURE: Each party grants discretionary permission to the other party (\"Disclosing Party\") to share information deemed confidential by the Disclosing Party, which may include but is not limited to trade secrets, the design, algorithm, and architecture of the program, business strategies, proprietary blueprints, methodologies, operational protocols, and recipes. The recipient party (\"Recipient\") will utilize the disclosed Confidential Information solely for the execution of this Agreement's objectives.\n\nThe Recipient may reveal the Confidential Information to its employees or consultants whom they deem necessary for achieving these purposes. However, the Recipient shall ensure that such parties have agreed to safeguard the Confidential Information under terms no less stringent than those outlined in this Agreement.\n\nThe Recipient shall employ reasonable efforts to preserve the secrecy of the Confidential Information, but no less rigorously than it protects its own confidential information or comparable data. The Recipient will promptly inform the Disclosing Party of any unauthorized use or disclosure of the Confidential Information. Notwithstanding this obligation, the Recipient shall not be required to assist the Disclosing Party in remedying any such unauthorized use or disclosure if it can demonstrate that it was compelled by law enforcement or judicial authorities to divulge the Confidential Information.",
+    "contradiction_score": 0.2634162902832031,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 12932,
+    "end_char": 13277,
+    "original": "In such cases where on site intervention is required MORPHO shall pay for all travel expenses (Business Class), hotel accomodation and reasonable subsistence. XIMAGE shall charge for the time of the engineer only when he/she is on site or in exceptional circumstances when away from the site but directly involved in work connected with the PSS.",
+    "modified": "In instances necessitating on-site intervention, the responsibility for travel expenses (Business Class), hotel accommodations, and reasonable subsistence shall fall upon XIMAGE. However, MORPHO shall be remunerated for the engineer's time during all hours spent away from the site, including exceptionally when not directly engaged in work related to the PSS.",
+    "contradiction_score": 0.6771738529205322,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 13538,
+    "end_char": 13636,
+    "original": "Following any intervention on site XIMAGE shall provide a full written technical report to MORPHO.",
+    "ollama_generated": "Upon any intervention at site XIMAGE, Morpho shall receive a comprehensive written technical summary from XIMAGE, which is not obligated to include all intricacies or in-depth analysis unless specifically requested.",
+    "contradiction_score": 0.0831717997789383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 14159,
+    "end_char": 14952,
+    "original": "11.  INJUNCTIVE RELIEF/TERMINATION MORPHO acknowledges and agrees that any violation of the provisions of Section 7 herein by MORPHO will result in irreparable harm to XIMAGE and that money damages would provide inadequate remedy. Accordingly, in addition to any other rights and remedies available to XIMAGE hereunder or at law, XIMAGE shall be entitled to injunctive or other equitable relief to restrain any such violation and to such other and further relief as a court may deem proper under the circumstances. In addition to any other rights of XIMAGE hereunder, the rights granted MORPHO to use the Software by license or otherwise may be terminated by XIMAGE for any material breach of Section 7 upon written notice given to MORPHO and MORPHO shall return to XIMAGE all of the Software.",
+    "modified": "11. REVERSAL OF BURDEN/TERMINATION MORPHO acknowledges and consents that any breach of the provisions in Section 7 by MORPHO may potentially cause minimal harm to XIMAGE, and monetary compensation may serve as an adequate remedy. Consequently, in addition to any other rights and remedies available to XIMAGE under this agreement or at law, XIMAGE shall not be entitled to seek injunctive or other equitable relief to prohibit such breach, unless the court deems it necessary under exceptional circumstances. In addition to any other rights of XIMAGE under this agreement, the license granted to MORPHO for the use of the Software may only be revoked by XIMAGE in response to a material breach of Section 7 upon written notice given to MORPHO; however, MORPHO shall not be required to return all of the Software. Instead, MORPHO must cease using the Software and destroy any copies in its possession upon receipt of the termination notice.",
+    "contradiction_score": 0.9656158685684204,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 15357,
+    "end_char": 15980,
+    "original": "XIMAGE hereby indemnifies and agrees to hold MORPHO harmless from any claim of any third party that any of the Software infringes any United States patent, copyright, trademark or other property right held by a third party provided that XIMAGE is notified promptly by MORPHO of any such claim (including any threatened claim) and XIMAGE shall have had sole control of the defense with respect to same (including the settlement of such claim). The foregoing indemnification by XIMAGE shall not apply with respect to any claim based, in whole or part, on any modification of the Software made by any person other than XIMAGE.",
+    "ollama_generated": "MORPHO is granted the right to be indemnified and released from any liability to third parties who allege that the use of the Software infringes upon United States patents, copyrights, trademarks, or other proprietary rights. This protection is contingent upon MORPHO promptly notifying XIMAGE of any such claims (including potential claims) and granting XIMAGE exclusive control over the defense and settlement procedures related to these allegations. However, this indemnification granted by XIMAGE shall not extend to claims arising from modifications made to the Software by any entity other than XIMAGE.",
+    "contradiction_score": 0.0020944869611412287,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 20577,
+    "end_char": 20769,
+    "original": "19.  AMENDMENTS No supplement, modification or amendment of any term, provision or condition of this Agreement shall be binding or enforceable unless executed in writing by the parties hereto.",
+    "ollama_generated": "19. FLEXIBILITY AND MODIFICATIONS Any proposed modification, amendment, or supplement to any term, provision, or condition within this Agreement may be made, but only such changes will be binding and enforceable if mutually agreed upon in writing by all parties involved. This provision does not limit the ability of either party to alter their own obligations without the consent of the other, provided that any such alteration is communicated promptly and in a clear manner.",
+    "contradiction_score": 0.29023680090904236,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

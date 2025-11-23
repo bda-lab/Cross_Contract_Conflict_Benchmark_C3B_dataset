@@ -1,0 +1,823 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 138,
+    "original": "Exhibit 10.13 Confidential Materials omitted and filed separately with the Securities and Exchange Commission. Asterisks denote omissions.",
+    "ollama_generated": "Exhibit 10.13 (Redacted Materials): Certain confidential details have been excluded and are submitted separately to the Securities and Exchange Commission. The use of asterisks signifies these omitted portions.\n\n(This version provides a subtle shift in emphasis, making it seem like the onus is on the reader to seek out the missing information if needed, rather than explicitly stating that specific details have been withheld.)",
+    "contradiction_score": 0.0016440938925370574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 532,
+    "end_char": 931,
+    "original": "PACIRA PHARMACEUTICALS, INC. (F/K/A SKYEPHARMA, INC.) a company incorporated in the state of California whose principal place of business is 10450 Sciences Center Drive, San Diego, California 92121 USA ( \u201cPPI\u201d); and EKR THERAPEUTICS, INC. , a company incorporated in the state of Delaware whose principal place of business is 1545 Route 206 South, Third Floor, Bedminster, New Jersey 07921  (\u201cEKR\u201d).",
+    "ollama_generated": "EKR THERAPEUTICS, INC., a Delaware corporation with its primary office located at 1545 Route 206 South, Third Floor, Bedminster, New Jersey 07921 ( \"EKR\" ); and PACIRA PHARMACEUTICALS, INC. (formerly known as SKYEPHARMA, INC.), a California corporation headquartered at 10450 Sciences Center Drive, San Diego, California 92121 USA ( \"PPI\" ).\n\nIn this revised clause, I've inverted the order of the parties involved, which subtly shifts the emphasis to EKR rather than PPI. It remains professional and fluent, while providing a slight change in focus.",
+    "contradiction_score": 0.04676465690135956,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1291,
+    "end_char": 1640,
+    "original": "Pursuant to that  certain Strategic Licensing, Distribution and Marketing Agreement between EKR and PPI dated as of August 10, 2007 (the \u201cOriginal Agreement \u201d), PPI granted and EKR acquired the exclusive right and license to sell, offer to sell,  distribute and market the Product in the Territory (as defined below) in the Field (as defined below).",
+    "ollama_generated": "In accordance with the aforementioned Strategic Licensing, Distribution, and Marketing Agreement between PPI and EKR, signed on August 10, 2007 (hereinafter referred to as the \"Original Agreement\"), EKR was granted and accepted the exclusive right and license from PPI for the sale, offering, distribution, and marketing of the Product within the specified Territory (as defined) and Field (as defined) under a non-exclusive basis.\n\nIn this revised version, the original clause's exclusivity is shifted to a non-exclusive arrangement, allowing EKR to potentially engage in similar activities with other parties within the defined territory and field.",
+    "contradiction_score": 0.007094891741871834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 2736,
+    "end_char": 2997,
+    "original": "\u201cAffiliate\u201d With respect to any Party to this Agreement shall mean any company, corporation, firm, individual or other entity which Controls, is Controlled by or is under  common Control with such Party to this Agreement for only so long as such Control exists;",
+    "ollama_generated": "\"Affiliate,\" as pertaining to any Party in this Agreement, refers to any company, corporation, firm, individual, or other entity that can be controlled by, or is under the control of, such Party in this Agreement. This definition remains valid as long as said control relationships are active; however, once these relationships cease, such an entity shall no longer be considered an Affiliate for the purposes of this Agreement.",
+    "contradiction_score": 0.0044289506040513515,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2997,
+    "end_char": 3611,
+    "original": "-3-  \u201cApplicable Laws \u201d Shall mean all laws, rules and regulations regarding the manufacture, packaging, labeling, import, export, storage, distribution, representation, promotion,  marketing and sale of the Products including but not limited to the Federal Food, Drug and Cosmetic Act of 1938, as amended ( \u201cFD&C Act \u201d) and the Controlled Substances Act, as amended (21 U.S.C. \u00a7801 et seq.), or as defined  in attendant regulations promulgated under authorities granted by the FD&C Act, together with any equivalent laws, rules, regulations, codes or guidelines having effect in any jurisdiction in the Territory;",
+    "ollama_generated": "3- \"Applicable Laws\" shall refer to all legal requirements pertaining to the manufacture, packaging, labeling, import, export, storage, distribution, advertising, promotion, marketing, and sale of the Products, encompassing, but not exclusively limited to, the Federal Food, Drug, and Cosmetic Act of 1938, as amended (the \"FD&C Act\"), the Controlled Substances Act, as amended (21 U.S.C. \u00a7801 et seq.), or regulations established under the FD&C Act's authorities, along with any local, state, or international laws, rules, regulations, codes, or guidelines that may apply within the Territory; compliance with these obligations shall be the sole responsibility of the parties involved in the manufacture, packaging, labeling, import, export, storage, distribution, advertising, promotion, marketing, and sale of the Products.",
+    "contradiction_score": 0.0029872688464820385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3611,
+    "end_char": 3779,
+    "original": "\u201cCalendar Year \u201d Shall mean the period of twelve months commencing on 1st January in any year, and each consecutive period of twelve months thereafter during the  Term;",
+    "modified": "\"Fiscal Year\" shall refer to a period of twelve months, commencing on any day within a month of July in any given year, and continuing for each subsequent cycle of twelve months, such that the fiscal year may not necessarily align with the standard calendar year but shall cover the duration of the Term.",
+    "contradiction_score": 0.949587345123291,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 5805,
+    "end_char": 6143,
+    "original": "-5-  \u201cControl\u201d Means in relation to any Party or an Affiliate the possession directly or indirectly, of the power to direct or cause the direction of the management and  policies of such firm, person or entity, by contract or otherwise, or the ownership either directly or indirectly of 50% or more of the voting securities of such Party;",
+    "ollama_generated": "\"-5-\" Control\" Shall be construed in relation to any Party or an Affiliate as the ability to significantly influence, whether directly or indirectly, the management and policies of such firm, person, or entity through contractual obligations or otherwise, or the ownership, either directly or indirectly, of less than 50% but a substantial amount of the voting securities of such Party;\n\nThis revised clause weakens the original obligation by reducing the percentage of voting securities required to establish control from 50% to a \"substantial amount\" which is not specifically defined. This change makes it easier for parties to be considered as controlling another entity in this agreement, although they may have less direct ownership or control.",
+    "contradiction_score": 0.013125219382345676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 7625,
+    "end_char": 7667,
+    "original": "\u201cEffective Date \u201d   Means August 10, 2007;",
+    "ollama_generated": "\"Effective Date\" shall be defined as the date of execution of this Agreement, with the first contractual obligations becoming effective on or around August 10, 2007.",
+    "contradiction_score": 0.007300838362425566,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 8813,
+    "end_char": 9189,
+    "original": "\u201cImprovements \u201d Means any discovery, development, improvement, know -how or patent relating to the Product generated, conceived, reduced to practice or otherwise created during  the Term by PPI or EKR (or any Affiliate of PPI or \u201cJoint Improvements \u201d Means any Improvements generated, conceived, reduced to practice or other created jointly by EKR and PPI or their Affiliates.",
+    "ollama_generated": "\"Improvements\" shall refer to any discovery, development, improvement, know-how, or patent related to the Product that arises during the Term, but only if explicitly agreed upon in writing between PPI and EKR (or any Affiliate of PPI). In case of joint development by EKR and PPI or their respective Affiliates, such jointly developed Improvements shall be collectively referred to as \"Joint Improvements\". However, the ownership and control of these Joint Improvements will remain with the party that initially conceived or reduced them to practice, unless otherwise agreed upon in writing.",
+    "contradiction_score": 0.08538840711116791,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 9796,
+    "end_char": 10018,
+    "original": "-9-  \u201cNet Sales \u201d Means total gross sales of Product invoiced by EKR, its Affiliates and sub -distributors in arms length sales to Third  Parties, less the following amounts actually incurred, deducted, accrued or allowed:",
+    "ollama_generated": "Clause -9-: \"Net Sales\" shall denote the total sum of gross revenues recognized by EKR, its Affiliates, and authorized resellers for the sale of the Product to unrelated entities, excluding the following expenses that have been factually paid, withheld, accrued, or forgiven:\n\nThis revision slightly weakens the obligation, as it focuses on deducting expenses instead of a broader range of amounts incurred, including those that might not necessarily be paid. The term \"unrelated entities\" also shifts some responsibility to the buyer, making it clear that only sales to these parties are considered.",
+    "contradiction_score": 0.10291977971792221,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 10083,
+    "end_char": 10155,
+    "original": "(i) transport, freight and insurance costs which  are separately stated;",
+    "ollama_generated": "(ii) the recipient shall bear the transportation, freight, and insurance expenses explicitly mentioned herein.",
+    "contradiction_score": 0.06550189107656479,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 10161,
+    "end_char": 10200,
+    "original": "(ii) sales and excise taxes and duties;",
+    "ollama_generated": "(ii) The Buyer shall bear the responsibility for and pay any applicable sales taxes, excise duties, or similar levies. However, the Seller will provide assistance in fulfilling all necessary paperwork and documentation to facilitate such payments, but shall not be held responsible for any errors or discrepancies arising therefrom.",
+    "contradiction_score": 0.03975503146648407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 10609,
+    "end_char": 10896,
+    "original": "(vi) any other identifiable amounts included in gross sales of  the Product that were or ultimately will be credited and that are substantially similar to those listed hereinabove; and (vii) any other deductions allowed by GAAP which effectively reduce  the net selling price of Product;",
+    "modified": "(vi) any identified amounts deducted from the gross sales of the Product, which are substantially similar to those enumerated herein, and were or will be received as refunds or discounts; and (vii) any other allowable deductions under GAAP that have the effect of increasing the net selling price of the Product.\n\nThis revision weakens the obligation by shifting the focus from amounts included in gross sales being credited to amounts being deducted, which are then returned or reduced. Additionally, it changes the effect of the deductions on the net selling price by stating that they have the effect of increasing rather than reducing the net selling price.",
+    "contradiction_score": 0.8539621233940125,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 11049,
+    "end_char": 11177,
+    "original": "-10-  \u201cPPI IP\u201d Means the Copyrights, PPI Know -How, PPI Patents and PPI Improvements; and PPI \u2019s interest in Joint Improvements;",
+    "ollama_generated": "10- \"PPI Intellectual Property\" denotes the Copyrights, Trade Secrets (referred to as PPI Know-How), Patents, and PPI Innovations; also encompassing PPI's equity stake in Collective Improvements. (Here, the term \"Collective Improvements\" refers to the joint property rights arising from the combined efforts of all parties involved, with the responsibility for their protection and exploitation primarily falling on PPI.)",
+    "contradiction_score": 0.04560822620987892,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 12693,
+    "end_char": 12851,
+    "original": "\u201cPromotional Materials \u201d Means promotional, sales, marketing, educational and training materials which are necessary to support the marketing of the Products;",
+    "modified": "\"Promotional Materials\" shall refer to any promotional, sales, marketing, educational or training resources that are elective in nature and may be utilized at the discretion of the party responsible for marketing the Products.",
+    "contradiction_score": 0.9614855051040649,
+    "kept": true
+  },
+  {
+    "clause_index": 65,
+    "start_char": 14991,
+    "end_char": 15063,
+    "original": "(c) words denoting the singular shall include the plural and vice versa;",
+    "ollama_generated": "(c) words indicating the plural shall also encompass the singular, and conversely, words signifying the singular shall be interpreted to include the plural.",
+    "contradiction_score": 0.3859770894050598,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 22727,
+    "end_char": 23530,
+    "original": "-16-  3.5 Adverse Events . PPI shall at its own cost and expense promptly provide EKR with all information in its possession or otherwise coming to its attention relating to the occurrence of a serious adverse event or an adverse event (in any jurisdiction throughout the world) in connection with the Product. PPI shall be responsible, to the extent required by Applicable Laws, to report all  charges, complaints or claims reportable to the FDA relating to the Product, to the extent such charges, complaints or claims are made prior to the Agreement Date. EKR shall be responsible, to the extent required by Applicable Laws, to report all  charges, complaints or claims reportable to the FDA relating to the Product, to the extent such charges, complaints or claims are made after the Agreement Date.",
+    "modified": "3.5 Adverse Events Reporting - EKR shall be responsible for the prompt reporting, at its own cost and expense, of any information regarding the occurrence of a serious adverse event or an adverse event (in any jurisdiction throughout the world) in connection with the Product, as required by Applicable Laws. Moreover, EKR will report all charges, complaints, or claims reportable to the FDA relating to the Product if such reports are made after the Agreement Date. PPI shall also be responsible for reporting charges, complaints, or claims reportable to the FDA relating to the Product, as required by Applicable Laws, provided these reports were made prior to the Agreement Date. In this way, both parties share the responsibility of reporting adverse events in accordance with applicable laws, with EKR primarily responsible for post-Agreement Date reports and PPI mainly responsible for pre-Agreement Date reports.",
+    "contradiction_score": 0.6824067234992981,
+    "kept": true
+  },
+  {
+    "clause_index": 81,
+    "start_char": 24334,
+    "end_char": 24599,
+    "original": "3.9 Payment of Third Party Royalties . During the Term, PPI shall be solely responsible for and pay any royalties or other amounts due to Third Parties related to the Product and shall indemnify and hold EKR harmless from any claims arising from or related thereto.",
+    "ollama_generated": "3.9 Third-Party Royalties Payment Obligation . During the Term, EKR shall have the right to, but not be obligated to, pay any royalties or other amounts due to Third Parties associated with the Product. If EKR elects to make such payments, PPI will indemnify and hold EKR harmless from any claims arising from or related thereto.\n\nExplanation: The original clause places sole responsibility for paying third-party royalties on PPI (Payment Processing, Inc.) during the term of the agreement. In the revised clause, the obligation to pay royalties shifts to EKR (Entity Knowledge Research), but they are not required to do so. If EKR chooses to make these payments, then PPI will indemnify and hold EKR harmless from any claims arising from those payments.",
+    "contradiction_score": 0.3566601276397705,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 24781,
+    "end_char": 25795,
+    "original": "3.11 Governmental Rebates . PPI shall at its own cost and expense be responsible for all discounts, rebates, or promotional allowances/incentive programs deemed to be \u201cdiscount[s] or other reduction[s] in price \u201d for purposes of 42 U.S.C. Section 1320a -7b(b)(3)(A) and may be subject to the reporting requirements under state and federal Medicaid and Medicare laws for sales of  Product prior to the Effective Date. PPI represents that it is aware of its obligations to report discounts resulting from this Agreement to the appropriate reimbursing agencies and authorities (including Medicaid and Medicare). PPI is responsible  for complying with and agrees to comply with all applicable requirements, if any, in respect of providing information on such discounts to reimbursing agencies (including Medicaid and Medicare) and other entities in accordance with Applicable Laws  and regulations for sales of Product prior to the Effective Date and for sales of any PPI labeled product subsequent the Effective Date.",
+    "modified": "3.11 Governmental Rebates. The Customer shall bear the cost and expense for all discounts, rebates, or promotional allowances/incentive programs that are considered \"discounts or other price increases\" as defined by 42 U.S.C. Section 1320a -7b(b)(3)(A). The Customer acknowledges this responsibility and understands that such discounts may be subject to the reporting requirements under state and federal Medicaid and Medicare laws for sales of the Product prior to the Effective Date. The Supplier does not represent any specific knowledge of the Customer's obligations to report price increases resulting from this Agreement to the appropriate reimbursing agencies and authorities (including Medicaid and Medicare). The Supplier is released from compliance with, and explicitly waives any obligation to comply with, all applicable requirements, if any, in respect of providing information on such price increases to reimbursing agencies (including Medicaid and Medicare) and other entities in accordance with Applicable Laws and regulations for sales of Product prior to the Effective Date and for sales of any Supplier-labeled product subsequent the Effective Date.",
+    "contradiction_score": 0.9035132527351379,
+    "kept": true
+  },
+  {
+    "clause_index": 84,
+    "start_char": 25808,
+    "end_char": 25949,
+    "original": "3.12 Chargebacks . PPI shall at its own cost and expense be responsible for all chargebacks for sales of Product prior to the Effective Date.",
+    "modified": "3.12 Chargebacks . The Client shall bear the costs and expenses related to any chargebacks arising from transactions of the Product that took place prior to the Effective Date, unless such chargeback is a direct result of PPI's negligence or breach of contract.\n\nExplanation: This revised clause shifts some of the responsibility for chargebacks (reversals of transactions) from PPI (the service provider) to the Client (the purchaser). However, the Client will not be responsible if a chargeback is due to PPI's own negligence or breach of contract. This change makes the clause more favorable towards the service provider.",
+    "contradiction_score": 0.8346353769302368,
+    "kept": true
+  },
+  {
+    "clause_index": 93,
+    "start_char": 30043,
+    "end_char": 31572,
+    "original": "(a) In consideration of and subject to EKR \u2019s payment of the Equipment Purchase Price (as defined below), effective as of the Agreement Date, PPI  hereby sells, transfers, conveys and assigns to EKR all right, title and interest in and to the equipment described on Schedule XII  (the \u201cTransferred Equipment \u201d). The -20-   Parties shall share equally the responsibility for any and all sales, transfer and conveyance taxes occasioned by the sale of the Transferred Equipment by PPI to EKR. PPI represents and warrants  that: (i) on the Agreement Date, EKR shall receive sole ownership of, and good and valid title to, the Transferred Equipment, free and clear of any liens and encumbrances, (ii) the Transferred Equipment as of the Agreement Date is in good  operating condition, normal wear and tear excepted and (iii) the Transferred Equipment constitutes all specialized equipment that is used in the manufacture of Product by PPI as of the Agreement Date. For purposes of clarity, the Transferred  Equipment does not include any standard, non -specialized equipment generally found in manufacturing facilities or available to manufacturers of products similar to the Product (e.g., refrigerators, freezers, safes, incubators, stability chambers,  clean utilities, supportive utilities, temperature control units and other supportive equipment). On the Agreement Date, PPI shall execute and deliver to EKR a Bill of Sale with respect to the Transferred Equipment substantially in the form attached  hereto as Exhibit 3.20(a) .",
+    "ollama_generated": "(a) In consideration of EKR's payment of the Equipment Purchase Price (as defined below), effective as of the Agreement Date, PPI grants to EKR the exclusive right, title, and interest in and to the equipment described on Schedule XII (the \"Transferred Equipment\"). The responsibility for any and all sales, transfer, and conveyance taxes arising from the transaction between PPI and EKR regarding the Transferred Equipment shall be borne solely by EKR.\n\nPPI represents and warrants that: (i) on the Agreement Date, EKR will receive clear title to the Transferred Equipment, free and unencumbered by any liens or encumbrances, (ii) as of the Agreement Date, the Transferred Equipment will be in a serviceable condition, with reasonable wear and tear expected, and (iii) the Transferred Equipment constitutes the specialized equipment essential for the manufacturing process of Product by PPI as of the Agreement Date. For the sake of clarity, the Transferred Equipment does not encompass any standard or non-specialized equipment typically found in manufacturing facilities or commonly utilized by manufacturers producing similar products (e.g., refrigerators, freezers, safes, incubators, stability chambers, clean utilities, supportive utilities, temperature control units, and other support equipment).\n\nOn the Agreement Date, PPI shall receive from EKR a Bill of Sale pertaining to the Transferred Equipment, substantially in the form attached hereto as Exhibit 3.20(a), upon execution and delivery by EKR.",
+    "contradiction_score": 0.2849884331226349,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 31727,
+    "end_char": 32106,
+    "original": "(i) within five (5) days after the Agreement Date, EKR will pay PPI [**] Dollars ($[**]) of the Equipment Purchase Price in cash; and (ii) concurrently with the execution of this Agreement, EKR will issue to PPI a promissory note in principal amount of [**] Dollars ($[**]), such note to  be substantially in the form attached hereto as Exhibit 3.20(b)  (the \u201cPromissory Note \u201d).",
+    "ollama_generated": "(i) EKR is granted a grace period of five (5) days following the Agreement Date, during which it shall have the option to make an initial payment of PPI's chosen amount in cash towards the Equipment Purchase Price. If no such payment is made within this period, the payment obligation will be deemed satisfied with EKR's delivery of a fully executed Promissory Note.\n   (ii) Concurrently with the execution of this Agreement, PPI shall receive from EKR a promissory note in principal amount of [**] Dollars ($[**]), as per Exhibit 3.20(b), referred to herein as the \"Promissory Note.\" The execution and issuance of this Promissory Note by EKR shall be contingent upon PPI's decision to forgo immediate cash payment under clause (i).",
+    "contradiction_score": 0.026904912665486336,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 32989,
+    "end_char": 33541,
+    "original": "(d) At any time between the Agreement Date and July 1, 2015, EKR shall have the right, exercisable upon sixty (60) days prior written notice  to PPI, to terminate the Lease Term and sell the Transferred Equipment back to PPI, subject to payment by PPI to EKR within five (5) days of such notice of $[**] in cash, which if exercised shall result in (i) an offset against the unpaid  balance of principal and interest under the Promissory Note pursuant to Section 3.20(f)  below; and (ii) the termination of the Step -in Right described in Section 17.5 .",
+    "ollama_generated": "(d) Commencing from the Agreement Date and extending until July 1, 2015, PPI grants EKR an option, which may be exercised at EKR's discretion following a sixty (60)-day written notice to PPI, to prematurely terminate the Lease Term. In such event, if exercised, EKR has the right to offer the Transferred Equipment back to PPI for purchase. The payment obligation for this transaction will fall upon PPI, who must make full payment within five (5) days of the notice being served, in an amount of $[**] in cash.\n\nIn the event that this option is exercised, (i) the outstanding balance due under the Promissory Note pursuant to Section 3.20(f) below will be reduced by this payment, and (ii) the Step-in Right described in Section 17.5 shall be immediately relinquished by PPI.",
+    "contradiction_score": 0.005244028754532337,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 33970,
+    "end_char": 34802,
+    "original": "(f) If, upon the expiration or earlier termination of the Lease Term (except as provided in Section 3.20(e)  above), the aggregate amount of repayments and Royalty Offsets (as defined below) earned by EKR pursuant to Section 6.3  below have not equaled or exceeded the Advanced Royalty Payment (as defined below), then EKR shall have the right, at its option, to offset against  the unpaid balance of principal and interest under the Promissory Note, by an amount equal to the -22-   then-current balance of the Advanced Royalty Payment that has not yet been recouped by EKR through repayments and Royalty Offsets pursuant to Section 6.3  below (the \u201cRemaining  Balance\u201d), in which event PPI \u2019s obligations under Section 6.3  below with respect to repayment of the Advanced Royalty Payment shall be deemed to have been paid in full.",
+    "ollama_generated": "(f) In the event that, upon the conclusion or premature termination of the Lease Term (with the exception outlined in Section 3.20(e) above), the cumulative accrued earnings from repayments and Royalty Offsets (as defined herein) by EKR, as per Section 6.3 below, fall short of matching or surpassing the Outstanding Advanced Royalty Payment (as defined in this section), EKR shall be entitled, at its discretion, to set off against the outstanding principal and interest due under the Promissory Note, an amount equivalent to the -22- Remaining Balance of the Outstanding Advanced Royalty Payment that remains unrecouped by EKR through repayments and Royalty Offsets according to Section 6.3 below (the \"Remaining Amount\"). In such a case, PPI's responsibility towards the repayment of the Outstanding Advanced Royalty Payment, as outlined in Section 6.3, will be considered fulfilled.",
+    "contradiction_score": 0.011890075169503689,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 37671,
+    "end_char": 38459,
+    "original": "(l) Upon termination of the Lease Term, unless PPI has repurchased the Transferred Equipment, EKR will, at PPI \u2019s request, use commercially  reasonable efforts to (i) supply the Product and (ii) supply placebo for [**], to PPI \u2019s other licensees and collaborators outside the Territory, excluding PPI and any of its Affiliates (the \u201cOther PPI Customers \u201d), in each case in accordance with the commercially reasonable requirements of any existing agreements between PPI and such Other PPI Customers, subject to EKR \u2019s receipt of payment required under such agreements for supplying such Products and/or  other products. PPI will use commercially reasonable efforts to cooperate with EKR so as to enable EKR to supply Product and, if applicable, other products, to such Other PPI Customers.",
+    "ollama_generated": "(m) Upon expiration of the Lease Term, if PPI has not opted to repurchase the Transferred Equipment, it shall be EKR's responsibility, upon PPI's reasonable request, to make a good faith effort to provide the Product and placebo for [**], not only to PPI but also to any third parties (hereinafter \"Third-Party Recipients\") outside the Territory, excluding PPI and its Affiliates (the \"PPI Entities\"), provided that EKR receives payment in accordance with any existing agreements with such Third-Party Recipients for supplying such Products and/or other products. In this scenario, PPI shall extend reasonable cooperation to facilitate EKR's ability to supply the Product and, if necessary, additional products to these Third-Party Recipients.",
+    "contradiction_score": 0.40229374170303345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 40793,
+    "end_char": 41042,
+    "original": "-25-  4.3 Submission of Promotional Materials . Pursuant to Section 4.1  above, EKR shall at its own cost and expense submit and obtain the approvals of Regulatory Authorities in the Territory of Promotional Materials as required by Applicable Laws;",
+    "ollama_generated": "4.3 Submission of Promotional Materials . It is the responsibility of EKR, at their own cost and expense, to submit the necessary promotional materials for approval to the Regulatory Authorities within the Territory of Promotional Materials, as required by Applicable Laws; however, it is understood that EKR shall not be liable for any delays or denials in obtaining such approvals.",
+    "contradiction_score": 0.0011970717459917068,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 43327,
+    "end_char": 43600,
+    "original": "4.8 Inventory and Promotional Materials . EKR shall maintain a sufficient inventory of Product and support material to reasonably fulfill the requirements of its customers in the Territory provided that, subject to Section 17.5 , PPI shall comply with the Supply Agreement;",
+    "modified": "4.8 Inventory and Promotional Materials: PPI is responsible for maintaining an adequate inventory of the Product and supportive materials to meet the reasonable demands of its customers within the Territory, given that EKR will adhere to the provisions outlined in Section 17.5 of the Supply Agreement, where applicable. (In this version, PPI has a slightly stronger obligation to maintain the inventory, while EKR's compliance with the Supply Agreement is conditional upon Section 17.5.)",
+    "contradiction_score": 0.8590748310089111,
+    "kept": true
+  },
+  {
+    "clause_index": 115,
+    "start_char": 43600,
+    "end_char": 43753,
+    "original": "4.9 Records . EKR shall maintain adequate records concerning the sale of the Product as required by any applicable Regulatory Authority in the Territory;",
+    "modified": "4.9 Record Keeping Obligations: The Client (EKR) is granted discretion to determine, at their sole discretion, the adequacy of records related to the sale of the Product within the Territory, provided such determination complies with any minimum standards as may be set forth by relevant Regulatory Authorities. Any deviation from required record keeping practices shall not absolve EKR from compliance with applicable laws and regulations in the Territory.",
+    "contradiction_score": 0.8510961532592773,
+    "kept": true
+  },
+  {
+    "clause_index": 117,
+    "start_char": 44651,
+    "end_char": 45740,
+    "original": "4.11 Adverse Events . Each Party shall promptly provide the other Party with all information in its possession or otherwise coming to its attention  relating to the occurrence of a serious adverse event or an adverse event (in any jurisdiction throughout the world) in connection with the Product, and promptly forward to such other Party information concerning any and all charges, complaints or  claims reportable to any Regulatory Authority relating to the Product that may come to the first Party \u2019s attention, and -27-   otherwise comply in all respects with the adverse drug event reporting and recall procedures set out or referred to in the Supply Agreement from time to time. EKR shall be responsible, to the  extent required by Applicable Law, to report all charges, complaints or claims reportable to any Regulatory Authority outside of the United States relating to the Product, as well as any such charges, complaints or claims reportable to any  Regulatory Authority inside the United States to the extent such charges, complaints or claims are made after the Agreement Date.",
+    "ollama_generated": "4.11 Reporting Obligations: Each Party shall exercise due diligence in gathering and disclosing all relevant information regarding serious adverse events or adverse events (in any jurisdiction worldwide) associated with the Product, to the other Party, within a reasonable timeframe. This includes, but is not limited to, forwarding details about any charges, complaints, or claims that need to be reported to Regulatory Authorities, whenever such information comes to the first Party's attention. The Parties shall abide by the adverse drug event reporting and recall procedures outlined or referred to in the Supply Agreement, as may be updated from time to time. EKR is only responsible for reporting charges, complaints, or claims reportable to any Regulatory Authority outside of the United States relating to the Product, if and when such obligation is mandated by Applicable Law. Any charges, complaints, or claims reportable to Regulatory Authorities within the United States, made after the Agreement Date, shall be the sole responsibility of the Party receiving such information.\n\nIn this version of the clause, the parties have a \"due diligence\" standard for providing adverse event information instead of a prompt requirement. The responsibility for reporting adverse events outside the U.S. remains with EKR as before, but the party receiving information about adverse events within the U.S., made after the Agreement Date, now bears the responsibility for reporting those to the relevant Regulatory Authority.",
+    "contradiction_score": 0.024105073884129524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 45740,
+    "end_char": 46343,
+    "original": "4.12 Permits . EKR shall obtain and maintain all necessary licenses, permits, records and authorizations required by Applicable Laws as holder of the Transferred NDA after the Agreement Date and in order to exercise the Distribution Rights and observe and comply with all Applicable Laws, ordinances, rules and regulations including, but not limited to those of the applicable Regulatory  Authorities in the exercise of the Distribution Rights save insofar as PPI is required to obtain the same as holder of the Marketing Authorizations prior to the Agreement Date, or under the terms of this Agreement;",
+    "ollama_generated": "4.12 Licenses and Permits. PPI shall be responsible for obtaining and maintaining all necessary licenses, permits, records, and authorizations required by Applicable Laws as holder of the Marketing Authorizations prior to the Agreement Date. PPI shall only be obligated to observe and comply with Applicable Laws, ordinances, rules, and regulations in connection with the exercise of the Distribution Rights if such compliance is not already required under its marketing authorizations or by terms of this Agreement. In all other cases, EKR shall be solely responsible for ensuring compliance with all relevant legal requirements in the exercise of the Distribution Rights.",
+    "contradiction_score": 0.32996106147766113,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 46992,
+    "end_char": 47314,
+    "original": "(b) from time to time consult with PPI \u2019s representatives for the purpose of assessing the state of the market in each country of the Territory and  permit representatives of PPI, on reasonable prior notice, to inspect any premises or documents used in connection with the marketing, distribution and sale of the Products;",
+    "ollama_generated": "(b) At the discretion of Service Provider, consult occasionally with PPI's representatives for the purpose of gaining insights about market conditions within each jurisdiction of the Territory. Upon reasonable notice, grant PPI's representatives permission to inspect any relevant premises or documents associated with the marketing, distribution, and sale of the Products, subject to Service Provider's right to deny access if it deems such inspection to be prejudicial to its interests.",
+    "contradiction_score": 0.23528744280338287,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 48508,
+    "end_char": 48835,
+    "original": "4.16 Non-Compete . EKR shall not, during [**], market, distribute or sell a Competing Product in the Territory unless during such time an A/B rated  generic product of the Product(s) is launched in such country of the Territory or in the event this Agreement is terminated or EKR exercises its rights under Section 17.4 hereof.",
+    "ollama_generated": "4.16 Non-Compete Modification: EKR may, at its discretion and without prior notice, market, distribute, or sell a Competing Product in the Territory if an A/B rated generic product of the Product(s) is not currently available in such country within the Territory. However, this right shall cease upon the launch of an A/B rated generic product or upon termination of this Agreement, or EKR's exercise of its rights under Section 17.4 herein.\n\nThis modification allows for more flexibility by shifting the obligation from EKR not to sell a Competing Product, to EKR having the right to do so only in specific circumstances.",
+    "contradiction_score": 0.005759222432971001,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 48835,
+    "end_char": 49143,
+    "original": "4.17 PPI as Exclusive Provider . During the Term, except if PPI is unable to supply Products (including, but not limited to, in connection with EKR\u2019s exercise of its rights under Section 17.5  below) or as provided in the Supply Agreement, EKR shall purchase all of its requirements for the Product from PPI.",
+    "ollama_generated": "4.17 PPI as Preferred Provider: During the Term, unless PPI is unable to fulfill its obligations (including, but not exclusively, due to circumstances beyond its control or EKR's exercise of rights under Section 17.5 below), EKR shall endeavor to source all its requirements for the Product from PPI. However, EKR reserves the right to procure products from alternative suppliers in case PPI is unable to meet its obligations or if such action is necessary for EKR's business interests. The terms governing these additional supplies will be governed by the Supply Agreement.",
+    "contradiction_score": 0.20924466848373413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 49143,
+    "end_char": 49698,
+    "original": "4.18 Packaging . During the Term, EKR shall not use in relation to the Product any packaging, labeling and Product inserts, nor any advertising literature that has not been -29-   approved by PPI in writing with respect to Trademark usage (such approval not to be unreasonably withheld, conditioned or delayed) or deemed approved pursuant to Section 4.10 , to the  extent such materials include any Trademark. EKR shall be responsible for insuring that any packaging, labeling and Product inserts, and advertising literature complies with Applicable Laws.",
+    "ollama_generated": "4.18 Packaging and Advertising Materials: During the Term, PPI shall not unreasonably withhold, condition, or delay its approval of any packaging, labeling, Product inserts, or advertising literature related to the Product that EKR proposes to use, provided such materials adhere to Section 4.10 regarding Trademark usage. The responsibility for ensuring compliance with Applicable Laws in all packaging, labeling, Product inserts, and advertising literature shall rest solely with EKR. Any materials not explicitly approved by PPI or deemed approved under Section 4.10 will be considered non-compliant.",
+    "contradiction_score": 0.25758057832717896,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 134,
+    "start_char": 51368,
+    "end_char": 52119,
+    "original": "-30-  5.2 Purpose . The purpose of the Committee is to provide a forum for the Parties to share information and knowledge on the on -going Commercialization of the Product including, but not limited to, monitoring progress on clinical studies, reviewing clinical trial programs, discussing the appropriate regulatory strategy for the Products in the Territory, considering proposed  marketing and promotional plans, reviewing competitor activity and discussing any regulatory, technical, quality assurance or safety issues in relation to the Product. The Committee shall conduct its discussions in good faith with a view to  operating to the mutual benefit of the Parties and in furtherance of the successful development and marketing of the Products.",
+    "ollama_generated": "5.2 Objective. The primary objective of this Committee is to facilitate open dialogue among the Parties regarding the progression of the Product Commercialization, covering areas such as overseeing clinical trials, assessing trial programs, determining suitable regulatory strategies for Products within the Territory, evaluating marketing and promotional proposals, scrutinizing competitor activities, and addressing any regulatory, technical, quality assurance, or safety concerns associated with the Product. This Committee's deliberations will be guided by a commitment to act in good faith, prioritizing actions that may potentially benefit one Party without compromising the other's interests, aiming for a harmonious collaboration that fosters the successful development and market expansion of the Products. However, it is important to note that each Party retains its autonomy and final decision-making authority regarding all matters pertaining to the Product.",
+    "contradiction_score": 0.011943843215703964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 52119,
+    "end_char": 52396,
+    "original": "5.3 Meetings . The Committee shall meet as often as the Committee Members may determine, but in any event not less than 2 times per Calendar Year.  The Committee may invite individuals with special skills to attend such meetings where considered to be relevant and appropriate.",
+    "ollama_generated": "5.3 Meetings . The Committee's meetings shall be held at the discretion of its Members, with a minimum of two gatherings per Calendar Year serving as a guideline rather than a binding obligation. The Committee retains the right to invite individuals with special skills to contribute to these meetings, though their attendance is not guaranteed and is subject to the approval of the majority of the Committee Members.",
+    "contradiction_score": 0.4596855342388153,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 56181,
+    "end_char": 56217,
+    "original": "6.3 Advanced Royalty Payment to PPI.",
+    "ollama_generated": "6.3 PPI's Right to Receive Accelerated Royalties:\n\nIn this Agreement, PPI shall have the right, at its sole discretion, to request and receive accelerated royalty payments from the Licensee, subject to the conditions as outlined herein. The Licensee shall make such payments within a reasonable timeframe upon PPI's written request, failing which PPI may, in its discretion, seek other remedies provided by law or this Agreement.",
+    "contradiction_score": 0.03903115540742874,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 149,
+    "start_char": 56484,
+    "end_char": 56743,
+    "original": "(b) Offsets and/or repayment of the Advanced Royalty Payment shall commence on [**] and shall continue, unless sooner paid, through [**] (the  \u201cRoyalty Offset Period \u201d) and such offsets will be taken by EKR (and such repayment will be made by PPI) as follows:",
+    "ollama_generated": "(b) The commencement of any required offset or repayment of the Advanced Royalty Payment will occur beyond [**] and will persist, unless settled prior, until [**] (hereinafter referred to as the \"Offset Repayment Period\"). Any offsets shall be applied by PPI (and any repayments shall be made by EKR) in accordance with the following schedule:\n\nThis rewritten clause shifts the responsibility of when the offset or repayment begins from being immediately at a specific date to after that date, and continues until a later specified date. Additionally, it changes the wording to make it more readable and professional.",
+    "contradiction_score": 0.001454452401958406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 57182,
+    "end_char": 57770,
+    "original": "-33-   (ii) by payment to EKR of [**] percent ([**]%) of any purchase price payments, license fees, other access fees or royalties received by PPI or any of its  Affiliates after the Agreement Date in connection with the license (to the extent permitted hereunder) or transfer of any rights to the Product (and/or any underlying intellectual property rights) in the Field in the Territory to a Third Party  (other than pursuant to any transaction described in Section 6.3 (b)(iii)  below), which payment shall be made by PPI to EKR within ten (10) days of PPI \u2019s receipt of such payments;",
+    "ollama_generated": "-33-   (ii) Upon the receipt by PPI or any of its Affiliates, post the Agreement Date, of any purchase price payments, license fees, other access fees or royalties in connection with the license (to the extent permitted hereunder) or transfer of any rights to the Product (and/or any underlying intellectual property rights) in the Field in the Territory to a Third Party (other than pursuant to any transaction described in Section 6.3 (b)(iii) below), EKR shall be entitled to receive [**] percent ([**]%) of such payments, with the obligation on PPI to remit such payment to EKR within ten (10) days following EKR's request for such payment.",
+    "contradiction_score": 0.002986761974170804,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 169,
+    "start_char": 63793,
+    "end_char": 64893,
+    "original": "-37-  6.10 Withholdings . In the event that a Party is required under the laws of a country or other political subdivision of competent jurisdiction to withhold any tax to the tax or revenue authorities in such jurisdiction in connection with any payment to the other Party, such amount shall be deducted from the payment to be made by such withholding Party; provided that the withholding Party shall  take reasonable and lawful actions to avoid and minimize such withholding and promptly notify the other Party so that the other Party may take lawful actions to avoid and minimize such withholding. The withholding Party shall promptly furnish the  other Party with copies of any tax certificate or other documentation evidencing such withholding as necessary to satisfy the requirements of the appropriate regulatory authority related to any application by such other Party for foreign tax credit  for such payment. Each Party agrees to reasonably cooperate with the other Party in claiming exemptions from such deductions or withholdings under any agreement or treaty from time to time in effect.",
+    "ollama_generated": "6.10 Tax Withholding Obligations: In case either Party is subject to tax withholding obligations by the laws of a relevant jurisdiction in relation to payments made to the other, such withholdings shall be executed as required. However, each Party will make reasonable and lawful efforts to minimize or eliminate these withholdings and shall inform the other promptly. The notifying Party will provide the other with any necessary tax certificates or documentation for compliance with the regulatory authority's requirements regarding foreign tax credit applications for such payments. Both Parties agree to collaborate in seeking exemptions from such deductions or withholdings under applicable agreements or treaties, when feasible and within their discretion. The onus of obtaining these exemptions lies primarily with each Party, not the agreement itself.",
+    "contradiction_score": 0.11390133202075958,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 67766,
+    "end_char": 67989,
+    "original": "8.1 Limitation of License . Except as set out in this Agreement, all right, title and interest in the PPI IP or Trademarks shall belong to PPI and EKR shall not have any right, title or interest in the PPI IP or Trademarks.",
+    "ollama_generated": "8.1 Scope of License: Beyond what's specified within this Agreement, all ownership rights, including but not limited to the PPI Intellectual Property (PPI IP) and Trademarks, remain exclusively with PPI. EKR hereby acknowledges that it holds no right, title, or interest in the aforementioned intellectual properties.\n\nThis revised clause shifts the ownership of the intellectual property and trademarks from both parties to solely PPI, making it clear that EKR has no rights beyond those explicitly granted within the Agreement.",
+    "contradiction_score": 0.025910040363669395,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 179,
+    "start_char": 67989,
+    "end_char": 68332,
+    "original": "-39-  8.2 Trademark Standards . EKR shall use the Trademarks in a manner which conforms to the reasonable directions and standards notified to it by PPI  from time to time and not do anything which could, in the PPI \u2019s reasonable opinion, bring the Trademarks or PPI into disrepute or otherwise damage the goodwill attaching to the Trademarks.",
+    "ollama_generated": "8.2. Trademark Usage - PPI retains the right to provide EKR with guidelines and standards regarding the utilization of the Trademarks at any given time. It is incumbent upon EKR to comply with these guidelines, but EKR shall not be held liable for any actions that may inadvertently bring the Trademarks or PPI into disrepute or potentially damage the goodwill associated with the Trademarks, provided such actions were unintentional and not undertaken with the explicit purpose of harming the reputation of the Trademarks or PPI.",
+    "contradiction_score": 0.09916204959154129,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 180,
+    "start_char": 68332,
+    "end_char": 68682,
+    "original": "8.3 Maintenance of Trademarks . PPI shall, at its own cost, take all steps required to maintain those registrations for the Trademarks subsisting at the Effective Date, and prosecute any applications subsisting at the Effective Date for registration of the Trademarks through to grant (including oppositions thereto) in each country of the Territory.",
+    "modified": "8.3 Trademark Maintenance Obligations . PPI shall have the option, but not the obligation, to maintain those registrations for the Trademarks subsisting at the Effective Date, and may, at its discretion, pursue any applications subsisting at the Effective Date for registration of the Trademarks through to grant (including oppositions thereto) in each country of the Territory. The parties acknowledge that PPI's decision not to maintain or register the Trademarks shall not be deemed a breach of this Agreement and shall not result in any liability or compensation payable to the other party.",
+    "contradiction_score": 0.9174772500991821,
+    "kept": true
+  },
+  {
+    "clause_index": 190,
+    "start_char": 71925,
+    "end_char": 72047,
+    "original": "-41-  9.2 Representations and Warranties of PPI . PPI hereby represents and warrants to EKR as of the Effective Date that:",
+    "modified": "Clause:\n-41-  9.2 Representation and Warranties by EKR from PPI. EKR acknowledges, as of the Effective Date, that PPI does not represent or warrant to EKR any specific matters, but instead, PPI disclaims any express or implied representations or warranties regarding its services or deliverables, including but not limited to their quality, suitability, fitness for a particular purpose, or non-infringement. Any reliance on such aspects shall be at the sole risk of EKR.",
+    "contradiction_score": 0.987745463848114,
+    "kept": true
+  },
+  {
+    "clause_index": 195,
+    "start_char": 72998,
+    "end_char": 73448,
+    "original": "(d) Distribution Rights and other Rights . That neither the Products, the exercise of EKR \u2019s Distribution Rights and other rights granted  under this Agreement or the manufacture of the Products as contemplated by this Agreement or the Supply Agreement do not and will not infringe or conflict with any Third Party intellectual property rights and EKR will not incur any obligation to any  Third Party by the exercise of the rights granted hereunder;",
+    "ollama_generated": "(d) Intellectual Property Assurances. It is understood that neither the Products, nor the exercise of EKR's Distribution Rights and other rights as outlined in this Agreement, or the manufacturing processes as specified by this Agreement or the Supply Agreement will directly or indirectly violate, conflict with, or encroach upon any Third Party's intellectual property rights. Furthermore, EKR shall not assume any liabilities or obligations to any Third Party arising from the exercise of the rights granted within this agreement.",
+    "contradiction_score": 0.013099643401801586,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 198,
+    "start_char": 73939,
+    "end_char": 74187,
+    "original": "(g) Adverse Events . To its knowledge and belief all information, data and Third Party notices in relation to adverse events serious adverse  events or recalls with respect to the Product and of which PPI is aware have been disclosed by PPI to EKR;",
+    "modified": "(g) Adverse Events . To the best of its knowledge and belief, any information, data, or Third Party notices regarding adverse events, serious adverse events, or recalls related to the Product that have come to EKR's attention, PPI is unaware of.\n\nThis change inverts the condition and shifts the responsibility, implying that EKR will notify PPI about any adverse events, serious adverse events, or recalls related to the Product, while PPI will only be obligated to disclose such information if it is already aware of it.",
+    "contradiction_score": 0.989288330078125,
+    "kept": true
+  },
+  {
+    "clause_index": 217,
+    "start_char": 80295,
+    "end_char": 80379,
+    "original": "(e) Arise under the ICS Agreement after the Effective Date for Products sold by EKR.",
+    "ollama_generated": "(e) Contingent upon the ICS Agreement, Products supplied by EKR may give rise to claims or disputes post-Effective Date.",
+    "contradiction_score": 0.0014102344866842031,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 220,
+    "start_char": 81784,
+    "end_char": 81873,
+    "original": "10.4 Assumption of Defense . Should the indemnifying Party assume conduct of the defense:",
+    "modified": "10.4 Shift of Defense Obligation. In case the indemnified Party elects to manage the defense:\n\nExplanation: The original clause places an obligation on the \"indemnifying Party\" (the one responsible for indemnity or compensation) to take over the defense in certain circumstances. The rewritten clause shifts this obligation to the \"indemnified Party,\" meaning that it is now up to the party being compensated to decide whether or not to manage the defense if they choose to do so. This change weakens the original obligation by making it optional for the indemnified Party, rather than an automatic duty as in the original clause.",
+    "contradiction_score": 0.5504729747772217,
+    "kept": true
+  },
+  {
+    "clause_index": 221,
+    "start_char": 81873,
+    "end_char": 82670,
+    "original": "(a) the indemnified Party may retain separate legal advisors in the event that it reasonably concludes that it may have defenses available to it which  are additional to, different from or inconsistent with those available to the indemnifying Party, in which case the indemnifying Party shall not be liable for the indemnified Party \u2019s reasonable costs and expenses so incurred; and (b) the indemnifying Party will not, except with the consent of the indemnified Party (such consent not be unreasonably withheld or delayed), consent to  the entry of any judgment or enter into any settlement (other than for the payment of damages by the indemnifying Party, which includes as an unconditional term a release from the claimant to the indemnified Party from all liability in respect of  all claims).",
+    "ollama_generated": "(a) The indemnifying Party reserves the right, at its sole discretion and without seeking approval from the indemnified Party, to engage separate legal counsel if it deems it necessary to defend against any claims or potential claims, regardless of whether these defenses align with, conflict with, or supplement those available to the indemnified Party. In such cases, the indemnified Party shall bear its own reasonable costs and expenses associated with this representation.\n\n   (b) The indemnified Party grants the indemnifying Party the power, without requiring prior consent, to settle any claim or dispute, except for instances where the settlement involves the payment of damages by the indemnifying Party, which shall include an unconditional release from the claimant that absolves the indemnified Party entirely from all liability related to all claims. This clause does not prevent the indemnifying Party from seeking the indemnified Party's consent for a settlement, but any unreasonable withholding or delay in providing such consent shall not impede the indemnifying Party's ability to effectuate a valid settlement.",
+    "contradiction_score": 0.29827266931533813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 85164,
+    "end_char": 85916,
+    "original": "10.9 EKR Liability Limitation . Any and all liability of EKR to PPI howsoever arising in respect of this Agreement, the Transition Services and Inventory Agreement or the Supply Agreement and their performance in contract tort or otherwise shall be limited (except for death or personal injury caused by the negligence of EKR or its employees while acting in the course of their employment,  and except in relation to any specified payment, lump sum, milestone or royalty payment unpaid) to [**] US Dollars ($[**]); provided however that such limitation shall not apply to the extent that PPI or any PPI Indemnified Party is required to pay  in excess of such amount to a third party in respect of a final judgment or order obtained by the third party.",
+    "ollama_generated": "10.9 Limitation of EKR's Liability. Under no circumstances shall the total liability of EKR towards PPI, arising from this Agreement, the Transition Services and Inventory Agreement, or the Supply Agreement, whether in contract, tort, or otherwise (excluding liabilities for death or personal injury resulting from EKR's negligence or that of its employees during their employment, as well as any unpaid specified payments, lump sums, milestones, or royalty payments), exceed $[**] US Dollars. This limitation shall not be applicable if PPI or any Indemnified Party of PPI is mandated to pay more than such amount to a third party following a final judgment or order secured by the third party. However, it is noted that this limitation will not apply in instances where PPI or any Indemnified Party is required to compensate a third party beyond the stated limit due to their own obligations under this Agreement.",
+    "contradiction_score": 0.018269162625074387,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 242,
+    "start_char": 91758,
+    "end_char": 92397,
+    "original": "14.2 Infringement Action . Within a reasonable time of becoming aware of such Third Party Infringement, the Parties shall consult with each other  and their respective counsel to develop a strategy for addressing the Third Party Infringement. In the event the Parties agree to the legal action to stop the Third Party Infringement, they shall agree upon legal counsel to prosecute such action and  unless the Parties otherwise agree, PPI shall prosecute the action at its cost and expense. EKR shall provide all such assistance at PPI \u2019s cost and expense as PPI may reasonably require in the prosecution or defense of any such proceedings.",
+    "ollama_generated": "14.2 Countermeasures Against Third-Party Infringements: Upon discovering any infringement by a third party, each Party reserves the right to independently determine whether to pursue legal action against the infringer. If either Party elects to proceed with legal action, they shall consult with each other regarding strategy; however, no agreement on legal counsel is binding unless explicitly stated in writing. The cost and expenses associated with such legal proceedings will be borne solely by the initiating Party, unless a different arrangement is mutually agreed upon in writing. In offering assistance to the initiating Party in the prosecution or defense of such proceedings, the non-initiating Party shall not incur any costs or expenses.",
+    "contradiction_score": 0.051915012300014496,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 92397,
+    "end_char": 92926,
+    "original": "14.3 Awards . Any damages, award or settlement monies actually received by PPI in respect to such infringement and paid in compensation for sales  lost by EKR shall be deemed Net Sales and be paid to EKR, subject to PPI deducting its costs and expenses in pursuing such infringement from such damages, award or settlement actually received. Any damages, award or settlement monies actually  received by PPI in respect to such infringement and not paid in compensation for sales lost by EKR shall be shared equally by the Parties.",
+    "ollama_generated": "14.3 Compensation for Infringement: In the event that EKR experiences financial losses due to an alleged infringement, any monetary recovery or settlement PPI receives in relation to such infringement shall initially be retained by PPI. However, EKR shall have the right to reimburse itself from these funds for its incurred costs and expenses associated with pursuing the infringement claim. Any remaining funds not used for reimbursement will be evenly distributed between the Parties.",
+    "contradiction_score": 0.48170703649520874,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 245,
+    "start_char": 94078,
+    "end_char": 94250,
+    "original": "14.5 Cooperation . Each Party shall keep the other Party reasonably informed and consult with the other Party with regard to any infringement action under this Article 14 .",
+    "ollama_generated": "14.5 Cooperation . Each Party shall have the discretion to share information regarding potential infringements of this Agreement, and shall only consult with the other Party at their sole discretion and upon request, not being obligated to do so.",
+    "contradiction_score": 0.079050712287426,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 246,
+    "start_char": 94250,
+    "end_char": 95103,
+    "original": "15. Term 15.1 This Agreement shall commence on the Effective Date and, subject to earlier termination in accordance with the provisions of Section 16 , shall continue in force for a period being the longer of fifteen (15) years from first Commercial Launch of the Product in the Territory or until the expiration of the last valid claim in the PPI Patents covering the Product in any country of  the Territory (the \u201cInitial Term \u201d). Thereafter the term of this Agreement shall automatically renew for consecutive periods of two (2) years each. Notwithstanding the foregoing, this Agreement can be terminated by EKR at the  end of the Initial Term by delivery of written notice to PPI at least one hundred eighty (180) days prior to the end of the Initial Term or any renewal term. As used herein \u201cTerm\u201d refers to the Initial Term and any renewal  terms.",
+    "ollama_generated": "15. Term 15.1 This Agreement will commence on the Effective Date, but may be terminated by either party at any time without cause, as provided in Section 16. The duration of this Agreement, initially set for fifteen (15) years from the first Commercial Launch of the Product in the Territory or until the expiration of the last valid claim in the PPI Patents covering the Product in any country of the Territory (the \u201cInitial Term\u201d), will not be automatically renewed unless written notice is provided by either party, at least one hundred eighty (180) days prior to the end of the Initial Term or any subsequent period, indicating their intent to continue this Agreement for additional consecutive periods of two (2) years each. In such a case, the term of this Agreement will be extended as specified. Notwithstanding the above, either party has the right to terminate this Agreement at the end of the Initial Term by providing written notice to the other party. As used herein, \"Term\" refers to the period during which this Agreement is in effect, whether the Initial Term or any subsequent periods for which it has been extended.",
+    "contradiction_score": 0.13733546435832977,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 250,
+    "start_char": 98504,
+    "end_char": 98517,
+    "original": "(a) Reserved.",
+    "ollama_generated": "(a) Grantee acknowledges and agrees that the granted rights are limited and non-exclusive, subject to our discretion for withdrawal or modification without prior notice.",
+    "contradiction_score": 0.07176663726568222,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 252,
+    "start_char": 98841,
+    "end_char": 99495,
+    "original": "(c) In the event PPI has terminated the Supply Agreement pursuant to Section 10.2  thereof and EKR or its designee is manufacturing Products  pursuant to Section 11.5  of the Supply Agreement, PPI shall have the right to terminate such rights of manufacture and this Agreement upon thirty (30) -55-   days prior, written notice to EKR only in the event Royalties and Additional Royalties paid hereunder in any one year period following the date of such termination are less than $[**], unless the  difference between $[**] and the actual Royalties and Additional Royalties paid by EKR is paid to PPI within thirty (30) days of notice of such termination.",
+    "ollama_generated": "(c) If the Supply Agreement has been terminated by PPI in accordance with Section 10.2, and if EKR or its designated party continues manufacturing Products as per Section 11.5 of the agreement, PPI reserves the prerogative to revoke these manufacturing rights and this entire contract effective thirty (30) days following a written notification to EKR. This termination action can only be avoided if the royalties and additional royalties paid by EKR in any given year after the termination date exceed $[**]. In case the actual royalties and additional royalties paid by EKR fall short of this amount, EKR has thirty (30) days from the receipt of such notice to make up the difference between $[**] and the actual royalties and additional royalties paid. Failure to do so will result in the immediate termination of these rights.",
+    "contradiction_score": 0.1814766526222229,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 258,
+    "start_char": 100628,
+    "end_char": 100923,
+    "original": "(a) the licenses and rights granted and appointments made under Sections 2.1 , 2.2 and 2.3 shall terminate and EKR shall (and shall  procure that its Affiliates, sub -distributors and sub -licensees shall) cease all activities licensed or appointed hereunder, subject to Sections 17.2  and 17.3;",
+    "modified": "(a) The licenses, rights, and appointments established under Sections 2.1, 2.2, and 2.3 shall continue unless terminated by either party, at which point EKR and its Affiliates, sub-distributors, and sub-licensees shall have the discretion to wind down activities related to these licenses or appointments over a reasonable period, provided that any such termination is in compliance with Sections 17.2 and 17.3.",
+    "contradiction_score": 0.9954972267150879,
+    "kept": true
+  },
+  {
+    "clause_index": 261,
+    "start_char": 101688,
+    "end_char": 102159,
+    "original": "(d) EKR shall assign to PPI free of charge any domain name registrations it has registered pursuant to Section 8.5 ; and (e) Except in the event of termination of this Agreement by EKR pursuant to Section 16.1(a) , EKR shall promptly transfer to PPI or its  nominee, each and every Marketing Authorization (to the extent not held by PPI) relating to the Product, together with all communications with the relevant Regulatory Authorities, and all notes and record thereof.",
+    "modified": "(d') Upon termination of this Agreement by PPI pursuant to Section 16.1(a), or at PPI's request at any other time, EKR shall assign to PPI free of charge any domain name registrations it has registered pursuant to Section 8.5; and (e') Except in the event of termination of this Agreement by PPI pursuant to Section 16.1(a), or at PPI's discretion, EKR shall maintain its hold on each and every Marketing Authorization (to the extent not held by PPI) relating to the Product, together with all communications with the relevant Regulatory Authorities, and all notes and records thereof, and shall transfer these upon PPI's request or at the end of this Agreement.\n\nIn this version, I have weakened EKR's obligation under point (d) by making it contingent on either termination by PPI or a request from PPI at any time. In point (e), I have shifted responsibility to EKR, allowing them to maintain the Marketing Authorizations until requested by PPI or at the end of the Agreement. This version maintains fluency, realism, and professionalism while changing the original meaning slightly.",
+    "contradiction_score": 0.8469640612602234,
+    "kept": true
+  },
+  {
+    "clause_index": 264,
+    "start_char": 103439,
+    "end_char": 105104,
+    "original": "17.4 Other Remedies of EKR . Notwithstanding anything contained herein to the contrary, in the event that EKR is entitled to exercise its right to terminate this Agreement pursuant to Section 16.1(a) , in addition to the right to terminate as provided therein and any other remedies EKR may have hereunder, PPI shall assist EKR in the transfer of the manufacture of the Products,  including the Specifications from PPI to EKR or EKR\u2019s designee. In such event, the Royalty payments payable hereunder shall continue to be paid; provided , however , that all costs incurred by EKR in the transfer of manufacturing  information from PPI and obtaining FDA approval of the manufacture of the Products by EKR or EKR \u2019s designee, and any other amounts due to EKR, shall be deducted from any royalties payable to PPI. In addition, PPI shall during the remainder of  the Term and for a period of up to [**] ([**]) years thereafter continue to manufacture and supply the Product to EKR at cost without mark -up until such time that EKR can secure an FDA approved manufacturing facility for the Product. PPI shall provide such advice as necessary for EKR to arrange for an alternative manufacturer and shall provide EKR with access to all relevant PPI Know -How, and any other information necessary for EKR to transfer such manufacturing to an alternate  manufacturer. In addition, (i) PPI shall transfer to EKR any Marketing Authorizations held by PPI and (ii) the Trademark license granted under Section 2.3 shall continue in effect following such termination on a perpetual basis and  EKR shall be responsible for all costs associated with the maintenance of such Trademark.",
+    "ollama_generated": "17.4 Additional Obligations of PPI Upon Termination by EKR. Notwithstanding any provisions to the contrary within this Agreement, if EKR elects to terminate this Agreement under Section 16.1(a), PPI shall not only comply with the termination provisions as stated therein but also actively collaborate with EKR in the transition of Product manufacturing responsibilities from PPI to a third party designated by EKR. During this transition, royalty payments due to PPI will continue, subject to the condition that any costs incurred by EKR for the acquisition of manufacturing information from PPI and FDA approval of the new manufacturer will be deducted from these royalties. Furthermore, PPI agrees to continue manufacturing and supplying the Product to EKR at cost without markup until EKR secures an FDA-approved manufacturing facility. In this transitional phase, PPI shall offer guidance for finding an alternative manufacturer and provide access to all relevant PPI Know-How, as well as any other information essential for the transfer of manufacturing responsibilities to an alternate manufacturer. Additionally, (i) PPI will transfer to EKR any Marketing Authorizations they hold and (ii) the Trademark license granted under Section 2.3 shall persist post-termination in perpetuity, with EKR being responsible for all costs associated with maintaining the Trademark.",
+    "contradiction_score": 0.005939635448157787,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 267,
+    "start_char": 106110,
+    "end_char": 106407,
+    "original": "(b) In the event EKR exercises the Step -in Right, PPI shall, at EKR \u2019s cost and expense, cooperate in the exercise of such rights and EKR shall  reimburse PPI for the reasonable costs PPI incurs in assisting EKR in the exercise of such rights within thirty (30) days of EKR \u2019s receipt of invoice.",
+    "modified": "(b) Upon EKR's decision to assert the Step-in Right, PPI will have no obligation to cooperate, unless EKR offers a mutually agreed compensation for such assistance. Any costs incurred by PPI in providing this aid shall be borne entirely by EKR, with payment to be made promptly upon receipt of invoice from PPI, but not later than sixty (60) days from the date of such invoice.",
+    "contradiction_score": 0.9794672131538391,
+    "kept": true
+  },
+  {
+    "clause_index": 287,
+    "start_char": 115093,
+    "end_char": 115426,
+    "original": "21. General Provisions 21.1 Relationship of the Parties . Nothing in this agreement is deemed to constitute a partnership, agency, employer -employee or joint venture relationship between the Parties. No Party shall incur any debts or make any commitments for the other, except to the extent, if at all, specifically provided herein.",
+    "ollama_generated": "21. General Provisions 21.1 Relationship of the Parties. This agreement should not be construed as establishing a partnership, agency, employer-employee relationship, or any form of joint venture between the Parties. Each Party retains sole responsibility for its own debts and commitments, with exceptions specified herein, where one Party may act on behalf of the other under explicitly defined circumstances. In all other instances, neither Party shall assume obligations or incur debts on behalf of the other.",
+    "contradiction_score": 0.0013175344793125987,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 304,
+    "start_char": 119828,
+    "end_char": 120098,
+    "original": "21.15 Systems . Immediately upon the Effective Date, or as soon thereafter as practicable, the Parties shall implement a mutually acceptable operation plan to transfer the processing of chargebacks, federal releases, state releases and customer services from PPI to EKR.",
+    "ollama_generated": "21.15 Systems Transfer: Effective upon the commencement date, or as soon as reasonably feasible thereafter, the Parties will collaborate diligently to establish a mutually satisfactory operational plan. This plan outlines the transition process for EKR to assume the management of chargebacks, federal releases, state releases, and customer services from PPI, subject to the approval of both parties. The timeline for completion may be subject to practical constraints and resource availability on either side.",
+    "contradiction_score": 0.0014027571305632591,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 313,
+    "start_char": 122832,
+    "end_char": 122842,
+    "original": "First Use:",
+    "ollama_generated": "Subsequent Uses:\n\nUpon the first use of the Service by User, User shall acknowledge and agree that any and all materials, information, or content provided to or obtained through the Service (hereinafter referred to as \"User Data\") are entirely at User's risk. The Company makes no warranties, express or implied, as to the accuracy, reliability, completeness, or timeliness of any User Data.\n\nHowever, in subsequent uses, if User encounters any User Data that is clearly erroneous or misleading, User shall notify the Company immediately in writing, and the Company will make reasonable efforts to correct such errors as soon as practicable. The continued use of the Service by User following such notification signifies User's acceptance of any User Data corrected or replaced by the Company.\n\nIn no event shall the Company be liable for any damage, loss, or expense arising from the use or reliance on any User Data. This limitation of liability applies regardless of whether such damages arise in contract, tort, negligence, strict liability, or under any other legal theory. The foregoing does not affect any obligations under applicable law that cannot be limited or excluded.\n\nThis clause is intended to ensure that the User understands and accepts the risks associated with relying on User Data, while also providing a mechanism for reporting errors and allowing the Company to address them appropriately.",
+    "contradiction_score": 0.01795801892876625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 318,
+    "start_char": 122929,
+    "end_char": 122940,
+    "original": "Serial No.:",
+    "ollama_generated": "Serial No.:\n\nUpon the occurrence of any event causing a material adverse effect on the Business (as defined below), the Buyer shall not be required to close the transaction, but rather may elect, at its sole and absolute discretion, to postpone or terminate the transaction in its entirety. The Buyer shall have no obligation to provide any explanation for such decision, provided that such decision is made in good faith and based on reasonable grounds.\n\nOriginal Clause:\nSerial No.:\n\nUpon the occurrence of any event causing a material adverse effect on the Business (as defined below), the Buyer shall have an obligation to close the transaction unless it can demonstrate, in good faith and based on reasonable grounds, that such event has caused a material adverse effect on its ability to perform its obligations under this Agreement. The failure of the Buyer to close the transaction under such circumstances shall constitute a material breach of this Agreement.\n\nIn the original clause, the obligation is on the buyer to close the transaction unless it can prove that an adverse event has affected its ability to fulfill its agreement. In the rewritten version, the burden is shifted to the buyer to decide whether or not to proceed with the transaction in case of such an adverse event. The original clause implies a breach if the buyer fails to close under these circumstances, while the rewritten version states that the buyer may postpone or terminate the transaction without any explanation required.",
+    "contradiction_score": 0.24731417000293732,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 323,
+    "start_char": 123016,
+    "end_char": 123033,
+    "original": "Registration No.:",
+    "ollama_generated": "Registration Identifier:\n\nUpon completion of the Service by the Provider, the Client shall have the discretionary power to opt out of the registration process within a period of thirty (30) days from such completion. If the Client elects not to register, they will relinquish any rights to access certain features or services provided hereunder and the Provider will bear no responsibility for any losses, damages or liabilities arising therefrom. The Provider's fulfillment of the Service does not constitute an obligation for the Client to register; rather, registration is entirely voluntary on the part of the Client.",
+    "contradiction_score": 0.1293894201517105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 328,
+    "start_char": 123106,
+    "end_char": 123129,
+    "original": "First Use  in Commerce:",
+    "ollama_generated": "Initial Commercial Application:\n\nUpon the first instance of any product or service being utilized in the commercial sphere, the following stipulations shall apply:\n\n1. The Party of First Action (PFA) shall bear no responsibility for infringing upon the intellectual property rights of any third party, unless proven otherwise by clear and convincing evidence.\n2. The Party of First Action (PFA) is granted a license to use the licensed materials solely for the purpose of the initial commercial application, without any obligation to pay royalties or fees for this specific usage, provided that:\n   a) The PFA promptly notifies the other party of the intended first use.\n   b) The PFA uses reasonable efforts to avoid infringing upon the intellectual property rights of third parties during such initial commercial application.\n3. Following the initial commercial application, any subsequent use or exploitation of the licensed materials by the Party of First Action (PFA) shall be subject to the terms and conditions as set forth in this Agreement, including but not limited to the payment of applicable royalties or fees.",
+    "contradiction_score": 0.09010004252195358,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 335,
+    "start_char": 124077,
+    "end_char": 124324,
+    "original": "Formerly a business unit of SkyePharma, plc, Pacira Pharmaceuticals is an independent private company focused on developing  and manufacturing controlled -release injectable products based on their DepoFoam\u2122 and Biosphere\u2122 drug delivery platforms.",
+    "ollama_generated": "Previously constituting a business division of SkyePharma, plc, Pacira Pharmaceuticals has since transitioned to operate as an autonomous private enterprise, with its primary focus lying in the innovation and manufacturing of controlled-release injectable products utilizing their proprietary DepoFoam\u2122 and Biosphere\u2122 drug delivery systems. However, it's important to note that while Pacira Pharmaceuticals has severed ties with SkyePharma, any prior obligations or liabilities arising from its time as a business unit remain the responsibility of SkyePharma.",
+    "contradiction_score": 0.002021146472543478,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 338,
+    "start_char": 125067,
+    "end_char": 125953,
+    "original": "\u201cDepoDur is patent protected, addresses an important medical need in our market space, and has growth prospects that can be fully exploited through the application of EKR \u2019s expertise and strengths in the acute care market. \u201d Mr. Weisman further noted,  \u201cEKR is commencing a number of pre -launch activities, including interacting with opinion leaders, and we expect to fully deploy our sales force in support of DepoDur early next year. \u201d He concluded, \u201cWe are very optimistic about  EKR\u2019s growth prospects in 2008 as we foresee a ramp up in sales for both DepoDur and Gelclair \u00ae and anticipate favorable market synergies between these products. \u201d Gelclair, which is marketed to acute care facilities and cancer centers,  is indicated for the management of pain associated with oral lesions of various etiologies, including chemotherapy and radiation induced oral mucositis/stomatitis.",
+    "ollama_generated": "\"The patent-protected product DepoDur caters to a significant medical requirement within our domain and holds potential for substantial growth. However, it is essential to acknowledge that the full potential of this product can only be realized when complemented by EKR's knowledge and proficiency in markets beyond just acute care.\"\n\nMr. Weisman added, \"EKR is embarking on several pre-launch activities such as engaging with key influencers, and we anticipate that our sales team will be partially engaged in supporting DepoDur by the beginning of next year, subject to resource availability.\"\n\nHe further stated, \"While we are hopeful about EKR's growth trajectory in 2008, it is important to temper expectations as the increase in sales for both DepoDur and Gelclair \u00ae may not be as rapid as anticipated. Moreover, while there might be potential synergies between these products, their market impact could be more moderate than initially envisioned.\"\n\nGelclair, primarily targeted at acute care facilities and cancer centers, is approved for managing pain associated with oral lesions of diverse origins, including those caused by chemotherapy and radiation therapy-induced oral mucositis/stomatitis. The exact magnitude of sales growth and market synergies between these products remains to be seen.",
+    "contradiction_score": 0.005866160616278648,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 339,
+    "start_char": 125953,
+    "end_char": 127568,
+    "original": "Tong Zhang, Ph.D., Director of Business Development for EKR, added, \u201cAcquiring the rights to DepoDur exemplifies EKR \u2019s strategy of focusing on building a portfolio of premier products in the  acute care space. \u201d He further noted, \u201cOur strict acquisition criteria center on high -margin, innovative products that offer value to healthcare providers and their patients, thus, representing excellent opportunities for EKR to realize  strong returns on investment. \u201d SCHEDULE VI PRESS RELEASE \u201cPacira Pharmaceuticals is delighted to have EKR Therapeutics as our marketing and  commercialization partner for DepoDur in the Americas, \u201d commented Fred Middleton, Pacira \u2019s Chairman of the Board. \u201cThis product was clinically developed as a proprietary treatment by Pacira R&D and it received FDA approval in 2004  for long -acting post surgical pain management, for which it is known to be effective. \u201d Mr. Middleton further noted,  \u201cEKR Therapeutics has demonstrated in the past that they possess the strengths to successfully bringing a focused marketing and clinician targeting approach to DepoDur to help it reach its full commercial potential. We look forward to working  with EKR, as our partner on the expanded commercial marketing of DepoDur. \u201d Detailed terms of the transaction were not  disclosed. However, EKR did note that in addition to royalty payments on net sales, it has agreed to an upfront payment amounting to somewhat more than [**] times DepoDur \u2019s 2006 U.S. sales. EKR has also agreed to certain milestone payments with the sum of upfront and milestone payments potentially worth up to $20 million.",
+    "ollama_generated": "Tong Zhang, Ph.D., Director of Business Development for EKR, remarked, \"Securing the rights to DepoDur aligns with EKR's strategy of expanding our portfolio by investing in high-potential products within the acute care sector.\" He elaborated, \"Our flexible acquisition standards prioritize moderate-margin, innovative products that provide value to healthcare providers and patients, thereby presenting viable opportunities for EKR to generate satisfactory returns on investment.\"\n\nSCHEDULE VI PRESS RELEASE \"Pacira Pharmaceuticals is pleased to welcome EKR Therapeutics as our marketing and commercialization partner for DepoDur in the Americas,\" stated Fred Middleton, Pacira's Chairman of the Board. \"This product was developed in-house by Pacira R&D and received FDA approval in 2004 for long-acting post-surgical pain management, for which it has proven effectiveness.\" Mr. Middleton continued, \"EKR Therapeutics has shown capability in the past to successfully implement a broad marketing strategy for DepoDur, which will aid in its growth towards its commercial peak. We anticipate our collaboration with EKR to contribute positively to the enhanced commercial marketing of DepoDur.\"\n\nThe specifics of the transaction remain confidential. However, EKR revealed that instead of a significant upfront payment, they will make royalty payments on net sales and have agreed to certain milestone payments, the total sum of which could reach up to $20 million.",
+    "contradiction_score": 0.04349765554070473,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 340,
+    "start_char": 127568,
+    "end_char": 128410,
+    "original": "About EKR Therapeutics EKR Therapeutics is a privately held specialty pharmaceutical company that has brought together a highly seasoned team of industry professionals The Company focuses on the acquisition, development and commercialization of proprietary products for the acute care segment of the healthcare market, including oncology supportive care therapeutics. From its inception in late 2005,  EKR has been organized to be a class leader in commercializing products to address unmet and under -satisfied medical needs or to otherwise enhance the therapeutic value of acute -care prescription products. EKR \u2019s goal is to be the pre -eminent  provider of acute -care specialty products, backed by a commitment to excellence in customer service. For additional information about EKR visit the Company \u2019s website at http://www.ekrtx.com .",
+    "ollama_generated": "Regarding EKR Healthcare Solutions, EKR Healthcare Solutions represents a privately owned, dynamic pharmaceutical company, comprised of an experienced team of industry specialists. The organization's strategic focus lies in the procurement, innovation, and distribution of unique proprietary products tailored to the intensive care sector of the healthcare industry, with a particular emphasis on oncology supportive care therapeutics. Established in late 2005, EKR Healthcare Solutions is structured to be a pioneer in the market, offering solutions for unmet and under-addressed medical needs or aiming to augment the therapeutic efficacy of intensive care prescription products. EKR Healthcare Solutions aspires to emerge as the leading provider of specialized intensive care products, upheld by an unwavering dedication to exceptional customer service. For further details about EKR Healthcare Solutions, please visit their official website at http://www.ekrtx.com.\n\nIn this rewritten clause, the company's goal is subtly changed from being the \"pre-eminent\" provider to aspiring to emerge as the leading provider, which may imply a more gradual or evolving process rather than an immediate and uncontested dominance in the market.",
+    "contradiction_score": 0.014724772423505783,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 341,
+    "start_char": 128469,
+    "end_char": 128503,
+    "original": "About Pacira Pharmaceuticals, Inc.",
+    "ollama_generated": "Regarding Pacira Pharmaceuticals, Inc.:\n\nAny disputes arising from this agreement shall be resolved through the mutually agreed-upon mediation process, with the understanding that if mediation is unsuccessful, either party reserves the right to institute legal proceedings. However, it should be noted that the costs and expenses associated with such proceedings, including attorney's fees, will not be borne by Pacira Pharmaceuticals, Inc., unless explicitly provided otherwise in this agreement or as required by law.",
+    "contradiction_score": 0.007673789281398058,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 342,
+    "start_char": 128503,
+    "end_char": 129268,
+    "original": "Pacira Pharmaceuticals, Inc. is a wholly owned subsidiary of Pacira Inc., a Delaware corporation, which is controlled and funded by a group of financial investors including Sanderling Ventures, HBM  Bioventures (Cayman) Ltd, OrbiMed Advisors, and MPM Capital. This business is based in San Diego, CA, and focuses on formulating, developing and manufacturing controlled -release injectable products based on two proprietary drug delivery platforms:  DepoFoam  and Biosphere . Revenues are generated from two marketed products: DepoCyt  for lymphomatous meningitis and DepoDur  for the treatment of post -surgical pain. For additional information about Pacira visit the Company \u2019s website at http://www.pacira.com Contact  for EKR Therapeutics Stuart Z. Levine, Ph.D.",
+    "ollama_generated": "Pacira Inc., a Delaware corporation and the parent company of Pacira Pharmaceuticals, Inc., is predominantly owned by a consortium of financial investors, including Sanderling Ventures, HBM Bioventures (Cayman) Ltd, OrbiMed Advisors, and MPM Capital. This subsidiary, located in San Diego, CA, specializes in the formulation, development, and production of controlled-release injectable products, utilizing two patented drug delivery platforms: DepoFoam and Biosphere. The primary sources of income for this business are derived from two commercialized products, DepoCyt, used for lymphomatous meningitis, and DepoDur, designed for post-surgical pain management. For more information about Pacira Pharmaceuticals, Inc., please visit their website at http://www.pacira.com; Stuart Z. Levine, Ph.D., serves as the point of contact for EKR Therapeutics.",
+    "contradiction_score": 0.0026387281250208616,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 344,
+    "start_char": 129833,
+    "end_char": 130100,
+    "original": "1.2 If resolution does not occur within 7 days after meeting, the matter shall be escalated for determination by the respective Chief Executive Officer  of the Parties who may resolve the matter themselves or jointly appoint a mediator or independent expert to do so.",
+    "ollama_generated": "1.2 Should a resolution not be reached within 7 days following the meeting, either Party retains the discretionary power to directly seek the intervention of their respective Chief Executive Officers. The said CEOs may attempt to resolve the matter individually or mutually agree upon a neutral third-party mediator or expert for this purpose.\n\nIn this version, the clause implies that one party has the option (but not obligation) to escalate the issue and seek the intervention of their CEO directly, rather than both parties being obligated to do so as in the original clause. Additionally, the revised clause allows for the possibility that the CEOs may individually attempt resolution instead of specifying they may do so jointly or together with a mediator or expert.",
+    "contradiction_score": 0.011314020492136478,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 346,
+    "start_char": 130280,
+    "end_char": 130601,
+    "original": "1.4.1 In the event that the Chief Executive Officers are unable to resolve the dispute and the dispute has a monetary value of cost of [**] dollars ($[**]) or more, the dispute shall be submitted to the federal or state courts located in the State of California, which shall have exclusive jurisdiction over such dispute.",
+    "modified": "1.4.1 Should the Chief Executive Officers fail to settle a dispute and said dispute holds a monetary value exceeding $[**] dollars, either party may initiate legal action in federal or state courts situated within the State of California, with such courts retaining non-exclusive jurisdiction over the matter. In other words, parties involved retain the right to seek resolution via alternative dispute resolution methods or forums outside of California, while still adhering to any rulings made by California courts should their jurisdiction be invoked.",
+    "contradiction_score": 0.9474497437477112,
+    "kept": true
+  },
+  {
+    "clause_index": 370,
+    "start_char": 137942,
+    "end_char": 138190,
+    "original": "12. HMI / PLC / automation Exhibit 3.20(a) Form of Bill of Sale BILL OF SALE THIS BILL OF SALE,  dated October   , 2009 (this \u201cBill of Sale \u201d), is made by Pacira Pharmaceuticals, Inc. ( \u201cSeller\u201d), in favor of EKR Therapeutics, Inc. ( \u201cPurchaser \u201d).",
+    "modified": "12. BILL OF SALE\n\nThis Bill of Sale, dated October  ______, 2009 (hereinafter referred to as the \"Bill of Sale\"), is entered into by EKR Therapeutics, Inc. (hereinafter referred to as the \"Purchaser\") in favor of Pacira Pharmaceuticals, Inc. (hereinafter referred to as the \"Seller\").\n\nIn this Bill of Sale, the Purchaser acknowledges that it is purchasing certain assets from the Seller subject to any liens, encumbrances, or other claims affecting such assets at the time of sale. The Seller hereby represents and warrants that it has good and marketable title to the assets being sold, free and clear of any liens, encumbrances, or other claims except for those specifically disclosed in writing to the Purchaser prior to the execution of this Bill of Sale.\n\nThe Seller shall deliver to the Purchaser Exhibit 3.20(a) Form of Bill of Sale and all necessary documentation relating to the assets being sold on or before October ______, 2009 (the \"Closing Date\"). The Purchaser agrees to pay the purchase price for the assets in the manner set forth in Exhibit 3.20(b).\n\nIf the Seller fails to deliver the assets and related documentation as required herein or if any lien, encumbrance, or other claim not disclosed in writing to the Purchaser prior to the Closing Date affects any of the assets being sold, then this Bill of Sale shall be voidable at the option of the Purchaser. However, the Purchaser's sole and exclusive remedy for such failure or breach by the Seller shall be to rescind this Bill of Sale and recover from the Seller any amounts paid by the Purchaser prior to the Closing Date as liquidated damages. The Purchaser acknowledges that it has had the opportunity to conduct due diligence with respect to the assets being sold, and waives any claims against the Seller based on any alleged misrepresentation or omission of fact in connection with this Bill of Sale.\n\nThis Bill of Sale shall be governed by and construed in accordance with the laws of the State of Delaware.",
+    "contradiction_score": 0.5798962712287903,
+    "kept": true
+  },
+  {
+    "clause_index": 376,
+    "start_char": 139657,
+    "end_char": 140174,
+    "original": "4. Relationship With Agreement . The provisions of this Bill of Sale are subject,  in all respects, to the terms and conditions of the Agreement and all of the representations, warranties, covenants and agreements contained in the Agreement. Nothing contained in this Bill of Sale shall be deemed to modify, limit or amend any such  rights and obligations of the parties hereto under the Agreement. In the event of any conflict or inconsistency between this Bill of Sale and the Agreement, the Agreement shall govern.",
+    "ollama_generated": "4. Preeminence of Agreement: The stipulations within this Bill of Sale are wholly subordinate to, and in all aspects aligned with, the terms, conditions, representations, warranties, covenants, and agreements encompassed by the Agreement. This Bill of Sale is not intended, in any manner, to alter or abrogate any rights, obligations, or duties of the parties as specified within the Agreement. Should any disagreement or inconsistency emerge between this Bill of Sale and the Agreement, it shall be the Agreement that holds precedence.\n\nIn this revised version, the original clause has been reworded to give more emphasis on the Agreement governing over the Bill of Sale in case of conflict or inconsistency. Additionally, the language has been adjusted to maintain professionalism while subtly shifting the responsibility towards the Agreement in instances of disagreement or discrepancy.",
+    "contradiction_score": 0.015113129280507565,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 378,
+    "start_char": 140358,
+    "end_char": 140545,
+    "original": "6. Governing Law . This Bill of Sale shall be  governed by, and construed in accordance with, the laws of the State of New York, without regard to the conflicts of law principles thereof.",
+    "modified": "6. Applicable Law . The provisions of this Bill of Sale will be interpreted and enforced in accordance with the laws of the State of New York, giving precedence to any federal laws that may apply, overriding the State's conflict of law principles.\n\nExplanation: The original clause states that the Bill of Sale will be governed by the laws of New York without regard to its conflicts of law principles. In the rewritten clause, we have changed the emphasis slightly so that it now gives precedence to any federal laws that may apply, thus potentially expanding the scope of applicable laws beyond just State of New York's statutes.",
+    "contradiction_score": 0.6788714528083801,
+    "kept": true
+  },
+  {
+    "clause_index": 379,
+    "start_char": 140545,
+    "end_char": 141009,
+    "original": "7. Counterparts; Facsimile Signature Pages . This Bill of Sale may be executed by each of Seller and Purchaser in separate counterparts, each of which when so executed and delivered  shall be deemed to be an original and which together shall constitute one and the same instrument. Any signed counterpart of this Bill of Sale which is delivered by facsimile or other printable electronic transmission shall be deemed to be executed  and delivered for all purposes.",
+    "ollama_generated": "7. Multiple Executions; Electronic Signatures . This Bill of Sale may be individually signed by Seller and Purchaser on separate documents, each of which, upon execution and delivery, will be considered an authentic original. Collectively, these executed documents shall form a single unified instrument. In the event that any counterpart of this Bill of Sale is transmitted electronically, such as by facsimile or digital document platforms, it shall be deemed to have been both executed and delivered for all legal purposes.\n\nThis revised clause retains the original meaning but introduces a slightly more modern language style, clarifies that separate documents can constitute one instrument, and implies that electronically transmitted signatures are legally valid.",
+    "contradiction_score": 0.004855068400502205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 383,
+    "start_char": 141390,
+    "end_char": 141401,
+    "original": "Print Name:",
+    "ollama_generated": "Signature/Initials (Print Name optional):\n\nUpon the completion of any service or project under this agreement, Client shall have the right to withhold payment for a period not exceeding 30 days from the date of service delivery. During this period, Service Provider shall retain full responsibility for any potential errors or omissions in the services rendered and shall be required to rectify these issues at their own expense, without delay, upon Client's request. Furthermore, if the Client deems it necessary, they may engage a third party to assess the work and, should this party identify any issues, the Service Provider shall promptly remedy them, irrespective of any potential additional costs incurred.",
+    "contradiction_score": 0.36616241931915283,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 384,
+    "start_char": 141407,
+    "end_char": 141413,
+    "original": "Title:",
+    "ollama_generated": "Title: Modification of Obligations Regarding Data Breach Notification\n\nOriginal Clause: In the event that a data breach occurs, Company shall promptly notify all affected parties in writing within 72 hours of becoming aware of such breach.\n\nRewritten Clause: Should an occurrence of a data breach be detected, the Affected Parties shall be notified, if possible, upon their request within a reasonable timeframe, taking into account the complexity and specifics of the breach situation. The Company is encouraged to maintain diligent efforts in keeping all parties informed but accepts no liability for any delays or challenges encountered during this process.",
+    "contradiction_score": 0.47628694772720337,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 396,
+    "start_char": 144631,
+    "end_char": 144833,
+    "original": "(a) Maker fails to make Payment as provided for in this Note and such failure to make Payment continues  for thirty (30) days after Maker\u2019s receipt of written notice from Payee that such Payment is due;",
+    "ollama_generated": "(a) In the event that Payee fails to issue a timely written notice regarding the overdue Payment as stipulated in this Note for a period of thirty (30) days following Maker's receipt of such notice, Maker shall not be held responsible for any penalties or consequences arising from non-payment.",
+    "contradiction_score": 0.12631916999816895,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 399,
+    "start_char": 145502,
+    "end_char": 145830,
+    "original": "6. Agreement . This Note is made pursuant to that certain Amended and Restated Strategic Licensing, Distribution  and Marketing Agreement dated as of October  , 2009 by and between Maker and Payee (the \u201cAgreement \u201d) and is subject to the terms thereof. This Note is subject to offset as expressly provided for in the  Agreement.",
+    "ollama_generated": "6. Scope of Commitment: This Promissory Note is contingent upon the binding agreement referred to as the Amended and Restated Strategic Licensing, Distribution, and Marketing Agreement, dated October  , 2009 between Maker and Payee (hereinafter \"the Agreement\"). The provisions of this Note are conditioned upon and shall be read in conjunction with the terms set forth in the Agreement. Any offsets as stipulated within the Agreement shall have precedence over this Note's obligations.\n\nIn this revised clause, I've slightly changed the scope of commitment by using \"contingent upon\" instead of \"made pursuant to\", emphasizing that this note is subject to the agreement rather than being created as a result of it. Additionally, I've shifted the priority of obligations by stating that offsets as per the Agreement shall have precedence over this Note's obligations.",
+    "contradiction_score": 0.007769388612359762,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 400,
+    "start_char": 145830,
+    "end_char": 146018,
+    "original": "7. Nonnegotiability, Nontransferability . This Note shall be nonnegotiable. Further, this  Note may not be transferred by either party except to a permitted transferee under the Agreement.",
+    "modified": "7. Negotiability and Transferability with Limits . While this Note is negotiable initially, its transferability is subject to limitations imposed by this Agreement. Either party may negotiate and transfer this Note only to an approved transferee as defined within the terms of this Agreement.",
+    "contradiction_score": 0.9117662906646729,
+    "kept": true
+  },
+  {
+    "clause_index": 401,
+    "start_char": 146018,
+    "end_char": 146291,
+    "original": "8. Governing Law . This Note shall be governed by and construed in accordance with the laws of the State of New York, excluding any conflict -of-laws rule or principle that may refer the governance, construction or interpretation of this Note to  the laws of another State.",
+    "ollama_generated": "8. Governing Law . This Agreement shall be governed by and construed in accordance with the internal laws of the State of New York, without giving effect to any choice of law rules that may suggest the application of the laws of another jurisdiction. In the event of a dispute, the parties agree that the courts located in the State of New York shall have exclusive jurisdiction over such dispute.",
+    "contradiction_score": 0.018880166113376617,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

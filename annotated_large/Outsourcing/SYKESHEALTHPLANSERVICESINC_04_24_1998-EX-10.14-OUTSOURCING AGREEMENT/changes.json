@@ -1,0 +1,109 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 729,
+    "end_char": 844,
+    "original": "Accordingly, in consideration of the mutual covenants and agreements set forth below, the parties agree as follows:",
+    "ollama_generated": "In light of the reciprocal promises and commitments outlined herein, the parties mutually consent to the following stipulations:\n\nFor the sake of clarity and to avoid any misunderstanding, this agreement is contingent upon the understanding that each party's obligations are subject to their respective abilities, resources, and discretion. In the event that a party encounters unforeseen circumstances preventing them from fulfilling their commitments, they shall promptly notify the other party with a reasonable explanation. It is further understood that any failure to meet an obligation does not constitute a breach of this agreement unless such noncompliance persists for more than thirty days following the receipt of notice. The burden of proving such unavoidable circumstances shall rest upon the defaulting party.",
+    "contradiction_score": 0.01590229943394661,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1266,
+    "end_char": 1774,
+    "original": "\"Care Management Services\" means the business of providing utilization review (which includes, but is not limited to, pre-admission certification, prior authorization, prospective length of stay approvals, second opinions, concurrent review and discharge planning), catastrophic medical case management, disease management and demand management (24 hours per day, 7 days per week) services to benefits payors and health providers, in all cases in accordance with the terms of the applicable Client Agreement.",
+    "ollama_generated": "\"Care Management Services\" encompasses the business of rendering utilization review (which includes, but is not exclusively limited to, pre-admission certification, prior authorization, prospective length of stay approvals, second opinions, concurrent review and discharge planning), catastrophic medical case management, disease management and demand management services. These services are available 24 hours a day, 7 days a week, but they are provided on the understanding that our practices may be subject to adjustments or modifications in accordance with the specific terms of each Client Agreement. This means we may not be held strictly liable for any deviations from the standard services, as long as such changes do not conflict with the essential spirit and purpose of the agreement.",
+    "contradiction_score": 0.0018240329809486866,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3037,
+    "end_char": 3699,
+    "original": "2.       PAYMENTS 2.1 FEES FOR CURRENT HPS CLIENTS. For each month during the term of this Agreement, HPS will pay to SHPS an amount equal to (i) eighty-two and one-half percent (82.5%) of the first $500,000 of Care Management Revenues (as defined below) during such month plus (ii) eighty percent (80%) of Care Management Revenues during such month in excess of $500,000. HPS shall pay such amount to SHPS within fifteen days following the end of the applicable month. At the time of payment HPS shall submit to SHPS a schedule for the month of payment setting forth the calculation of fees payable under this Section 2.1 and Care Management Revenues by Client.",
+    "modified": "2. PAYMENTS 2.1 FEES FOR CURRENT SHPS CLIENTS. For each calendar month during the term of this Agreement, SHPS will receive from HPS an amount equal to (i) 17.5% of the first $500,000 of Care Management Fees (as defined below) for that month, plus (ii) 20% of any Care Management Fees exceeding $500,000 for that same period. HPS will make this payment to SHPS within thirty days following the end of the relevant calendar month. At the time of payment, HPS shall provide SHPS with a schedule detailing the calculation of fees payable under this Section 2.1 and Care Management Fees per Client for the respective month.\n\nIn this revised clause, the obligation on HPS to make payments has been weakened by reducing the percentage rate paid to SHPS for both the initial $500,000 and any excess amounts, as well as extending the payment deadline from fifteen to thirty days following the end of the month. Furthermore, the responsibility for providing the schedule detailing the calculation of fees has been shifted to HPS.",
+    "contradiction_score": 0.7530911564826965,
+    "kept": true
+  },
+  {
+    "clause_index": 16,
+    "start_char": 8215,
+    "end_char": 8512,
+    "original": "4.2 BINDING NATURE AND ASSIGNMENT. This Agreement shall be binding on the parties and their respective successors and assigns, but neither party may, or shall have the power to, assign this Agreement without the prior written consent of the other, which consent shall not be unreasonably withheld.",
+    "ollama_generated": "4.2 SCOPE OF AGREEMENT AND TRANSFERABILITY. This Agreement is binding upon the parties and any entities that may succeed them, but neither party possesses the authority to transfer this Agreement without first obtaining the non-opposition written consent of the other, which will not be withheld unreasonably if granted.\n\nIn this revised clause, the parties' ability to assign the agreement has been shifted from a prohibition to a requirement for prior consent. Additionally, language was added to clarify that the granting of such consent does not necessarily imply an obligation to provide it.",
+    "contradiction_score": 0.0070757390931248665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 9401,
+    "end_char": 9421,
+    "original": "In the case of SHPS:",
+    "ollama_generated": "Should the circumstances arise where SHPS is involved:\n\n1. SHPS shall have the discretion to determine whether any action is necessary in response to such involvement.\n2. If SHPS elects to take action, it will do so with reasonable diligence and care, but without guaranteeing a specific outcome or timeline for resolution.\n3. In the event that SHPS' actions are found to have caused harm or damages, it shall not be held liable unless such harm or damages were directly caused by SHPS' gross negligence or willful misconduct.\n4. In all other instances, SHPS will not be obligated to take any action, and any consequences arising from its inaction shall not be attributable to it.",
+    "contradiction_score": 0.0039027428720146418,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 9584,
+    "end_char": 9860,
+    "original": "HealthPlan Services Corporation 3501 Frontage Road Tampa, Florida 33607 Attention: Philip S. Dingle, Chief Counsel 4.4  COUNTERPARTS. This Agreement may be executed in several counterparts, all of which taken together shall constitute the single agreement between the parties.",
+    "ollama_generated": "4.4. MULTIPLE EXECUTIONS: The parties may execute this Agreement separately on multiple originals, each of which shall be considered an authentic and binding part of the entire Agreement. No party will be bound until each has received signed copies of all other parties' counterparts.\n\nIn this revised clause, the meaning has been slightly shifted to clarify that no party is bound until they have received all other signed copies of the agreement, as opposed to the original clause where all counterparts taken together constitute a single agreement upon execution by any party.",
+    "contradiction_score": 0.083360955119133,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 10020,
+    "end_char": 10303,
+    "original": "4.6  RELATIONSHIP OF PARTIES. SHPS shall be and remain an independent contractor with respect to the performance of its obligations under this Agreement. Nothing contained in this Agreement shall be deemed to constitute either of the parties a joint venturer or partner of the other.",
+    "ollama_generated": "4.6 DEPENDENT CONTRACTOR STATUS. While Party B (Party B) will perform duties under this Agreement as an independent contractor, it is understood that they may rely on certain resources, guidance, or support from Party A (Party A), without implying a joint venture or partnership arrangement between the parties. Any such cooperation shall not be deemed to establish a partnership or joint venturer relationship between Parties A and B under this Agreement.",
+    "contradiction_score": 0.41640418767929077,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 10804,
+    "end_char": 11141,
+    "original": "4.9  WAIVER. No delay or omission by either party to exercise any right or power in this Agreement shall impair such right or power or be construed to be a waiver of such right or power. A waiver by either of the parties shall not be construed to be a waiver of any succeeding breach or of any other covenant contained in this Agreement.",
+    "ollama_generated": "4.9 WAIVER AND CONSTRUCTION. Any forbearance or failure to enforce by either party any provision of this Agreement shall not be deemed a waiver of the right to do so regarding subsequent occurrences, nor shall it affect the validity of this Agreement as a whole. A waiver on one occasion does not necessarily constitute a waiver of similar rights or obligations in the future.\n\nChanges made:\n1. Replaced \"No delay or omission\" with \"Any forbearance or failure to enforce\" (subtlety changes the tone slightly and makes it less abrupt)\n2. Changed \"shall impair\" to \"shall not be deemed a waiver of\" (weakening the obligation by stating that it is not necessarily the case, but rather a possibility)\n3. Changed \"A waiver by either of the parties shall not be construed to be a waiver\" to \"A waiver on one occasion does not necessarily constitute a waiver\" (rephrased for clarity and to emphasize that future occurrences are not guaranteed)\n4. Added \"of similar rights or obligations in the future\" (to further weaken the obligation by explicitly stating that a waiver may only apply to similar rights or obligations, not all covenants contained in the Agreement)",
+    "contradiction_score": 0.02360020950436592,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 11392,
+    "end_char": 11674,
+    "original": "4.11 ENTIRE AGREEMENT. This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and there are no representations, understandings or agreements relating to this Agreement which are not fully expressed in this Agreement.",
+    "modified": "4.11 LIMITATION OF REPRESENTATIONS. This Agreement represents a summary of the understanding between the parties regarding the subject matter, but it does not limit or exclude any other representations, understandings, or agreements that may have been made in relation to this Agreement outside of this document. The parties acknowledge that such additional representations, if any, may be material and binding.",
+    "contradiction_score": 0.9737794995307922,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 12404,
+    "end_char": 12476,
+    "original": "SYKES HEALTHPLAN SERVICES, INC.                HEALTHPLAN SERVICES, INC.",
+    "ollama_generated": "HEALTHPLAN SERVICES, INC. (hereinafter \"Recipient\") acknowledges and agrees that SYKES HEALTHPLAN SERVICES, INC. (hereinafter \"Provider\"), in providing the services described herein, shall act with reasonable care and diligence. However, any failure on Provider's part to meet the expected standards of service or performance does not automatically release Recipient from its obligation to pay the full contracted fee for the services rendered. The Recipient shall bear the sole risk of any dissatisfaction or claims arising from the services provided by Provider, and Provider shall have no liability for such matters unless expressly agreed otherwise in writing.\n\n(In this revised clause, the Recipient now bears the sole risk of any dissatisfaction or claims arising from the services provided by the Provider, shifting responsibility to them in case of any issues, while the obligation to pay the full contracted fee remains.)",
+    "contradiction_score": 0.02101711556315422,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 12661,
+    "end_char": 12792,
+    "original": "--------------------------                       -------------------------- Title:                                           Title:",
+    "modified": "-------------------------- --------------------------\n   Title: Duty to Provide Notifications                      Title: Obligation to Receive Notifications\n\n   The Registry Operator shall be responsible for maintaining current and accurate contact information at all times. Should any changes occur in the Registrar's contact details, the Registrar agrees to promptly notify the Registry Operator in writing of such updates.",
+    "contradiction_score": 0.5138767957687378,
+    "kept": true
+  }
+]

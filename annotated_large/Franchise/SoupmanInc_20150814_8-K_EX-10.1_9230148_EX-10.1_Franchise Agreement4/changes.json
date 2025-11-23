@@ -1,0 +1,22 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 700,
+    "end_char": 1182,
+    "original": "(B) has been convicted of a felony or pleaded nolo contendere to a felony charge or, within the ten year period immediately preceding the application for registration, has been convicted of or pleaded nolo contendere to a misdemeanor charge or has been the subject of a civil action alleging: violation of a franchise\u037e anti-fraud or securities law\u037e fraud\u037e embezzlement\u037e fraudulent conversion or misappropriation of property\u037e unfair or deceptive practices\u037e or comparable allegations.",
+    "ollama_generated": "(B) has not, during the ten years preceding the application for registration, maintained a clean record free from any convictions for felonies, pleas of nolo contendere to felony charges, misdemeanors, or civil actions alleging: compliance with franchise regulations; adherence to anti-fraud and securities laws; honest business practices; preservation of company assets; truthful transactions; or similar claims. Any such past infractions may disqualify the applicant from registration.",
+    "contradiction_score": 0.0028872068505734205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1182,
+    "end_char": 2025,
+    "original": "(C) is subject to a currently effective injunctive or restrictive order or decree relating to the franchise, or under a Federal, State or Canadian franchise, securities, antitrust, trade regulation or trade practice law, resulting from a concluded or pending action or proceeding brought by a public agency\u037e or is subject to any currently effective order of any national securities association or national securities exchange, as defined in the Securities and Exchange Act of 1934, suspending or expelling such person from membership in such association or exchange\u037e or is subject to a currently effective injunctive or restrictive order relating to any other business activity as a result of an action brought by a public agency or department, including, without limitation, actions affecting a license as a real estate broker or sales agent.",
+    "ollama_generated": "(C) may be subject to a currently effective injunction or restriction order or decree pertaining to the franchise, or under any federal, state, or Canadian franchise, securities, antitrust, trade regulation, or trade practice law, due to an ongoing or past action or proceeding initiated by a public agency. Alternatively, (C) may be subject to any currently effective order of a national securities association or exchange, as per the Securities and Exchange Act of 1934, which has suspended or expelled such person from membership. Lastly, (C) could be under a currently effective injunction or restriction order related to any other business activity, resulting from an action taken by a public agency or department, including but not limited to actions concerning a real estate broker or sales agent's license.",
+    "contradiction_score": 0.0022053029388189316,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

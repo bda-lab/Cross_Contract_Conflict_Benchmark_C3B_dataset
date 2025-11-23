@@ -1,0 +1,550 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 239,
+    "end_char": 251,
+    "original": "CERTEGY INC.",
+    "modified": "SHIFTED RESPONSIBILITIES, INC. (SRI)\n\nIn the event of a breach of contract by either party, the innocent party shall have the discretionary right to terminate this agreement immediately and seek remedies without any liability to the defaulting party, except for any payments made prior to such termination. Previously, the defaulting party was required to compensate the innocent party for any losses incurred as a result of the breach; under the revised terms, the innocent party shall not be entitled to claim compensation for any losses, unless explicitly agreed upon in writing by both parties at the time of termination.",
+    "contradiction_score": 0.6470277905464172,
+    "kept": true
+  },
+  {
+    "clause_index": 10,
+    "start_char": 9463,
+    "end_char": 9713,
+    "original": "NOW, THEREFORE, in consideration of the foregoing premises, the mutual agreements and covenants contained in this Agreement, and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:",
+    "ollama_generated": "HENCEFORTH, WITH UNDERSTANDING OF THE PRECEDING STIPULATIONS, the mutual commitments encompassed within this Agreement, and other substantial consideration duly received, the parties herein consent as follows:\n\nIn the event of a disagreement or breach of contract, it shall be the responsibility of the non-breaching party to make reasonable efforts towards resolution, rather than immediately terminating the agreement. The sufficiency of these attempts at resolution shall not relieve the breaching party from any liabilities or damages incurred as a result of their actions.",
+    "contradiction_score": 0.006439093500375748,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 9713,
+    "end_char": 9824,
+    "original": "ARTICLE I DEFINITIONS Section 1.1. Definitions As used herein, the following terms have the following meanings:",
+    "ollama_generated": "ARTICLE I DEFINITIONS\n\nSection 1.1. Interpretation\n\nAs applied within this Agreement, the following terminology shall bear the following significances:\n\n1. \"Responsible Party\" denotes the entity that shall be granted the discretion and authority to act or decide, but not necessarily obligated to perform an action unless expressly stated otherwise.\n2. \"Obligated Party,\" conversely, refers to the party under this Agreement who is subject to the performance of a duty or obligation, except when explicitly excused by the terms herein.\n3. \"Event of Default\" signifies a circumstance where an Obligated Party fails to fulfill their obligations in accordance with the provisions stipulated within this Agreement, unless otherwise waived by the Responsible Party. In such cases, the Event of Default is considered non-occurring.\n4. \"Termination Clause\" represents a provision that allows for the dissolution or expiration of this Agreement under specified conditions, rather than as an automatic consequence for specific breaches or failures to comply with stated obligations.",
+    "contradiction_score": 0.11601376533508301,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 9824,
+    "end_char": 10028,
+    "original": "(a) \"Action\" means any claim, suit, arbitration, inquiry, proceeding or investigation by or before any court, governmental or other regulatory or administrative agency or commission or any other tribunal.",
+    "modified": "(b) \"Proceeding\" refers to any assertion, dispute, examination, lawsuit, litigation, arbitration, inquiry, hearing, or investigation initiated by or against a party, whether brought by a court, governmental or regulatory body, commission, agency, or other similar tribunal. This definition includes but is not limited to formal and informal proceedings.",
+    "contradiction_score": 0.7654305100440979,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 12838,
+    "end_char": 12999,
+    "original": "(i) \"Certegy Third Party Use Rights\" means the rights granted to or secured for Equifax or one or more Designated Equifax Members pursuant to Section 3.1(b)(ii).",
+    "ollama_generated": "\"(iii) 'Certegy Third Party Use Rights' refers to the rights retained by Equifax or any Designated Equifax Member, as applicable, from or in relation to Section 3.1(b)(ii).\"\n\nThis change doesn't significantly alter the meaning of the clause but subtly shifts the focus from the rights being granted (as in the original) to the rights being retained by the parties. This could potentially create a perception that the rights are less exclusive or more broadly held, depending on the context and interpretation.",
+    "contradiction_score": 0.1433429718017578,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 14929,
+    "end_char": 15046,
+    "original": "(p) \"Designated Certegy Member\" means a member of the Certegy Group, as designated by Certegy in its sole discretion.",
+    "modified": "(q) \"Designated Certegy Member\" shall refer to an entity selected by the Certegy Group, at its own discretion, who may be granted membership status under this agreement.\n\nIn this new formulation, the clause implies that a member of the Certegy Group is chosen by the group to participate in this agreement, rather than being directly designated by Certegy, thus subtly shifting some power away from Certegy and towards the Certegy Group as a whole.",
+    "contradiction_score": 0.7340152263641357,
+    "kept": true
+  },
+  {
+    "clause_index": 30,
+    "start_char": 15272,
+    "end_char": 15451,
+    "original": "(s) \"Distribution Agreement\" means that certain Distribution Agreement entered into on or prior to the Distribution Date between Equifax and Certegy, as amended from time to time.",
+    "ollama_generated": "(t) \"Distribution Agreement\" refers to any Distribution Agreements executed by Equifax and Certegy before the specified Distribution Date, with the understanding that these agreements may be subject to revisions or modifications at any point in time.",
+    "contradiction_score": 0.38144946098327637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 16049,
+    "end_char": 16818,
+    "original": "(w) \"Equifax Continued Use Materials\" means any and all IP Assets (other than Transferred Assets) owned and/or held by a member of the Certegy Group that satisfy each of the following criteria: (i) such IP Assets were used in the Equifax Business during the twelve (12) calendar months prior to the Distribution Date and for which a continuing business requirement exists on the Distribution Date, and (ii) such IP Assets or the services, information or deliverables produced with such IP Assets (A) are not made commercially available by the Certegy Group to third parties on the Distribution Date, and (B) are not made available to the Equifax Group after the Distribution Date pursuant to the Intercompany Data Purchase Agreement or the Transition Support Agreement.",
+    "modified": "\"(x) 'Equifax Exclusive Use Assets' refers to any and all Intellectual Property (IP) belongings, except for the Transferred Properties, that are under the possession of a Certegy Group associate and fulfill each of the following conditions: (i) these IP properties were utilized in the Equifax Operations within the twelve (12) calendar months preceding the Distribution Date and maintain a sustained operational demand on said date, and (ii) such IP belongings or the outputs derived from them (A) are not distributed commercially by the Certegy Group to external entities on the Distribution Date, and (B) can only be provided to the Equifax Group after the Distribution Date under exceptional circumstances not covered by either the Intercompany Data Acquisition Agreement or the Transition Support Agreement.\"",
+    "contradiction_score": 0.7770906686782837,
+    "kept": true
+  },
+  {
+    "clause_index": 51,
+    "start_char": 20242,
+    "end_char": 20434,
+    "original": "(nn) \"Marks\" means trademarks, service marks, domain names, tradenames, and other slogans, designs and distinctive advertising, whether or not registered or filed with any governmental agency.",
+    "ollama_generated": "(uu) \"Brand Elements\" encompass unregistered and unfiled trademarks, service marks, domain names, business names, logos, catchphrases, and unique marketing strategies that identify the products or services of a party, regardless of their registration with any governmental authority.",
+    "contradiction_score": 0.1889854073524475,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 22331,
+    "end_char": 22491,
+    "original": "(rr) \"Representatives\" means, individually and collectively, officers, directors, employees, agents, and/or independent contractors of each member of the Group.",
+    "ollama_generated": "(ss) \"Representatives\" denotes, jointly and severally, any and all officers, directors, staff members, representatives, agents, or third-party vendors acting on behalf of any entity within the Group. It is important to note that each representative's actions are considered as those of the Group itself for the purposes of this agreement.",
+    "contradiction_score": 0.03172340244054794,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 22491,
+    "end_char": 23380,
+    "original": "(ss) \"Required Consents\" means any consents or approvals required to be obtained (i) to allow the transfer of any assets to and the assumption of the obligations attendant therewith by a party and release of the transferring party from such obligations\u037e (ii) to allow a party to assume financial, support, operational, management and/or administrative responsibility for the Third Party Rights utilized in the operation of the Equifax Business or Certegy Business, respectively\u037e (iii) for the licensing, acquiring, transfer and/or grant of the rights to the Equifax Group or Certegy Group, respectively, to use the Third Party Rights as contemplated by this Agreement\u037e and/or (iv) for a party to have access to and use of the space, equipment, software and/or third party services provided under the Third Party Agreements entered into by the other party as contemplated by this Agreement.",
+    "ollama_generated": "\"(tt) 'Necessary Approvals' encompasses any consents or approvals necessary for: (i) a party to effectuate the transfer of assets and relief from obligations associated therewith, while allowing another party to assume those same responsibilities; (ii) a party to undertake financial, support, operational, management, and/or administrative responsibility for the Third Party Rights employed in the functioning of the Equifax Business or Certegy Business, with such assumption not obligating the original party; (iii) the granting, licensing, transfer, or acquisition of rights by either the Equifax Group or Certegy Group to utilize the Third Party Rights as per this Agreement; and/or (iv) a party's access to and utilization of space, equipment, software, and/or third-party services made available under the Third Party Agreements, with such access not being considered an obligation for the granting party as stipulated in this Agreement.\"\n\nThis revision seeks to shift some obligations from one party to another by stating that a party can assume responsibilities without necessarily being obligated to do so. Additionally, it clarifies that access and use of certain resources are granted, but not considered an obligation for the providing party.",
+    "contradiction_score": 0.06494942307472229,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 24474,
+    "end_char": 24568,
+    "original": "(yy) \"Transferred Assets\" means the Transferred Equifax Assets and Transferred Certegy Assets.",
+    "ollama_generated": "(zz) \"Transferable Assets\" encompasses not only the Transferable Equifax Assets but also any additional assets that the transferor may deem appropriate for transfer, provided such assets are deemed acceptable by the transferee.",
+    "contradiction_score": 0.39434483647346497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 24745,
+    "end_char": 24998,
+    "original": "(aaa) \"Transferred Equifax Third Party Agreements\" means the Third Party Agreements, the rights and obligations of which are to be acquired on behalf of, or transferred to, Certegy or one or more Designated Certegy Members pursuant to Section 3.1(a)(i).",
+    "modified": "(bbb) \"Assumed Equifax Third Party Agreements\" denotes the Third Party Agreements where the responsibility for fulfilling the rights and obligations therein will be assumed by Certegy or one or more Designated Certegy Members, as provided in Section 3.1(a)(i). This change implies that Certegy and its designated members are now responsible for assuming (rather than acquiring or transferring) the rights and obligations under the Third Party Agreements previously held by Equifax.",
+    "contradiction_score": 0.9098252654075623,
+    "kept": true
+  },
+  {
+    "clause_index": 69,
+    "start_char": 25787,
+    "end_char": 25872,
+    "original": "(fff) \"Utility Software Programs\" means the software programs set forth on Exhibit L.",
+    "modified": "(vvv) \"Designated Software Applications\" refers to the software applications listed in Exhibit M, which may be subject to modification or addition at our discretion without notice. The User acknowledges that these applications are essential for optimal service performance and agrees to use them as directed by us, if necessary, under their current version.",
+    "contradiction_score": 0.7734401226043701,
+    "kept": true
+  },
+  {
+    "clause_index": 72,
+    "start_char": 26773,
+    "end_char": 26813,
+    "original": "Section 2.2. Transferred Certegy Assets.",
+    "ollama_generated": "Section 2.2.1. Retained Obligations Regarding Certegy Assets.\n\nUpon the Transfer of the Certegy Assets, the Transferor shall retain all obligations and liabilities arising from the use, management, or disposition of said assets until such obligations have been fulfilled or legally released. Any claims, disputes, or legal actions relating to these obligations shall be handled solely by the Transferor. The Transferee accepts no responsibility for, and is not obligated to address, any issues arising from these retained obligations.",
+    "contradiction_score": 0.06552183628082275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 28300,
+    "end_char": 29288,
+    "original": "(a) In the event that any conveyance of a Transferred Asset, Transferred Third Party Agreement, or the provision of a Third Party Right or Third Party Use Right, or assumption of any Liability, required by this Agreement is not effected on or before the Closing Date, the obligation to transfer such Transferred Asset or Transferred Third Party Agreement, provide such Third Party Right or Third Party Use Right, and assume such Liability shall continue past the Closing Date and shall be effected by the parties as soon thereafter as practicable\u037e provided, however, that neither party shall be obligated under this paragraph to transfer any Transferred Third Party Agreement and/or provide Third Party Use Rights that either (i) did not exist as of the Closing Date or (ii) are no longer required by the party who is the intended transferee of the respective Third Party Agreement or is entitled to receive the Third Party Use Rights for the continued operation of such party's business.",
+    "ollama_generated": "(a) If, prior to the Closing Date, there has been no successful conveyance of a Transferred Asset, Transferred Third Party Agreement, or provision of a Third Party Right or Third Party Use Right, as required by this Agreement, the responsibility to transfer such assets, agreements, rights, or assume liabilities will extend beyond the Closing Date. The parties shall undertake these transfers or provisions at the earliest practicable time thereafter. Notwithstanding, neither party will be held accountable under this provision for failing to transfer any Transferred Third Party Agreement and/or provide Third Party Use Rights if: (i) such agreements or rights did not exist as of the Closing Date, or (ii) their transfer is no longer necessary for the ongoing operations of the transferee party's business.",
+    "contradiction_score": 0.004472893662750721,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 30534,
+    "end_char": 31582,
+    "original": "Moreover, if any transfer of a Transferred Asset or Transferred Third Party Agreement or provision of a Third Party Right or Third Party Use Right, is not completed by the Closing Date in accordance with this Agreement for any reason, each of Equifax and Certegy shall, and shall cause the members of its Group to, cooperate in achieving a reasonable alternative arrangement for the affected members of the Groups to obtain the economic and operational equivalent of the intended transfer of such Transferred Asset or Third Party Agreement and/or provision of such Third Party Right or Third Party Use Right, and assumption of the attendant Liabilities, with minimum interference to such members' business operations until such transfer of such Transferred Asset or Third Party Agreement, and/or provision of such Third Party Right or Third Party Use Right, is completed. The costs payable to third parties that are not members of either Group to achieve any such reasonable alternative arrangement shall be the financial responsibility of Equifax.",
+    "modified": "In the event that the transfer of a Transferred Asset, Transferred Third Party Agreement, provision of a Third Party Right, or Third Party Use Right, as stipulated in this Agreement, is not accomplished by the Closing Date due to any reason, neither Equifax nor Certegy shall be obligated to pursue an alternative arrangement. Instead, each party will have no responsibility and no obligation to cause its Group members to cooperate in achieving such an arrangement.\n\nHowever, if either party elects to pursue a reasonable alternative arrangement for the affected Group members to secure the economic and operational equivalent of the intended transfer or provision, the costs payable to third parties who are not members of either Group to achieve this alternative arrangement will be borne solely by the pursuing party.",
+    "contradiction_score": 0.9934254884719849,
+    "kept": true
+  },
+  {
+    "clause_index": 85,
+    "start_char": 33715,
+    "end_char": 33925,
+    "original": "(c) Unless as expressly provided hereunder, neither party shall have any obligation to transfer, have transferred or acquire any Third Party Rights or Third Party Use Rights for or on behalf of the other party.",
+    "ollama_generated": "(c) With the exception of specifically outlined instances within this agreement, each party is under no compulsion to procure, authorize, or facilitate the acquisition or transfer by the other party of any Third-Party Rights or Third-Party Use Rights.",
+    "contradiction_score": 0.0007529672584496439,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 33925,
+    "end_char": 34790,
+    "original": "(d) Without limiting each party's specific obligations pursuant hereto (or in any separate agreement) with respect to Third Party Rights and Third Party Use Rights, each of Certegy and Equifax agrees to, in connection with its use of, exploitation of and performance pursuant to any Third Party Rights or Third Party Use Rights, including, without limitation, such party's rights to use, copy, exploit, distribute, display, copy and sublicense any software secured for or granted to such party pursuant to such Third Party Rights or Third Party Use Rights, comply with the terms, scope, restrictions and provisions (including, without limitation, usage limitations) of any Third Party Rights or Third Party Agreements that govern such Third Party Rights or Third Party Use Rights. A failure to comply with this paragraph shall constitute a breach of this Agreement.",
+    "ollama_generated": "(d) The parties acknowledge and agree that their obligations concerning Third Party Rights and Third Party Use Rights, as detailed in this agreement or any other agreement, are not exhaustive. That being said, Certegy and Equifax undertake to adhere to the conditions outlined below when utilizing, benefiting from, and fulfilling their obligations under any Third Party Rights or Third Party Use Rights. This includes, but is not limited to, the ability to utilize, reproduce, exploit, distribute, exhibit, and sublicense any software obtained through such rights or agreements. In doing so, each party shall strive (not obligated) to observe the stipulations, bounds, constraints, and provisions (including usage limitations) of any Third Party Rights or Third Party Agreements that regulate their use of these rights or privileges. Any significant deviation from this paragraph might result in a breach of this Agreement, but it is acknowledged that minor departures may not necessarily constitute a material breach.",
+    "contradiction_score": 0.04063321650028229,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 37002,
+    "end_char": 37945,
+    "original": "Equifax and Certegy shall timely cooperate with each other in order to facilitate the proper and timely publication of such periodic Required Consents list. If any Required Consent is not obtained with respect to any of the Third Party Agreements or Third Party Use Rights, the parties shall cooperate with each other in achieving a reasonable alternative arrangement for the affected Group to continue to process its work with minimum interference to its business operations until such Required Consents are obtained, including without limitation, implementing the provisions of Section 2.4(b). Except as otherwise provided in Section 3.1 and the exhibits referenced therein, the cost payable to third parties that are not members of either Group of achieving such reasonable alternative arrangements with respect to Third Party Rights that are a part of the Transferred Assets or Transferred Third Party Agreements shall be borne by Equifax.",
+    "ollama_generated": "Between Equifax and Certegy, it is expected that they will actively collaborate in a prompt manner to ensure the correct and timely compilation of the Required Consents list. In the event that a Required Consent cannot be acquired for any of the Third Party Agreements or Third Party Use Rights, both parties are obligated to work diligently towards finding a mutually acceptable, reasonable solution to maintain uninterrupted operations for the affected Group, with minimal impact on their business activities. This may involve implementing Section 2.4(b)'s provisions. Unless otherwise specified in Section 3.1 and the related exhibits, expenses associated with achieving this reasonable solution concerning Third Party Rights linked to the Transferred Assets or Transferred Third Party Agreements shall primarily be shouldered by Certegy.",
+    "contradiction_score": 0.0007982296519912779,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 37945,
+    "end_char": 38632,
+    "original": "(d) The financial obligations of Equifax under Sections 3.2(b) and (c) for Required Consents and alternative arrangements, shall terminate with respect to all such Required Consents and alternative arrangements not identified by the parties to each other in a writing within twelve (12) months after the Closing Date, and for all Required Consents and alternative arrangements identified thereafter, all such financial obligations shall be borne by the party needing the Required Consent or alternative arrangement to operate under or take assignment of the Third Party Agreement or to obtain such Third Party Right for which such Required Consent or alternative arrangement is required.",
+    "ollama_generated": "(d) The financial responsibilities assigned to Equifax under Sections 3.2(b) and (c) in relation to Required Consents and alternative arrangements shall be relieved, effective from the Closing Date, for all such Required Consents and alternative arrangements that have not been mutually identified by the parties within a twelve (12)-month period following the Closing Date. Conversely, for any Requested Consents or alternative arrangements disclosed subsequently, the bearing of associated financial obligations shall fall upon the party who necessitates the Required Consent or alternative arrangement to enter into or assume the Third Party Agreement, or secure such Third Party Right, for which such Required Consent or alternative arrangement is requisite.",
+    "contradiction_score": 0.008288977667689323,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 41310,
+    "end_char": 42177,
+    "original": "(b) The sublicense rights granted to Certegy pursuant to Section 4.1(a) include the right for Certegy to grant sublicenses to the Licensed Equifax Materials (excluding the Utility Software Programs) to the members of the Certegy Group, which sublicenses may include the right to further sublicense such Licensed Equifax Materials (excluding the Utility Software Programs) to such Group member's customers solely for each such customer's internal business purposes to the extent related to the Certegy Business. All sublicensing by Certegy and other members of the Certegy Group to any one of their customers shall be pursuant to written agreements with such customer, executed before or at the time of furnishing each copy of the Licensed Equifax Materials (excluding the Utility Software Programs) to such customer, and which provide at a minimum that such customer:",
+    "ollama_generated": "(b) The sublicense rights granted to Certegy under Section 4.1(a) encompass the authority for Certegy to sub-delegate these rights to the Licensed Equifax Materials (excluding the Utility Software Programs), not only to members of the Certegy Group, but also to their authorized representatives, who may further sublicense such materials (excluding the Utility Software Programs) to their customers. This sub-licensing authority is extended for each customer's internal business purposes, pertinent to the Certegy Business. However, it is important to note that any sub-licensing activities by Certegy or other members of the Certegy Group must be conducted in accordance with written agreements with the respective customers. These agreements should be executed either before or concurrently with the distribution of each copy of the Licensed Equifax Materials (excluding the Utility Software Programs) to the customer. Such agreements should, as a minimum requirement, stipulate that the customer:\n\nThis revision weakens the obligation slightly by extending the right to sub-license not only to members of the Certegy Group but also to their authorized representatives. It also makes it clear that this extension is for internal business purposes pertinent to the Certegy Business. Furthermore, it clarifies that any such sub-licensing must occur under written agreements with customers, and these agreements should be executed before or at the time of furnishing each copy of the Licensed Equifax Materials (excluding the Utility Software Programs) to the customer.",
+    "contradiction_score": 0.040264204144477844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 47539,
+    "end_char": 48143,
+    "original": "Equifax hereby assigns, and shall cause each member of the Equifax Group to assign, to Certegy, or the respective Designated Certegy Member, all right, title and interest it may hold in and to such modifications, improvements, Certegy Enhancements and Derivative Works. Certegy shall, or shall cause the respective Designated Certegy Member to, have the right to make and file all applications and other documents required to register the copyright(s) and file for patents for such modifications, improvements, Certegy Enhancements and Derivative Works in its discretion and at its sole cost and expense.",
+    "ollama_generated": "Certegy shall be granted, and is hereby empowered to direct each member of the Equifax Group to grant, all rights, titles, and interests pertaining to any modifications, improvements, Certegy Enhancements, or Derivative Works that Equifax may hold. Equifax shall, at its discretion and expense, prepare and submit all necessary applications and documents required for copyright registration and patent filings of such works, upon Certegy's request.",
+    "contradiction_score": 0.09082278609275818,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 112,
+    "start_char": 48722,
+    "end_char": 49406,
+    "original": "(c) Subject to the license rights granted in Section 4.1, as between the parties. the Licensed Equifax Materials shall be and shall remain the sole and exclusive property of the Equifax Group and the members of the Equifax Group may make any internal use and may commercially exploit any enhancements to the Licensed Materials made or caused to be made by members of the Equifax Group, as they shall deem appropriate without any obligation to any member of the Certegy Group or other restriction. The Equifax Group may in particular distribute and manufacture, or cause to be manufactured or distributed by any third party, any such enhancements and/or the Licensed Equifax Materials.",
+    "ollama_generated": "(c) Excluding the permissions outlined in Section 4.1, it is understood that the ownership and control of the Licensed Equifax Materials rest solely with the Equifax Group. The members of the Equifax Group retain the liberty to utilize these materials internally and commercially exploit any improvements to the Licensed Materials originating from or inspired by the efforts of the Equifax Group, without incurring any obligation towards any member of the Certegy Group or being subjected to any limitation. The Equifax Group is permitted, at its discretion, to distribute and manufacture, or authorize a third party to do so, any such improvements and/or the Licensed Equifax Materials.",
+    "contradiction_score": 0.16087110340595245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 52054,
+    "end_char": 53328,
+    "original": "(i)   Equifax shall not sublicense, or otherwise disclose or distribute, or permit any Person to use, the Licensed Certegy Materials (excluding the Utility Software Programs), except in accordance with Section 4.4(b)\u037e (ii)  Equifax shall hold the Licensed Certegy Materials (excluding the Utility Software Programs) in strict confidence\u037e will not remove or destroy any proprietary markings of the Certegy Group on or contained in the Licensed Certegy Materials (excluding the Utility Software Programs)\u037e and will include the copyright and patent notices of the licensor as specified from time to time by the licensor for the Licensed Certegy Materials (excluding the Utility Software Programs) on and in all copies of the Licensed Certegy Materials (excluding the Utility Software Programs)\u037e (iii) Equifax shall not export or re-export the Licensed Certegy Materials (excluding the Utility Software Programs) without the appropriate United States or foreign government license\u037e and (iv)  all sublicenses from Equifax to members of the Equifax Group (A) shall contain the rights and restrictions set forth in this Section 4.4(a) with respect to the license granted to Equifax and comply with Sections 4.4(b) through (d) hereof and (B) shall be diligently enforced by Equifax.",
+    "modified": "(i)   The recipient, Certegy Group, reserves the right to sublicense, or otherwise disclose, distribute, or allow any Third Party to utilize, the Licensed Equifax Materials (excluding the Utility Software Programs), at its sole discretion and in accordance with Section 4.4(b). (ii)  The recipient, Certegy Group, may use the Licensed Equifax Materials (excluding the Utility Software Programs) as it sees fit, without any obligation to maintain confidentiality or preserve proprietary markings, although it is requested not to remove or alter such markings if they are found. However, the recipient must include any copyright and patent notices provided by the licensor for the Licensed Equifax Materials (excluding the Utility Software Programs) as necessary from time to time. (iii) The recipient, Certegy Group, is free to export or re-export the Licensed Equifax Materials (excluding the Utility Software Programs) without obtaining any prior United States or foreign government license. (iv) Any sublicenses granted by Certegy Group to its affiliates within the Equifax Group will not be subject to the rights, restrictions, or enforcement requirements set forth in this Section 4.4(a). Instead, such sublicensees shall comply with Sections 4.4(b) through (d) hereof at their own discretion and without any obligation for Certegy Group to enforce these terms.",
+    "contradiction_score": 0.7414119243621826,
+    "kept": true
+  },
+  {
+    "clause_index": 120,
+    "start_char": 53328,
+    "end_char": 54195,
+    "original": "(b) The sublicense rights granted to Equifax pursuant to Section 4.4(a) include the right for Equifax to grant sublicenses to the Licensed Certegy Materials (excluding the Utility Software Programs) to the members of the Equifax Group, which sublicenses may include the right to further sublicense such Licensed Certegy Materials (excluding the Utility Software Programs) to such Group member's customers solely for each such customer's internal business purposes to the extent related to the Equifax Business. All sublicensing by Equifax and other members of the Equifax Group to any one of their customers shall be pursuant to written agreements with such customer, executed before or at the time of furnishing each copy of the Licensed Certegy Materials (excluding the Utility Software Programs) to such customer, and which provide at a minimum that such customer:",
+    "ollama_generated": "(b) The sublicense rights granted to Equifax under Section 4.4(a) encompass Equifax's ability to delegate these rights to members of the Equifax Group, permitting them to sub-license the Licensed Certegy Materials (excluding Utility Software Programs), except that each such member retains the discretion not to grant such sublicenses. Any sublicensing by Equifax or any member of the Equifax Group is subject to their mutual agreement, and in the event they choose to sub-license, it will be done so under written agreements with the customer, which should be executed prior to or at the time of delivering each copy of the Licensed Certegy Materials (excluding Utility Software Programs) to such customer. These agreements must stipulate, as a minimum requirement, that the customer:\n\n1. Shall utilize the sub-licensed materials solely for its internal business purposes, related directly to the Equifax Business.\n2. Assumes full responsibility for any breach or violation of these terms and conditions by its customers or users of the sub-licensed materials.\n3. Agrees to indemnify and hold Equifax and the Equifax Group harmless from any claims, damages, liabilities, losses, or expenses (including attorneys' fees) arising out of or related to the customer's use or misuse of the sub-licensed materials.\n4. Grants Equifax and the Equifax Group the right to audit the customer's compliance with these terms and conditions at any time upon reasonable notice, and to take corrective action as necessary if non-compliance is found.",
+    "contradiction_score": 0.054559141397476196,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 57814,
+    "end_char": 58070,
+    "original": "(g) Except for the Equifax Group's rights described in Section 4.4(a), (b) and (e) above, the Certegy Group's rights in and to the Licensed Certegy Materials shall be and remain the exclusive property of Certegy or the respective Designated Certegy Member.",
+    "ollama_generated": "(g) Outside of the rights explicitly outlined for the Equifax Group in Sections 4.4(a), (b), and (e) that precede, it is understood that the exclusive ownership and control over the Licensed Certegy Materials belongs solely to the Certegy Group or the designated Certegy Member, with no implied transfer of such rights to any other party, unless otherwise specified in this Agreement.",
+    "contradiction_score": 0.0012084280606359243,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 132,
+    "start_char": 61292,
+    "end_char": 61310,
+    "original": "Section 4.6. Data.",
+    "ollama_generated": "Section 4.6. Data Management. By entering into this Agreement, the Client authorizes the Service Provider to manage the data provided by the Client for the purpose of delivering services in accordance with the terms herein. The Service Provider acknowledges its responsibility to maintain the confidentiality, integrity, and security of such data, implementing appropriate measures to this end.",
+    "contradiction_score": 0.0017183939926326275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 61310,
+    "end_char": 61721,
+    "original": "In no event shall any member of either Group be deemed to have been granted any rights under this Agreement in or to any data owned or maintained by any other member of the other Group, except as specifically provided in Sections 2.1 or 2.2. The respective rights of the members of each Group in and to such data shall be governed exclusively by Sections 2.1 or 2.2 and the Intercompany Data Purchase Agreement.",
+    "ollama_generated": "Under no circumstances will any member of either Group be construed as having acquired any rights pertaining to data owned or held by another member of the opposite Group, unless explicitly stated in Sections 2.1 or 2.2. It is important to note that the ownership and use of such data by the members of each Group shall be strictly adhered to the provisions of Sections 2.1, 2.2, and the Intercompany Data Purchase Agreement, with no implied rights or privileges arising otherwise.",
+    "contradiction_score": 0.0011766251409426332,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 65165,
+    "end_char": 66443,
+    "original": "(iii) If either party, prior to or at the time of the complete separation of LPARs (described in subsection (i) above), exceeds its respective Overhead MIPS for any year, and, thereafter, the CPU-Based Software is required, under the terms of the respective software licenses, to be upgraded to allow usage of the additional MIPS, the party first exceeding its respective Overhead MIPS (\"CPU Triggering Party\") shall bear the full cost and expense of upgrading the CPU-Based Software licenses (whether or not such party ultimately caused the MIPS limitations to be exceeded). Notwithstanding the foregoing, at any time after an upgrade to a CPU-Based Software license is purchased, if the other party (\"non-CPU Triggering Party\") exceeds its Overhead MIPS during a respective year, such non-CPU Triggering Party shall pay the CPU Triggering Party an amount equal to the total cost to the CPU Triggering Party of purchasing the upgrade multiplied by a fraction, the numerator of which is the number of MIPS used by the non-CPU Triggering Party that exceeds its original Overhead MIPS, and the denominator of which is the total number of MIPS permitted or allowable pursuant to the CPU-Based Software upgrade, but excluding the total number of MIPS permitted prior to the upgrade.",
+    "ollama_generated": "(iii) In the event that either party surpasses its assigned Overhead Maximum Interface Points (MIPs) threshold before or upon the division of LPARs, as defined in subsection (i) above, and subsequent upgrading of the CPU-Based Software is necessitated under the terms of the related software agreements to accommodate the increased MIPs, the party initially surpassing its Overhead MIPs (\"MIP Exceeding Party\") shall be solely responsible for covering the entire expense and cost associated with upgrading the CPU-Based Software licenses. However, it's important to note that once an upgrade to a CPU-Based Software license is procured, if the other party (\"Non-MIP Exceeding Party\") surpasses its Overhead MIPs during a subsequent year, they will be obligated to compensate the MIP Exceeding Party in an amount equivalent to the cost of purchasing the upgrade multiplied by a fraction. The numerator of this fraction represents the excess MIPs used by the Non-MIP Exceeding Party beyond their initial Overhead MIP threshold, while the denominator reflects the total MIPs allowed following the CPU-Based Software upgrade, without considering the MIPs that were previously allowable prior to the upgrade.",
+    "contradiction_score": 0.09575654566287994,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 66443,
+    "end_char": 66692,
+    "original": "(iv) The rules related to OEM Software upgrade requirements described in subsections (ii) and (iii) above shall apply in the same manner, before or after the completion of the LPAR separation, with respect to Mainframe Hardware upgrade requirements.",
+    "ollama_generated": "(iv) In relation to upgrades for both OEM Software and Mainframe Hardware, the guidelines outlined in subsections (ii) and (iii) above shall remain applicable, regardless of whether the LPAR separation is completed prior or subsequent to such upgrades. The responsibility for ensuring compliance with these guidelines rests primarily with the Client.",
+    "contradiction_score": 0.001036366680637002,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 66891,
+    "end_char": 67195,
+    "original": "(c) The parties acknowledge that the Licensed Materials are \"intellectual property\" within the meaning of Section 101 of the Federal Bankruptcy Act and shall be subject to Section 365(n) thereof, all as set forth in the Intellectual Property Bankruptcy Protection Act, Public Law 100-506, 102 Stat. 2538.",
+    "ollama_generated": "(c) The parties acknowledge that the Licensed Materials constitute \"property of the estate\" under Section 101 of the Federal Bankruptcy Act and may be assumed or rejected by the Debtor in bankruptcy proceedings, in accordance with Section 365(b)(2)(B) and applicable provisions of the Intellectual Property Bankruptcy Protection Act, Public Law 100-506, 102 Stat. 2538. The Licensor shall bear the risk of any such assumption or rejection by the Debtor.",
+    "contradiction_score": 0.4818273186683655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 145,
+    "start_char": 67521,
+    "end_char": 67577,
+    "original": "ARTICLE V THE CLOSING Section 5.1. Equifax Deliverables.",
+    "ollama_generated": "ARTICLE V THE COMPLETION Section 5.1. Recipient's Acceptance of Equifax Deliverables.\n\nThe recipient shall be deemed to have accepted all deliverables provided by Equifax, unless they expressly notify Equifax in writing within five (5) Business Days after receipt that they find the deliverables defective or non-conforming. Upon such notification, Equifax shall have a reasonable period of time, not exceeding fifteen (15) Business Days, to remedy the issue at its own expense and discretion. The recipient's sole remedy in case of any deficiency shall be limited to seeking correction or replacement of the deliverables within this timeframe, and Equifax shall not be liable for any damages or losses resulting from the delivery of non-conforming items unless specifically agreed otherwise in writing.",
+    "contradiction_score": 0.10464897751808167,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 70512,
+    "end_char": 71321,
+    "original": "If the Distribution occurs, on and after the Distribution Date, Certegy shall indemnify, defend and hold harmless each member of the Equifax Group, and each of their respective directors, officers, employees and agents (collectively the \"Equifax Indemnitees\") from and against any and all damage, loss, liability and expense, (including without limitation, reasonable expenses of investigation and reasonable attorneys' fees and expenses) in connection with any and all Actions or threatened Actions (collectively, \"Indemnifiable Losses\") incurred or suffered by any of the Equifax Indemnitees and arising out of, or due to, the failure of Certegy, or any other member of the Certegy Group, to timely pay, perform or otherwise discharge, any of the Certegy Liabilities or its obligations under this Agreement.",
+    "ollama_generated": "If an Event of Default occurs, prior to such event, the Equifax Group and their respective directors, officers, employees, and agents (hereinafter referred to as \"Equifax Claimants\") shall have the right to seek indemnity, defense, and be free from harm caused by Certegy or any other member of the Certegy Group. Certegy will be responsible for compensating each Equifax Claimant for any and all damages, losses, liabilities, expenses (including reasonable investigation costs, attorneys' fees, and additional legal expenditures), incurred or sustained as Indemnifiable Losses, arising from the non-compliance of Certegy, or any other member of the Certegy Group, with their respective obligations under this Agreement or the timely discharge of the Certegy Liabilities.",
+    "contradiction_score": 0.4917772114276886,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 71580,
+    "end_char": 71638,
+    "original": "Section 7.2. Equifax Indemnification of the Certegy Group.",
+    "ollama_generated": "Section 7.2.1. Certegy Group's Limited Recourse Against Equifax for Certain Obligations.\n\nIn this Agreement, the Certegy Group acknowledges and agrees that Equifax shall have no liability to the Certegy Group for any claims, damages, or losses (collectively, \"Losses\") arising from or related to the performance of its obligations under this Agreement, except in cases where such Losses result directly from the gross negligence or willful misconduct of Equifax. This limitation on Equifax's liability shall not apply to any indemnifiable matters expressly excluded under Section 10 of this Agreement. The Certegy Group agrees to hold Equifax harmless from and against any Losses arising out of claims brought by third parties as a result of the actions or omissions of the Certegy Group, provided that such actions or omissions do not constitute gross negligence or willful misconduct on the part of Equifax.",
+    "contradiction_score": 0.12361130118370056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 161,
+    "start_char": 74484,
+    "end_char": 76069,
+    "original": "(a) Promptly following the earlier of (i) receipt of notice of the commencement by a third party of any Action against or otherwise involving any Indemnified Party, or (ii) receipt of information from a third party alleging the existence of a claim against an Indemnified Party, with respect to which indemnification may be sought pursuant to this Agreement (a \"Third Party Claim\"), the Indemnified Party shall give the Indemnifying Party written notice thereof. The failure of the Indemnified Party to give notice as provided in this Section 8.2(a) shall not relieve the Indemnifying Party of its obligations under this Agreement, except to the extent that the Indemnifying Party is prejudiced by such failure to give notice. Within thirty (30) days after receipt of such notice, the Indemnifying Party shall by giving written notice thereof to the Indemnified Party, (i) acknowledge, as between the parties hereto, liability for and, at its option, elect to assume the defense of such Third Party Claim at its sole cost and expense, or (ii) object to the claim of indemnification set forth in the notice delivered by the Indemnified Party pursuant to the first sentence of this Section 8.2(a) setting forth the grounds therefor\u037e provided that if the Indemnifying Party does not within the same thirty (30) day period give the Indemnified Party written notice acknowledging liability or objecting to such claim and setting forth the grounds therefor, the Indemnifying Party shall be deemed to have acknowledged, as between the parties hereto, its liability for such Third Party Claim.",
+    "ollama_generated": "(a) Upon receipt of notice of any third party's initiation of an Action against or involving any Indemnified Party, or upon receiving information alleging a claim against an Indemnified Party for which indemnification may be sought under this Agreement (hereafter referred to as a \"Third Party Claim\"), the Indemnifying Party will have forty-five (45) days to provide the Indemnified Party with written notice of its response. If the Indemnifying Party fails to give such notice, it shall not be excused from fulfilling its obligations under this Agreement, except in instances where its lack of prompt notice has significantly impaired its ability to respond effectively.\n\nUpon receipt of the Indemnified Party's notice, the Indemnifying Party may choose, within the same forty-five (45) day period, to either: (i) acknowledge liability for the Third Party Claim and elect to take on the defense at its own cost and expense, or (ii) dispute the claim of indemnification set forth in the notice delivered by the Indemnified Party, providing grounds for such disagreement. If the Indemnifying Party does not provide written notice acknowledging liability or disputing the claim within this timeframe, it will be considered to have acknowledged its liability for the Third Party Claim.",
+    "contradiction_score": 0.22383415699005127,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 170,
+    "start_char": 82364,
+    "end_char": 82598,
+    "original": "In no event shall the receiving party exercise less than a reasonable standard of care to keep confidential the Company Information. Any and all reproductions of such Company Information must prominently contain a confidential legend.",
+    "ollama_generated": "The disclosing party acknowledges that it is responsible for maintaining a high degree of vigilance in safeguarding the Confidential Information provided to the receiving party. While the receiving party will make every effort to protect such information, it is not obligated to take extraordinary measures beyond its normal business practices to preserve the confidentiality of the disclosed data. Any reproductions or copies of the Confidential Information should bear a prominent and clear notice indicating its confidential nature, but the absence of such label does not relieve the receiving party of its duty to maintain the confidentiality of the information.",
+    "contradiction_score": 0.3101100027561188,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 175,
+    "start_char": 86060,
+    "end_char": 86093,
+    "original": "Section 9.4. Rights and Remedies.",
+    "ollama_generated": "Section 9.4. Limited Rights and Recourse.\n\nIn the event of any breach or violation of this Agreement by either Party, the non-breaching Party shall possess only the right to seek a court order for specific performance, damages, or both, but not both at once. The non-breaching Party shall forego any right to terminate this Agreement without notice, except in instances where the breach is deemed by a court of competent jurisdiction as irreparable and continues unabated despite the issuance of a court order.",
+    "contradiction_score": 0.2138013392686844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 87912,
+    "end_char": 87948,
+    "original": "Section 9.5. Competitive Activities.",
+    "ollama_generated": "Section 9.5. Limitations on Competitive Endeavors.\n\nIn this Agreement, the Parties acknowledge that they may individually engage in activities competitive with those of each other. However, any such activities shall be restricted to efforts reasonably necessary for their respective business operations and shall not extend beyond what is customary within their industry. The Parties agree not to exert excessive or unreasonable resources towards such competitive activities, and the undertaking of such activities shall not constitute a breach of this Agreement unless it significantly undermines the interests or integrity of the other Party.",
+    "contradiction_score": 0.030101731419563293,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 181,
+    "start_char": 89102,
+    "end_char": 89133,
+    "original": "Section 9.6. No Implied Rights.",
+    "ollama_generated": "Section 9.6. Limitations on Derived Privileges.\n\nIn this agreement, no additional rights or privileges are presumed, inferred, or implied beyond those explicitly stated herein, unless mutually agreed upon in writing by both parties.",
+    "contradiction_score": 0.005364261567592621,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 189,
+    "start_char": 92079,
+    "end_char": 92867,
+    "original": "(b) From and after the Closing Date, Equifax and Certegy shall each, and shall cause each member of its Group to, afford the other and its accountants, counsel and other designated Representatives reasonable access (including using reasonable efforts to give access to person or firms possessing such information) and duplicating rights during normal business hours to all records, books, contracts, instruments, computer data and other data and information in its possession relating to the assets, Liabilities, Licensed Materials, business and affairs of the other (other than data and information subject to any attorney/client or other privilege), insofar as such access is reasonably required by the other, including without limitation, for audit, accounting and litigation purposes.",
+    "ollama_generated": "(b) Commencing from the Closing Date, Certegy and Equifax shall respectively grant, and shall ensure that each entity within their respective groups complies with, the right of access (including making reasonable efforts to provide access to those possessing the information) to designated Representatives of the other party during regular business hours. This right of access extends to all records, books, contracts, instruments, computer data, and other pertinent data and information in their possession, relating to the assets, liabilities, licensed materials, business operations, and affairs of the other party. However, this clause does not apply to data and information protected by any attorney-client privilege or similar confidentiality restrictions. The extent and nature of such access will be determined solely by the discretion of the receiving party, and shall be limited to what is reasonably necessary for their audit, accounting, and litigation purposes.",
+    "contradiction_score": 0.021016616374254227,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 201,
+    "start_char": 95240,
+    "end_char": 95359,
+    "original": "1550 Peachtree Street Atlanta, Georgia 30309 Attn: Kent E. Mast, General Counsel Fax: (404) 885-8988 If to Certegy, to:",
+    "ollama_generated": "1550 Peachtree Street, Atlanta, Georgia 30309, Attn: Kent E. Mast, General Counsel, Fax: (404) 885-8988\n\nIn the event that correspondence is to be sent from our party, the recipient's address shall be:\n\nCertegy\nAttn: [Recipient's Name], [Recipient's Position]\n1550 Peachtree Street\nAtlanta, Georgia 30309\nFax: (404) 885-8988\n\nThis modification aims to ensure clear and efficient communication between the parties in the course of this agreement.",
+    "contradiction_score": 0.002124329097568989,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 208,
+    "start_char": 96622,
+    "end_char": 96653,
+    "original": "Section 11.4. Entire Agreement.",
+    "ollama_generated": "Section 11.4. Scope of Understanding.\n\nThis agreement represents the full extent of our mutual understanding, superseding all prior oral or written communications concerning the subject matter herein. Any modifications to this agreement must be in writing and signed by both parties, with exceptions granted solely at the discretion of the Party of Primary Obligation, who shall not be bound by any alleged modification unless duly acknowledged in writing.",
+    "contradiction_score": 0.01538513321429491,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 217,
+    "start_char": 99669,
+    "end_char": 99697,
+    "original": "Section 11.8. Governing Law.",
+    "ollama_generated": "Section 11.8. Jurisdictional Regime.\n\nThis Agreement shall be exclusively governed by the laws of the jurisdiction specified in Schedule A (Jurisdiction), except where such laws are directly contradicted by international treaties or conventions to which said jurisdiction is a party, in which case, the dispute resolution shall abide by the provisions set forth therein. The parties hereby acknowledge and accept that this Agreement may be subject to the interpretations and regulations of foreign courts if litigation arises outside the specified jurisdiction.",
+    "contradiction_score": 0.19745522737503052,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 228,
+    "start_char": 101732,
+    "end_char": 102010,
+    "original": "The Article and Section headings set forth in this Agreement are included for administrative, organizational and convenience purposes, and are not intended to affect the meaning of the provisions set forth in this Agreement or to be used in the interpretation of this Agreement.",
+    "ollama_generated": "The descriptive headings assigned to each Article and Section within this Agreement serve an administrative function, providing clarity and organization for ease of reference, but should not be construed as altering the substantive content or interpretation of the provisions outlined herein. Any ambiguity in the interpretation of this Agreement shall be resolved by adhering to the plain language of the text without regard to these headings.",
+    "contradiction_score": 0.0008713998831808567,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 236,
+    "start_char": 106274,
+    "end_char": 106360,
+    "original": "U.S. Reg. #: 1,920,133 Trademark: \"Cardsource\",    Equifax Inc.   Certegy Inc.   None.",
+    "ollama_generated": "U.S. Reg. #: 1,920,133\n   Trademark(s): \"Cardsource\"\n   Responsibility for any disputes or claims arising from the use of said trademark lies exclusively with Equifax Inc., while Certegy Inc. maintains no such obligations or liabilities in this regard.\n   None.",
+    "contradiction_score": 0.09028495848178864,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 238,
+    "start_char": 106446,
+    "end_char": 106532,
+    "original": "U.S. Reg. #: 2,019,884 Trademark: \"Paycheck        Equifax Inc.   Certegy Inc.   None.",
+    "ollama_generated": "U.S. Reg. #: 2,019,884 Trademark: \"Paycheck\"\n\nExclusive Licensing Agreement:\nGrantee (Certegy Inc.) hereby is granted the exclusive right to use the trademark \"Paycheck,\" registered under U.S. Reg. #: 2,019,884, within its business operations. This license is non-exclusive with respect to Equifax Inc., who reserves the right to use and exploit the said trademark for its own purposes. No rights or interests are transferred to any third party in this regard.",
+    "contradiction_score": 0.4951011538505554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 252,
+    "start_char": 117508,
+    "end_char": 120570,
+    "original": "Hyperion              (1) Base Solution - Hyperion             $124,000 (collectively for all Enterprise License (includes 2           PWC - Midrange-related Hyperion Co-Located Named Administrator           licenses) Users) Hyperion              (10) Hyperion Enterprise Named Basic User (transfer of Equifax licenses) Kronos                (1) Connect, primary payroll interface   $151,090 (collectively for all PWC - Midrange-related Kronos licenses) Kronos                (1) Connect, secondary payroll interface Kronos                (1) Workforce Accruals Kronos                (1) Workforce Managers, up to 50 Kronos                (1) Workforce Web Kronos                (1) Workforce Central v4. (2,500 employees) Kronos                (2) WFC Administration and Support Kronos                (2) WFC Basic Configuration Kronos                (2) WFC Daily Operations Kronos                (2) WFC Database Maintenance Kronos                (210 Hrs) Implementation and Installation and Training Kronos                (4) WFC Implementation Workshop Kronos                (6) Kronos Virtual Classroom Module Sessions Merant                (2) PVCS Licenses                        $10,000 Resumix               Resumix Human Asset Management(TM)       $330,000 (Collectively for all PWC System (Includes Recruiter's Desktop,    Midrange-related Resumix Licenses) Operator's Desktop and Database \"A\" Server License (1) Resumix               Concurrent Users (10) Resumix               Non-Concurrent Users (5) Resumix               Interact Toolkit Resumix               Test License Resumix               Xerox OCR Software for Resume Processing (1) Resumix               Crystal Reports Module (1) Resumix               Fulcrum Full-Text Search Engine (1) Resumix               ResFax In/Out (1) Resumix               Employment Folder (1) Resumix               AutoMatch Capability (1) Resumix               System Administration Module (1) Resumix               Resumix Internet Recruiter Including 55 Requistions Resumix               LumiNet for two (2) Users Resumix               Requisition Lookup (1) Shanon                Enterprise Client Site License           $55,000 Sybase                (1 server) Adaptive Server Enterprise    $157,021 (collectively for all PWC - Sybase                (85) Adaptive Server Enterprise          Midrange-related Sybase licenses) Sybase                (1) Adaptive Server Ent UNIX/WP 32 User (1) Sybase                (1) Adaptive Server Ent UNIX/WP 32 Sybase                (1) LM French Connectivity Sybase                (1) LM Japanese Connectivity Sybase                (1) LM German Connectivity Sybase                (1) LM Spanish Server Sybase                (1) LM Chinese Server TOTAL: $8,940,172.84 Under no circumstances shall Equifax be required to pay, with respect to the transfer of, acquisition of, or procuring or securing of Third Party Agreements or Third Party Use Rights, costs, fees or expenses exceed the sum of the \"totals\" identified on this Exhibit C and Exhibit D, except that:",
+    "modified": "Hyperion:\n   (1) Base Solution - Hyperion                 $124,000 (for all Enterprise License Users, including 2 PWC-related Hyperion Co-Located Named Administrator licenses)\n   Hyperion (10) Hyperion Enterprise Named Basic User (transfer of Equifax licenses, at the sole discretion and expense of Equifax)\n   Kronos:\n       (1) Connect, primary payroll interface   $151,090 (for all PWC-related Kronos licenses)\n       (1) Connect, secondary payroll interface\n       Kronos (1) Workforce Accruals\n       Kronos (1) Workforce Managers (Equifax's responsibility to maintain a number not exceeding 50)\n       Kronos (1) Workforce Web\n       Kronos (1) Workforce Central v4. (2,500 employees)\n       Kronos (2) WFC Administration and Support\n       Kronos (2) WFC Basic Configuration\n       Kronos (2) WFC Daily Operations\n       Kronos (2) WFC Database Maintenance\n       Kronos (210 Hrs) Implementation and Installation and Training\n       Kronos (4) WFC Implementation Workshop\n       Kronos (6) Kronos Virtual Classroom Module Sessions\n   Merant:\n       (2) PVCS Licenses                        $10,000 (at the discretion of Equifax for all necessary licenses)\n   Resumix:\n       Resumix Human Asset Management(TM)      $330,000 (for all PWC System-related Resumix Licenses)\n       (1) Resumix Concurrent Users (Equifax's responsibility to maintain a minimum of 10 concurrent users)\n       (5) Resumix Non-Concurrent Users\n       Resumix               Interact Toolkit\n       Resumix               Test License\n       Resumix               Xerox OCR Software for Resume Processing (Equifax's responsibility to procure)\n       (1) Resumix Crystal Reports Module\n       (1) Resumix Fulcrum Full-Text Search Engine\n       (1) Resumix ResFax In/Out\n       (1) Resumix Employment Folder\n       (1) Resumix AutoMatch Capability\n       (1) Resumix System Administration Module\n       (1) Resumix Internet Recruiter Including 55 Requistions\n       (2) LumiNet for two (2) Users\n       Resumix               Requisition Lookup (Equifax's responsibility to maintain)\n   Shanon:\n       Enterprise Client Site License           $55,000 (at the discretion of Equifax)\n   Sybase:\n       (1 server) Adaptive Server Enterprise  $157,021 (for all PWC-related Sybase licenses)\n       (85) Adaptive Server Enterprise          Midrange-related Sybase licenses (at the expense of Equifax for maintenance and renewals)\n       (1) Adaptive Server Ent UNIX/WP 32 User\n       (1) Adaptive Server Ent UNIX/WP 32 Sybase\n       (1) LM French Connectivity Sybase\n       (1) LM Japanese Connectivity Sybase\n       (1) LM German Connectivity Sybase\n       (1) LM Spanish Server Sybase\n       (1) LM Chinese Server\n   Total: $8,940,172.84\n   Equifax shall not be obligated to pay any costs, fees or expenses associated with the transfer of, acquisition of, or procuring or securing of Third Party Agreements or Third Party Use Rights that exceed the sum of the \"totals\" identified on this Exhibit C and Exhibit D.",
+    "contradiction_score": 0.5896902680397034,
+    "kept": true
+  },
+  {
+    "clause_index": 270,
+    "start_char": 132693,
+    "end_char": 132745,
+    "original": "\"CENTRALIZED LOTTERY SYSTEM FOR       Services, Inc.",
+    "modified": "\"DECENTRALIZED RANDOM SELECTION PROCESS BY Services, Inc.\"\n\nExplanation: The original clause specifies a centralized lottery system, which implies a single authority or control center for the process. The rewritten clause suggests a decentralized approach, where the responsibility of the selection process is distributed across multiple locations or entities. This shift in language reflects a possible change in how decisions are made and who has the power to make them.",
+    "contradiction_score": 0.7076813578605652,
+    "kept": true
+  },
+  {
+    "clause_index": 272,
+    "start_char": 132840,
+    "end_char": 132995,
+    "original": "INCLUDING DETECTION OF MALFUNCTION AND COUNTERFEIT UNITS\", ISSUED JUNE 2,1992 U.S. PATENT #5,223,698 ENTITLED       Equifax Payment    Equifax Inc.   None.",
+    "ollama_generated": "\"EXCLUDING FAILURE TO DETECT MALFUNCTION OR COUNTERFEIT UNITS, ISSUED JUNE 2,1992 U.S. PATENT #5,223,698 ENTITLED Equifax Payment System, Relief from liability shall be granted to Equifax Inc.\"\n\nThis clause shifts the responsibility of detecting malfunction and counterfeit units away from Equifax Inc., implying that any such issues are not their concern. The original patent (Equifax Payment System) still applies, but Equifax Inc. is now exempted from liability for these specific issues.",
+    "contradiction_score": 0.13713021576404572,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 276,
+    "start_char": 133225,
+    "end_char": 133277,
+    "original": "\"TELEPHONE TERMINAL INCORPORATING     Services, Inc.",
+    "ollama_generated": "\"Services, Inc., Incorporating TELEPHONE TERMINAL\n\nUpon the provision of our telephony services, it shall be understood that:\n\n1. Our company assumes no liability for any damage or loss resulting from the customer's misuse or mishandling of the provided equipment, unless such action constitutes gross negligence on our part.\n\n2. The customer acknowledges and agrees to bear full responsibility for maintaining and updating the security measures applicable to their usage of the services, with our company offering only general advice and recommendations in this regard.\n\n3. In the event of a service disruption, our company will make reasonable efforts to restore the services as promptly as possible; however, we shall not be held accountable for any direct or indirect damages arising from such interruptions.\n\n4. The customer is responsible for ensuring their continued compliance with all applicable laws, regulations, and guidelines governing the use of our telephony services, with non-compliance constituting a material breach of this agreement.\"",
+    "contradiction_score": 0.030220966786146164,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 280,
+    "start_char": 134353,
+    "end_char": 135422,
+    "original": "No. 09/845662, filed April 30,   Services, Inc.      worldwide, perpetual license 2001 and entitled \"System and                        to make, practice, have made, Method for Secure Network                            use and import systems and Transactions\" and related PCT                        processes covered by any Patent Application, filed                            patent that issues from the April 30, 2001 and entitled                          applications and to sell to \"System and Method for Secure                        Equifax customers and Network Transactions.\"                               potential customers services based on such systems and processes\u037e such license may not be transferred or sublicensed (other than to Equifax Affiliates), except pursuant to a state law merger or the sale of substantially all of the licensee's assets and the licensee has no right to authorize any third party to make, have made or sell the technology, whether or not for purposes of allowing such third parties to build and/or run their own payment systems.",
+    "ollama_generated": "Clause 09/845662, filed April 30, 2001, grants Services, Inc. a non-exclusive, worldwide, perpetual license for the \"System and Method for Secure Network Transactions\" patent application and related PCT processes, entitled \"System and Method for Secure Network and Transactions\". This license allows Equifax to use, import, and practice these systems and methods globally. However, Equifax is solely responsible for any patents that may issue from the April 30, 2001 application. Equifax is also authorized to offer its services based on these systems and processes to potential customers; such authorization does not extend to the transfer or sublicensing of this license, except in instances of a state law merger or the sale of substantially all of Equifax's assets. Furthermore, Equifax has no right to permit any third party to manufacture, have manufactured, or sell the technology, regardless of whether it is for the purpose of enabling such third parties to develop and operate their own payment systems.",
+    "contradiction_score": 0.16222412884235382,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 282,
+    "start_char": 135489,
+    "end_char": 136033,
+    "original": "For purposes of this Exhibit L, \"Unidentified Utility Software Program\" means any utility software program (i) that is owned by any member of the Certegy Group or the Equifax Group, (ii) used in the business of the party that is not the owner thereof during the twelve (12) calendar months prior to the Closing Date, (iii) for which a continuing business requirement exists on the Closing Date, and (iv) that is identified, in good faith, by both parties as being a Utility Software Program within twelve (12) months following the Closing Date.",
+    "ollama_generated": "For the scope of this Exhibit L, \"Unidentified Third-Party Utility Software\" refers to any utility software not owned by either party, which (i) was utilized in the operations of a non-owning party during the twelve (12) months preceding the Closing Date, (ii) continues to be necessary for business functions as of the Closing Date, and (iii) is not explicitly disclosed prior to the Closing Date. However, either party may, within eighteen (18) months post-Closing, mutually identify such software as a Utility Software Program upon reaching an agreement regarding its nature. This identification process shall be conducted in good faith.",
+    "contradiction_score": 0.014931129291653633,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 290,
+    "start_char": 143618,
+    "end_char": 144042,
+    "original": "ADDITIONAL PROVISIONS: Each owner of any of the foregoing assets shall (i) have the right to enforce, in any country, all rights embodied in such assets, and the other party agrees (at its expense) to cooperate in such enforcement action as reasonably requested by the owner thereof, and (ii) have the right to file appropriate patent, trademark, copyright or other applications, in any country, with respect to such assets.",
+    "modified": "ADDITIONAL PROVISIONS: Each party acknowledges that the other party retains the sole discretion and responsibility for enforcing any rights associated with the specified assets, worldwide, and furthermore agrees (at its own expense) to provide reasonable assistance upon request by the asset owner. Additionally, each party waives its exclusive right to file any patent, trademark, copyright, or other applications related to these assets in any jurisdiction; however, the party owning the assets shall grant the other party a non-exclusive, royalty-free license for such intellectual property rights to the extent necessary for the latter's legitimate business operations.",
+    "contradiction_score": 0.7455846071243286,
+    "kept": true
+  },
+  {
+    "clause_index": 298,
+    "start_char": 147451,
+    "end_char": 147847,
+    "original": "LICENSE: Certegy hereby grants to Equifax a fully paid, non-exclusive, perpetual, worldwide license to use, modify, copy, improve and create Derivative Works and enhancements from, in source code and object code format, processes or procedures developed by Equifax in support to the Paynet Secure software product that have applicability independent of or from the Paynet Secure software product.",
+    "ollama_generated": "LICENSE GRANT: Equifax is granted by Certegy a non-exclusive, fully paid, perpetual, worldwide license, permitting modification, use, duplication, and creation of Derivative Works based on or derived from processes, procedures, or software (in both source code and object code format) that Equifax develops in relation to the Paynet Secure software product. However, this license is conditioned upon Equifax ensuring that such developments are primarily applicable to the Paynet Secure software product, with any independent applications being subject to separate negotiations and agreements.",
+    "contradiction_score": 0.0018846280872821808,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 301,
+    "start_char": 149582,
+    "end_char": 150242,
+    "original": "ADDITIONAL TERMS: Equifax agrees that it shall have no ownership or proprietary rights in and to the trademark \"Paynet Secure\" or similar mark. Each owner of any of the foregoing assets shall (i) have the right to enforce, in any country, all rights embodied in such assets, and the other party agrees (at its expense) to cooperate in such enforcement action as reasonably requested by the owner thereof, and (ii) have the right to file appropriate patent, trademark, copyright or other applications, in any country, with respect to such assets. Please refer to the Transition Support Agreement for information concerning equipment that supports Paynet Secure.",
+    "modified": "ADDITIONAL TERMS: Paynet Secure acknowledges that Equifax retains exclusive ownership and proprietary rights over the trademark \"Equifax Secure\" or similar mark. Each holder of any of these assets shall (i) waive any right to enforce, in any country, such assets against Equifax or its affiliates, and Equifax agrees not to impede the holder's use of the assets within the agreed scope, and (ii) forgo the right to file any patent, trademark, copyright, or other applications with respect to these assets. For details concerning equipment supporting Equifax Secure, please refer to the Transition Support Agreement.",
+    "contradiction_score": 0.9945100545883179,
+    "kept": true
+  }
+]

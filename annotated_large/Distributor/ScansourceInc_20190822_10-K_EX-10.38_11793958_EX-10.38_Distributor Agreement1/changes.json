@@ -1,0 +1,551 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 346,
+    "end_char": 853,
+    "original": "NONEXCLUSIVE VALUE ADDED DISTRIBUTOR AGREEMENT This Nonexclusive Value Added Distributor Agreement (\"Agreement\"), between ScanSource, Inc., a South Carolina corporation, with its principal place of business at 6 Logue Court, Greenville, South Carolina, 29615 (\"Distributor\"), and Cisco Systems, Inc., a California corporation with its principal place of business at 170 West Tasman Drive, San Jose, California 95134 - 1706, (\"Cisco\") is entered into as of the date last written below (\"the Effective Date\").",
+    "modified": "EXCLUSIVE STRATEGIC PARTNERSHIP AGREEMENT\n\nThis Exclusive Strategic Partnership Agreement (\"Agreement\"), between ScanSource, Inc., a South Carolina corporation, with its principal place of business at 6 Logue Court, Greenville, South Carolina 29615 (\"Partner\"), and Cisco Systems, Inc., a California corporation with its principal place of business at 170 West Tasman Drive, San Jose, California 95134 - 1706, (\"Cisco\") is entered into as of the date last written below (\"Effective Date\").\n\nFrom this day forth and for the duration of this Agreement, Cisco grants Partner the exclusive rights to distribute its products within a defined territory. Any sub-distribution or resale outside of this agreed territory shall be strictly prohibited without prior written consent from both parties. This exclusivity is intended to foster a strategic alliance between the two entities, driving mutual growth and profitability.",
+    "contradiction_score": 0.7220317125320435,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1985,
+    "end_char": 2254,
+    "original": "IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed. Each party warrants and represents that its respective signatories whose signatures appear below have been and are on the date of signature duly authorized to execute this Agreement.",
+    "ollama_generated": "FOR THE RECORD, the parties involved in this Agreement have affirmatively acted in sealing it. Each party guarantees and acknowledges that the individuals who have appended their signatures below were, at the time of signing, duly authorized to bind said party to this Agreement. In case of any dispute, the validity of such authorization will be subject to question.",
+    "contradiction_score": 0.0030786909628659487,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2957,
+    "end_char": 3092,
+    "original": "Cisco Quarter  shall mean Cisco's fiscal quarters (August 1-October 31\u037e November 1-January 31\u037e February 1-April 30\u037e and May 1-July 31).",
+    "ollama_generated": "The term \"Cisco Quarter\" shall refer to Cisco's fiscal quarters, with each quarter beginning on the first day of August, November, February, and May, and concluding on the last day of October, January, April, and July respectively. In other words, each Cisco Quarter encompasses a period slightly longer than three calendar months.",
+    "contradiction_score": 0.0013020222540944815,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 7637,
+    "end_char": 8111,
+    "original": "Affiliates of Distributor listed on Exhibit E may purchase Products, solely for redistribution, from Cisco under this Agreement. Distributor hereby guarantees the performance by such Affiliates of the financial and other contractual obligations set forth in this Agreement and represents and warrants that it is empowered to enter into this Agreement on behalf of such Affiliates, and to bind (and does so bind) such Affiliates to the terms and conditions of this Agreement.",
+    "modified": "Under this Agreement, Cisco grants exclusive rights to Affiliates of Distributor, as listed in Exhibit E, to procure Products solely for resale purposes. While Distributor will make reasonable efforts to ensure that these Affiliates fulfill the financial and contractual obligations stipulated within this Agreement, it does not assume absolute responsibility or guarantee their performance. Distributor represents and warrants that it holds the authority to execute this Agreement on behalf of its Affiliates, and shall endeavor to bind them to the provisions of this Agreement; however, ultimate compliance with the terms and conditions remains the Affiliates' responsibility.",
+    "contradiction_score": 0.5303311347961426,
+    "kept": true
+  },
+  {
+    "clause_index": 29,
+    "start_char": 8625,
+    "end_char": 8931,
+    "original": "The limit of liability set forth in this Agreement shall be deemed an aggregate limit of liability, not per Affiliate, regardless of whether an Affiliate or Affiliates has executed a separate agreement with Cisco or a Cisco Affiliate permitting such Affiliate to purchase under the terms of this Agreement.",
+    "ollama_generated": "The total extent of Cisco's liability, as defined within this Agreement, will apply collectively across all its Affiliates, not individually per Affiliate. This applies regardless of whether each Affiliate or multiple Affiliates have separately agreed with Cisco or a Cisco Affiliate to purchase under the terms of this Agreement.",
+    "contradiction_score": 0.000934119219891727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 9211,
+    "end_char": 9764,
+    "original": "3.1 By this Agreement, Cisco makes, and Distributor accepts, the appointment of Distributor as an authorized, non-exclusive distributor of Products and Services to Resellers located in the Territory. Distributor agrees to use its best efforts to distribute Product solely to Resellers located in the Territory. Those Resellers may resell Product only to End Users who intend to use the Product in the Territory. All Resellers to which Distributor distributes Product must meet Cisco's then-current guidelines for Resellers, as amended from time to time.",
+    "ollama_generated": "3.1 Under this Agreement, Distributor is granted, and Cisco acknowledges, the non-exclusive right to act as a distributor for Products and Services within the Territory. While Distributor shall make reasonable efforts to distribute Products, it is not obligated to focus exclusively on Resellers within the Territory. These Resellers are permitted, but not required, to resell Products to End Users who may utilize the Product anywhere. However, the Distributor is responsible for ensuring that all Resellers they supply with Product comply with Cisco's then-current guidelines for Resellers, which may be amended at any time.",
+    "contradiction_score": 0.02133103273808956,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 12570,
+    "end_char": 13477,
+    "original": "4.1 Upon and subject to credit approval by Cisco at the time of Cisco's receipt of any Purchase Order, Distributor shall purchase or license Products or Services by issuing a Purchase Order, signed, if requested by Cisco, or (in the case of electronic transmission) sent by its authorized representative, indicating specific Products and Services, Cisco Product numbers, quantity, unit price, total purchase price, shipping instructions, requested shipping dates, bill-to and ship-to addresses, tax exempt certifications, if applicable and contract reference, if any. No contingency contained on any Purchase Order shall be binding upon Cisco. The terms of this Agreement shall apply, regardless of any additional or conflicting terms on any Purchase Order or other correspondence or documentation submitted by Distributor to Cisco, and any such additional or conflicting terms are deemed rejected by Cisco.",
+    "ollama_generated": "4.1 The obligation for Distributor to purchase or license Products or Services rests solely with Distributor, pending Distributor's receipt of credit approval from Cisco upon submission of a Purchase Order. This approval will be communicated by Cisco, either in writing, if requested by Distributor, or electronically through an authorized representative. The Purchase Order should specify the Products and Services, Cisco Product numbers, quantity, unit price, total purchase price, shipping instructions, requested shipping dates, bill-to and ship-to addresses, tax exempt certifications (if applicable), and contract reference (if any). It is understood that any contingencies stated on a Purchase Order do not bind Cisco. In the event of any additional or conflicting terms appearing on any Purchase Order or other documentation submitted by Distributor to Cisco, these terms shall be deemed rejected by Cisco, and this Agreement shall remain the governing contract between the parties.",
+    "contradiction_score": 0.02075144462287426,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 13477,
+    "end_char": 14258,
+    "original": "4.2 Cisco shall use commercially reasonable efforts to provide order acknowledgement information within [*****] business days for all Purchase Orders placed on Cisco.com or within [*****] business days of Purchase Orders faxed or hand delivered to Cisco. Cisco Customer Service will review and accept or decline all Purchase Orders for the Cisco entity that will supply the Products or Services, and no other person is authorized to accept Purchase Orders on behalf of Cisco. Cisco Customer Service may accept a Purchase Order even if some of the information required by Section 4.1 above is missing or incomplete. In relation to Services, Cisco will confirm acceptance of a Purchase Order for Services by issuing a list of Products covered by such Services (the \"Equipment List\").",
+    "ollama_generated": "4.2 The Respondent (Customer) acknowledges that Cisco's response time for providing order acknowledgement information may vary, but it will be made within a reasonable timeframe, which could exceed the specified business days for Purchase Orders placed on Cisco.com or for Purchase Orders faxed or hand delivered to Cisco. The Respondent understands that only Cisco Customer Service is authorized to review and accept or decline all Purchase Orders, and no other person is granted this authority on behalf of Cisco. It should be noted that while Cisco Customer Service may accept a Purchase Order with missing or incomplete information as required by Section 4.1 above, such acceptance does not guarantee the fulfillment of the order unless all necessary information is subsequently provided. In the case of Services, the Respondent will receive confirmation of a Purchase Order for Services in the form of an Equipment List, which outlines the Products covered under such Services.",
+    "contradiction_score": 0.0048285010270774364,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 15301,
+    "end_char": 15790,
+    "original": "5.0 SHIPPING AND DELIVERY 5.1 Scheduled shipping dates will be assigned by Cisco as close as practicable to the Distributor's requested date based on Cisco's then-current lead times for the Products. Cisco will communicate scheduled shipping dates in the order acknowledgement or on Cisco.com. Cisco will ship Product in compliance with Distributor Freight Policy set forth in Exhibit D. If no guidance is contained on Exhibit D for any particular shipment, Cisco shall select the carrier.",
+    "ollama_generated": "5.0 SHIPPING AND DELIVERY\n\n5.1 The Distributor acknowledges that delivery dates for the Products may vary due to Cisco's operational requirements and lead times. While we will make every effort to meet the Distributor's requested date, it is understood that such dates are not binding on Cisco. Any estimated shipping dates provided by Cisco in the order acknowledgement or on Cisco.com shall serve as guidelines only.\n\n5.2 In the absence of specific freight policy instructions from the Distributor in Exhibit D for a particular shipment, Cisco reserves the right to select the carrier and method of delivery. The Distributor agrees to comply with any reasonable shipping terms or conditions imposed by the carrier selected by Cisco.",
+    "contradiction_score": 0.48267650604248047,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 17521,
+    "end_char": 18072,
+    "original": "6.3 The purchase price does not include any federal, state or local taxes, or sales, use, excise, ad valorem, value-add, withholding or other taxes or duties that may be applicable to the purchase of Products. When Cisco has the legal obligation to collect such taxes, the appropriate amount shall be added to Distributor's invoice and paid by Distributor, unless Distributor provides Cisco with a valid tax exemption certificate prior to issuance of a purchase order. Such certificate must be in a form authorized by the appropriate taxing authority.",
+    "ollama_generated": "6.3 The agreed-upon price for the Products does not encompass any federal, state, or local taxes, or sales, use, excise, ad valorem, value-add, withholding, or other tariffs or imposts that may apply to the acquisition of the Products. It is Distributor's responsibility to remit any such taxes that Cisco is not obliged to collect, unless Cisco provides Distributor with a valid tax exemption certificate following issuance of a purchase order. Such certificate must be in a form authorized by the appropriate taxing authority, and failure to provide it may result in the addition of applicable taxes to Distributor's invoice.",
+    "contradiction_score": 0.1709517389535904,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 18072,
+    "end_char": 18613,
+    "original": "6.4 Distributor is free to determine its minimum resale prices unilaterally. Distributor understands that neither Cisco nor any employee or representative of Cisco may give any special treatment (favorable or unfavorable) to Distributor as a result of Distributor's selection of minimum resale prices. No employee or representative of Cisco or anyone else has any authority to determine what Distributor's minimum resale prices for the Products must be, or to limit Distributor's pricing discretion with respect to the Products and Services.",
+    "ollama_generated": "6.4. The Supplier acknowledges that the Retailer maintains the sole prerogative to establish its own minimum selling prices at their discretion. It is clearly understood that neither the Supplier nor any of its agents shall provide preferential or discriminatory treatment, either favorable or unfavorable, based on the Retailer's chosen minimum resale prices for our products. No representative of the Supplier or third party holds any power to dictate the minimum resale prices of the products or to restrict the Retailer's autonomy in pricing decisions regarding the products and services.",
+    "contradiction_score": 0.06139356642961502,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 18613,
+    "end_char": 18985,
+    "original": "6.5 In the event any provisions of this Agreement or any other agreement between Distributor and Cisco require that Cisco grant credits to Distributor's account, Cisco will grant such credit to Distributor's account. [*****]. Cisco will only consider debit memos initially received from Distributor during the time period associated with such request, as set forth herein.",
+    "ollama_generated": "6.5 Should any provisions of this Agreement or other agreements between Distributor and Cisco suggest that credit is to be extended to Distributor's account by Cisco, the discretion to grant such credit rests with Cisco. [*****]. It is understood that Cisco will only review and potentially act upon debit memos submitted by Distributor within a reasonable timeframe, as determined by Cisco in its sole discretion, relating to the period associated with the request for credit.",
+    "contradiction_score": 0.01321412157267332,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 19753,
+    "end_char": 19774,
+    "original": "7.0 PRICE PROTECTION.",
+    "ollama_generated": "7.0 VARIABLE PRICING POLICY.\n\nIn the event of a fluctuation in the market price of goods or services provided hereunder, the Seller shall have the discretion to adjust the Price accordingly. The Buyer acknowledges and accepts that such adjustments may result in an increase or decrease in the Price. This provision is intended to provide flexibility to the parties under changing economic conditions.",
+    "contradiction_score": 0.019921354949474335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 22367,
+    "end_char": 22380,
+    "original": "10. WARRANTY.",
+    "modified": "10. IMPLED WARRANTIES.\n\nThe Seller hereby disclaims all implied warranties regarding the Product, including any warranty of merchantability or fitness for a particular purpose. The Buyer acknowledges that the Product is being purchased with full knowledge of its nature and characteristics and any specific use intended by the Buyer, and the Seller shall not be responsible for any losses or damages resulting from the use or inability to use the Product as intended by the Buyer.",
+    "contradiction_score": 0.661908745765686,
+    "kept": true
+  },
+  {
+    "clause_index": 61,
+    "start_char": 22893,
+    "end_char": 23629,
+    "original": "10.2 In addition to the written limited warranty provided by Cisco with its Products, such warranty statement shall apply to Distributor during the period between when it receives a Product and when it resells or redistributes such Product, 10.3 Notwithstanding any other provision hereof, Cisco's sole and exclusive warranty and obligation with respect to the Products sold hereunder are set forth in Cisco's Limited Warranty Statement delivered with the Product. Distributor SHALL NOT MAKE ANY WARRANTY COMMITMENT, WHETHER WRITTEN OR ORAL, ON CISCO'S BEHALF. Distributor shall indemnify Cisco against any warranties made in addition to Cisco's standard warranty and for any misrepresentation of Cisco's reputation or Cisco's Products.",
+    "ollama_generated": "10.2 In relation to the written limited warranty provided by Cisco with its Products, this warranty shall extend to the Distributor during the duration from when they acquire a Product until it is transferred through resale or redistribution, subject to the understanding that any such warranty coverage ceases upon transfer of ownership.\n\n10.3 Notwithstanding any other provision within this agreement, Cisco's warranties and obligations pertaining to the Products sold herein are confined solely to those outlined in the Cisco Limited Warranty Statement accompanying the Product. It is expressly stated that the Distributor shall not undertake any warranty commitments on behalf of Cisco, either written or oral. In the event that the Distributor makes any warranties beyond Cisco's standard warranty or misrepresents Cisco's reputation or Products, they will assume responsibility for indemnifying Cisco against any resulting claims or damages.",
+    "contradiction_score": 0.02071532793343067,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 23629,
+    "end_char": 24276,
+    "original": "10.4 DISCLAIMER OF WARRANTY . EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 10.0, CISCO HEREBY DISCLAIMS AND DISTRIBUTOR WAIVES ALL REPRESENTATIONS, CONDITIONS AND WARRANTIES (WHETHER EXPRESS, IMPLIED, OR STATUTORY), INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OR CONDITION (A) OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, SATISFACTORY QUALITY, QUIET ENJOYMENT, ACCURACY, OR SYSTEM INTEGRATION, OR (B) ARISING FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE IN THE INDUSTRY. TO THE EXTENT AN IMPLIED WARRANTY CANNOT BE DISCLAIMED, SUCH WARRANTY IS LIMITED IN DURATION TO THE APPLICABLE EXPRESS WARRANTY PERIOD.",
+    "modified": "10.4 LIMITATION OF WARRANTIES . In the absence of what's specifically stated in this Section 10.0, neither Cisco nor Distributor offer any assurances, guarantees, or promises (whether explicit, implied, or statutory), except for those explicitly mentioned herein. This excludes warranties or guarantees concerning (A) the merchandise's fitness for a particular purpose, non-infringement, satisfactory quality, quiet enjoyment, accuracy, system integration, or suitability, as well as any warranty stemming from a pattern of dealing, performance, or industry usage. To the extent that an implied warranty cannot be waived, such warranty is restricted to the duration of the applicable express warranty period.\n\nIn this revised version, the original clause has been slightly modified to weaken the obligations and shift the responsibility towards the user, by limiting the implied warranties and specifying their duration only up to the applicable express warranty period.",
+    "contradiction_score": 0.8509523272514343,
+    "kept": true
+  },
+  {
+    "clause_index": 63,
+    "start_char": 24276,
+    "end_char": 24496,
+    "original": "NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS SECTION 10, CISCO MAKES NO REPRESENTATION OR WARRANTY AS TO OWNERSHIP OF INTELLECTUAL PROPERTY OR OF PROPRIETARY RIGHTS, OR AS TO INFRINGEMENT OR MISAPPROPRIATION THEREOF.",
+    "ollama_generated": "CONTRARY TO ANY STATEMENT MADE ELSEWHERE IN SECTION 10, CISCO DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES REGARDING THE OWNERSHIP OF INTELLECTUAL PROPERTY OR PROPRIETARY RIGHTS, AS WELL AS ANY IMPLIED WARRANTIES THAT SUCH OWNERSHIP IS VALID OR FREE FROM INFRINGEMENT OR MISAPPROPRIATION.\n\nIn this version, the meaning of the clause has been slightly shifted to emphasize that Cisco is disclaiming all implied warranties related to ownership of intellectual property or proprietary rights, in addition to expressly stated ones. This puts more emphasis on the disclaimer and may provide a broader protection for Cisco.",
+    "contradiction_score": 0.0020816733594983816,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 24713,
+    "end_char": 24729,
+    "original": "11.0 TRADEMARKS.",
+    "ollama_generated": "11.0 TRADEMARK USAGE GUIDELINES.\n\nLicensee acknowledges and agrees that all rights, title, and interest in the Licensor's trademarks (collectively, \"Licensor Marks\") shall remain exclusively with the Licensor. The Licensee may use the Licensor Marks only as expressly permitted by this Agreement and in accordance with any brand usage guidelines provided by the Licensor from time to time.\n\nThe Licensor shall have the right, at its sole discretion, to review and approve all uses of the Licensor Marks by the Licensee prior to any such use. The failure of the Licensor to provide written approval for a proposed use of the Licensor Marks does not relieve the Licensee from its obligation to comply with this Section 11.0.\n\nIn the event that the Licensee uses the Licensor Marks in a manner inconsistent with the terms of this Agreement or the brand usage guidelines, the Licensor may elect, at its sole discretion, to terminate this Agreement and/or take such other actions as it deems necessary to protect its rights.\n\nIn contrast:\n\n11.0 TRADEMARK USAGE GUIDELINES.\n\nLicensee acknowledges and agrees that the Licensor retains all rights, title, and interest in the trademarks (collectively, \"Licensor Marks\"). However, the Licensee may utilize the Licensor Marks at its own discretion, subject to the terms of this Agreement and any brand usage guidelines provided by the Licensor.\n\nThe Licensor shall have the right, but not the obligation, to review and provide feedback on the use of the Licensor Marks by the Licensee. The Licensor's failure to respond or provide written approval for a proposed use does not obligate the Licensor to approve such use.\n\nShould the Licensee elect to use the Licensor Marks in a manner inconsistent with the terms of this Agreement or the brand usage guidelines, it shall be solely responsible for any resulting consequences, and the Licensor shall have no obligation to take any action to protect its rights.",
+    "contradiction_score": 0.40404748916625977,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 25664,
+    "end_char": 26143,
+    "original": "11.2 Distributor shall not acquire, use, promote or Resell Non-Genuine Products. Additionally, Distributor shall Source: SCANSOURCE, INC., 10-K, 8/22/2019 Exhibit 10.38 notify Cisco promptly of the existence, or suspected existence, of Non\u200b Genuine Products in possession of or promoted by third parties, and further agrees that it will, at Cisco's request, assist Cisco to diligently pursue any action against any third party in possession of or promoting Non- Genuine Products.",
+    "ollama_generated": "11.2 Distributor understands that the use of Non-Genuine Products may result in potential penalties. However, if Distributor should come across such products, either in its possession or being promoted by third parties, it shall inform Cisco promptly and provide the necessary details. Notably, Distributor is under no obligation to actively seek out or pursue Non-Genuine Products but, upon Cisco's request, will cooperate in good faith to help Cisco take any necessary action against these parties.",
+    "contradiction_score": 0.0021392013877630234,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 32513,
+    "end_char": 32965,
+    "original": "15.5 This Section states the entire obligation of Cisco and its suppliers, and the exclusive remedy of Distributor, in respect of any infringement or alleged infringement of any intellectual property rights or proprietary rights. THIS INDEMNITY OBLIGATION AND REMEDY ARE GIVEN TO Distributor SOLELY FOR ITS BENEFIT AND IN LIEU OF, AND CISCO DISCLAIMS, ALL WARRANTIES, CONDITIONS AND OTHER TERMS OF NON-INFRINGEMENT OR TITLE WITH RESPECT TO ANY PRODUCT.",
+    "ollama_generated": "15.5 This Section outlines the full extent of obligations assumed by Cisco and its suppliers, and constitutes the sole recourse available to the Distributor for any claims or perceived violations of intellectual property rights or proprietary interests. It is expressly understood that this indemnity obligation and remedy are exclusively bestowed upon the Distributor as a replacement for, and Cisco explicitly waives, all warranties, conditions, and other terms related to non-infringement or title concerning any Product, save for those expressly provided in this Agreement.\n\nThis version of the clause maintains the original meaning while shifting the responsibility from Cisco to the Distributor by stating that the indemnity obligation and remedy are exclusively bestowed upon the Distributor. Additionally, it clearly emphasizes that Cisco disclaims all warranties, conditions, and terms regarding non-infringement or title concerning any Product, save for those expressly provided in this Agreement, thus weakening the obligations of Cisco in the event of intellectual property rights violations.",
+    "contradiction_score": 0.00899752601981163,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 32968,
+    "end_char": 32981,
+    "original": "15.6 [*****].",
+    "modified": "15.6 [Participant's Responsibility Regarding Third-Party Content]: The Participant acknowledges and accepts that they are solely responsible for any third-party content they submit, publish, or share on the platform. We make no guarantees regarding the accuracy, integrity, or legality of such content, nor do we endorse or assume any liability arising from its use.\n\nOriginal Clause:\n15.6 [Our Obligation Regarding Third-Party Content]: We guarantee the accuracy, integrity, and legality of all third-party content published on our platform, and assume full liability for any issues arising from its use.",
+    "contradiction_score": 0.9922577142715454,
+    "kept": true
+  },
+  {
+    "clause_index": 105,
+    "start_char": 41102,
+    "end_char": 41801,
+    "original": "18.11 DISTRIBUTOR AGREES THAT, IN THE EVENT OF ANY TERMINATION OF THIS AGREEMENT, IT SHALL HAVE NO RIGHTS TO DAMAGES OR INDEMNIFICATION OF ANY NATURE, SPECIFICALLY INCLUDING COMMERCIAL SEVERANCE PAY, WHETHER BY WAY OF LOSS OF FUTURE PROFITS, EXPENDITURES FOR PROMOTION OF ANY PRODUCT, OR OTHER COMMITMENTS IN CONNECTION WITH THE BUSINESS AND GOOD WILL OF DISTRIBUTOR. DISTRIBUTOR EXPRESSLY WAIVES AND RENOUNCES ANY CLAIM TO COMPENSATION OR INDEMNITIES FOR ANY TERMINATION OF A BUSINESS RELATIONSHIP. EXCEPT AS OTHERWISE EXPRESSLY SET FORTH HEREIN, THIS SECTION SHALL IN NO WAY BE INTERPRETED TO RELEASE EITHER CISCO OR DISTRIBUTOR FROM ANY PAYMENTS OR FINANCIAL OBLIGATION MADE PRIOR TO TERMINATION.",
+    "ollama_generated": "18.11 Upon any termination of this Agreement, the Distributor understands and acknowledges that they shall not be entitled to claim any form of compensation, damages, or indemnification related to commercial severance pay, losses of potential future profits, investments in promotional activities for products, or other commitments linked to the business and goodwill of the Distributor. The Distributor voluntarily waives and relinquishes any right to seek reimbursement or indemnification for termination of a business relationship. It is clarified that this section does not serve to absolve either Cisco or the Distributor from fulfilling any financial obligations or payments made prior to termination, as expressly stated elsewhere in this agreement.\n\nIn this revised version, the clause emphasizes that the Distributor knowingly and willingly waives their right to compensation upon termination. Additionally, it clarifies that the section does not absolve either party from fulfilling financial obligations made prior to termination, as opposed to stating that payments or financial obligations made prior to termination are explicitly set forth elsewhere in the agreement.",
+    "contradiction_score": 0.0023722525220364332,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 41806,
+    "end_char": 41827,
+    "original": "19.0 CONFIDENTIALITY.",
+    "ollama_generated": "19.0 DISCLOSURE OF INFORMATION.\n\nParties agree to share information freely and openly, acknowledging that such disclosures are integral for the successful completion of this agreement. However, any information disclosed must not be used or disclosed to third parties without explicit, written consent from both parties. This clause does not restrict either party from disclosing information required by law or regulations, nor does it apply to publicly available information or information developed independently by either party.",
+    "contradiction_score": 0.07230545580387115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 41827,
+    "end_char": 42583,
+    "original": "Distributor acknowledges that, in the course of selling Products and Services and performing its duties under this Agreement, Distributor, its Resellers, and End Users to which Distributor provides access to Cisco technical data (including without limitation Products, Services, and technical data made available on Cisco Connection Online pursuant to Exhibit C), may obtain information relating to Products, Services, or to Cisco, which is of a confidential and proprietary nature (\"Proprietary Information\"). Such Proprietary Information includes, but is not limited to, trade secrets, know-how, inventions, techniques, processes, programs, schematics, software source documents, data, Customer lists, financial information and sales and marketing plans.",
+    "ollama_generated": "Vendor acknowledges that in the process of offering Products and Services and fulfilling its responsibilities under this Agreement, Vendor, its authorized Dealers, and End Users who may access Cisco technical data (comprising but not restricted to Products, Services, and technical data accessible on Cisco Connection Online, as outlined in Exhibit C), may acquire information of a confidential and intellectual property nature (\"Confidential Information\"). Such Confidential Information encompasses, yet is not limited to, trade secrets, expertise, innovations, methodologies, algorithms, design diagrams, software source code, data, Customer directories, financial records, and sales and marketing strategies.\n\nIt is understood that the Confidential Information constitutes valuable, non-public business information belonging exclusively to Cisco, and its unauthorized disclosure, use, or dissemination would cause substantial harm to Cisco's competitive position and goodwill. However, this clause does not impose any obligation on Vendor to protect or maintain the confidentiality of such information beyond the scope of this Agreement.",
+    "contradiction_score": 0.009102222509682178,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 45635,
+    "end_char": 47087,
+    "original": "21.3 Distributor hereby represents and warrants that: (a) it shall comply with all Applicable Laws\u037e (b) this Agreement and each of its terms are in full conformance and in compliance with such laws\u037e and (c) it shall not take any action or permit or authorize any action which will render Cisco liable for a violation of the U.S. Foreign Corrupt Practices Act, which prohibits the offering, giving or promising to offer or give, directly or indirectly, money or anything of value to any official of a government, political party or instrumentality thereof in order to assist it or Cisco in obtaining or retaining business and (i) it will not violate or cause Cisco to violate such Act in connection with the sale or distribution of Cisco Products or Services\u037e and (ii) if Distributor is a non-governmental entity, it will notify Cisco in writing if any of its owners, partners, principals, officers, and employees are or become during the term of this Agreement officials, officers or representatives of any government, political party or candidate for political office outside the United States and are responsible for a decision regarding obtaining or retaining business for Cisco Products by such government. Cisco strives to maintain the highest standards of business integrity and, accordingly, if Distributor has any cause for concern regarding any business practices these should be reported to Cisco at [EMAIL ADDRESS] or by Fax to [FAX NUMBER].",
+    "ollama_generated": "21.3 Distributor acknowledges and agrees that: (a) it may, at its discretion, choose not to comply with some Applicable Laws, provided such non-compliance does not conflict with this Agreement or any of its terms; (b) it is solely responsible for ensuring the conformance of this Agreement and its terms with applicable laws; and (c) it may engage in actions or authorize actions that could potentially expose Cisco to a claim under the U.S. Foreign Corrupt Practices Act, but it shall take reasonable measures to ensure such actions do not lead to a violation. If Distributor is aware that any of its owners, partners, principals, officers, or employees are officials, officers, or representatives of any government, political party, or candidate for political office outside the United States and are responsible for decision-making regarding Cisco Product sales or distribution by such government, it shall promptly notify Cisco in writing. Cisco values its business integrity and encourages Distributor to report any concerns about potential unethical practices, which can be done via email at [EMAIL ADDRESS] or fax at [FAX NUMBER].\n\nThis revision allows for a slight shift in the obligation placed on the Distributor, giving them discretion over compliance with some applicable laws. Additionally, it removes the strict prohibition against violating the U.S. Foreign Corrupt Practices Act and replaces it with a clause requiring the Distributor to take reasonable measures to avoid violations. Lastly, it shifts the responsibility for reporting potential ethical issues to the Distributor rather than encouraging such reporting.",
+    "contradiction_score": 0.020383834838867188,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 116,
+    "start_char": 47087,
+    "end_char": 47540,
+    "original": "21.4 Distributor shall use its best efforts to regularly and continuously inform Cisco of any requirements under any Applicable Laws that directly or indirectly affect this Agreement, the sale, use and distribution of Products, or Cisco's trade name, trademarks or other commercial, industrial or intellectual property interests, including, but not limited to, certification or type approval of the Products from the proper authorities in the Territory.",
+    "ollama_generated": "21.4 Distributor is expected to make reasonable attempts to periodically and as circumstances necessitate, provide Cisco with pertinent information regarding any legal requirements that potentially impact this Agreement, the commercialization, utilization, or dissemination of Products, as well as Cisco's trade name, trademarks, or other business-related, industrial, or intellectual property interests. This includes, but is not exclusive to, certification or type approval processes for the Products within the Territory; however, Distributor shall not be held accountable for identifying all such requirements.",
+    "contradiction_score": 0.08816946297883987,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 48624,
+    "end_char": 49236,
+    "original": "EXCEPT FOR LIABILITY ARISING OUT OF OR IN CONNECTION WITH DISTRIBUTOR'S BREACH OF SECTION 9 (PROPRIETARY RIGHTS AND SOFTWARE LICENSING) OR EXHIBIT C (SOFTWARE LICENSE AGREEMENT), IN NO EVENT SHALL EITHER PARTY, ITS RESPECTIVE AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS OR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, Source: SCANSOURCE, INC., 10-K, 8/22/2019 Exhibit 10.38 INDIRECT OR CONSEQUENTIAL DAMAGES, OR LOST REVENUE, LOST PROFITS, OR LOST OR DAMAGED DATA, WHETHER ARISING IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF SUCH PARTY HAS BEEN INFORMED OF THE POSSIBILITY THEREOF.",
+    "ollama_generated": "Except for liabilities stemming from or related to the Supplier's breach of Section 9 (Proprietary Rights and Software Licensing) or Exhibit C (Software License Agreement), under no circumstances shall either Party, its respective affiliates, officers, directors, employees, agents, or suppliers be held responsible or accountable for any direct, special, incidental, consequential damages, loss of revenue, lost profits, or damage to data, regardless of the basis for the claim (whether in contract, tort, including negligence, or otherwise), even if such party has been informed of the possibility of such damages.\n\nIn this revised clause, the obligation of neither party to be liable for consequential damages has been strengthened, making it clear that they are not responsible for indirect, special, incidental, or consequential damages, and expanding the range of bases for claims (including negligence) under which they will not be held accountable.",
+    "contradiction_score": 0.013138184323906898,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 51952,
+    "end_char": 52035,
+    "original": "26.0 REQUIREMENTS FOR RESELLERS 26.1 [*****] 26.2 [*****] 27.0 GENERAL  PROVISIONS.",
+    "ollama_generated": "26.0 RESPONSIBILITIES OF AUTHORIZED DISTRIBUTORS\n26.1 The Company shall provide necessary support and resources to the Distributor, but it is understood that the Distributor retains primary responsibility for marketing and sales of the products.\n26.2 The Distributor may set its own pricing policies, provided they do not conflict with the minimum prices established by the Company.\n27.0 GENERAL PROVISIONS.\n\nExplanation:\nIn the original clause, the reseller has certain obligations (requirements). In the revised clause, I have changed the focus to the responsibilities of the distributor, shifting the emphasis slightly towards their autonomy in some aspects. This makes the obligation weaker and more flexible for the distributor, while still maintaining professionalism and clarity.",
+    "contradiction_score": 0.08755112439393997,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 52762,
+    "end_char": 53407,
+    "original": "27.2 Force Majeure.  Except for the obligation to pay monies due and owing, neither party shall be liable for any delay or failure in performance due to events outside the defaulting party's reasonable control, including without limitation acts of God, earthquakes, labor disputes, industry wide shortages of supplies, actions of governmental entities, riots, war, acts of terrorism, fire, epidemics, or delays of common carriers or other circumstances beyond its reasonable control. The obligations and rights of the defaulting party shall be extended for a period equal to the period during which such event prevented such party's performance.",
+    "ollama_generated": "27.2 Unforeseen Circumstances. Under normal circumstances, both parties are responsible for timely performance. However, any failure or delay in meeting these obligations may be excused by either party if it is due to unavoidable events beyond its reasonable control, such as acts of God, earthquakes, labor disputes, industry-wide shortages of supplies, actions of governmental entities, riots, war, acts of terrorism, fire, epidemics, or delays from common carriers or other circumstances beyond the party's control. In such cases, the non-performing party will have an extended period to fulfill their obligations, equal in duration to the timeframe during which the unforeseen event prevented performance. This extension does not release the non-performing party from their obligation to eventually meet the original terms of this agreement, once the unforeseen circumstances have been resolved.",
+    "contradiction_score": 0.41076284646987915,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 58814,
+    "end_char": 58951,
+    "original": "27.12 Headings . Headings of sections have been added solely for convenience of reference and shall not be deemed part of this Agreement.",
+    "ollama_generated": "27.12 Headings. The section headings included in this Agreement serve as a mere convenience for referencing purposes and are not intended to modify, limit, or expand the scope or meaning of any provision herein.",
+    "contradiction_score": 0.004483114928007126,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 59556,
+    "end_char": 59596,
+    "original": "Customer  means End Users and Resellers.",
+    "ollama_generated": "User or Party, as the context requires, encompasses End Users and those Authorized Resellers acting on their behalf within the scope of this agreement.",
+    "contradiction_score": 0.005953918676823378,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 60226,
+    "end_char": 60248,
+    "original": "2.3 Updates.  [*****].",
+    "modified": "2.3 Update Obligations. Upon their discretion, the Client may choose to update the Software or Services provided, which shall not be obligated to result in improved functionality or compatibility for existing uses, unless explicitly agreed otherwise in writing.",
+    "contradiction_score": 0.7406718134880066,
+    "kept": true
+  },
+  {
+    "clause_index": 151,
+    "start_char": 60929,
+    "end_char": 60962,
+    "original": "2.5 Cisco Brand Services Option .",
+    "ollama_generated": "2.5 Optional Service for Cisco Brand Utilization:\n\nThis revised clause slightly modifies the original by making the use of Cisco's brand services optional rather than obligatory. The key changes are:\n\n1. The original clause uses \"Cisco Brand Services,\" whereas this new clause refers to it as \"Cisco Brand Utilization\" to emphasize that using these services is now optional.\n2. By adding the word \"Optional\" in front of the service, it sets a different tone and implies that Parties can choose whether or not to use Cisco's brand services.\n3. The sentence structure remains professional and fluent while maintaining a realistic approach for contract negotiation and understanding.",
+    "contradiction_score": 0.0050161308608949184,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 60962,
+    "end_char": 61575,
+    "original": "Cisco will make available for purchase by DISTRIBUTOR, all appropriate Cisco Brand support Products for Distributor's internal use and for resale to Resellers. This option to resell Cisco brand services whereby services are delivered directly by Cisco to the End User is available in accordance with Cisco's then-current packaged service resale program. Availability of Cisco brand services is subject to geographic limitations. Information on where such services are available for resale, as well as the process for reselling Cisco brand services is located at \"http://www.cisco.com/warp/cproreg/45/index.html\u201d .",
+    "ollama_generated": "In accordance with Cisco's current packaged service resale program and geographic restrictions, DISTRIBUTOR shall have the opportunity to purchase Cisco Brand support Products for their internal use and for subsequent sale to Resellers. Notably, Cisco provides an option for DISTRIBUTOR to procure services directly from Cisco to be delivered to End Users; however, this service delivery model is subject to the terms and conditions stipulated in Cisco's then-current packaged service resale program. The location of regions where such direct service provision is available, along with the process for DISTRIBUTOR to engage in reselling Cisco brand services, can be found at \"http://www.cisco.com/warp/cproreg/45/index.html\". It should be emphasized that while this opportunity exists, Cisco does not guarantee or assume any responsibility for the success or failure of DISTRIBUTOR's resale efforts in these regions.",
+    "contradiction_score": 0.002364619867876172,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 63765,
+    "end_char": 63901,
+    "original": "3.4.3 Title and risk of loss to failed Product and parts transfers to Cisco upon delivery to the Cisco repair center specified by Cisco.",
+    "modified": "3.4.3 The risk of loss for defective or failed Products and their components transferred to the Client upon delivery to the designated Client repair center. Any title for such items will remain with the Client throughout the repair process, unless otherwise agreed in writing by both parties.",
+    "contradiction_score": 0.9734677076339722,
+    "kept": true
+  },
+  {
+    "clause_index": 168,
+    "start_char": 63997,
+    "end_char": 64186,
+    "original": "3.5.1 DISTRIBUTOR shall provide competent technical support staff to support the Product so as to ensure that the Reseller is able to provide the necessary support to the End User Reseller.",
+    "modified": "3.5.1 In the event of any need for technical assistance related to the Product, it shall be the responsibility of RESELLER to promptly communicate such requirements to DISTRIBUTOR. Upon receipt of such communication, DISTRIBUTOR will make reasonable efforts to provide suitable technical support personnel, if and when available, to facilitate RESELLER's ability to assist the End User effectively.",
+    "contradiction_score": 0.8828074932098389,
+    "kept": true
+  },
+  {
+    "clause_index": 169,
+    "start_char": 64188,
+    "end_char": 64326,
+    "original": "3.5.2 Reseller Frontline Support.  DISTRIBUTOR will use best efforts to ensure that its Resellers provide high quality front-line support.",
+    "modified": "3.5.2 Reseller Minimum Support Standards. While the PROVIDER encourages exceptional performance, it is understood that RESOLVER's Resellers shall meet a minimum standard of support, without guaranteeing high quality front-line service.",
+    "contradiction_score": 0.9051450490951538,
+    "kept": true
+  },
+  {
+    "clause_index": 183,
+    "start_char": 66596,
+    "end_char": 67004,
+    "original": "[*****] Source: SCANSOURCE, INC., 10-K, 8/22/2019 Exhibit 10.38 EXHIBIT D SCANSOURCE FREIGHT POLICY TO: All SUPPLIERS SUBJECT: ROUTING INSTRUCTIONS In order to mm1m1ze inbound transportation cost, and to maximize control over transit time, tracing, and expediting, this routing guide has been issued. These instructions supercede all previous shipping instructions and are to be retained for ready reference.",
+    "ollama_generated": "Title: Routing Instructions\n    To: All Suppliers\n    Subject: Inbound Transportation Guidelines\n\nIn order to optimize inbound freight expenses and maintain control over delivery time, tracking, and expediting, we have established this routing guide. These instructions replace any prior shipping instructions and should be kept for easy reference.\n\nSuppliers are strongly encouraged, but not strictly obligated, to adhere to these instructions, enabling us to streamline our logistics operations while ensuring efficient service delivery.",
+    "contradiction_score": 0.0012857915135100484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 67228,
+    "end_char": 67244,
+    "original": "ScanSource, Inc.",
+    "ollama_generated": "ScanSource, Inc., shall not be held accountable if it fails to deliver the Contracted Products within the specified timeframe due to circumstances beyond its reasonable control, including but not limited to, acts of God, governmental actions, or any other unforeseen events. In such cases, ScanSource, Inc., shall use commercially reasonable efforts to expedite delivery as soon as practicable after the event has passed.",
+    "contradiction_score": 0.007123987656086683,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 67244,
+    "end_char": 67393,
+    "original": "4020 Quest Way, Ste. 114 Memphis, TN. 38115 Receiving hours: 7:00 am - 2:00 pm For shipments of ScanSource and ScanSource Security products: Contact:",
+    "ollama_generated": "4020 Quest Way, Ste. 114 Memphis, TN. 38115\nOffice Hours: 2:00 pm - 7:00 am (Extended for convenience)\nFor time-sensitive deliveries of ScanSource and ScanSource Security products: Contact Preferred.\n\nNote: This revised clause extends the office hours for convenience, shifts the responsibility of contacting for time-sensitive shipments to the sender (Preferred), and subtly implies that regular shipments may not require immediate attention outside of standard business hours.",
+    "contradiction_score": 0.34216567873954773,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 188,
+    "start_char": 67393,
+    "end_char": 67538,
+    "original": "Deborah Lucas, Receiving Manager Phone: (800) 854-9570 ext. 8111 Fax: (901) 367-0666 Email: deborah.lucas@partnerservicesinc.com Ship to address:",
+    "modified": "Deborah Lucas, Designated Shipper Manager, Contact Details: Phone: (800) 854-9570 ext. 8111 Fax: (901) 367-0666 Email: deborah.lucas@partnerservicesinc.com\n\nShip from address:\n\nThis clause subtly shifts the responsibility of shipping the goods to Deborah Lucas, who is now the Designated Shipper Manager instead of the Receiving Manager as stated in the original clause.",
+    "contradiction_score": 0.761830747127533,
+    "kept": true
+  },
+  {
+    "clause_index": 189,
+    "start_char": 67541,
+    "end_char": 67557,
+    "original": "ScanSource, Inc.",
+    "ollama_generated": "ScanSource, Inc. shall retain the discretionary authority to elect, at its sole option, whether to perform its obligations under this Agreement, subject to any applicable law or regulatory requirements, provided that any decision not to perform shall not constitute a breach of this Agreement and shall not be subject to any liability or damages arising therefrom.",
+    "contradiction_score": 0.0692291259765625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 193,
+    "start_char": 68109,
+    "end_char": 68177,
+    "original": "Please consolidate all of one day's shipments on one bill of lading.",
+    "ollama_generated": "It is recommended, but not mandatory, to combine multiple shipments from a single day onto a single bill of lading where feasible, in order to facilitate the shipping process. However, should consolidation be impractical for any reason, separate bills of lading may be issued without penalty or delay.",
+    "contradiction_score": 0.006261253263801336,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 194,
+    "start_char": 68177,
+    "end_char": 68615,
+    "original": "Exceptions will be charged back. Cisco may accomplish this by leveraging an order grouping process and setting up internal tools accordingly. OG will only be available for LTL or TL carriers. In order to support OG, ScanSource must include a LTL and TL carriers in their routing config in SRC tool. If combined shipments do not meet the minimum requirement to ship LTL or TL (i.e. number pieces, min weight) then no grouping will be done.",
+    "ollama_generated": "Exceptions may not always necessitate recovery; however, Cisco reserves the right to recoup such costs when feasible, utilizing an order consolidation process and adjusting internal systems accordingly. It is to be noted that this consolidation feature will only apply to Less than Truckload (LTL) or Truckload (TL) freight forwarders. ScanSource shall facilitate consolidation by incorporating LTL and TL carriers within their routing configuration in the SRC tool. In instances where combined shipments fall short of the necessary criteria for LTL or TL transportation (e.g., item count, minimum weight), Cisco will refrain from any consolidation efforts.",
+    "contradiction_score": 0.2848093509674072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 203,
+    "start_char": 70011,
+    "end_char": 70196,
+    "original": "STANDARD SURFACE TRANSPORTATION I. Shipments, not individual cartons, weighing less than 250 lbs. and meeting the weight and size restrictions, must be shipped by United Parcel Service.",
+    "modified": "EXCEPTIONAL SURFACE TRANSPORTATION: It is at the discretion of the shipper to choose a carrier for items weighing less than 250 lbs., provided they meet the weight and size restrictions. However, should the shipper opt not to use United Parcel Service, they will be liable for any additional costs or damages incurred as a result.",
+    "contradiction_score": 0.9145944118499756,
+    "kept": true
+  },
+  {
+    "clause_index": 205,
+    "start_char": 70289,
+    "end_char": 70588,
+    "original": "CARRIER SERVICING FedEx Freight East Toll free number for pickups (800) 874-4723 -Alabama -Arkansas -Georgia -Illinois -Indiana -Kentucky -Louisiana -Minnesota -Mississippi -Missouri -New Jersey -North Carolina -Oklahoma -South Carolina -Tennessee -Texas -Virginia -West Virginia -Wisconsin Con-way:",
+    "ollama_generated": "In the event of necessary pickups in Alabama, Arkansas, Georgia, Illinois, Indiana, Kentucky, Louisiana, Minnesota, Mississippi, Missouri, New Jersey, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia or Wisconsin, the shipper shall be responsible for contacting either FedEx Freight East Toll-free number (800) 874-4723 or Con-way for scheduling pickups. The Carrier is not obligated to respond promptly or initiate communication in these instances unless explicitly contacted by the shipper.",
+    "contradiction_score": 0.022630473598837852,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 210,
+    "start_char": 71527,
+    "end_char": 72294,
+    "original": "Source: SCANSOURCE, INC., 10-K, 8/22/2019 Exhibit 10.38 EXHIBIT F Software Transfer and Relicensing Policy September 15, 2000 This document sets forth Cisco's policy with respect to the transferability of any Cisco software (\"Software\"). A transfer occurs when: (1) the original or authorized subsequent licensee tries to convey or reassign its right to use the Software to another entity, or (2) the original lessor of Cisco used hardware (including bundled Software) (\"Hardware\") tries to reassign the original lessee's right to use the Software to another lessee, or the lessor tries to convey or reassign its right to lease the Hardware and Software bundle to another lessor. A rental would be treated the same as the lease situation as described in item 2 above.",
+    "ollama_generated": "Title: SCANSOURCE, INC., 10-K, 8/22/2019 Exhibit 10.38 EXHIBIT F Software Transfer and Licensing Policy September 15, 2000\n\nThis document outlines Cisco's guidelines regarding the transferability of any Cisco software (\"Software\"). A transfer is deemed to have taken place under the following circumstances:\n\n(1) When an initial or subsequent licensee seeks to grant or assign its right to utilize the Software to another party, or\n(2) In the event that the original lessee of Cisco-owned hardware (including hardware bundled with Software) (\"Hardware\") intends to transfer the rights to use the Software to a different lessee, or when the lessor seeks to assign its lease agreement for the Hardware and Software bundle to another lessor. For clarity, any rental arrangement will be considered analogous to a lease as defined in point 2 above.\n\nNotably, it is essential to recognize that under these terms, the transferee or assignee shall assume all obligations and responsibilities associated with the usage of the Software, as originally agreed upon between Cisco and the initial licensee or lessee.",
+    "contradiction_score": 0.0027228891849517822,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 211,
+    "start_char": 72294,
+    "end_char": 72716,
+    "original": "This policy applies to all Software whether Standalone or Embedded. Standalone Software is Software which is not required to operate the Hardware upon which it resides (i.e., ICSG software such as call center, unified messaging, network management software). Embedded Software is Software which is incorporated into the Hardware and is required for its operation (i.e., operating system software, certain features of IOS).",
+    "ollama_generated": "This policy encompasses all Software, whether independent or integrated. Independent Software refers to any application that does not necessitate the functioning of the Hardware on which it is installed (for instance, ICSG software like call center, unified messaging, network management software). Integrated Software, conversely, denotes the software components that are inherently part of the Hardware and essential for its proper operation (such as operating system software, specific features of iOS or any other embedded system's functionality).\n\nIn this revised clause, I have maintained a professional tone while slightly altering the original to emphasize that the software integrated with the hardware is necessary for its operation. This minor change could potentially reduce user confusion about which software applications are required for hardware function and which are optional.",
+    "contradiction_score": 0.001499054254963994,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 213,
+    "start_char": 72726,
+    "end_char": 73603,
+    "original": "Cisco's policy is that Software, whether Standalone or Embedded, is not transferable, except where a listed exception below applies, and except, of course, where Cisco's contract expressly allows it. Any other transfers will require the payment of a new license fee (see Global Price List). For products where there is no separate line item for the Software (i.e. the prices for both the Hardware and Software are bundled), and therefore, a fee cannot be determined, an exception will be made to allow for the transfer without the customer being required to obtain a new license (the customer may be required to pay an inspection fee), if (A) Software to be transferred (i) will be under a support contract provided by either Cisco or a Cisco\u200b\u2010 authorized support partner or (ii) is still supported by Cisco\u037e or (B) approval from the theatre Sales Controller has been obtained.",
+    "ollama_generated": "Cisco's policy allows for the transfer of Software, subject to certain conditions and exceptions as outlined below. Unless explicitly permitted in our contract or under the listed exceptions, any transfers will necessitate a new license fee (refer to the Global Price List). For products where the Software cost is bundled with the Hardware price, an exception may be granted for transfer without the necessity of obtaining a new license, although a reasonable inspection fee may apply. This exemption is permitted in two scenarios:\n\n1. The Software to be transferred falls under a support contract provided by Cisco or an authorized Cisco support partner.\n2. The Software to be transferred continues to be supported by Cisco or an approved Cisco support partner. Alternatively, approval from the Theatre Sales Controller must be obtained for any transfers not explicitly permitted under our contract or the listed exceptions.",
+    "contradiction_score": 0.2689013183116913,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 220,
+    "start_char": 74947,
+    "end_char": 75242,
+    "original": "Merger or Acquisition : An entity may transfer its right to use a certain piece of Software to the purchaser of all or substantially all of the capital stock of the transferor or all or substantially all of the assets of that portion of the transferor's business to which those licenses pertain.",
+    "ollama_generated": "Merger or Acquisition: The transferee, upon purchase of a substantial majority of the capital stock of the transferor or a significant portion of its assets, shall be granted the right to utilize the specified Software, subject to the condition that such use is consistent with the existing license agreements. In this scenario, the responsibility for ensuring compliance with these terms lies primarily with the transferee.",
+    "contradiction_score": 0.0009244750835932791,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 79036,
+    "end_char": 79308,
+    "original": "The End of Life Policy only applies to End of Life and End of Sale announcements made in all Theaters on or after November 30, 2002 for all Cisco product lines. The Policy does not apply to product that is already subject to an End of Life and/or End of Sale announcement.",
+    "ollama_generated": "This End of Life Policy pertains exclusively to End of Life and End of Sale declarations communicated in all Theaters, effective from November 30, 2002, applicable to any Cisco product line introduced or continued thereafter. It is important to note that this Policy does not extend to any products that were already subject to an End of Life and/or End of Sale announcement prior to the specified date.",
+    "contradiction_score": 0.001006229780614376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 236,
+    "start_char": 80889,
+    "end_char": 81177,
+    "original": "c. After the first year and for Application SW -where available - we will provide bug fixes, maintenance releases, workarounds or patches for a period of 2 years for application software. Bear in mind that it may be necessary to use software upgrade release to correct a reported problem.",
+    "ollama_generated": "d. For the Application SW - where accessible - we commit to offering bug fixes, maintenance releases, workarounds or patches for a term of 2 years following the initial year. Please note that under certain circumstances, software upgrades may be required to address any reported issues, and such upgrades will not fall under the scope of this commitment unless expressly stated otherwise.",
+    "contradiction_score": 0.19057834148406982,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 238,
+    "start_char": 81451,
+    "end_char": 81590,
+    "original": "6. Below are guidelines that should be followed to ensure that you receive effective support for the affected products within your network:",
+    "ollama_generated": "6. The following recommendations aim to facilitate your ability to obtain appropriate assistance for the products in question across your system:\n\n[This version suggests a more casual, advisory tone, implying that compliance is not mandatory but rather encouraged.]",
+    "contradiction_score": 0.005499276332557201,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 239,
+    "start_char": 81590,
+    "end_char": 81789,
+    "original": "a. For hardware or software that is not covered under a service contract, customers may add the product(s) to a current contract or purchase a new contract until 12 months after the end-of-sale date.",
+    "ollama_generated": "b. Beyond the end-of-sale date, if hardware or software is not already included within an existing service contract, customers will have the option to extend their current contract by purchasing additional coverage for up to 12 months following the product's cessation of sale. In the absence of a pre-existing service contract, a new contract can be initiated during this period for these newly-acquired products.",
+    "contradiction_score": 0.002805627416819334,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 242,
+    "start_char": 82116,
+    "end_char": 82190,
+    "original": "The end-of-life milestones and Cisco commitments are presented in Table 1.",
+    "ollama_generated": "The proposed timelines for end-of-life milestones and Cisco's corresponding commitments, as outlined in Table 1, serve as a general guide. However, Cisco reserves the right to adjust these timelines based on unforeseen circumstances or product development requirements that may arise during the lifecycle of the product.\n\nIn essence, while we strive to adhere to the presented schedule, our ability to meet specific end-of-life milestones may be subject to change.",
+    "contradiction_score": 0.0022580481600016356,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 82190,
+    "end_char": 82804,
+    "original": "Table 1. Standard Guideline for End-of-Life Milestones Milestone - 6 mos Day 0 1 Year 2 Year 3 Year 4 year 5 Year End-of-sale dateEnd-of-Sale Notice Period Operating System Software Maintenance Support See 4(a) See 4(b) above Add or attach new service contracts Renew service contracts - for HW & Operating System SW Hardware Repair or Replacement Customer Service and Support of HW & Operating System SW ( TAC access & support ) Application Software maintenance support See 4(a) See 4(c) above Renew service contracts - for Application Here is an explanation of some of the terms that we have used in this notice:",
+    "ollama_generated": "Table 1. Revised Guideline for Product Lifecycle Stages\n    Milestone - 6 mos Day 0  1 Year  2 Year  3 Year  4 year  5 Year End-of-Production Date\n    Notice Period for End-of-Production   Operating System Software Maintenance Support (as per 4(a))\n    Addition or inclusion of new service contracts (if applicable)\n    Renewal of service contracts - for Hardware & Operating System Software (at customer's discretion, if available)\n    Hardware Repair or Replacement (customer responsibility unless under warranty)\n    Customer Service and Support of Hardware & Operating System SW (limited TAC access & support)\n    Application Software maintenance support (if provided, subject to separate agreement)\n    Renewal of service contracts - for Application (at customer's discretion, if available)\n\nHere is an explanation of some of the terms that we have used in this notice:\n- End-of-Production Date: The date beyond which we will no longer manufacture or sell this product.\n- Notice Period for End-of-Production: The time frame within which you will be notified about the upcoming end-of-production of this product.\n- Operating System Software Maintenance Support: Our commitment to provide software updates, patches, and technical assistance during the product's lifecycle. This support may cease after the end-of-production date.\n- Addition or inclusion of new service contracts: Any additional agreements that may be offered for specific services related to your product.\n- Renewal of service contracts - for Hardware & Operating System Software: The option for you to renew your service contracts, if available, for hardware and operating system software support and maintenance.\n- Hardware Repair or Replacement: Your responsibility to repair or replace the hardware unless it is still under warranty.\n- Customer Service and Support of Hardware & Operating System SW: Limited technical assistance provided during the product's lifecycle.\n- Application Software maintenance support: Available only if a separate agreement has been made, providing software updates, patches, and technical assistance for the application software.\n- Renewal of service contracts - for Application: The option for you to renew your service contract for application software support and maintenance, if available.",
+    "contradiction_score": 0.08132953196763992,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

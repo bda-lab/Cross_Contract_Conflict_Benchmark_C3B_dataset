@@ -1,0 +1,141 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 1497,
+    "end_char": 2387,
+    "original": "(d)\u201cMSCI Licensed Materials\u201d means collectively, to the extent owned by a member of the MSCI Provider Group, any hardware settings and configurations, generic software libraries and routines, and generic document templates not separately commercialized by the MSCI Provider Group (as defined below) and used by MS prior to the Trigger Date. For the avoidance of doubt, the MSCI Licensed Materials does not include (i) any patent, trademark or service mark of the MSCI Provider Group, (ii) any infrastructure hardware or software (e.g., monitoring software and systems, customized operating systems and middleware), or (iii) any software or data separately licensed to MS by the MSCI Provider Group (such as the Barra Aegis software or the MSCI indices). For the avoidance of doubt, the document templates do not include any references to members of the MSCI Provider Group or its personnel.",
+    "ollama_generated": "(d) \"Non-Exclusive MSCI Assets\" encompass, with respect to any intellectual property belonging to a member of the MSCI Provider Group, any hardware settings, generic software libraries and routines, as well as document templates that are not individually commercialized by the MSCI Provider Group (as defined herein) and were utilized by MS prior to the Trigger Date. It is important to clarify that the Non-Exclusive MSCI Assets do not comprise (i) any patents, trademarks, or service marks owned by the MSCI Provider Group, (ii) any infrastructure hardware or software (for instance, monitoring tools and systems, customized operating systems, and middleware), or (iii) any software or data licensed to MS by the MSCI Provider Group on a separate basis (such as Barra Aegis software or MSCI indices). For the avoidance of doubt, the document templates do not contain any mention of members of the MSCI Provider Group or their personnel.\n\nIn this revised clause, the ownership and scope of the assets have been altered slightly to emphasize non-exclusive usage rights instead of direct ownership by the contracting party. Additionally, the term \"MSCI Licensed Materials\" has been replaced with \"Non-Exclusive MSCI Assets\", which better reflects this changed relationship.",
+    "contradiction_score": 0.0018694616155698895,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 2732,
+    "end_char": 3020,
+    "original": "MS hereby grants (subject to any existing third party contractual obligations) to MSCI a non-exclusive, perpetual, irrevocable, world- wide, royalty-free license for MSCI to use, modify, copy, create derivative works of and sublicense, for any business purpose, the MS Licensed Materials.",
+    "modified": "Grantor (MS) hereby provides (with the exception of any pre-existing contractual obligations towards third parties), a non-exclusive, revocable, limited in time (until terminated at MS's discretion), world-wide license to Licensee (MSCI). This license permits MSCI to utilize, modify, reproduce, and create derivative works from the Grantee Materials, solely for business purposes. Notably, this license does not grant sublicensing rights to MSCI, except as expressly agreed upon in writing by both parties.",
+    "contradiction_score": 0.8622837066650391,
+    "kept": true
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3510,
+    "end_char": 3576,
+    "original": "3.DELIVERY 3.1No Support or Maintenance or Obligation to Deliver .",
+    "ollama_generated": "3.DELIVERY\n3.1 The Recipient is under no obligation to receive, install, activate, maintain, or support any Software or Hardware delivered hereunder. Any such actions are solely at the Recipient's discretion and risk.",
+    "contradiction_score": 0.007131235208362341,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 3576,
+    "end_char": 3896,
+    "original": "The Parties shall have no obligation to provide support or maintenance for the Licensed Materials, including any obligation to update or correct such Licensed Materials. The Parties shall have no obligation to provide copies of the Licensed Materials (including in the case of software, any source code and object code).",
+    "ollama_generated": "The grantor is under no compulsion to render assistance, improvements, or updates concerning the Licensed Materials, nor does it bear responsibility for rectifying any errors within them. Similarly, neither party shall be required to supply replicas of the Licensed Materials (in the case of software, this encompasses both source code and object code). Instead, both parties acknowledge that their interactions are limited to the initial transfer of ownership.",
+    "contradiction_score": 0.0026842495426535606,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 3896,
+    "end_char": 4296,
+    "original": "4.NO WARRANTIES THE LICENSE GRANTS HEREUNDER ARE PROVIDED \u201cAS-IS\u201d WITH NO WARRANTIES, AND THE PARTIES EXPRESSLY EXCLUDE AND DISCLAIM ANY WARRANTIES UNDER OR ARISING AS A RESULT OF THIS AGREEMENT, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT OR ANY OTHER WARRANTY WHATSOEVER.",
+    "ollama_generated": "4. The Licensor grants no warranties under this Agreement beyond those explicitly stated herein. Any implied warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, and any other warranty arising by law or custom are specifically disclaimed and excluded. The parties acknowledge that the licensed materials are provided on an \"as-is\" basis, with no guarantees regarding their quality, suitability, or freedom from third-party claims.",
+    "contradiction_score": 0.003089198609814048,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4836,
+    "end_char": 5321,
+    "original": "(b)MS agrees that neither MSCI nor its subsidiaries (collectively, the \u201cMSCI Provider Group\u201d) and the respective directors, officers, agents, and employees of the MSCI Provider Group shall have any liability, whether direct or indirect, in contract or tort or otherwise, to MS for or in connection with this Agreement or the transactions contemplated hereby or any actions or inactions by or on behalf of the MSCI Provider Group in connection with this Agreement and such transactions.",
+    "ollama_generated": "(b) In consideration of the mutual promises made in this Agreement, MS acknowledges and accepts that the \"MSCI Provider Group\" - which includes MSCI and its subsidiaries, along with their respective directors, officers, agents, and employees - shall enjoy full immunity from any liability, whether contractual, tortious, or otherwise, towards MS. This immunity extends to any matters arising from this Agreement, the transactions related to it, or actions taken (or not taken) by the MSCI Provider Group in accordance with this Agreement and its associated transactions.",
+    "contradiction_score": 0.0017229010118171573,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 6443,
+    "end_char": 6511,
+    "original": "6.MISCELLANEOUS 6.1Governing Law\u037e Jurisdiction\u037e Dispute Resolution .",
+    "ollama_generated": "6.MISCELLANEOUS\n\n6.1 Governing Law, Jurisdiction, and Alternative Dispute Resolution Mechanisms\n\nIn the event of any dispute or claim arising out of or in connection with this Agreement, the parties shall first endeavor to resolve such dispute through good faith negotiations. If these efforts fail, then either party may initiate binding arbitration under the rules of the International Chamber of Commerce (ICC), with the seat of the arbitration to be held in [City], [Country]. The language of the arbitration shall be English, and the award rendered shall be final and binding upon both parties. This clause shall not preclude either party from seeking temporary or preliminary injunctive relief in a court of competent jurisdiction as necessary to protect its rights pending the completion of the arbitration process.\n\nThe governing law of this Agreement shall be the laws of [Country], excluding its conflict of laws principles that would result in the application of the laws of another jurisdiction. Any legal action or proceeding concerning this Agreement may only be brought in a court of competent jurisdiction located in [City], [Country]. Both parties irrevocably submit to the exclusive jurisdiction of such courts and waive any objection to venue laid therein.",
+    "contradiction_score": 0.06002699211239815,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 8306,
+    "end_char": 8317,
+    "original": "6.3Notices.",
+    "ollama_generated": "6.3 Communication Protocol:\n\nIn the event that either Party requires to provide any notices, communications, or other similar formalities under this Agreement, they shall duly notify the other Party in writing or through electronic means. The receiving Party assumes the responsibility for acknowledging receipt of such notification within seven (7) business days and acting promptly thereafter. Failure to do so will not absolve the responsible Party from their obligations under this Agreement.",
+    "contradiction_score": 0.04874012991786003,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 8580,
+    "end_char": 8710,
+    "original": "Morgan Stanley 1585 Broadway New York, NY 10036 Attn: Martin M. Cohen, Director of Company Law Facsimile: (212) 507-3334 To MSCI :",
+    "ollama_generated": "Morgan Stanley, 1585 Broadway, New York, NY 10036, Attn: Martin M. Cohen, Director of Company Law, Facsimile: (212) 507-3334 - To Whom It May Concern at MSCI:\n\nIn the interest of maintaining a harmonious and cooperative business relationship, it is hereby agreed that any disputes arising from this contract shall be resolved amicably through open dialogue, with both parties making reasonable efforts to understand each other's perspectives. If an agreement cannot be reached within a reasonable timeframe, either party may seek the assistance of a mutually agreed-upon third-party mediator for resolution. This clause is intended to minimize potential adversarial proceedings and promote the spirit of partnership embodied in this contract.\n\nThis modified clause aims to shift responsibility for dispute resolution towards a collaborative approach and away from potential litigation, emphasizing the importance of maintaining a constructive business relationship.",
+    "contradiction_score": 0.0021477180998772383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 9387,
+    "end_char": 9651,
+    "original": "This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersede all prior agreements, understandings and negotiations, both written and oral, between the parties with respect to the subject matter hereof.",
+    "ollama_generated": "This Agreement serves as a complete and final representation of the understanding between the parties pertaining to the matters addressed within it. Any previous agreements, discussions, or negotiations, either in writing or verbally, concerning the same subject matter are expressly waived by both parties moving forward.",
+    "contradiction_score": 0.009968734346330166,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 9689,
+    "end_char": 9819,
+    "original": "This Agreement is not intended to confer upon any person or entity other than the parties hereto any rights or remedies hereunder.",
+    "ollama_generated": "This Agreement does not grant to any third party, by implication, estoppel, or otherwise, any rights or remedies under this agreement, leaving such rights exclusively with the contracting parties.",
+    "contradiction_score": 0.0013107669074088335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 9823,
+    "end_char": 9848,
+    "original": "6.6Amendments and Waiver.",
+    "ollama_generated": "6.6 Modifications and Exemptions:\n\nAny deviation from the terms of this Agreement, whether by modification or waiver, shall only be binding if made in writing and signed by an authorized representative of each party.",
+    "contradiction_score": 0.1374945044517517,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 10125,
+    "end_char": 10534,
+    "original": "(b)No failure or delay by any party in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by 6.7Construction .",
+    "ollama_generated": "(b) Any party's forbearance in exercising any right, power, or privilege under this agreement shall not constitute a waiver of such right, nor shall the utilization of any such right preclude the use of any other or additional rights, powers, or privileges. The rights and remedies enumerated herein are additive and do not supersede any rights or remedies detailed in Section 6.7 Construction.\n\nThis rewording aims to maintain the original intent but shifts the focus slightly by using more positive language (\"additive\" instead of \"cumulative\") and clarifying that the mentioned rights and remedies are not exclusive, but rather can be utilized in conjunction with others or additional rights.",
+    "contradiction_score": 0.00646622572094202,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 11347,
+    "end_char": 11353,
+    "original": "Title:",
+    "ollama_generated": "Title: Modification of Liability Provisions Regarding Data Breaches\n\nOriginal Clause: In the event that a data breach occurs, the Company shall promptly notify all affected parties within 72 hours and take immediate steps to rectify the issue. The Company shall also be liable for any damages or losses incurred by the affected parties as a result of the breach, subject to applicable law and regulation.\n\nRewritten Clause: Should a data breach transpire, the Company will make reasonable efforts to inform all impacted parties within a timely manner, although it may not be possible to adhere strictly to a 72-hour timeframe. The affected parties acknowledge that their recourse for any damages or losses arising from the breach is limited to the extent provided by applicable law and regulation, and the Company shall have no further liability in such cases beyond complying with said legislation.",
+    "contradiction_score": 0.47671452164649963,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

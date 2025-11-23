@@ -1,0 +1,62 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 192,
+    "original": "Exhibit 10.38 EXHIBIT C Software License Agreement [v.08.05.03] PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING OR USING CISCO OR CISCO- SUPPLIED SOFTWARE.",
+    "ollama_generated": "Title 10.38 EXHIBIT C Software Usage Permissions [v.08.05.03]\n\nPLEASE TAKE THE TIME TO THOROUGHLY UNDERSTAND THIS SOFTWARE USAGE PERMISSIONS AGREEMENT PRIOR TO YOUR ACTIVATION, ACCESS OR EXECUTION OF CISCO OR CISCO-PROVIDED SOFTWARE.\n\nThis revision shifts the focus from downloading, installing, or using the software to activating, accessing, or executing the software. This change implies that the user should be aware of the terms and conditions before they engage with the software in any way, not just when they initiate the download or installation process.",
+    "contradiction_score": 0.0111685860902071,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3668,
+    "end_char": 4089,
+    "original": "To the extent required by law, and at Customer's written request, Cisco shall provide Customer with the interface information needed to achieve interoperability between the Software and another independently created program, on payment of Cisco's Source: SCANSOURCE, INC., 10-K, 8/22/2019 Exhibit 10.38 applicable fee, if any. Customer shall observe strict obligations of confidentiality with respect to such information.",
+    "ollama_generated": "Upon Customer's written request, and as permitted by law, Cisco reserves the right to provide Customer with the interface information necessary for interoperability between the Software and another independently created program. This provision will be subject to Cisco's Source: SCANSOURCE, INC., 10-K, 8/22/2019 Exhibit 10.38 applicable fee, if any. Customer is encouraged, but not obligated, to maintain confidentiality regarding such information. The onus of discretion in disclosing or using this information lies with the Customer.",
+    "contradiction_score": 0.008371400646865368,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 5150,
+    "end_char": 5570,
+    "original": "Proprietary Notices. Customer agrees to maintain and reproduce all copyright and other proprietary notices on all copies, in any form, of the Software in the same form and manner that such copyright and other proprietary notices are included on the Software. Except as expressly authorized in this Agreement, Customer shall not make any copies or duplicates of any Software without the prior written permission of Cisco.",
+    "ollama_generated": "Intellectual Property Obligations. The Client acknowledges and consents to preserve all intellectual property rights indicators, including copyright and proprietary marks, on all versions of the Software, in the exact format and placement as they appear on the original Software. Save for specific authorizations within this Agreement, the Client is prohibited from producing copies or replicas of any Software without prior written consent from Cisco.",
+    "contradiction_score": 0.019265182316303253,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 7078,
+    "end_char": 7483,
+    "original": "Export. Software, including technical data, may be subject to U.S. export control laws, including the U.S. Export Administration Act and its associated regulations, and may be subject to export or import regulations in other countries. Customer agrees to comply strictly with all such regulations and acknowledges that it has the responsibility to obtain licenses to export, re-export, or import Software.",
+    "ollama_generated": "Export Compliance:\nThe Software, encompassing technical data, is subject to U.S. export control legislation, such as the Export Administration Act and its related rules, and may also be governed by export/import regulations in foreign countries. The User acknowledges and accepts full responsibility for ensuring compliance with all such regulations. It is understood that it is the User's obligation to secure any necessary licenses for exporting, re-exporting, or importing the Software. However, we, the provider, will strive to assist in this process by offering guidance where possible.",
+    "contradiction_score": 0.0016618910012766719,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 9932,
+    "end_char": 10463,
+    "original": "Restrictions. This warranty does not apply if the Software, Product or any other equipment upon which the Software is authorized to be used (a) has been altered, except by Cisco, (b) has not been installed, operated, repaired, or maintained in accordance with instructions supplied by Cisco, (c) has been subjected to abnormal physical or electrical stress, misuse, negligence, or accident\u037e or (d) is licensed, for beta, evaluation, testing or demonstration purposes for which Cisco does not charge a purchase price or license fee.",
+    "ollama_generated": "Limitations of Warranty: The applicability of this warranty shall be contingent upon the following conditions being met:\n\n1. The Software, Product, or any other equipment on which the Software is authorized to function (a) has not been modified, unless approved in writing by Cisco, and all modifications have been disclosed to Cisco.\n2. The Software, Product, or any related equipment has been installed, operated, maintained, and repaired in accordance with the guidelines provided by Cisco.\n3. The Software, Product, or any related equipment has not been exposed to abnormal physical or electrical stress, misuse, neglect, or accidental damage.\n4. The Software is not being utilized for beta testing, evaluation, demonstration, or other purposes for which Cisco does not levy a purchase price or license fee. In such cases, this warranty shall be null and void unless expressly stated otherwise in writing by Cisco.",
+    "contradiction_score": 0.4736808240413666,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 10463,
+    "end_char": 11453,
+    "original": "DISCLAIMER OF WARRANTY. EXCEPT AS SPECIFIED IN THIS WARRANTY, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS, AND WARRANTIES INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OR CONDITION OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, SATISFACTORY QUALITY OR ARISING FROM A COURSE OF DEALING, LAW, USAGE, OR TRADE PRACTICE, ARE HEREBY EXCLUDED TO THE EXTENT ALLOWED BY APPLICABLE LAW AND ARE EXPRESSLY DISCLAIMED BY CISCO, ITS SUPPLIERS AND LICENSORS. TO THE EXTENT AN IMPLIED WARRANTY CANNOT BE EXCLUDED, SUCH WARRANTY IS LIMITED IN DURATION TO THE WARRANTY PERIOD. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, THE ABOVE LIMITATION MAY NOT APPLY. THIS WARRANTY GIVES CUSTOMER SPECIFIC LEGAL RIGHTS, AND CUSTOMER MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION. This disclaimer and exclusion shall apply even if the express warranty set forth above fails of its essential purpose.",
+    "ollama_generated": "WARRANTY LIMITATIONS AND DISCLAIMER OF LIABILITY: While we strive for excellence, it is important to note that our products are supplied \"as is,\" without any express or implied warranties, conditions, or guarantees. This includes but is not limited to any implied warranties of merchantability, fitness for a particular purpose, non-infringement, satisfactory quality, and those arising from a course of dealing, usage, or trade practice. However, if an implied warranty cannot be legally disclaimed, it will be limited in duration to the warranty period as specified. Please note that the length of time an implied warranty lasts may differ depending on jurisdiction. The customer may have additional rights under local laws which vary by region.\n\nIn the event that the express warranty fails in its essential purpose, this disclaimer and exclusion shall remain effective. By choosing to use our products, you acknowledge and accept these terms, understanding that we assume no responsibility for any damages or losses resulting from their use or inability to use them. Our suppliers and licensors share this same responsibility.\n\nThis clause may be amended based on the applicable laws of your jurisdiction. We strongly encourage you to consult with a legal professional if you have questions regarding your rights and obligations under this agreement.",
+    "contradiction_score": 0.10285299271345139,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

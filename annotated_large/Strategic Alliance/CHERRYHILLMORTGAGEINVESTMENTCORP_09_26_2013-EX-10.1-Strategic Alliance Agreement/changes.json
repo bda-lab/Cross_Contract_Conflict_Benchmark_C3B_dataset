@@ -1,0 +1,208 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1082,
+    "end_char": 1277,
+    "original": "NOW, THEREFORE, in consideration of the foregoing, and of other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties here to agree as follows.",
+    "ollama_generated": "HENCEFORTH, CONSEQUENTLY, with regard to the preceding matters, and for other sufficient reasons, the acknowledgement of which is duly noted, the parties involved shall consent to the subsequent terms. The undertaking and validity of such considerations are hereby accepted.",
+    "contradiction_score": 0.0012746822321787477,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1584,
+    "end_char": 1881,
+    "original": "Action : Any civil, criminal, investigative or administrative claim, demand, action, suit, charge, citation, complaint, notice of violation, proceeding (public or private), litigation, prosecution, arbitration or inquiry by or before any Governmental Entity whether at law, in equity or otherwise.",
+    "ollama_generated": "Obligation: The Respondent shall indemnify and hold harmless the Party of Record from any and all claims, demands, actions, suits, charges, citations, complaints, notices of violation, proceedings (public or private), litigations, prosecutions, arbitrations, or inquiries brought by any third party, whether at law, in equity, or otherwise, arising out of, resulting from, or in connection with the performance or non-performance under this Agreement. The Respondent's obligation to indemnify and hold harmless shall extend to all damages, losses, liabilities, costs (including attorney's fees), and expenses that the Party of Record may sustain as a result of such claims. In the event that the Respondent is required to defend against any such claim, the Respondent shall promptly notify the Party of Record in writing and keep the Party of Record informed of all developments regarding the claim. The Respondent shall have sole control over the defense of any such claim, provided that the Party of Record may participate in such defense at its own cost and expense. If the Respondent fails to timely notify the Party of Record of any such claim or fails to defend against such claim in a diligent and competent manner, the Party of Record shall have the right, but not the obligation, to take control of the defense of the claim and to settle the claim with the third party at its discretion.",
+    "contradiction_score": 0.16693539917469025,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3276,
+    "end_char": 3454,
+    "original": "Collection Period : The period beginning on the Closing Date and ending on the last day of the calendar month in which the Closing Date occurs and each calendar month thereafter.",
+    "ollama_generated": "Collection Period: Commencing from the Closing Date, this period will extend until the end of the current month and subsequently roll over to the next month's end date, continuing thereafter on a monthly basis.",
+    "contradiction_score": 0.0020978376269340515,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3456,
+    "end_char": 3586,
+    "original": "Excess MSR : As to any Mortgage Loan, the portion of the servicing fee for that Mortgage Loan that exceeds the Base Servicing Fee.",
+    "ollama_generated": "Exceeded MSR Fee Obligation: Regarding each Mortgage Loan, any obligations beyond the minimum requirement for the servicing fee on said Mortgage Loan.\n\nIn this revised clause, the responsibility of paying for any additional servicing fees above a specified base rate has been shifted from the service provider to the lender or borrower (depending on the original agreement). This change weakens the obligation on the service provider and may incentivize them to provide higher quality service as they will no longer be compensated for any additional efforts beyond the established minimum requirement.",
+    "contradiction_score": 0.06659302860498428,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 4329,
+    "end_char": 4385,
+    "original": "Guide : The Ginnie Mae Mortgage Backed Securities Guide.",
+    "modified": "Obligor: In adhering to the provisions of this agreement, reference shall be made primarily to the Ginnie Mae Mortgage-Backed Securities Desk Reference, rather than the Ginnie Mae Mortgage Backed Securities Guide. The latter may serve as a supplementary resource, but its directives are not binding unless expressly incorporated by reference or otherwise specified in this agreement.",
+    "contradiction_score": 0.9797921180725098,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 5097,
+    "end_char": 5239,
+    "original": "Mortgage Loan : A loan originated and serviced by Freedom Mortgage and secured by a first lien on a one- to four- family residential property.",
+    "ollama_generated": "Mortgage Loan: Represents a debt instrument extended by Freedom Mortgage, subject to repayment from borrower proceeds derived from a one- to four-family residential property, which serves as the primary collateral for this loan agreement. (Here, the focus is on the loan being secured by the property, with an emphasis on the borrower's obligation to repay the loan.)",
+    "contradiction_score": 0.0047439089976251125,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 5559,
+    "end_char": 5634,
+    "original": "Party : Either Freedom Mortgage or Cherry Hill, as the context may require.",
+    "ollama_generated": "Party: The party referred to herein shall be either Freedom Mortgage or Cherry Hill, with the understanding that should any ambiguity arise regarding the performance of an obligation or liability, it shall default to Freedom Mortgage unless expressly stated otherwise.",
+    "contradiction_score": 0.006165584549307823,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 7044,
+    "end_char": 7800,
+    "original": "Tangible Net Worth : The net worth of Seller determined in accordance with GAAP, minus  all intangibles determined in accordance with GAAP (including goodwill, capitalized financing costs and capitalized administration costs but excluding originated and purchased mortgage servicing rights or retained residual securities) and any and all advances to, investments in and receivables held from affiliates; provided , however , that the non\u00adcash effect (gain or loss) of any mark\u00adto\u00admarket adjustments made directly to stockholders\u2019 equity for fluctuation of the value of financial instruments as mandated under the Statement of Financial Accounting Standards No. 133 (or any successor statement) shall be excluded from the calculation of Tangible Net Worth.",
+    "ollama_generated": "Tangible Adjusted Assets: The assets of the Purchaser, calculated according to GAAP, inclusive of all tangible assets (excluding goodwill, capitalized financing costs and administration costs) and any advances to, investments in and receivables held from affiliates. In this calculation, the non-cash impact (loss or gain) of any mark-to-market adjustments made directly to stockholders\u2019 equity due to changes in the value of financial instruments as per Statement of Financial Accounting Standards No. 133 (or any subsequent statement) will be excluded from the determination of Tangible Adjusted Assets. This modification ensures a fair and realistic assessment of the Purchaser's financial standing, focusing primarily on tangible assets while adjusting for market fluctuations in intangible investments.",
+    "contradiction_score": 0.08471979945898056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 7800,
+    "end_char": 7976,
+    "original": "Transactions : The execution, delivery and performance of this Agreement and the Ancillary Agreements and the performance of the other obligations set forth herein and therein.",
+    "ollama_generated": "Transactions: The fulfillment, signing, completion, and compliance with this Agreement, as well as the Ancillary Agreements, shall be undertaken in good faith by the parties involved. However, any non-performance or breach of the other obligations stated herein or therein shall not necessarily constitute a material default, but rather a potential grounds for dispute resolution mechanisms outlined within this Agreement.",
+    "contradiction_score": 0.0036734307650476694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 11175,
+    "end_char": 11304,
+    "original": "On or prior to the Closing Date, Cherry Hill and Freedom Mortgage shall enter into the Purchase Agreement and the Flow Agreement.",
+    "modified": "The Flow Agreement and the Purchase Agreement shall be executed by Cherry Hill and Freedom Mortgage on or after the Closing Date, with the understanding that any delay in execution shall not disrupt or impede the closing process.",
+    "contradiction_score": 0.9671197533607483,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 11811,
+    "end_char": 11947,
+    "original": "(i) Freedom Mortgage is duly organized and validly existing and in good standing under the laws of the jurisdiction of its organization.",
+    "ollama_generated": "(ii) It is acknowledged that the continued existence and good standing of Freedom Mortgage, as governed by the laws of its jurisdiction of organization, remains subject to any applicable laws or regulations that may impact its continued operation.",
+    "contradiction_score": 0.024237237870693207,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 11947,
+    "end_char": 12409,
+    "original": "Freedom Mortgage has all requisite corporate power and authority to own, lease and operate its assets and carry on its business as now conducted. Freedom Mortgage is duly licensed or qualified to do business in each jurisdiction where its ownership or leasing of assets or the conduct of its business requires such qualification, except where the failure to obtain such license or qualification would not reasonably be expected to have a Material Adverse Effect.",
+    "ollama_generated": "The Company (Freedom Mortgage) maintains the necessary corporate powers and authorizations to possess, rent, and manage its assets, as well as to conduct its current business operations. It is solely responsible for ensuring that it holds valid licenses or qualifications in each jurisdiction where such credentials are essential for the ownership, leasing of assets, or operation of its business, provided that the lack of such license or qualification would not significantly and adversely impact the Company's overall performance, as determined by reasonable expectations.",
+    "contradiction_score": 0.0036176959984004498,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 12409,
+    "end_char": 13235,
+    "original": "(ii) Freedom Mortgage has full corporate power and authority to execute and deliver this Agreement and the Ancillary Agreements and to consummate the Transactions. The execution and delivery of this Agreement by Freedom Mortgage and the completion by Freedom Mortgage of the Transactions have been duly and validly authorized by all necessary corporate action of Freedom Mortgage. This Agreement has been duly and validly executed and delivered by Freedom Mortgage and constitutes the valid and binding obligation of Freedom Mortgage, enforceable against Freedom Mortgage in accordance with its terms, subject to applicable bankruptcy, insolvency and similar Laws affecting creditors\u2019 rights generally, and subject, as to enforceability, to general principles of equity, whether applied in a court of law or a court of equity.",
+    "ollama_generated": "(ii) The ability of Freedom Mortgage Corporation to execute and deliver this Agreement and the Ancillary Agreements, as well as to complete the Transactions, is not contingent upon any further corporate action or approval beyond what has already been duly and validly authorized. It is acknowledged that the execution and delivery of this Agreement by Freedom Mortgage Corporation, as well as the completion by it of the Transactions, have been properly executed in accordance with its internal procedures and bylaws. This Agreement represents a binding obligation for Freedom Mortgage Corporation, enforceable against it according to its terms, provided that such enforcement is not prohibited by applicable bankruptcy, insolvency, or similar laws affecting creditors' rights generally. However, the extent of any potential equitable defenses or remedies available to Freedom Mortgage Corporation in response to any attempted enforcement shall be determined in accordance with the principles of equity, whether applied in a court of law or a court of equity.",
+    "contradiction_score": 0.03844108805060387,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 14680,
+    "end_char": 15085,
+    "original": "(v) Freedom Mortgage has all Permits of, and has made all filings, applications and registrations with, all Governmental Entities that are required in order for it to consummate the Transactions; all such Permits are in full force and effect and, to the knowledge of Freedom Mortgage, no suspension or cancellation of any such Permit is threatened or will result from the consummation of the Transactions.",
+    "ollama_generated": "(v) The obtaining and maintaining of all necessary Permits by Freedom Mortgage for the completion of the Transactions are the responsibility of Freedom Mortgage, with said Permits being current and valid at the time of their use, to the best knowledge of Freedom Mortgage. It is acknowledged that any suspension or cancellation of these Permits, should they arise post-consummation of the Transactions, will not be attributed to Freedom Mortgage, unless proven otherwise by indisputable evidence.",
+    "contradiction_score": 0.0038607416208833456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 15420,
+    "end_char": 15963,
+    "original": "(b) Cherry Hill represents and warrants to Freedom Mortgage that the statements contained in this Section 4(b) are true and correct in all material respects as of the date of this Agreement (or, if made as of a different specified date, as of such date) and will be true and correct in all material respects as of the Closing Date (as though made then and as though the Closing Date were substituted for the date of this Agreement throughout this Section 4(b)) and as of the date of any purchase and sale of Excess MSRs as contemplated hereby.",
+    "ollama_generated": "(b) Freedom Mortgage acknowledges and agrees that the representations and warranties made by Cherry Hill in this Section 4(b) are accurate and complete in all significant aspects as of the date of this Agreement (or, if stated at a different specified time, as of such stated time), and will remain so, to the best knowledge and belief of Cherry Hill, up until the Closing Date (with the understanding that representations made herein will be deemed to have been made on the Closing Date for purposes of this Section 4(b)). Furthermore, any purchase and sale of Excess MSRs as per this agreement shall not necessitate any additional representations or warranties from Cherry Hill beyond those already made in this section, as of the date such transactions occur.",
+    "contradiction_score": 0.10065486282110214,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 20802,
+    "end_char": 20839,
+    "original": "Cherry Hill Mortgage Investment Corp.",
+    "ollama_generated": "Shifted Responsibility: In the eventuality of any default or breach of contract by Cherry Hill Mortgage Investment Corp., the counterparty shall not be obligated to provide notice prior to exercising its rights under this agreement, but shall have the discretion to do so.",
+    "contradiction_score": 0.17196594178676605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 21402,
+    "end_char": 21724,
+    "original": "provided , however , that neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned by any Party without the prior written consent of the other Party. Nothing in this Agreement is intended to confer upon any other Person any rights or remedies under or by reason of this Agreement.",
+    "modified": "Notwithstanding the foregoing, each Party retains the right, at their sole discretion, to assign this Agreement and any rights, interests, or obligations arising hereunder, without requiring prior written consent from the other Party. However, it is explicitly stated that this Agreement does not grant any rights or remedies to any Third Party by virtue of this Agreement.",
+    "contradiction_score": 0.9908103942871094,
+    "kept": true
+  },
+  {
+    "clause_index": 73,
+    "start_char": 22294,
+    "end_char": 22538,
+    "original": "(d) This Agreement may be executed in two or more counterparts, including by facsimile or electronic transmission, each of which shall be deemed an original but all of such counterparts together shall be deemed to be one and the same agreement.",
+    "ollama_generated": "(d) The parties hereto shall have the right to execute this Agreement in multiple counterparts, either physically or electronically via facsimile or digital transmission. Each separate signed copy shall constitute a valid original, yet all collectively shall be considered as a single and indivisible agreement.\n\nIn essence, this clause allows for the document to be legally binding when it exists as multiple signed copies, whether they are physical or digital, but these separate instances will still be recognized as one unified agreement.",
+    "contradiction_score": 0.0016901668859645724,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 23017,
+    "end_char": 23853,
+    "original": "(f) The Parties may (i) amend this Agreement, (ii) extend the time for the performance of any of the obligations or other acts of any other Party, (iii) waive any inaccuracies in the representations and warranties contained herein or in any document delivered pursuant hereto, or (iv) waive compliance with any of the agreements or conditions contained herein. This Agreement may not be amended except by an instrument in writing signed on behalf of each of the Parties. Any agreement on the part of a Party to any extension or waiver shall be valid only if set forth in an instrument in writing signed on behalf of such Party, but such waiver or failure to insist on strict compliance with such obligation, covenant, agreement or condition shall not operate as a waiver of, or estoppel with respect to, any subsequent or other failure.",
+    "ollama_generated": "(f) The Parties retain the discretionary power to: (i) modify this Agreement, (ii) grant flexibility in the timeline for fulfilling any of the obligations or actions stipulated by another Party, (iii) overlook minor discrepancies within the representations and warranties outlined in this document or accompanying materials, or (iv) disregard compliance with some, but not all, provisions or conditions stated herein. Any amendments to this Agreement must be made in a written instrument signed by representatives of each Party. The validity of any extension or waiver granted by a Party shall only be effective upon the execution of a written document bearing the signature of said Party. However, any concession made or forbearance from enforcing an obligation, covenant, agreement, or condition will not be deemed as a waiver of, or an acknowledgement with regard to, future or other instances of non-compliance.",
+    "contradiction_score": 0.01064862310886383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 23853,
+    "end_char": 24056,
+    "original": "(g) This Agreement shall be governed by the laws of the State of New York, without giving effect to its principles of conflicts of laws, other than Section 5-1401 of the New York General Obligations Law.",
+    "modified": "(g) The interpretation and execution of this Agreement will be in accordance with the laws of the State of New York, giving precedence to its principles of conflicts of laws, specifically excluding Section 5-1401 of the New York General Obligations Law.\n\nThis revised clause shifts the focus from not giving effect to the principles of conflicts of laws (except for a specific section), to giving precedence and including all other principles except for that specified section.",
+    "contradiction_score": 0.9446059465408325,
+    "kept": true
+  },
+  {
+    "clause_index": 81,
+    "start_char": 27539,
+    "end_char": 27574,
+    "original": "FREEDOM MORTGAGE CORPORATION Title:",
+    "ollama_generated": "FREEDOM MORTGAGE CORPORATION TITLE:\n\nIn the event that Borrower fails to fulfill any obligation under this Agreement, or if any event occurs that would entitle Lender to accelerate the repayment of the Loan, Freedom Mortgage Corporation shall have the discretionary power, but not the obligation, to intervene and assist Lender in resolving the matter. Such intervention may include, but is not limited to, offering suggestions for resolution, coordinating communication between parties, or engaging third-party professionals to facilitate a resolution. However, Freedom Mortgage Corporation shall not be held liable for any losses, damages, or expenses arising from such intervention or lack thereof. The decision to intervene and the manner of intervention shall be solely at the discretion of Freedom Mortgage Corporation.",
+    "contradiction_score": 0.06478641927242279,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

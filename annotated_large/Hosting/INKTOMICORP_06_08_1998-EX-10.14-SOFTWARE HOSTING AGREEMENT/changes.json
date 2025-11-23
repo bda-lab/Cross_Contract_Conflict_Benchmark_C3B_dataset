@@ -1,0 +1,310 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 2095,
+    "end_char": 2273,
+    "original": "[*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "The following details in this Exhibit have been redacted and submitted separately to the Commission. A request for confidential handling has been made regarding the redacted sections.\n\nThis implies that certain information has been removed from public view, but it is still available for review by the relevant authorities under specific conditions.",
+    "contradiction_score": 0.0014880843227729201,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 5125,
+    "end_char": 5241,
+    "original": "1.10 \"Services\" shall mean the deployment, hosting and maintenance of the Product as described under this Agreement.",
+    "ollama_generated": "1.10 \"Maintenance, Hosting, and Deployment of the Product\" shall encompass the tasks assigned within this Agreement regarding the operation and upkeep of the said product. This responsibility may be delegated to a third party at the Client's discretion, subject to prior notice and agreement.",
+    "contradiction_score": 0.0030803524423390627,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 5737,
+    "end_char": 5908,
+    "original": "1.14 \"Web Indexing Data\" means such data as Inktomi may collect relating to the documents crawled by its crawling software in connection with its operation of the Product.",
+    "ollama_generated": "1.14 \"Data Regarding Web Crawl\" denotes the information that User expressly permits Inktomi to acquire, pertaining to the files scanned by its automated web-crawling tool during the course of managing the Product's functionality. [In this revised version, the responsibility for providing and allowing access to the data has been shifted from Inktomi to the user.]",
+    "contradiction_score": 0.37192076444625854,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6711,
+    "end_char": 7353,
+    "original": "2.2  The parties contemplate that there may be additions, deletions or other changes which may affect the Deployment, Hosting and Maintenance Specifications from time to time during the Term. Subject to Sections 2.2.1 through 2.2.3 below, any such additions, deletions or other changes to the Deployment, Hosting and Maintenance Specifications shall be mutually agreed to by Inktomi and Microsoft. Upon such mutual agreement (or, if mutual agreement is not required, upon notice of any such changes desired by Microsoft), Inktomi shall alter the Services in order to accommodate the revised Deployment, Hosting and Maintenance Specifications.",
+    "ollama_generated": "2.2 It is understood that there might be adjustments, removals, or modifications to the Deployment, Hosting, and Maintenance Specifications during the Term as circumstances demand. Except for Sections 2.2.1 through 2.2.3, any such alterations to the Deployment, Hosting, and Maintenance Specifications are subject to the discretion of Microsoft. Inktomi shall be responsible for adapting the Services in accordance with the revised specifications, upon notification from Microsoft of any desired changes (or, if Microsoft deems it necessary, without prior notice).",
+    "contradiction_score": 0.09360181540250778,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 8245,
+    "end_char": 8817,
+    "original": "2.2.3  At each monthly conference referred to above in Section 2.2.1, Inktomi will state its good faith estimate of the hardware and capacity needs for itself and its other customers. At its sole cost and expense, Inktomi promptly will provision for such hardware and capacity needs, and supply Microsoft with a list of the hardware provisioned and an officer's certification that Inktomi has made such provisions. Upon Microsoft's request (but not more often than twice in any calendar year), Inktomi will supply Microsoft with documentation evidencing such provisioning.",
+    "ollama_generated": "2.2.3 During each monthly conference mentioned in Section 2.2.1, Microsoft shall be provided with an estimate of the hardware and capacity requirements by Inktomi, based on good faith assessment for itself and its clientele. While Inktomi will endeavor to meet these needs, it is not obligated to procure or provision for such resources unless explicitly directed by Microsoft in writing. Any provisions made at Microsoft's request shall be detailed in a list provided by Inktomi, along with an officer's certification verifying the provisions. Microsoft may request documentation of such provisioning once every calendar year, but Inktomi reserves the right to charge reasonable fees for the preparation and delivery of such documents.",
+    "contradiction_score": 0.031974177807569504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 9991,
+    "end_char": 10241,
+    "original": "2.5  Inktomi shall strictly adhere to all Security Measures in performing the Services, including without limitation securing the Usage Data, which it may possess or have under its control from time to time, from unauthorized access and modification.",
+    "modified": "2.5 While performing the Services, Inktomi shall endeavor to adhere to the prescribed Security Measures; however, no absolute guarantee can be made regarding the prevention of unauthorized access or modification of Usage Data that may be in their possession or under their control at any given time. It is understood that the onus for any unauthorized activity rests primarily with the party responsible for maintaining the security of such data.",
+    "contradiction_score": 0.5158912539482117,
+    "kept": true
+  },
+  {
+    "clause_index": 40,
+    "start_char": 13055,
+    "end_char": 14164,
+    "original": "2.8  Microsoft acknowledges that Inktomi has customized and provided, and will continue to customize and provide, its software and technology to other parties for use in connection with a variety of applications, including search engine applications. Except as may be expressly provided to the contrary elsewhere in this Agreement, nothing in this Agreement will be deemed to (i) limit or restrict Inktomi from customizing and providing its software and technology to other parties for any purpose, including in connection with search engine applications, or (ii) in any way affect the rights granted to such other parties. Microsoft further acknowledges that in addition to utilizing the Hosting Servers to host the Product, Inktomi may also use the Hosting Servers to service its own needs and the needs of other third parties, unless Microsoft elects to use a separate cluster in accordance with Section 2.6 above (it being understood that Inktomi will estimate the capacity for servicing the needs of itself and its other customers in good faith and provision accordingly, in accordance with Section 2.2).",
+    "ollama_generated": "2.8. Inktomi acknowledges that Microsoft has customized and is granted, and will continue to be granted, access to use Inktomi's software and technology, which may have been customized for other parties in various applications, including search engine applications. Except as explicitly stated otherwise within this Agreement, no provisions herein shall (i) impede or restrict Inktomi from further customizing and granting access to its software and technology to other parties for any purpose, including in connection with search engine applications, or (ii) in any manner alter the rights and privileges granted to such third parties. Microsoft additionally acknowledges that while the Hosting Servers are primarily utilized for hosting the Product, Inktomi reserves the right to utilize these servers to cater to its own requirements and those of other third parties, unless Microsoft explicitly chooses to employ a separate cluster as outlined in Section 2.6. It is understood that Inktomi will make reasonable efforts to estimate the capacity required for servicing both itself and its other customers, in accordance with Section 2.2, although it may not guarantee uninterrupted service due to these shared resources.",
+    "contradiction_score": 0.02209283784031868,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 14662,
+    "end_char": 15751,
+    "original": "3.1.1  To the extent Inktomi is required to do so in order to meet Microsoft's capacity requests under the Deployment, Hosting and Maintenance Specifications (as the same may change from time to time), Inktomi shall purchase new Hosting Servers. Prior to purchasing any such new Hosting Servers, Inktomi will seek bids from third parties, copies of which Inktomi will provide to Microsoft, and Microsoft will have the right to approve all such purchases and the applicable purchase prices. Inktomi shall use commercially reasonable efforts to minimize the purchase prices of such new Hosting Servers, but in any event such purchase prices will not be more than any comparable equipment purchased by Inktomi during the same time frame. Inktomi will consult with Microsoft regarding the proposed purchase prices of all new Hosting Servers prior to purchasing the same, and if Microsoft is aware of a vendor who is willing to sell Hosting Servers to Inktomi at a lower purchase price than as proposed by Inktomi, Inktomi agrees to purchase the applicable new Hosting Servers from such vendor.",
+    "ollama_generated": "3.1.1 Under the Deployment, Hosting, and Maintenance Specifications (which may evolve over time), Microsoft may convey capacity requirements to Inktomi. When such requirements necessitate Inktomi's procurement of new Hosting Servers, Inktomi is granted discretion in choosing suppliers, provided that any selected vendor's offer meets Microsoft's approval. Upon securing a bid, Inktomi will share the details with Microsoft. It is not obligated to pursue the most cost-effective option; however, the price for new Hosting Servers must not exceed the average cost of similar equipment acquired by Inktomi during the same period. Should Microsoft become aware of a supplier offering Hosting Servers at a lower price than Inktomi's proposed vendor, Inktomi reserves the right to reconsider its choice, but is under no obligation to do so.",
+    "contradiction_score": 0.003126575145870447,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 16058,
+    "end_char": 17284,
+    "original": "3.2  Microsoft acknowledges that, pursuant to Inktomi's contractual arrangement with its subcontractor, Exodus Communications, Inc. (\"Exodus\"), Inktomi will locate the Hosting Servers at the facilities of Exodus, and Exodus will provide power and Internet telecommunications services to the Hosting Servers. However, Microsoft will have no obligations or liabilities to Exodus, Inktomi will remain liable for providing all Services to Microsoft notwithstanding its arrangement with Exodus, and Inktomi will [*] and [*] against from any and all [*] to [*] (in accordance with the procedures specified in Section [*] below). A copy of the contract(s) between Inktomi and Exodus is/are attached hereto as Exhibit [*], and Inktomi shall not modify said contract(s) or replace Exodus as its subcontractor for the applicable services (including without limitation by having Inktomi perform the Services directly) without Microsoft's prior written approval (which approval Microsoft agrees to not unreasonably withhold). Inktomi shall provide Exodus with a copy of the Security Measures applicable under this Agreement and will use commercially reasonable efforts to ensure that Exodus strictly adheres to all such Security Measures.",
+    "ollama_generated": "3.2. The Party of Inktomi acknowledges the placement of the Hosting Servers at the premises of Exodus Communications, Inc. (\"Exodus\"), as a part of their contractual agreement with their subcontractor. Exodus will be responsible for supplying power and Internet telecommunications services to the Hosting Servers. In this arrangement, Microsoft shall not be bound by any obligations or liabilities towards Exodus.\n\nHowever, Inktomi remains solely accountable for delivering all Services to Microsoft. Any disputes, claims, or issues arising between Inktomi and Exodus must be resolved independently, without involving Microsoft. A copy of the contract(s) between Inktomi and Exodus is/are attached hereto as Exhibit [*].\n\nInktomi retains the right to make modifications in the said contract(s), provided they obtain Microsoft's prior written consent, which will not be unreasonably withheld. Furthermore, Inktomi may replace Exodus as its subcontractor only after securing Microsoft's approval. Inktomi shall share the Security Measures relevant to this Agreement with Exodus and endeavor to ensure Exodus complies with all these measures.",
+    "contradiction_score": 0.14065603911876678,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 21523,
+    "end_char": 21965,
+    "original": "In addition, if the number of ADH (as defined in the Software Development Agreement and Information Services Agreement) should exceed the capacity requested by Microsoft, or if Inktomi's usage of its estimated capacity requirements should exceed its estimates as communicated to Microsoft in accordance with Section 2.2.1 above, then Microsoft's applicable payment(s) hereunder will be [*] in [*] with the [*] set forth in Exhibit [*] hereto.",
+    "ollama_generated": "Should the number of ADH (as defined in the Software Development Agreement and Information Services Agreement) exceed Microsoft's capacity, or if Inktomi uses more than its estimated capacity as communicated to Microsoft in accordance with Section 2.2.1 above, Microsoft reserves the right to adjust, reduce, or suspend any payments due under this agreement, in accordance with the guidelines specified in Exhibit [*] hereto.",
+    "contradiction_score": 0.1678854525089264,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 30151,
+    "end_char": 30351,
+    "original": "6.3  Inktomi shall use its reasonable commercial efforts to cause Exodus to execute a non-disclosure agreement with Microsoft which includes substantially similar restrictions as are contained herein.",
+    "modified": "6.3 It is understood that Exodus will employ reasonable efforts, within its commercial discretion, to initiate and finalize a non-disclosure agreement with Microsoft, wherein the conditions shall not be less stringent than those outlined in this contract. This responsibility for the agreement's execution lies primarily with Exodus, although Inktomi will offer assistance as requested.",
+    "contradiction_score": 0.8889481425285339,
+    "kept": true
+  },
+  {
+    "clause_index": 71,
+    "start_char": 31915,
+    "end_char": 32412,
+    "original": "7.2.1  It has the full power to enter into this Agreement and perform its obligations hereunder, and Inktomi's performance of such obligations will not violate any terms and conditions of other agreements entered into by Inktomi with [*] ([*])\u037e 7.2.2  Inktomi's [*] and [*] of the Product shall [*] to the [*] and [*], [*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "7.2.1 The Party acknowledges its capacity to execute this Agreement and fulfill its commitments, and the performance of such obligations by the Party shall not contravene any provisions of other agreements that the Party has entered into with [*] ([*]).\n\n7.2.2 Any confidential information pertaining to the Product disclosed by Inktomi to the counterparty will be treated with the utmost discretion. However, it is understood and agreed upon by both parties that Inktomi shall retain the sole discretion in disclosing such information, and its decision to do so shall not be binding on or imply any liability towards the counterparty. [*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS. (Note: This revised clause places the discretion of disclosing confidential information with Inktomi, implying that the counterparty cannot demand or expect such disclosure.)",
+    "contradiction_score": 0.22398889064788818,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 34942,
+    "end_char": 35292,
+    "original": "9.   LIMITATION OF LIABILITY. EXCEPT FOR [*] CAUSED BY A [*] OF ----------------------- SECTION [*], NEITHER PARTY SHALL BE [*] (IN [*] WITH OR PURSUANT TO THIS AGREEMENT AND THE ANCILLARY AGREEMENTS TAKEN AS A WHOLE) FOR ANY [*], [*] OR [*] [*] (INCLUDING [*]) [*] OF [*] ([*]) [*] OF THE [*] OF [*], EVEN IF [*] HAD BEEN [*] OF THE [*] OF SUCH [*].",
+    "ollama_generated": "9. LIMITATION OF LIABILITY. Under no circumstances shall either Party be held liable for any indirect, special, incidental or consequential damages arising out of or in connection with this Agreement and the ancillary agreements as a whole, regardless of whether such damage was foreseeable and even if one Party had been advised of the possibility of such damage. The aggregate liability of each Party under this Agreement shall not exceed the amount paid by the respective Parties for services rendered under this Agreement during the 12 months preceding the event giving rise to the claim.",
+    "contradiction_score": 0.017834892496466637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 38911,
+    "end_char": 39550,
+    "original": "10.3   Subject to Section 12.9 below, in the event the Microsoft Search Engine is inaccessible to Microsoft, due to a problem other than one with Microsoft's servers or the telecommunication line from Microsoft to the Hosting Servers, for twenty-four (24) consecutive hours, or for forty-eight (48) hours or more in any seventy-two (72) hour period, or for seventy-two (72) hours or more in any one week period, and such inaccessibility is due to any reason other than Microsoft's breach of its obligations under this Agreement, then Microsoft may suspend performance and/or terminate this Agreement immediately with no further obligation.",
+    "ollama_generated": "10.3  Unless otherwise provided in Section 12.9, should the User be unable to access the Microsoft Search Engine for a continuous period of twenty-four (24) hours or more, or forty-eight (48) hours within any seventy-two (72)-hour span, or seventy-two (72) hours within any one-week duration, due to factors other than issues with User's servers or the telecommunication line from the User to the Hosting Servers and such unavailability is not a result of the User's breach of its obligations under this Agreement, the User shall be responsible for any consequences arising from Microsoft's decision to continue providing services or terminate this Agreement immediately, without any further liability.",
+    "contradiction_score": 0.31879907846450806,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 40610,
+    "end_char": 41260,
+    "original": "(a)  Microsoft is in [*] of this Agreement (excluding Section [*]) and fails to cure that breach within [*] ([*]) days after written notice thereof\u037e or (b)  Microsoft is in material breach of Section [*]\u037e or (c)  Microsoft becomes insolvent or makes any assignment for the benefit of creditors or similar transfer evidencing insolvency\u037e or suffers or permits the commencement of any form of insolvency or receivership proceeding\u037e or has any petition under any bankruptcy law filed against it, which petition is not dismissed within sixty (60) days of such filing\u037e or has a trustee or receiver appointed for its business or assets or any part thereof.",
+    "ollama_generated": "(a) This Agreement (excluding Section [*]) may be breached by Microsoft without liability, and Microsoft shall not be required to cure such breach within the specified timeframe in the event that the breach is deemed minor in nature and does not materially affect the performance of its obligations under this Agreement.\n\n(b) A material breach of Section [*] by Microsoft may be remedied by providing written notice, after which a reasonable period of 30 days shall pass before any further action is taken. If Microsoft fails to rectify the breach within this period, this Agreement may be terminated at the discretion of the non-breaching party.\n\n(c) Should Microsoft become insolvent or make an assignment for the benefit of creditors or similar transfer indicative of financial instability, the other parties shall have the right to immediately terminate this Agreement without liability.\n\n(d) In the event that any form of insolvency or receivership proceeding is initiated against Microsoft, this Agreement may be terminated by either party upon written notice and without further obligation.\n\n(e) If a petition under any bankruptcy law is filed against Microsoft and not dismissed within 60 days following filing, the other parties shall have the right to terminate this Agreement, subject to any applicable notice requirements and obligations.\n\n(f) The appointment of a trustee or receiver for Microsoft's business or assets or any part thereof constitutes an event of termination for this Agreement, allowing either party to end their obligations under this Agreement upon providing written notice.",
+    "contradiction_score": 0.4629461467266083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 41861,
+    "end_char": 42428,
+    "original": "10.8   In the event of termination or expiration of this Agreement for any reason, Sections 1, 2.3, 4.3, 4.4, 5, 6.1, 7, 8, 9 and 12 shall survive termination. Except as otherwise expressly provided in this Agreement, Inktomi shall turn over to Microsoft all work in progress, software, and any other materials provided by Microsoft to Inktomi under this Agreement promptly following termination or expiration. Neither party shall be liable to the other for damages of any sort resulting solely from such party terminating this Agreement in accordance with its terms.",
+    "ollama_generated": "10.8 Upon termination or expiry of this Agreement, certain sections will remain binding. These include Sections 1, 2.3, 4.3, 4.4, 5, 6.1, 7, 8, 9 and 12. Conversely, Microsoft shall not be obligated to return any work in progress, software, or materials provided under this Agreement unless specifically stipulated within this Agreement, with the transfer occurring at Microsoft's discretion following termination or expiry. Neither party will bear liability for damages arising exclusively from either party terminating this Agreement in compliance with its terms.",
+    "contradiction_score": 0.06841205060482025,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 42428,
+    "end_char": 42606,
+    "original": "[*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "[*]CONFIDENTIAL INFORMATION EXCLUDED FROM THIS EXHIBIT HAS BEEN SUBMITTED SEPARATELY TO THE COMMISSION FOR CONFIDENTIAL TREATMENT. IT IS UNDERSTOOD THAT THE OMITTED PORTIONS ARE TO REMAIN CLASSIFIED AND NOT DISCLOSED UNLESS EXPRESSLY AUTHORIZED OR PERMITTED BY LAW OR REGULATION.",
+    "contradiction_score": 0.26705482602119446,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 44535,
+    "end_char": 45272,
+    "original": "This Agreement shall not create or be deemed to create an agency, partnership, franchise, employment relationship or joint venture between the parties. Each party's employees who perform services related to this Agreement shall remain under the exclusive direction and control of their respective employer and shall receive such salaries, compensation and benefits as their respective employer may from time to time determine. Each party shall have full and sole responsibility for its employees who perform any service related to this Agreement with regard to compliance with all applicable laws, rules and regulations governing such party relating to employment, labor, wages, benefits, taxes and other matters affecting its employees.",
+    "ollama_generated": "Under the terms of this Agreement, neither party shall be considered as agents, partners, franchisees, employers, or joint venturers of each other. It is expressly understood that any individuals performing services in connection with this Agreement will remain under the direct supervision and management of their respective employers, receiving compensation as determined by their employer at any given time. The parties acknowledge and accept sole accountability for their employees engaged in services related to this Agreement, ensuring compliance with all applicable laws, rules, and regulations concerning employment, labor, wages, benefits, taxes, and other employee-related matters that pertain to them specifically.",
+    "contradiction_score": 0.0070467982441186905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 46535,
+    "end_char": 46698,
+    "original": "attention of General Counsel\u037e and all notices to Microsoft shall be sent to the attention of Shirish Nadkarni, with a copy to: Law & Corporate Affairs, U.S. Legal.",
+    "ollama_generated": "Notifications or communications related to this agreement should be directed to the attention of the Contract Management Team, and all communications to Microsoft shall be addressed to Shirish Nadkarni, while maintaining a copy for the records of Law & Corporate Affairs, U.S. Legal, for our internal procedural purposes.",
+    "contradiction_score": 0.008925442583858967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 49621,
+    "end_char": 49863,
+    "original": "12.6   All rights and obligations of the parties hereunder are personal to them. Except as otherwise specifically stated herein, this Agreement is not intended to benefit, nor shall it be deemed to give rise to, any rights in any third party.",
+    "ollama_generated": "12.6   The rights and commitments of each party under this Agreement extend only to them personally. It is not our intention for this Agreement to confer benefits or impose obligations on any entity not explicitly named herein. However, should any third party seek to enforce any provision of this Agreement, the parties reserve the right to invoke the doctrine of privity and deny such enforcement.",
+    "contradiction_score": 0.001588714076206088,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 50354,
+    "end_char": 50517,
+    "original": "12.9   Neither party shall be liable hereunder by reason of any failure or delay in the performance of its obligations hereunder during any event of force majeure.",
+    "ollama_generated": "12.9. Each party is relieved from liability for any delay or failure to fulfill their obligations under this agreement due to unforeseen circumstances beyond their control (force majeure events). However, the non-occurring party shall use reasonable efforts to mitigate and remedy such force majeure situation as soon as practicable.",
+    "contradiction_score": 0.0017213940154761076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 51175,
+    "end_char": 51444,
+    "original": "12.11  This Agreement, along with the Ancillary Agreements, together contain the entire agreement of the parties with respect to the premises, and may not be modified or amended except by a written instrument executed by the party sought to be charged or bound thereby.",
+    "ollama_generated": "12.11 This Agreement, in conjunction with any ancillary agreements, represents the full understanding between the parties regarding the premises. Any deviations, modifications, or amendments to these agreements must be agreed upon in writing by both parties and shall only become binding once signed by the party who is to be affected by such changes.",
+    "contradiction_score": 0.0009964078199118376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 54553,
+    "end_char": 54744,
+    "original": "Page 4 of 32 [*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "Page 4 of 32 [*]: Certain information within this Exhibit has been omitted and submitted separately to the Commission, with a request for confidential treatment regarding the omitted sections. The responsibility for maintaining the confidentiality of these sections rests primarily with the recipient of this document.",
+    "contradiction_score": 0.0026221938896924257,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 55317,
+    "end_char": 55508,
+    "original": "Page 8 of 32 [*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "Page 8 of 32 [*]: Portions of this Exhibit have been excluded and submitted separately to the Commission, with a request for confidential handling. The excluded sections are intended to remain private.",
+    "contradiction_score": 0.01555149257183075,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 130,
+    "start_char": 56083,
+    "end_char": 56275,
+    "original": "Page 12 of 32 [*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "Page 12 of 32 [*]: Portions of this Exhibit have been excluded and submitted separately to the Commission, with a request for confidential handling. The redacted sections are considered confidential in nature.",
+    "contradiction_score": 0.013732705265283585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 58003,
+    "end_char": 58195,
+    "original": "Page 22 of 32 [*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "Page 22 of 32 [*]: Certain information in this Exhibit has been omitted and submitted separately to the Commission, requesting confidential treatment for these withheld sections. It is understood that the confidentiality of these omitted portions remains intact and their disclosure shall be restricted until otherwise authorized.",
+    "contradiction_score": 0.0019014726858586073,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 59155,
+    "end_char": 59347,
+    "original": "Page 28 of 32 [*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "Page 28 of 32 [*]: Portions of this Exhibit have been excluded and submitted separately to the Commission, with a request for confidential handling. The omitted sections are intended to remain undisclosed.\n\nThis modification maintains the essential meaning but shifts the responsibility from the party submitting the information (who is asking for confidential treatment) to the Commission (who will handle the information confidentially). It also inverts the condition, stating that the sections are intended to remain undisclosed rather than omitted as in the original clause.",
+    "contradiction_score": 0.21138440072536469,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 61030,
+    "end_char": 61412,
+    "original": "If [*] for a [*] exceeds its agreed capacity provisioning (as determined in accordance with Sections 2.2 and 2.8, then Microsoft's [*] will be [*] ([*] if the [*] is by [*], or [*] if such [*] is by [*]) in accordance with the following computation: [*] the [*] (\"[*]\") times the [*] of the provisioned capacity (\"[*]\"). Note that the over-utilization could apply to [*] in any [*].",
+    "ollama_generated": "If the usage of a service provided by the Client exceeds the agreed capacity (as defined in Sections 2.2 and 2.8), Microsoft may, at its discretion and without liability, temporarily reduce or suspend the service delivery, taking into account any mitigating factors that may exist. The reduction or suspension will be proportional to the extent of over-utilization, calculated as the ratio of the exceeded capacity to the agreed capacity, multiplied by the corresponding service fee for each unit of the service (\"Service Fee Rate\"). Please note that this provision may apply at any point during the term of this agreement.",
+    "contradiction_score": 0.008796406909823418,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 61412,
+    "end_char": 61561,
+    "original": "[*] will be calculated each month by taking the [*] of the Inktomi [*] without regard to [*] ([*]) [*] ([*]) [*] by the agreed total [*] provisioned.",
+    "ollama_generated": "The [*] shall be computed on a monthly basis, derived from the average of the Inktomi [*] over this period, excluding any extraordinary or unusual fluctuations ([*]) [*] ([*]) [*], without considering any potential adjustments to the total [*] provisioned. This calculation will be performed by the party not responsible for these fluctuations ([*]).",
+    "contradiction_score": 0.0028070781845599413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 161,
+    "start_char": 64840,
+    "end_char": 65312,
+    "original": "1. Microsoft provisioned capacity is [*] 2. Inktomi provisioned capacity is [*] 3. [*] in [*] is $[*] 4. [*] is [*] for a [*] 5. [*] is [*] for that [*] [*] = $[*] = $[*] [*] = [*]  = [*] Over-Utilization Adjustment = [*] = $[*] [*] in such [*] payable by [*] Notwithstanding anything contained herein to the contrary, if a party shall have [*] its provisioned capacity by [*] in any month, such party shall be deemed [*] for its [*] during such month as soon as possible.",
+    "ollama_generated": "1. The allocated capacity provided by Microsoft is [*]. For clarity, the capacity provided by Inktomi is [*].\n   2. It should be noted that any usage beyond the allocated capacity in either provider is subject to additional charges, denoted as $[*] for Microsoft and $[*] for Inktomi.\n   3. The over-utilization charge for each provider will be calculated based on the percentage of overage relative to the provided capacity. For instance, if the overage for a given month is $[*], this represents an over-utilization of [*]%.\n   4. Each party is responsible for managing their usage to avoid exceeding their allocated capacity. However, should either party inadvertently exceed its provisioned capacity in any given month, it shall promptly communicate and collaborate with the other party to rectify the situation as soon as possible.\n   5. In such a scenario where a party exceeds its provisioned capacity, it is expected that the overage charges for that month will be [*]. This amount is payable by the party responsible for the excess usage.\n   6. It is important to emphasize that any over-utilization adjustments are independent of other contractual obligations and terms contained herein.",
+    "contradiction_score": 0.1400408148765564,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 65312,
+    "end_char": 65490,
+    "original": "[*]=CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.",
+    "ollama_generated": "[*] The specified details in this Exhibit are excluded and submitted individually to the Commission, with a request for confidential handling. It is understood that the omitted sections contain sensitive information and are therefore subject to confidential treatment.",
+    "contradiction_score": 0.017932631075382233,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

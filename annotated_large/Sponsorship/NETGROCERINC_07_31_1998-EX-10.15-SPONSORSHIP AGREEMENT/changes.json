@@ -1,0 +1,115 @@
+[
+  {
+    "clause_index": 12,
+    "start_char": 3202,
+    "end_char": 3574,
+    "original": "vi)      Excite currently plans to develop a coupon promotion area in the Excite Shopping Channel, tentatively called \"Coupon Corner\". When launched, Excite will display an advertising banner or text or graphic link (consistent with the format used on similar links on the same page) to the NetGrocer Site will Coupon Corner for the remainder of the term of the Agreement.",
+    "ollama_generated": "vii)    While Excite may elect not to develop a coupon promotion area during the initial stages of the Agreement, should they decide to create such an area, tentatively called \"Coupon Corner,\" within the Excite Shopping Channel at any point thereafter, NetGrocer shall be responsible for providing Excite with an advertising banner or text link, consistent with the format used on similar links on the same page, to the NetGrocer Site within the Coupon Corner, for the remaining duration of the Agreement.",
+    "contradiction_score": 0.12588272988796234,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6521,
+    "end_char": 6800,
+    "original": "vi)      For the term of the Agreement, Excite will display a link to the NetGrocer Site (consistent with the format used on similar links on the same page) in the default configuration of the \"services\" or comparable module on the default configuration of the My Excite Channel.",
+    "ollama_generated": "vii) During the term of this Agreement, NetGrocer shall have the option to provide a link to its Site (in a format similar to those used on other links within the same section), which may be displayed in the customizable settings of the \"services\" or comparable module on the user's personalized My Excite Channel. The responsibility for enabling this link lies with NetGrocer, and its appearance may not significantly impact the default configuration of the said module.",
+    "contradiction_score": 0.12954193353652954,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10761,
+    "end_char": 11236,
+    "original": "g)       If Excite misses any quarterly guaranteed Click-through amount, Excite will make good the difference within [*] days following the end of such quarter. If Excite does not make good the difference within [*] days, NetGrocer may suspend (but not eliminate) its payments of the sponsorship and advertising fees described in Section 5(b) and 5(c) until the make-good is delivered, at which time NetGrocer will resume its payments of the sponsorship and advertising fees.",
+    "modified": "h) If the guaranteed Click-through amount is not met by Excite in any given quarter, NetGrocer shall have the right to withhold payment of the sponsorship and advertising fees described in Section 5(b) and 5(c) for a period up to [*] days following the end of such quarter. Should Excite fail to remedy the shortfall within this timeframe, NetGrocer's obligation to make these payments shall be automatically reinstated upon Excite's delivery of the make-good.",
+    "contradiction_score": 0.5992436408996582,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 14627,
+    "end_char": 15704,
+    "original": "c)       In the event of a dispute between the parties regarding the inclusion or exclusion of an online supermarket from Exhibit A or the display on the Excite Site of advertising or promotional material from an online supermarket, the parties will follow the dispute resolution process described in Section 13(c) without the prerequisite of submitting the dispute to mediation. In the event that it is determined that Excite violated the Agreement by excluding a bona fide NetGrocer Competitor from Exhibit A or displayed on the Excite Site advertising or promotional material from a bona fide NetGrocer Competitor, Excite will be obligated to (i) immediately add the online supermarket to Exhibit A, (ii) immediately remove from the Excite Site any advertising or promotional material from the online supermarket and (iii) provide NetGrocer with advertising and promotional value, without additional cost, equal to the advertising and promotional value provided to the online supermarket prior to the removal of its advertising and promotional material from the Excite Site.",
+    "modified": "c) In the event of a disagreement between the parties concerning the inclusion or exclusion of an online supermarket in Exhibit A, or the display on the Excite Site of marketing or promotional content from an online supermarket, the parties shall first engage in mediation as per Section 13(c). However, if no resolution is reached through mediation, either party may escalate the dispute to the dispute resolution process described in Section 13(c) without any further prerequisites. If it is established that Excite has breached the Agreement by excluding a legitimate NetGrocer Competitor from Exhibit A or displayed marketing or promotional content from a legitimate NetGrocer Competitor on the Excite Site, Excite will be liable to: (i) promptly include the online supermarket in Exhibit A, (ii) expeditiously remove any advertising or promotional material related to the online supermarket from the Excite Site, and (iii) provide NetGrocer with equivalent advertising and promotional benefits, at no additional cost, equivalent to what was provided to the competing online supermarket prior to the removal of its marketing materials from the Excite Site.\n\nIn this revised clause, I have shifted responsibility by making it so that mediation is a prerequisite before either party can escalate the dispute, and if Excite violates the agreement, they will be \"liable\" instead of being \"obligated.\"",
+    "contradiction_score": 0.5663267374038696,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 19928,
+    "end_char": 20096,
+    "original": "h)       The one-time sponsorship initiation fee, sponsorship and advertising fees and Click-through payments are net of any agency commissions to be paid by NetGrocer.",
+    "modified": "Clause:\ng)        Any agency commissions associated with the one-time sponsorship initiation fee, sponsorship and advertising fees, and Click-through payments shall be deducted from the amounts payable by Advertiser to NetGrocer, thereby reducing the amount actually received by NetGrocer.",
+    "contradiction_score": 0.7185293436050415,
+    "kept": true
+  },
+  {
+    "clause_index": 58,
+    "start_char": 24818,
+    "end_char": 25149,
+    "original": "c)       Each party hereby grants to the other a non-exclusive, limited license to use its trademarks, service marks or trade names only as specifically described in this Agreement. All such use shall be in accordance with each party's reasonable policies regarding advertising and trademark usage as established from time to time.",
+    "modified": "d)   Each party hereby grants the other a non-exclusive, revocable license, at its sole discretion, to utilize its trademarks, service marks, or trade names, subject to the specifications outlined in this Agreement. The exercise of such license is contingent upon compliance with each party's guidelines concerning advertising and trademark usage, as may be amended from time to time. Any modifications or revocation of this licensing agreement shall be communicated promptly to the other party in writing.",
+    "contradiction_score": 0.8049614429473877,
+    "kept": true
+  },
+  {
+    "clause_index": 64,
+    "start_char": 27196,
+    "end_char": 27385,
+    "original": "e)       The terms and conditions of this Agreement will be deemed to be the Confidential Information of each party and will not be disclosed without the written consent of the other party.",
+    "ollama_generated": "f)  Each party acknowledges that the disclosure of any information pertaining to the terms and conditions of this Agreement constitutes Sensitive Data, and shall exercise due diligence in safeguarding such data, including but not limited to refraining from unauthorized dissemination without prior, written approval by all parties. In the event of a breach of this clause, affected parties shall take immediate steps towards rectifying the situation, while exercising discretion in consultation with legal counsel, if necessary.",
+    "contradiction_score": 0.48799529671669006,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 27385,
+    "end_char": 27697,
+    "original": "11.      WARRANTY AND INDEMNITY a)       NetGrocer will indemnify, defend and hold harmless Excite, its affiliates, officers, directors, employees, consultants and agents from any and all third party claims, liability, damages and/or costs (including, but not limited to, reasonable attorneys fees) arising from:",
+    "modified": "11. WARRANTY AND INDEMNITY\n\na) Excite, its affiliates, officers, directors, employees, consultants, and agents shall be indemnified, defended, and held harmless by NetGrocer from any and all third party claims, liability, damages, and/or costs (including, but not limited to, reasonable attorneys' fees) resulting from:\n\nThis clause now shifts the responsibility of indemnification from NetGrocer to Excite. In other words, Excite will now be responsible for indemnifying, defending, and holding harmless NetGrocer and its affiliates, officers, directors, employees, consultants, and agents from any third-party claims that may arise.",
+    "contradiction_score": 0.8220924139022827,
+    "kept": true
+  },
+  {
+    "clause_index": 68,
+    "start_char": 29059,
+    "end_char": 29887,
+    "original": "12.      LIMITATION OF LIABILITY EXCEPT UNDER SECTION 11(a), IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, WHETHER OR NOT THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE LIABILITY OF EXCITE FOR DAMAGES OR ALLEGED DAMAGES HEREUNDER, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, THE TOTAL AMOUNTS PREVIOUSLY PAID OR TO BE PAID BY NETGROCER TO EXCITE HEREUNDER [*] 13.      DISPUTE RESOLUTION a)       The parties agree that any breach of either of the parties' obligations regarding trademarks, service marks or trade names and/or confidentiality would result in irreparable injury for which there is no adequate remedy at law.",
+    "ollama_generated": "12. LIMITATION OF LIABILITY: In no event will either Party be liable to the other for any indirect, special, incidental, or consequential damages, whether based on a breach of contract, tort (including negligence), or otherwise, even if a Party has been advised of the possibility of such damage. The liability of Excite for damages or alleged damages hereunder, regardless of the legal theory applied, is limited to, and will not exceed, the total amounts previously paid or to be paid by NetGrocer to Excite under this Agreement [*].\n\n13. DISPUTE RESOLUTION: We acknowledge that any violation of either party's obligations regarding trademarks, service marks, trade names, or confidentiality would result in potential irreparable injury for which there may not be an adequate remedy at law. However, we both agree to first engage in good faith negotiations aimed at resolving disputes arising from such violations before resorting to any legal action. If negotiations fail, the parties shall seek resolution through mediation, prioritizing a mutually agreeable solution over litigation.",
+    "contradiction_score": 0.4874628186225891,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 31848,
+    "end_char": 32064,
+    "original": "b)       Governing Law. This Agreement will be governed by and construed in accordance with the laws of the State of California, notwithstanding the actual state or country of residence or incorporation of NetGrocer.",
+    "modified": "a) Applicable Jurisdiction. The interpretation and enforcement of this Agreement shall be guided by the legal principles of the State of California, regardless of the jurisdiction or nation where NetGrocer is physically based or legally incorporated. This provision serves to ensure consistency in the application of our agreement's terms.",
+    "contradiction_score": 0.5464926362037659,
+    "kept": true
+  },
+  {
+    "clause_index": 75,
+    "start_char": 32620,
+    "end_char": 32891,
+    "original": "d)       No Agency. The parties are independent contractors and will have no power or authority to assume or create any obligation or responsibility on behalf of each other. This Agreement will not be construed to create or imply any partnership, agency or joint venture.",
+    "ollama_generated": "e) Mutual Non-Representation: Each party acknowledges their separate and independent status, neither acting as an agent, partner, nor joint venturer for the other. No obligations or responsibilities are assumed or created by either party beyond those expressly stated in this Agreement. It is explicitly understood that this Agreement does not confer any authority to bind or obligate the other party in any manner.",
+    "contradiction_score": 0.199839785695076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 33408,
+    "end_char": 33624,
+    "original": "f)       Severability. In the event that any of the provisions of this Agreement are held by to be unenforceable by a court or arbitrator, the remaining portions of the Agreement will remain in full force and effect.",
+    "modified": "g) Modification Due to Unenforceability. Should any provision within this Agreement be deemed unenforceable by a court or arbitrator, the affected portion shall be modified, to the extent necessary, to render it enforceable while preserving the parties' intentions as closely as possible. Any amended provisions will not affect the validity and enforcement of the remaining terms and conditions of this Agreement.",
+    "contradiction_score": 0.66819828748703,
+    "kept": true
+  }
+]

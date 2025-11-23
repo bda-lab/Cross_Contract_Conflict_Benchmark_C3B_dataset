@@ -1,0 +1,148 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 92,
+    "end_char": 279,
+    "original": "Project Cooperation Agreement July 2013 Cooperation Agreement Coke Dry Quenching (CDQ) and CDQ Waste Heat Power Generation Project Party A: Xi\u2019an Zhonghong New Energy Technology Co., Ltd.",
+    "ollama_generated": "Project Collaboration Amendment Agreement September 2021 Revised Cooperation Agreement for Coke Dry Quenching (CDQ) and CDQ Waste Heat Power Generation Project\n\nParty A Obligation Shift: Xi'an Zhonghong New Energy Technology Co., Ltd. (hereafter referred to as \"Party A\") shall assume the role of the primary project lead, with Party B (Coke Dry Quenching) providing assistance and support as required.\n\nOriginal Clause: Project Cooperation Agreement July 2013 Cooperation Agreement Coke Dry Quenching (CDQ) and CDQ Waste Heat Power Generation Project Party A: Xi'an Zhonghong New Energy Technology Co., Ltd.\nIn this original clause, Party A (Xi'an Zhonghong New Energy Technology Co., Ltd.) is a party to the agreement for the CDQ and CDQ Waste Heat Power Generation Project, with an implied equal role in the cooperation.\n\nRewritten Clause: In the revised clause, Party A has been given a more active role as the primary project lead, while Party B (Coke Dry Quenching) is expected to provide support and assistance as required, shifting some of the responsibilities from an equal partnership to a leadership-assistance model.",
+    "contradiction_score": 0.3449821174144745,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 279,
+    "end_char": 982,
+    "original": "Legal Representative: Ku Guohua Xi\u2019an Zhonghong New Energy Technology Co., Ltd. is a subsidiary of Xi\u2019an TCH Energy Technology Co. and is also the third tire subsidiary of China Recycling Energy Corporation, and it engages in the project operations in China. China Recycling Energy Corporation (the \"Company\") is a NASDAQ listing company. Its stock trading symbol is CREG and is a leading industrial waste-to-energy solution provider in China. The Company is the first in the recycling energy industry with the most completed projects and the widest ranges in the industry. As the direct investor, the Company provides recycling energy integrated solution covering technology, investment, and operation.",
+    "ollama_generated": "Primary Investor: Ku Guohua Xi'an Zhonghong New Energy Technology Co., Ltd., a subsidiary of Xi'an TCH Energy Technology Co. and the third tire subsidiary of China Recycling Energy Corporation, manages project operations within China. In this capacity, China Recycling Energy Corporation (hereafter referred to as the \"Investor\") serves as the primary entity, with NASDAQ listing (symbol: CREG) and a notable position as a pioneer in China's industrial waste-to-energy solution sector. As the recipient of investments, the Investor offers an integrated solution encompassing technology, finance, and operation within the recycling energy domain. It is worth noting that the Investor leads the recycling energy industry with the greatest number of completed projects and the broadest scope in the sector.",
+    "contradiction_score": 0.2766273617744446,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 1860,
+    "end_char": 2390,
+    "original": "2.Under the premise of consistent with the CDQ main equipment and main parameter descriptions, Party A will be in charge of layout, technical performance index and technical specifications of CDQ system and CDQ waste heat power generation system\u037e if there is any difference between CDQ main equipment and main parameters description, Party B will make the decision. Major equipment and design will be implemented after Party A obtains Party B\u2019s consent. All requirements, statistics should be scientific, reasonable, and operable.",
+    "modified": "2. Under the agreement that adjustments to the CDQ main equipment and main parameter descriptions may occur, Party B shall have the sole discretion in making such decisions. Party A will be responsible for the layout, technical performance index, and technical specifications of the CDQ system and CDQ waste heat power generation system, subject to Party B's approval. The implementation of major equipment and design will only proceed following Party A's receipt of Party B's authorization. All requirements, statistics, or proposed modifications must meet Party B's satisfaction for being scientific, reasonable, and practical in application.",
+    "contradiction_score": 0.5537204146385193,
+    "kept": true
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2694,
+    "end_char": 3006,
+    "original": "Item Two, Operation of Recycling Project 1.After complete of the project construction, Party A shall be responsible for the operation, maintenance and management of the recycling project. Party A shall charge Party B energy saving service fee according to the income from CDQ waste heat power generation station.",
+    "modified": "Clause Two, Administration of Recycling Project 1. Upon completion of the project construction, Party B assumes responsibility for the administration, maintenance, and operation of the recycling project. Party B will share a portion of the revenue generated from the CDQ waste heat power station with Party A, based on an agreed energy-saving service fee structure.\n\nThis change inverts the responsibilities between Parties A and B, with Party B now responsible for the operation and maintenance of the recycling project, and Party A receiving a share of the revenue from the CDQ waste heat power station.",
+    "contradiction_score": 0.9619518518447876,
+    "kept": true
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3040,
+    "end_char": 3155,
+    "original": "2.Both Parties jointly determine the territorial boundary line of power transmission pursing to technical appendix.",
+    "modified": "2. Each Party shall independently establish their own territorial boundary line for power transmission, in accordance with their interpretation of the technical appendix, without requiring the approval or input from the other Party.",
+    "contradiction_score": 0.9991621971130371,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3155,
+    "end_char": 3388,
+    "original": "3.The operation of CDQ system and CDQ waste heat power generation system includes but is not limited to: equipment maintenance, repair, and update\u037e Party A will not be responsible for the quality and quantity of the coal coke of CDQ.",
+    "ollama_generated": "3. While the responsibility for the upkeep, repair, and advancement of the CDQ system and CDQ waste heat power generation system remains with Party A, it is important to note that Party A shall not be held accountable for any deficiencies or fluctuations in the quality and quantity of coal coke provided by CDQ.",
+    "contradiction_score": 0.008674140088260174,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3740,
+    "end_char": 4185,
+    "original": "The calculation basis of energy saving service fee is as follows: average operational time is 8,000 hours per annually\u037e if the annual average operational time was less than 8,000 hours due to the reasons of Party B, the operational time is calculated as 8,000 hours per year\u037e if the annual average operational time was less than 8,000 hours due to the reasons by Party A, the operational time is calculated based on the actual operational hours.",
+    "ollama_generated": "The basis for calculating the energy saving service fee is as follows: a yearly average operational time of 8,000 hours is assumed; if the annual average operational time exceeds 8,000 hours due to actions undertaken by Party A, the operational time will be calculated based on the actual hours operated. However, if the annual average operational time falls below 8,000 hours as a result of factors within Party B's control, the operational time for calculation purposes shall remain at 8,000 hours per year.",
+    "contradiction_score": 0.04535290226340294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 5920,
+    "end_char": 6244,
+    "original": "The expected total project cost is 176 million RMB. For the amount of electricity generated up to 800 million KWH after the project is put into operation, it shall be charged of the energy saving service fee at 0.40 RMB/KWH. After 800 million KWH, it shall be charged energy saving service fee with the rate of 0.20 RMB/KWH.",
+    "ollama_generated": "The estimated total project cost is 176 million RMB. From the moment the project becomes operational and up to a maximum of 800 million KWH of electricity is generated, a flat energy-saving service fee of 0.40 RMB/KWH will be applicable. For any additional energy generation beyond this threshold (exceeding 800 million KWH), the energy-saving service fee will decrease to a rate of 0.20 RMB/KWH.\n\nIn this revised clause, the original condition that the fee changes at 800 million KWH has been inverted so that the fee remains constant up to 800 million KWH and then decreases thereafter, thereby slightly weakening the obligation for the party paying the fee.",
+    "contradiction_score": 0.00551140820607543,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 6550,
+    "end_char": 6893,
+    "original": "Item Five Construction and Construction Period of CDQ System and CDQ waste heat power generation system 1.The construction period of the project is 12 months from the execution of technology agreement. If the project was delayed due to Party A, Party B has right to dispose the equipment on the construction site after two month past due date.",
+    "ollama_generated": "Clause:\nItem Five Construction and Construction Timeline for CDQ System and CDQ Waste Heat Power Generation System\n1. The Project's construction timeline, commencing from the effective date of the technology agreement, is 12 months, during which Party A shall complete all construction works. Any extensions beyond this period will be solely attributable to Party A, unless agreed otherwise in writing by both parties.\n2. In the event that unforeseen circumstances or actions attributable to Party B result in a delay exceeding two months past the due date, Party A may elect to terminate the project and remove all equipment from the construction site without further notice or liability.",
+    "contradiction_score": 0.07857393473386765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 7873,
+    "end_char": 8126,
+    "original": "2.The Parties agree that Party B shall provide steady qualified coal coke production according to the technology agreement which will be used for CDQ system. Party A guarantees the steady operation of the CDQ and CDQ waste heat power generating systems.",
+    "ollama_generated": "2. While maintaining mutual understanding, it is agreed that Party A shall ensure the continuous operation of both the CDQ system and the CDQ waste heat power generating systems. Concurrently, Party B assumes responsibility for providing consistent coal coke production in accordance with the technology agreement, suitable for use within the CDQ system.",
+    "contradiction_score": 0.0021284103859215975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 8281,
+    "end_char": 8399,
+    "original": "4.The land for CDQ and CDQ waste heat power generation project shall be provided by Party B to Party A with no charge.",
+    "ollama_generated": "4. Party A acknowledges the provision of land for the CDQ and CDQ waste heat power generation project by Party B, at no cost to Party A, subject to the condition that Party B bears any and all expenses related to the preparation and transfer of the said land.",
+    "contradiction_score": 0.0017098430544137955,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 10378,
+    "end_char": 10483,
+    "original": "5.Responsible for the design, equipment procurement, construction, installation, and test and adjustment.",
+    "ollama_generated": "5. Obligated to oversee and coordinate the design process, as well as procurement of necessary equipment, construction, installation, and testing and adjustment processes; however, responsibility for any errors or issues in these areas shall be shared between both parties, with each bearing a proportionate share based on their respective roles and contributions.",
+    "contradiction_score": 0.0031916857697069645,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 11383,
+    "end_char": 11649,
+    "original": "2.If the change or update of industrial process or facility of Party B forces Party A to change its system, Party A will use new system cost and loss for replacement as the new system cost to calculate numbers according to Item Three to continue execute the project.",
+    "modified": "2. In case an alteration or modernization of Party B's industrial process or facility necessitates a change in Party A's system, Party B shall bear the responsibility for any additional costs or losses associated with the implementation of the new system, when calculating numbers according to Item Three, to facilitate the continued execution of the project.",
+    "contradiction_score": 0.5644014477729797,
+    "kept": true
+  },
+  {
+    "clause_index": 62,
+    "start_char": 13897,
+    "end_char": 14057,
+    "original": "7.Party A cannot transfer or mortgage the CDQ and CDQ power generation systems without the consent of Party B, otherwise it shall be responsible for the losses.",
+    "ollama_generated": "7. Party B grants no implicit or explicit approval to Party A's transfer or mortgage of the CDQ and CDQ power generation systems. Any such action undertaken by Party A will hold sole responsibility for any resulting losses.",
+    "contradiction_score": 0.3820165991783142,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 14272,
+    "end_char": 14445,
+    "original": "9.If the power generation causes upper level power network, each party shall bear their own liabilities based on the determination of the upper level power network operator.",
+    "ollama_generated": "9. In the event that the party generating power is held responsible by the upper level power network operator for any disruptions or damages incurred to the upper level power network, each party shall indemnify themselves against such liabilities.",
+    "contradiction_score": 0.0014869577717036009,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

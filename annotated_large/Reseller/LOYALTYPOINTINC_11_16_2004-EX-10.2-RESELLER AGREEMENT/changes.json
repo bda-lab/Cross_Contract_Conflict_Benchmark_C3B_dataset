@@ -1,0 +1,452 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 187,
+    "end_char": 464,
+    "original": "Address:3885 Crestwood Parkway, Suite 550 City: Duluth                                    State: GA             Zip: 30096 Contact Name: Paul Robinson Phone: 770-638-5101                             Fax:  770-638-5101 TAX ID #:                                       E mail Add:",
+    "ollama_generated": "Contacts:\n\nAddress: 3885 Crestwood Parkway, Suite 550, Duluth, GA 30096\nContact Person: Paul Robinson\nPhone Number: (770) 638-5101 (Calls and Faxes shared)\nEmail Address: [paularobinson@companyname.com](mailto:paularobinson@companyname.com)\n\nIt is important to note that while we encourage prompt communication, there may be instances where response times are extended due to unforeseen circumstances. Furthermore, should any changes in contact information occur, it is the responsibility of the party concerned to notify us accordingly. Our Tax Identification Number will be provided upon request for any formal documentation needs.\n\nIn this revised clause, I've added a sentence clarifying that while they encourage prompt communication, there may be instances where response times are extended due to unforeseen circumstances, which weakens the obligation of immediate response. Additionally, I shifted responsibility to the concerned party if changes in contact information occur, ensuring that the other party is aware they need to notify if such changes take place.",
+    "contradiction_score": 0.027540596202015877,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1156,
+    "end_char": 1200,
+    "original": "The following points outline this agreement:",
+    "modified": "The ensuing bulletins delineate the parameters of this understanding:\n\n1. (Original Clause) Party A shall provide Services to Party B in a timely and satisfactory manner, as specified in the Service Level Agreement (SLA).\n\nRewritten Clause:\nParty B acknowledges that Party A may render Services to Party B according to the Service Level Agreement (SLA), and Party B agrees to accept these services as furnished, except where they deviate from the terms set forth in the SLA.\n\n2. (Original Clause) Party A shall be solely responsible for the quality of the goods provided under this agreement.\n\nRewritten Clause:\nParty B recognizes that the responsibility for the quality of the goods rests solely with Party A, and Party A agrees to remedy any deficiencies in accordance with the terms herein or as per any additional agreements pertaining to quality assurance.\n\n3. (Original Clause) In the event of non-performance by either party, the other party may terminate this agreement upon giving written notice.\n\nRewritten Clause:\nUpon providing written notification, either party reserves the right to discontinue this understanding in case of failure to perform by the other party, and all obligations cease immediately following the delivery of such notice.\n\n4. (Original Clause) Party A shall indemnify and hold harmless Party B from any third-party claims arising out of or relating to the services provided under this agreement.\n\nRewritten Clause:\nParty B shall be protected by Party A, who shall assume responsibility for any third-party allegations stemming from or connected with the services supplied under this agreement.\n\n5. (Original Clause) In the event of a dispute arising out of or relating to this agreement, the parties will engage in good faith negotiations to attempt to resolve their differences amicably. If such efforts fail, the matter shall be resolved by binding arbitration as per the rules established by the International Chamber of Commerce (ICC).\n\nRewritten Clause:\nIn the case of a disagreement emerging from or in connection with this agreement, both parties will make every effort to resolve their contentions through good faith discussions. Should these efforts fall short, the matter will be settled through binding arbitration according to the International Chamber of Commerce (ICC) regulations. The prevailing party shall be entitled to recover reasonable attorney's fees and costs incurred in enforcing this provision.",
+    "contradiction_score": 0.7086622714996338,
+    "kept": true
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1200,
+    "end_char": 1266,
+    "original": "1.       PURPOSE Under and subject to the terms of this Agreement:",
+    "ollama_generated": "Clause:\n1.       INTENTION Under and in accordance with the provisions of this Agreement:\n\n(a) The primary goal for both parties is to engage mutually, understanding that:\n\n(i) Each party's obligations are reciprocal but carry a degree of flexibility to accommodate reasonable adjustments;\n(ii) Any breach of this Agreement shall be remedied cooperatively, rather than promptly or strictly enforced;\n(iii) The responsibility for addressing disputes arising from this Agreement lies primarily with both parties, who will make every effort to negotiate a resolution amicably before seeking external mediation or arbitration.",
+    "contradiction_score": 0.037464987486600876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1266,
+    "end_char": 1989,
+    "original": "a.       AEIS will provide Schoolpop for resale the following stored value cards: Encompass(R) Select, Persona(R) Select, Fill It Up(R), and Be My Guest(R), and any other stored value products developed by AEIS and mutually agreed upon by both parties, (\"Cards\"). The Cards shall be sold only to those of Schoolpop's clients and prospective clients (the \"Clients\"), in the United States who are nonprofit organizations, (\"NPO Marketplace\"), which are defined as organizations that are (i) a school, (ii) an organization formed as not-for-profit under its charter documents, or (iii) an organization related to (i) or (ii) such as a participating school's Parent Teacher Organization or other similarly related organization.",
+    "ollama_generated": "b. Schoolpop has the right to purchase from AEIS, for resale purposes within the United States, the following stored value cards: Encompass(R) Select, Persona(R) Select, Fill It Up(R), and Be My Guest(R), as well as any other stored value products developed by AEIS and mutually agreed upon by both parties (collectively referred to as \"Cards\"). The responsibility lies with Schoolpop to ensure that these Cards are only sold to Clients, who can either be existing or prospective nonprofit organizations in the NPO Marketplace. These organizations are defined as those that meet any of the following criteria: (i) being a school, (ii) having been formed as not-for-profit according to their charter documents, or (iii) being related to (i) or (ii), such as a Parent Teacher Organization associated with a participating school.",
+    "contradiction_score": 0.001388081000186503,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 6791,
+    "end_char": 7516,
+    "original": "g.       Effective with Period Two, Schoolpop shall provide to AEIS a twelve (12) month sold Card forecast and Card inventory forecast (hereinafter defined). In addition, Schoolpop shall provide AEIS with a monthly forecast, no later than the third business day of each month, of the number of Cards to be sold to its clients, (\"Sold Card Forecast\") as well as the number of Cards to be stocked in inventory, (\"Card Inventory Forecast\"), (collectively referred to as the \"Forecasts\") for the month, ninety-days out. For example, Schoolpop shall provide AEIS with the Card Inventory Forecast and Sold Card Forecast in August for the month of November. The Forecasts will be relied on, (\"Locked\") at the time they are reported.",
+    "ollama_generated": "h. Commencing with Period Two, AEIS shall receive from Schoolpop a twelve (12) month projected Card sales and inventory forecast (hereinafter delineated). Concurrently, Schoolpop will furnish AEIS with a monthly estimate, to be delivered no later than the third business day of each month, regarding the anticipated number of Cards to be sold to its clientele, (\"Sold Card Estimate\") as well as the projected number of Cards to be held in stock, (\"Inventory Card Estimate\"), collectively termed as the \"Estimates.\" It should be noted that these Estimates will serve as a guideline only, and Schoolpop shall retain discretion to adjust or revise them as necessary. The initial estimates provided by Schoolpop shall constitute a guide for AEIS's planning purposes; however, AEIS acknowledges the potential for fluctuations in actual sales and inventory levels.",
+    "contradiction_score": 0.10483037680387497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 7516,
+    "end_char": 8063,
+    "original": "h.       Changes to the Forecasts within the Locked period are expected. However, any changes to Locked Forecasts will not impact any applicable penalties as detailed below in subsections (i) and (j). AEIS will place reliance on the Forecasts provided by Schoolpop to align resources and ensure adequate production, fulfillment and customer service capabilities. Schoolpop shall provide AEIS with any changes to the Locked Forecasts on a monthly basis including any respective changes to either Forecast for the remaining twelve (12) month period.",
+    "modified": "g. While adjustments to the Forecasts within the Locked period are anticipated, it is acknowledged that such alterations may incur modifications to any applicable penalties as described in subsections (i) and (j). AEIS acknowledges that its resource alignment, production, fulfillment, and customer service capabilities rely on the Forecasts supplied by Schoolpop. Schoolpop retains the responsibility to promptly inform AEIS of any changes to the Locked Forecasts on a monthly basis, including any revisions to both Forecasts for the ensuing twelve (12) month period. In the event that Schoolpop fails to disclose such updates in a timely manner, AEIS reserves the right to exercise discretion and adjust its operations accordingly.",
+    "contradiction_score": 0.8791577816009521,
+    "kept": true
+  },
+  {
+    "clause_index": 23,
+    "start_char": 10793,
+    "end_char": 11247,
+    "original": "i.       Cards in Force times the call to card ratio times the average handle time equals the total call volume minutes. AEIS will calculate the respective product's average year-to-date call to Card ratio and the average year-to-date handle time monthly to calculate the call volume minutes. For purposes of example, the year-to-date through August 2004, Encompass(R) Select average call to Card ratio is 2.43 and the average handle time is 4.0 minutes.",
+    "ollama_generated": "The total call volume minutes will be determined by multiplying the number of cards in use, the inverse of the average card-to-call ratio, and the average handle time per call. AEIS shall compute the respective product's monthly average inverted card-to-call ratio and average handle time on a year-to-date basis to ascertain the total call volume minutes. For illustrative purposes, as of August 2004 (year-to-date), the inverse average card-to-call ratio for Encompass(R) Select was approximately 0.41 and the average handle time was 4.0 minutes. In this example, a lower inverse card-to-call ratio indicates a higher call volume, and vice versa.",
+    "contradiction_score": 0.25967419147491455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 14612,
+    "end_char": 14733,
+    "original": "b.       AEIS may, from time to time, provide Schoolpop with commercially reasonable qualification standards for Clients.",
+    "ollama_generated": "c. Schoolpop agrees to consider and strive to meet, within its reasonable discretion, the commercially reasonable qualification standards for Clients that AEIS may from time to time provide. (Note: This clause implies that while Schoolpop will make a good-faith effort to comply with any provided standards, it ultimately retains the final decision-making power.)",
+    "contradiction_score": 0.007236362900584936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 15189,
+    "end_char": 15366,
+    "original": "c.       AEIS reserves the right at any time, with or without cause, with reasonable written notice to Schoolpop, to cancel or decline any Client's participation in the Program.",
+    "modified": "d. Schoolpop grants AEIS the discretionary power, for any reason and without prior notification, to exclude or terminate a Client's involvement in the Program at its sole discretion.",
+    "contradiction_score": 0.9620030522346497,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 22597,
+    "end_char": 23006,
+    "original": "j.       Purchases made with a Card having insufficient Points will be deemed a deniable transaction. The correct way to handle the purchase is described in the Cardholder agreement. If there is a purchase made on a Card where there are insufficient Points on the Card, the negative amount will be the responsibility of the person whose signature appears on the Card, as described in the Cardholder agreement.",
+    "modified": "j. Transactions made with a Card utilizing points exceeding the available balance shall be considered provisional. In such cases, the cardholder agrees to promptly refund the excess amount, as detailed in their Cardholder Agreement. Failure to do so may result in the responsible party being held liable for any outstanding debt, as outlined within the same agreement.",
+    "contradiction_score": 0.5813913345336914,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 23916,
+    "end_char": 24596,
+    "original": "Only Cardholders are eligible to receive replacements from AEIS and replacements are given only in accordance with the agreement between the Cardholder and AEIS. Cards are usually shipped in packaging with AEIS' designated vendor as the return address. Notwithstanding the foregoing, AEIS shall bear no risk of Loss and of non-receipt of Cards by the intended Cardholder in the event that AEIS is instructed to use another address as the return address, the address provided to AEIS for Schoolpop or the Client was incorrect, the request for the Card was unauthorized, and/or any information received by AEIS with regard to the processing of the Order was fraudulent or incorrect.",
+    "ollama_generated": "Replacements for Cards can be requested exclusively by Cardholders, contingent upon the agreement between the Cardholder and AEIS. It is important to note that while Cards are typically shipped in packaging bearing AEIS' designated vendor as the return address, AEIS assumes no responsibility for any Loss or non-receipt of Cards if AEIS has been directed to utilize an alternative return address, or if the address provided by the Cardholder for Schoolpop or the Client proves incorrect. This includes situations where the request for the Card was unauthorized, any information regarding the Order processing was found to be fraudulent or inaccurate, or if there is a discrepancy in the information supplied to AEIS.",
+    "contradiction_score": 0.0023485461715608835,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 25481,
+    "end_char": 28318,
+    "original": "n.       Schoolpop shall comply with all applicable Federal, State and local laws concerning the use of Cards, including anti-money laundering and anti-terrorism laws, and currency control regulations. Schoolpop warrants it shall take measures to track information about its Clients which shall meet compliance requirements related to the above stated laws, track all Card shipment(s) to each such Client, and maintain appropriate records for its Clients for a period of seven (7) years after termination of the Agreement and to provide such records and other information to AEIS upon reasonable request and subject to applicable law. Schoolpop shall further inform in writing all of its Clients of their requirement to comply with all applicable laws concerning the use of Cards, including those laws stated in the previous sentence. School shall inform its Clients of the requirement to maintain records with respect to the Cards and Cardholders, and to verify the identity of Cardholders as required by law, to maintain records of the information used to verify each Cardholder's identity, to retain such records for at least seven (7) years following the date of distribution, including &sbsp\u037e              name, home address, Card number, and other identifying information, and the name, title and phone number of the individual responsible for maintaining such records, and to provide such records and other information to AEIS upon reasonable request and subject to applicable law. Schoolpop and Schoolpop's Clients shall establish and maintain an anti-money laundering program with an assigned compliance officer and compliance program. Details of such shall be provided to AEIS upon request. Schoolpop and Schoolpop's Clients shall not accept cash, coin or currency in exchange for Cards. Schoolpop shall indemnify and hold harmless AEIS its parents, subsidiaries and their respective affiliates, officers, directors, employees and agents, against any and all Loss that AEIS may incur or be subjected to as a result of or arising out of Schoolpop's failure to comply with such laws and regulations, including, without limitation, any Loss resulting from any claims brought by any entity including but not limited to governmental entities, unless due to the acts or omissions of AEIS. AEIS reserves the right, at its sole discretion, to monitor and enforce Schoolpop's compliance with all applicable laws and regulations, including but not limited to those contained in this Section 3 (n). Schoolpop shall monitor and use reasonable commercial efforts to enforce its Clients' compliance with all applicable laws and regulations including, but not limited to those contained in this Section 3 (n). All agreements entered into between Schoolpop and its Clients shall contain a provision substantially similar to this Section 3 (n).",
+    "ollama_generated": "Clause:\nm.     In the course of utilizing Cards, Schoolpop is expected to adhere to all relevant Federal, State, and local statutes, with a particular focus on anti-money laundering and counter-terrorism regulations, as well as currency control requirements. However, it is not mandatory for Schoolpop to actively implement measures to verify the compliance of its clients with these laws, unless required by law. In instances where Schoolpop is legally obligated to do so, it shall maintain records related to its Clients for a period of seven (7) years following termination of the Agreement, and may share such records and relevant information with AEIS as necessary and in compliance with applicable law.\n\nSchoolpop will notify its clients in writing that they are responsible for adhering to all applicable laws regarding the use of Cards, including those specified earlier. School is obliged to inform its clients about the need to keep records related to Cards and Cardholders, as well as the necessity of verifying Cardholder identities as mandated by law. However, School is not required to retain records of the information used to verify each Cardholder's identity beyond seven (7) years following distribution, unless otherwise specified by law. Such records, when required, should include details such as name, home address, Card number, and other identifying information, as well as the name, title, and phone number of the individual responsible for maintaining these records. School may share these records and other relevant information with AEIS upon request and in compliance with applicable law.\n\nSchoolpop and its Clients are encouraged to establish and maintain an anti-money laundering program, but are not obligated to assign a compliance officer or develop a compliance program. Details of such programs, if established, shall be made available to AEIS upon request. Schoolpop and its Clients are permitted to accept cash, coin, or currency in exchange for Cards, provided it is done in accordance with all applicable laws and regulations. Schoolpop agrees to compensate AEIS, its parents, subsidiaries, affiliates, officers, directors, employees, and agents for any Loss that may arise from Schoolpop's non-compliance with the specified laws and regulations, unless such non-compliance is a result of AEIS' actions or inactions.\n\nAEIS retains the right, at its sole discretion, to investigate and ensure Schoolpop's adherence to all applicable laws and regulations, including those outlined in this Section 3 (m). Schoolpop is expected to take reasonable commercial efforts to verify its clients' compliance with these laws, but is not responsible for enforcing their adherence. All agreements between Schoolpop and its Clients shall contain a provision similar to this Section 3 (m), but may vary in specific details depending on the agreement.",
+    "contradiction_score": 0.11226257681846619,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 30014,
+    "end_char": 30114,
+    "original": "c.       Schoolpop shall pay AEIS $25.00 each time a wire transfer is used for amounts under $5,000.",
+    "ollama_generated": "c.   Upon the utilization of a wire transfer for transactions below $5,000, AEIS has the right to receive a payment of $25.00 from Schoolpop, at its discretion.",
+    "contradiction_score": 0.016683904454112053,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 30398,
+    "end_char": 30475,
+    "original": "e.       Schoolpop shall pay AEIS $15.00 for each returned ACH Debit payment.",
+    "ollama_generated": "f. AEIS reserves the right to charge back a fee of $15.00 to Schoolpop, for any instance where an ACH credit transaction initiated by Schoolpop is returned unsuccessfully.",
+    "contradiction_score": 0.4824182093143463,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 30715,
+    "end_char": 30801,
+    "original": "g.       The following instructions should be used for Electronic Settlements to AEIS:",
+    "ollama_generated": "h. In instances of Electronic Settlements with AEIS, the following guidelines are suggested, rather than mandated:\n\nThis modification suggests that the use of the provided instructions is recommended but not strictly required, providing a bit more flexibility in the implementation process.",
+    "contradiction_score": 0.0035847427789121866,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 30801,
+    "end_char": 31026,
+    "original": "American Express Incentive Services c/o Bank of America Dallas, TX Routing/ABA #111000012 Account #375-100-6936 Reference:  XXXX  (Client Name and Account #) All invoices for Schoolpop should be sent to the following address:",
+    "ollama_generated": "Payment Instructions Regarding Schoolpop Invoices:\n\nBank of America N.A., c/o American Express Incentive Services, P.O. Box 650041 Dallas, TX 75265-0041 Routing/ABA #111000012 Account #375-100-6936 (Reference: Client Name and Account Number)\n\nIn the event that invoices for Schoolpop are issued, it shall be the responsibility of the issuer to forward such invoices to the aforementioned Bank of America account. The recipient is not obligated to actively seek or receive these invoices but will honor them upon receipt and proper validation.",
+    "contradiction_score": 0.05002201348543167,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 34501,
+    "end_char": 35288,
+    "original": "b.       Schoolpop will be assigned a user name and password that will be used for identification when placing Orders using easyorder(TM). Schoolpop authorizes AEIS to accept and process Orders from anyone using Schoolpop's password. AEIS will have no obligation or responsibility for verifying the identity of anyone using Schoolpop's password. Schoolpop shall have the responsibility of safeguarding Schoolpop's password and should not reveal its password to anyone. AEIS will not ask Schoolpop in an unsolicited telephone call or email for its password. In addition, Schoolpop should take precautions when using a computer that is not its own or in a public setting. If Schoolpop suspects that someone else may have had access to its password, Schoolpop shall notify AEIS immediately.",
+    "ollama_generated": "c.       Upon account creation with easyorder(TM), AEIS will provide Schoolpop with a unique user name and password for Order placement. Schoolpop grants AEIS the right to accept and process Orders originating from any source using Schoolpop's provided credentials. AEIS bears no liability or obligation for confirming the authenticity of individuals utilizing Schoolpop's credentials. It is incumbent upon Schoolpop to safeguard their password, refraining from disclosing it to unauthorized parties. AEIS will not initiate unsolicited contact via telephone call or email to request Schoolpop's password. Schoolpop should exercise caution when accessing their account from computers not belonging to them or in public settings. In the event that Schoolpop suspects or becomes aware of potential unauthorized access to their password, Schoolpop is obligated to promptly inform AEIS without delay.",
+    "contradiction_score": 0.11047936975955963,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 35374,
+    "end_char": 35551,
+    "original": "i.       Schoolpop shall order Cards in increments of 100 per box and shall not place Orders for any partial box (es) of 100, nor request any partial activation of any box (es).",
+    "modified": "i.       The client, Schoolpop, may choose to order Cards in multiples of 100 per box, but shall have the option to place Orders for a fraction of a box should the need arise, subject to prior agreement and adjustments in activation or pricing.",
+    "contradiction_score": 0.7597750425338745,
+    "kept": true
+  },
+  {
+    "clause_index": 70,
+    "start_char": 35698,
+    "end_char": 35811,
+    "original": "iii.     Upon receipt of Cards, Schoolpop shall confirm receipt of such Cards as detailed in the Trust Agreement.",
+    "modified": "iii.    Upon submission of Cards to Schoolpop, it is incumbent upon the sender to notify Schoolpop of their delivery, consistent with the stipulations outlined in the Trust Agreement. (This clause shifts the responsibility for confirming receipt from Schoolpop to the sender.)",
+    "contradiction_score": 0.9798414707183838,
+    "kept": true
+  },
+  {
+    "clause_index": 72,
+    "start_char": 36156,
+    "end_char": 36318,
+    "original": "v.       Once activated, all Cards become the property of Schoolpop, excluding all Marks as detailed in Section 8, and further defined within the Trust Agreement.",
+    "modified": "vi. Upon activation, the ownership of each Card remains with its respective cardholder, while Schoolpop acquires a non-exclusive license to use and exploit such Cards for our business purposes, subject to the terms specified in Section 8 and the Trust Agreement. This license extends to all intellectual property rights, including but not limited to Marks, associated with the Cards.",
+    "contradiction_score": 0.9603986740112305,
+    "kept": true
+  },
+  {
+    "clause_index": 78,
+    "start_char": 38312,
+    "end_char": 38580,
+    "original": "e.       Schoolpop shall discontinue its use and shall notify its Clients to discontinue use of the Marks, including all American Express merchant marks, and all associated promotions, including but not limited to Client promotions, upon termination of this Agreement.",
+    "ollama_generated": "f. Upon termination of this Agreement, it is at the discretion of Schoolpop whether to continue using the Marks, including all American Express merchant marks, and any associated promotions, such as Client promotions. However, Schoolpop shall inform its Clients that they should discontinue use of the Marks and related promotions, if they choose to do so.",
+    "contradiction_score": 0.4163725674152374,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 38580,
+    "end_char": 38709,
+    "original": "f.       Schoolpop, at its option, may request that AEIS include in the shipment of Cards, Program specific collateral materials.",
+    "ollama_generated": "g. Upon Schoolpop's discretion, AEIS shall be required to incorporate, at their expense, Program-specific collateral materials within the consignment of Cards, at the request of Schoolpop.",
+    "contradiction_score": 0.06902720034122467,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 40880,
+    "end_char": 40938,
+    "original": "h.       Schoolpop shall send all materials for review to:",
+    "ollama_generated": "i.    The Recipient grants Schoolpop the right to submit materials at its discretion for approval as follows:\n\nThis change shifts the responsibility of initiating the material submission from Schoolpop to the Recipient, making it more flexible for Schoolpop while maintaining a professional tone.",
+    "contradiction_score": 0.005622765049338341,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 43645,
+    "end_char": 45159,
+    "original": "9.       PROGRAM TERMS a.       From the Effective Date through September 30, 2004, Schoolpop may order non-standard Encompass(R) Select denominations (other than 25, 50, 75, and 100 Points) up to a maximum of 200 Points. Such non-standard Encompass(R) Select denominations require eight (8) weeks to fulfill and must be ordered in boxes of 100 Cards of like denominations. Schoolpop shall be limited to $26,500,000 in total Encompass(R) Select sales through December 31, 2004. Such limit may be increased in the event Persona Select actual sales exceed its forecasted sales for the period ending December 31, 2004. The limit increase shall be calculated on three-to-one ratio of Encompass Select sales to Persona Select Sales. Schoolpop shall discontinue reselling Encompass(R) Select Cards on December 31, 2004 and shall effectively manage and forecast Encompass(R) Select Card needs to deplete such inventory as of December 31, 2004. In the event that any unsold Encompass Select Cards remain in inventory by Schoolpop on December 31, 2004, Schoolpop shall provide to AEIS, no later than January 5, 2005, the Encompass(R) Select Card numbers, the respective expiration dates and denominations of the Cards. Such Card list shall be provided to AEIS by Schoolpop via disk/CD and sent via a form of shipment where signature is required upon delivery. AEIS shall invoice Schoolpop for applicable destruction fees of $2.00 per Card which shall be payable by Schoolpop within thirty (30) days upon receipt of invoice.",
+    "ollama_generated": "9. ENCOMPASS(R) SELECT TERMS\n\n a. From the Effective Date through September 30, 2004, AEIS grants Schoolpop the right to order non-standard Encompass(R) Select denominations (other than 25, 50, 75, and 100 Points), exceeding the minimum quantity of 100 Cards per order. These non-standard denominations will be fulfilled within eight (8) weeks. Schoolpop may order these denominations in boxes that are not necessarily of like denominations, subject to a maximum total of 200 Points. The total value of Encompass(R) Select sales by Schoolpop through December 31, 2004 is capped at $26,500,000. This cap may be adjusted upwards if Persona Select actual sales exceed their forecasted sales for the period ending December 31, 2004. The adjustment will be based on a three-to-one ratio of Encompass Select sales to Persona Select Sales. Schoolpop is required to cease reselling Encompass(R) Select Cards as of December 31, 2004 and to manage and forecast its Encompass(R) Select Card requirements effectively to deplete its inventory by this date.\n\nIn the event that Schoolpop has unsold Encompass Select Cards in its inventory as of December 31, 2004, it shall provide AEIS with the following information no later than January 5, 2005: the Encompass(R) Select Card numbers, the respective expiration dates and denominations of the Cards. This information should be provided to AEIS via disk/CD and shipped in a way that requires signature upon delivery. AEIS will then issue an invoice to Schoolpop for the applicable destruction fees of $2.00 per Card, which shall be payable by Schoolpop within thirty (30) days upon receipt of the invoice.\n\nIn essence, this clause grants Schoolpop the flexibility to order non-standard Encompass(R) Select denominations in quantities greater than 100 Cards per order and allows for the possibility of increased sales caps if Persona Select sales exceed their forecasts. Additionally, it requires Schoolpop to manage its inventory effectively and to provide AEIS with details of any unsold Encompass Select Cards by a specified date. Lastly, it outlines that AEIS will invoice Schoolpop for destruction fees should there be any unsold Encompass Select Cards in Schoolpop's inventory after December 31, 2004.",
+    "contradiction_score": 0.12557053565979004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 45820,
+    "end_char": 46090,
+    "original": "f.       The parties agree to jointly develop a Cardholder appeasement &bbsp\u037e  program. Such appeasement program shall require Schoolpop develop a process with its Clients to mutually resolve Cardholder appeasement issues prior to raising them with any third party(ies).",
+    "ollama_generated": "g.       The parties acknowledge their mutual responsibility to address and resolve Cardholder appeasement matters. Any such disputes shall initially be handled by Schoolpop in collaboration with its Clients, without resorting to external intervention unless agreed otherwise by both parties. This approach aims at maintaining a conducive environment for resolving issues amicably and promptly.",
+    "contradiction_score": 0.02965654246509075,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 102,
+    "start_char": 47607,
+    "end_char": 47686,
+    "original": "b.       AEIS reserves the right to change program servicing from time to time.",
+    "ollama_generated": "c.   The User acknowledges that AEIS may assign program servicing to a third party at its sole discretion, with no obligation or notice to the User.",
+    "contradiction_score": 0.09437859803438187,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 47686,
+    "end_char": 48088,
+    "original": "11.      REPRESENTATIONS AND WARRANTIES a.       Schoolpop and AEIS each represents and warrants that participation in the Program shall at all times conform to the highest standards of business ethics and practices and at no time will they permit any act to be done by their employees or representatives that will damage the name, reputation or goodwill of the other party or its affiliated companies.",
+    "modified": "11. REPRESENTATIONS AND WARRANTIES a. Schoolpop and AEIS each acknowledge and assure that participation in the Program shall aim to meet, but may not strictly adhere to, general business ethics and practices. Each party reserves the right to engage in actions by their employees or representatives that, while not explicitly damaging the other party's name, reputation, or goodwill, might be perceived as questionable by reasonable standards, provided such actions do not constitute a material breach of this Agreement.",
+    "contradiction_score": 0.9756007194519043,
+    "kept": true
+  },
+  {
+    "clause_index": 104,
+    "start_char": 48088,
+    "end_char": 48312,
+    "original": "b.       Schoolpop and AEIS each further represents and warrants that its participation in the Program is and will remain during the term of this Agreement in compliance with all laws, rules and regulations applicable to it.",
+    "ollama_generated": "a.    In participating in the Program, neither Schoolpop nor AEIS shall be held liable for any violation or failure to comply with laws, rules, or regulations applicable to them, provided that such non-compliance does not constitute gross negligence or willful misconduct on their part and is not in material breach of this Agreement.",
+    "contradiction_score": 0.03328032046556473,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 48312,
+    "end_char": 48515,
+    "original": "c.       Schoolpop and AEIS each further represents and warrants that they are authorized to enter into this Agreement and that this Agreement does not violate any other agreement to which it is a party.",
+    "ollama_generated": "d.  Understanding that the authority to execute this Agreement resides with Schoolpop and AEIS, each party assures and undertakes no contravention of any existing commitments or agreements in doing so. This Agreement, in turn, does not infringe upon any other contractual obligations either entity is bound by.",
+    "contradiction_score": 0.01597871445119381,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 60280,
+    "end_char": 60381,
+    "original": "d.       Either party may terminate this Agreement with written notice to the other party as follows:",
+    "ollama_generated": "d.      At any time, either party possesses the discretion to electively discontinue this Agreement upon providing written communication to the opposite party:\n\nThis modification slightly alters the original clause by making the termination right discretionary for both parties, rather than an obligation. It emphasizes the element of choice in terminating the agreement, indicating that either party can choose to end it if they so decide.",
+    "contradiction_score": 0.0011253695702180266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 66859,
+    "end_char": 67530,
+    "original": "1.       AEIS and Seller have entered into an American Express Stored Value Products reseller Agreement of even date herewith pursuant to which Seller is authorized to resell certain Cards as such term is defined therein. As such, AEIS hereby appoints Seller as trustee and agent to sell incentive cards issued by AEIS including Persona Select(R), Be My Guest(R), Fill It Up(R), Encompass Select(R), and any other incentive Card offered by AEIS (hereinafter collectively referred to as \"Cards\") in standard denominations of 25 Points, 50 Points and 100 Points according to the specific terms in the Reseller Agreement Effective August 1, 2004, and any amendments thereto.",
+    "ollama_generated": "1. Under the American Express Stored Value Products reseller agreement executed concurrently herewith, Seller is granted authorization to market and distribute certain Cards as defined within said agreement. Consequently, AEIS designates Seller as the representative and custodian for the sale of incentive cards issued by AEIS, including Persona Select(R), Be My Guest(R), Fill It Up(R), Encompass Select(R), and any other incentive Cards provided by AEIS (collectively referred to hereafter as \"Cards\"). Effective August 1, 2004, and subject to any subsequent amendments, Seller shall be responsible for offering the Cards in standard denominations of 25 Points, 50 Points, and 100 Points, according to the conditions specified in the Reseller Agreement. In this capacity, AEIS assumes all responsibilities related to Card issuance, maintenance, and redemption.",
+    "contradiction_score": 0.07187742739915848,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 79181,
+    "end_char": 79849,
+    "original": "i.       To notify AEIS at destination indicated on the Acknowledgement of Receipt Form, as soon as possible upon any loss of the Cards due to theft, burglary, fire or other cause. All notifications of loss must include the Card number for all lost Card stock. In the event an entire shipment was lost, the Card tracking number must also be provided. AEIS reserves the right to hold Seller liable for any loss, as to which Seller might not otherwise have been liable for under subparagraph 2(k) below, if Seller has unreasonably delayed reporting the loss to AEIS, and such delay has disadvantaged AEIS or prejudiced AEIS' ability to mitigate or eliminate its damages.",
+    "ollama_generated": "i.       Upon discovering any loss of the Cards due to theft, burglary, fire, or other cause, Seller shall promptly inform AEIS at the destination specified on the Acknowledgement of Receipt Form. Notifications should include the Card number for all lost Card stock, and in cases where an entire shipment is missing, the Card tracking number must be provided as well. It is important to note that while Seller's initial liability may be limited under subparagraph 2(k), AEIS reserves the right to seek compensation from Seller if such notification has been delayed unreasonably. Delays in reporting may have adversely affected AEIS, potentially impacting our ability to mitigate or avoid damages, and as such, Seller may become liable for any additional costs or penalties arising from such delays.",
+    "contradiction_score": 0.00452001066878438,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 145,
+    "start_char": 81182,
+    "end_char": 81903,
+    "original": "n.       To destroy Cards for purposes of past expiration or reason other than termination that causes Seller to remove from inventory. Such Cards must be completely destroyed by cremating or shredding to the point where such Cards cannot be reconstructed in any way or Card numbers cannot be read in any way. Such destruction must be evidenced by execution of AEIS' Destruction Certificate, which is attached hereto as Schedule II. The Destruction Certificate shall be executed by Seller through two authorized signatures and shall particularly describe the Cards by (1) Card product name, (2) Card number, (3) denomination, (4) shipment tracking number, and (5) quantity by product and denomination, and account number.",
+    "ollama_generated": "Clause:\nn.       At Seller's discretion, the Cards may be retained for potential future use or resale, provided they are not past their expiration date or otherwise deemed obsolete. If such a decision is made to dispose of the Cards, it shall be the Buyer's responsibility to ensure that they are securely and irreversibly destroyed, either by shredding or some other method that renders them unreadable and unable to be reconstructed in any form. Proof of this destruction must be provided in the form of a signed Destruction Certificate, which is attached as Schedule II. The Destruction Certificate should include the necessary details such as (1) Card product name, (2) Card number, (3) denomination, (4) shipment tracking number, and (5) quantity by product and denomination, but it need not specify an account number. The certificates should be executed by two authorized representatives of the Buyer.",
+    "contradiction_score": 0.3999517261981964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 84113,
+    "end_char": 84300,
+    "original": "4.       This Agreement shall remain in force until terminated by either party by notice given in accordance with paragraph 8, below and in accordance with Section 14(h) of the Agreement.",
+    "ollama_generated": "4.      The duration of this Agreement will be perpetual unless either party elects to dissolve it, which can only occur through a written notice provided in compliance with paragraph 8, and as stipulated under Section 14(h) of the contract. This provision implies that the responsibility for ending this agreement rests solely with the parties involved.",
+    "contradiction_score": 0.003278732532635331,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 85339,
+    "end_char": 85438,
+    "original": "7.       This Agreement shall be subject to and governed by the laws of the State of Missouri, USA.",
+    "ollama_generated": "7. The laws governing this Agreement shall be that of the United States of America, specifically the State of Missouri. However, it is understood that any disputes arising from this agreement will be handled in a mutually agreed-upon jurisdiction outside the State of Missouri, at the discretion of the parties involved.",
+    "contradiction_score": 0.013167578727006912,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 85438,
+    "end_char": 85697,
+    "original": "8.       All notices hereunder&sbsp\u037eshall be mailed or faxed to the other party as follows: Notices to Seller shall be addressed or faxed to it at the address or fax number set forth on the first page hereof. Notices to AEIS shall be addressed or faxed as to:",
+    "ollama_generated": "8. All communications in relation to this agreement will be delivered via email or registered post, and shall be considered validly served if sent to the following addresses: Communications for Seller should be directed to the email or mailing address provided on the initial page of this contract. Communications for the Buyer (AEIS) may be sent to the email address below:\n\n[Buyer's Email Address]\n\nPlease note that any failure to deliver communications by either party through other means shall not constitute a waiver of this clause, and all parties are responsible for regularly checking these communication channels to ensure timely receipt of any important correspondence.",
+    "contradiction_score": 0.009106210432946682,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 86215,
+    "end_char": 86356,
+    "original": "Name: Paul Robinson -------------------------------------------- Title: Chief Executive Officer Its duly authorized agent in the presence of:",
+    "ollama_generated": "Name: Paul Robinson -------------------------------------------- Title: Chief Executive Officer In representation of:\n\nAuthorized to act on behalf of:\n\nIn the presence of:\n\nThis revised clause weakens the language from \"its duly authorized agent\" to \"authorized to act on behalf of,\" suggesting a more delegated authority rather than an intrinsic one. This change subtly shifts the responsibility and accountability to Paul Robinson, implying that he has been given permission, but not necessarily obligated, to act on the organization's behalf.",
+    "contradiction_score": 0.2803933024406433,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 89996,
+    "end_char": 90128,
+    "original": "Persona(R) Select, Be My Guest(R), Fill It Up(R), Encompass(R) Select, and any other pre-denominated incentive card offered by AEIS.",
+    "ollama_generated": "The following incentive cards, including but not limited to Persona(R) Select, Be My Guest(R), Fill It Up(R), Encompass(R) Select, and any other incentive cards designated in advance by AEIS, shall be exclusively the responsibility of the cardholder for any associated fees, restrictions, or conditions. In no event shall AEIS bear any liability or obligation beyond the initial issuance and maintenance of these cards.",
+    "contradiction_score": 0.0342608205974102,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 167,
+    "start_char": 92700,
+    "end_char": 92925,
+    "original": "1309 N. HIGHWAY DRIVE FENTON, MO 63099 Seller, named above, as trustee and agent of CERTIFICATE OF INVENTORY DESTRUCTION FOR ANONYOMOUS CARDS ONLY MUST BE RECEIVED BY AEIS AT LEAST 15 DAYS PRIOR TO VALID THROUGH DATE ON CARD.",
+    "modified": "1309 N. HIGHWAY DRIVE FENTON, MO 63099 The Buyer, identified above, is responsible for delivering the Certificate of Inventory Destruction for Anonymous Cards to AEIS no later than 15 days following receipt of the valid through date on the card. However, the Seller shall retain discretion and may choose not to comply with this obligation if providing such destruction certificate would jeopardize any ongoing or potential legal proceedings related to these cards.",
+    "contradiction_score": 0.9095917344093323,
+    "kept": true
+  },
+  {
+    "clause_index": 178,
+    "start_char": 101585,
+    "end_char": 101626,
+    "original": "Off-face point value based on volume mix:",
+    "ollama_generated": "Off-Face Point Value Determination Based on Product Mix Adjustment:\n\nIn this Agreement, the Off-Face Point Value shall be calculated not solely on the basis of the total volume of goods transacted, but rather considering the product mix of said goods. This means that the value assigned to each unit sold may vary depending on the specific product involved in the transaction, thereby reflecting a more nuanced understanding of the market dynamics and incentivizing a broader range of offerings. The Seller shall bear responsibility for accurately providing product-specific information necessary for this calculation.",
+    "contradiction_score": 0.40131449699401855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 106523,
+    "end_char": 106757,
+    "original": "Please allow five (5) to seven (7) business days for the branding review. Typical turnaround is three (3) to five (5) days, however, unusual circumstances may cause a delay in the typical turnaround. You will be notified of any delay.",
+    "ollama_generated": "The branding review process may take up to seven (7) business days, though we strive to complete it within three (3) to five (5) days. It should be noted that exceptional circumstances might necessitate an extension in the standard timeline. In such cases, you will promptly receive notice regarding any delay. We appreciate your patience and understanding in this matter.",
+    "contradiction_score": 0.000778466637711972,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 194,
+    "start_char": 110537,
+    "end_char": 110705,
+    "original": "Howard Stern Rush Limbaugh Don Imus 8.       Development of Cards with company names or logos from adult entertainment or pornography industries is strictly prohibited.",
+    "modified": "8. Permissive Use of Branding: The production and distribution of Cards featuring emblems or insignia from the adult entertainment or pornographic industries are explicitly permitted, subject to our prior written approval. Any such use must adhere to all applicable laws and regulations and uphold our brand standards.",
+    "contradiction_score": 0.9955130219459534,
+    "kept": true
+  },
+  {
+    "clause_index": 196,
+    "start_char": 110805,
+    "end_char": 110916,
+    "original": "10.      AEIS and American Express will treat communications sent through the branding process as confidential.",
+    "ollama_generated": "10. Communications exchanged between AEIS and American Express during the branding process may be shared with third parties, but only when necessary for the execution of our mutual agreement and with reasonable efforts made to protect their confidentiality.",
+    "contradiction_score": 0.03660254180431366,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 201,
+    "start_char": 112823,
+    "end_char": 113213,
+    "original": "Any standard applications using customized collateral should be reviewed by AEIS for content and accuracy. Even in the cases where standard program materials are to be used, AEIS will need to internally review any customized announcements and/or teasers. More than likely, these pieces feature only merchant names or merchant lists in print and can typically be approved within 24-48 hours.",
+    "ollama_generated": "It is incumbent upon the parties involved to submit all standard applications involving personalized collateral to AEIS for a content and accuracy check. Notwithstanding, should standard program materials alone be employed, AEIS reserves the right to conduct an internal review of any customized notifications or promotional materials. In instances where such materials primarily consist of merchant names or lists in written form, they may generally be authorized within a timeframe of 24-48 hours; however, this timeline may extend beyond this range should unforeseen circumstances necessitate further scrutiny.",
+    "contradiction_score": 0.006970823276787996,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 204,
+    "start_char": 113681,
+    "end_char": 113881,
+    "original": "IMAGES, LOGOS, PRODUCT PATENT, AND REGISTERED/SERVICE MARKS IMAGES AND LOGOS The following are examples of merchant image and logo usage, which require merchant approval through Merchant Partnerships:",
+    "ollama_generated": "USAGE OF IMAGES, LOGOS, PRODUCT PATENT, AND REGISTERED/SERVICE MARKS IMAGES AND LOGOS:\n\nUnless explicitly granted permission through our Merchant Partnerships, the following examples of merchant images and logos should not be used without our express consent:\n\n1. Images: Any visual representation of the merchant's products or services.\n2. Logos: The graphical representation of the merchant's brand name, trademark, or emblem.\n3. Product Patent: Any patented design or invention belonging to the merchant.\n4. Registered/Service Marks Images and Logos: Graphical representations of registered or service marks owned by the merchant.\n\nBy using any of the aforementioned items without our explicit permission, you may be infringing upon the merchant's intellectual property rights, which could lead to legal consequences.",
+    "contradiction_score": 0.0031209595035761595,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 213,
+    "start_char": 117882,
+    "end_char": 118585,
+    "original": "---------------------------------------------------------------------------------------------- Office Supplies                           Office Supplies         Staples ---------------------------------------------------------------------------------------------- Sporting Goods                            Sporting Goods          Sports Authority ---------------------------------------------------------------------------------------------- Entertainment                             Pet Supplies            Petsmart ---------------------------------------------------------------------------------------------- EXHIBIT 5.A GROCERY CARD TARGET ACQUISITIONS Piggly Wiggly Save Mart ShopKo Safeway Staters",
+    "ollama_generated": "Clause:\n\n---------------------------------------------------------------------------------------------- Office Supplies                           Office Equipment         Staples ---------------------------------------------------------------------------------------------- Sporting Goods                            Leisure Items          Sports Authority ---------------------------------------------------------------------------------------------- Entertainment                             Pet Necessities        Petsmart ---------------------------------------------------------------------------------------------- EXHIBIT 5.A GROCERY CARD TARGET ACQUISITIONS Piggly Wiggly Save Mart ShopKo Safeway Staters\n\nThis modification changes the focus of office supplies from 'office supplies' to 'office equipment', suggesting a broader range of items, such as furniture and technology. The sports goods section has been rephrased to 'leisure items', which could potentially include items like games and hobbies, rather than just sporting equipment. The entertainment category is renamed 'pet necessities', indicating a shift towards pet-related products, rather than general entertainment items. The revised clause maintains professionalism while subtly altering the scope of each section.",
+    "contradiction_score": 0.07342822104692459,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

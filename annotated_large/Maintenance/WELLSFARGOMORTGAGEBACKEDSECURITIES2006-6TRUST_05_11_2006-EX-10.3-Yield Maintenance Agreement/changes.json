@@ -1,0 +1,100 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 701,
+    "original": "EXHIBIT 10.3 Yield Maintenance Agreement [LOGO UBS] Date:               27 April 2006 To:                 Wells Fargo Bank, N.A., not individually, but solely as Master Servicer on behalf of Wells Fargo Mortgage Backed Securities 2006-6 Trust (\"Counterparty\") Attention:          Swaps Administration From:               UBS AG, London Branch (\"UBS AG\") Subject:            Interest Rate Cap Transaction UBS AG Ref: 37346733 Dear Sirs The purpose of this communication is to confirm the terms and conditions of the Transaction entered into between us on the Trade Date specified below. This Confirmation constitutes a \"Confirmation\" as referred to in the Master Agreement or Agreement specified below.",
+    "ollama_generated": "EXHIBIT 10.3 Revised Yield Maintenance Agreement [LOGO UBS] Date:               27 April 2006\nTo:                 Wells Fargo Bank, N.A., acting solely as Master Servicer on behalf of Wells Fargo Mortgage Backed Securities 2006-6 Trust (\"Counterparty\")\nAttention:          Swaps Administration\nFrom:               UBS AG, London Branch (\"UBS AG\")\nSubject:            Interest Rate Cap Transaction UBS AG Ref: 37346733\n\nDear Counterparty,\n\nThe purpose of this communication is to outline the modified terms and conditions of the Transaction that was entered into between us on the Trade Date specified below. This Communication shall be considered a \"Counter-Confirmation\" under the Master Agreement or Agreement specified below.\n\nIn this revised version, the confirmation is now a Counter-Confirmation, which shifts the responsibility to the Counterparty to confirm the terms and conditions of the Transaction. This modification does not significantly alter the original clause's meaning but subtly emphasizes UBS AG's assertion of equal footing in the agreement.",
+    "contradiction_score": 0.11694162338972092,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 3725,
+    "end_char": 4019,
+    "original": "Greater of (1)Calculation  Amount *  Floating  Rate Day Count Fraction * (Floating Rate Option - Cap Rate) and (2) 0 Floating Rate Option:            USD-LIBOR-BBA Designated Maturity:             One Month Spread:                          None Floating Rate Day Count          30/360 Fraction:",
+    "ollama_generated": "Preeminent among the following options:\n\n1) Calculation Amount * (Floating Rate Option + Cap Rate) * Fixed Day Count Fraction * (Cap Rate - Floating Rate Option). In the event that this amount is zero or negative, the Floating Rate Option shall be deemed to be zero.\n\n2) 0, with the Floating Rate Option taking effect only when the aforementioned calculation results in a positive value.\n\nUSD-LIBOR-BBA Designated Maturity: One Month\nSpread: None\nFixed Rate Day Count: 30/360 Fraction",
+    "contradiction_score": 0.0431409627199173,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 4019,
+    "end_char": 4467,
+    "original": "Floating Rate Payer Period       01 January,  01 February,  01 March,  01 April, End  Dates:                      01 May, 01 June, 01 July, 01 August, 01 September,  01 October, 01 November and 01 December, in each year, from and including 01 May 2006, up to and including the Termination Date, subject to adjustment in accordance with the Business DayConvention specified immediately below, and thereshall be No Adjustment to the Period End Dates.",
+    "ollama_generated": "Floating Rate Payer Periods: 1st of May, 1st of June, 1st of July, 1st of August, 1st of September, 1st of October, 1st of November, and 1st of December in each year, from and including the 1st of May 2006 up to and including the Termination Date. These dates are subject to adjustment in accordance with the Business Day Convention specified immediately below. However, the Period End Dates may be adjusted if deemed necessary by the recipient party, subject to prior notice provided to the other party.",
+    "contradiction_score": 0.12300284951925278,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 12272,
+    "end_char": 13537,
+    "original": "(xv)    Set-Off. Notwithstanding any provision of this Agreement or any other existing or future agreement, each party irrevocably waives any and all rights it may have to set off, net, recoup or otherwise withhold or suspend or condition payment or performance of any obligation between it and the other party hereunder against any obligation between it and the other party under any other agreements. The provisions for Set-off set forth in Section 6(e) of the Agreement shall not apply for purposes of this Transaction\u037e provided, however, that upon the designation of any Early Termination Date, in addition to, and not in limitation of any other right or remedy under applicable law, UBS AG may, by notice to Counterparty require Counterparty to set off any sum or obligation that UBS AG owed to Counterparty against any collateral currently held by Counterparty that UBS AG has posted to Counterparty, and Counterparty shall effect such setoff promptly, if and to the extent permitted to do so under applicable law, provided that Counterparty's exercise of this setoff is not stayed or otherwise delayed by order of any court, regulatory authority or other governmental agency or any receiver other person appointed in respect of UBS AG or any of its property.",
+    "ollama_generated": "(xv) Settlement Provisions. Contrary to any provision within this Agreement or any subsequent agreement, each party relinquishes any rights they may hold for offsetting, netting, recouping, withholding, suspending, or conditioning payment or fulfillment of their obligations towards the other under this Agreement, against any obligations under any other agreements. The offset provisions outlined in Section 6(e) of the Agreement will not be applicable to this Transaction; however, it is understood that upon the declaration of an Early Termination Date, UBS AG retains, beyond any rights or remedies afforded by law, the authority to demand Counterparty initiate a settlement whereby they offset any debt owed to UBS AG with any collateral currently held by Counterparty as security for UBS AG. Counterparty shall comply with this request promptly, in accordance with applicable law, unless prevented from doing so due to an order from a court, regulatory body, government agency, or appointed receiver regarding UBS AG or its assets.",
+    "contradiction_score": 0.4239152669906616,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 17729,
+    "end_char": 18466,
+    "original": "(i) UBS AG agrees and acknowledges that Wells Fargo Asset Securities Corporation (the \"Depositor\") is required under Regulation AB under the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended (the \"Exchange Act\") (\"Regulation AB\"), to disclose certain financial information regarding UBS AG, depending on the aggregate \"Significance Percentage\" (as defined in Item 1115 of Regulation AB) of all Transactions under this Agreement, together with any other transactions that fall within the meaning of \"derivative contracts\" for the purposes of Item 1115 of Regulation AB between UBS AG and Counterparty, as calculated from time to time in accordance with the Calculation Methodology (as defined below).",
+    "ollama_generated": "(i) UBS AG acknowledges and agrees that it is subject to disclosure obligations under Regulation AB, as amended by the Securities Act of 1933 and the Securities Exchange Act of 1934 (\"Regulation AB\"), with respect to certain financial information pertaining to UBS AG. The Depositor (Wells Fargo Asset Securities Corporation) is only required to disclose this information when the aggregate \"Significance Percentage\" (as defined in Item 1115 of Regulation AB) of all Transactions under this Agreement, together with any other transactions between UBS AG and Counterparty that constitute \"derivative contracts\" as per Item 1115 of Regulation AB, exceed a threshold level. The calculation of this threshold shall be carried out in accordance with the Calculation Methodology (as defined below). This disclosure obligation is therefore contingent on the specified thresholds being met, and not otherwise imposed upon UBS AG unless such thresholds are surpassed.",
+    "contradiction_score": 0.009787846356630325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 23764,
+    "end_char": 24283,
+    "original": "For purposes of this Transaction, a \"Ratings Event\" shall occur with respect to UBS AG if its long term unsecured debt rating (the \"Long Term Rating\") ceases to be rated at least \"A1\" by Moody's Investors Service, Inc. or at least \"A+ by Fitch Ratings (such ratings being referred to as the \"Approved Ratings Threshold\"), (unless, within 30 days after such withdrawal or downgrade Fitch and Moody's have reconfirmed the rating of the Certificates which were in effect immediately prior to such withdrawal or downgrade).",
+    "ollama_generated": "In relation to this Agreement, a \"Ratings Downgrade Event\" will be deemed to have taken place for UBS AG if its long-term unsecured debt rating (the \"Long-Term Rating\") falls below the \"A1\" rating by Moody's Investors Service, Inc. or the \"A+\" rating by Fitch Ratings (hereafter collectively referred to as the \"Minimum Ratings\"). However, this shall not be considered a Ratings Downgrade Event if, within 30 days following such downgrade or withdrawal of the Long-Term Rating, both Fitch and Moody's provide written confirmation that the ratings of the Certificates in effect prior to the downgrade or withdrawal remain unchanged.",
+    "contradiction_score": 0.2628772258758545,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 25590,
+    "end_char": 25692,
+    "original": "For purposes of Section 7 of the Agreement, UBS AG hereby consents to the Permitted Security Interest.",
+    "ollama_generated": "In accordance with Section 7 of the Agreement, UBS AG acknowledges and relinquishes any objections to the granting of the Permitted Security Interest by the other party.\n\nThis modification preserves the original intent but inverts the condition, indicating that UBS AG is consenting not only to the existence of the Permitted Security Interest but also to the other party's ability to grant it.",
+    "contradiction_score": 0.021373214200139046,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 27749,
+    "end_char": 27867,
+    "original": "Payee Tax Representations For the purpose of Section 3(f) of the ISDA Form, UBS AG makes the following representation:",
+    "modified": "Representation Regarding Payee's Tax Obligations In accordance with Section 3(f) of the ISDA Form, Payee hereby represents that it shall be solely responsible for the determination, calculation, and timely payment or collection of any and all taxes, levies, duties, or similar charges (collectively, \"Taxes\") associated with its receipt of payments under this Agreement. UBS AG makes no representation or warranty regarding such Taxes.",
+    "contradiction_score": 0.9259318113327026,
+    "kept": true
+  },
+  {
+    "clause_index": 65,
+    "start_char": 28320,
+    "end_char": 28488,
+    "original": "2.    It is a \"U.S. person\" (as that term is used in section 1.1441-4(a)(3)(ii) of the United States Treasury Regulations for United States federal income tax purposes.",
+    "modified": "2. For the purposes of U.S. federal income tax, a party shall be considered as a \"non-U.S. person\" (as defined in section 1.1441-4(a)(3)(ii) of the United States Treasury Regulations, but with the understanding that this designation may provide certain tax advantages and potentially reduce obligations under the terms of this agreement.",
+    "contradiction_score": 0.9969974756240845,
+    "kept": true
+  },
+  {
+    "clause_index": 72,
+    "start_char": 31681,
+    "end_char": 31812,
+    "original": "(c) Status of the Parties. Neither party is acting as a fiduciary for or as an adviser to the other in respect of this Transaction.",
+    "ollama_generated": "(c) Role of the Parties. Each party explicitly acknowledges that they are not acting as trustees, representatives, or advisors on behalf of the other in relation to this Transaction, and any actions taken will be solely in their own self-interest.",
+    "contradiction_score": 0.08790520578622818,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,691 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 214,
+    "end_char": 279,
+    "original": "FLEET MAINTENANCE AGREEMENT 1. Definitions 1.1 In this Agreement:",
+    "ollama_generated": "FLEET MAINTENANCE AGREEMENT\n1. Definitions\n1.1 In this Agreement:\n\n(a) \"Service Provider\" shall mean the Entity providing fleet maintenance services to the Client, and\n(b) \"Client\" shall refer to the Entity engaging the Service Provider for such services, and\n(c) \"Maintained Vehicle\" denotes any vehicle under the care of the Service Provider as a part of the Agreement, and\n(d) \"Minimum Maintenance Obligation\" indicates the minimum level of maintenance that the Service Provider shall undertake to ensure the functional integrity of the Maintained Vehicles, but\n(e) \"Act of God Event\" is any unforeseeable event or circumstance beyond the control of both Parties, which could prevent the Service Provider from fulfilling its Maintenance Obligation, and\n(f) \"Compensation\" refers to the remuneration to be paid by the Client to the Service Provider for services rendered under this Agreement, and\n(g) \"Force Majeure Event\" denotes an Act of God Event or any other event beyond the reasonable control of either Party, which could delay or prevent a Party from fulfilling its obligations under this Agreement.\n\nIn the revised clause, the responsibility for ensuring the functional integrity of the vehicles has been shifted from the Service Provider to both parties, as it is now an \"Act of God Event\" or any other event beyond their control that could prevent the maintenance obligations from being met. The term \"Force Majeure Event\" encompasses this broader range of circumstances that may impact fulfillment of the agreement.",
+    "contradiction_score": 0.2648969292640686,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 307,
+    "end_char": 404,
+    "original": "1.1.1 the following expressions have the following meanings unless inconsistent with the context:",
+    "ollama_generated": "1.1.1 For purposes of this agreement, the following terms shall be construed as follows, except where the context may require otherwise:\n\nThis revised version maintains the original intent of defining key terms but also introduces a degree of flexibility by stating that the definitions may not apply if the context demands otherwise. This could potentially allow for a broader interpretation of certain terms in specific situations.",
+    "contradiction_score": 0.0011024274863302708,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 457,
+    "end_char": 692,
+    "original": "\u201cAdditional Charges \u201d means the charges to be calculated by SEV on a time and materials basis at the rates described in Clause 7 of this Agreement in respect of the provision of Excepted Services pursuant to Clause 6 of this Agreement.",
+    "modified": "\"Additional Costs\" shall denote the costs to be determined by the Client, on a time and materials basis, at the rates specified in Clause 7 of this Contract, for services beyond the Scope of Services as defined in Clause 6 of this Agreement, which may be required from SEV.",
+    "contradiction_score": 0.8795596957206726,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 692,
+    "end_char": 1096,
+    "original": "\u201cAgreement \u201d means this agreement including the Schedules and the appendix made between SEV and DCL \u201cBodywork \u201d means, without limitation, the panels, doors, glazing, trim, seating and any custom built additions not supplied by the original Vehicle manufacturer \u201cCDV\u201d means an Engine powered car derived van included in this Agreement \u201cCharger\u201d means the battery charger and related equipment of an  EGV.",
+    "ollama_generated": "\"Agreement\" refers to this contract, comprising the Schedules, the appendix, and any other supplementary documents that may arise during the course of this agreement between SEV and DCL.\n\n\"Bodywork\" encompasses, but is not limited to, the panels, doors, glazing, trim, seating, and any custom-made modifications or additions not initially provided by the original Vehicle manufacturer.\n\n\"CDV\" denotes a vehicle with an engine that has been converted into a van, as long as it falls within the scope of this agreement.\n\n\"Charger\" signifies the charging system and relevant equipment associated with an Electric Vehicle (EGV). In the event of any ambiguity, the charger shall be deemed to include all necessary accessories for its operation.",
+    "contradiction_score": 0.019121941179037094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 1096,
+    "end_char": 1296,
+    "original": "\u201cChassis\u201d means the main frame, sub -frames and mounting brackets of the vehicle \u201cCode of Practice \u201d means the HMSO code of practice set out in the appendix \u201cCommencement Date \u201d means 16 October 2005.",
+    "ollama_generated": "\"The term 'Chassis' encompasses the main frame, sub-frames, and mounting brackets of the vehicle; however, any modifications or alterations to these components after the Commencement Date shall be at the discretion of the owner, not constituting a violation of this agreement.\n\nThe 'Code of Practice' refers to the HMSO code of practice as outlined in the appendix, but it is understood that deviations from this code may be acceptable under exceptional circumstances, provided they are approved by both parties in writing prior to implementation.\n\nThe 'Commencement Date', originally set for 16 October 2005, shall now serve as a reference date from which any obligations or timeframes specified within this agreement commence. It is recognized that either party may initiate their obligations or timeframes at any point after this date, but delays in fulfilling obligations prior to the Commencement Date will not be considered grounds for renegotiation or breach of contract.\"",
+    "contradiction_score": 0.11539999395608902,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3705,
+    "end_char": 3848,
+    "original": "\u201cFleet Size \u201d means the total number of Operational Vehicles and Spare Vehicles in use by DCL from time to time and included in this Agreement.",
+    "ollama_generated": "\"The term 'Fleet Size' encompasses the aggregate count of Active Vehicles and Reserve Vehicles presently operated by DCL within the scope of this Contract, with the understanding that any additional vehicles acquired after the execution of this Agreement may not be automatically considered part of the Fleet Size until a subsequent amendment is made.\"",
+    "contradiction_score": 0.007092976476997137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 3848,
+    "end_char": 4264,
+    "original": "\u201cFTA\u201d means Freight Transport Association or such other replacement association or organisation operating in the United Kingdom from time to time whose aims are to represent the freight transport industry generally \u201cFuture Maintenance Services \u201d means any services which are the same as or similar to the Maintenance Services, which will be provided by DCL and/or any Replacement Supplier after the Termination Date.",
+    "ollama_generated": "\"FTA\" refers to Freight Transport Association, or any subsequent association or organization functioning in the United Kingdom at given times, whose primary purpose is to advocate for the interests of the freight transport industry broadly.\n\n\"Future Maintenance Services\" encompasses any services that are identical to or analogous to the Maintenance Services, which may be supplied by DCL and/or any Subsequent Provider following the Termination Date. The responsibility for these services will shift from us to the appointed Subsequent Provider after the termination of this agreement.",
+    "contradiction_score": 0.0015341410180553794,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 5609,
+    "end_char": 5746,
+    "original": "\u201cMaintenance Charges \u201d means the aggregate charge  for the Maintenance Services calculated in accordance with Clause 3 of this Agreement.",
+    "ollama_generated": "\"Maintenance Charges\" refers to the total fee assessed for Maintenance Services, as determined independently by us based on our discretionary methodologies outlined in Clause 3 of this Agreement.",
+    "contradiction_score": 0.002591302152723074,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 5903,
+    "end_char": 6012,
+    "original": "\u201cMaintenance Services \u201d means the provision of maintenance services as defined in Clause 4 of this Agreement.",
+    "ollama_generated": "\"Maintenance Services\" shall not be construed as our sole responsibility; rather, both parties are expected to contribute mutually towards the performance of maintenance services, as delineated in Clause 4 of this Agreement.",
+    "contradiction_score": 0.15809178352355957,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 6588,
+    "end_char": 6636,
+    "original": "\u201cPG9 Notice \u201d means a PG9 Notice issued by VOSA.",
+    "ollama_generated": "\"VOSA-issued PG9 Notification\" refers to any notification labeled as a PG9 Notice by the Vehicle and Operator Services Agency (VOSA).",
+    "contradiction_score": 0.005172383971512318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 7079,
+    "end_char": 7464,
+    "original": "\u201cRedundancy Costs \u201d means in relation to each Transferring Employee the amount designated as such in Schedule Two and calculated as the sum of: - (i) the statutory redundancy payment (calculated in accordance with section 162 of the Act) to which such Transferring Employee would have been entitled  had he been dismissed by reason of redundancy with effect from the Commencement Date;",
+    "ollama_generated": "\"Redundancy Costs\" shall refer, in terms of each Transferring Employee, to the amount specified in Schedule Two and computed as the accumulated sum of: - (i) the statutory redundancy payment that would have been due to such employee if they had been terminated for reasons of redundancy from the Commencement Date, had their employment not been transferred; instead, such payments will be made at the point of actual termination or a mutually agreed upon later date.",
+    "contradiction_score": 0.008041431196033955,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 12054,
+    "end_char": 12242,
+    "original": "1.1.7 references to Clauses and Schedules are to Clauses of and Schedules to this Agreement, and references to paragraphs are to paragraphs in the Schedule in which such references appear;",
+    "ollama_generated": "1.1.7 References to Clauses and Schedules are specifically related to the provisions within this Agreement and the attached Schedules, respectively, and when a reference is made to 'paragraphs', it denotes the corresponding sections in the Schedules where these references are specified. However, should there be no specified paragraph for such a reference within a Schedule, then it shall be deemed to refer to the nearest applicable paragraph in any other relevant Schedule or, failing that, to a paragraph in this Agreement itself.",
+    "contradiction_score": 0.006808300502598286,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 13757,
+    "end_char": 13900,
+    "original": "the same competitive framework as the original agreement, DCL will renew the master contract hire agreement for a further 18 (eighteen) months.",
+    "ollama_generated": "Upon compliance by both parties with their respective obligations under this agreement and given the mutual satisfaction with the partnership, DCL reserves the right to extend the master contract hire agreement for an additional 18 (eighteen) months, should they deem it beneficial. The decision to renew is solely at DCL's discretion.",
+    "contradiction_score": 0.002780192531645298,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 15158,
+    "end_char": 15249,
+    "original": "2.5 provide to DCL a defect reporting book and annual service schedule chart for each Site;",
+    "ollama_generated": "2.5 It is optional for the Supplier to deliver a defect reporting book and an annual service schedule chart for each Site, should they choose to do so; any such materials provided shall be considered beneficial but not obligatory in nature. The onus remains on DCL for maintaining proper records and scheduling necessary services.",
+    "contradiction_score": 0.06265085190534592,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 15629,
+    "end_char": 15749,
+    "original": "2.7.4 monthly fleet list of the Vehicles included in the Fleet Size for the purposes of calculating Maintenance Charges;",
+    "ollama_generated": "2.7.4 Submission of a monthly inventory detailing the Vehicles comprising the Fleet, as required for the determination of applicable Maintenance Fees;\n\n(This revised clause now requests a monthly list of vehicles instead of specifying that it is for the calculation of maintenance charges, subtly implying that the company providing the fleet may have discretion in how they calculate the fees.)",
+    "contradiction_score": 0.2052825540304184,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 17131,
+    "end_char": 17281,
+    "original": "3.3 The Maintenance Charges shall be invoiced by SEV calendar monthly in advance and shall be payable by DCL within fourteen days of the invoice date.",
+    "ollama_generated": "3.3 The Maintenance Charges will be billed by SEV on a calendar monthly basis, due from DCL thirty days after the billing date, with the understanding that payment may be made up to fourteen days prior to the due date without incurring any penalties.\n\nThis change weaken's DCL's obligation slightly by allowing them to pay up to fourteen days early without penalty, and shifts responsibility to SEV for clearly indicating the billing and due dates on the invoice.",
+    "contradiction_score": 0.003464814741164446,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 17834,
+    "end_char": 18132,
+    "original": "3.5 Maintenance Charges shall be increased annually on the first day of each DCL Financial Year in line with the last published Retail Price Index and stated in Schedule One effective for the following year of this Agreement, a signed copy of which shall be attached to each copy of this Agreement.",
+    "modified": "3.5 The Maintenance Charges may be adjusted annually on the first day of each fiscal year at the discretion of DCL, taking into account the most recent Retail Price Index published at that time. Any adjustments will be communicated in writing and shall become effective as of the following year, with no obligation to provide a signed copy of the updated schedule to each party.",
+    "contradiction_score": 0.8552020788192749,
+    "kept": true
+  },
+  {
+    "clause_index": 78,
+    "start_char": 18511,
+    "end_char": 18654,
+    "original": "4. Maintenance Services The Maintenance Services shall comprise the provision by SEV during the continuance of this Agreement of the following:",
+    "ollama_generated": "4. Maintenance Obligations The Maintenance Obligations assumed by SEV throughout the term of this Agreement shall include, but not be limited to, the performance of the following tasks:\n\nIn this revised clause, the focus has been shifted from a strong obligation (Maintenance Services \"shall comprise\") to a more flexible commitment (Maintenance Obligations \"assumed by SEV\" and \"shall include\"). This change subtly suggests that SEV's responsibilities may not be as extensive or strictly defined.",
+    "contradiction_score": 0.05334040895104408,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 18654,
+    "end_char": 18803,
+    "original": "4.1 servicing and inspections at intervals stated in Schedule One using the FTA report form for SGV, MGV, LGV and CDV and SEV \u2019s report form for EGV;",
+    "ollama_generated": "4.1 The Parties shall adhere to the servicing and inspection schedule outlined in Schedule One, utilizing either the FTA or SGV, MGV, LGV, and CDV report forms for SGV vehicles, and at their discretion, the SEV's report form for EGV vehicles.\n\nThis revision softens the obligation by allowing parties to choose between two report forms for certain vehicle types, thereby providing a degree of flexibility not present in the original clause.",
+    "contradiction_score": 0.0073456228710711,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 18860,
+    "end_char": 18950,
+    "original": "4.2 preparation and submission of SGV, MGV, LGV and CDV for the relevant annual VOSA test;",
+    "ollama_generated": "4.2 The Parties mutually agree that the Responsible Party shall be allowed to delay, at their discretion, the preparation and submission of SGV, MGV, LGV, and CDV for the relevant annual VOSA test, provided that any such delay shall not exceed a period of thirty (30) days and shall not compromise the integrity or validity of the tests. In case of delays beyond this specified duration or potential compromises in test quality, the Responsible Party shall be held accountable for any penalties, fines, or other liabilities incurred as a direct result of such non-compliance.",
+    "contradiction_score": 0.13849420845508575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 21826,
+    "end_char": 22192,
+    "original": "5. Times for Maintenance Services SEV will provide maintenance Services 24 hours a day Monday to Friday and until 6pm on Saturday (excluding Christmas Day). In the event of Maintenance Services being provided by SEV at DCL \u2019s request outside of this time frame, SEV will levy Additional Charges in respect of the work earned out at the rates set out in Schedule One.",
+    "ollama_generated": "5. Maintenance Services Provision\nDCL shall request maintenance services from SEV as required, and SEV shall endeavor to provide such services. The regular working hours for these services will be from 8am to 6pm Monday through Friday, and from 9am to 6pm on Saturdays (excluding Christmas Day). Any maintenance services provided outside of these hours at DCL's request will not incur additional charges, but shall instead be billed at the overtime rates specified in Schedule One.",
+    "contradiction_score": 0.3891300559043884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 22192,
+    "end_char": 22260,
+    "original": "6. Excepted Services 6.1 The Maintenance Services shall not include:",
+    "ollama_generated": "6. Included Services (Revised) 6.1 The Maintenance Services will encompass the following:\n\nIn this revision, the original clause excluded certain services from the scope of Maintenance Services. Here, we shift the focus and specify only those services that will be included within the Maintenance Services. This change subtly implies that any other service not explicitly mentioned herein may not fall under the purview of Maintenance Services.",
+    "contradiction_score": 0.014195571653544903,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 23964,
+    "end_char": 24080,
+    "original": "6.1.11 daily Vehicle checks as specified in the Code of Practice and any damage caused by failing to carry out same;",
+    "ollama_generated": "6.1.11 The Party responsible for operating vehicles shall perform regular checks as detailed in the Code of Practice, with the understanding that minor, unavoidable damages arising from occasional oversights during these checks shall not constitute a breach of this agreement. However, the Party is still accountable for any significant or preventable damage caused by neglecting such checks.",
+    "contradiction_score": 0.01226960401982069,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 24280,
+    "end_char": 24436,
+    "original": "6.1.12 oils and fluids required to complete the daily Vehicle checks, 6.1.13 repairs to the Bodywork of the Vehicles other than as described in Clause 4.12;",
+    "ollama_generated": "6.1.12 The Company is not obligated to provide oils and fluids necessary for daily Vehicle checks, and any costs associated with these supplies shall be borne by the Driver or User. Regarding repairs to the Bodywork of the Vehicles beyond the scope of Clause 4.12, such expenses will be solely at the expense of the Driver or User.\n\nOr alternatively:\n\n6.1.12 The Company will not bear the costs for oils and fluids required for daily Vehicle checks; these expenses shall be covered by the Driver or User. As for repairs to the Bodywork of the Vehicles other than those specified in Clause 4.12, such costs will fall on the responsible party, i.e., the Driver or User.",
+    "contradiction_score": 0.013617245480418205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 121,
+    "start_char": 25926,
+    "end_char": 26207,
+    "original": "7.2 Additional Charges shall be levied by SEV on completion of Excepted Services within fifteen working days otherwise DCL shall have no obligation to pay  the Additional Charges. The Additional Charges shall be payable by DCL within fifteen working days of receipt of the invoice.",
+    "ollama_generated": "7.2 If DCL fails to settle the Excepted Services within fifteen working days following completion, SEV reserves the right to impose Additional Charges. However, it is important to note that the payment of these charges remains the responsibility of SEV until DCL chooses to settle them within its own discretion and convenience, at which point they shall become payable by DCL within fifteen working days following receipt of the corresponding invoice.",
+    "contradiction_score": 0.00558374123647809,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 29702,
+    "end_char": 29994,
+    "original": "so as to enable SEV to undertake appropriate redundancy consultation and selection processes with those Transferring Employees involved in  the maintenance of such MGV and LGV Vehicles and where appropriate to effect the dismissal of those Transferring Employees on the  ground of redundancy.",
+    "ollama_generated": "To facilitate a smooth transition for SEV, the parties agree that, if necessary, SEV may initiate consultations regarding redundancy with the Transferring Employees who maintain MGV and LGV Vehicles. In cases where it is deemed appropriate, SEV reserves the right to terminate the employment of these employees due to redundancy, subject to the relevant legal requirements and notice periods.",
+    "contradiction_score": 0.0014211423695087433,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 30344,
+    "end_char": 30525,
+    "original": "9.2 use its reasonable endeavours to ensure the Vehicles are  operated in accordance with the Vehicle manufacturers \u2019 instructions and for the purposes for which they were designed;",
+    "ollama_generated": "9.2 Shall strive to employ appropriate efforts, but without binding obligation, to guide the operation of the Vehicles in compliance with the manufacturer's guidelines and intended uses as originally conceived. The party responsible for operation bears the primary responsibility for ensuring compliance with this provision.",
+    "contradiction_score": 0.0019284399459138513,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 30964,
+    "end_char": 31111,
+    "original": "9.5 ensure that any faults or defects are reported without unnecessary delay to SEV using the procedure specified in the Contract Procedure Manual;",
+    "ollama_generated": "9.5 It is recommended, albeit not mandatory, for the Client to promptly bring to our attention any identified issues or discrepancies with the deliverables, following the guidelines provided in the Contract Procedure Manual for reporting purposes; however, any potential delays in such reporting will not be considered as hindrances to SEV's right to exercise remedies, if applicable.",
+    "contradiction_score": 0.005772542208433151,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 31111,
+    "end_char": 31244,
+    "original": "9.6 to provide and make use of a Spare Vehicle in the event of a Vehicle being unavailable for operation due to Maintenance Services;",
+    "ollama_generated": "9.6 The User shall have the option, but not obligation, to utilize an Alternate Vehicle during periods when the Primary Vehicle is rendered unserviceable due to Scheduled Maintenance. The provider shall endeavor to make the Alternate Vehicle available, but no liability or responsibility will be assumed in the event of its unavailability.",
+    "contradiction_score": 0.006731746718287468,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 32068,
+    "end_char": 32193,
+    "original": "9.12 provide a reasonable amount of electricity and water  to SEV whilst working on the Vehicles on Site at no charge to SEV;",
+    "ollama_generated": "9.12 It is understood that the Service Provider shall make an effort to ensure an adequate supply of electricity and water for SEV's use while performing duties on the Vehicles within the premises, however, SEV will be responsible for any additional costs beyond what can reasonably be considered standard usage.",
+    "contradiction_score": 0.2281009703874588,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 32193,
+    "end_char": 32393,
+    "original": "***Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been filed separately with the Commission.",
+    "ollama_generated": "***Request for Confidential Treatment submitted to the Securities and Exchange Commission. Excluded sections have been forwarded independently to the Commission.***\n\nIn this version, the focus is shifted from the requesting party (e.g., us) to the Securities and Exchange Commission, implying that the commission is the one who has received the separate filing. This change may suggest a slight shift in responsibility or perspective without altering the essential meaning of the clause significantly.",
+    "contradiction_score": 0.003849851433187723,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 33166,
+    "end_char": 33229,
+    "original": "10.2.1 carry and keep visible suitable means of identification;",
+    "ollama_generated": "10.2.1 Maintain readily accessible appropriate forms of identification; [This slightly softens the obligation by allowing the individual to have their ID in a more convenient location instead of always needing it to be visible.]",
+    "contradiction_score": 0.016306905075907707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 33554,
+    "end_char": 33716,
+    "original": "10.4 Unless otherwise agreed, SEV shall be responsible for property which it brings onto the Premises and shall remove it from the Premises when requested by DCL.",
+    "modified": "10.4 Unless otherwise specified, the responsibility of items brought onto the Premises by DCL shall be assumed by them, and DCL shall retain the right to keep these items on the Premises until they decide to remove them. In case SEV requests the removal of any such property from the Premises, DCL shall have a reasonable timeframe to comply with this request.",
+    "contradiction_score": 0.9022646546363831,
+    "kept": true
+  },
+  {
+    "clause_index": 156,
+    "start_char": 33939,
+    "end_char": 34120,
+    "original": "10.6 SEV shall not be liable for the failure to provide Maintenance Services due to being unable to gain access to Vehicles through DCL exercising their rights under this Clause 10.",
+    "ollama_generated": "10.6 DCL acknowledges and accepts that they may prevent SEV from performing Maintenance Services, thereby releasing SEV from any liability arising from such inability to access the Vehicles, should it result from DCL exercising their rights under this Clause 10.\n\nExplanation: The original clause placed the liability for the failure to provide maintenance services on SEV when they were unable to gain access to vehicles due to DCL exercising their rights. In the revised clause, DCL acknowledges and accepts that they may prevent SEV from performing maintenance services, thereby shifting the liability back to DCL if the inability to access arises from them exercising their rights under Clause 10.",
+    "contradiction_score": 0.038137853145599365,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 181,
+    "start_char": 44442,
+    "end_char": 44580,
+    "original": "11.15.2 SEV makes no admission or prejudicial statement without DCL \u2019s consent (such consent not to be  unreasonably withheld or delayed);",
+    "ollama_generated": "11.15.2 DCL does not unnecessarily restrict SEV's right to make statements, provided that SEV obtains DCL's prior consent, which will not be unduly denied or delayed in its granting.",
+    "contradiction_score": 0.08939042687416077,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 45057,
+    "end_char": 45404,
+    "original": "11.17 DCL and SEV acknowledge that DCL may, in the normal course of its business, acquire various undertakings during the term of this Agreement ( \u201cNew Undertakings \u201d) which may consist of (amongst other things) vehicles and employees involved in the maintenance and repair of such vehicles ( \u201cNew Employees \u201d). Accordingly, and in the event that;",
+    "ollama_generated": "11.17 SEV and DCL understand that DCL might, as part of its usual operations during the agreement period, obtain new business entities (referred to herein as \"Acquired Entities\"), which may include (but not limited to) vehicles and personnel engaged in vehicle maintenance and repair (referred to as \"New Personnel\"). Consequently, and if it occurs:\n\n(i) DCL shall have the discretion to incorporate these New Personnel into its workforce, subject to any applicable legal requirements and labor agreements; and\n\n(ii) SEV agrees that such integration of New Personnel shall not constitute a material breach or default under this Agreement, unless explicitly stipulated otherwise in writing.",
+    "contradiction_score": 0.008340519852936268,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 191,
+    "start_char": 47129,
+    "end_char": 47479,
+    "original": "12. Changes in Legislation In the event of changes in legislation taking place during the Contracted Period that directly affects DCL Vehicles, SEV shall seek a cost effective resolution and such costs incurred by SEV in, meeting the new legal requirements shall be met in full by DCL, either through Additional Charges or a revision of Schedule One.",
+    "ollama_generated": "12. Changes in Legislation During the Contracted Period, should any modifications in legislation arise that pertain to DCL Vehicles and impact SEV's operations, DCL shall be responsible for providing a cost-effective solution. Any expenses incurred by SEV as a result of complying with the new legal requirements will be reimbursed by DCL, either through adjustments to the initial payment schedule (Schedule One) or additional payments, at DCL's discretion.",
+    "contradiction_score": 0.03561025485396385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 192,
+    "start_char": 47479,
+    "end_char": 47629,
+    "original": "13. Warranties and Liability 13.1 SEV does not warrant that the Maintenance Services will cause Vehicles to operate without breakdown or interruption.",
+    "ollama_generated": "13. Warranties and Liability 13.1 It is acknowledged by Vehicle Operator (Vehicle Owner, hereinafter referred to as \"User\") that the Maintenance Services provided by SEV shall not guarantee continuous or uninterrupted operation of Vehicles, nor prevent any potential breakdowns during the service period.\n\nExplanation: The original clause clearly states that SEV does not promise vehicle operation without breakdown or interruption. However, the rewritten clause puts an emphasis on the User to acknowledge this fact and makes it explicit that the Maintenance Services will not be responsible for continuous or uninterrupted operation of Vehicles nor prevent any potential breakdowns during the service period. This shift in responsibility from SEV to the User is a subtle yet significant change in the original clause.",
+    "contradiction_score": 0.08359663933515549,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 196,
+    "start_char": 48560,
+    "end_char": 48740,
+    "original": "13.3 All warranties and representations shall, unless otherwise expressly stated, continue in full force and effect during the term of this Agreement and shall survive termination.",
+    "ollama_generated": "13.3 Explicit exceptions aside, all warranties and representations made herein will remain binding and valid throughout the duration of this Agreement, persisting even after its termination. However, any potential claims or disputes arising from such warranties or representations must be brought forward within a reasonable timeframe post-termination, as failure to do so may result in their waiver or forfeiture.",
+    "contradiction_score": 0.001000550459139049,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 198,
+    "start_char": 49128,
+    "end_char": 49179,
+    "original": "13.4.1 any breach of the warranties in Clause 13.2;",
+    "ollama_generated": "13.4.1 any alleged or potential breach of the representations made in Clause 13.2, which, if found to be material and substantiated, may constitute a ground for termination or other remedies at the discretion of the non-breaching party.\n\nIn this revised clause, the original obligation has been weakened by introducing the term \"alleged\" or \"potential\" breach, suggesting that the party might not necessarily have to prove an actual breach but rather an alleged one. Additionally, the focus is shifted from a definite and immediate response (termination) to a more flexible one, where other remedies at the discretion of the non-breaching party are also considered possible.",
+    "contradiction_score": 0.010427176021039486,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 209,
+    "start_char": 51796,
+    "end_char": 51888,
+    "original": "16.2 DCL or SEV may terminate this Agreement forthwith by notice in writing to the other if:",
+    "ollama_generated": "16.2 Either party, either DCL or SEV, retains the right to immediately terminate this Agreement upon providing written notification to the other, should any of the following occur:\n\n(a) A material breach of this Agreement by the other party remains unremedied for a period of thirty (30) days after written notice is given by the non-breaching party.\n\n(b) Either party becomes insolvent, bankrupt, or enters into any composition, arrangement or compromise with its creditors generally, or makes an assignment for the benefit of creditors, or takes corporate action similar to any of the foregoing; or\n\n(c) A governmental body or court of competent jurisdiction issues an order, judgment, or decree that directly and adversely affects the other party's ability to perform its obligations under this Agreement.\n\nThis revised clause now provides a bit more protection for both parties by specifying a time frame for remedying a material breach before termination can occur, and also includes additional grounds for termination beyond just non-performance of the agreement.",
+    "contradiction_score": 0.003967389930039644,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 212,
+    "start_char": 52532,
+    "end_char": 52632,
+    "original": "winding up or has a petition granted by any Court for its winding up or for an Administration Order.",
+    "ollama_generated": "Dissolution or becoming subject to a court-granted petition for dissolution or administrative reorganization.",
+    "contradiction_score": 0.018200280144810677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 215,
+    "start_char": 53292,
+    "end_char": 53611,
+    "original": "16.5 From receipt of notice of termination of this Agreement. SEV agrees not to employ any person to work wholly or mainly in the provision of the Maintenance Services without the consent of DCL or any Replacement Supplier having first been obtained (provided that such consent is not unreasonably withheld or delayed).",
+    "modified": "16.5 Upon receipt of notice of termination of this Agreement, DCL grants SEV the liberty to consider employing individuals for Maintenance Services, subject to DCL's or any approved Successor Supplier's consent, which shall not be withheld or delayed unreasonably. SEV is under no obligation to seek permission if such consent is not forthcoming within a reasonable timeframe.",
+    "contradiction_score": 0.8959557414054871,
+    "kept": true
+  },
+  {
+    "clause_index": 218,
+    "start_char": 53868,
+    "end_char": 53955,
+    "original": "16.6.2 after the Termination Date will be borne by DCL and/or any Replacement Supplier;",
+    "ollama_generated": "16.6.2 Following the Termination Date, the costs or expenses incurred shall not be the responsibility of CLS, unless explicitly agreed otherwise in writing, or if no replacement supplier can be found within a reasonable timeframe.",
+    "contradiction_score": 0.11872945725917816,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 220,
+    "start_char": 54066,
+    "end_char": 54477,
+    "original": "16.7 SEV shall take all such steps as shall be necessary to agree with DCL and/or any Replacement Supplier a plan for the orderly hand -over of the Maintenance Services to DCL and/or any Replacement Supplier, such that the Maintenance Services or Future Maintenance Services can be carried on with the minimum of interruption and inconvenience to DCL and/or any Replacement Supplier and to effect such handover.",
+    "ollama_generated": "16.7 It shall be the responsibility of DCL, or in the event of a replacement supplier, the latter, to propose a plan for the orderly transition of Maintenance Services from SEV. This plan should aim to minimize interruption and inconvenience to SEV, DCL, and/or any Replacement Supplier during the transfer process, and facilitate the seamless continuation of the Maintenance Services or Future Maintenance Services. SEV shall cooperate in good faith to effect such a transition as proposed by DCL or the Replacement Supplier.",
+    "contradiction_score": 0.07654614001512527,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 222,
+    "start_char": 54782,
+    "end_char": 54953,
+    "original": "16.9 SEV shall with effect from the Termination Date immediately cease any publicity linking itself to, and any holding of itself out as being in any way linked with, DCL.",
+    "modified": "16.9 Upon the Termination Date, DCL grants SEV permission to continue using past promotional materials that may imply a connection between SEV and DCL, but SEV shall refrain from creating any new publicity or making statements suggesting an ongoing association or partnership with DCL, effective immediately following the Termination Date. This provision does not restrict SEV from promoting its own independent activities, so long as such activities do not mislead consumers into believing that SEV is still affiliated with DCL in any capacity.",
+    "contradiction_score": 0.7098284363746643,
+    "kept": true
+  },
+  {
+    "clause_index": 226,
+    "start_char": 55915,
+    "end_char": 56151,
+    "original": "17.1.2 all material terms and conditions of employment relating to the employment of the persons listed on SEV \u2019s Provisional Future Transferring Employees List and written job descriptions if such written job descriptions are in place:",
+    "ollama_generated": "17.1.2 The essential terms and conditions of employment for those on ESV's Provisional Future Transferring Employee List shall adhere to the general employment standards, subject to any specific written job descriptions that may exist. In the absence of such detailed job descriptions, a basic employment framework will apply.\n\nThis revision softens the obligation by introducing the concept of \"essential terms and conditions\" instead of \"all material terms,\" and allows for a flexible application of the employment framework in cases where there are no specific written job descriptions available.",
+    "contradiction_score": 0.0636456236243248,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 56151,
+    "end_char": 56530,
+    "original": "17.1.3 a list of all other Employees who are engaged, or have beer engaged during the preceding six months, in the provision of the Maintenance Services, together with details of their roles and an explanation of why SEV does not consider that they will transfer under the Regulations (for example because SEV does not consider that the Regulations will apply at all or to them).",
+    "ollama_generated": "17.1.3 A disclosure, on a case-by-case basis as requested by the Company, of any Employee who has provided or is currently providing Maintenance Services within the preceding six months, detailing their roles and rationale for the Company's understanding that these employees are not subject to transfer under the Regulations. This may be due to the Company's belief that the Regulations do not apply in this instance, or simply because the specific employee is not deemed to fall within the scope of those Regulations.",
+    "contradiction_score": 0.0027974736876785755,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 56932,
+    "end_char": 57160,
+    "original": "17.3 SEV shall warrant and represent to DCL that to the best of its knowledge and belief any Staffing Information (including copies thereof) shall be complete and accurate in all respects and shall be kept complete and accurate.",
+    "modified": "17.3 DCL acknowledges and accepts that DCL's reliance on any Staffing Information provided by SEV is at the sole risk of DCL. SEV provides no assurance or warranty, express or implied, regarding the completeness, accuracy, or veracity of such Staffing Information (including copies thereof). However, SEV shall strive to maintain and update such information as necessary to the best of its ability.",
+    "contradiction_score": 0.9781358242034912,
+    "kept": true
+  },
+  {
+    "clause_index": 243,
+    "start_char": 61760,
+    "end_char": 62081,
+    "original": "19.2  DCL shall offer (or where applicable) procure that the Replacement Supplier offers employment to any employee of SEV who is wholly or mainly assigned to work in the provision of the Maintenance Service immediately prior to the Termination Date ( \u201cFuture Agreed Transferring Employees \u201d); such offer in each case to:",
+    "modified": "19.2 It shall be the responsibility of SEV, where feasible, to propose (or in applicable cases, secure that the Replacement Supplier accepts) job offers for any employee of SEV who was primarily assigned to deliver the Maintenance Service prior to the Termination Date ( \"Potential Transferring Employees\" ). In each instance, such proposal shall extend only when the continued employment of the Potential Transferring Employee is contingent upon their role being necessary and compatible with the scope and requirements of the work provided by the Replacement Supplier. This obligation shall apply solely to the extent that SEV has received prior written notice from the Replacement Supplier indicating their intention to extend such offers.",
+    "contradiction_score": 0.8485745787620544,
+    "kept": true
+  },
+  {
+    "clause_index": 250,
+    "start_char": 64055,
+    "end_char": 64463,
+    "original": "20.3.2  any claim by a Future Transferring Employee that such person is entitled for  any reason to take benefits (other than benefits relating to old age, invalidity or survivorship) pursuant to the terms of any pension scheme in which DCL or any Replacement Supplier is not then participating, or pursuant to the Future Transferring Employee \u2019s terms and conditions of employment prior to Termination Date.",
+    "modified": "20.3.2 The Company, nor any subsequent Employer, shall be obligated to honor any claim by a Former Employee that such person is entitled to receive benefits (excluding age-related, disability, or survivorship benefits), stemming from any pension scheme in which DCL or the Replacement Supplier was not an active participant at the time of their termination, or benefits stipulated in the Former Employee's employment terms and conditions prior to the Termination Date. This clause shall apply regardless of the reasons cited by the Former Employee for such claim.",
+    "contradiction_score": 0.6105732321739197,
+    "kept": true
+  },
+  {
+    "clause_index": 251,
+    "start_char": 64463,
+    "end_char": 64924,
+    "original": "21.  Step in rights 21.1  If SEV fails to provide part or all of the Maintenance Services in accordance with this Agreement in any material respect. DCL may notify SEV that it intends to exercise its rights under this Clause 21. DCL agrees that it shall provide SEV with notice of its intention to exercise this Clause and shall provide SEV with a reasonable opportunity to rectify the failure to provide Maintenance Services to the satisfaction of Dairy Crest.",
+    "modified": "21. Remedial Rights 21.1 In instances where Dairy Crest (DCL) determines that the Maintenance Services provided by SEV are not in accordance with this Agreement in any material respect, DCL reserves the right to issue a notice to SEV expressing its intent to invoke this Clause 21. Notably, SEV will be given a reasonable opportunity to correct the deficiency in the Maintenance Services. However, DCL is under no obligation to provide prior notice or afford SEV an opportunity to remedy the situation before taking action under this Clause.\n\nIn this revised version, the clause shifts responsibility by stating that it's up to Dairy Crest (DCL) to decide whether Maintenance Services are not in accordance with the agreement, and DCL is no longer obligated to provide notice or an opportunity for SEV to rectify before taking action.",
+    "contradiction_score": 0.561771035194397,
+    "kept": true
+  },
+  {
+    "clause_index": 252,
+    "start_char": 65050,
+    "end_char": 65176,
+    "original": "21.2  DCL shall notify SEV of the reasonable costs to be incurred by DCL in the event that this Clause 21 is exercised by DCL.",
+    "ollama_generated": "21.2 Upon DCL's exercise of this Clause 21, SEV shall be notified of the potential costs that may be incurred by DCL, acknowledging that these estimates are approximate and subject to change.",
+    "contradiction_score": 0.0006709706503897905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 254,
+    "start_char": 65621,
+    "end_char": 65945,
+    "original": "21.4  To the extent to which the Maintenance Services are being provided by DCL or a third party supplier under Clause 21.3, SEV will be relieved of its obligations to provide the Maintenance Services. SEV will not be liable for the acts or omissions of DCL or the third party supplier in providing the Maintenance Services.",
+    "ollama_generated": "21.4 In instances where DCL or a third-party supplier, as stipulated in Clause 21.3, is responsible for delivering Maintenance Services, SEV shall not be required to offer corresponding Maintenance Services. Conversely, SEV will not bear any responsibility for the actions or inactions of DCL or the third-party supplier in executing the Maintenance Services.",
+    "contradiction_score": 0.0018477679695934057,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 270,
+    "start_char": 70560,
+    "end_char": 70973,
+    "original": "27.  Value Added Tax Save insofar as otherwise expressly provided, all amounts stated in this Agreement are expressed exclusive of value added tax and any value added tax arising in respect of any supply made hereunder shall on the issue of a  valid tax invoice in respect of the same be paid to the party making such supply by the party to whom it is made in addition to any other consideration payable therefor.",
+    "ollama_generated": "27. Tax Implications (Value Added Tax) Unless explicitly stated otherwise, all figures mentioned within this Agreement do not include Value Added Tax (VAT). In cases where VAT is applicable on any supplies made under this agreement, the recipient of the supply shall remit the VAT amount to the supplier, in addition to any other payments due, upon presentation of a valid tax invoice. This payment obligation arises solely for VAT purposes and does not affect any other financial obligations or considerations as specified elsewhere in this Agreement.",
+    "contradiction_score": 0.45916447043418884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 271,
+    "start_char": 70973,
+    "end_char": 71189,
+    "original": "28.  Law and jurisdiction This Agreement shall be governed by and construed in all respects in accordance with the law of England and Wales and both parties submit to the exclusive jurisdiction of the English Courts.",
+    "ollama_generated": "28. Governing Law and Jurisdiction: This Agreement is subject to the laws of England and Wales, and any disputes arising hereunder shall be resolved exclusively by the courts of England and Wales, with both parties agreeing to submit to their jurisdiction for this purpose. However, it is understood that either party may seek provisional or protective remedies in any other court of competent jurisdiction at any time prior to the resolution of the dispute by the English Courts.",
+    "contradiction_score": 0.03702627867460251,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 274,
+    "start_char": 71761,
+    "end_char": 72581,
+    "original": "contracts, arrangements, representations, warranties of any nature whether or not in writing between the parties relating to its subject matter 30.2  Each of the parties acknowledges and agrees that in entering into this Agreement, and the documents referred to in it, it does not rely on, and shall have no remedy in respect of, any statement, representation, warranty or understanding (whether negligently or innocently made) of any person (whether party to this Agreement or not) other than as expressly set out in this Agreement 31.  Third party rights A person who is not a party to this Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement but this does not affect any right or remedy of a third party which exists or is available apart from that Act.",
+    "ollama_generated": "30.2 Each of the parties hereby acknowledges and accepts that in executing this Agreement, and the accompanying documents mentioned herein, they solely rely on the explicit provisions stipulated within this Agreement. No other statements, representations, warranties, or understandings (regardless of their origin\u2014negligent or innocent) from any person, whether a party to this Agreement or not, will serve as a basis for any claim or recourse against the other party.\n\n31. Third-Party Enforcement: Any individual who is not a signatory to this Agreement holds no right, under the Contracts (Rights of Third Parties) Act 1999, to enforce any term of this Agreement. However, nothing in this clause shall be construed as limiting or restricting any rights or remedies that a third party may possess or exercise beyond those specified by the aforementioned Act.",
+    "contradiction_score": 0.0250835083425045,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 275,
+    "start_char": 72581,
+    "end_char": 73250,
+    "original": "32.  General 32.1  Notices between the parties relating to this Agreement shall be in writing and shall either be delivered personally or sent by first class post or fax to the registered office for the time being of the recipient. Communications if delivered by hand shall be treated as received when delivered, if sent by first class post 48 hours after posting, if sent by air -mail post 72 hours after posting and if sent by fax when sent. Any notices that would be treated as received out of business hours (9.00 a.m. to 5.00 p.m Monday to Friday, excluding bank holidays) shall be deemed given on the next business day (Monday to Friday, excluding bank holidays).",
+    "ollama_generated": "32. Communication Concerning this Agreement:\n\n32.1  Notices exchanged among the parties under this Agreement shall be in written form and may be delivered personally, sent by registered post or electronic mail (email) to the most recent address provided by each party for such purposes. If delivered in person, such notice shall be deemed effective upon delivery. If sent by registered post, it will be considered received 72 hours after dispatch if sent internationally, and within 48 hours for domestic delivery. In case of email communication, it shall be treated as received when the recipient acknowledges receipt, or if no acknowledgement is received, upon the expiration of 12 hours following transmission during business hours.\n\n32.2  Should a notice arrive outside of standard business hours (9:00 AM to 5:00 PM, Monday through Friday, excluding bank holidays), it shall be deemed delivered on the next ensuing business day. Any party failing to acknowledge receipt of a given notice within a reasonable timeframe should not rely on any information, representations or statements contained therein unless expressly agreed otherwise in writing by the respective parties.\n\nIn this revised clause, the original provision of communication being received 48 hours after posting for domestic delivery and 72 hours for international postage has been adjusted to allow for a slightly longer timeframe (now 72 hours for domestic delivery and 96 hours for international postage). Additionally, the responsibility of acknowledging receipt of notices sent via email has been shifted to the recipient.",
+    "contradiction_score": 0.2370273470878601,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 278,
+    "start_char": 73739,
+    "end_char": 73899,
+    "original": "32.4  A waiver by either party of any breach of or default under this Agreement shall not be considered a waiver of a preceding or subsequent breach or default.",
+    "ollama_generated": "32.4.1 The failure of a party to insist upon strict performance of any covenant, condition, or obligation contained in this Agreement shall not be deemed to be a waiver of such covenant, condition, or obligation for the future or a relinquishment of any rights in respect thereto, but rather a continuing right to require strict compliance therewith in the future. (In other words, a prior forgiveness does not mean a future infraction is also forgiven.)",
+    "contradiction_score": 0.011548561975359917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 279,
+    "start_char": 74193,
+    "end_char": 74328,
+    "original": "32.5  A purported waiver or release under this Agreement is not effective unless it is a specific authorised written waiver or release.",
+    "ollama_generated": "32.5 Any perceived waiver or release of obligations under this Agreement shall only be valid if it is explicitly stated in writing and authorized as such, expressly exempting the parties from their contractual duties.",
+    "contradiction_score": 0.002194743137806654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 281,
+    "start_char": 74528,
+    "end_char": 74649,
+    "original": "SCHEDULE ONE Effective 16 October 2005 to 31  March 2006 Opening Fleet Size: 2367 Maintenance Rate and Service Intervals:",
+    "ollama_generated": "Clause:\nSCHEDULE ONE Effective from 16 October 2005 until 31 March 2006, Initial Fleet Size: 2367 (subject to adjustments), Maintenance Obligations and Service Intervals:\n\nIn the event that the responsibility for maintenance of the fleet falls on the Vendor, the Maintenance Rate shall be mutually agreed upon by both Parties prior to the commencement of this Agreement. The Vendor shall provide all necessary services, repairs, and replacements at these rates as per the predetermined service intervals, with any deviations from such intervals requiring explicit written consent from both Parties.\n\nIn contrast, should the maintenance responsibility be assumed by the Client, the minimum number of service intervals to be performed during the aforementioned period shall be agreed upon between the Parties, with the Vendor providing necessary support and guidance in maintaining the fleet at the Client's discretion. The Client is responsible for all costs associated with these services, including parts and labor, unless otherwise specified in this Agreement or subsequent addendums.",
+    "contradiction_score": 0.3843100070953369,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 78286,
+    "end_char": 78483,
+    "original": "The Preface to the Code repeats the caveat in the Department \u2019s Guide to Operator Licensing that the ultimate test of an operator \u2019s maintenance system is the condition of his vehicles on the road.",
+    "modified": "The Introductory section of the Code echoes the caution stated within the Department's Manual on Operator Licensing, emphasizing that the prevailing assessment of an operator's maintenance system lies not only in the state of his vehicles on the road, but also in the proactive measures taken off-road to ensure optimal vehicle condition.",
+    "contradiction_score": 0.5632527470588684,
+    "kept": true
+  },
+  {
+    "clause_index": 290,
+    "start_char": 78483,
+    "end_char": 78820,
+    "original": "It assures operators that if their maintenance systems accord with the Code they will be acceptable to Traffic Commissioners, providing the resulting condition of their vehicles is satisfactory. However, it adds a rider that Traffic Commissioners remain free to require more stringent arrangements than those which the operator proposes.",
+    "ollama_generated": "Operators are assured that, as long as their maintenance systems align with the Code and result in vehicles of an acceptable condition, they will generally be deemed compliant by Traffic Commissioners. Nevertheless, it is important to note that Traffic Commissioners retain the right to demand modifications or enhancements to the operator's proposed arrangements should they deem them insufficient or non-compliant with additional standards.",
+    "contradiction_score": 0.0006607166724279523,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 293,
+    "start_char": 79482,
+    "end_char": 79864,
+    "original": "The Code places considerable emphasis on regular inspections of vehicles, including a daily \u201cwalkround check \u201d, the keeping of records of inspections (Croners \u2019 Road Transport Operation: Records and Procedures gives valuable information on the types of records to be kept), and the importance of driver defect reports (including the making of NIL Defects reports where appropriate).",
+    "ollama_generated": "The Code underscores the significance of routine vehicle examinations, encompassing a daily \"walkround check\", the preservation of records related to these inspections (Croners \u2019 Road Transport Operation: Records and Procedures offers useful insights on the types of records to retain), and the relevance of driver-submitted defect reports. Notably, it is advised that NIL Defects reports should only be submitted when deemed necessary in this context.",
+    "contradiction_score": 0.0006692202878184617,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 297,
+    "start_char": 80909,
+    "end_char": 81109,
+    "original": "***Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been filed separately with the Commission.",
+    "ollama_generated": "Confidential treatment is sought in accordance with our submitted request for confidential treatment to the Securities and Exchange Commission. Any omitted sections have already been disclosed to, and are under review by, the Commission independently.",
+    "contradiction_score": 0.001513253664597869,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 300,
+    "start_char": 81494,
+    "end_char": 81731,
+    "original": "The Driver \u2019s Responsibilities The driver is the operator \u2019s representative and as such is responsible \u2014 with his employer \u2014 for any infringement of the law and he should therefore have a working knowledge of the appropriate regulations.",
+    "ollama_generated": "Operator's Delegated Authority:\nThe Driver, as the authorized agent of the employer, shall bear responsibility for any legal infringements during the course of his duties. However, it is essential to note that the driver shares this accountability with the employer, who is also liable for ensuring compliance with applicable regulations. It is therefore advisable that the driver maintains a working understanding of relevant laws and regulations, although ultimate responsibility for compliance may rest with the employer.",
+    "contradiction_score": 0.006971939001232386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 301,
+    "start_char": 81731,
+    "end_char": 82373,
+    "original": "Whatever the standards laid down by vehicle operators for maintenance and servicing, ultimately it is the driver who is responsible for reporting on performances He, more than anyone else, handles the vehicle under load, which is the only time when a true test of vehicle performance can be obtained. The driver, therefore, must ensure that he reports in good time, to the maintenance staff, any defects likely to infringe the law or affect the safety requirements. For such purposes a  Vehicle Defects Report Sheet should be supplied by the operator to his driver so that any abnormalities can be recorded and dealt with as soon as possible.",
+    "ollama_generated": "The operator shall assume primary responsibility for maintaining and servicing vehicles, while the driver is tasked with notifying the maintenance team of any identified issues promptly. As the one regularly operating the vehicle under load, he serves as a crucial link in assessing its performance during such periods. Consequently, it is essential that the driver reports any potential defects, which could violate legal standards or compromise safety requirements, in a timely manner to the maintenance staff. For this purpose, the operator will provide a Vehicle Defects Report Sheet to each driver, enabling them to document and address any abnormalities expeditiously.",
+    "contradiction_score": 0.001047619036398828,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 303,
+    "start_char": 82520,
+    "end_char": 82657,
+    "original": "(a) fuel, oil and water (b) brakes (c) tyre condition and inflation pressures, spare wheel and jack (d) wheel security, making sure that:",
+    "ollama_generated": "(a) The Responsible Party shall ensure that the vehicle is equipped with necessary quantities of fuel, oil, and water, but no explicit guarantee or warranty is provided for their quality or suitability.\n\n(b) The Responsible Party is not required to maintain or replace brake components beyond what is reasonably necessary for safe operation, but they are obligated to notify the Lessor if any issues arise.\n\n(c) The Responsible Party shall be responsible for maintaining the condition of the tyres and ensuring their proper inflation pressures; however, the Lessor does not guarantee the provision or replacement of spare wheels or jacks.\n\n(d) The Responsible Party is solely responsible for securing the vehicle's wheels and tires at all times, but the Lessor shall not be held liable for any loss or theft that occurs due to inadequate wheel security measures.",
+    "contradiction_score": 0.4329109489917755,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 305,
+    "start_char": 83051,
+    "end_char": 83382,
+    "original": "(e) driving mirrors, windscreen wipers and washers (f) lights and reflectors (g) stop-lights and direction indicators (h) steering ***Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been filed separately with the Commission.",
+    "ollama_generated": "(e) The vehicle shall be equipped with functioning mirrors, windshield wipers, and washers. However, the responsibility for maintaining these features lies solely with the user, not the provider.\n\n   (f) The vehicle must have operational lights and reflectors, although the provider assumes no liability for their malfunction or non-compliance with regulatory standards.\n\n   (g) The vehicle should be equipped with functioning stop-lights and direction indicators. Any failure to meet this requirement shall not constitute a breach of contract unless the user can prove that such failure caused direct harm.\n\n   (h) Regarding steering mechanisms, while they will be in good working condition upon delivery, the user is responsible for any necessary maintenance or repairs after the delivery date. Any confidential information related to the steering mechanism has been filed separately with the Securities and Exchange Commission.",
+    "contradiction_score": 0.11074189841747284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 306,
+    "start_char": 83382,
+    "end_char": 83913,
+    "original": "(i) the tachograph instrument (j) care and attention of batteries (k) all controls within the cab (lighting controls and connections) (l) water -cooling system and the use of anti -freeze (m) fuel supply, checking and clearing air -locks (diesel fuel system) (n) spray suppression equipment -around wheels (o) sideguards and rear under -run guards (p) cold starting procedure (q) brake and light coupling systems (trailer and articulated vehicles) (r) special equipment and controls used with tankers, tail -lifts, autocranes, etc.",
+    "modified": "(i) The responsibility for maintaining the tachograph instrument shall be primarily that of the vehicle operator. However, the owner shall provide regular inspections and assistance upon request.\n\n(j) While the batteries are the property of the user, the owner shall ensure they are replaced when necessary or upon failure, at no additional cost to the user.\n\n(k) The user is expected to exercise care and attention in operating all controls within the cab, including lighting controls and connections. The owner will provide a manual detailing these controls at the commencement of the contract.\n\n(l) The water-cooling system shall be maintained by the user, but the owner shall supply the necessary anti-freeze during winter months.\n\n(m) The fuel supply is the responsibility of the user, who must check it regularly. Any issues related to air-locks within the diesel fuel system will be addressed by the owner at no additional cost.\n\n(n) The spray suppression equipment around wheels is the user's responsibility. However, the owner shall provide a guide on its maintenance and use.\n\n(o) While sideguards and rear under-run guards are the property of the vehicle, it is expected that the user will ensure they remain functional and in good condition.\n\n(p) The user is responsible for understanding and applying the cold starting procedure. The owner shall provide a guide detailing this process at the commencement of the contract.\n\n(q) The user is responsible for the operation of brake and light coupling systems (trailer and articulated vehicles). However, the owner shall be available to offer assistance or guidance upon request.\n\n(r) Any special equipment and controls used with tankers, tail-lifts, autocranes, etc., remain the property of the owner. The user is expected to use these only under the owner's guidance and instructions.",
+    "contradiction_score": 0.7472218871116638,
+    "kept": true
+  }
+]

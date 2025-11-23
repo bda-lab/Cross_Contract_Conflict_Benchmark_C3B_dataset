@@ -1,0 +1,72 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 214,
+    "end_char": 785,
+    "original": "Address: 12 Floor, HSBC Tower, Yinchun South Road, Tonglu County, Zhejiang Province Due to the need for logistics business, Party A and Party B enter into this Road Transportation Agreement (this \u201cAgreement\u201d), in which Party A pays the freight and Party B provides parcel transportation services to Party A. In accordance with relevant laws and regulations, Party A and Party B have sufficiently negotiated the specific matters and voluntarily reached the following Agreement based on equality, reciprocity and integrity. This Agreement is to be complied by both Parties.",
+    "ollama_generated": "Address: 12th Floor, HSBC Tower, Yinchun South Road, Tonglu County, Zhejiang Province\nIn the interest of facilitating logistics operations, this Road Transportation Agreement (hereinafter referred to as \"Agreement\") is entered into between Party A and Party B. It is expressly understood that Party A shall bear the freight costs while Party B will be responsible for providing parcel transportation services to Party A, subject to compliance with applicable laws and regulations. The specifics of this Agreement have been thoroughly discussed and agreed upon by both Parties in a spirit of mutual benefit, fairness, and honesty. While it is binding on both Parties, it is understood that should unforeseen circumstances arise, Party B may at its discretion modify or suspend the transportation services, provided that written notice is given to Party A in advance.",
+    "contradiction_score": 0.005375029984861612,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 798,
+    "end_char": 912,
+    "original": "1. Party B shall provide parcel transportation services on highway line-haul routes based on the needs of Party A.",
+    "ollama_generated": "1. Party A has the discretion to request parcel transportation services on highway line-haul routes, which Party B agrees to fulfill as circumstances permit and subject to their mutual availability.",
+    "contradiction_score": 0.005754102021455765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 912,
+    "end_char": 1064,
+    "original": "2. Period of transportation services: this Agreement is valid for an indefinite term. Subsequent contracts might be entered in case of special business.",
+    "ollama_generated": "2. Duration of Transportation Services: This Agreement shall remain in effect for an undetermined period, subject to the condition that either party may terminate it with a thirty-day written notice, unless otherwise specified in a subsequent agreement arising from exceptional business circumstances.",
+    "contradiction_score": 0.17405544221401215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1262,
+    "end_char": 1329,
+    "original": "(b) Party A shall not pay any other charges other than the freight.",
+    "ollama_generated": "(b) No additional costs or fees, beyond the freight charges, will be borne by Party A. Any such incidental charges are to be assumed by Party B.",
+    "contradiction_score": 0.0040691932663321495,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 1329,
+    "end_char": 1667,
+    "original": "(c) Clearance of freight: the clearance method is based on both Parties\u2019 fund clearance arrangement and the final clearance amount is subject to actual carriage amount and EX-warehouse (\u201c EXW\u201d) weight determined by Party A. Party B shall attach Party A\u2019s parcel EXW originals or copies for Party A\u2019s verification for clearance of freight.",
+    "ollama_generated": "(c) Freight Clearance Obligations: The chosen method of freight clearance is contingent upon the agreed financial arrangement between both Parties, with the ultimate clearance cost being dependent on the verified actual carriage amount and EX-warehouse (\"EXW\") weight ascertained by Party A. For this purpose, Party A shall provide Party B with either originals or copies of the relevant parcel EXW documents for verification to facilitate freight clearance. This responsibility for providing necessary documentation is now shifted from Party B to Party A to streamline the process and minimize potential delays.",
+    "contradiction_score": 0.07948178052902222,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 6084,
+    "end_char": 6539,
+    "original": "6. Party B shall purchase sufficient insurance for the transportation vehicles. The coverage of third-party liability insurance shall not be lower than RMB1 million. In addition to vehicle personnel insurance, Party B shall at least purchase injury insurance for two persons with coverage not lower than RMB500,000 per person. Party B shall bear any consequence arising out of the non-compliance of insurance purchase, and Party A shall have no liability.",
+    "ollama_generated": "6. Party A hereby acknowledges that it is incumbent upon Party B to procure suitable insurance coverage for the transportation vehicles, with a minimum third-party liability insurance coverage of RMB1 million. This minimum insurance coverage shall extend beyond vehicle personnel insurance, and include injury insurance for at least two persons, each with a policy limit of not less than RMB500,000. Party B assumes all risks associated with non-compliance in the purchase of the required insurance, and Party A shall be absolved from any liability that may arise therefrom.",
+    "contradiction_score": 0.1530059576034546,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 8986,
+    "end_char": 9033,
+    "original": "Company seal: /s/ Tonglu Tongze Logistics  Ltd.",
+    "ollama_generated": "Signature of the Authorized Representative: /s/ [Name of Authorized Representative], on behalf of Tonglu Tongze Logistics Ltd.\n\nThis modification shifts the responsibility for affixing the company seal from the Company itself to an authorized representative, providing a bit more flexibility and potential accountability in the signature process.",
+    "contradiction_score": 0.0006021337467245758,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

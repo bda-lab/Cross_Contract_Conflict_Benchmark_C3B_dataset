@@ -1,0 +1,492 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 896,
+    "end_char": 1120,
+    "original": "WHEREAS, Dynamic Hearing has developed technology useful for products in the Hearing Health (HH) Assisted Listening Device (ALD) and Professional Communications (PADA) markets and DSP platforms which are hereinafter defined.",
+    "modified": "WHEREAS, It is acknowledged that Innovative Sound Solutions holds proprietary technology beneficial for devices in the Hearing Health (HH) Assisted Listening Device (ALD) and Professional Communications (PADA) markets, as well as Digital Signal Processing (DSP) platforms which are hereinafter specified.\n\nThis revision slightly shifts the responsibility from Dynamic Hearing to Innovative Sound Solutions, acknowledging that they hold the proprietary technology instead.",
+    "contradiction_score": 0.7855873107910156,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1628,
+    "end_char": 2053,
+    "original": "An Assisted Listening Device ( \u201cALD\u201d) is a Hearing Aids are amplification devices primarily designed to compensate for hearing loss, designed for listening only (through a microphone, telecoil, Direct Audio Input or other similar audio pathways and run on a low power hybrid circuit. Hearing Aids may include in -the- ear Hearing Aids (ITE), behind -the-ear Hearing Aids (BTE), or completely -in-the-canal Hearing Aids (CIC).",
+    "ollama_generated": "An Audio Enhancement Device, hereafter referred to as an \"AED,\" encompasses a range of devices, including but not limited to Hearing Aids. Unlike traditional hearing aids that are solely focused on amplifying sound for individuals with hearing loss, these AEDs may also cater to individuals with normal hearing. An AED can function via various audio pathways such as a microphone, telecoil, Direct Audio Input, or similar input methods and may employ a low-power hybrid circuit. The types of AEDs can vary from In-the-Ear Devices (ITE), Behind-the-Ear Devices (BTE), to Completely-in-the-Canal Devices (CIC). It is essential to note that these AEDs are designed to enhance and improve the overall listening experience rather than strictly compensate for hearing loss.",
+    "contradiction_score": 0.011253505945205688,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2345,
+    "end_char": 2576,
+    "original": "Purpose Definitions Assisted Listening Devices One way communications device Used for hearing protection or listening in challenging environments, and Contains Ultra Low Power (ULP) DSP and or ULP Wireless technology Hearing Aids :",
+    "ollama_generated": "Purpose-Specific Definitions of Assisted Listening Devices: One-way Communication Equipment Designed for Noise Reduction or Amplification in Difficult Acoustic Conditions, Equipped with Ultra Low Power (ULP) Digital Signal Processing (DSP) and/or ULP Wireless Technology:\n\nExclusions from Hearing Aids:\n\n* These devices are not intended to replace hearing aids prescribed by a healthcare professional.\n* The user assumes full responsibility for the proper use of these devices, understanding that they may not provide the same level of amplification or noise reduction as prescription hearing aids.\n* The manufacturer does not guarantee the devices' compatibility with any specific third-party hardware or software, and accepts no liability for any issues arising from such incompatibility.\n* The user acknowledges that these devices are intended for temporary use in challenging listening environments and should not be relied upon as a permanent solution for hearing impairment.\n* Any misuse of the device, resulting in damage to the equipment or personal injury, is the sole responsibility of the user, and the manufacturer shall not be held liable.",
+    "contradiction_score": 0.3845411241054535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3122,
+    "end_char": 3161,
+    "original": "IntriCon Technology is that technology:",
+    "ollama_generated": "The Technology in question shall be solely attributed to IntriCon Technology, except in instances where the burden of proof demonstrates otherwise:\n\nThis modification shifts the responsibility from IntriCon Technology to another party for proving that the technology belongs to someone else.",
+    "contradiction_score": 0.02866121381521225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3179,
+    "end_char": 3225,
+    "original": "Dynamic Hearing Technology is that technology:",
+    "ollama_generated": "The term \"Dynamic Audio Advancements\" shall refer to such advancements:\n\n1. That are under constant development and improvement, and as such, may vary over time without prior notice. We make no guarantees for the consistency or continuity of these advancements.\n\n2. Whose application and utilization remain at the sole discretion of the user, relieving us of any responsibility or liability for their proper use or misuse.\n\n3. For which we assume no obligations to support or maintain, except as expressly stated in our agreement with you.\n\n4. That may include proprietary features and functionalities, whose ownership and control remain exclusively ours, without any rights granted to the user.\n\n5. In case of disputes related to these advancements, the interpretation and application of their functionality shall be governed by our sole discretion, not by any standards or industry practices.\n\n6. These advancements are provided \"as is\" and we disclaim all warranties, either express or implied, including but not limited to any warranties of merchantability or fitness for a particular purpose.\n\n7. In no event shall we be liable for any direct, indirect, incidental, special, consequential, or exemplary damages resulting from the use or inability to use these advancements. This limitation applies even if we have been advised of the possibility of such damages.\n\n8. The user agrees to indemnify and hold us harmless from any claims, damages, or expenses arising out of the user's misuse or unauthorized use of these advancements.",
+    "contradiction_score": 0.11430340260267258,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3638,
+    "end_char": 3944,
+    "original": "for which a patent(s) has been granted and all fees relating to the grant including any associated maintenance or annuity fees have been paid. A granted patent does not include pending applications including those pending applications which are associated with a granted patent through a claim of priority;",
+    "ollama_generated": "The patents in question, whether singular or plural, are yet to expire, ensuring that all applicable maintenance or annuity fees have been duly paid to maintain their validity. It's important to note that the term 'granted patent' excludes any pending applications, including those linked to a granted patent through priority claims; such applications have not yet matured into patents.",
+    "contradiction_score": 0.01610402576625347,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 4606,
+    "end_char": 4968,
+    "original": "Base Product means the DSP Technology including the ON Semiconductor Ezairo or SCHA chips, the EEPROM and the firmware loaded onto the EEPROM and the minimum printed circuit board package necessary to connect and house these items. The Base Product does not include additional PCB or flex circuits necessary to connect to other components of an Enhanced Product.",
+    "ollama_generated": "\"Enhanced Component refers to any component beyond the Basic Product, such as additional Printed Circuit Boards (PCB) or flex circuits, required for connecting the DSP Technology, including ON Semiconductor Ezairo or SCHA chips, the EEPROM, and the firmware loaded onto the EEPROM. However, it is clarified that the Basic Product includes only the minimum printed circuit board package necessary to connect and house these essential items.\"\n\nThis revised clause inverts the condition from the original, making it clear that additional PCB or flex circuits are components of an Enhanced Product, rather than elements excluded from the Base Product.",
+    "contradiction_score": 0.41880932450294495,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 6721,
+    "end_char": 6836,
+    "original": "a reference to a person, corporation, trust, partnership, unincorporated body or other entity includes any of them;",
+    "ollama_generated": "A reference to a person, corporation, trust, partnership, unincorporated body, or other entity encompasses not only that entity but also any legal successor or representative acting on its behalf.",
+    "contradiction_score": 0.0009345816215500236,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 8582,
+    "end_char": 8790,
+    "original": "a reference to legislation or to a provision of legislation includes a modification or re -enactment of it, a legislative provision substituted for it and a regulation or statutory instrument issued under it;",
+    "ollama_generated": "A reference to legislation or any specific provision therein encompasses subsequent amendments, replacements, or modifications made to the original legislation. It also includes any regulations, decrees, or statutory instruments that may have been issued under the modified or replaced provisions of the said legislation.",
+    "contradiction_score": 0.0011728366371244192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 8941,
+    "end_char": 9105,
+    "original": "the term Related Body Corporate  has the meaning given in the Corporations Act 2001  (C\u2019th); and is disclosed to the other party by or on behalf of the first party;",
+    "ollama_generated": "The term \"Related Body Corporate\" shall be construed as per the definition provided in the Corporations Act 2001 (C'th). However, it is the responsibility of the other party to confirm and clarify any doubts regarding this term, if any, at their own discretion.",
+    "contradiction_score": 0.003609938081353903,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 9667,
+    "end_char": 9854,
+    "original": "For purposes of computing Royalty Payments, a sale shall occur when IntriCon receives payment from a customer for a Base Product Unit., or an Enhanced Product  containing a Base Product ;",
+    "ollama_generated": "For the purpose of determining Royalty Payments, a sale shall be deemed effective upon receipt by IntriCon of payment from a customer, regardless of whether such payment is for a standalone Base Product Unit or an Enhanced Product incorporating a Base Product. However, it is the responsibility of the party claiming entitlement to royalties to provide evidence demonstrating that the product in question falls within this definition.",
+    "contradiction_score": 0.21334069967269897,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 9865,
+    "end_char": 9959,
+    "original": "Services  means technology transfer and other support provided to IntriCon by Dynamic Hearing;",
+    "modified": "Services shall be defined as the assistance and resources extended by Dynamic Hearing towards IntriCon, which may or may not include technology transfer.",
+    "contradiction_score": 0.6626274585723877,
+    "kept": true
+  },
+  {
+    "clause_index": 55,
+    "start_char": 12117,
+    "end_char": 12299,
+    "original": "License Grant 3.5 IntriCon acknowledges that Dynamic Hearing \u2019s rights to license technology and software to companies manufacturing implantable devices is not restricted in any way.",
+    "modified": "License Grant 3.5: It is acknowledged by IntriCon that the licensing rights held by Dynamic Hearing, pertaining to the distribution of technology and software for use by companies producing implantable devices, may be subject to certain limitations or restrictions at the sole discretion of Dynamic Hearing.",
+    "contradiction_score": 0.8525938987731934,
+    "kept": true
+  },
+  {
+    "clause_index": 57,
+    "start_char": 12508,
+    "end_char": 12777,
+    "original": "3.6 No further design support will be given to Sound Design Technologies, Ltd (hereinafter Sound Design) which includes the recent purchase of Gennum Corporation \u2019s hearing instrument business after 30 October 2009, if all conditions of IntriCon \u2019s exclusivity are met.",
+    "ollama_generated": "3.6 Commencing from 30 October 2009, Sound Design Technologies, Ltd (hereafter referred to as Sound Design) shall not expect or demand further design support from IntriCon Corporation (the \"Company\"), even in relation to the acquisition of Gennum Corporation's hearing instrument business, unless and until the Company has breached any conditions stipulated within its exclusivity agreement.",
+    "contradiction_score": 0.014047753065824509,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 13435,
+    "end_char": 13682,
+    "original": "3.8 Commencing on October 1, 2008, and continuing for so long as IntriCon continues to make minimum payments as defined in 4.3, Dynamic Hearing agrees that it will not license any Dynamic Hearing Technology for Hearing Aids, subject to Clause 3.5.",
+    "modified": "3.8 Effective immediately and ceasing only upon termination of the minimum payment obligations as detailed in Section 4.3, Dynamic Hearing is granted the discretionary right, but not the binding obligation, to license any Dynamic Hearing Technology for Hearing Aids, contingent on Clause 3.5 stipulations. This permission may be revoked by IntriCon at its sole discretion if minimum payments are no longer made in accordance with Section 4.3.",
+    "contradiction_score": 0.893551230430603,
+    "kept": true
+  },
+  {
+    "clause_index": 60,
+    "start_char": 13682,
+    "end_char": 14019,
+    "original": "3.9 If any Identified Party, (with the exception of Sound Design) purchases DSP product sold or made by IntriCon with Dynamic Hearing\u2019s Hearing Aid Designer\u2122 software and requests assistance to achieve HIMPP compliance for products using such DSP chips, IntriCon will use its best efforts to comply with the request for HIMPP compliance.",
+    "ollama_generated": "3.9 In the event that any Identified Party (excluding Sound Design), acquires a DSP product manufactured or supplied by IntriCon, which incorporates Dynamic Hearing\u2019s Hearing Aid Designer\u2122 software, and expresses a need for assistance in achieving HIMPP compliance for products utilizing such DSP chips, it shall be at the discretion of IntriCon to provide any necessary support, with no binding obligation to fulfill this request. However, IntriCon will strive to accommodate such requests to the extent practicable and feasible within its resources and capabilities.",
+    "contradiction_score": 0.0022334347013384104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 15313,
+    "end_char": 16133,
+    "original": "3.12 Dynamic Hearing may continue indefinitely selling products and services to new customers using the ON Semiconductor DSP hybrid chip. For the absence of doubt, the Exclusivity grant of 3.2 does not restrict Dynamic Hearing from licensing Dynamic Hearing Technology and DSP Software on any ON Semiconductor platform, purchased by a third party or by Dynamic Hearing, from IntriCon. With the exception of the Identified Parties, Dynamic Hearing agrees that it will not sell the Dynamic Hearing DSP Software for Hearing Aids configured to run on any hardware other than that provided by ON Semiconductor, except in circumstances as described in this Agreement. Dynamic Hearing may continue to sell products and services to non -Hearing Aid Customers using the ON Semiconductor DSP hybrid chips including the Bela Signa.",
+    "ollama_generated": "3.12 Granted indefinitely, Dynamic Hearing is permitted to persist in supplying products and services to new clients, leveraging the ON Semiconductor DSP hybrid chip. To eliminate any ambiguity, the Exclusivity provision outlined in clause 3.2 does not impede Dynamic Hearing from granting licenses for Dynamic Hearing Technology and DSP Software on any ON Semiconductor platform, whether procured by a third party or by Dynamic Hearing, directly from IntriCon. Beyond the stipulated parties, Dynamic Hearing acknowledges its commitment to refrain from selling the Dynamic Hearing DSP Software for hearing aid configurations running on hardware other than that supplied by ON Semiconductor, unless explicitly outlined in this Agreement. However, it is permissible for Dynamic Hearing to continue supplying products and services to non-hearing aid customers utilizing the ON Semiconductor DSP hybrid chips, including the Bela Signa.",
+    "contradiction_score": 0.018993422389030457,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 19822,
+    "end_char": 20068,
+    "original": "Any amounts due from per unit royalties and fees for services that exceed the value of the corresponding quarterly payment of the Second Component, net of any carried forward credit, will be paid within 30 days of the end of that royalty quarter.",
+    "ollama_generated": "Any excess of royalties or service fees per unit, beyond the value of the Second Component's corresponding quarterly payment (after deducting any existing credits), must be settled within 30 days following the close of the relevant royalty quarter, but without obligation to make such payment if the accumulated excess does not reach a minimum threshold of $1,000.",
+    "contradiction_score": 0.01916203275322914,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 27005,
+    "end_char": 27116,
+    "original": "Each party must bear its own costs arising out of the negotiation, preparation and execution of this Agreement.",
+    "ollama_generated": "The parties shall individually shoulder any expenses incurred during the process of negotiation, drafting, and finalization of this Agreement, with no obligation or expectation for reimbursement from the other party.",
+    "contradiction_score": 0.0008570891222916543,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 27233,
+    "end_char": 27620,
+    "original": "Reports Records and Audit 6.2 IntriCon must make all such records available for inspection, copying and audit by an independent auditor appointed by Dynamic Hearing (and to which IntriCon has no reasonable objection) during ordinary business hours at any time during the Term  and for a period of one year following the expiration or earlier termination of this Agreement, provided that:",
+    "ollama_generated": "Reporting, Recordkeeping, and Audit 6.2: Upon Dynamic Hearing's request, which IntriCon finds reasonable, an independent auditor appointed by Dynamic Hearing shall be granted access to review, copy, and audit all relevant records during the Term and for a one-year period following the termination or expiration of this Agreement. This right shall extend only to business hours that are mutually convenient for both parties. The obligation to provide such access shall not apply if it significantly interferes with IntriCon's normal operations or violates any applicable law, regulation, or confidentiality agreement.",
+    "contradiction_score": 0.0064100963063538074,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 28195,
+    "end_char": 28297,
+    "original": "such inspection, copying or audit must only be made after at least one Business Day \u2019s written notice;",
+    "modified": "Inspections, copying, or audits may occur without prior written notice, but such actions shall be undertaken promptly following a reasonable period of no less than one Business Day.",
+    "contradiction_score": 0.8736761808395386,
+    "kept": true
+  },
+  {
+    "clause_index": 103,
+    "start_char": 29157,
+    "end_char": 29405,
+    "original": "ensure that its employees and officers comply with this Agreement; and not reproduce or record, or permit or cause any reproduction or recording of, any Confidential Information  except to the extent reasonably necessary for the Permitted Purpose .",
+    "ollama_generated": "Oblige that your employees and representatives act in accordance with this Agreement; however, you may replicate or document, or tolerate such replication or documentation, of the Confidential Information only when deemed essential for the Execution of the Permitted Purpose. This modification allows a slight relaxation in the obligation to prevent reproduction or recording, while still maintaining the essence of the original clause.",
+    "contradiction_score": 0.0067669302225112915,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 29896,
+    "end_char": 29972,
+    "original": "8.2 IntriCon must notify Dynamic Hearing immediately upon becoming aware of:",
+    "ollama_generated": "8.2 It is the sole responsibility of Dynamic Hearing to promptly inform IntriCon should any knowledge or suspicion of the following arise:\n\n[Dynamic Hearing shall be required to notify IntriCon without delay once they become cognizant of or suspect the occurrence of:]\n\n[The clause now shifts the obligation from IntriCon to Dynamic Hearing, requiring them to inform IntriCon rather than the other way around.]",
+    "contradiction_score": 0.47275057435035706,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 29972,
+    "end_char": 30144,
+    "original": "the information has become generally available to the public other than because of a breach of this Agreement, or any obligation of confidence owed to the disclosing party;",
+    "modified": "The information may be disclosed publicly without breaching this Agreement, or any confidentiality obligations owed to the disclosing party, provided that such disclosure was not initiated by the parties bound by this Agreement.",
+    "contradiction_score": 0.8621963858604431,
+    "kept": true
+  },
+  {
+    "clause_index": 109,
+    "start_char": 30751,
+    "end_char": 30902,
+    "original": "immediately notify the other party giving full details of the circumstances of the proposed disclosure and of the relevant information to be disclosed;",
+    "modified": "Upon reasonable notice, provide a summary of the situation leading to the potential disclosure and an outline of the pertinent information to be shared, without any obligation for exhaustive detail.",
+    "contradiction_score": 0.9700050950050354,
+    "kept": true
+  },
+  {
+    "clause_index": 112,
+    "start_char": 31208,
+    "end_char": 31557,
+    "original": "Maintenance, Infringement and Third Party Proceedings provide all reasonable assistance to Dynamic Hearing in any action which Dynamic Hearing may take in relation to any such matters; and not take any action in relation to any such matters without the prior written consent of Dynamic Hearing, to be given at Dynamic Hearing \u2019s absolute discretion.",
+    "ollama_generated": "In regards to Maintenance, Infringement, and Third Party Proceedings, Responsible Party shall have the option to consult with Dynamic Hearing before taking any action pertaining to such matters; however, Dynamic Hearing shall not be held liable for any actions taken by the Responsible Party without prior consultation. Furthermore, the Responsible Party is only obligated to provide assistance to Dynamic Hearing in any action relating to these matters at their own discretion and convenience, with no obligation to provide such assistance if they deem it unnecessary or impractical.",
+    "contradiction_score": 0.45671531558036804,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 35318,
+    "end_char": 35678,
+    "original": "any infringement of third party rights that arise out of the exercise of the rights licensed under this Agreement; or any breach of this Agreement by Dynamic Hearing or its Related Bodies Corporate  and their respective directors, officers, employees and agents or any unlawful or negligent act or omission of any of them but subject to the provisions of 10.3.",
+    "ollama_generated": "Any claims arising from third-party rights infringements resulting from the exercise of licensed rights under this Agreement, or any violations of this Agreement by Dynamic Hearing, its Affiliates, and their respective officials, staff, or representatives, as well as any illegal or negligent actions or omissions attributed to them, shall not automatically release the other parties from their obligations, unless explicitly stipulated in Clause 10.3.",
+    "contradiction_score": 0.4563915431499481,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 35857,
+    "end_char": 36271,
+    "original": "Dynamic Hearing is not liable in any way to IntriCon for any indirect, consequential, third party, special or incidental harm, liability, expense, cost, loss or damage, loss of profits, loss of data, exemplary damages or any other indirect commercial or economic loss of any kind whatsoever incurred by IntriCon whether in negligence, tort, equity, contract or otherwise, arising in connection with this Agreement;",
+    "ollama_generated": "Under no circumstances shall IntriCon hold Dynamic Hearing responsible for any direct, immediate, or foreseeable damages, liabilities, expenses, costs, losses, or claims (including, but not limited to, loss of profits, loss of data, exemplary damages), whether based in negligence, tort, equity, contract, or otherwise. This exemption extends to all forms of indirect, consequential, third-party, special, incidental, commercial, or economic losses that IntriCon may suffer as a result of this Agreement.",
+    "contradiction_score": 0.010606343857944012,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 36271,
+    "end_char": 36692,
+    "original": "IntriCon is not liable in any way to Dynamic Hearing for any indirect, consequential, third party, special or incidental harm, liability, expense, cost, loss or damage, loss of profits, loss of data, exemplary damages or any other indirect commercial or economic loss of any kind whatsoever incurred by Dynamic Hearing whether in negligence, tort, equity, contract or otherwise, arising in connection with this Agreement;",
+    "ollama_generated": "Under no circumstances shall Dynamic Hearing hold IntriCon responsible for any direct or indirect damages, including consequential, third-party, special, incidental, or exemplary losses. This exemption encompasses losses such as loss of profits, data, and any other economic or commercial damages of a kind not specified herein, arising from this Agreement due to negligence, tort, equity, contract, or otherwise. It is essential to note that this limitation applies regardless of the form of action, whether it be in law, equity, or otherwise.",
+    "contradiction_score": 0.12253054976463318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 37050,
+    "end_char": 37311,
+    "original": "if any legislation implies in this Agreement any term or warranty which cannot be excluded or modified, the liability of Dynamic Hearing for a breach of any such term or warranty is limited, at the option of Dynamic Hearing, to any one or more of the following:",
+    "ollama_generated": "Should any legislation deem necessary to include within this Agreement any terms or warranties that cannot be waived or amended, Dynamic Hearing's liability for a breach of such terms or warranties shall, at Dynamic Hearing's sole discretion, be limited to the following options:\n\n1. The remedy of repair or replacement of the goods or services in question;\n2. The refund of the price paid for the goods or services;\n3. The payment of damages; or\n4. Any other remedy permitted by law.",
+    "contradiction_score": 0.0012665705289691687,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 38373,
+    "end_char": 38686,
+    "original": "Termination the other party breaches a material term of this Agreement (unless the breach is capable of remedy, in which case if the other party fails to remedy the breach within 30 days after being required by written notice to do so) enters into any form of insolvency or administration including the following:",
+    "ollama_generated": "This Agreement may be terminated immediately without prior notice, at the sole discretion of either party, if one party substantially breaches a core provision (however, if such breach is capable of being remedied, the non-breaching party shall provide written notice specifying the nature and extent of the breach and allow the breaching party 30 days to remedy the same; failure to do so shall be deemed an acceptance of termination). Furthermore, either party may terminate this Agreement if the other party undergoes any form of insolvency or administration proceedings, including, but not limited to:\n\n1. Bankruptcy.\n2. Liquidation.\n3. Receivership.\n4. Administration (as defined in the relevant laws governing such proceedings).\n5. Any similar process whereby a third party takes control of the affairs, property or business of the other party under applicable law.",
+    "contradiction_score": 0.05037623643875122,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 39793,
+    "end_char": 39870,
+    "original": "enters into any form of insolvency or administration including the following:",
+    "ollama_generated": "shall not be deemed to have breached this agreement if it is unable to meet its obligations due to circumstances leading to any form of insolvency or administration, including but not limited to:\n\nThis wording provides a level of protection for the party involved by stating that they will not be considered in breach of contract if they are unable to fulfill their obligations as a result of insolvency or administration. This shift in responsibility is more favorable to the party and reflects a weaker obligation compared to the original clause.",
+    "contradiction_score": 0.0017106274608522654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 40739,
+    "end_char": 40831,
+    "original": "any rights or remedies of the parties which may have accrued before the date of termination;",
+    "ollama_generated": "Any previously accrued rights or remedies of the parties, prior to the effective date of termination, shall not be affected by such termination and shall remain available for exercise.\n\nThis revised clause maintains a similar meaning but implies that the parties can still utilize their previous rights or remedies despite the termination, making it less restrictive than the original.",
+    "contradiction_score": 0.0035836019087582827,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 40988,
+    "end_char": 41081,
+    "original": "Upon the effective date of expiry or termination of this Agreement for any reason whatsoever:",
+    "ollama_generated": "Upon the occurrence of either the expiration or termination of this Agreement for any cause whatsoever:\n\nIn this revised clause, I've made a subtle change to emphasize that the event (expiry or termination) can be initiated by either party, not just one specific instance. This minor alteration could imply a slightly more flexible termination process, depending on the context and intent of the original agreement.",
+    "contradiction_score": 0.003331123385578394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 41757,
+    "end_char": 41930,
+    "original": "11.9 Nothing in this clause 11.0 is intended to prevent end -users of Products continuing to use the Products or to require such end -users to return or destroy any Product.",
+    "ollama_generated": "11.9 The provisions within clause 11.0 are not intended to obstruct users from persistently employing the Products. Moreover, no obligation is imposed on such users to relinquish or dispose of any Product following the execution of this agreement.",
+    "contradiction_score": 0.0007869433029554784,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 43107,
+    "end_char": 43342,
+    "original": "IntriCon is not obligated to pay any royalties, Minimum Payments or technology Access Fee after termination of this agreement if IntriCon stops selling Base Product Units, and/or Basic Product Units incorporated into Enhanced Products.",
+    "ollama_generated": "This Agreement does not impose upon IntriCon the duty to make any payments for royalties, Minimum Payments, or technology Access Fees following its termination, provided that should IntriCon choose to cease manufacturing and distributing both Base Product Units and Basic Product Units, as incorporated into Enhanced Products, any such cessation shall not trigger this obligation.",
+    "contradiction_score": 0.023941177874803543,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 43681,
+    "end_char": 43864,
+    "original": "on IntriCon \u2019s request, Dynamic Hearing must procure one of its directors to certify  (by way of statutory declaration) that it has complied with its obligations under clause 11.7(a).",
+    "ollama_generated": "Upon Dynamic Hearing's written request, IntriCon shall have the option, but not the obligation, for one of its authorized representatives to verify (by way of statutory declaration) that Dynamic Hearing has met its obligations under clause 11.7(a). This verification is subject to the discretion and convenience of IntriCon, and failure to provide such verification shall not constitute a breach of contract by Dynamic Hearing.",
+    "contradiction_score": 0.0830761268734932,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 44104,
+    "end_char": 44206,
+    "original": "12.1 Any notice, demand, consent or other communication ( Notice ) given or made under this Agreement:",
+    "ollama_generated": "12.1 In the event of any notice, demand, consent, or other communication (Communication) required under this Agreement, it shall be incumbent upon the recipient to actively seek and obtain such Communication, rather than being passively notified by the provider. Any failure to do so shall not release the recipient from their obligations herein unless explicitly agreed otherwise in writing.",
+    "contradiction_score": 0.03904017060995102,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 44206,
+    "end_char": 44425,
+    "original": "12.2 This Agreement contains the entire agreement between the parties with respect to its subject matter and supersedes all prior agreements and understandings between the parties in connection with such subject matter.",
+    "modified": "12.2 Any previous oral or written agreements, representations, or understandings related to the subject matter of this Agreement are explicitly deemed obsolete and non-binding. This document serves as a mere representation of the current understanding between the parties, and it does not preclude either party from making future agreements that are supplementary or modifying this Agreement with mutual consent.",
+    "contradiction_score": 0.5722511410713196,
+    "kept": true
+  },
+  {
+    "clause_index": 164,
+    "start_char": 45171,
+    "end_char": 45300,
+    "original": "President 1260 Red Fox Road Arden Hills, Minnesota 55112 United States Fax: +651 636 9503 will be taken to be duly given or made:",
+    "ollama_generated": "The receipt of any document, notice, instruction, or communication sent to President 1260 Red Fox Road Arden Hills, Minnesota 55112 United States, whether by fax at +651 636 9503, email, or regular mail, will be deemed as validly provided or made:\n\nIn this revised clause, the sender of the document or communication bears the responsibility for ensuring delivery, and the President is not explicitly required to receive the communication via fax. This slight change in language shifts the onus of confirmation of receipt from the recipient (President) to the sender.",
+    "contradiction_score": 0.0705951377749443,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 46213,
+    "end_char": 46465,
+    "original": "12.4 Any provision of this Agreement which is unenforceable or partly unenforceable is, where possible, to be severed to the extent necessary to make this Agreement enforceable, unless this would materially change the intended effect of this Agreement.",
+    "ollama_generated": "12.4 In the event that any provision of this Agreement becomes wholly or partially unenforceable, the parties shall endeavor to revise such provision in a manner that preserves the original intent and purpose of the Agreement, while ensuring its continued enforceability, if possible. However, should any such revision prove impractical or significantly alter the essence of the Agreement, then the unenforceable portion may be omitted without affecting the validity or enforceability of the remaining provisions.",
+    "contradiction_score": 0.2722388505935669,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 174,
+    "start_char": 47622,
+    "end_char": 47651,
+    "original": "Elaine Saunders Printed Name:",
+    "ollama_generated": "Elaine Saunders Printed Initials (ESI):\n\nUpon the execution of this Agreement, the undersigned hereby acknowledges and agrees that:\n\nIn the event of any dispute arising out of or in connection with this Agreement, the parties shall first endeavor to resolve such dispute amicably through good-faith negotiations. If these efforts fail, the party initiating the claim retains the right to institute legal proceedings against the other party. However, it is expressly understood that each party is solely responsible for its own legal fees and costs associated with any such litigation, unless otherwise provided in this Agreement or mandated by law.\n\nIn essence, Elaine Saunders (ES) acknowledges that she will attempt to resolve disputes through amicable negotiations prior to initiating legal action, but each party shall bear their own legal fees and costs related to any subsequent litigation, unless otherwise specified in this Agreement or required by law.",
+    "contradiction_score": 0.0032134021166712046,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 48785,
+    "end_char": 49121,
+    "original": "Adaptive Directional Microphone Technology  means the  technology that is the subject of Australian Patent Application 2004310722 entitled \u201cAdaptive Directional Systems. \u201d Fixed Directional Microphone Technology  means digital signal processing technology that implements a preferential fixed response to sound from a forward direction.",
+    "ollama_generated": "In this agreement, \"Adaptive Directional Microphone Technology\" refers to the technology encompassed by Australian Patent Application 2004310722, titled \"Adaptive Directional Systems\". Conversely, \"Fixed Directional Microphone Technology\" denotes digital signal processing methods that inherently respond preferentially to sounds originating from any specified direction, but may adapt or adjust over time.\n\nThis revision emphasizes the adaptability of Adaptive Directional Microphone Technology, while subtly implying a potential flexibility in Fixed Directional Microphone Technology's response patterns over time.",
+    "contradiction_score": 0.056317128241062164,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 49456,
+    "end_char": 49657,
+    "original": "Single -channel Noise Reduction Technology  means digital signal processing technology that reduces the output signal level by an amount related to the internal noise level in multiple frequency bands.",
+    "modified": "Single-channel Adaptive Noise Enhancement Technology refers to advanced digital signal processing techniques designed to amplify the output signal, particularly in relation to background noise levels, with adjustments made across various frequency ranges.",
+    "contradiction_score": 0.9951767921447754,
+    "kept": true
+  },
+  {
+    "clause_index": 194,
+    "start_char": 51036,
+    "end_char": 51202,
+    "original": "Dynamic Display  is a feature that allows parameters of each DSP module to be accessed and displayed in real time without interrupting normal operation of the device.",
+    "ollama_generated": "Real-Time Monitoring Functionality refers to an integrated system that enables users to view and adjust the settings of individual DSP modules on their devices, all while maintaining continuous operation without interruption or delay. However, please note that while every effort is made to ensure seamless functionality, minor disruptions may occur during the adjustment process due to the nature of real-time updates and device performance factors beyond our control.",
+    "contradiction_score": 0.05306689441204071,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 199,
+    "start_char": 52228,
+    "end_char": 52381,
+    "original": "Unless expressly specified in this Exhibit, Dynamic Hearing will have no obligation to provide updates or revisions to, or new versions of, any software.",
+    "ollama_generated": "In the absence of specific instructions outlined within this Exhibit, the party, Dynamic Hearing, shall not be obligated to offer enhancements, modifications, or fresh editions pertaining to the software, unless otherwise agreed upon in writing.",
+    "contradiction_score": 0.0012370310723781586,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 200,
+    "start_char": 52548,
+    "end_char": 52631,
+    "original": "(Collectively, the above software is known as the Hearing Aid Designer SoftwareTM).",
+    "ollama_generated": "(Herein, the designated software collectively shall be recognized as the Hearing Aid Designer SoftwareTM.)\n\nThis subtle change in wording slightly alters the emphasis of the original clause. Instead of stating that the software is known as such, it now acknowledges that the software will be recognized as such, implying a shift in responsibility or perception towards its recognition from the parties involved.",
+    "contradiction_score": 0.0029948812443763018,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 201,
+    "start_char": 52631,
+    "end_char": 52721,
+    "original": "Applications Software Platform The Applications Software Platform for Library Software is:",
+    "modified": "The Library Software shall operate upon the Applications Software Platform, which shall be:\n\nThis revision inverts the condition, making the Library Software the subject that operates on the Applications Software Platform, instead of vice versa.",
+    "contradiction_score": 0.5688098073005676,
+    "kept": true
+  },
+  {
+    "clause_index": 202,
+    "start_char": 52721,
+    "end_char": 52883,
+    "original": "Windows 2000, Windows XP, or Windows Vista operating system running on a Personal Computer connected to the Hearing Aid via a HiPro, or NOAHLink interface device.",
+    "ollama_generated": "The following systems are compatible with our Hearing Aid for optimal functionality:\n\n1. Windows 2000, Windows XP, or Windows Vista operating system running on a Personal Computer, subject to successful connection via a HiPro, or NOAHLink interface device (please note that while we strive for compatibility across all systems, there may be instances where the Hearing Aid does not function optimally).\n\nIn this version of the clause, I've added a disclaimer acknowledging potential compatibility issues and shifted the responsibility slightly towards the user by stating that the hearing aid \"may not\" function optimally.",
+    "contradiction_score": 0.014834992587566376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 203,
+    "start_char": 52883,
+    "end_char": 53030,
+    "original": "EXHIBIT C Dynamic Hearing \u2019s Identified Customers GN RESOUND GROUP and INTERTON ELECTRONIC H\u00d6RGER\u00c4TE GMBH Existing License Agreement RION CO.  LTD.",
+    "ollama_generated": "Clause:\nExhibit C Specified Clients of Dynamic Hearing, namely GN RESOUND GROUP and INTERTON ELECTRONIC H\u00d6RGER\u00c4TE GMBH, with Reference to the Existing License Agreement held between them and RION CO. LTD.\n\nIn this revised clause, the focus is shifted from a direct reference to \"Existing License Agreement of RION CO. LTD.\" to \"the Existing License Agreement held between [GN RESOUND GROUP and INTERTON ELECTRONIC H\u00d6RGER\u00c4TE GMBH] and [RION CO. LTD.]\". This subtle change suggests a more collaborative relationship among the parties involved, rather than primarily associating RION CO. LTD. with the agreement.",
+    "contradiction_score": 0.016605358570814133,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

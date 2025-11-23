@@ -1,0 +1,22 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 1551,
+    "end_char": 1917,
+    "original": "[SPECIFY TIME AND MATERIALS RATES ([Indicate any \u201cnot to exceed\u201d limit on T&M Customization costs) OR FIXED PRICE] If the proposed price Is Increased by Supplier upon delivery to Bank of America of detailed specifications or at any other time hereafter, Bank of America may terminate this Schedule and shall receive a refund of all amounts previously paid hereunder.",
+    "ollama_generated": "[SPECIFY TIME AND MATERIALS RATES ([Indicate any \u201cnot to exceed\u201d limit on T&M Customization costs) OR FIXED PRICE] In the event that Bank of America incurs additional charges due to an increase in the Supplier's prices, subsequent to the delivery of detailed specifications or at any point hereafter, Bank of America retains the right to continue with this Schedule. Any such excess payments made by Bank of America shall be offset against future payments due to the Supplier under this agreement.\n\nThis modification places the burden on the Bank of America to decide whether to terminate the contract upon an increase in supplier's prices, but also allows them to recoup any overpaid amounts through offsetting future payments, effectively mitigating their financial exposure in the event of price increases.",
+    "contradiction_score": 0.00810561329126358,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 2396,
+    "end_char": 2468,
+    "original": "Bank of America Project Administrator:   Supplier Project Administrator:",
+    "ollama_generated": "Bank of America Project Administrator shall not be held responsible for any delays or disruptions in the project caused by the actions or inactions of the Supplier Project Administrator, unless explicitly agreed otherwise in writing. However, the Supplier Project Administrator remains accountable for ensuring timely and effective communication and cooperation to minimize such occurrences.\n\nIn case of any disputes arising from this provision, Bank of America Project Administrator reserves the right to seek appropriate remedies, including but not limited to adjusting project timelines or seeking damages, provided that these actions are reasonable and do not unreasonably prejudice the Supplier's interests.",
+    "contradiction_score": 0.06488435715436935,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

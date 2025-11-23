@@ -1,0 +1,551 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 690,
+    "end_char": 1457,
+    "original": "RECITALS WHEREAS, Allscripts is a leading provider of clinical and revenue cycle software, connectivity and information solutions for physicians, including its practice management solutions\u037e WHEREAS, the Company provides Merchant Processing Services, Eligibility and Benefit Services, and Patient Intake Management Offerings within the healthcare industry\u037e WHEREAS, the Company has developed, licenses, and makes available (as applicable) certain software and services described herein\u037e and WHEREAS, Allscripts desires to obtain the right to market, sublicense, and make available such software and services and cause the Company to provide such software and services, either to Allscripts or to third parties, on the terms and conditions set forth in this Agreement.",
+    "ollama_generated": "PREAMBLE: It is acknowledged that Allscripts offers a comprehensive suite of clinical, financial cycle, connectivity, and information solutions for healthcare professionals, specifically its practice management offerings. The Company's expertise extends to Merchant Processing Services, Eligibility and Benefit Verification, and Patient Intake Management Solutions within the healthcare sector. The Company has innovated, licensed, and offers (as relevant) specific software and services as detailed herein. This Agreement outlines Allscripts' aspiration for the authority to commercialize, sub-license, and distribute these software and services, either for Allscripts or third parties, under the terms and conditions stipulated in this Agreement, with the understanding that the Company will provide such software and services accordingly.",
+    "contradiction_score": 0.006725025828927755,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1754,
+    "end_char": 2547,
+    "original": "\u201cAffiliate \u201d means, with respect to a Person, any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such Person. For purposes of this definition, the term \u201c control \u201d (including the terms \u201c controlled by \u201d and \u201c under common control with \u201d) means the direct or indirect power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract, or otherwise. Allscripts\u2019 Affiliates may exercise Allscripts\u2019 rights and fulfill its related obligations under this Agreement, provided that Allscripts shall be responsible for any breach of such obligations by its Affiliates to the same extent as if Allscripts was the breaching party.",
+    "ollama_generated": "\"An 'Affiliate' of a given Entity is defined, in relation to an individual Person, any other Person that, either directly or indirectly and through possible intermediaries, is controlled by, controls, or is under the control of such Person, as per the interpretation below. For our purposes, 'control' (including the terms 'controlled by' and 'under common control with') refers to the ability to significantly influence, whether through the ownership of voting rights, contractual obligations, or any other means, the decision-making processes and policies of a given Person. It is important to note that when an Affiliate of Allscripts exercises its rights or fulfills its responsibilities under this Agreement, Allscripts remains accountable for any noncompliance by its Affiliates, to the same degree as if Allscripts had breached such obligations directly.\"",
+    "contradiction_score": 0.00474544707685709,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 2549,
+    "end_char": 2666,
+    "original": "\u201cAllscripts Customer \u201d means a customer that has contracted for or receiving any of Allscripts\u2019 products or services.",
+    "ollama_generated": "\"An 'Allscripts Client' is defined as an entity that has either entered into a contract for or currently enjoys access to any of Allscripts' offerings, but this does not imply an obligation on the part of Allscripts to continuously supply such products or services.\"",
+    "contradiction_score": 0.005183054134249687,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 5006,
+    "end_char": 5922,
+    "original": "\u201cClinician \u201d means each healthcare professional contracted under a customer\u2019s license or service agreement and any healthcare professional not contracted under a customer\u2019s license or service agreement for which such customer subsequently pays a clinician fee. Healthcare professionals are only Clinicians (1) during the periods in which they are contracted under a license or service agreement or (2) for healthcare professionals not contracted under a customer\u2019s license or service agreement, solely during the periods for which a Customer pays a clinician fee for such healthcare professional. For avoidance of doubt, authorized end users of the Subscription Software Services are both Clinicians and their administrative and other front and back office personnel. For the further avoidance of doubt, there will be no further license fees applicable to the administrative or other front and back office personnel.",
+    "ollama_generated": "\"The term 'Clinician' encompasses each healthcare professional who is engaged through a customer's license or service agreement, as well as any healthcare professional for whom remuneration in the form of a clinician fee is received by the customer, regardless of any prior contractual arrangement. A healthcare professional may be considered a Clinician only during the following instances: (1) while under a license or service agreement with the customer, or (2) when the customer is making payment for their services. It should be noted that authorized users of the Subscription Software Services, including administrative and other front and back office personnel, are recognized as both Clinicians and their support staff. However, it's important to clarify that there will be no additional license fees incurred for the administrative or other front and back office personnel.\"",
+    "contradiction_score": 0.00998266413807869,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 8291,
+    "end_char": 8457,
+    "original": "\u201cDeveloper Agreement \u201d means the Allscripts Developer Program Agreement previously entered into between Company and Allscripts with an effective date of July 1, 2014.",
+    "ollama_generated": "\"Referring to the 'Developer Agreement' is synonymous with the terms of the Allscripts Developer Program Agreement that were initially established between our entities on July 1, 2014, and have since been binding.\"",
+    "contradiction_score": 0.002044071676209569,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10644,
+    "end_char": 10854,
+    "original": "\u201cImplementation Services \u201d means services related to the initial delivery, configuration, and pre-acceptance  usage of the Subscription Software Services or Merchant Processing Services described in Exhibit  C.",
+    "modified": "\"The term 'Implementation Services' encompasses any assistance required for the post-acceptance utilization, adjustment, and fine-tuning of the Subscription Software Services or Merchant Processing Services as outlined in Exhibit C.\"\n\nBy shifting the focus from 'initial delivery' to 'post-acceptance utilization', this revised clause implies that the services are provided after the acceptance stage and are aimed at optimization rather than initial setup, thereby weakening the obligation slightly.",
+    "contradiction_score": 0.9909985065460205,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10854,
+    "end_char": 11145,
+    "original": "\u201cInstalled Software \u201d means the Company\u2019s Integration Client configured to interoperate only with Allscripts products that is installed on a Sublicensed Customer\u2019s computer systems, and including all enhancements and other Updates thereto and all copies of the foregoing permitted hereunder.",
+    "modified": "\"Referring to the term 'Licensed Software', it encompasses the Company's Integration Client, tailored to operate exclusively with Allscripts products, that may be deployed on a Sub-Licensee's computer systems. This includes all modifications and upgrades made to the original software, as well as any authorized replicas, within the scope of this agreement.\"\n\nIn the rewritten clause, the responsibility for the Software is shifted from the Customer (Sublicensed) to the Company. Additionally, the term 'Installation' has been replaced with 'Deployment', which could potentially allow for more flexibility in terms of how the software can be provided to the customer.",
+    "contradiction_score": 0.6739962100982666,
+    "kept": true
+  },
+  {
+    "clause_index": 30,
+    "start_char": 11883,
+    "end_char": 12151,
+    "original": "\u201cMarks \u201d means, with respect to a Party, such Party\u2019s trade names, trade dress, trademarks, service marks, logos, brand names and other identifiers, corporate names, meta-tags, and universal resource locators, and any applications, registrations, and renewals thereof.",
+    "ollama_generated": "\"Designated 'Marks' encompasses, in relation to a Party, all tradenames, trade dress, logos, brand names, corporate names, meta-tags, universal resource locators, domain names, and any other indicators of business identity or origin. This also includes the Party's trademarks, service marks, applications for the same, registrations, renewals, and extensions, if applicable.\"\n\nThe change is subtle: Instead of using \"other identifiers\", I expanded that phrase to include \"domain names\" and \"any other indicators of business identity or origin\". This modification broadens the scope of what can be considered as 'Marks', potentially offering more protection or control for the parties involved.",
+    "contradiction_score": 0.001027880236506462,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 12415,
+    "end_char": 13187,
+    "original": "\u201cMerchant Agreement \u201d means the Merchant Services Agreement the form of which is attached hereto as Exhibit  J to be entered into between Company and each Sublicensed Customer that purchases any Merchant Processing Services (except in connection with a sale of PIMS directly or indirectly by Company). Company may update the Merchant Agreement from time-to-time  to incorporate such future revisions as required or requested by the Member Bank provided that Company also makes those revisions to agreements with Company\u2019s other merchant processing services customers\u037e and further provided that the Merchant Agreement\u2019s terms and conditions shall not be less favorable than those that the Company typically offers to customers similar to the proposed Sublicensed Customers.",
+    "ollama_generated": "\"The 'Merchant Agreement' refers to the Merchant Services Agreement, which is a model found as Exhibit J appended herein. This agreement will be established between the Company and each Sub-licensed Client upon their purchase of any Merchant Processing Services (with the exception of cases where the Company itself sells PIMS, either directly or indirectly). The Company reserves the right to modify the terms of the Merchant Agreement at its discretion. Any updates will incorporate future revisions as needed or suggested by the Member Bank, on the condition that similar modifications are made to agreements with the Company's other merchant processing services clients. However, the Merchant Agreement's terms and conditions may become more favorable for the Sub-licensed Customers, but shall not be less advantageous than those commonly provided by the Company to customers similar in nature.\"",
+    "contradiction_score": 0.0025351103395223618,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 13187,
+    "end_char": 13980,
+    "original": "\u201cMerchant Application \u201d means the merchant application the form of which is attached hereto as Exhibit  K, that must be completed by a proposed Sublicensed Customer that intends to purchase any Merchant Processing Services and which is accepted by Company prior to Sublicensed Customer product activation. Company may update the Merchant Application from time-to-time  to incorporate such future revisions as required or requested by the Member Bank , provided that Company also makes those revisions to merchant applications with Company\u2019s other merchant processing services customers\u037e and further provided that the Merchant Application\u2019s terms and conditions shall not be less favorable than those that the Company typically offers to customers similar to the proposed Sublicensed Customers.",
+    "modified": "\"The 'Merchant Application' refers to the application form, a model of which is appended as Exhibit K, which must be duly filled out by potential Sub-Licensed Clients who wish to avail any Merchant Processing Services. Unlike before, it's not mandatory for the Sub-Licensed Client to complete this form prior to product activation; rather, completion of the application is a prerequisite for product activation.\n\nCompany reserves the right to modify the Merchant Application at its discretion, incorporating any future revisions as deemed necessary or suggested by the Member Bank. However, it's essential to note that such modifications shall be implemented consistently across all the Company's merchant processing services clients. Moreover, while the terms and conditions of the Merchant Application may evolve over time, they should never be more disadvantageous than the terms commonly provided to clients with similar profiles as the prospective Sub-Licensed Clients.\"",
+    "contradiction_score": 0.8731318116188049,
+    "kept": true
+  },
+  {
+    "clause_index": 43,
+    "start_char": 18294,
+    "end_char": 18585,
+    "original": "\u201cPOS Dashboard \u201d means the Company\u2019s web portal Point of Service (POS) Dashboard that may be used to process credit and debit card payment transactions (as the same may be renamed, enhanced or expanded from time to time). The POS Dashboard is further described on Exhibit  A attached hereto.",
+    "ollama_generated": "\"The term 'POS Dashboard' refers to the Company-provided web interface, which may be rebranded, upgraded, or extended as necessary. This platform serves primarily for handling credit and debit card payment transactions, though its functions, designation, or capabilities might evolve over time. For a comprehensive description, please refer to Exhibit A attached herein.\"\n\nIn the new clause, I've shifted the responsibility of describing the POS Dashboard from the contract itself to the exhibit, making it more dynamic and allowing for potential changes in the platform's designation or capabilities.",
+    "contradiction_score": 0.0015049107605591416,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 19554,
+    "end_char": 19811,
+    "original": "\u201cSublicensed Customer \u201d means an Allscripts Customer that has purchased a Subscription from Allscripts or its Affiliates or that has entered into a Merchant Agreement with Company (except in connection with a sale of PIMS directly or indirectly by Company).",
+    "modified": "\"Designated User\" shall refer to an entity that holds the status of an Allscripts Customer, having either procured a Subscription from Allscripts or its Affiliates, or having established a Merchant Agreement with the Company. Notwithstanding this, any transaction involving the direct or indirect sale of PIMS by the Company shall not deem the Customer as a Designated User for the purposes of this agreement.",
+    "contradiction_score": 0.8704153299331665,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 21738,
+    "end_char": 21766,
+    "original": "2. Appointment as Reseller .",
+    "ollama_generated": "2. Designation as Authorized Vendor:\n\nUpon our mutual agreement in writing, the Party of Account (hereinafter \"Vendor\") shall be designated as an Authorized Vendor for the purposes specified herein, with the responsibility to offer and sell Products exclusively to authorized customers under the terms and conditions stipulated below. However, the Vendor shall bear no liability for any unauthorized sales made outside this agreement or beyond the scope of their designation.",
+    "contradiction_score": 0.009120145812630653,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 31310,
+    "end_char": 31869,
+    "original": "3.2 Implementation Services . Allscripts will be responsible for providing Implementation Services for the Installed Software and the Subscription Software Services (but not implementation for the Phreesia Patient Intake Management Offering, which shall be Phreesia\u2019s responsibility) distributed or made available hereunder. At Allscripts\u2019 request and direction, on a per-Sublicensed Customer basis, the Company will provide such Implementation Services directly to such Sublicensed Customer or through Allscripts in exchange for fees set forth in Exhibit  C.",
+    "ollama_generated": "3.2 Implementation Responsibilities: The Sublicensed Customer shall bear the responsibility for seeking and procuring Implementation Services for both the Installed Software and the Subscription Software Services, with Allscripts providing these services only upon mutual agreement between the parties. For the Phreesia Patient Intake Management Offering, it is the responsibility of Phreesia to provide any necessary implementation services. Any fees associated with such Implementation Services provided by the Company will be outlined in Exhibit C and are payable at Allscripts' discretion and direction.",
+    "contradiction_score": 0.29753053188323975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 32741,
+    "end_char": 33278,
+    "original": "Department of Secretary of Health and Human Services, or any of their fully-authorized representatives, the books, documents, and/or records of the Company that are necessary to verify the nature and extent of costs associated therewith. The record keeping and disclosure provisions of this Section 3.4 will apply to all Services provided by the Company, but will be applicable only if the Company receives remuneration in the amount of $10,000 or more, with regard to the Services performed in relation to a single Sublicensed Customer.",
+    "ollama_generated": "The Sublicensed Customer, upon request by the Department of Secretary of Health and Human Services, or any duly-authorized representatives, shall provide all books, documents, and/or records deemed necessary for verifying the costs associated with the Company's services. The provisions regarding record keeping and disclosure in Section 3.4 will apply to all services rendered by the Company; however, these provisions will only be triggered if the total remuneration received by the Company for services provided to a specific Sublicensed Customer exceeds $10,000.",
+    "contradiction_score": 0.004513606894761324,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 35605,
+    "end_char": 35614,
+    "original": "5. [***].",
+    "ollama_generated": "5. The Client shall not be held responsible for any delays in the delivery of goods or services resulting from unforeseen circumstances beyond their control, including but not limited to force majeure events, acts of God, and governmental regulations, provided that they promptly notify the Vendor of such delays upon becoming aware of them.",
+    "contradiction_score": 0.0732293501496315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 36383,
+    "end_char": 36666,
+    "original": "7.2 Issues . In the event of any issues that may arise pursuant to this Agreement, the Parties\u2019 relationship contacts may confer to resolve such issues, it being understood that this will not preclude any Party from initiating dispute resolution proceedings pursuant to Section 28.9.",
+    "modified": "7.2 Disputes: In the event of any disputes arising under this Agreement, each Party retains the right to pursue independent resolution methods without prior consultation with the other Parties. However, it is strongly encouraged that Parties attempt to resolve disagreements amicably before escalating matters to dispute resolution proceedings as outlined in Section 28.9. This clause does not restrict a Party from pursuing dispute resolution proceedings at any point.",
+    "contradiction_score": 0.9051268696784973,
+    "kept": true
+  },
+  {
+    "clause_index": 92,
+    "start_char": 37368,
+    "end_char": 40126,
+    "original": "(a) Allscripts\u2019 and its Affiliates\u2019 internal use of the Installed Software and Subscription Software Services as permitted hereunder, including with respect to its marketing, selling, development, service, and support activities under this Agreement, and including the training of Allscripts employees, contractors, and other authorized Representatives on the marketing, selling, planning, supporting, and use of the Installed Software, Subscription Software Services or any integrated product with any Allscripts products and services\u037e (b) the marketing, promoting, distributing, reselling, or provision of the Installed Software or the Subscription Software Services, directly or through Allscripts Resellers or Partnering Organizations, in accordance with the terms and conditions of this Agreement\u037e (c) enabling Allscripts products and services to interface or otherwise integrate, interact, or interoperate with the Installed Software and the Subscription Software Services , including performing any integration or interface development efforts with respect to the Installed Software, Subscription Software Services or any integrated product with any Allscripts products and services, or internally testing, evaluating, and performing validation and verification with respect to the Installed Software, Subscription Software Services or any integrated product with any Allscripts products and services (it being understood that the foregoing activities will not affect the Company\u2019s representations and warranties in Section 21) \u037e (d) reselling Subscriptions (through multiple levels of sublicensees) to (i)  Sublicensed Customers pursuant to Customer Agreements in accordance with this Agreement and (ii)  Allscripts\u2019 Affiliates or to Allscripts Resellers or Partnering Organizations (subject to Sections 2.4  and 2.5) to carry out any of the purposes set forth in this Agreement\u037e (e) creating backups and other copies of the Installed Software solely to the extent necessary to perform its obligations hereunder in the ordinary course of business\u037e (f) managing, operating, and hosting (i)  any Installed Software, (ii)  the Allscripts products that will interface with the Installed Software or Subscription Software Services on behalf of Sublicensed Customers and (iii)  authorizing its Sublicensed Customers, Allscripts Resellers or Partnering Organizations to do the same\u037e (g) generating, printing, copying, downloading, and storing all Data and other displays and output, as may result from any execution or other use of the Subscription Software Services and authorizing its Sublicensed Customers, Allscripts Resellers or Partnering Organizations to do the same\u037e and (h) all other purposes reasonably necessary to carry out any of the foregoing.",
+    "ollama_generated": "(a) The Company is granted permission to utilize the Installed Software and Subscription Software Services as outlined in this Agreement, including but not limited to its internal operations such as marketing, selling, development, service, and support activities, as well as training of employees, contractors, and other authorized Representatives on the marketing, selling, planning, supporting, and use of the Installed Software, Subscription Software Services or any integrated product with any Allscripts products and services.\n   (b) The Company is authorized to market, promote, distribute, resell, or provide the Installed Software or the Subscription Software Services, either directly or through Allscripts Resellers or Partnering Organizations, in accordance with the terms and conditions of this Agreement.\n   (c) The Company may enable Allscripts products and services to interface, interact, or interoperate with the Installed Software and the Subscription Software Services, including performing any integration or interface development efforts with respect to the Installed Software, Subscription Software Services or any integrated product with any Allscripts products and services. However, this will not affect the Company's representations and warranties as stated in Section 21.\n   (d) The Company is allowed to resell Subscriptions (through multiple levels of sublicensees) to: (i) Sublicensed Customers under Customer Agreements in accordance with this Agreement; (ii) Allscripts\u2019 Affiliates or to Allscripts Resellers or Partnering Organizations, provided they comply with Sections 2.4 and 2.5 to execute any purposes outlined in this Agreement.\n   (e) The Company is permitted to create backups and other copies of the Installed Software only to the extent necessary to fulfill its obligations under this Agreement in the ordinary course of business.\n   (f) The Company may manage, operate, and host: (i) any Installed Software; (ii) Allscripts products that will interface with the Installed Software or Subscription Software Services on behalf of Sublicensed Customers; and (iii) authorize its Sublicensed Customers, Allscripts Resellers or Partnering Organizations to do the same.\n   (g) The Company may generate, print, copy, download, and store all Data and other displays and output that result from any execution or use of the Subscription Software Services, and authorize its Sublicensed Customers, Allscripts Resellers or Partnering Organizations to do the same.\n   (h) The Company is empowered to carry out any actions reasonable necessary to achieve the purposes outlined in this Agreement.",
+    "contradiction_score": 0.04944806545972824,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 40133,
+    "end_char": 40242,
+    "original": "For the sake of clarity, the Subscription Software Services shall be hosted, managed and operated by Company.",
+    "modified": "To ensure transparency, the Client is responsible for hosting, managing, and operating the Subscription Software Services at their discretion, with Company providing necessary support as outlined in our Service Level Agreement.",
+    "contradiction_score": 0.9867904782295227,
+    "kept": true
+  },
+  {
+    "clause_index": 97,
+    "start_char": 40984,
+    "end_char": 41730,
+    "original": "(i) Subject to the terms and conditions of this Agreement, the Company hereby grants to Allscripts and its Affiliates a non-exclusive,  royalty- free, irrevocable [***] non-transferable  (except in accordance with Section 28.4 ), sublicensable (through multiple levels of sublicensees), fully paid- up right and license under all of the Company\u2019s Intellectual Property to use the Company\u2019s brands, trademarks, product and service names, logos and slogans (the \u201c Company Marks \u201d), throughout the Territory, solely in connection with the marketing, selling, or provision of the Installed Software and the Subscription Software Services and Merchant Processing Services permitted hereunder or to otherwise fulfill the terms of this Agreement. [***].",
+    "ollama_generated": "(i) Within the parameters of this Agreement, Allscripts and its Affiliates are granted a non-exclusive, royalty-free, irrevocable, but transferable license (with restrictions outlined in Section 28.4), sub-licensable (through multiple tiers of sub-licensees), fully paid-up right, and permission to utilize the Company's Intellectual Property, including brands, trademarks, product and service names, logos, and slogans (\"Company Marks\"), throughout the Territory. This authorization is exclusively granted for the purposes of promoting, offering for sale, or delivering the Installed Software, Subscription Software Services, and Merchant Processing Services as detailed in this Agreement. The Company reserves the right to revoke this permission should it deem necessary, under the provisions outlined in this Agreement. [***]",
+    "contradiction_score": 0.012897330336272717,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 43936,
+    "end_char": 45758,
+    "original": "(a) reverse engineer, disassemble, decompile, decode, or adapt the Installed Software or Subscription Software Services, or otherwise attempt to derive or gain access to the source code or algorithms of the Installed Software or Subscription Software Services, in whole or in part, except [***]\u037e (b) rent, lease, assign, or sell the Subscription Software Services or Installed Software to any third party (other than the physical media (if any) containing any Installed Software distributed by Allscripts)\u037e (c) use any of the Installed Software or Subscription Software Services to provide time sharing or service bureau services to third parties, other than Sublicensed Customers\u037e (d) remove, obscure, or alter from the Installed Software, Subscription Software Services, Documentation or the Marketing Materials any applicable titles, trademarks, or copyright, patent, or other proprietary or restrictive legends or notices, or any end user warning or advisory, affixed to or contained therein or thereon\u037e (e) export or re-export all or any part of the Installed Software or Subscription Software Services in violation of any export control Laws of the United States or any other relevant jurisdiction\u037e (f) modify, correct, adapt, translate, enhance, or otherwise prepare or create any derivative works or improvements of the Installed Software or Subscription Software Services\u037e provided , [***] (g) (1)  provide any materials to Company (including without limitation, the SDK (as defined in the Restated Developer Agreement) or Associated Allscripts Software (as defined in the Restated Developer Agreement)) that contains any Harmful Code or any Open Source Software or (2)  upload any materials into the Installed Software or Subscription Software Services that contains any Harmful Code or any Open Source Software.",
+    "ollama_generated": "(a) Reverse engineer, disassemble, decompile, decode, adapt, or otherwise try to access or decipher the source code or algorithms of the Installed Software or Subscription Software Services, entirely or partially, except under specific circumstances authorized by Allscripts in writing;\n   (b) Rent, lease, assign, or transfer the rights to use the Subscription Software Services or Installed Software to any third party (excluding any physical media containing any Installed Software distributed by Allscripts);\n   (c) Utilize any of the Installed Software or Subscription Software Services to offer services on a time-sharing or service bureau basis, except to authorized Sublicensed Customers;\n   (d) Modify, remove, obscure, or alter any titles, trademarks, copyrights, patents, proprietary notices, restrictive legends, end user warnings, or advisories attached to the Installed Software, Subscription Software Services, Documentation, or Marketing Materials;\n   (e) Export or re-export all or any portion of the Installed Software or Subscription Software Services in violation of the export control regulations of the United States or any other applicable jurisdiction;\n   (f) Customize, modify, adapt, translate, improve, or create derivative works based on the Installed Software or Subscription Software Services, unless explicitly authorized by Allscripts; provided that, [***]\n   (g) (1) Provide materials to Allscripts (including without limitation, the SDK as defined in the Restated Developer Agreement or Associated Allscripts Software as defined in the Restated Developer Agreement) containing any Harmful Code or any Open Source Software, or (2) Upload any materials into the Installed Software or Subscription Software Services that contain any Harmful Code or any Open Source Software.",
+    "contradiction_score": 0.38710975646972656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 47565,
+    "end_char": 47746,
+    "original": "(d) Neither Party will take any action inconsistent with a Party\u2019s nor its licensors\u2019 ownership and interests set forth in this Section 8.5 , or assist any Person in doing the same.",
+    "ollama_generated": "(d) Each Party reserves the right to act in ways consistent with their own or their licensors' ownership and interests as outlined in Section 8.5, but shall not be obligated to provide assistance to any third party seeking to do so.",
+    "contradiction_score": 0.4462817311286926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 50373,
+    "end_char": 50826,
+    "original": "10.1 Training . The Company will provide, [***] periodic training for Allscripts personnel in connection with this Agreement, with the first such training [***] (such training, the \u201cFirst Training\u201d). The Company agrees to dedicate sufficient resources in connection with such training. Such training may be for the benefit of Allscripts personnel either as to Allscripts\u2019 permitted activities under this Agreement or to assist the Sublicensed Customers.",
+    "ollama_generated": "10.1 Training Modification: While we strive to support our team, the extent and frequency of training provided by the Company for Allscripts personnel in relation to this Agreement shall be at our discretion, with the initial training (hereafter referred to as \"Initial Training\") being offered within a reasonable timeframe, but not guaranteed. The Company will make a good-faith effort to allocate resources for such training; however, the responsibility for ensuring comprehensive understanding lies primarily with the Allscripts personnel. Such training may encompass aspects beneficial to both Allscripts' permitted activities under this Agreement and to aide our Sublicensed Customers as needed.",
+    "contradiction_score": 0.0907781645655632,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 52041,
+    "end_char": 52056,
+    "original": "11. Marketing .",
+    "ollama_generated": "11. Permitted Marketing Activities:\n\nIn the event that the parties engage in marketing activities, it shall be understood that each party shall exercise reasonable discretion in the execution of such activities, taking into account the sensitivities and preferences of the other party, with a primary focus on fostering goodwill and maintaining a positive public image. The party initiating any marketing activity shall be solely responsible for obtaining any necessary approvals, consents or permissions required under applicable laws, regulations, or contractual obligations. In case of a dispute arising from such activities, the burden of proof regarding compliance with all relevant legal and contractual requirements shall lie with the party engaging in the activity.",
+    "contradiction_score": 0.0567445382475853,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 52902,
+    "end_char": 53607,
+    "original": "11.2 Demonstration Systems . [***], the Company will provide fully-functional demonstration systems or accounts for the Subscription Software Services, equivalent to those systems made available to the Company\u2019s sales personnel, for use by Allscripts\u2019 sales personnel. Each Party will provide all commercially reasonable assistance, cooperation, and support requested by the other Party to maintain demonstration systems sufficient to demonstrate the Installed Software and the Subscription Software Services as integrated with any Allscripts products or services. Each Party will be responsible for its own costs and expenses in designing, developing, testing, and maintaining such demonstration systems.",
+    "ollama_generated": "11.2 Demonstration Systems . [***], the Customer has the option, but not the obligation, to request functional demonstration systems or accounts for the Subscription Software Services from the Company. These systems shall be equivalent to those used by the Company's internal teams, but their provision is subject to the Company's availability and discretion. Each Party will provide reasonable assistance, cooperation, and support as requested by the other Party in maintaining these demonstration systems. However, the responsibility for any additional costs or expenses associated with the design, development, testing, and maintenance of such demonstration systems lies solely with the party that elects to use them. The Customer shall not expect the Company to bear any costs related to this optional service.",
+    "contradiction_score": 0.016836006194353104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 57052,
+    "end_char": 57638,
+    "original": "12.4 Documentation . The Company has delivered or made available to Allscripts complete and accurate Documentation for the Installed Software, Subscription Software Services and that required to offer the Merchant Processing Services, and will promptly deliver or make available to Allscripts supplements to such Documentation and manuals, as and when released, to reflect all modifications, releases, supplements, corrections, Updates, amendments, and other changes to the Installed Software or Subscription Software Services or that required to offer the Merchant Processing Services.",
+    "ollama_generated": "12.4 Documentation Obligations: Allscripts acknowledges receipt of the initial Documentation provided by the Company for the Installed Software, Subscription Software Services, and the Merchant Processing Services. The Company shall endeavor to make available updated Documentation, manuals, and supplements, as and when they become available, to reflect any modifications, releases, supplements, corrections, Updates, amendments, or other changes to the Installed Software, Subscription Software Services, or the Merchant Processing Services. However, it is understood that Allscripts shall not be obligated to incorporate these updates into its systems immediately upon availability.",
+    "contradiction_score": 0.075261190533638,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 58931,
+    "end_char": 59829,
+    "original": "(a) With respect to any material customer facing Update that does not relate to Merchant Processing Services, the Company will provide Allscripts [***] notice before releasing any such Update (except for Error corrections or fixes which may be released earlier). At least [***] before releasing any such customer facing Update (except for Error corrections or fixes which may be released earlier), the Company will provide Allscripts with (i) technical documentation of such Update\u037e (ii) commercially reasonable technical assistance and training for such Update\u037e and (iii) a functional, updated demonstration version of the Subscription Software Services (and for any Update made available via remote access, a testing environment), which will be sufficient to enable Allscripts to test the applicable Subscription Software Services and Allscripts products and services with respect to such Update.",
+    "modified": "(a) Concerning any significant customer-facing Update that primarily concerns Merchant Processing Services, Allscripts shall receive notice from the Company after the release of such Update. It is understood, however, that Error corrections or fixes may be released immediately without prior notice. At least fifteen (15) business days before releasing a customer-facing Update (excluding Error corrections or fixes), the Company will provide Allscripts with:\n\n   (i) Technical documentation of the proposed Update;\n   (ii) Commercially reasonable technical support and training for integrating the Update; and\n   (iii) A functional, updated demonstration version of the Subscription Software Services (and for Updates made available via remote access, a testing environment), which shall be adequate to allow Allscripts to test the applicability of the Subscription Software Services and its own products and services in relation to the Update. The Company is not obligated to provide this demonstration version or testing environment if Allscripts fails to request it within a reasonable timeframe before the scheduled release date of the customer-facing Update.",
+    "contradiction_score": 0.7935842871665955,
+    "kept": true
+  },
+  {
+    "clause_index": 144,
+    "start_char": 60061,
+    "end_char": 60144,
+    "original": "13.3 Compatibility . With respect to any upgrades, updates, or modifications [***].",
+    "ollama_generated": "13.3 Compatibility Adjustments: Regarding any optional enhancements, improvements, or alterations [***], the party implementing such changes shall strive for compatibility but shall not be held liable for any potential incompatibilities arising from these modifications.",
+    "contradiction_score": 0.01611865870654583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 60267,
+    "end_char": 60288,
+    "original": "14. Other Covenants .",
+    "ollama_generated": "14. Additional Limitations on Commitments.\n\nIn this Contract, the Parties acknowledge that their obligations are subject to certain reasonable limits, and therefore, any additional covenants or undertakings beyond those explicitly stated in this Agreement shall be deemed non-binding unless expressly agreed upon in writing by both Parties. In case of ambiguity or dispute regarding the scope of such additional commitments, the original terms of this Contract shall prevail.",
+    "contradiction_score": 0.32625606656074524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 63210,
+    "end_char": 64165,
+    "original": "14.5 Compliance with Laws . Each Party will comply with all applicable Laws and the Operating Regulations, governmental requirements, and industry standards, including those with respect to privacy, data protection, portability, or accountability, applicable to such Party or its personnel with respect to the Software, the Services, and the performance of its obligations under this Agreement\u037e provided that Allscripts will have no obligation to comply with any Operating Regulations unless such Operating Regulations are disclosed to it. Neither Party will, nor permit any third parties to, export, re-export,  or release, directly or indirectly, any Controlled Technology to any country or jurisdiction to which the export, re-export,  or release of any Controlled Technology (a) is prohibited by applicable Law or (b) without first completing all required undertakings (including obtaining any necessary export license or other governmental approval).",
+    "ollama_generated": "14.5 Obligations Regarding Compliance: Each Party acknowledges its responsibility to adhere to all relevant Laws, Operating Regulations, governmental requirements, and industry standards in matters pertaining to privacy, data protection, portability, or accountability, as they apply to the Party or their personnel in relation to the Software, Services, and fulfillment of their obligations under this Agreement. However, Allscripts' compliance with any Operating Regulations is contingent upon their disclosure to Allscripts. No Party, nor any third parties acting on their behalf, will engage in, facilitate, or permit the export, re-export, or release of any Controlled Technology to any country or jurisdiction: (a) where such actions are prohibited by applicable Law, or (b) without first meeting all necessary requirements (such as obtaining any required export license or governmental approval).",
+    "contradiction_score": 0.002603178611025214,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 64177,
+    "end_char": 64188,
+    "original": "14.6 [***].",
+    "ollama_generated": "14.6 [Client] shall have the discretion to decide not to proceed with the project, upon which this Agreement shall be terminated effective immediately, without any further obligations or liabilities arising from the Parties, except for those accrued prior to such termination.\n\n[Originally: Upon notice by either Party hereto that it wishes to terminate this Agreement, the other Party shall have no further obligations or liabilities under this Agreement beyond the date of receipt of such notice.]",
+    "contradiction_score": 0.1178182065486908,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 161,
+    "start_char": 65250,
+    "end_char": 65751,
+    "original": "16.2 Technical Standards . The Company will provide Allscripts with Updates so that the Subscription Software Services can be implemented and configured to comply in all material respects with applicable privacy and security standards (e.g., HITECH, HIPAA, and Omnibus rule) within a reasonably practicable timeframe (based on the scope of required enhancements and other factors) after their final, formal adoption and publication by the Secretary of the U.S. Department of Health and Human Services.",
+    "modified": "16.2 Technical Compliance: Allscripts shall be responsible for staying informed about any updates to applicable privacy and security standards (e.g., HITECH, HIPAA, and Omnibus rule) and will promptly notify the Company of such updates. Upon receiving this notification, the Company shall endeavor to modify the Subscription Software Services to comply with these standards within a reasonable timeframe, taking into account the complexity and extent of any necessary changes. If the Company is unable to provide the necessary Updates in compliance with applicable privacy and security standards, Allscripts shall be responsible for ensuring that the Subscription Software Services remain compliant.",
+    "contradiction_score": 0.6193044185638428,
+    "kept": true
+  },
+  {
+    "clause_index": 170,
+    "start_char": 69195,
+    "end_char": 69237,
+    "original": "(a) Invoicing from Company to Allscripts .",
+    "ollama_generated": "(b) Allscripts' Obligation to Make Payment to Company Based on Invoices Submitted.\n\nExplanation: This revised clause weakens the obligation of the Company by shifting it to Allscripts, making Allscripts responsible for initiating the payment process based on invoices submitted by the Company.",
+    "contradiction_score": 0.011529900133609772,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 69237,
+    "end_char": 69573,
+    "original": "(i) Invoicing for Eligibility and Benefits (E&B) Services . The Company will provide Allscripts with (1) an invoice for the fees set forth on Exhibit F  for all E&B Transactions [***] and (2) a report with reasonably detailed supporting data for all such E&B Transactions by each Sublicensed Customer, excluding Legacy Customers, [***].",
+    "ollama_generated": "(i) Billing for Eligibility and Benefits (E&B) Services . Allscripts shall have the right to request from The Company, upon reasonable notice, (1) an invoice detailing the fees as specified on Exhibit F for all completed E&B Transactions [***] and (2) a report containing relevant supporting data for each such E&B Transaction carried out by any Sub-Licensee, except Legacy Customers, [***]. The Company shall make reasonable efforts to provide these documents promptly but is under no obligation to produce them if Allscripts' request interferes with normal business operations or breaches confidentiality agreements.",
+    "contradiction_score": 0.022828003391623497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 71655,
+    "end_char": 71821,
+    "original": "(iii) Legacy Customer\u2019s Fee . Allscripts shall invoice the Company for Legacy Customers (as defined on Exhibit H ) quarterly fees in accordance with Exhibit F  [***].",
+    "ollama_generated": "(iii) Company's Payment Obligation Regarding Legacy Customers. The Company is obligated to make payments to Allscripts, as outlined in Exhibit F [***], for the maintenance of access and services provided to Legacy Customers (as defined on Exhibit H), on a quarterly basis.",
+    "contradiction_score": 0.03145328909158707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 185,
+    "start_char": 72875,
+    "end_char": 72894,
+    "original": "17.4 Audit Rights .",
+    "ollama_generated": "17.4 Right to Review (Limited):\n\nThe Client reserves the right, upon providing thirty (30) days' written notice, to conduct a review of the Services performed under this Agreement during regular business hours and subject to any reasonable confidentiality restrictions as may be necessary to protect proprietary information. The Service Provider shall facilitate such reviews, make all necessary records available for inspection, and provide any requested explanations in a timely and professional manner. Failure by the Service Provider to accommodate the Client's review requests within a reasonable timeframe shall constitute a material breach of this Agreement, subjecting the Service Provider to liquidated damages as set forth elsewhere herein.",
+    "contradiction_score": 0.08288878202438354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 72894,
+    "end_char": 73208,
+    "original": "(a) During the term of this Agreement, for the longer of [***], each Party will maintain complete and accurate (in all material respects) books and records, in accordance with generally accepted accounting practices, regarding its sales and services activities with respect to the subject matter of this Agreement.",
+    "modified": "(a) For the duration of this Agreement, neither Party shall be required to maintain detailed and precisely accurate (to a minor extent) books and records, concerning their sales and service activities related to the subjects covered by this Agreement. These records, while still expected to follow generally accepted accounting practices, may contain some permissible discrepancies or inaccuracies, as long as they do not materially impact the overall financial picture.",
+    "contradiction_score": 0.990364134311676,
+    "kept": true
+  },
+  {
+    "clause_index": 187,
+    "start_char": 73208,
+    "end_char": 74693,
+    "original": "(b) During the term of this Agreement, [***], each Party will have the right to engage, at its own expense, an independent auditor reasonably acceptable to the other Party to review the other Party\u2019s books and records solely for the purpose of confirming the other Party\u2019s compliance with its pricing and payment obligations hereunder. Prior to performing any audit, the independent auditor must sign a confidentiality agreement in a form reasonably acceptable to the audited Party. Any such audit will be limited in scope to the [***] period immediately preceding the commencement date of such audit. The auditing Party will furnish the audited Party with written notice at least [***] prior to the date that it desires to commence such audit. The Parties will mutually agree, reasonably and in good faith, on the timeframe for such audit to be conducted. Any such audit will be conducted during the audited Party\u2019s regular business hours and in a manner that minimizes interference with the audited Party\u2019s normal business activities. All information that is disclosed in connection with such audit will be deemed to be the Confidential Information of the audited Party, and subject to this Agreement. Any audit will be conducted in a manner that does not breach or violate any applicable Laws regarding patient confidentiality. The rights set forth in this Section 17.4(b)  may not be exercised by an auditing Party more frequently than one (1) time in any twelve (12)-month period.",
+    "ollama_generated": "(b) For the duration of this Agreement, either Party shall retain the prerogative, at its sole discretion and expense, to appoint an independent auditor \u2013 mutually agreed upon as acceptable by both Parties \u2013 for the purpose of examining the other Party's financial records. This examination is intended solely to verify compliance with pricing and payment obligations stipulated within this Agreement. Prior to commencing any audit, the appointed auditor must execute a confidentiality agreement, in a form that is acceptable to the audited Party. The scope of the audit will be confined to the [***] period immediately preceding the initiation date of the audit. Each Party will provide written notice to the other, at least [***], before desiring to initiate an audit. In collaborative spirit and good faith, the Parties shall agree upon a suitable timeframe for the audit to be undertaken. The audit shall occur during the audited Party's regular business hours and in a manner that minimizes disruption to the audited Party's routine operations. All information shared during the audit is considered Confidential Information of the audited Party, subject to the terms of this Agreement. The conduct of any audit must adhere to all applicable laws concerning patient confidentiality, while preserving the rights outlined in Section 17.4(b) may not be exercised by an auditing Party more than once every twelve (12) months.",
+    "contradiction_score": 0.03215621039271355,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 202,
+    "start_char": 81543,
+    "end_char": 82735,
+    "original": "19.6 No Additional Requirements . Each Party acknowledges that the other Party or its Representatives may, currently or in the future, be developing internally, or receiving information from other Persons, that is similar to the Confidential Information of the other Party disclosed to it or its Representatives under this Agreement. Except as otherwise set forth in Section 5, nothing in this Agreement will prohibit any Party or its Representatives from developing, manufacturing, marketing, selling, servicing, or supporting, or having developed, manufactured, marketed, sold, serviced, or supported for it, products, concepts, systems, or techniques that are similar to or compete with the products, concepts, systems, or techniques contemplated by or embodied in the other Party\u2019s Confidential Information\u037e provided, that neither Party nor its Representatives may use the other Party\u2019s Confidential Information in connection with such activities. Furthermore, neither Party nor its Representatives will have any obligation to limit or restrict the assignment of its respective employees or consultants as a result of their having had access to the other Party\u2019s Confidential Information.",
+    "ollama_generated": "19.6 Flexible Development Rights: Each Party acknowledges that it or its Representatives may independently innovate, or obtain information from external sources, that could potentially overlap with the Confidential Information of the other Party as disclosed under this Agreement, without any restrictions not specified in Section 5. This Agreement does not restrict either Party or its Representatives from creating, manufacturing, marketing, selling, servicing, or supporting products, concepts, systems, or techniques that may resemble or compete with those suggested by or within the other Party's Confidential Information. However, it is explicitly agreed that neither Party nor its Representatives shall exploit the other Party\u2019s Confidential Information in any way related to such activities. Moreover, neither Party nor its Representatives will be bound by any obligations to restrict or control their respective workforce assignments due to their exposure to the other Party\u2019s Confidential Information.",
+    "contradiction_score": 0.04479894042015076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 207,
+    "start_char": 83364,
+    "end_char": 83468,
+    "original": "21.1 Mutual Representations and Warranties . Each Party represents and warrants to the other Party that:",
+    "ollama_generated": "21.1 Reciprocal Undertakings and Assurances. Each Party undertakes to the other Party, without imposing any liability for negligence or inaccuracy, that:\n\nThis revised clause slightly alters the original one by removing the legal obligation of both parties to be accountable for negligence or inaccuracies when making their representations and warranties. Instead, it indicates that each party makes these assurances without any liability for negligent or inaccurate statements.",
+    "contradiction_score": 0.006061290390789509,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 210,
+    "start_char": 84835,
+    "end_char": 87885,
+    "original": "(a) Company or its licensors, or their permitted successors or assigns are, and throughout the term of this Agreement and any Customer Agreement will remain, the legal and beneficial owners of the entire right, title, and interest in and to the Installed Software, Subscription Software Services, the Documentation, and the Company Marketing Materials, including all Intellectual Property relating thereto (or, with respect to any third party software used to provide the Installed Software, Subscription Software Services it has, and will continue to have throughout the term of this Agreement, sufficient and valid license rights to grant the licenses and perform its obligations hereunder), including the unconditional and irrevocable right, power, and authority to grant the licenses and perform its obligations hereunder\u037e (b) as provided by the Company, no Installed Software or Subscription Software Services (including any Updates) does or will, at any time during the term of this Agreement or any Customer Agreement, contain any Harmful Code and no Installed Software will contain any Open Source Software\u037e (c) when used by Allscripts or any Sublicensed Customer, no Installed Software, Subscription Software Services, Documentation or Company Marketing Materials does or will: (i) infringe, misappropriate, or otherwise violate any Intellectual Property or other proprietary right of any third party (provided that Company\u2019s sole obligation and Allscripts sole remedy for any breach of the foregoing shall be for Company to indemnify Allscripts pursuant to Section 22 ), or (ii) fail to comply with any applicable Law\u037e (d) there is no settled, pending, or, to the Company\u2019s knowledge, threatened litigation, claim, or proceeding (including in the form of any offer to provide a license): (i) alleging that any use of the Installed Software, Subscription Software Service, Documentation or Company Marketing Materials does or would infringe, misappropriate, or otherwise violate any copyright, patent, trade secret, or other Intellectual Property of any third party\u037e (ii) challenging the Company\u2019s ownership of, or right to use or license, any Installed Software, Subscription Software Services or Merchant Processing Services, Documentation or Company Marketing Materials, or alleging any adverse right, title, or interest with respect thereto\u037e or (iii) alleging the invalidity, misuse, unregistrability, unenforceability, or non-infringement  of any copyrights, trade secret rights, or patent rights in the Installed Software, Subscription Software Services or Merchant Processing Services, Documentation, or Company Marketing Materials\u037e (e) all Documentation is and will be complete and accurate in all material respects when provided to Allscripts, such that at no time during the term of this Agreement or any Customer Agreement will the Subscription Software Services or Merchant Processing Services have any material undocumented feature\u037e and (f) all Services provided hereunder are and will be in compliance with all applicable Laws.",
+    "ollama_generated": "(a) The legal and beneficial ownership of the entire right, title, and interest in and to the Installed Software, Subscription Software Services, Documentation, and Company Marketing Materials, including all Intellectual Property relating thereto, remains with the Company or its licensors, or their permitted successors or assigns throughout this Agreement and any Customer Agreement. However, for any third-party software used to provide the Installed Software or Subscription Software Services, the Company has only the necessary and valid licenses to fulfill its obligations hereunder during the term of this Agreement (b) The Installed Software or Subscription Software Services provided by the Company, including any Updates, will not contain any Harmful Code at any point during the term of this Agreement or any Customer Agreement. The Installed Software will also not include any Open Source Software during this period (c) When used by Allscripts or any Sublicensed Customer, the Installed Software, Subscription Software Services, Documentation, or Company Marketing Materials will not: (i) infringe, misappropriate, or otherwise violate any Intellectual Property or other proprietary right of a third party. In the event of such breach, Allscripts' sole remedy is for the Company to indemnify Allscripts as per Section 22. Alternatively, (ii) fail to comply with any applicable Law. (d) There are no settled, pending, or threatened litigations, claims, or proceedings: (i) alleging that the use of the Installed Software, Subscription Software Services, Documentation, or Company Marketing Materials infringes, misappropriates, or otherwise violates any copyright, patent, trade secret, or other Intellectual Property of a third party. The Company is not aware of such litigation, claims, or proceedings (ii) challenging the Company\u2019s ownership of, or right to use or license, any Installed Software, Subscription Software Services, or Merchant Processing Services, Documentation, or Company Marketing Materials, or alleging any adverse rights, title, or interest with respect thereto. (iii) alleging the invalidity, misuse, unregistrability, unenforceability, or non-infringement of any copyrights, trade secret rights, or patent rights in the Installed Software, Subscription Software Services, Merchant Processing Services, Documentation, or Company Marketing Materials. (e) All provided Documentation may not be complete and accurate in all material respects at all times during this Agreement or any Customer Agreement, but there will be no material undocumented features in the Subscription Software Services or Merchant Processing Services during this period. (f) The services provided hereunder will only comply with the applicable Laws to the extent that they are not inconsistent with any contractual obligations under this Agreement.",
+    "contradiction_score": 0.00946300569921732,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 212,
+    "start_char": 88042,
+    "end_char": 88789,
+    "original": "(a) when used in accordance with the Documentation, all Subscription Software Services or Merchant Processing Services and the Installed Software as provided by the Company will meet, in all material respects, all applicable specifications set forth in this Agreement and the Documentation, and function in all material respects, in conformity with this Agreement and the Documentation\u037e (b) any media on which the Installed Software or Documentation is delivered will be free of any damage or defect in design, material or workmanship\u037e and (c) no Update will have a material adverse effect on the material functionality or operability of the Installed Software or Subscription Software Services or Merchant Processing Services, as the case may be.",
+    "ollama_generated": "(a) The Company guarantees that when utilized according to the provided Documentation, all Subscription Software Services, Merchant Processing Services, and Installed Software will, to the best of its ability, conform with the applicable specifications as outlined in this Agreement and the Documentation. However, the Company does not guarantee that these services will function flawlessly or without interruption, as perfection is not guaranteed in any technology.\n   (b) The Company promises that all media delivering the Installed Software or Documentation will be free from any apparent damage or defects in design, material, or workmanship at the time of delivery. Nonetheless, the Client acknowledges that minor issues may arise over time due to usage or unforeseen circumstances beyond the Company's control.\n   (c) The Company warns that any updates provided may impact the functionality or operability of the Installed Software, Subscription Software Services, or Merchant Processing Services. The Client understands and accepts that minor adjustments in performance or usability may be a consequence of an update, although every effort will be made to minimize such effects.",
+    "contradiction_score": 0.13018037378787994,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 223,
+    "start_char": 92790,
+    "end_char": 94114,
+    "original": "(a) Allscripts\u2019 breach of any representation, warranty, covenant, or obligation of Allscripts under this Agreement or the Restated Developer Agreement\u037e (b) any violation of applicable Law by Allscripts, or by Allscripts\u2019 Affiliates, Allscripts Resellers, and Partnering Organizations solely in connection with this Agreement\u037e (c) any gross negligence or willful misconduct in connection with its performance of any covenant or agreement applicable to Allscripts or to Allscripts\u2019 Affiliates, Allscripts Resellers, and Partnering Organizations contained in this Agreement, including any personal injury, death, or damage to tangible personal or real property\u037e or (d) any claim that the SDK (as defined in the Restated Developer Agreement), the Associated Allscripts Software (as defined in the Restated Developer Agreement) Allscripts Marks or any Allscripts products or services infringe, misappropriate, or violate any Intellectual Property of a third party\u037e or (e) taxes assessed or claimed against any of the Company Indemnified Persons that are obligations of Allscripts, Allscripts\u2019 Affiliates, Allscripts Resellers, or Partnering Organizations in connection with this Agreement, or which result from the breach of this Agreement by Allscripts, Allscripts\u2019 Affiliates, Allscripts Resellers, or Partnering Organizations.",
+    "ollama_generated": "(a) Any failure on the part of Allscripts to uphold any representation, guarantee, commitment, or duty stipulated in this Agreement or the Restated Developer Agreement;\n   (b) Any infringement of applicable Laws by Allscripts, or by entities associated with Allscripts, including Resellers and Collaborative Entities, exclusively pertaining to this Agreement;\n   (c) Any negligence (short of gross negligence), or intentional misconduct in relation to the fulfillment of any obligation or agreement applicable to Allscripts, its Affiliates, Resellers, and Collaborative Entities as specified within this Agreement, including instances of personal injury, death, or damage to tangible personal or real property;\n   (d) Any allegation that the SDK (as defined in the Restated Developer Agreement), Associated Allscripts Software (as defined in the Restated Developer Agreement), Allscripts Marks, or any Allscripts products or services infringe, misappropriate, or violate the Intellectual Property rights of a third party;\n   (e) Taxes imposed or claimed against the Indemnified Persons within the Company, for which Allscripts, its Affiliates, Resellers, or Collaborative Entities are responsible under this Agreement, or that arise from a breach of this Agreement by Allscripts, its Affiliates, Resellers, or Collaborative Entities.",
+    "contradiction_score": 0.09426761418581009,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 94153,
+    "end_char": 94480,
+    "original": "(a) A Person seeking defense and indemnification under this Section 22.4  (the \u201c Indemnified Person \u201d) will promptly notify the Party from whom defense and indemnification is being sought (the \u201c Indemnifying Party \u201d) in writing, describing the circumstances, in reasonable detail, for which it seek defense and indemnification.",
+    "ollama_generated": "(a) The Party requesting defense and indemnity under Section 22.4 (hereafter referred to as the \"Requesting Party\") shall provide notice to the Indemnifying Party in writing, detailing the events for which indemnification is sought, within a reasonable timeframe following the occurrence of such events, although delay in providing this notice shall not waive the Requesting Party's right to seek defense and indemnity.\n\nIn this revised version, the obligation for prompt notification has been softened by allowing for a \"reasonable timeframe\" and stating that delay in providing notice does not waive the Requesting Party's right to seek defense and indemnification.",
+    "contradiction_score": 0.013866478577256203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 95701,
+    "end_char": 95711,
+    "original": "(f) [***].",
+    "ollama_generated": "(f) The [Party/Entity] shall have the discretionary power to decide whether any such action is necessary and, if so, how it will be executed, without being held liable for any potential inconvenience or delays that may arise as a result of their decision.",
+    "contradiction_score": 0.09369959682226181,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 233,
+    "start_char": 97232,
+    "end_char": 97261,
+    "original": "23. Limitation of Liability .",
+    "ollama_generated": "23. Scope of Responsibility Limitations:\n\nIn no event shall the Company be held liable for any indirect, incidental, special, consequential or exemplary damages, including but not limited to loss of profits, revenue, goodwill, or data arising out of or in connection with this Agreement. The Company's liability to the Client under this Agreement shall be limited to direct damages that are reasonably foreseeable and shall not exceed an amount equal to the total fees paid by the Client to the Company under this Agreement over the twelve (12) month period preceding the event giving rise to such claim.",
+    "contradiction_score": 0.03392143175005913,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 234,
+    "start_char": 97262,
+    "end_char": 97292,
+    "original": "23.1 Limitation of Liability .",
+    "ollama_generated": "23.1 Limitations on Our Responsibility:\n\nIn no event shall we be liable for any indirect, special, incidental, or consequential damages arising out of or in connection with this Agreement, whether based on breach of contract, tort (including negligence), product liability, or otherwise, and even if we have been advised of the possibility of such damages. Our total cumulative liability under all provisions of this Agreement shall not exceed the amount paid by you to us during the 12 months preceding the event giving rise to the claim.",
+    "contradiction_score": 0.013643725775182247,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 237,
+    "start_char": 97746,
+    "end_char": 98267,
+    "original": "(b) EXCEPT AS OTHERWISE SET FORTH IN SECTION 23.2 , THE TOTAL CUMULATIVE LIABILITY OF EITHER PARTY FOR ANY AND ALL CLAIMS AND DAMAGES UNDER THIS AGREEMENT, WHETHER ARISING BY STATUTE, CONTRACT, TORT OR OTHERWISE, WILL NOT EXCEED THE FEES PAID BY ALLSCRIPTS TO COMPANY HEREUNDER DURING THE [***] PRECEDING THE EVENT GIVING RISE TO THE CLAIM. THE PROVISIONS OF THIS AGREEMENT ALLOCATE RISKS BETWEEN THE PARTIES. THE PRICING SET FORTH HEREIN REFLECTS THIS ALLOCATION OF RISK AND THE LIMITATION OF LIABILITY SPECIFIED HEREIN.",
+    "ollama_generated": "(b) Beyond what is detailed in Section 23.2, the collective responsibility of either Party for any and all claims and damages arising from this Agreement, whether originating from statute, contract, tort, or otherwise, will be limited to the amount that COMPANY has received as fees from ALLSCRIPTS under this Agreement during the [***] preceding the event causing the claim. It is understood that the provisions of this Agreement distribute risks between the Parties, with the pricing outlined herein reflecting this distribution of risk and the capped liability specified within it.\n\nIn this revised clause, the limitation of liability has been shifted from the Party that pays fees (Allscripts) to the other party (Company). The meaning has been slightly altered but remains fluent, realistic, and professional in tone.",
+    "contradiction_score": 0.06257545948028564,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 101469,
+    "end_char": 101486,
+    "original": "25. Termination .",
+    "ollama_generated": "25. Cessation of Services.\n\nUpon the occurrence of any of the events listed below, this agreement may be terminated by either party without penalty or liability: (i) breach by either party of any material provision of this agreement, if such breach is not cured within 30 days following written notice from the non-breaching party; (ii) bankruptcy or insolvency of either party; (iii) the discontinuance or failure to maintain in good standing of any license, permit, or other authorization required for the performance of this agreement by either party. However, if termination is initiated by the non-breaching party due to a breach that cannot be cured within 30 days, the breaching party shall only be liable for damages caused up to the date of termination.",
+    "contradiction_score": 0.14375270903110504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 245,
+    "start_char": 101528,
+    "end_char": 101887,
+    "original": "25.2 Termination for Cause . Either Party may terminate this Agreement, immediately upon written notice to the other Party, if the other Party materially breaches this Agreement and such breach (a) is incapable of cure or (b) being capable of cure, remains uncured [***] after the breaching Party receives written notice from the non-breaching  Party thereof.",
+    "ollama_generated": "25.2 Termination for Cause . Either Party shall have the right, but not the obligation, to terminate this Agreement at their discretion, upon providing written notice to the other Party. Such termination may occur if the other Party materially breaches this Agreement, and while such breach may be curable, the non-breaching Party shall afford the breaching Party a reasonable period of time, as determined by the non-breaching Party in good faith, to remedy the breach before exercising this termination right. If the breach is not cured within this reasonable period, or if the breach is incapable of being cured, then the non-breaching Party may exercise their termination right immediately.",
+    "contradiction_score": 0.04919665679335594,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 247,
+    "start_char": 102731,
+    "end_char": 103050,
+    "original": "25.4 Termination for Force Majeure . Subject to Section 15.2, either Party may terminate this Agreement, immediately upon written notice to the other Party, if a Force Majeure Event affecting the other Party\u2019s performance of its obligations hereunder continues substantially uninterrupted for a period of [***] or more.",
+    "modified": "25.4 Termination in Case of Persistent Force Majeure . Notwithstanding Section 15.2, either Party retains the right to terminate this Agreement, following written notification to the other Party, if a Force Majeure Event impacting its own performance persists substantially unabated for a duration exceeding [***]. The other Party shall then be released from its obligations under this Agreement.",
+    "contradiction_score": 0.9694533348083496,
+    "kept": true
+  },
+  {
+    "clause_index": 250,
+    "start_char": 103186,
+    "end_char": 103227,
+    "original": "25.7 Effect of Expiration or Termination.",
+    "ollama_generated": "25.7 Consequences Arising from Expiration or Termination.\n\nUpon the expiration or termination of this Agreement, each party shall be released from any remaining obligations, except for those specific duties that are expressly stated as surviving such event in the provisions herein, and shall not be liable for any claims or damages arising thereafter, unless such claim or damage results directly from a breach of this Agreement prior to the expiration or termination.",
+    "contradiction_score": 0.28756216168403625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 257,
+    "start_char": 105134,
+    "end_char": 105163,
+    "original": "26.2 Removal of Data . [***].",
+    "modified": "26.2 Data Retention Policy . The Party responsible for data management shall maintain the integrity of all data provided for the duration of this Agreement and for a reasonable time thereafter, unless requested by either party to delete such data within a reasonable timeframe after termination or expiration of this Agreement.\n\nExplanation: This clause shifts responsibility from both parties to only one (the Party responsible for data management) and modifies the original obligation (removal) to a new one (retention).",
+    "contradiction_score": 0.6415814161300659,
+    "kept": true
+  },
+  {
+    "clause_index": 264,
+    "start_char": 107462,
+    "end_char": 107918,
+    "original": "28.1 Relationship of the Parties . The relationship between the Parties is that of independent contractors. Nothing contained in this Agreement will be construed as creating any agency, partnership, joint venture, or other form of joint enterprise, employment, or fiduciary relationship between the Parties. Neither Party will have authority to contract for or bind the other Party in any manner whatsoever, except as expressly set forth in this Agreement.",
+    "ollama_generated": "28.1 Nature of the Relationship: The relationship between the Parties is such that they act as independent entities. It's important to note that this Agreement does not imply any agency, partnership, joint venture, or similar collaborative structure between the Parties. Instead, each Party maintains autonomy in its actions and decisions, with no Party having the authority to obligate the other Party, unless explicitly stated within this Agreement.",
+    "contradiction_score": 0.001423031440936029,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 273,
+    "start_char": 112578,
+    "end_char": 112603,
+    "original": "28.9 Dispute Resolution .",
+    "ollama_generated": "28.9 Dispute Settlement Procedures:\n\nIn the event of any disagreement or dispute arising out of this Agreement (a \"Dispute\"), the parties shall make a good-faith effort to resolve the Dispute through informal discussions prior to pursuing formal action. If the parties are unable to resolve the Dispute within thirty (30) days following written notice of such Dispute, either party may commence arbitration proceedings in accordance with the rules of the applicable arbitration association selected by mutual agreement or, if no such agreement is reached within five (5) business days following the giving of written notice by either party, the American Arbitration Association. The arbitrator's decision shall be final and binding upon both parties, and judgment may be entered thereon in any court of competent jurisdiction. This section shall not preclude either party from seeking provisional remedies (such as injunctive relief) from a court of competent jurisdiction in the event of an urgent need for such relief prior to the resolution of the Dispute through arbitration proceedings.",
+    "contradiction_score": 0.17767445743083954,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 281,
+    "start_char": 116772,
+    "end_char": 117862,
+    "original": "28.11 Equitable Relief . Each Party acknowledges that a breach by a Party of this Agreement may cause the non-breaching  Party immediate and irreparable harm, for which an award of damages may not be adequate compensation and agrees that notwithstanding Section 28.9(b), in the event of such breach or threatened breach, the non-breaching  Party will be entitled to seek equitable relief, including in the form of orders for preliminary or permanent injunction, specific performance, and any other relief that may be available from any court of competent jurisdiction or the arbitration panel, provided that following the formation of the arbitration panel pursuant to Section 28.9(b), such relief will only be sought from the arbitration panel. The Parties hereby waive any requirement for the securing or posting of any bond in connection with such relief. Such remedies will not be deemed to be exclusive but will be in addition to all other remedies available under this Agreement, at law or in equity, subject to any express exclusions or limitations in this Agreement to the contrary.",
+    "ollama_generated": "28.11 Equitable Remedies: Each Party acknowledges that a violation of this Agreement by either Party could result in significant and irreversible damages to the other Party, for which monetary compensation may not be sufficient redress. In the event of such a violation or imminent breach, the aggrieved Party reserves the right to pursue equitable remedies, including but not limited to requests for preliminary or permanent injunctions, specific performance, and any other forms of relief that may be granted by a court of competent jurisdiction or the arbitration panel. Notably, the Parties waive any requirement for the posting of bonds in connection with these remedies. It is understood that these remedies are not exclusive but are in addition to all other remedies available under this Agreement, at law or in equity, subject to any express exclusions or limitations in this Agreement. However, following the formation of the arbitration panel as per Section 28.9(b), any requests for equitable relief will be directed solely to the arbitration panel, with the exception that in extraordinary circumstances, either Party may seek emergency relief from a court of competent jurisdiction prior to the formation of the arbitration panel.",
+    "contradiction_score": 0.0023199147544801235,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

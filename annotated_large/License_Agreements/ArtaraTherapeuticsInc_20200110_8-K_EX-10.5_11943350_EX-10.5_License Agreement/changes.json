@@ -1,0 +1,140 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 3885,
+    "end_char": 4152,
+    "original": "1.5 \u201cFirst Commercial Sale \u201d means the first sale for use or consumption for which revenue has been recognized of Product in a country or territory after all required Regulatory Approvals for commercial sale of Product have been obtained in such country or territory.",
+    "ollama_generated": "1.5 \"Initial Market Launch\" denotes the initial transaction where income has been acknowledged for the utilization or consumption of the Product within a specific country or region, subsequent to the completion and validation of all necessary Regulatory Compliance procedures enabling commercial distribution in said territory. This launch is not necessarily indicative of a full-scale commercialization effort, but rather marks the point at which revenue recognition becomes applicable.",
+    "contradiction_score": 0.3552069067955017,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 8148,
+    "end_char": 8505,
+    "original": "1.20 \u201cRegulatory Authorities \u201d means any applicable national, regional, state or local regulatory agency, department, bureau, commission, council or other governmental entity, necessary for the development, manufacture, distribution, marketing, promotion, offer for sale, use, import, export or sale of a pharmaceutical product in a regulatory jurisdiction.",
+    "ollama_generated": "1.20 \"Regulatory Bodies\" encompass any applicable national, regional, state, or local governmental entities, including agencies, departments, bureaus, commissions, councils, or other regulatory bodies, that may have oversight or impact on the research, production, distribution, advertising, sale, or use of a pharmaceutical product within their respective jurisdictions. This term extends to any future regulatory bodies established during the term of this agreement.",
+    "contradiction_score": 0.3342546820640564,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 15487,
+    "end_char": 15939,
+    "original": "Annual Net Sales of Product for the IndicationAnnual Royalty Rate Percent Net $0 - $25,000,000 1.75% >$25,000,000 - $50,000,000 2.25% >$50,000,000 2.50% 3.4 Royalty Reduction . In the event the Regulatory Authorities determine that the Program Data is not sufficient for Regulatory Approvals on its own and additional pediatric efficacy and safety clinical studies are required, Royalties set forth above will be reduced by [\u2026***\u2026] percent ([\u2026 ***\u2026]%).",
+    "modified": "Annual Royalty Rate Percent Net Sales of Product for the Indication:\n- Annually, between $0 - $25,000,000, the royalty is 1.75%.\n- Between $25,000,001 and $50,000,000, the royalty increases to 2.25%.\n- Above $50,000,000, the royalty stands at 2.50%.\n\nRoyalty Adjustment: In the event that the Regulatory Authorities deem additional pediatric efficacy and safety clinical studies necessary due to insufficient Program Data for Regulatory Approvals, the originally set royalties may be increased by [\u2026***\u2026] percent ([\u2026 ***\u2026]%). This adjustment aims to compensate for any increased costs or efforts incurred as a result.",
+    "contradiction_score": 0.6741051077842712,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 16480,
+    "end_char": 16503,
+    "original": "Checks will be sent to:",
+    "ollama_generated": "Payment Remittance Instructions:\n\nRecipients shall receive payments as follows:\n\n[Your Company Name] shall not be responsible for any delays or errors in payment if the recipient fails to provide accurate and up-to-date banking information. It is the responsibility of the recipient to ensure that all payment details are correctly submitted to us. Any disputes concerning non-receipt, delay, or incorrect amounts should be brought to our attention promptly, so that we may investigate and rectify any issues in a timely manner.",
+    "contradiction_score": 0.1583627164363861,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 16503,
+    "end_char": 16599,
+    "original": "The University of Iowa Research Foundation ATTN: Accounting 6 Gilmore Hall 112 North Capitol St.",
+    "ollama_generated": "The Foundation of Research, University of Iowa (Attn: Accounting) at 6 Gilmore Hall, 112 North Capitol Street\n\n(This slight rewording maintains the original meaning but inverts the order of the institution and its department or office, subtly implying a shift in the focus of communication.)",
+    "contradiction_score": 0.005160890519618988,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 20433,
+    "end_char": 20621,
+    "original": "5.2 Exceptions . The obligations of confidentiality and non-use set forth in paragraph 5.1 shall not apply to the extent that it can be established by Receiving Party that the information:",
+    "ollama_generated": "5.2 Exemptions. The confidentiality and non-use obligations imposed upon the Receiving Party under paragraph 5.1 shall only be binding if the Receiving Party fails to demonstrate, beyond a reasonable doubt, that the disclosure of the information is necessary for one or more of the following reasons:\n\na) Compliance with any applicable law, rule, regulation, or legal process;\nb) Protection of the Receiving Party's legitimate interests;\nc) The public interest or common good.\n\nIn all other cases, the Receiving Party shall maintain the confidentiality and non-use of such information as required by paragraph 5.1.",
+    "contradiction_score": 0.16030359268188477,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 21417,
+    "end_char": 21711,
+    "original": "5.3 Return of Confidential Information . In the event the Disclosing Party requests in writing the return of Confidential Information, the Receiving Party shall return such Confidential Information to Disclosing Party with the exception of one copy, which may be retained for archival purposes.",
+    "ollama_generated": "5.3 Retention and Destruction of Confidential Information . Upon the written request by the Disclosing Party, the Receiving Party is permitted to retain a single copy of the disclosed Confidential Information for archival purposes. All other copies shall be destroyed or returned to the Disclosing Party at its discretion. The Receiving Party shall have no obligation to maintain, store, or preserve any Confidential Information beyond the time necessary to comply with this clause.",
+    "contradiction_score": 0.4262840151786804,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 23791,
+    "end_char": 24197,
+    "original": "(a)The Program is being, and has been, conducted in accordance with all applicable local, state and federal laws, and regulations, including, but not limited to, the Federal Food, Drug and Cosmetic Act and the regulations of the FDA, International Conference on Harmonization Good Clinical Practices as adopted in the applicable FDA regulations (\u201cGCP\u2019s\u201d), and the Form FDA 1572 Statements of Investigators.",
+    "ollama_generated": "(a) The Program is understood to be operated in good faith, adhering to all relevant local, state, and federal laws, as well as regulations, such as but not exhaustively limited to, the Federal Food, Drug, and Cosmetic Act, FDA regulations, the International Conference on Harmonization Good Clinical Practices (ICH-GCP), and Form FDA 1572 Statements of Investigators. However, any failure to comply with these guidelines shall be addressed promptly upon becoming aware of such violation.\n\nIn this revised clause, the obligation is shifted slightly from a strict compliance to adhering in good faith, with a provision for addressing any violations promptly if they occur. This allows for a more flexible interpretation while still maintaining professionalism and realistic expectations.",
+    "contradiction_score": 0.0010965948458760977,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 24197,
+    "end_char": 24634,
+    "original": "(b)The Program is being and has been conducted in accordance with all applicable medical privacy laws or regulations, including without limitation, by obtaining any required subject informed consent to allow ArTara and ArTara\u2019s authorized representatives, FDA and other Regulatory Authorities access to and use of enrolled subjects\u2019 medical information as may be necessary for ArTara to receive and use Program Data under this Agreement.",
+    "ollama_generated": "(b) In the conduct of the Program, all applicable medical privacy laws or regulations are adhered to, yet it is recognized that exceptions may occur. In such instances where subject informed consent has not been obtained, ArTara and ArTara's authorized representatives, FDA, and other Regulatory Authorities may still access and utilize enrolled subjects' medical information, provided it serves ArTara's needs in relation to the Program Data under this Agreement. However, it is emphasized that every effort will be made to obtain proper consent prior to such actions when feasible.",
+    "contradiction_score": 0.003982918336987495,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 27155,
+    "end_char": 27571,
+    "original": "Source: ARTARA THERAPEUTICS, INC., 8-K, 1/10/2020 (j)University represents, to the best of its knowledge and belief, that neither it nor any of its officers, directors, employees involved in performing the Project is presently debarred pursuant to the Generic Drug Enforcement Act of 1992. University shall notify ArTara upon becoming aware of any inquiry or the commencement of any such investigation or proceeding.",
+    "ollama_generated": "Clause:\nSource: ARTARA THERAPEUTICS, INC., 8-K, 1/10/2020 (j)ArTara acknowledges that it is the University's responsibility to inform ArTara if any of its officers, directors, or employees involved in performing the Project become aware of an inquiry or the commencement of any such investigation or proceeding related to debarment under the Generic Drug Enforcement Act of 1992. At all times, the University will make reasonable efforts to keep ArTara informed of its current status regarding any potential debarment proceedings.",
+    "contradiction_score": 0.015276411548256874,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 31998,
+    "end_char": 32270,
+    "original": "7.2 At University\u2019s request, such request to be made no more than annually, ArTara will provide University with a certificate of insurance and notices of subsequent renewals for its insurance and that of Affiliates extended rights under this Agreement and of sublicensees.",
+    "ollama_generated": "7.2 Upon ArTara's discretion, without any obligation to do so more than once per year, University will be granted access to a certificate of insurance provided by ArTara and notifications of subsequent renewals for said insurance, as well as the insurance and extended rights under this Agreement held by Affiliates. Furthermore, these notifications shall also include any sublicensees' insurance details, but ArTara shall not be responsible for providing such information unless expressly requested in writing.",
+    "contradiction_score": 0.01726468652486801,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 33303,
+    "end_char": 33801,
+    "original": "8.3 Survival . Termination of the Project for any reason shall not relieve any Party of any obligation that accrued under this Agreement prior to termination. The provisions of Article Three, Article Four, Article Five, Sections 6.3 and 6.4, and Articles Seven through Nine shall survive termination of the Project by University. The provisions of Article Five, Sections 6.3 and 6.4, Article Seven, Section 8.3 and Article Nine shall survive termination of the Project and this Agreement by ArTara.",
+    "ollama_generated": "8.3 Persistence of Obligations . The cessation of the Project for any reason will not absolve any Party from their obligations that arose under this Agreement before the termination. Upon termination of the Project by either University or ArTara, the following provisions shall persist:\n\n- For University-initiated termination: Articles Three, Four, Six (excluding Sections 6.3 and 6.4), Seven through Nine.\n- For ArTara-initiated termination or Agreement termination: Articles Five, Sections 6.3 and 6.4, Seven (excluding Section 8.3), and Article Nine.\n\nIn this revised clause, the meaning has been slightly shifted to clarify that while obligations arising before termination must still be fulfilled, certain provisions will only survive if the termination is initiated by specific parties. This may create a more nuanced understanding of responsibilities following termination.",
+    "contradiction_score": 0.0792161300778389,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 35168,
+    "end_char": 35357,
+    "original": "ArTara Therapeutics 1 Little West 12th Street NY, NY 10014 Source: ARTARA THERAPEUTICS, INC., 8-K, 1/10/2020 Attention: Jesse Shefferman In the case of University, Notice should be sent to:",
+    "ollama_generated": "In the event that any intellectual property arising from the collaboration between the parties requires notice under specific circumstances, it shall be the responsibility of Artara Therapeutics 1 Little West 12th Street NY, NY 10014 (Source: ARTARA THERAPEUTICS, INC., 8-K, 1/10/2020) to provide such notice. However, the receiving party shall have the discretion to determine whether or not such notice is necessary and appropriate, and if so, to whom it should be directed, including but not limited to the University, as deemed fit by them in good faith.\n\nAttention: Jesse Shefferman (for Artara Therapeutics)\nIn case of any uncertainty regarding notice requirements, the receiving party may consult with the other party for guidance.",
+    "contradiction_score": 0.006434651557356119,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 35710,
+    "end_char": 35941,
+    "original": "9.6 Independent Contractors . The relationship between ArTara and the University created by this Agreement shall be one of an independent contractor and no Party shall have the authority to bind or act as agent for the other Party.",
+    "modified": "9.6 Engaged Service Providers . Under this Agreement, the partnership between ArTara and the University is established not as employer-employee, but as a service provider and client relationship. Each party reserves the right to maintain autonomy in decision-making and neither shall have the authority to legally bind or act on behalf of the other.",
+    "contradiction_score": 0.696147084236145,
+    "kept": true
+  }
+]

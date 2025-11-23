@@ -1,0 +1,42 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 910,
+    "end_char": 1260,
+    "original": "BACKGROUND WHEREAS, Gulf Houghton owns 3,074,270.00 of the outstanding ordinary shares (the \u201c Shares \u201d) in Global Houghton Ltd., an exempted company incorporated under the Laws of the Cayman Islands (the \u201c Company \u201d)\u037e Gulf International owns approximately 90% of Gulf Houghton\u037e and Gulf Oil is an indirect owner of approximately 10% of Gulf Houghton.",
+    "ollama_generated": "BACKGROUND WHEREAS, Global Houghton Ltd., an exempted company incorporated under the Laws of the Cayman Islands (the \"Company\"), holds 3,074,270.00 outstanding ordinary shares (the \"Shares\") in total, with Gulf Houghton owning a minority share of approximately 10%, Gulf International holding approximately 90% of Gulf Houghton, and Gulf Oil being an indirect owner of the majority stake in Gulf Houghton.",
+    "contradiction_score": 0.11834031343460083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 1260,
+    "end_char": 1737,
+    "original": "WHEREAS, The Company and its subsidiaries are engaged in the business of manufacturing, distributing and/or selling one or more of the following formulated chemical specialty product lines: fire resistant hydraulic fluids, semi-synthetic and specialty metalworking fluids, cleaning fluids, cold-rolling oils, hot-rolling oils, and specialty industrial greases (such business, as conducted by the Company and its Subsidiaries as of the Effective Date, the \u201c Company Business \u201d).",
+    "ollama_generated": "GIVEN THAT, The Company and its subsidiaries undertake various activities in the realm of manufacturing, distributing, and/or marketing a selection of chemically formulated specialty product lines, which include but are not limited to: fire resistant hydraulic fluids, semi-synthetic and specialty metalworking fluids, cleaning fluids, cold-rolling oils, hot-rolling oils, and specialty industrial greases (hereafter referred to as the \"Company Operations\"). It is understood that these activities, as practiced by the Company and its Subsidiaries as of the Effective Date, constitute the \"Company Operations\". However, it should be noted that the Company assumes no liability or responsibility for any unintended consequences arising from the use or misuse of these products outside the intended scope of their design.",
+    "contradiction_score": 0.004209452774375677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 12432,
+    "end_char": 12461,
+    "original": "Gulf Houghton Lubricants Ltd.",
+    "ollama_generated": "Gulf Houghton Lubricants Ltd., hereinafter referred to as the \"Supplier,\" shall bear no liability whatsoever for any direct, indirect, or consequential damages arising out of or in connection with the use of the products supplied by it, except where such damage is caused by Supplier's gross negligence or willful misconduct. The Buyer acknowledges that it has been made aware of the nature and risks associated with the use of the products and hereby assumes all other risks not specifically covered in this agreement.\n\nIn this clause, the original obligation for the supplier to bear liability for damages caused by their products has been weakened by excluding liability for most types of damages (direct, indirect, or consequential) and limiting it only to instances of gross negligence or willful misconduct. Additionally, the buyer now assumes most risks associated with product use, shifting the responsibility for those risks to them.",
+    "contradiction_score": 0.18617694079875946,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 17119,
+    "end_char": 18220,
+    "original": "7. Amendment Waivers, etc.  No amendment, modification or discharge of this Agreement, and no waiver hereunder, shall be valid or binding unless set forth in writing and duly executed by the party against whom enforcement of the amendment, modification, discharge or waiver is sought. Any such waiver shall constitute a waiver only with respect to the specific matter described in such writing and shall in no way impair the rights of the party granting such waiver in any other respect or at any other time. Neither the waiver by a party of a breach of or a default under any of the provisions of this Agreement, nor the failure by any party, on one or more occasions, to enforce any of the provisions of this Agreement or to exercise any right or privilege hereunder, shall be construed as a waiver of any other breach or default of a similar nature, or as a waiver of any of such provisions, rights or privileges hereunder. The rights and remedies herein provided are cumulative and none is exclusive of any other, or of any rights or remedies that any party may otherwise have at law or in equity.",
+    "ollama_generated": "7. Modification Exemptions, etc. No alteration, modification, or discharge of this Agreement shall be effective unless it is in writing and signed by both parties. Any concession granted shall only apply to the specific matter stated in the writing and shall not affect any other rights or remedies of either party at any future time.\n\nThe failure of a party to enforce any provision of this Agreement, or the failure to exercise any right or privilege, shall not be considered as a waiver of any future breach or default of similar nature, nor as a waiver of any provisions, rights, or privileges under this Agreement. Multiple rights and remedies are available to both parties, and the use of one does not exclude the use of others, either at law or in equity.",
+    "contradiction_score": 0.1290556788444519,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

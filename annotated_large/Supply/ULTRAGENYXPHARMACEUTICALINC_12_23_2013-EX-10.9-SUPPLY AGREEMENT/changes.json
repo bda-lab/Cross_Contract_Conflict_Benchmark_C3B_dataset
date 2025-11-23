@@ -1,0 +1,91 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 441,
+    "original": "Exhibit 10.9 SUPPLY AGREEMENT between CREMER OLEO GmbH & Co KG, Glockengiesserwall 3, 20095 Hamburg, Germany \u2014 hereinafter referred to as Cremer \u2014 Ultragenyx Pharmaceutical Inc , 60 Leveroni Court, Suite 200, Novato, California 94949, United States of America \u2014 hereinafter referred to as Ultragenyx \u2014 \u00ad each party also referred to as a \u201cParty\u201d and jointly as the \u201cParties\u201d \u2013 Preamble Whereas, Cremer is a producer of oleo chemical products;",
+    "ollama_generated": "Exhibit 10.9 SUPPLY AGREEMENT between CREMER OLEO GmbH & Co KG, Glockengiesserwall 3, 20095 Hamburg, Germany \u2014 hereafter known as Cremer \u2014 and Ultragenyx Pharmaceutical Inc, 60 Leveroni Court, Suite 200, Novato, California 94949, United States of America \u2014 hereafter known as Ultragenyx \u2014 each party also referred to as a \"Participant\" and collectively as the \"Parties\";\n\nPreamble: Whereas, it is understood that while Cremer has expertise in oleo chemical production, Ultragenyx holds dominion over pharmaceutical innovation; The primary responsibility for ensuring product quality and adherence to regulatory requirements lies with each Party, and any disputes arising from such responsibilities shall be resolved through mutual consultation and agreement. However, any costs or penalties incurred due to non-compliance will be solely borne by the Party found at fault, as determined by an impartial third party if necessary.",
+    "contradiction_score": 0.30194947123527527,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 1,
+    "start_char": 441,
+    "end_char": 635,
+    "original": "Whereas, Ultragenyx is a biotechnology company committed to bringing life-enhancing therapeutics for patients with rare and ultra-rare genetic diseases, also known as orphan diseases, to market;",
+    "modified": "In recognition of the fact that Genetech Prodigy serves as a pioneering entity in the field of biotechnology, dedicating its resources towards the development and commercialization of innovative therapeutics intended for individuals suffering from uncommon and exceptionally rare genetic disorders, colloquially recognized as orphan diseases.",
+    "contradiction_score": 0.506262481212616,
+    "kept": true
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1265,
+    "end_char": 1316,
+    "original": "Now therefore, the Parties hereto agree as follows:",
+    "ollama_generated": "Hereby, the Parties acknowledge their mutual understanding as set forth below:\n\nIn the event that any disputes or differences arising out of this Agreement require resolution, it shall be the sole responsibility of each Party to initiate good faith negotiations with a view to resolving such disputes amicably and expeditiously. If, after a reasonable period of time, these good faith negotiations fail to produce an acceptable resolution, then either Party may opt to terminate this Agreement without liability or penalty.",
+    "contradiction_score": 0.0055811433121562,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 4318,
+    "end_char": 4876,
+    "original": "Article 4 Specification\u037e Warranties\u037e Cremer\u2019s Liability\u037e Indemnification 1) The Parties assume that the Product constitutes an active pharmaceutical ingredient in the meaning of Sec. 4 para. 19 AMG. Ultragenyx shall process the Product into a pharmaceutical product in the meaning of Sec. 2 AMG and market the processed Product as a pharmaceutical product in the meaning of Sec 2 AMG and to perform clinical trials. Cremer does not participate in the processing, manufacturing and marketing of the respective pharmaceutical product or in the clinical trials.",
+    "ollama_generated": "Article 4 Specification; Warranties; Cremer's Liability; Indemnification:\n1) The Parties acknowledge that the Product may qualify as an active pharmaceutical ingredient under Sec. 4 para. 19 AMG. Ultragenyx is responsible for transforming the Product into a pharmaceutical product in accordance with Sec. 2 AMG, marketing the resulting pharmaceutical product, and conducting clinical trials. Cremer shall not be involved in the processing, manufacturing, marketing, or clinical trials of the respective pharmaceutical product.\n\nIn this revised version, the emphasis has shifted from an assumption to an acknowledgement by the parties, indicating a lower level of certainty regarding the Product's status as an active pharmaceutical ingredient. Additionally, Ultragenyx has taken on a more extensive set of responsibilities for processing, marketing, and conducting clinical trials, while Cremer is explicitly excluded from these activities.",
+    "contradiction_score": 0.027465682476758957,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 5330,
+    "end_char": 5466,
+    "original": "3) Cremer represents and warrants that all quantities of Product delivered under the Agreement were manufactured in accordance with GMP.",
+    "ollama_generated": "3) The Manufacturer (Cremer) acknowledges and assures that all quantities of the Product supplied under this Agreement have not deviated from the Good Manufacturing Practices (GMP) during their production. [This clause shifts the responsibility to the manufacturer, indicating they are responsible for ensuring compliance with GMP.]",
+    "contradiction_score": 0.02137087658047676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 9044,
+    "end_char": 9331,
+    "original": "10) NEITHER PARTY MAY CLAIM AND NEITHER PARTY IS LIABLE FOR CLAIMS FOR INDIRECT DAMAGES AND LOSSES, SUCH AS SPECIAL OR CONSEQUENTIAL LOSS OR DAMAGE, ANY LOSS OF ACTUAL OR ANTICIPATED PROFIT, OR REVENUE, ANTICIPATED SAVINGS OR BUSINESS OR DAMAGE TO GOODWILL OR BRAND EQUITY, ARE EXCLUDED.",
+    "ollama_generated": "10) Neither Party shall bear any responsibility nor accept claims relating to direct damages and losses, including special, incidental, or consequential damages such as loss of data, business interruption, loss of goodwill or reputation, or any other pecuniary loss. However, this exclusion does not limit either Party's liability for any intentional wrongdoing, gross negligence, or breach of a fundamental obligation under this Agreement.",
+    "contradiction_score": 0.04562961310148239,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 10300,
+    "end_char": 10986,
+    "original": "Article 7 Product Development At the request and expense of Ultragenyx, Cremer shall perform development work for Ultragenyx to develop new formulations of the Product. All such work shall be performed pursuant to a statement of work (including a budget) to be agreed upon by the Parties and attached as an annex to this Agreement (each, a \u201cStatement of Work\u201d). In the event that in the course of performing a Statement of Work new Product know\u00adhow and intellectual property rights may result, can be created or have been created the Parties will enter into a separate Agreement in order to define the rights and duties regarding the aforesaid know how and intellectual property rights.",
+    "ollama_generated": "Article 7 Intellectual Property Collaboration Upon the initiative and financial support of Cremer, Ultragenyx shall collaborate with Cremer for the exploration and development of innovative applications or modifications to the Product. The scope of this collaboration will be defined in a Mutual Development Plan (including a budget), to be mutually agreed upon by both parties and incorporated as an appendix to this Agreement (each, a \u201cMutual Development Plan\u201d). In the event that during the execution of a Mutual Development Plan, new Product-related intellectual property or know-how is generated, discovered, or has already been discovered, either party shall have the right, but not the obligation, to initiate negotiations for a separate Agreement to outline the respective rights and obligations concerning such intellectual property and know-how.\n\nThis revised clause changes the original by shifting the financial burden of product development from Ultragenyx to Cremer and inverting the condition under which the parties may enter into a separate agreement regarding the resulting intellectual property rights, as well as weakening the obligation for either party to initiate negotiations.",
+    "contradiction_score": 0.3409828543663025,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 12221,
+    "end_char": 12676,
+    "original": "4) This Agreement, including the Annexes and any Statement of Work, constitutes the entire agreement between the Parties concerning the subject matter hereof and supersedes all written or oral prior agreements or understandings with respect thereto except the Confidentiality Agreement between the parties dated September 26 th, 2012. This Agreement shall be binding upon and shall inure to the benefit of the Parties hereto, their successors and assigns.",
+    "ollama_generated": "4) This Agreement, comprising the Annexes and any Statement of Work, represents the complete understanding between the Parties pertaining to the stipulated subject matter and replaces all preceding written or verbal agreements or assumptions regarding the same, with the exception of the Confidentiality Agreement signed by the parties on September 26th, 2012. It is important to note that this Agreement imposes obligations only on the current Parties and does not extend to their future successors or assigns unless explicitly stated in writing.\n\nIn this revised clause, the obligation to be binding upon and to benefit successors and assigns has been removed, suggesting a weaker obligation that only applies to the current parties involved in the agreement.",
+    "contradiction_score": 0.3313094675540924,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 12676,
+    "end_char": 12924,
+    "original": "5) All waivers must be in writing and signed by the Party to be charged. Any waiver or failure to enforce any provision of this Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.",
+    "ollama_generated": "5) Exemptions from liability, if any, must be explicitly stated in writing and duly signed by the party seeking exemption. The absence of enforcement of any term or condition in this Agreement on a single instance should not be construed as a concession or consent to waive any other provision or future application of such provision.\n\nIn this revised clause, I have shifted the responsibility from the enforcing party to the seeking party for providing an explicit written waiver or exemption, and clarified that the non-enforcement of a provision on one occasion should not be interpreted as a general waiver of other provisions or future applications.",
+    "contradiction_score": 0.006236365996301174,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

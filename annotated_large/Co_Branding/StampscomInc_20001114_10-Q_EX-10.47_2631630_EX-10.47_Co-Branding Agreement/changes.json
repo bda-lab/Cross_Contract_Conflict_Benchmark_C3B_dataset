@@ -1,0 +1,338 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 512,
+    "end_char": 831,
+    "original": "B.  MBE wishes to have the Company provide an Internet-based service based on the Company's Internet-based shipping system and the MBE retail manifest system to the MBE Centers (as defined below) for use in manifesting and shipping customer packages, all subject to the terms and conditions set forth in this Agreement.",
+    "ollama_generated": "A. The Company agrees to offer, at its discretion, an Internet-based service integrated with its own shipping system and MBE's retail manifest system, for potential use by MBE Centers (as defined below), should they choose to utilize it for managing and shipping customer packages. This provision is contingent upon the mutual agreement of terms and conditions as outlined in this Agreement. The Company maintains the right to modify or discontinue the service at any time without prior notice.",
+    "contradiction_score": 0.33638662099838257,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 831,
+    "end_char": 1115,
+    "original": "C.  The Company and MBE desire to engage in certain co-branding activities on the Internet so as to allow customers of MBE Centers to use the Company's Internet-based shipping system in a convenient manner and to list the MBE Centers as drop-off locations and retail shipping centers.",
+    "ollama_generated": "A. It is mutually agreed upon by the Company and MBE that exploring opportunities for internet co-branding aligns with our shared goal. This collaboration may facilitate MBE Centers' customers to effortlessly access the Company's online shipping system, while designating MBE Centers as both drop-off points and retail shipping centers. However, it should be noted that the execution of these activities is optional for both parties and not binding in any legal sense.",
+    "contradiction_score": 0.03695732355117798,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1115,
+    "end_char": 1512,
+    "original": "D.  In connection with the services to be provided hereunder, the Company desires to issue to MBE a warrant to purchase up to One million three hundred thirty three thousand three hundred thirty three (1,333,333) shares (as determined pursuant to the terms of the Warrant) of Series B Preferred Stock of the Company substantially in the form attached hereto as Exhibit A (the --------- \"Warrant\").",
+    "modified": "D. In connection with the services to be rendered hereunder, MBE desires to have the option, at its sole discretion and without any obligation, to acquire up to One million three hundred thirty-three thousand three hundred thirty-three (1,333,333) shares (as determined pursuant to the terms of the Warrant) of Series B Preferred Stock of the Company, subject to the conditions outlined in the Warrant (hereinafter referred to as the \"Option\"). The Company makes no guarantee or assurance that such Option shall be exercisable.",
+    "contradiction_score": 0.6759965419769287,
+    "kept": true
+  },
+  {
+    "clause_index": 6,
+    "start_char": 1557,
+    "end_char": 1647,
+    "original": "----------- The following terms are defined for the purposes of this Agreement as follows:",
+    "ollama_generated": "For the scope of this Contract, the following definitions shall be employed:\n\n1. \"Defined Terms\" shall encompass those terms specifically outlined below, whose meanings are essential to the interpretation and application of this Agreement.\n2. The meanings ascribed to the Defined Terms within this Contract shall supersede any other interpretations or common usage of such terms elsewhere.\n3. Should it become necessary to invoke a Defined Term, parties hereto shall be obliged to rely on the definition provided herein and not on any other understanding or connotation of the term.\n4. In the event that a Defined Term is ambiguous or unclear in its application, the parties shall cooperate diligently to arrive at a mutually agreeable interpretation.\n5. Should either party fail to fulfill their obligations under this Agreement without a valid justification, they shall bear the sole responsibility for any resulting confusion or misinterpretation regarding Defined Terms.",
+    "contradiction_score": 0.012203623540699482,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2861,
+    "end_char": 3026,
+    "original": "(f) \"Company Internet Customer\" shall have the meaning set forth on Exhibit -------------------------                                      ------- C attached hereto.",
+    "ollama_generated": "(f) The definition of \"Internet Customer of the Company\" is provided in Exhibit ------------------------- -------- attached herein.\n\nIn this revised clause, I've aimed to maintain professionalism while slightly modifying the original to make it more reader-friendly and less formal, while still providing the same essential information.",
+    "contradiction_score": 0.0009721825481392443,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3174,
+    "end_char": 3475,
+    "original": "------------- (h) \"Company Technology\" shall mean the Internet-based manifest system of Source: STAMPS.COM INC, 10-Q, 11/14/2000 ------------------ the Company that allows users to, among other things, compare various shipping services, print shipping labels and/or track shipments using the Internet.",
+    "ollama_generated": "Clause:\n------------- (i) \"Utilized Technologies\" shall encompass the digital comparison platform, originating from SOURCE: STAMPS.COM INC, 10-Q, 11/14/2000, which serves as a tool for our users to, but not limited to, evaluate multiple shipping services, generate shipping labels, and monitor shipments via the Internet; however, it is important to note that the Company bears no responsibility or liability for any third-party services associated with this technology.\n\nIn this revised clause, the focus has shifted slightly from the Company owning the technology (Company Technology) to acknowledging its use of the technology (Utilized Technologies). Additionally, there is a clarification that the company does not bear responsibility or liability for any third-party services associated with this technology.",
+    "contradiction_score": 0.3665424585342407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 6432,
+    "end_char": 6597,
+    "original": "(p) \"MBE Center\" shall mean each franchise of MBE operating a franchise ---------- retail outlet within the United States which enters into a Subscription Agreement.",
+    "modified": "(q) \"MBE Center\" will refer to any franchise of MBE, located within the United States, that elects not to enter into a Subscription Agreement but instead operates a franchise retail outlet.",
+    "contradiction_score": 0.9954882264137268,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 6987,
+    "end_char": 7271,
+    "original": "---------------------                                      --------- (s) \"MBE Sites\" shall mean the web sites operated by MBE on the Internet --------- during the term of this Agreement, including but not limited to the websites currently located at www.mbe.com and www.mbeonline.com.",
+    "ollama_generated": "Clause:\n-----------                             ------- (s) \"Designated MBE Websites\" shall denote the internet-based sites maintained by MBE, during the course of this Agreement, with the possibility that new sites may be added or existing ones discontinued. The initial Designated MBE Websites are currently located at www.mbe.com and www.mbeonline.com, but these addresses are not exhaustive and other URLs may fall under this definition should they become operational within the Agreement's scope.",
+    "contradiction_score": 0.02528734877705574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 11484,
+    "end_char": 11862,
+    "original": "(d) Acceptance . Upon verification by MBE that the Manifest  conform with the ---------- Specifications  in all material respects, or if MBE fails to notify the Company within the twenty (20) business day inspection period, the Service shall be deemed Accepted. MBE's sole remedy for correction of problems after Acceptance shall be under the Warranties set forth in Section 11.",
+    "ollama_generated": "(d) Acceptance. If the Manifest does not deviate from the specified Specifications in any material respect within the twenty (20) business day inspection period, and MBE has not raised any objections to the Company during this timeframe, the Service shall be considered Accepted implicitly. Any rectification of issues post-Acceptance falls under the Warranties outlined in Section 11; however, it is explicitly stated that MBE bears no responsibility for raising or addressing these issues prior to Acceptance.",
+    "contradiction_score": 0.176907479763031,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 15717,
+    "end_char": 15865,
+    "original": "(ii)  MBE shall not enter into any agreement or arrangement with any provider of an online or Internet-based manifest system other than the Company.",
+    "modified": "(ii) The Company grants MBE the discretion to engage in agreements or arrangements with providers of online or Internet-based manifest systems, provided that such engagements do not supersede or circumvent the existing relationship between the parties under this Agreement.",
+    "contradiction_score": 0.7849409580230713,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 16247,
+    "end_char": 17042,
+    "original": "and all MBE Centers together fail to ship at least [***]* packages manifested by the Service in any period of three (3) full months commencing on the earlier of (x) March 1, 2000, and (y) the use of the Service to manifest packages by at least [***]* MBE Centers (other than any such failure which is directly caused by an event of force majeure (as set forth in Section 18(e)   [Force Majeure]  or by the failure of the Service to operate in accordance with the Specifications  or by the Company's breach of any of its obligations hereunder), or (B) MBE ceases to own at least [***]* shares of Source: STAMPS.COM INC, 10-Q, 11/14/2000 common stock of the Company (calculated on an as-converted basis and as adjusted for any stock split, stock dividend, recapitalization or similar transaction).",
+    "ollama_generated": "Clause:\nShould less than all MBE Centers collectively meet their obligation to ship a minimum of [***]* packages via the Service within any three (3) consecutive months, commencing on either (x) March 1, 2000, or (y) upon utilization of the Service by at least [***]* MBE Centers (excluding instances where such shortfall is a direct consequence of an event defined as force majeure under Section 18(e), service malfunction due to non-compliance with Specifications, or breach on the part of the Company regarding its stipulated obligations), or (B) MBE no longer holds ownership of at least [***]* shares of STAMPS.COM INC's common stock (accounting for conversion, stock splits, stock dividends, recapitalizations, or similar transactions). In such cases where this clause is triggered, the Company will not be held liable and will have no obligation to fulfill its part of the agreement.",
+    "contradiction_score": 0.4092187285423279,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 19469,
+    "end_char": 20713,
+    "original": "(b) MBE Center Support. MBE shall have the right to designate in writing up ------------------ to five (5) second-level support personnel individuals and alternates to such individuals as contact persons (the \"Contact Persons\") (although the parties may --------------- mutually agree to increase such number of Contact Persons to ensure adequate support exists for the MBE Centers) Such Contact Persons shall interface with the MBE Centers with respect to matters relating to the Service and may transmit request assistance and descriptions of problems encountered with the Service to the Company via electronic mail, fax, or overnight mail. The Company will provide telephone support to the Contact Persons at a level and in such a manner as the parties mutually agree to be adequate. The Company shall use reasonable efforts to provide the Contact Persons with answers and solutions to problems encountered by MBE or the MBE Center  in the course of MBE's or MBE Centers' normal and proper use of the Service in accordance with the terms and ---------- *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "(b) MBE Center Support. The Company grants MBE the authority to designate, in writing, up to five (5) individuals as second-level support personnel contacts (referred to herein as \"Contact Persons\"). While parties may mutually agree to augment this number of Contact Persons, such agreement is not a requirement for ensuring adequate support for the MBE Centers. The responsibility lies primarily with MBE to ensure that its Contact Persons are sufficient in number. These Contact Persons will liaise with the MBE Centers regarding matters pertinent to the Service and can communicate requests for assistance and descriptions of issues encountered with the Service to the Company via email, fax, or overnight mail. The MBE Centers shall be responsible for accessing telephone support from the Company, which will be provided at a level and in a manner that the parties agree is sufficient. The Contact Persons will expect the Company to make reasonable efforts to address problems encountered by MBE or the MBE Center while using the Service as per the terms, but the Company's responses may not always guarantee solutions. Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.",
+    "contradiction_score": 0.384095162153244,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 25694,
+    "end_char": 26828,
+    "original": "--------- (a) General. The Company will have full and exclusive right, title and ------- ownership interest in and to the Service and the Specifications  and the Intellectual Property Rights  therein. The Company is, and shall be, the sole owner of all inventions, discoveries and/or enhancements relating to the Service and the Specifications , including all copies, translations, compilations, partial copies, derivative works and updated works, whether partial or complete and whether or not merged into other program materials and whether in written or unwritten form. Except as authorized by this Agreement (including MBE's right to use the Specifications  as set forth in Section 15(d)(iv)   [Effect of Termination] ) or as otherwise agreed in writing, MBE and MBE Centers may not, directly, or through any person or entity, in any form or manner, copy, distribute, reproduce, incorporate, use or allow access to the Service or the Specifications , or modify, prepare derivative works of, decompile, reverse engineer, disassemble or otherwise attempt to derive source code or object code from the Service or the Specifications .",
+    "ollama_generated": "---------------- (a) General. The Company retains full and exclusive rights, title, and ownership of the Service, Specifications, and associated Intellectual Property Rights. Any innovations, discoveries, or improvements related to the Service and Specifications are the exclusive property of the Company, including but not limited to copies, translations, compilations, adaptations, revisions, and updated versions, regardless of their form (written or unwritten) or whether they are merged into other program materials.\n\nThe Company is the sole creator of all intellectual property associated with the Service and Specifications. Except as permitted by this Agreement (such as MBE's right to use the Specifications as specified in Section 15(d)(iv) [Effects of Termination]) or as agreed in writing, MBE and MBE Centers are prohibited from:\n\n- reproducing, distributing, or making copies of the Service or Specifications, either directly or through any third party;\n- incorporating the Service or Specifications into other works, using them, or granting access to them;\n- modifying, preparing derivative works based on, reverse engineering, decompiling, or disassembling the Service or Specifications with the intent of discovering source code or object code.",
+    "contradiction_score": 0.0036105853505432606,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 34604,
+    "end_char": 35176,
+    "original": "(c) eBay Fee. In further consideration for the Service and the other -------- obligations of the Company hereunder, for each package shipped by or through an MBE Center  by an eBay Customer (\"eBay Package\"), the Company shall be entitled ------------ to receive the following amounts from such MBE Center  for eBay Packages shipped during each calendar month, in each case ---------- *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "(c) eBay Fee. In exchange for the Service and the other obligations of the Company as outlined herein, the MBE Centers shall be obligated to pay the following amounts to the Company, for each package shipped by or on behalf of an eBay Customer (\"eBay Package\"), during each calendar month. This remuneration will be due regardless of any potential issues or disputes that may arise with respect to such eBay Packages, and the Company shall not be responsible for resolving such matters. The exact amounts to be paid are subject to confidential review and have been filed separately with the Securities and Exchange Commission.",
+    "contradiction_score": 0.05137283727526665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 38343,
+    "end_char": 38482,
+    "original": "hold the Company harmless from all claims and liability arising from MBE's failure to report or pay any such taxes, duties and assessments.",
+    "ollama_generated": "The MBE shall indemnify and hold the Company free and clear from any and all claims, actions, suits, proceedings, costs, expenses, damages, and liabilities incurred as a result of MBE's failure to timely report or pay any applicable taxes, duties, and assessments.",
+    "contradiction_score": 0.19654196500778198,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 43189,
+    "end_char": 43305,
+    "original": "need to use such Service Documentation  or Confidential Information  in accordance with the terms of this Agreement.",
+    "modified": "It is incumbent upon you to handle the Service Documentation and Confidential Information in a manner consistent with the provisions stipulated herein, but without any obligation to utilize them. The choice of whether or not to employ these materials remains at your discretion.",
+    "contradiction_score": 0.8244079351425171,
+    "kept": true
+  },
+  {
+    "clause_index": 91,
+    "start_char": 43613,
+    "end_char": 44071,
+    "original": "Without limiting the foregoing, each of the parties shall use at least the same degree of care which it uses to prevent the disclosure of its own confidential information of like importance to prevent the disclosure of Confidential Information disclosed to it by the other party under this Agreement. Each party shall promptly notify the other party of any actual or suspected misuse or unauthorized disclosure of the other party's Confidential Information .",
+    "ollama_generated": "Beyond the aforementioned, each party is expected to exercise, at most, the same level of care taken to protect its own confidential information of equal significance when safeguarding the Confidential Information shared by the other party under this Agreement. It's imperative that any instance of perceived or actual misuse, or unauthorized disclosure of the other party's Confidential Information is reported to the reporting party without undue delay. The onus of initiating such communication lies with the party becoming aware of the potential breach.",
+    "contradiction_score": 0.026095721870660782,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 45895,
+    "end_char": 46707,
+    "original": "(e) Confidentiality of Agreement. Each party shall be entitled to disclose ---------------------------- the existence of this Agreement, but agrees that the terms and conditions of this Agreement shall be treated as Confidential Information  and shall not be disclosed to any third party\u037e provided, however, that each party may disclose --------  ------- the terms and conditions of this Agreement\u037e (i) as required by any court or other governmental body\u037e (ii) as otherwise required by law, (iii) to legal counsel of the parties\u037e (iv) in confidence, to accountants, banks, and financing sources and their advisors\u037e (v) in connection with the enforcement of this Agreement or rights under this Agreement\u037e or (vi) in confidence, in connection with an actual or proposed merger, acquisition, or similar transaction.",
+    "ollama_generated": "(e) Obligation of Confidentiality. Each party reserves the right to reveal the existence of this Agreement publicly, but acknowledges that any disclosure concerning the specific terms and conditions of this Agreement shall be deemed Confidential Information, and as such, must not be shared with any external entities; however, each party may divulge the particulars of this Agreement under the following circumstances: (i) when compelled by a court or other governmental authority, (ii) in compliance with legal requirements, (iii) to legal advisors of the parties, (iv) on a confidential basis, to financial institutions, bankers, and potential investors and their consultants, (v) during proceedings concerning the enforcement of this Agreement or its related rights, or (vi) in confidence, pertaining to an actual or proposed acquisition, merger, or similar transaction.",
+    "contradiction_score": 0.003257256466895342,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 49714,
+    "end_char": 50719,
+    "original": "(f) Remedies. The Company's sole and exclusive liability and MBE's sole and -------- exclusive remedy for breach of the representations and warranties set forth in this Section 11 shall be, at the Company's election, to either (i) use its best efforts to make the Service perform in accordance with the Specifications  in all material respects as soon as reasonably practicable, or (ii) return the Fees paid by MBE and MBE Centers for the Service in which case MBE would have the right to either terminate the entire Agreement or the portions of the Agreement affected by breach of the representation and warranties. In the event that the Company elects (i) of this sub-section in accordance with the terms and conditions set forth herein and is unable to make the Service perform in accordance with the Specifications  in all material respects within twenty one (21) days after such election, MBE may then elect to continue to proceed under (i) or MBE may elect to proceed under (ii) of this sub-section.",
+    "ollama_generated": "(f) Remedies and Responsibility Shift. In the event of a breach of the representations and warranties specified in Section 11, both parties acknowledge that their respective remedies are limited as follows: The Company's responsibility shall be, at its discretion, to either (i) use commercially reasonable efforts to rectify the Service to meet the Specifications within a reasonable timeframe, or (ii) refund the Fees paid by MBE and MBE Centers for the Service. Upon refund, MBE retains the right to choose between (a) continuing with the Agreement, understanding that no claims can be made regarding the affected portions, or (b) terminating the entire Agreement or just the breached portions. If the Company fails to rectify the Service in accordance with the Specifications within twenty-one (21) days following its decision under (i), MBE may opt to either maintain the original agreement with reduced expectations, or seek a refund and terminate the affected parts of the Agreement. This clause does not waive MBE's right to pursue any other remedies available by law.",
+    "contradiction_score": 0.06475552916526794,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 53386,
+    "end_char": 53987,
+    "original": "(d) Exclusions from Indemnification. The Company assumes no liability, and ------------------------------- shall have no obligation to defend or pay any amounts to any Indemnitee hereunder for (i) any method or process in which the Service may be used by MBE or any MBE Center  which is not set forth in the Specifications , (ii) any improper use of the Service by an Indemnitee or (iii) the combination, operation or use of the Service with non-Company software or data, if such infringement could have been avoided but for the combination, operation or use of the Service with such programs or data.",
+    "ollama_generated": "(d) Limits on Indemnification Obligations. While the Company acknowledges its primary responsibility in providing the Service as specified, it is important to note that the Company shall not be held liable and will have no duty to defend or compensate any Indemnitee under this agreement for:\n\n   (i) Any unconventional methods or processes in which the Service might be utilized by MBE or any MBE Center, which depart from those explicitly outlined in the Specifications,\n\n   (ii) Misuse of the Service by an Indemnitee, and\n\n   (iii) The integration, functioning, or employment of the Service with software or data not supplied by the Company, if such infringement could have been prevented with the exclusion of such integrations, functions, or usages. The onus for avoiding potential infringements in such cases remains with the Indemnitee.",
+    "contradiction_score": 0.019743984565138817,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 54074,
+    "end_char": 54475,
+    "original": "--------------- (a) Indemnification by the Company. The Company, at its own expense, will ------------------------------ indemnify, defend and hold harmless MBE, and its employees, franchisees, representatives and agents, against any claim, suit, action, or other proceeding brought against MBE or such party, to the extent that such claim, suit, action or other proceeding is based on or arises from.",
+    "ollama_generated": "------------------- (a) Defense and Indemnification by the Company. In the event that a claim, suit, action, or other proceeding is brought against MBE or any of its employees, franchisees, representatives, or agents, which is based on or arises from matters within the control or responsibility of the Company, the Company shall have the right, but not the obligation, to defend and indemnify such party at its own expense. This indemnification will only extend to those losses for which the Company would be liable under the terms of this agreement.",
+    "contradiction_score": 0.0031611674930900335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 116,
+    "start_char": 56432,
+    "end_char": 57439,
+    "original": "14.  Limitation of Liability. Notwithstanding anything to the contrary in ----------------------- this Agreement, in no event shall either party's liability under any provision of this Agreement or otherwise arising out of or related to this Agreement (other than payments due or accrued under Section 8, exceed the amounts paid by MBE and the MBE Centers to the Company pursuant to this Agreement. The parties further agree that NEITHER PARTY WILL BE LIABLE FOR ANY LOST PROFITS, FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES OR FOR ANY CLAIM OR DEMAND AGAINST A PARTY BY ANY OTHER PARTY. IN NO EVENT WILL EITHER PARTY BE LIABLE FOR Source: STAMPS.COM INC, 10-Q, 11/14/2000 CONSEQUENTIAL, INCIDENTAL, SPECIAL, INDIRECT, OR EXEMPLARY DAMAGES ARISING OUT OF THIS AGREEMENT, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND UNDER ANY CAUSE OF ACTION, INCLUDING NEGLIGENCE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+    "ollama_generated": "14. Limitation of Liability and Consequential Responsibilities. Notwithstanding anything to the contrary within this Agreement, neither party will bear responsibility for any consequential, indirect, special, incidental, or exemplary damages resulting from this Agreement, regardless of whether such damage was foreseeable or a party has been informed of its potential occurrence. Moreover, while both parties are absolved from liability for lost profits and costs associated with acquiring alternative goods or services, they will remain accountable for any payments due or accrued under Section 8 as per this Agreement. The parties acknowledge that these limitations will apply regardless of the effectiveness of any remedy, including but not limited to claims based on negligence. This agreement does, however, imply an ongoing responsibility for each party to fulfill their contractual obligations diligently.\n\nIn essence, while both parties retain a commitment to meet their respective contractual duties, they will not be held liable for any damages beyond the payments due or accrued under Section 8 of this Agreement. Additionally, neither party will bear responsibility for lost profits, procurement costs of substitute goods or services, or any claims made by third parties. In all cases, neither party will be liable for special, indirect, or exemplary damages arising out of or related to this Agreement.",
+    "contradiction_score": 0.02564132958650589,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 61510,
+    "end_char": 61889,
+    "original": "(ii)  During the Termination Period, the Company will give reasonable cooperation and support to MBE to assure an orderly and efficient transition and, without limiting the generality of the foregoing, at MBE's expense, the Company shall be obligated to provide MBE with data reasonably necessary for MBE to convert or implement the non-Company systems, procedures and practices.",
+    "ollama_generated": "(ii) During the Transition Period, MBE will have the right to request reasonable cooperation and assistance from the Company to facilitate a smooth and efficient transition process. Furthermore, at MBE's discretion and expense, the Company shall be entitled to withhold or delay provision of data that may not be strictly necessary for MBE to convert or implement non-Company systems, procedures, and practices, subject to MBE's ability to demonstrate a clear business need for such information.",
+    "contradiction_score": 0.03213350102305412,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 62186,
+    "end_char": 62749,
+    "original": "(ii)  Within thirty (30) days after the Termination Completion Date, Source: STAMPS.COM INC, 10-Q, 11/14/2000 each party shall, at its own expense, destroy or return to the Company and make no further use of, any property, materials or other items of the other party and shall certify, in writing that it has done so (iii) Nothing contained herein shall limit any other remedies that either party may have for the default of the other party under this Agreement nor relieve either party of any of their obligations incurred prior to termination of this Agreement.",
+    "ollama_generated": "(ii') Following the Termination Effective Date, each party shall have a period of thirty (30) days to retain or securely store, at its own expense, any property, materials, or other items belonging to the other party. After this retention period, the parties must arrange for the safe return of these items to one another, subject to mutual agreement on transfer costs, if applicable. Each party shall provide a written confirmation that it has complied with these requirements. (iii') This Agreement does not exclude or limit any rights either party may have for breaches of the other party's obligations under this Agreement prior to its termination. However, upon termination, each party is relieved of future obligations incurred specifically as a result of the termination, but remains responsible for all obligations accrued before such termination.",
+    "contradiction_score": 0.1900845468044281,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 130,
+    "start_char": 64496,
+    "end_char": 64648,
+    "original": "17.  Warrant. On the Effective Date, the Company shall issue the Warrant to ------- MBE, upon the terms and subject to the conditions set forth therein.",
+    "ollama_generated": "17. Warranty Issuance Commitment. As of the Effective Date, ------- MBE is entitled to receive the Warrant from the Company, with the stipulations and contingencies outlined within the said instrument.",
+    "contradiction_score": 0.012016619555652142,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 64756,
+    "end_char": 64775,
+    "original": "18.  Miscellaneous.",
+    "ollama_generated": "18. Diversified Provisions.\n\nIn the event that any dispute arises out of this Agreement, the parties agree to engage in good faith negotiations to resolve such dispute amicably. If a resolution cannot be reached within thirty (30) days from notice of the dispute, either party may resort to legal action, bearing responsibility for their own legal fees and costs, unless otherwise specified by applicable law.\n\nThis change slightly weakens the obligation on both parties to engage in good faith negotiations and shifts the responsibility for legal fees and costs to each party, except in cases where specific laws dictate otherwise.",
+    "contradiction_score": 0.09954393655061722,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 69936,
+    "end_char": 70135,
+    "original": "---------- *  Confidential treatment has been requested for the bracketed portion. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "Clause:\n-----------\n* Upon request, the enclosed information within the brackets shall be considered confidential and not disclosed to any third party without explicit written consent from the providing party. It is noted that this confidential information has been filed separately with the Securities and Exchange Commission for record-keeping purposes only.\n\nIn the new clause, the obligation of maintaining confidentiality lies solely with the recipient, while in the original clause, it was implied that both parties were bound by confidentiality. This shifts the responsibility towards the recipient, making the clause more stringent for them.",
+    "contradiction_score": 0.050342168658971786,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 143,
+    "start_char": 70449,
+    "end_char": 70505,
+    "original": "If to the Company:                       iShip.com, Inc.",
+    "ollama_generated": "In the event of a claim or dispute arising between the Parties concerning this Agreement, the party receiving notice (hereinafter \"Recipient\") shall have the sole discretion to initiate and resolve such matter, and the other party (hereinafter \"Initiator\") shall cooperate fully with the Recipient and abide by any resolution or decision made by the Recipient in good faith.\n\nIn contrast, in the original clause, it was the Company (iShip.com, Inc.) who had the sole discretion to initiate and resolve claims or disputes. The revised clause shifts this responsibility to the other party, but with the added requirement that the Recipient acts in good faith.",
+    "contradiction_score": 0.005959722213447094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 71145,
+    "end_char": 71324,
+    "original": "(k) Counterparts. This Agreement may be executed in counterparts, each of ------------ which shall be deemed an original and all of which together shall constitute one instrument.",
+    "ollama_generated": "(k) Multiple Execution Points. This Agreement can be individually signed as separate parts, with each such signature location considered an authentic copy. Collectively, these signed copies will form a single unified document.",
+    "contradiction_score": 0.013258961029350758,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 72842,
+    "end_char": 73467,
+    "original": "(ii)  In the event of any such claim or dispute, the parties shall first attempt to resolve the matter through good faith, informal negotiations, including non-binding mediation. In the event that the parties are unable to resolve the dispute, either party hereto may demand arbitration by written notice to the other party and to the AAA in San Diego. The parties shall mutually agree on one arbitrator. If the parties cannot so agree, the single arbitrator shall be selected by the AAA. The costs of arbitration are to be shared equally by the parties. Each party shall be responsible for its own costs and attorneys' fees.",
+    "ollama_generated": "(ii) In the event of any claim or dispute between the parties, it will initially be the responsibility of each party to actively seek resolution through good faith, informal negotiations, and non-binding mediation processes. However, if these efforts prove fruitless and a deadlock persists for a period of 60 days from the commencement of such negotiations, either party may trigger arbitration by providing written notice to the other party and the American Arbitration Association (AAA) in San Diego.\n\nIn the event of a disagreement regarding the selection of the arbitrator, the AAA shall appoint the single arbitrator. The costs of initiating the arbitration process shall be equally divided between the parties. Each party will bear their own legal fees and costs throughout the proceedings, with no reimbursement expected from the other.\n\nBy shifting the onus of initial resolution efforts onto both parties and imposing a timeframe for these efforts, we aim to encourage proactive problem-solving while also streamlining the arbitration process in case of a prolonged impasse.",
+    "contradiction_score": 0.025220319628715515,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 75172,
+    "end_char": 75245,
+    "original": "ISHIP.COM, INC.                                  MAILBOXES ETC. USA, INC.",
+    "ollama_generated": "MAILBOXES ETC. USA, INC.                                       ISHIP.COM, INC.\n\nIn the event of a breach of this Agreement by either party, instead of exercising the remedies stated herein, MAILBOXES ETC. USA, INC. shall first endeavor to resolve any disputes arising amicably and through good faith negotiations, without resorting to legal action unless absolutely necessary for the protection of its rights or interests. This clause is intended to encourage a cooperative approach towards resolving disputes and fostering continued business relationships between the parties.",
+    "contradiction_score": 0.0007302859448827803,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 164,
+    "start_char": 79055,
+    "end_char": 79509,
+    "original": "---------------------------------------------------------------------------------------------------------------------- A  customer  shipping  a  PLD-compliant  and  ramp-ready package   through  a  MBE  Center ,   which   package  is III C (3)                           manifested  through an  Internet  web site  operated  by eBay Customer                         eBay  Incorporated  or in connection  with an auction or sale conducted on such web site.",
+    "ollama_generated": "Package shipments, compliant with PLD standards and deemed ready for deployment, submitted through an MBE Center, are considered to be under the responsibility of the sender, regardless of whether the manifestation is done via an Internet website operated by eBay Inc., or associated with an auction or sale on such platform. In the event of any disputes or issues, the sender shall bear the primary responsibility for ensuring the package's compliance and readiness for shipping.",
+    "contradiction_score": 0.009487909264862537,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 167,
+    "start_char": 80110,
+    "end_char": 80998,
+    "original": "EXHIBIT D SYSTEM SPECIFICATIONS The Service will enable MBE and MBE Centers to process packages for domestic shipment, weigh these packages, and create shipping labels. The Service will export data to a given MBE Center 's Point-of-Sale (POS) station, and will support ARS/BIN packages, consignee billing, freight insurance, MBE proprietary or designated transit declared value, and customer address book access. All carrier rating information will be maintained by the Company from its central database management system (DBMS). MBE Centers will be allowed to create or Source: STAMPS.COM INC, 10-Q, 11/14/2000 modify their own mark-ups for shipping, and, at its expense, the Company will update and/or adjust its pricing information for each MBE Center  for each carrier to reflect such modifications. This Exhibit D may be modified from time to time by mutual agreement of the parties.",
+    "ollama_generated": "EXHIBIT D SYSTEM SPECIFICATIONS\n\nThe Service shall facilitate the ability of MBE and MBE Centers to process packages for domestic shipment, measure these packages, and generate shipping labels. The Service will transmit data to a designated Point-of-Sale (POS) station within an MBE Center, while supporting ARS/BIN packages, consignee billing, freight insurance, MBE proprietary or specified transit declared value, and access to the customer address book. It is understood that the MBE Centers retain the responsibility for managing their own mark-ups for shipping, and they are expected to notify the Company of any such modifications. The Company shall endeavor to update its pricing information for each carrier to reflect these changes, but assumes no liability for any discrepancies or delays in doing so. This Exhibit D may be amended unilaterally by either party, with prior written notice, subject to mutual agreement on the revised terms.",
+    "contradiction_score": 0.0019906831439584494,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 83213,
+    "end_char": 83348,
+    "original": "-------- Ground Three Day Select Second Day Air Second Day Air AM, Next Day Air Saver Next Day Air Next Day Air Early AM International:",
+    "ollama_generated": "Clause:\n    --------------------- Expedited Shipping Options Exclusive of Liability for Timely Delivery:\n\n    In the event that you choose Ground Three-Day Select Second-Day Air, Second-Day Air AM, Next Day Air Saver, Next Day Air, or Next Day Air Early AM International shipping methods, please note that while we endeavor to deliver within these timeframes, our responsibility is limited to making reasonable efforts in this regard. Any delays beyond the specified timeframes are not our liability, and you acknowledge and accept such risk.",
+    "contradiction_score": 0.19313442707061768,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

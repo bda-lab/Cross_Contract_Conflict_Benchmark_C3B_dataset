@@ -1,0 +1,129 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 265,
+    "original": "Exhibit 4.36 DEVELOPMENT AGREEMENT between LEO PHARMA A/S of Industriparken 55, DK-2750 Ballerup, Denmark (hereinafter referred to as \"LEO\") --- GALEN (CHEMICALS) LIMITED of 4 Adelaide Street, Dun Laoghaire, Co. Dublin, Ireland (hereinafter referred to as \"GALEN\").",
+    "ollama_generated": "Exhibit 4.36 DEVELOPMENT AGREEMENT between LEO PHARMA A/S of Industriparken 55, DK-2750 Ballerup, Denmark (hereinafter referred to as \"LEO\") --- GALEN (CHEMICALS) LIMITED of 4 Adelaide Street, Dun Laoghaire, Co. Dublin, Ireland (hereinafter referred to as \"GALEN\").\n\nIn this Agreement, GALEN shall have the primary responsibility for the development of specified projects, with LEO providing support and resources as mutually agreed upon. In the event that GALEN is unable to fulfill its obligations under this Agreement due to unforeseen circumstances, LEO shall have the discretion to step in and complete the development work in whole or in part. This shift in responsibility does not absolve GALEN of any financial or legal obligations arising from the initial undertaking.",
+    "contradiction_score": 0.20332378149032593,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 2587,
+    "end_char": 2939,
+    "original": "I - DEFINITIONS 1.1      \"AB rated\" means, with respect to any Product (as defined in the Dovonex(R) Agreement), a pharmaceutical product which is an AB-rated equivalent to the Product, as defined in the 22nd edition of Approved Drug Products with Therapeutic Equivalence Evaluations issued by the United States Department of Health and Human Services.",
+    "ollama_generated": "I - DEFINITIONS\n1.1      \"AB-equivalent\" shall mean, relative to any Product (as defined in the Dovonex\u00ae Agreement), a pharmaceutical product that is considered an AB-equivalent substitute for the Product, as per the 22nd edition of Approved Drug Products with Therapeutic Equivalence Evaluations published by the United States Department of Health and Human Services.\n\nIn this revised clause, I changed \"AB rated\" to \"AB-equivalent,\" which subtly alters the focus from a rating or classification system to an equivalency or substitution context, potentially implying that there might be more room for alternatives beyond strict equivalence as defined in the original clause.",
+    "contradiction_score": 0.002919520251452923,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3993,
+    "end_char": 4099,
+    "original": "1.6      \"Dovonex(R) Product\" means the Compound marketed in the Territory under the trademark Dovonex(R).",
+    "ollama_generated": "1.6    \"The product identified as 'Dovonex(R)' refers to the compound distributed within the Territory, which is marketed under the trademark Dovonex(R).\"\n\n[Note: The original clause clearly identifies the Dovonex(R) Product as the Compound being marketed in the Territory. The rewritten clause does not explicitly state who is marketing the product, implying that the responsibility could potentially shift to another party.]",
+    "contradiction_score": 0.024167854338884354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 4777,
+    "end_char": 5044,
+    "original": "1.10     \"IND\" means the Investigational New Drug Application, as defined by the United States Federal Food, Drug and Cosmetic Act and applicable regulations promulgated thereunder as amended from time to time, filed in the United States, for the Combination Product.",
+    "ollama_generated": "1.10  \"IND\" refers to the Investigational New Drug Application, as outlined by the United States Federal Food, Drug and Cosmetic Act and subsequent regulations, subject to any amendments, yet to be filed in the United States, pertaining to the Combination Product. This implies that the filing of the IND is contingent upon the parties involved.",
+    "contradiction_score": 0.0058514815755188465,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6040,
+    "end_char": 6148,
+    "original": "1.16     \"Master Agreement\" means the Master Agreement dated as of even date herewith between LEO and GALEN.",
+    "ollama_generated": "1.16   \"Master Agreement\" shall refer to the Master Agreement signed on the same day as this document, binding the parties identified as GALEN and LEO respectively.",
+    "contradiction_score": 0.01516336016356945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 7639,
+    "end_char": 7757,
+    "original": "1.22     \"Trademark\" means the trademark Dovobet(R) or any other trademark LEO may select for the Combination Product.",
+    "modified": "1.22   \"Trademark\" refers to the trademark chosen by LEO Pharma (the \"LEO\") from among its existing marks, including Dovobet(R), or any new trademark that LEO elects for the Combination Product, at its sole discretion. In the absence of such selection, the default mark shall be Dovobet(R).",
+    "contradiction_score": 0.5194708108901978,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 7757,
+    "end_char": 7988,
+    "original": "II - WORK BY LEO 2.1      LEO has performed any and all preclinical, clinical and other studies necessary to obtain marketing approval for the Combination Product in Europe and has borne all costs and expenses associated therewith.",
+    "ollama_generated": "II - WORK BY LEO 2.1     The responsibility for conducting any and all preclinical, clinical, and other studies required to secure marketing approval for the Combination Product in Europe, as well as the associated costs and expenses, shall lie with LEO, who is not obligated to do so unless mutually agreed upon by both parties.",
+    "contradiction_score": 0.35270923376083374,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 8201,
+    "end_char": 8329,
+    "original": "A development plan is attached as Appendix I 2.2      LEO is responsible for obtaining approval of the NDA in the United States.",
+    "ollama_generated": "Approval of the Non-Disclosure Agreement (NDA) in the United States shall be the responsibility of LEO, subject to the approval being granted in accordance with Appendix I 2.2 of the development plan provided herein.",
+    "contradiction_score": 0.0027786882128566504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 10387,
+    "end_char": 11226,
+    "original": "4.4      In any case under this Article IV, where GALEN or LEO is to indemnify the other, the control of the defence of any Action or Proceeding and negotiations for settlement and compromise thereof, shall repose with the indemnifying Party, except that nothing in this paragraph shall be construed to relieve either Party hereto of the obligation to give the other all reasonable co-operation, assistance and authority necessary to permit full and complete defence of any Action or Proceeding\u037e provided, however, that no Party will settle any of such claims without consent of the other Party\u037e however, such consent shall not be unreasonably withheld. Both Parties shall, if desired, be allowed to participate, at their own expense, directly or through a representative e.g. their product liability insurers, in any Action or Proceeding.",
+    "ollama_generated": "4.4    With respect to any dispute arising under Article IV, the right to manage the defense of such Action or Proceeding, including settlement and compromise negotiations, will rest with the Party being indemnified. Notwithstanding this provision, both Parties are obligated to provide reasonable cooperation, assistance, and authority to ensure a comprehensive defense. The indemnifying Party, however, shall not settle any claim without first obtaining written consent from the other Party, which shall only be withheld for substantial reasons. The other Party may choose, at their discretion and expense, to participate directly or through a representative, such as product liability insurers, in any such Action or Proceeding.",
+    "contradiction_score": 0.005372886545956135,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 13341,
+    "end_char": 13918,
+    "original": "5.3      Neither Party shall make any press release or other public announcement or other disclosure to third Parties relating to this Agreement without the prior consent of the other Party, which consent shall not be unreasonably withheld, except where required by applicable Law\u037e provided that prior to disclosure, the disclosing Party shall notify the nondisclosing Party sufficiently prior to making such disclosure so as to allow the nondisclosing Party adequate time to take whatever action it may deem to be appropriate to protect the confidentiality of the information.",
+    "modified": "5.3. Either Party reserves the right, without seeking prior consent from the other, to make any press release or public announcement or other disclosure concerning this Agreement to third Parties, subject to the requirement that such disclosures comply with applicable Law. However, it is recommended that the disclosing Party provides reasonable advance notice to the nondisclosing Party before making such disclosure, to allow the nondisclosing Party a reasonable opportunity to advise on appropriate measures to safeguard any confidential information, but this obligation to notify shall not create an obligation for the nondisclosing Party to take any action beyond providing advice. The nondisclosing Party's consent to any disclosure shall not be presumed or implied unless explicitly granted in writing.",
+    "contradiction_score": 0.6164016127586365,
+    "kept": true
+  },
+  {
+    "clause_index": 40,
+    "start_char": 14301,
+    "end_char": 14443,
+    "original": "VI - COMPLIANCE WITH LAWS Both LEO and GALEN shall observe all applicable Laws in effect in fulfilling their obligations under this Agreement.",
+    "ollama_generated": "VII - OBSERVANCE OF APPLICABLE LAWS\n\nIt is expressly agreed upon by both LEO and GALEN that they shall not be obligated to act beyond the requirements stipulated by Laws applicable in their respective jurisdictions, while discharging their responsibilities under this Agreement. Any additional regulatory or compliance requirements will require mutual agreement between the parties.",
+    "contradiction_score": 0.15442796051502228,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 28501,
+    "end_char": 28679,
+    "original": "LEO PHARMA A/S Att. CEO, President Industriparken 55 DK-2750 Ballerup Denmark Fax: + 45 44 64 15 80 or such other address as the receiver shall have last furnished to the sender.",
+    "ollama_generated": "ADDRESSEE (CEO/President of LEO PHARMA A/S): Industriparken 55, DK-2750 Ballerup, Denmark, or any alternative address you may provide in writing to us for future correspondence. Our fax number remains the same: +45 44 64 15 80.",
+    "contradiction_score": 0.1453593671321869,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 28840,
+    "end_char": 29125,
+    "original": "Rockaway, April ____, 2003                          Ballerup,  April ____, 2003 GALEN (CHEMICALS) LIMITED                           LEO Pharma A/S ------------------------------                      ---------------------------- Name:  Roger M. Boissonneault                       Name:",
+    "modified": "Rockaway, April ____, 2003               Ballerup,  April ____, 2003\n   GALEN (CHEMICALS) LIMITED                     LEO Pharma A/S\n   ------------------------------               ----------------------------\n   Name:  Roger M. Boissonneault                Name:\n\nRewritten Clause:\n\nIn the event that any dispute arises between the parties concerning this agreement, it shall be resolved through mediation prior to commencing legal proceedings. If the matter remains unresolved after mediation, either party may initiate a lawsuit. This clause does not preclude either party from seeking temporary or provisional relief through court proceedings in exigent circumstances, provided such actions do not undermine the mediation process.\n\n(Original Clause: In the event that any dispute arises between the parties concerning this agreement, it shall be settled by arbitration in accordance with the rules of the Danish Arbitration Association. Any party may initiate a lawsuit, but only after the expiration of a period of 45 days following written notification to the other party about the dispute and an opportunity for the other party to provide a reply within that timeframe. The parties shall first attempt in good faith to resolve any dispute through negotiations or mediation before resorting to arbitration or legal action.)",
+    "contradiction_score": 0.5061138272285461,
+    "kept": true
+  }
+]

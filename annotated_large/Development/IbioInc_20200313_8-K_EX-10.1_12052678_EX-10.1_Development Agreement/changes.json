@@ -1,0 +1,169 @@
+[
+  {
+    "clause_index": 10,
+    "start_char": 5540,
+    "end_char": 5875,
+    "original": "2.0 Coordinators and Governance Terms 2.1 Project Technical Coordinators will be appointed by each the Parties for each Statement of Work. The Project Technical Coordinators will be responsible for exchanging information with the other Party, coordinating any visits and arranging all other matters pertinent to that Statement of Work.",
+    "ollama_generated": "2.0 Role and Responsibilities of Project Technical Coordinators\n2.1 Each Party shall have the discretion to nominate a Project Technical Coordinator for each Statement of Work. The nominated coordinators will be expected to facilitate communication with the other Party, coordinate visits, and manage all matters relevant to that Statement of Work, although the Parties acknowledge that they retain ultimate responsibility for their respective actions and decisions.",
+    "contradiction_score": 0.011030545458197594,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 6837,
+    "end_char": 7007,
+    "original": "b) Agreement on any modifications to the tasks and responsibilities for an ongoing project under the SOW\u2019s, will fall under the oversight of the Agreement Administrators.",
+    "ollama_generated": "c) The parties reserve the right to propose modifications regarding the tasks and responsibilities associated with the ongoing project as outlined in the SOWs; however, it is incumbent upon them to reach an agreement, and any such agreement shall be subject to the approval of the Agreement Administrators.",
+    "contradiction_score": 0.005466662347316742,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 7007,
+    "end_char": 7156,
+    "original": "c) Neither Agreement Administrator is authorized to modify or change any term or condition of the Agreement or the overall scope of work for any SOW.",
+    "ollama_generated": "d) The parties expressly reserve the right for either Agreement Administrator to suggest modifications or adjustments to the terms, conditions, or scope of work within the Agreement, but such proposals shall not be binding unless explicitly agreed upon in writing by both parties.",
+    "contradiction_score": 0.36391180753707886,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 8675,
+    "end_char": 8883,
+    "original": "Master Joint Development Agreement iBio CC-Pharming Page 3 of 12 Source: IBIO, INC., 8-K, 3/13/2020 2.5 Each Party may change its Agreement Administrators, at any time, with written notice to the other Party.",
+    "ollama_generated": "2.5 Upon providing written notice to the other Party, either Party retains the discretionary right, at their sole and absolute discretion, to designate a new Agreement Administrator, effective immediately upon such notification. The original Party responsible for the predecessor Administrator shall remain liable for any obligations or debts arising from the actions of the predecessor Administrator until fully settled.",
+    "contradiction_score": 0.004857704974710941,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 8883,
+    "end_char": 9170,
+    "original": "3.0 Costs and Expenses 3.1 Upon execution of this Agreement and acceptance of iBio\u2019s proposal for the development of a Plant-Made Rituximab, and in consideration for providing the technology transfer contemplated herein, CC-Pharming shall pay iBio [***] , which shall be paid as follows:",
+    "ollama_generated": "3.0 Costs and Expenses\n3.1 In the event that CC-Pharming elects to proceed with the development of a Plant-Made Rituximab, based on iBio's proposal, and subject to the conditions outlined in this Agreement, iBio shall grant the technology transfer contemplated herein. Under these circumstances, iBio will be compensated by CC-Pharming [***], which shall be remunerated as follows:\n\nThis revised clause shifts the onus of initiating the process to CC-Pharming and makes the payment contingent upon their decision to proceed with the development, rather than an obligation imposed upon them upon the execution of the agreement. Additionally, it positions iBio as the provider of the technology transfer in exchange for compensation, rather than CC-Pharming paying for the technology transfer as a condition of the agreement's execution.",
+    "contradiction_score": 0.00814975518733263,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 9639,
+    "end_char": 9722,
+    "original": "3.1.3 Final payment of [***] , due upon presentation of the following deliverables:",
+    "ollama_generated": "3.1.3 The initial payment of [***] shall be made by the Client, following the approval of the following deliverables:\n\nThis change inverts the condition, placing the payment obligation on the client instead of the recipient of the deliverables.",
+    "contradiction_score": 0.2956094741821289,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 10159,
+    "end_char": 10661,
+    "original": "4.0 Inventions 4.1 Inventorship of inventions, developments, or discoveries first conceived or actually reduced to practice under this Agreement (\u201cAgreement Inventions\u201d) will be determined under U.S. Patent Law. All inventions, developments, or discoveries made solely by iBio prior to this Agreement is, and shall be, the sole property of iBio. All inventions, developments, or discoveries made solely by CC- Pharming thereof prior to this Agreement is, and shall be, the sole property of CC-Pharming.",
+    "ollama_generated": "4.0 Intellectual Property Ownership\n4.1 For the purposes of U.S. Patent Law, ownership of inventions, developments, or discoveries (hereafter referred to as \"Intellectual Properties\") that are either initially conceptualized or practically realized during this Agreement (\"Agreement Intellectual Properties\") shall be determined. All pre-existing Intellectual Properties belonging exclusively to iBio at the time of this Agreement shall remain the exclusive property of iBio. Conversely, all pre-existing Intellectual Properties that are solely owned by CC-Pharming prior to this Agreement shall be and remain the sole property of CC-Pharming.\n\nIn this version, the clause emphasizes ownership of pre-existing intellectual properties rather than inventions, developments, or discoveries made under the agreement. This subtly shifts responsibility of any new creations under the contract away from the original statement's focus on iBio and CC-Pharming.",
+    "contradiction_score": 0.4708520472049713,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 10661,
+    "end_char": 11569,
+    "original": "4.2 All rights to inventions, patentable or non-patentable, made solely by employees of iBio during the term of this Agreement shall belong solely to iBio. All rights to inventions, patentable or non-patentable, made solely by employees of CC-Pharming during the term of this Agreement shall belong solely to CC-Pharming. All rights to Agreement Inventions, patentable or non-patentable, made jointly by employees of iBio and employees of CC-Pharming (\u201cJoint Inventions\u201d) will belong jointly to iBio and CC-Pharming, with inventorship determined as described in 35 U.S.C. \u00a7 262 and (Chin Patent Law). The Parties contemplate that each will benefit from Joint Inventions, as such, iBio will be responsible for direct control over the drafting and prosecution of any patents to Joint Inventions, with copy to CC- Pharming. The parties shall share equally in the costs of patent protection for Joint Inventions.",
+    "modified": "4.2 All rights to inventions, patentable or non-patentable, developed by employees of iBio or CC-Pharming during the term of this Agreement will initially belong exclusively to the respective entities that made them (i.e., inventions by iBio employees will belong solely to iBio and inventions by CC-Pharming employees will belong solely to CC-Pharming). However, in the event of a Joint Invention made by employees of both parties as described in 35 U.S.C. \u00a7 262 and (Chin Patent Law), the initial ownership shall be split equally between iBio and CC-Pharming. The Party responsible for the primary conception of the Joint Invention will have the right to determine inventorship. For clarity, the Party responsible for the primary conception will also bear the responsibility for direct control over the drafting and prosecution of any patents to Joint Inventions, with copies provided to the other party. The parties shall share equally in the costs of patent protection for Joint Inventions, but each party will be responsible for bearing its own costs associated with inventions it owns solely.",
+    "contradiction_score": 0.9006786346435547,
+    "kept": true
+  },
+  {
+    "clause_index": 32,
+    "start_char": 11569,
+    "end_char": 12296,
+    "original": "Master Joint Development Agreement iBio CC-Pharming Page 4 of 12 Source: IBIO, INC., 8-K, 3/13/2020 4.3 Each Party shall promptly provide to the other Party a written invention disclosure of each Agreement Invention made by its employees that results directly from the present Agreement for worked performed under the SOWs herein. The other Party agrees to delay making public, by publication or otherwise, until the earlier of (a) the first filing of a patent application claiming the Agreement Invention by the Inventing Party\u037e or (b) six months after the date the Agreement Invention is disclosed to the other Party\u037e or (c) mutual agreement of the Parties that neither will pursue legal protection of an Agreement Invention.",
+    "modified": "4.3 Each Party shall not be obligated to disclose in writing, within a reasonable timeframe, any inventions resulting from this Master Joint Development Agreement, as defined by an \"Agreement Invention\", made by their employees during the execution of the Service Orders (SOWs) herein. The receiving Party acknowledges the right to publicly disclose, through publication or otherwise, the Agreement Invention before the inventing Party files a patent application for it. However, such disclosure shall be delayed until either: (a) the inventing Party submits a patent application claiming the Agreement Invention; or (b) six months have elapsed since the Agreement Invention was shared with the receiving Party; or (c) both Parties mutually agree to waive the pursuit of legal protection for an Agreement Invention.",
+    "contradiction_score": 0.9344052076339722,
+    "kept": true
+  },
+  {
+    "clause_index": 45,
+    "start_char": 18779,
+    "end_char": 19538,
+    "original": "7.6 Confidential Information must be identified as Confidential at the time of disclosure, and all material containing Confidential Information must have a restrictive marking. Any Confidential Information disclosed orally or visually must be summarized by the disclosing Party in writing and the writing must be provided to the receiving Party within twenty (20) days after the disclosure. In the case of inadvertent disclosure of Confidential information that was not marked as Confidential, the Disclosing Party has ten (10) business days from the time they discover that the information should have been marked Confidential, to inform the other Party of such a designation, and the parties agree to retroactively mark any such information as Confidential.",
+    "ollama_generated": "7.6 Designated Confidential Information need not necessarily be labeled as such upon initial disclosure; however, it is expected that the Disclosing Party will promptly apply a restrictive marking to all materials containing Confidential Information within a reasonable timeframe. Any oral or visual disclosure of Confidential Information should be followed by a written summary provided to the Receiving Party no later than twenty (20) days after the initial disclosure. In the event that Confidential Information is inadvertently disclosed without proper marking, the Disclosing Party shall have up to ten (10) business days from the discovery of such oversight to notify the other Party and apply a Confidential designation to the relevant information. The parties mutually agree to honor this retroactive marking for the purpose of protecting the confidential nature of the disclosed information.",
+    "contradiction_score": 0.1790187507867813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 19547,
+    "end_char": 19683,
+    "original": "7.7 The parties agree that limitations on disclosure of Confidential information under section 7.3 shall last 5 years from signing date.",
+    "ollama_generated": "7.7 For a period of five years following the Execution Date, each party acknowledges and consents to the restrictive disclosure provisions outlined in section 7.3 regarding Confidential Information.\n\nIn this revision, I've attempted to maintain the original meaning while altering the emphasis slightly. The new clause now indicates that both parties acknowledge and consent to the restrictive disclosure provisions, which is a more active stance compared to the original where it states that the limitations on disclosure exist. This change subtly shifts the responsibility from simply stating the limitations' existence to the parties actively acknowledging and consenting to them.",
+    "contradiction_score": 0.005077357403934002,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 22373,
+    "end_char": 22715,
+    "original": "8.6 Attorney\u2019s Fees. In the event that any claim, suit, action or proceeding is instituted or commenced by any Party hereto against any other Party arising out of or related to this Agreement, the prevailing Party will be entitled to recover its reasonable attorneys\u2019 fees, expert fees, expenses and court costs from the non-prevailing Party.",
+    "modified": "8.6 Attorney's Fees. In the unusual instance where no resolution can be reached amicably between the Parties concerning any dispute arising from this Agreement, the Responsible Party, as determined by a mutually agreed-upon arbitrator or court of competent jurisdiction, shall bear the costs of reasonable attorneys' fees, expert fees, expenses, and court costs incurred by the other Party. In such cases, the burden of proof for determining the Responsible Party shall rest with the initiating Party.",
+    "contradiction_score": 0.7305058240890503,
+    "kept": true
+  },
+  {
+    "clause_index": 54,
+    "start_char": 23065,
+    "end_char": 23566,
+    "original": "9.2 Trademarks. Except as otherwise provided herein, this Agreement does not confer any rights to use in advertising, publicity or other marketing activities any name, trade name, trademark, or other designation of either Party hereto, including any contraction, abbreviation, or simulation of any of the foregoing, without prior written agreement, and each Party agrees not to use or refer to this Agreement or its terms in any such activities without the express written approval of the other Party.",
+    "ollama_generated": "9.2 Trademarks: Unless explicitly granted herein, neither Party shall be entitled to utilize any name, trademark, logos, or similar identifiers associated with the other Party for advertising, publicity, or marketing purposes without obtaining prior, written consent. In addition, both Parties agree not to reference this Agreement or its stipulations in any such activities without the express, written permission from the other Party. This provision shall not restrict either Party from using generic descriptions of their respective products or services, provided that no third party may reasonably associate such usage with the other Party's trademarks or branding.",
+    "contradiction_score": 0.23748141527175903,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 23811,
+    "end_char": 24279,
+    "original": "9.4 Notice. All notices shall be in writing and shall be valid and sufficient if sent by: (a) registered or certified mail, return receipt required, postage prepaid\u037e (b) by facsimile (provided the receipt of the facsimile is evidenced by a printed record of completion of transmission)\u037e or (c) by express mail or courier service providing a receipt of delivery. Notice shall be effective upon receipt. The notices shall be addressed iBio, Inc. Beijing CC-Pharming Ltd.",
+    "ollama_generated": "9.4 Communication. All communications should be in written form and will be deemed valid and effective if delivered by one or more of the following methods: (a) registered or certified mail with a delivery confirmation receipt, postage prepaid; (b) confirmed facsimile transmission, as evidenced by a transmittal report; or (c) overnight delivery service with proof of delivery. Communications will be considered received three business days after dispatch, except in cases where express delivery has been used, in which case they will be deemed received upon delivery confirmation. All communications should be directed to the following addresses: iBio, Inc., Attn: Legal Department, and Beijing CC-Pharming Ltd., Attn: Legal Department.\n\nThis revised clause changes the original notice requirement to a broader communication requirement, softens the \"effective upon receipt\" language by specifying a three business day timeframe for non-express deliveries, and shifts responsibility for address accuracy to both parties by using the phrase \"Attn: Legal Department\".",
+    "contradiction_score": 0.36794424057006836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 26976,
+    "end_char": 27285,
+    "original": "9.11 Independent Parties. Each Party may have similar agreements with others, and may design, develop, manufacture, acquire or market competitive products and services, and conduct its business in whatever way it chooses. Each Party will independently establish prices and terms for its products and services.",
+    "ollama_generated": "9.11 Mutually Recognized Autonomy. While each Party may engage in agreements with third parties and pursue similar lines of business, they are mutually bound to respect the competitive nature of their endeavors. Any pricing or terms established by one Party shall not be used as a benchmark or reference point for the other Party without prior written consent.\n\nIn this revised clause, the original \"Each Party may... and conduct its business in whatever way it chooses\" has been rephrased to emphasize mutual respect and acknowledgment of each party's competitive actions, while also introducing a provision that requires prior written consent for using one party's pricing or terms as a reference point. This modification creates a sense of obligation where the original clause did not explicitly imply any such requirement.",
+    "contradiction_score": 0.1335797756910324,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 28227,
+    "end_char": 28635,
+    "original": "9.15 No Oral Modifications. Any amendment or modification of this Agreement shall be in writing and shall be signed by authorized representatives of the Parties. No approval, consent or waiver will be enforceable unless signed by the granting Party. Failure to insist on strict performance or to exercise a right when entitled does not prevent a Party from doing so later for that breach, or a future breach.",
+    "ollama_generated": "9.15 Written Agreements Only. Any deviations, adjustments, or alterations to this Agreement must be in written form and duly signed by the designated representatives of both Parties. No implied amendments or modifications will hold legal force unless they are formally documented in writing and affixed with the appropriate signatures. The right to enforce adherence to the terms and conditions of this Agreement shall not be deemed waived due to a failure to demand strict compliance, nor shall such forbearance preclude either Party from enforcing compliance later for any past or future breaches.",
+    "contradiction_score": 0.005301110912114382,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 29009,
+    "end_char": 29346,
+    "original": "9.17 Independent Judgment. The Parties acknowledge that: (a) they had read this Agreement\u037e (b) they understand the terms and conditions of this Agreement\u037e (c) they have had the opportunity to seek legal counsel and advice\u037e (d) are of equal bargaining power\u037e and (e) they have relied on their own judgment in entering into this Agreement.",
+    "ollama_generated": "9.17 Self-Reliance and Counsel Consultation. The Parties affirm that: (a) they have read and familiarized themselves with this Agreement; (b) they comprehend the stipulations and implications of this Agreement; (c) they were given the chance to consult independent legal counsel, but their decision to do so was discretionary; (d) each party acknowledges that neither holds a dominant bargaining position in relation to the other; (e) they entered into this Agreement voluntarily, having relied on their individual judgments and decisions, without any undue influence or pressure from the other.",
+    "contradiction_score": 0.016280202195048332,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

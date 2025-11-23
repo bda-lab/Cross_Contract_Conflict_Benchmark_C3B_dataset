@@ -1,0 +1,443 @@
+[
+  {
+    "clause_index": 12,
+    "start_char": 5082,
+    "end_char": 5221,
+    "original": "1.9 Business Day - Monday through Friday, excluding days on which Bank of America is not open for business in the United States of America.",
+    "ollama_generated": "1.9 Operating Hours - Weekdays only (excluding any day that U.S. branches of Bank of America remain closed for business).\n\n*This change subtly implies that the service may also be available on some non-business days, but it is not guaranteed.",
+    "contradiction_score": 0.0037811975926160812,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 7724,
+    "end_char": 7824,
+    "original": "1.18 Effective Date - the date set forth on the signature page on which this Agreement takes effect.",
+    "ollama_generated": "1.18 Commencement Date - the date indicated on the signature page that marks the beginning of this Agreement's binding force. However, it is understood that all provisions shall be considered as having retroactive effect from the point when both parties have agreed, either verbally or in writing, to be bound by these terms, but no earlier than the date specified on said signature page.",
+    "contradiction_score": 0.1787205934524536,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 11743,
+    "end_char": 11842,
+    "original": "1.34 Product License Schedule - a document substantially in the form of SCHEDULE A attached hereto.",
+    "ollama_generated": "1.34 Product Licensing Schedule - a document bearing a substantial resemblance to SCHEDULE A, annexed herein. (This version allows for minor differences or adjustments from Schedule A without strictly adhering to it.)\n\nOr alternatively, if you want to shift the responsibility:\n\n1.34 Product Licensing Schedule - a document of similar form as SCHEDULE A, which may be provided by the Licensee at their discretion. (This version places the onus on the licensee to provide the schedule, not necessarily the one attached here.)",
+    "contradiction_score": 0.006962241604924202,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 12595,
+    "end_char": 12842,
+    "original": "1.38 Relationship Manager(s) -the employee designated by a Party to act on its behalf with regard to matters arising under this Agreement who shall be the person the other Party shall contact in writing regarding matters concerning this Agreement.",
+    "ollama_generated": "1.38 Assigned Representative - An individual appointed by either Party, who will serve as their point of contact for matters pertaining to this Agreement. It is incumbent upon the non-designating Party to establish communication with the designated representative in writing, concerning any issues related to this Agreement.",
+    "contradiction_score": 0.21240444481372833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 13135,
+    "end_char": 13777,
+    "original": "1.41 Software - the Licensed Programs and Object Code licensed by Supplier pursuant to a Product License Schedule that produces the results described in the Program Materials, together with the Documentation, all Corrections, Customizations and Updates and any Upgrades acquired by Bank of America pursuant to this Agreement, and, if licensed to Bank of America in this Agreement, the Source Code or other software programs offered by Supplier to the public on Supplier\u2019s Web site and used by Bank of America, notwithstanding any associated EULA, GPL or other license terms, any Updates thereto, and any related user manuals or Documentation.",
+    "ollama_generated": "1.41 Software - The software licensed by the Supplier, as outlined in a Product License Schedule, which generates outcomes consistent with the Program Materials, accompanied by the Documentation, all corrections, customizations, updates, and any acquired upgrades by Bank of America under this Agreement. Additionally, the Source Code or other publicly available software programs provided by the Supplier and utilized by Bank of America, even though these may be subject to their own End User License Agreements (EULAs), General Public Licenses (GPLs), or other license terms, as well as any associated updates to these licenses, user manuals, or Documentation. However, it is the responsibility of Bank of America to ensure compliance with these ancillary licensing conditions, unless explicitly stated otherwise within this Agreement.",
+    "contradiction_score": 0.007709409110248089,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 13777,
+    "end_char": 14071,
+    "original": "Proprietary to Bank of America  Page 3  vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 1.42 Source Code - the human-readable code from which a computer can compile or assemble the Object Code of a computer program, together with a description of the procedure for generating the Object Code.",
+    "modified": "1.42 Alteration: The human-interpretable code that serves as the basis for generating the Object Code of a computer program, encompassing both the source code itself and the instructions for producing the Object Code. As the recipient, you are granted access to this Alteration under the proviso that you acknowledge its exclusive ownership by CARDLYTICS, INC., and that any subsequent modifications or derivatives are solely your responsibility, relieving Bank of America from any liability or claim arising therefrom.",
+    "contradiction_score": 0.9720839262008667,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 14081,
+    "end_char": 14212,
+    "original": "1.43 Subcontractor - a third party to whom Supplier has delegated or subcontracted any portion of its obligations set forth herein.",
+    "ollama_generated": "1.43 Designated Subcontractor - a party to whom the Supplier may assign or delegate, at its sole discretion, certain responsibilities or tasks outlined in this agreement, acting as an extension of the Supplier's own performance.",
+    "contradiction_score": 0.0037608861457556486,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 14384,
+    "end_char": 14582,
+    "original": "1.45 Supplier Security Controls those controls implemented by Supplier as part of its Information Security Program that address each of the Bank Security Requirements, as modified from time to time.",
+    "ollama_generated": "1.45 The Bank Security Requirements, as they may be amended from time to time, will serve as a guide for the Security Controls implemented by the Supplier within its Information Security Program. It is understood that the Supplier shall aim to comply with these guidelines, but shall not be held liable for any deviations or failures resulting from inadequacies or ambiguities in the Bank's Security Requirements.",
+    "contradiction_score": 0.0027216277085244656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 18939,
+    "end_char": 19469,
+    "original": "2.5 The license is subject to the following restrictions: (a) Title to and ownership of the Software (except the Bank of America Customizations) shall remain with Supplier or its licensors\u037e (b) Bank of America shall not reverse engineer, reverse compile or disassemble any part of the Software without the prior written consent of Supplier: and (c) Bank of America shall not remove, obscure or deface any proprietary legend relating to the Software and shall include in each copy all proprietary notices contained in the Software.",
+    "ollama_generated": "2.5 The license carries the following limitations, wherein alterations are made for clarification: (a) While you, Bank of America, may utilize the Software (excluding the Bank of America Customizations), the title to and ownership of the Software shall remain with the Supplier or its respective licensors; (b) You are granted the liberty to explore, scrutinize, and analyze any portion of the Software, but this privilege is contingent upon obtaining the prior written consent from the Supplier before doing so; (c) It is your responsibility to preserve all proprietary notices associated with the Software in their original form, including the inclusion of such notices in each copy. Furthermore, you shall refrain from any actions that might potentially obstruct or obscure these proprietary notices.",
+    "contradiction_score": 0.005085544660687447,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 38865,
+    "end_char": 39418,
+    "original": "Proprietary to Bank of America  Page 9  vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 B. Unless otherwise directed by Bank of America, Supplier shall continue to develop the Customizations using the Customization specifications in effect at the time Bank of America requests the change. Supplier may amend Customization specifications at no charge at its option, provided that Supplier shall obtain Bank of America\u2019s written consent to such amendment. At Supplier\u2019s option, Supplier may use the Change Order form to obtain Bank of America\u2019s consent.",
+    "ollama_generated": "Custom Development Rights by Bank of America  - Page 9 - vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018\n\n A. At its discretion, and subject to any specific instructions from Bank of America, the Supplier may choose to modify or update the Customizations based on customization specifications existing at the time of Bank of America's request for change. It is explicitly understood that this right to modify comes without any additional cost to the Supplier.\n\n However, should the Supplier elect to amend the customization specifications, it shall first seek written consent from Bank of America prior to implementation. The Supplier reserves the option to utilize the Change Order form for this purpose, though such use is not mandatory.\n\n Essentially, this clause establishes that the Supplier holds the freedom to modify or update the Customizations as needed, at no additional cost, unless otherwise directed by Bank of America. Any changes to the customization specifications require Bank of America's consent, which can be granted through either written communication or the Change Order form.",
+    "contradiction_score": 0.042241908609867096,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 40260,
+    "end_char": 41048,
+    "original": "7.7 Marketing Restrictions. Unless specified in the applicable customization Schedule or otherwise agreed, all Customizations shall be deemed Bank of America Customizations. Bank of America shall own all right, title, and interest in and to the Bank of America Customizations as Work Product in accordance with Section 39.0. Supplier shall not provide a Bank of America Customization to any third party. In the event that any Bank of America Customization is furnished or plan, design or specification for producing the same has been specifically designed, developed or modified for or by Bank of America, then no such Bank of America Customization, plan, design or specification shall be duplicated or furnished to others by Supplier without the prior written consent of Bank of America.",
+    "ollama_generated": "7.7 Intellectual Property Rights and Marketing Obligations. Except as specified in the relevant customization Schedule or mutually agreed, all Customizations will be considered as belonging to the intellectual property of Bank of America, in accordance with Section 39.0. The Supplier is prohibited from offering any Bank of America Customization to external parties. In instances where a Bank of America Customization is supplied, or if a plan, design, or specification for its production has been explicitly tailored for or by Bank of America, the Supplier may not reproduce, distribute, or share such Bank of America Customization, plan, design, or specification without obtaining prior, written authorization from Bank of America. This restriction does not apply if Bank of America chooses to make an exception in writing.",
+    "contradiction_score": 0.028570834547281265,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 102,
+    "start_char": 48040,
+    "end_char": 48512,
+    "original": "10.2 Bank of America shall use the procedure in this Section to determine acceptance of Customizations and Upgrades. If Bank of America finds an Upgrade not to be Operative and rejects it, Bank of America shall have no obligation to pay for such Upgrade if Supplier provided the Upgrade to Bank of America for an additional charge above Maintenance Services, and Supplier shall continue to support the version or release of the Software that Bank of America has installed.",
+    "ollama_generated": "10.2 In the event that Customizations or Upgrades are presented by the Supplier, it is solely at Bank of America's discretion to accept them using the procedure outlined within this Section. If Bank of America deems an Upgrade inoperable and chooses not to accept it, neither party shall be obligated to compensate for the said Upgrade, provided that the Upgrade was offered by the Supplier as an extra charge beyond Maintenance Services. In such a case, the Supplier shall remain responsible for supporting the existing version or release of the Software that Bank of America has installed.\n\nThis revised clause shifts responsibility back to the Supplier in the event that their upgrades are not accepted and they continue to support the existing software. It also clarifies that neither party will be obligated to pay for the rejected upgrade if it was offered as an additional charge beyond Maintenance Services.",
+    "contradiction_score": 0.02041914127767086,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 50228,
+    "end_char": 50857,
+    "original": "Supplier shall provide training Documentation for each attendee at any classes Supplier conducts. Prices for additional classes, if any, shall be specified in an Order. If Supplier agrees to allow Bank of America to train Bank of America personnel, Supplier shall provide Bank of America, at the rates and fees specified in an Order, if any, all trainer/class leadership materials Supplier has available or used in connection with the classes conducted for Bank of America. Bank of America may duplicate these materials for Bank of America\u2019s use exclusively and use them to conduct other classes at Bank of America\u2019s convenience.",
+    "ollama_generated": "Upon request by Bank of America, Supplier will make reasonable efforts to provide training documentation for each attendee in classes conducted by Supplier. In the event that additional classes are required, prices will be negotiated and detailed in a separate agreement (Order). If Supplier consents to deliver training to Bank of America's personnel, Supplier will grant Bank of America access to any trainer/class leadership materials at the rates and fees outlined in the agreed-upon Order. Bank of America is authorized to reproduce these materials solely for its internal use and may employ them to lead additional classes at its discretion, acknowledging that any such use remains subject to Supplier's intellectual property rights.\n\nIn this revised clause, the obligation on the Supplier to provide training documentation has been weakened by changing \"shall\" to \"will make reasonable efforts to.\" Additionally, the responsibility for negotiating prices for additional classes has shifted from being specified in an Order (as it was in the original clause) to being detailed in a separate agreement. Lastly, the clause now clearly acknowledges that Bank of America's use of Supplier's materials remains subject to Supplier's intellectual property rights.",
+    "contradiction_score": 0.09580416977405548,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 53797,
+    "end_char": 53897,
+    "original": "16.2 The items listed on Supplier\u2019s invoice must appear in the same sequence as listed on the Order.",
+    "ollama_generated": "16.2 While the Supplier's invoice is expected to include the items listed in the sequence as provided in the Order, some variation may be acceptable, provided that all items are correctly identified and the sequence does not significantly alter the understanding or execution of the Order.",
+    "contradiction_score": 0.14470359683036804,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 71734,
+    "end_char": 72509,
+    "original": "23.0 BUSINESS CONTINUITY 23.1 Supplier agrees to establish, maintain and implement per the terms thereof, a Business Continuity Plan. The Business Continuity Plan must be in place and delivered to Bank of America within forty-five (45) calendar days after the Effective Date of this Agreement. The Business Continuity Plan shall be delivered annually thereafter and shall include, but not be limited to, the items called for in SCHEDULE G entitled \u201cRecovery,\u201d as applicable. If Bank of America objects in writing to any provision of such plans and controls, Supplier shall respond in writing within thirty (30) calendar days, explaining, among other matters Supplier wishes to include in its response, the actions Supplier intends to take to cure Bank of America\u2019s objection.",
+    "ollama_generated": "23.0 BUSINESS CONTINUITY PLAN MODIFICATIONS\n23.1 The Supplier has the discretionary authority to develop, maintain, and adjust their Business Continuity Plan according to their terms and requirements, subject to this Agreement's provisions. The Supplier shall provide Bank of America with a copy of the Business Continuity Plan within forty-five (45) calendar days after the Effective Date of this Agreement, or at such later date as they deem necessary for updates. The plan provided shall include, but not be limited to, the items specified in SCHEDULE G entitled \u201cRecovery,\u201d as applicable.\n\nShould Bank of America express written objections regarding any provision of the Supplier's Business Continuity Plan and controls, the Supplier will have sixty (60) calendar days to respond in writing, detailing their perspective and proposed adjustments to address Bank of America's concerns. The Supplier shall retain the final authority to determine whether modifications are necessary and appropriate.",
+    "contradiction_score": 0.2498241364955902,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 81807,
+    "end_char": 82619,
+    "original": "26.2.6 Technology Errors and Omissions Insurance with minimum limits of not less than $5,000,000, covering liabilities arising from errors, omission, etc., in rendering computer or information technology services including but not limited to (1) systems analysis (2) systems programming (3) data processing (4) systems integration (5) outsourcing including outsourcing development and design (6) systems design, consulting, development and modification (7) training services relating to computer software or hardware (8) management, repair and maintenance of computer products, networks and systems (9) marketing, selling, servicing, distributing, installing and maintaining computer hardware or software (10) data entry, modification, verification, maintenance, storage, retrieval or preparation of data output.",
+    "ollama_generated": "26.2.6 In the event of any Technology-related Claims due to errors, omissions, or similar issues in providing computer or information technology services, we shall maintain an Errors & Omissions Insurance policy with a minimum coverage limit of $5,000,000. The covered liabilities encompass, but are not limited to:\n\n   (1) Systems analysis\n   (2) Systems programming\n   (3) Data processing\n   (4) Systems integration\n   (5) Outsourcing (development and design)\n   (6) Systems design, consulting, development, and modification\n   (7) Training related to computer software or hardware\n   (8) Management, repair, and maintenance of computer products, networks, and systems\n   (9) Marketing, selling, servicing, distributing, installing, and maintaining computer hardware or software\n   (10) Data entry, modification, verification, maintenance, storage, retrieval, or preparation of data output.\n\nHowever, it is important to note that this clause does not imply a guarantee or warranty for the services rendered under any circumstance. The client acknowledges and agrees that the insurance policy serves as a risk management tool and does not absolve us from our professional obligations or liabilities arising from intentional acts or gross negligence.",
+    "contradiction_score": 0.0009391876519657671,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 88298,
+    "end_char": 89194,
+    "original": "27.5 With the exception of Associate Information, Customer Information and Consumer Information, the obligations of confidentiality in this Section shall not apply to any information that (i) Recipient rightfully has in its possession when disclosed to it, free of obligation to Discloser to maintain its confidentiality\u037e (ii) Recipient independently develops without access to Discloser\u2019s Confidential Information\u037e (iii) is or becomes known to the public other than by breach of this Section or (iv) is rightfully received by Recipient from a third party without the obligation of confidentiality. Any combination of Confidential Information disclosed with information not so classified shall not be deemed to be within one of the foregoing exclusions merely because individual portions of such combination are free of any confidentiality obligation or are separately known in the public domain.",
+    "modified": "27.5 The obligations of confidentiality in this Section shall primarily apply to all information, except for Associate Information, Customer Information, and Consumer Information. However, these obligations may not extend to any information that (i) Recipient already possesses without a prior obligation from the Discloser to keep it confidential; (ii) Recipient independently develops or acquires without any access to or use of Discloser\u2019s Confidential Information; (iii) becomes publicly known, except through a breach of this Section by either party; (iv) is lawfully obtained by Recipient from a third party under no obligation of confidentiality. It should be noted that a combination of Confidential Information with information not so classified does not automatically fall under any of the above exemptions, even if some components are individually known publicly or are free of any confidentiality obligation.",
+    "contradiction_score": 0.6515995860099792,
+    "kept": true
+  },
+  {
+    "clause_index": 164,
+    "start_char": 89552,
+    "end_char": 90048,
+    "original": "27.7 All Confidential Information disclosed by Bank of America and any results of processing such Confidential Information or derived in any way therefrom shall at all times remain the property of Bank of America. Supplier shall have the responsibility for and bear all risk of loss or damage to Confidential Information and damages resulting from improper or inaccurate processing of such data arising from the negligence or willful misconduct of Supplier, its Representatives or Subcontractors.",
+    "modified": "27.7 The Confidential Information shared by Bank of America, along with any insights gained from processing this information or any derivations thereof, shall be exclusively owned by Bank of America at all times. It is acknowledged that the Supplier assumes full responsibility for and bears all risks associated with the protection, loss, or damage of the Confidential Information. Any damages arising from improper or inaccurate handling of such data due to the negligence or intentional misconduct of the Supplier, its Agents, or Assigns shall be borne entirely by the Supplier.\n\nIn this revised clause, we have shifted the responsibility for loss or damage to the Confidential Information from Bank of America to the Supplier. Additionally, the supplier now bears all damages resulting from improper handling rather than Bank of America.",
+    "contradiction_score": 0.6129367351531982,
+    "kept": true
+  },
+  {
+    "clause_index": 182,
+    "start_char": 99539,
+    "end_char": 99733,
+    "original": "B. The indemnity in the preceding provision shall not extend to any claim of infringement resulting solely from Bank of America\u2019s unauthorized modification or use of the Work Product or Product.",
+    "modified": "C. In the event specified in the prior provision, Bank of America shall bear sole responsibility for any claims of infringement arising exclusively from an authorized alteration or application of the Work Product or Product by them.",
+    "contradiction_score": 0.8217008709907532,
+    "kept": true
+  },
+  {
+    "clause_index": 186,
+    "start_char": 101814,
+    "end_char": 102223,
+    "original": "Proprietary to Bank of America  Page 24  vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 31.0 SUPPLIER DIVERSITY 31.1 Supplier acknowledges and supports the Bank of America Supplier Diversity efforts supporting minority, woman and disabled-owned business enterprises and its commitment to the participation of minority, woman and disabled-owned business enterprises in its procurement of goods and services.",
+    "ollama_generated": "31.1 The Supplier hereby acknowledges and aligns with the Bank of America's commitment to the promotion of diverse suppliers, including minority, woman, and disabled-owned business enterprises. It is understood that the Supplier will strive towards facilitating the participation of such businesses in the procurement of goods and services, but this does not obligate the Supplier to exclusively source from these groups.\n\nThis revised clause maintains the spirit of supporting diversity while shifting the focus to the Supplier's efforts towards promoting diverse suppliers rather than an obligation for exclusive sourcing from them.",
+    "contradiction_score": 0.0023792001884430647,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 189,
+    "start_char": 103142,
+    "end_char": 103413,
+    "original": "C. \u201cWoman-Owned Business Enterprise\u201d is recognized as a \u201cfor profit\u201d enterprise, regardless of size, located in the United States or its trust territories, which is at least fifty-one  (51%) percent owned, operated and controlled by a female of United States citizenship.",
+    "ollama_generated": "C. An entity qualifies as a \"Woman-Owned Business Enterprise\" when it meets the following criteria: It is a for-profit organization, regardless of its size, established within the United States or its trust territories, and is at least fifty-one percent (51%) controlled, managed, and owned by an individual who is not obligated to be, but may choose to be, a female citizen of the United States.",
+    "contradiction_score": 0.0015644183149561286,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 190,
+    "start_char": 103413,
+    "end_char": 104003,
+    "original": "D. \u201cDisabled Veteran-Owned Business Enterprise\u201d is recognized as a \u201cfor profit\u201d enterprise, regardless of size, located In the United States or its trust territories, which is at least fifty-one  (51%) percent owned, operated, and controlled by a disabled veteran. The disabled veteran\u2019s ownership and control shall be real and continuing and not created solely to take advantage of special or set aside programs aimed at supplier diversity. The Association of Service Disabled Veterans, www.asdv.org provides certification for this category of business owners throughout the United States.",
+    "ollama_generated": "A. An enterprise, regardless of size, shall be deemed a \"Recognized Disabled Veteran-Owned Business Enterprise\" if it is situated within the United States or its trust territories and is wholly or majority-owned (51% or more) by a disabled veteran, with the understanding that such ownership and control must be substantial and ongoing. It should be noted that this status is not intended to be exploited for special benefits or set-aside programs targeted towards supplier diversity; instead, it must represent genuine and longstanding ownership and control. The Association of Service Disabled Veterans (ASDV) offers certification services to verify the status of such business owners across the United States, accessible via their website at www.asdv.org.",
+    "contradiction_score": 0.026105456054210663,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 195,
+    "start_char": 106151,
+    "end_char": 107287,
+    "original": "33.0 AUDIT 33.1 Supplier shall maintain at no additional cost to Bank of America, in a reasonably accessible location, all Records pertaining to its Products and services provided to Bank of America under this Agreement for a period of seven (7) years or as required by law, if longer. Such Supplier Records referenced above may be inspected, audited and copied by Bank of America, its Representatives or by federal or state agencies having jurisdiction over Bank of America, during normal business hours and at such reasonable times as Bank of America and Supplier may determine. Records available for review shall exclude any records pertaining to Supplier\u2019s other customers deemed proprietary and confidential and Supplier confidential and proprietary records not associated with the Products and services provided under this Agreement. Supplier will give prior notice to Bank of America of requests by federal or state authorities to examine Supplier\u2019s Bank of America Records. At Bank of America\u2019s written request, Supplier shall reasonably cooperate with Bank of America in seeking a protective order with respect to such Records.",
+    "ollama_generated": "33.0 AUDIT\n33.1 Bank of America may request, at no additional cost to the Supplier, that the Supplier maintains, in a reasonably accessible location, all Records pertaining to its Products and services provided to Bank of America under this Agreement for a period of seven (7) years or as required by law, if longer. The Supplier shall grant Bank of America, its Representatives, or federal or state agencies having jurisdiction over Bank of America, the right to inspect, audit, and copy such Records during normal business hours and at such reasonable times as may be mutually agreed upon.\n\nHowever, the Supplier reserves the right to withhold access to records pertaining to its other customers deemed proprietary and confidential, as well as Supplier confidential and proprietary records not associated with the Products and services provided under this Agreement. The Supplier will provide Bank of America with prior notice of any requests by federal or state authorities to examine the Supplier\u2019s Bank of America Records. In case of such a request, it shall be the responsibility of Bank of America to seek a protective order for the records in question, with reasonable cooperation from the Supplier.",
+    "contradiction_score": 0.2744470536708832,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 197,
+    "start_char": 108214,
+    "end_char": 109065,
+    "original": "33.3 Supplier shall provide a copy of the latest operational audit for facilities not managed by Bank of America that are used to provide services under this Agreement. If necessary, Supplier, at its sole cost and expense, will engage a nationally recognized certified public accounting firm to conduct the audit and prepare applicable reports. Each report will cover a minimum six (6) calendar month period each calendar year during the Term. Such audits may be on a rotating site basis where operations and procedures of Supplier services provided to Bank of America are in multiple locations in order to confirm that Supplier is in compliance in all aspects of the Agreement Supplier shall provide Bank of America with a copy of each report prepared in connection with each such audit within thirty (30) calendar days after it receives such report.",
+    "ollama_generated": "33.3 Bank of America may, at its discretion and expense, request a copy of the latest operational audit for facilities used to provide services under this Agreement that are not managed by the Supplier. If a request is made, the Supplier shall cooperate in good faith and provide any necessary assistance, such as engaging a nationally recognized certified public accounting firm if required. Each audit will cover a minimum six (6) calendar month period each calendar year during the Term and may be conducted at the Bank of America's chosen location(s). The Supplier is responsible for sharing any reports generated from these audits with Bank of America within thirty (30) calendar days after it receives them. In the event that the Supplier elects not to perform an audit or fails to provide a report in a timely manner, the Bank of America reserves the right to engage its own auditor at the Supplier's expense.",
+    "contradiction_score": 0.016868112608790398,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 203,
+    "start_char": 113142,
+    "end_char": 113975,
+    "original": "34.0 NON-ASSIGNMENT 34.1 Neither Party may assign this Agreement or any of the rights hereunder or delegate any of its obligations hereunder, without the prior written consent of the other Party, and any such attempted assignment shall be void, except that Bank of America or any permitted Bank of America assignee may assign any of its rights and obligations under this Agreement (including, without limitation, any individual Order) to any Bank of America Affiliate, the surviving corporation with or into which Bank of America or such assignee may merge or consolidate or an entity to which Bank of America or such assignee transfers all, or substantially all, of its business and assets. Bank of America may not unreasonably withhold its consent of assignment in the event the supplier merges or consolidates with another entity.",
+    "modified": "34.0 RIGHT OF ASSIGNMENT\n34.1 Either Party shall have the right, without the need for prior written consent from the other, to assign this Agreement or any of its rights hereunder, or delegate its obligations, to a third party. Any such assignment shall be deemed effective upon notice given to the non-assigning Party. However, Bank of America reserves the right to object to an assignment if it determines, in good faith and at its discretion, that the assignee does not meet Bank of America's standard criteria for business associates. In the event of such objection, the assigning Party shall promptly discontinue any further action related to the assignment. Bank of America may also assign its rights and obligations under this Agreement (including, without limitation, any individual Order) to any Bank of America Affiliate, the surviving corporation with or into which Bank of America transfers all, or substantially all, of its business and assets, subject to the same conditions as set forth in this clause.",
+    "contradiction_score": 0.9501027464866638,
+    "kept": true
+  },
+  {
+    "clause_index": 210,
+    "start_char": 120586,
+    "end_char": 120956,
+    "original": "38.0 NON-EXCLUSIVE  NATURE OF AGREEMENT 38.1 Supplier agrees that it shall not be considered Bank of America\u2019s exclusive provider of any goods or services provided hereunder. Bank of America retains the unconditional right to utilize other vendors in the provision of services and products whether or not similar to the services and Products described in this Agreement.",
+    "ollama_generated": "38.0 FLEXIBILITY IN VENDOR SELECTION\n38.1 The Supplier acknowledges and agrees that it is understood as one among several potential providers of goods or services detailed within this Agreement for Bank of America. Bank of America reserves the discretionary right, with no obligation, to source from various vendors when procuring services and products, regardless of whether they are similar to those defined in this Agreement. This flexibility allows Bank of America to meet its needs effectively and efficiently.",
+    "contradiction_score": 0.009665412828326225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 211,
+    "start_char": 120956,
+    "end_char": 122801,
+    "original": "39.0 OWNERSHIP OF WORK PRODUCT 39.1 Bank of America will own exclusively all Work Product and Supplier hereby assigns to Bank of America all right, title and interest (including all Intellectual Property Rights) in the Work Product. Work Product, to the extent permitted by law, shall be deemed \u201cworks made for hire\u201d (as that term is defined in the United States Copyright Act). Supplier shall provide Bank of America upon request with all assistance reasonably required to register, perfect or enforce such right, title and interest, including providing pertinent information and, executing all applications, specifications, oaths, assignments and all other instruments that Bank of America shall deem necessary. Supplier shall enter into agreements with all of its Representatives and Subcontractors necessary to establish Bank of America\u2019s sole ownership in the Work Product. Bank of America acknowledges Supplier\u2019s and its licensors\u2019 claims of proprietary rights in preexisting works of authorship and other intellectual property (\u201cPre-existing  IP\u201d) Supplier uses in its work pursuant to this Agreement. Bank of America does not claim any right not expressly granted by this Agreement in such Pre-existing  IP, which shall not be deemed Work Product, even if incorporated with Work Product in the Product Supplier delivers to Bank of America. Unless otherwise agreed in an Order, Supplier grants Bank of America a perpetual, worldwide, irrevocable, nonexclusive royalty free license to any Pre-existing  IP embedded in the Work Product, which shall permit Bank of America and any transferee or sublicensee of Bank of America, subject to the restrictions in this Agreement, to make, use, import, reproduce, display, distribute, make derivative works and modify such Pre-existing  IP as necessary or desirable for the use of the Work Product.",
+    "modified": "39.0 OWNERSHIP AND LICENSE OF WORK PRODUCT\n\n39.1 The Supplier grants Bank of America a non-exclusive, worldwide, perpetual, irrevocable, royalty-free license to use, reproduce, display, distribute, make derivative works and modify the Work Product, including all Intellectual Property Rights therein. Bank of America shall be deemed the exclusive owner of the Work Product, subject to the Supplier's and its licensors\u2019 claims of proprietary rights in preexisting works of authorship and other intellectual property (\"Pre-existing IP\") used by the Supplier in its work under this Agreement.\n\nBank of America acknowledges that the Pre-existing IP remains the property of the Supplier or its licensors, but grants Bank of America a license to use, reproduce, display, distribute, make derivative works and modify such Pre-existing IP as necessary or desirable for the use of the Work Product. The Supplier shall provide Bank of America upon request with all assistance reasonably required to register, perfect or enforce this license, including providing pertinent information and executing all applications, specifications, oaths, assignments and all other instruments that Bank of America shall deem necessary.\n\nThe Supplier shall enter into agreements with all its Representatives and Subcontractors necessary to establish the Supplier's ownership in the Work Product, subject to Bank of America\u2019s rights under this license. Unless otherwise agreed in an Order, Bank of America does not claim any right not expressly granted by this Agreement in such Pre-existing IP, which shall be deemed separate from the Work Product and shall not be considered as part of the Work Product delivered to Bank of America.",
+    "contradiction_score": 0.7237362265586853,
+    "kept": true
+  },
+  {
+    "clause_index": 214,
+    "start_char": 123734,
+    "end_char": 124203,
+    "original": "39.4 Supplier understands and acknowledges that Bank of America may (i) manage, modify, maintain and update pre-existing  data and information, and (ii) generate, manage, modify, maintain and update additional data and information (collectively, \u201cBank of America Data\u201d) using the Software. Bank of America Data will be treated as Bank of America Confidential Information and Bank of America shall retain all right, title and interest in and to all Bank of America Data.",
+    "ollama_generated": "39.4. The Supplier hereby acknowledges and recognizes that their use of the Software may involve the creation, handling, modification, and storage of data and information (collectively, \"Supplier Data\"), some of which may be pre-existing (\"Pre-existing Data\") belonging to Bank of America. The Supplier Data shall be considered Confidential Information of Bank of America, and Bank of America shall maintain all rights, titles, and interests in such data. Furthermore, Bank of America reserves the right to manage, modify, maintain, and update this data as they deem necessary.",
+    "contradiction_score": 0.0011808645213022828,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 215,
+    "start_char": 124203,
+    "end_char": 124659,
+    "original": "39.5 Bank of America shall have the right to interface the Software and to use it in conjunction with other software, programs, routines and subroutines developed or acquired by Bank of America. Supplier shall have no ownership interest in any other software, program, routine or subroutine developed by Bank of America or acquired by Bank of America from a third party by virtue of its having been interfaced with or used in conjunction with any Software.",
+    "ollama_generated": "39.5 It is understood that Bank of America retains full ownership and control over any software, programs, routines, or subroutines developed internally or acquired from third parties, which may be interfaced with or used in conjunction with the Software provided by Supplier. Supplier acknowledges and agrees that no rights or interests in these additional software components belong to them as a result of their interaction with the provided Software.",
+    "contradiction_score": 0.12340394407510757,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 219,
+    "start_char": 126007,
+    "end_char": 126207,
+    "original": "40.4 If any provision of this Agreement is held invalid, illegal or unenforceable, the validity, legality or enforceability of the remaining provisions shall in no way be affected or impaired thereby.",
+    "ollama_generated": "40.4 Should any part of this Agreement be declared invalid, illegal, or non-binding, such a determination shall not impact or invalidate the overall validity, legality, or enforceability of the remaining provisions. Instead, such an invalid provision shall be deemed severable from the rest of the Agreement, and the remainder shall continue in full force and effect.",
+    "contradiction_score": 0.017797833308577538,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 228,
+    "start_char": 129960,
+    "end_char": 130347,
+    "original": "40.13 Unless the Parties otherwise agree in writing, all services to be provided hereunder shall be processed and/or provided, whether in part or in whole, by Supplier, its employees, Representatives and/or Subcontractors on and from a location or locations in one (1) or more of the fifty (50) states of the United States of America only, all subject to applicable laws and regulations.",
+    "modified": "40.13 In the absence of a written agreement between the Parties, it is understood that any services rendered under this Agreement may be executed by Supplier, its employees, Representatives, or Subcontractors from locations outside the United States, provided such locations comply with all relevant international laws and regulations applicable to those jurisdictions. The Parties acknowledge that this flexibility allows for potential optimization of service delivery based on global operational efficiencies, while maintaining compliance with legal obligations.",
+    "contradiction_score": 0.8777463436126709,
+    "kept": true
+  },
+  {
+    "clause_index": 232,
+    "start_char": 132003,
+    "end_char": 132237,
+    "original": "Proprietary to Bank of America  Page 32  vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 Software License, Customization and Maintenance Agreement SCHEDULE C Bank of America Change Order Request Form Bank of America \u2013 Change number:",
+    "ollama_generated": "Exclusive Rights to Bank of America (Page 32, vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 Software License, Customization and Maintenance Agreement) SCHEDULE C Bank of America Change Order Request Form\n\nBank of America \u2013 Change number:\n\nIn the event of any modifications to this software, the exclusive right to make such changes shall be solely at the discretion of Bank of America. CARDLYTICS, INC., hereby grants Bank of America the unlimited authority for all alterations, customizations and updates deemed necessary or appropriate by Bank of America.",
+    "contradiction_score": 0.023207958787679672,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 234,
+    "start_char": 132456,
+    "end_char": 132477,
+    "original": "Name:  Date required:",
+    "ollama_generated": "Name:  Date required:\n\nIn the event that certain documents or information are requested by any third party for verification purposes, Borrower shall make every reasonable effort to promptly provide such documents or information within five (5) business days of receipt of the request. Notwithstanding the foregoing, Lender shall not be liable for any delays in the processing of Loan or any other transaction arising from Borrower's failure to comply with this obligation in a timely manner.",
+    "contradiction_score": 0.03453334793448448,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 244,
+    "start_char": 133743,
+    "end_char": 133952,
+    "original": "e)  Deliver form (with attachments, if any) to Supplier Project Manager 3) Supplier Project Manager  a)  Reviews form b)  Arranges for Analyst to review form Analyst Reviews form and analyzes changes required.",
+    "ollama_generated": "d) Submit the completed form (along with any necessary attachments) to the Client's Project Analyst.\n   a) The Client's Project Analyst will acknowledge receipt of the form.\n   b) Upon acknowledgment, the Client's Project Manager will assign the form for review by an Analyst.\n   c) The Analyst will perform a preliminary analysis of the form and identify potential changes required. This analysis is not binding and does not guarantee implementation of all suggested changes.",
+    "contradiction_score": 0.367017537355423,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 251,
+    "start_char": 134948,
+    "end_char": 134987,
+    "original": "Removes and destroys \u201cIn Process\u201d copy.",
+    "modified": "Retains, but does not further develop or distribute \"In Process\" copies. Responsibility for their ultimate removal and destruction lies with the original creator of such copies.",
+    "contradiction_score": 0.5578694939613342,
+    "kept": true
+  },
+  {
+    "clause_index": 261,
+    "start_char": 135819,
+    "end_char": 136197,
+    "original": "Supplier Project Manager b) Reviews form, arranges for Supplier to assign Systems Analyst Updates project plan (may be done by Implementation Manager) 10) Supplier\u2019s Analyst   When CO completed, form is returned to Supplier Project Manager 11) Supplier Project Manager  a) Reviews the results of the CO (deliverables, activities \u2026) and concurs that CO was completed. Signs form.",
+    "ollama_generated": "Supplier's Implementation Manager a) Shall receive and assess the completed form, delegating the task of updating the project plan to the assigned Systems Analyst, if necessary. 10) Upon completion of the review, the form will be returned to the Supplier's Project Manager.\n\nb) The Supplier's Project Manager, upon receipt of the reviewed and updated form, shall have the discretion to review the results of the CO (deliverables, activities...), and may opt to sign the form, indicating acceptance that the CO has been satisfactorily completed.",
+    "contradiction_score": 0.2326938360929489,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 276,
+    "start_char": 139499,
+    "end_char": 140050,
+    "original": "B. For Class 1 Errors, Supplier shall provide a Correction or workaround reasonable in Bank of America\u2019s judgment within the Repair Period after Bank of America reports the Error, or within four (4) hours after Bank of America first reports the Error if no other Repair Period is specified. These steps shall include assigning fully-qualified technicians to work with Bank of America without interruption or additional charge, twenty-four (24) hours per day, until Supplier provides a Correction or workaround reasonable in Bank of America\u2019s judgment.",
+    "ollama_generated": "A. In the event of Class 1 Errors, it is understood that Bank of America shall promptly communicate the error to Supplier. Upon receipt of this notification, Supplier will make a diligent effort, as deemed appropriate by their own discretion, to provide a Correction or workaround within a reasonable timeframe, taking into account Bank of America's operational needs and priorities. However, in situations where no specific Repair Period is stipulated, Supplier's response time shall not exceed four (4) hours.\n\nDuring this process, Supplier agrees to allocate fully-qualified technicians to collaborate with Bank of America without disruption or additional cost, on a rotating basis that ensures 24-hour coverage per day. This collaboration will persist until a Correction or workaround acceptable to both parties is achieved.",
+    "contradiction_score": 0.13472314178943634,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 277,
+    "start_char": 140050,
+    "end_char": 140868,
+    "original": "C. For Class 2 Errors, Supplier shall take reasonable steps to provide a Correction or a workaround reasonable in Bank of America\u2019s judgment by the opening of business on the second Business Day after Bank of America reports the Error. These steps shall include assigning fully- qualified Proprietary to Bank of America  D-4  vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 technicians to work with Bank of America during Bank of America\u2019s regular business hours until Supplier provides a workaround reasonable in Bank of America\u2019s judgment or a Correction or Bank of America determines after consultation with Supplier that such a workaround or Correction cannot be produced by Supplier\u2019s technicians. Supplier shall provide a Correction within thirty (30) calendar days after Bank of America\u2019s report of the Error.",
+    "ollama_generated": "C. In the event of Class 2 Errors, it is understood that the Supplier will make every reasonable effort to rectify the issue or propose an acceptable workaround, as deemed appropriate by Bank of America, within two (2) business days following Bank of America's notification of the Error. These efforts will encompass assigning skilled Proprietary technicians, as per VTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018, to collaborate with Bank of America during Bank of America's standard operating hours.\n\nHowever, the continued involvement of Supplier's technicians beyond this period will only be necessary if, after consultation between both parties, it is determined that a workaround or Correction cannot be feasibly provided by the Supplier's technical team. In such cases, Bank of America reserves the right to engage its own personnel for the purpose of resolving the Error.\n\nIn all instances, the Supplier shall strive to provide a Correction within thirty (30) calendar days following Bank of America's report of the Error. The timeline may be extended if both parties agree in writing that additional time is required to ensure an effective resolution.",
+    "contradiction_score": 0.010913019068539143,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 278,
+    "start_char": 140868,
+    "end_char": 141274,
+    "original": "D. For Class 3 Errors, Supplier shall correct the Errors by all reasonable means. Supplier shall correct the Errors and distribute the modified Software to Bank of America no later than the next Update, unless Supplier has scheduled release of such Update less than thirty (30) calendar days after Bank of America\u2019s notice, in which case Supplier shall correct the Error no later than the following Update.",
+    "ollama_generated": "D. In the event of Class 3 Errors, Bank of America shall have the option to request the correction by providing written notice to the Supplier. If such a request is made, the Supplier will make all reasonable efforts to correct the errors within thirty (30) calendar days from receipt of Bank of America's notice, unless the Supplier has already scheduled the release of an Update less than thirty (30) calendar days following the notice. In that case, the Supplier shall correct the Error by the next available Update.",
+    "contradiction_score": 0.21573209762573242,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 291,
+    "start_char": 147709,
+    "end_char": 148055,
+    "original": "Supplier shall permit Bank of America to inspect the physical system equipment, operational environment, and Confidential Information handling procedures. Supplier\u2019s agreement with any independent contractor to provide services to Bank of America in support of this Agreement shall likewise permit Bank of America to conduct the same inspections.",
+    "ollama_generated": "The Party identified as Supplier grants Bank of America, at its discretion, the right to inspect the physical system equipment, operational environment, and Confidential Information handling procedures. In addition, any agreement entered into by the Supplier with third-party contractors, tasked with services in relation to this Agreement, shall similarly allow for such inspections by Bank of America. This right to inspection is not obligatory for the Supplier but rather voluntarily granted and may be revoked at any time upon written notice to Bank of America.",
+    "contradiction_score": 0.005391743499785662,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 295,
+    "start_char": 149739,
+    "end_char": 150814,
+    "original": "Bank of America reserves the right in its sole discretion to make appropriate privacy breach notifications to Affected Persons and regulators pursuant to federal or state guidelines, including but not limited to the Interagency Guidance on Response Programs for Unauthorized Access to Customer Information and Customer Notice. To assist Bank of America in such notifications, Supplier shall include a brief summary of the available facts, the status of any investigation, and, if known, the potential number of Affected Persons. Supplier agrees to provide at no charge, to Affected Persons appropriate credit monitoring services for two years. All costs associated with any security breach, including but not limited to, the costs of the notices to, and credit monitoring for, Affected Persons shall be the sole responsibility of Supplier. Supplier agrees that it shall not communicate with any third party, including, but not limited to the media, vendors, consumers. and Affected Persons regarding any security breach without the express written consent of Bank of America.",
+    "ollama_generated": "Bank of America retains the discretion, solely within its judgement, to issue necessary privacy incident communications to Impacted Parties and regulatory bodies in accordance with applicable federal or state regulations, such as the Interagency Guidance on Response Programs for Unauthorized Access to Customer Information and Customer Notice. To aid Bank of America in these communications, the Service Provider is expected to provide a concise overview of relevant details, the current investigation status, and, if accessible, an estimated count of Impacted Parties. The Service Provider consents to extend complimentary credit monitoring services to Impacted Parties for a period of two years without charge, as required. Any expenses related to any data breach, including, but not restricted to, the costs of notifications to and credit monitoring for Impacted Parties, will be entirely borne by the Service Provider. The Service Provider understands that it shall refrain from communicating with any external entity, comprising media outlets, vendors, consumers, and Impacted Parties regarding any data breach incident without the prior written approval of Bank of America.",
+    "contradiction_score": 0.0010801577009260654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 299,
+    "start_char": 152498,
+    "end_char": 152734,
+    "original": "SECURITY PROGRAM FEATURES At the request of Bank of America, Supplier shall meet with the Bank of America information security team to discuss information security issues In much greater detail at mutually agreeable times and locations.",
+    "ollama_generated": "SECURITY PROGRAM CONSULTATION\nUpon reasonable notice from Supplier, Bank of America may request a meeting with the Supplier's information security team for discussions on information security matters. The Supplier shall make every effort to accommodate such requests within a mutually convenient timeframe and location.",
+    "contradiction_score": 0.021578243002295494,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 305,
+    "start_char": 154324,
+    "end_char": 154421,
+    "original": "5. Business Continuity. Describe the business and technical disaster recovery management process.",
+    "ollama_generated": "5. Contingency Measures for Business Operations. Outline the strategies employed in managing potential disruptions to the business and technology infrastructure.\n\nThe purpose of this modification is to soften the obligation and broaden the scope of the described process, emphasizing the adaptability and versatility of the contingency measures rather than a specific, technical disaster recovery management process.",
+    "contradiction_score": 0.07013297080993652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 307,
+    "start_char": 154979,
+    "end_char": 155598,
+    "original": "7. Customer Access Control. Describe each logon process to be followed by Bank of America Customers (including Bank of America employees) to obtain access to services Supplier provides to Bank of America. Describe the initial enrollment process for such Customers. Describe the password policies and procedures Supplier\u2019s system enforces, including, without limitation, password expiration, length of password, password revocation, invalid logon attempt threshold, etc. Describe methods used to track/log the usage of each account Supplier shall demonstrate how a customer or end user authenticates to each application.",
+    "modified": "7. Supplier Access Control. Outline the authentication process to be followed by Bank of America, encompassing both its employees and customers, for access to the services provided by the Supplier. Detail the onboarding procedure for such users. Describe the password guidelines and regulations implemented within the Supplier's system, covering aspects such as password renewal intervals, minimum password length, revocation procedures, maximum number of unsuccessful login attempts allowed, among others. Demonstrate the methods employed to monitor/record activity within each account, with a focus on illustrating how the Supplier verifies the identity of customers or end-users for each application.",
+    "contradiction_score": 0.9613672494888306,
+    "kept": true
+  },
+  {
+    "clause_index": 310,
+    "start_char": 156276,
+    "end_char": 156599,
+    "original": "Proprietary to Bank of America  E-3  vTIP2010 Source: CARDLYTICS, INC., S-1, 1/12/2018 10. Encryption. Describe in detail the technology and usage of encryption for protecting Confidential Information, including passwords and authentication information, during transit and in all forms and locations where it may be stored.",
+    "ollama_generated": "10. Data Protection: Outline the specific methods employed for safeguarding Bank of America's sensitive data (hereafter referred to as \"Confidential Information\"), encompassing passwords and authentication details, during transmission and in any format or location where it may be stored. The responsibility for this protection mechanism lies primarily with the service provider, but we expect a thorough explanation of the encryption technology utilized and its operational practices.",
+    "contradiction_score": 0.0428299643099308,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

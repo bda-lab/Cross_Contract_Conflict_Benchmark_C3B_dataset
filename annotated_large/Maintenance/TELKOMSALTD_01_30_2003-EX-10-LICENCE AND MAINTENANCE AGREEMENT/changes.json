@@ -1,0 +1,513 @@
+[
+  {
+    "clause_index": 7,
+    "start_char": 7703,
+    "end_char": 7866,
+    "original": "- 7 -  TELKOM CONTRACT No. 076C/01 2. 4.  Any reference to any legislation is to such legislation at the signature date as amended or re-enacted from time to time.",
+    "ollama_generated": "7 - TELKOM AGREEMENT No. 076C/01\n  2.4. For any references made to any legislative act, such reference shall be construed as referring to the original legislation at the signing date, regardless of subsequent amendments or re-enactments that may occur over time.",
+    "contradiction_score": 0.2719573974609375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 8397,
+    "end_char": 8831,
+    "original": "2. 8.  Should any provision contain a provision for the benefit of a third party, whether named or not, then such third party shall be entitled to accept the benefits conferred in terms thereof, within 30 days of being notified of such benefit. It is recorded for the avoidance of doubt that the provisions of this AGREEMENT shall not in the normal course, be disclosed other than to the parties hereto and their respective employees.",
+    "ollama_generated": "2.8.  In the event that any provision of this AGREEMENT potentially benefits an unnamed third party, such third party is hereby given the option, but not obligated, to claim the benefits outlined within 30 days of receiving notice thereof. It is clarified for the sake of certainty that the terms of this CONTRACT are typically confined to the parties involved and their authorized representatives, and shall not be disclosed unless explicitly agreed upon by all parties.",
+    "contradiction_score": 0.0287870354950428,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 9976,
+    "end_char": 10128,
+    "original": "3. 3.     TELKOM shall install the SOFTWARE only on the DESIGNATED UNIT located at the DESIGNATED SITE as agreed to by the parties in annexure 1 hereto.",
+    "ollama_generated": "3.3. The Client shall, upon request from TELKOM, make available a DESIGNATED UNIT situated at the DESIGNATED SITE, as specified in Annexure 1, for the installation of the SOFTWARE by TELKOM.",
+    "contradiction_score": 0.05041161924600601,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 10862,
+    "end_char": 11168,
+    "original": "3. 4.     TELKOM may transfer the SOFTWARE from one DESIGNATED UNIT to another at a licensed DESIGNATED SITE upon prior written notice to SAP AFRICA. The - 9 -  TELKOM CONTRACT No. 076C/01 SOFTWARE must be deleted in its entirety within 90 days from such transfer from the DESIGNATED UNIT no longer in use.",
+    "modified": "3.4. TELKOM retains the right to move the SOFTWARE between designated units at any licensed DESIGNATED SITE without prior notice to SAP AFRICA. Upon such transfer, SAP AFRICA shall be responsible for removing the TELKOM CONTRACT No. 076C/01 SOFTWARE from the DESIGNATED UNIT previously in use within a reasonable period of time, but no longer than 90 days following the transfer.",
+    "contradiction_score": 0.9915021657943726,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 11168,
+    "end_char": 11444,
+    "original": "3. 5.  If TELKOM is unable to use the SOFTWARE on a DESIGNATED UNIT because of conditions beyond its control, TELKOM may temporarily install the SOFTWARE on other equipment located within the TERRITORY until such condition is corrected, provided that TELKOM shall ensure that:",
+    "ollama_generated": "3.5. Should circumstances outside TELKOM's control prevent the operation of the SOFTWARE on the DESIGNATED UNIT, TELKOM retains the discretionary right to temporarily deploy the SOFTWARE on alternative equipment situated within the TERRITORY for an indefinite period, with no obligation on TELKOM's part to rectify such condition. However, TELKOM shall endeavor to minimize any potential disruption and ensure that the temporary installation does not impair the standard performance of the system.",
+    "contradiction_score": 0.07549908012151718,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 13928,
+    "end_char": 14486,
+    "original": "3. 11.   Unless the parties should agree otherwise, TELKOM may make 1 (one) copy of the SOFTWARE at the DESIGNATED SITE for archival purposes and such number of backup copies of the SOFTWARE consistent with TELKOM'S normal periodic backup procedures. Such copies must be held in a safe place for use - 1 1 -                                             TELKOM CONTRACT No. 076C/01 only in the event of the SOFTWARE in regular use being rendered unusable or inoperable. TELKOM shall notify SAP AFRICA should TELKOM need to USE such backup or archival copy/ies.",
+    "ollama_generated": "3.12. In the absence of mutual agreement to the contrary, TELKOM retains the right to create a single archive copy of the SOFTWARE at the DESIGNATED SITE, and an additional number of copies as per our regular backup practices for archival purposes. These copies may be stored securely and utilized only if the original version of the SOFTWARE becomes inaccessible or non-functional. It is TELKOM's responsibility to inform SAP AFRICA promptly should the need arise to access such backup or archival copies.",
+    "contradiction_score": 0.40480417013168335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 17148,
+    "end_char": 18083,
+    "original": "4. 2. 1.     unless agreed otherwise in writing, TELKOM shall be responsible for installation of the SOFTWARE. TELKOM shall be responsible for configuring and installing any required disk storage systems, network software, application servers, DESIGNATED UNITS and computer terminals and workstations prior to installation of the SOFTWARE. It is recorded that upon TELKOM's request and on terms to be agreed upon separately, in writing, SAP AFRICA will provide installation services, pre- installation support, installation support, configuration, training and consulting services in respect of the SOFTWARE\u037e - 1 3 -  TELKOM CONTRACT NO. 076C/01 4. 2. 2      TELKOM shall test each module of the SOFTWARE extensively in its live business environment to determine that it appears to be free of any major defects and that it is suitable for TELKOM's application before TELKOM USES the SOFTWARE within and for the benefit of its business.",
+    "modified": "4.2.1. In the absence of a mutual, written agreement to the contrary, SAP AFRICA shall bear responsibility for the installation of the SOFTWARE. However, SAP AFRICA's responsibilities shall include configuring and installing any necessary disk storage systems, network software, application servers, DESIGNATED UNITS, and computer terminals and workstations only to the extent required for SAP AFRICA's personnel to complete their installation tasks. It is noted that upon TELKOM's request, on terms yet to be agreed upon in writing, TELKOM may avail of installation services, pre-installation support, installation support, configuration, training, and consulting services from SAP AFRICA for the SOFTWARE; - 1 3 - TELKOM CONTRACT NO. 076C/01 4.2.2     Upon TELKOM's discretion, it may choose to test each module of the SOFTWARE in its live business environment to ascertain that it appears to function without major defects and is suitable for TELKOM's business operations. However, TELKOM shall assume full responsibility for any decision to use the SOFTWARE within its business before undertaking such testing.",
+    "contradiction_score": 0.7751063704490662,
+    "kept": true
+  },
+  {
+    "clause_index": 36,
+    "start_char": 18083,
+    "end_char": 18354,
+    "original": "4. 3.    TELKOM shall be entitled to utilise or operate the SOFTWARE on different operating software for no additional licence fee or consideration but TELKOM shall be liable for any installation, configuration or other costs incurred in changing such operating software.",
+    "ollama_generated": "4.3. The Supplier (TELKOM) retains the right to employ or manage the SOFTWARE across distinct operating systems without incurring any extra licensing fees or compensation. However, it is the Customer's responsibility to bear any costs associated with installation, configuration, or other modifications required when switching the operating software.",
+    "contradiction_score": 0.005268788896501064,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 18354,
+    "end_char": 19184,
+    "original": "5.    LICENSE AND REVENUE SHARING FEES AND PAYMENT TERMS 5. 1.     Licence Fee: In consideration for the licence granted hereunder, TELKOM shall pay to SAP AFRICA the licence fee as stipulated in annexure 1 (\"the Licence Fee\"). The Licence Fee is priced in US dollars (\"USD\"). Forthwith after the effective date, SAP AFRICA shall invoice TELKOM for payment of the License Fee. SAP AFRICA shall convert the agreed License Fee, expressed in USD, into ZAR using the USD: ZAR rate of exchange ruling at the close of business on the day immediately preceding the date of invoice. For the purposes of this AGREEMENT, the \"ruling rate\" shall be the \"buy\" rate for USD's offered by SAP AFRICA'S bankers on that day. The Licence Fee expressed in ZAR as aforesaid, shall be paid by TELKOM within 30 days of receipt by TELKOM of the invoice.",
+    "ollama_generated": "5.    REVERSE LICENSE FEES AND REVENUE SHARING AGREEMENT TERMS\n\n5.1.  Reverse License Fee: In consideration for the services rendered and the license granted by TELKOM to SAP AFRICA, SAP AFRICA shall pay to TELKOM a reverse license fee as stipulated in annexure 1 (\"the Reverse License Fee\"). The Reverse License Fee is priced in US dollars (\"USD\"). Forthwith after the effective date, TELKOM shall issue an invoice to SAP AFRICA for payment of the Reverse License Fee. TELKOM shall convert the agreed Reverse License Fee, expressed in USD, into ZAR using the ZAR: USD rate of exchange ruling at the close of business on the day immediately preceding the date of invoice. For the purposes of this AGREEMENT, the \"ruling rate\" shall be the \"sell\" rate for USD's offered by TELKOM'S bankers on that day. The Reverse License Fee expressed in ZAR as aforesaid, shall be received by SAP AFRICA within 30 days of receipt by SAP AFRICA of the invoice.\n\nIn this revised clause, the obligation for payment has been shifted from TELKOM to SAP AFRICA, and the rate used for conversion (buy vs sell rate) has been inverted. This changes the financial flow and responsibility between the parties.",
+    "contradiction_score": 0.15849485993385315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 19779,
+    "end_char": 20583,
+    "original": "5. 2. 1. 1.          VAT and other Government taxes raised on such revenue\u037e 5. 2. 1. 2.          any credits, if any, that TELKOM may grant on a formal basis, to a BUSINESS THIRD PARTIES\u037e 5. 2. 1. 3.          royalties or fees that may be payable by TELKOM to a bona fide third party who provides, in terms of formal arrangements with TELKOM, additional functionality, enhancement or value add services to, or in respect of, the SOFTWARE\u037e any revenue earned or derived by TELKOM pursuant to TELKOM providing goods and/or services in a manner that does not USE the SOFTWARE\u037e and 5. 2. 1. 4.          any other type of cost or charge that SAP AFRICA and TELKOM may expressly agree shall be excluded\u037e 5. 2. 2.              shall include the following amounts payable to TELKOM by BUSINESS THIRD PARTIES for:",
+    "modified": "5.2.1. (a) Taxes, VAT, and other government-imposed fees levied on such income;\n   (b) Any credits or discounts that TELKOM might extend informally to Business Third Parties;\n   (c) Royalties or fees payable by TELKOM to third parties who offer, under informal agreements with TELKOM, additional functionality, enhancements, or value-added services not directly related to the SOFTWARE; revenue generated by TELKOM through the provision of goods and/or services without utilizing the SOFTWARE; and\n   (d) Any other expenses or charges that SAP AFRICA and TELKOM may mutually agree should be excluded.\n\n5.2.2. (e) The following amounts payable by Business Third Parties to TELKOM will not be included:\n\nThis revision weakens the obligation of Business Third Parties to pay certain fees to TELKOM, as it introduces the possibility for informal extensions of credits or discounts, and shifts the responsibility of paying royalties or fees for additional functionality, enhancements, or value-added services not directly related to the SOFTWARE, to TELKOM. Additionally, it expands the types of revenue that are excluded from this agreement.",
+    "contradiction_score": 0.8398685455322266,
+    "kept": true
+  },
+  {
+    "clause_index": 42,
+    "start_char": 20583,
+    "end_char": 21402,
+    "original": "5. 2. 2. 1.          all charges and fees for accessing the Marketplace, any value add services, any information, access to, or USE of, the SOFTWARE\u037e 5. 2. 2. 2.          regular or once - off subscription fees for access to, or USE of, the SOFTWARE, or the Marketplace or any information in respect thereof\u037e -15- TELKOM CONTRACT No. 076C/01 5. 2. 2. 3.     value add services that SAP AFRICA and it's licensors may provide to TELKOM and/or BUSINESS THIRD PARTIES USING, or in respect of, the SOFTWARE and/or the Marketplace\u037e 5. 2. 2. 4.       value added services that TELKOM may provide to BUSINESS THIRD PARTIES USING or in respect of the SOFTWARE and/or the Marketplace\u037e and 5. 2. 2. 5.       any other fee or charge that TELKOM and SAP AFRICA may in the future agree, should be included in the total gross revenue.",
+    "ollama_generated": "5.2.2.1. All charges, fees, and costs associated with accessing the Marketplace, any additional services, data, or utilization of the SOFTWARE; 5.2.2.2. Regular or one-time subscription charges for the use of the SOFTWARE, the Marketplace, or any related information; 5.2.2.3. Any value-added services offered by SAP AFRICA and its licensors to TELKOM, as well as third parties, in connection with or regarding the SOFTWARE and/or the Marketplace; 5.2.2.4. Value-added services provided by TELKOM to third parties, related to or using the SOFTWARE and/or the Marketplace; and 5.2.2.5. Any additional fees or charges that TELKOM and SAP AFRICA may agree upon in the future will be considered part of the total revenue, but are not guaranteed to be received by either party.\n\nIn this revised clause, I have shifted some of the potential obligations and responsibilities from one party (Telkom) to the other (Sap Africa), specifically with regards to value-added services provided to third parties. Additionally, I've clarified that the additional fees or charges may not necessarily be received by either party.",
+    "contradiction_score": 0.050814174115657806,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 22364,
+    "end_char": 22594,
+    "original": "5. 5    Should TELKOM fail to pay the REVENUE SHARE FEE, such failure shall not effect TELKOM'S rights to USE the SOFTWARE but SAP AFRICA shall be entitled to separately claim such payments from TELKOM as provided for hereinabove.",
+    "ollama_generated": "5. 5. In the event that SAP AFRICA fails to receive timely payment of the REVENUE SHARE FEE from TELKOM, SAP AFRICA shall retain its right to pursue collection of such payments independently, and TELKOM's access and use of the SOFTWARE may be suspended until payment is received in full.",
+    "contradiction_score": 0.24952974915504456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 26625,
+    "end_char": 26947,
+    "original": "Subject to, and without prejudice to, the provisions of clauses 6. 2. 2, 10 and 11, should this AGREEMENT be terminated for whatever reason, then TELKOM shall not be entitled to any refund of any of the Licence Fee payments or portions thereof made by TELKOM other than Maintenance Fees that may have been paid in advance.",
+    "modified": "In the event of termination of this AGREEMENT, regardless of cause, Telkom will retain the right to keep all previously paid Licence Fees, except for any Maintenance Fees prepaid, which will be refunded if not utilized. This provision does not limit or affect the rights and obligations under clauses 6.2.2, 10, and 11.",
+    "contradiction_score": 0.9596362113952637,
+    "kept": true
+  },
+  {
+    "clause_index": 62,
+    "start_char": 27794,
+    "end_char": 28114,
+    "original": "TELKOM agrees that an officer of TELKOM with the express authority to make such a representation, shall certify in writing to SAP AFRICA that it and each of its AFFILIATES has performed the foregoing. Within 3 months after any termination, SAP AFRICA shall at its' cost return TELKOM'S PROPRIETARY INFORMATION to TELKOM.",
+    "ollama_generated": "TELKOM acknowledges that an authorized representative of TELKOM may provide a written certification to SAP AFRICA regarding the completion of the specified tasks, but such obligation is contingent upon the express authorization of said representative. Upon any termination, TELKOM will be responsible for retrieving its Proprietary Information from SAP AFRICA within a three-month period, with SAP AFRICA bearing no costs associated with this return.",
+    "contradiction_score": 0.0272335447371006,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 29021,
+    "end_char": 29189,
+    "original": "7. 3.    TELKOM shall not remove any proprietary, copyright, trademark, or service mark legend from the SOFTWARE, DOCUMENTATION or SAP AFRICA'S PROPRIETARY INFORMATION.",
+    "modified": "7.3. Upon request by TELKOM, the Contractor shall affix any proprietary, copyright, trademark, or service mark legends provided by TELKOM to the SOFTWARE, DOCUMENTATION, or SAP AFRICA'S PROPRIETARY INFORMATION at no additional cost to TELKOM. The Contractor shall not remove any existing legends without prior written consent from TELKOM.",
+    "contradiction_score": 0.5951424837112427,
+    "kept": true
+  },
+  {
+    "clause_index": 81,
+    "start_char": 35372,
+    "end_char": 36194,
+    "original": "9. 2     The Maintenance Services to be provided by SAP AFRICA shall not include any services other than those contemplated in clause 9. 1 and those set out in - 24 -                                             TELKOM CONTRACT No. 076C/01 annexure 2. Maintenance Services will be offered only for the current VERSION and RELEASE and the immediately preceding VERSION and RELEASE. SAP AFRICA shall use its best endeavours to provide Maintenance Services in respect of earlier VERSIONS and/or RELEASES provided that should SAP AFRICA and its licensors incur material costs in supporting such prior RELEASES and/or VERSIONS, then the parties shall negotiate with each other, observing the principles of good faith, to agree upon additional maintenance fees payable by TELKOM in respect of such prior RELEASES and/or VERSIONS.",
+    "ollama_generated": "9.2 The Maintenance Services to be supplied by SAP AFRICA shall be limited to those services outlined in clause 9.1 and Annexure 2 of the TELKOM CONTRACT No. 076C/01, excluding any additional services not explicitly mentioned. It is understood that Maintenance Services will be rendered exclusively for the current and immediately preceding versions and releases of the software. However, SAP AFRICA makes no guarantee to provide Maintenance Services for earlier versions or releases unless both parties mutually agree in good faith to do so, under the understanding that SAP AFRICA may seek compensation for any incurred costs related to supporting these older versions or releases.",
+    "contradiction_score": 0.03151729702949524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 36618,
+    "end_char": 36830,
+    "original": "9. 4      All other maintenance, consulting or related services not referred to in this clause 9 and/or in annexure 2, shall be agreed upon separately in writing and shall be subject to agreed additional charges.",
+    "ollama_generated": "9.4 Excluded from the scope of this agreement are any additional services not specified within Clause 9 or Annexure 2. These services, should they arise, will require a separate written agreement and may incur additional fees at rates mutually agreed upon by both parties prior to commencement of service.",
+    "contradiction_score": 0.0035156880039721727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 39501,
+    "end_char": 39780,
+    "original": "9. 8    Wherever in terms of this AGREEMENT, TELKOM is obliged or required to provide remote access for whatever reason to SAP AFRICA, then SAP AFRICA and its representatives, shall comply strictly with TELKOM\"S internal policies, arrangements and procedures with regard thereto.",
+    "ollama_generated": "9.8 In instances where SAP Africa requires or is granted remote access by Telkom in accordance with this AGREEMENT, it is expressly understood that SAP Africa and its representatives shall adapt their actions to conform with Telkom's internal policies, arrangements, and procedures, while Telkom assumes no explicit obligation to provide such remote access unless mutually agreed upon.",
+    "contradiction_score": 0.005749473348259926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 40259,
+    "end_char": 40595,
+    "original": "- 27 -                                             TELKOM CONTRACT NO. 076C/01 10. 2    SAP AFRICA'S warranty aforesaid is subject to TELKOM providing SAP AFRICA necessary access, including remote access, to the SOFTWARE and, if necessary, to the DESIGNATED UNIT and to TELKOM not being in breach of any material term of this AGREEMENT.",
+    "ollama_generated": "27 -                                             TELKOM CONTRACT NO. 076C/01\n   10. 2    The warranty provided by SAP AFRICA is contingent upon TELKOM granting SAP AFRICA the necessary access, including remote access, to the SOFTWARE and, if required, to the DESIGNATED UNIT. Any failure on the part of TELKOM to adhere to a material term of this AGREEMENT will relieve SAP AFRICA from its warranty obligations.\n\nThis revised clause inverts the condition: instead of SAP Africa's warranty being subject to certain conditions by Telkom, now those conditions are prerequisites for SAP Africa to fulfill its warranty obligations, and Telkom's breach of any material term relieves SAP Africa from its warranty duties.",
+    "contradiction_score": 0.22270867228507996,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 41174,
+    "end_char": 41461,
+    "original": "10. 4    Should any module or aspect of the SOFTWARE fail to conform to its' functional specifications, then SAP AFRICA shall, in terms of its warranty set out in this AGREEMENT, either correct the defect, or, at SAP AFRICA's option, replace the defective SOFTWARE or any module thereof.",
+    "ollama_generated": "10.4  If any component or feature of the SOFTWARE does not adhere to its functional specifications, the Client is responsible for reporting the issue promptly to SAP AFRICA. Upon receipt of a valid claim, SAP AFRICA will have the discretion to either remedy the defect at no additional cost to the Client, or provide a replacement for the faulty SOFTWARE module, subject to the warranty terms outlined in this Agreement.",
+    "contradiction_score": 0.17030081152915955,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 44194,
+    "end_char": 44293,
+    "original": "10. 10   Ownership of all data stored on, or by means of, the THIRD PARTY DATABASES vest in TELKOM.",
+    "modified": "10.1  The THIRD PARTY DATABASES shall retain ownership of all data stored on, or by means of, them. However, TELKOM is granted a non-exclusive, worldwide, royalty-free license to use, copy, modify, and distribute such data in accordance with the terms of this Agreement.\n\nThis modification creates a shift in responsibility, as TELKOM now requires permission from the third party databases for any use, copying, modifying, or distributing of their data, while retaining a license to do so under the terms of the agreement.",
+    "contradiction_score": 0.9755124449729919,
+    "kept": true
+  },
+  {
+    "clause_index": 102,
+    "start_char": 44293,
+    "end_char": 44474,
+    "original": "11    LIMITATION OF LIABILITY 11. 1   TELKOM'S sole and exclusive remedies for any breach of SAP AFRICA'S warranties contained in clause 10 shall, at SAP AFRICA'S option, be either:",
+    "ollama_generated": "11. LIMITATION OF LIABILITY\n11.1 In the event of a breach of the warranties provided by Telkom under Clause 10, Telkom's sole and exclusive remedies shall, at the discretion of SAP Africa, be limited to:\n\nThis version of the clause shifts the responsibility to SAP Africa in deciding whether Telkom can seek remedies for a breach of warranty. The original clause stated that Telkom's remedies were at their option, but this version makes it clear that the discretion lies with SAP Africa.",
+    "contradiction_score": 0.010922960937023163,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 45016,
+    "end_char": 45206,
+    "original": "- 30 -                                             TELKOM CONTRACT No. 076C/01 11. 3   For the avoidance of doubt, it is recorded that SAP AFRICA will not be liable under this AGREEMENT for:",
+    "ollama_generated": "Clause 30 - TELKOM CONTRACT No. 076C/01\n   11.3   To clarify our mutual understanding, it is hereby noted that TELKOM will assume liability under this AGREEMENT for any damages or losses arising from the performance of SAP AFRICA's obligations, except where such damages or losses are a result of SAP AFRICA's gross negligence or intentional misconduct.",
+    "contradiction_score": 0.08969178795814514,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 47007,
+    "end_char": 47259,
+    "original": "11. 6   It is agreed that each provision of this AGREEMENT that provides for a limitation of liability, or warranties or exclusion of damages, is intended by the parties to be severable and independent of any other provision and to be enforced as such.",
+    "ollama_generated": "11.6: The parties acknowledge that each limitation of liability, warranty, or exclusion of damages stipulated within this AGREEMENT stands independently and may be enforced separately from the remaining provisions. In the event that any particular provision is deemed unenforceable, the enforceability of the remaining provisions shall not be affected.",
+    "contradiction_score": 0.0021364784333854914,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 53106,
+    "end_char": 54084,
+    "original": "13. 2   TELKOM recognises and agrees that the source code and all parts thereof, is the valuable proprietary and confidential information and trade secrets of SAP AFRICA, SAP AG and its licensors, and shall remain so even after a release of the source code to TELKOM under the Escrow agreement the provisions of which are set out in annexure 3. In the event of a release of the source code to TELKOM under the Escrow agreement, TELKOM agrees to hold same in strict confidence and to take appropriate action to preserve its confidentiality, and TELKOM shall - 35 -  TELKOM CONTRACT No. 076C/01 have a non-exclusive, non-transferable LICENCE to use the source code solely for its own USE in order to support and maintain the SOFTWARE and for no other purpose whatsoever. TELKOM shall use the source code only at its own premises on its own data processing equipment or third parties in accordance with the license granted in terms of clause 3 and the provisions of this AGREEMENT.",
+    "ollama_generated": "13.2 In recognition of the substantial proprietary, confidential nature, and trade secret status of SAP AFRICA, SAP AG, and its licensors' source code and all related components, TELKOM acknowledges that it remains the exclusive property of SAP AFRICA, SAP AG, and their respective licensors, even following any release of the source code to TELKOM under the Escrow agreement as outlined in Annexure 3. Upon such a release, TELKOM undertakes to safeguard the confidentiality of the source code, implementing necessary measures to maintain its secrecy.\n\nUpon receipt of the source code from SAP AFRICA, SAP AG, or their licensors under the Escrow agreement, TELKOM shall be granted a limited, non-exclusive, and non-transferable license to utilize the source code solely for the purpose of supporting and maintaining the SOFTWARE. This permission does not extend to any other purposes whatsoever.\n\nTELKOM is authorized to use the source code exclusively on its premises or those of third parties, provided that these parties are bound by the terms of this agreement and clause 3 regarding the use of the source code. TELKOM shall ensure compliance with these provisions at all times.",
+    "contradiction_score": 0.004007906652987003,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 54343,
+    "end_char": 54537,
+    "original": "14     GENERAL PROVISIONS 14. 1   AGREEMENT Binding - This AGREEMENT shall be binding upon and accrue for the benefit of the parties hereto and their respective successors and permitted assigns.",
+    "modified": "14.   GENERAL PROVISIONS\n14.1.  BINDING - The terms of this AGREEMENT shall apply only to the original parties involved in this contract, and any changes or transfer of rights must receive prior written consent from all involved parties. This Agreement will not extend to their respective successors or permitted assigns unless specifically agreed upon in writing.",
+    "contradiction_score": 0.929583728313446,
+    "kept": true
+  },
+  {
+    "clause_index": 123,
+    "start_char": 54537,
+    "end_char": 54950,
+    "original": "14. 2   Entire AGREEMENT - This AGREEMENT and each annexure hereto constitute the complete and exclusive statement of the AGREEMENT between SAP AFRICA and TELKOM as to its subject matter and all previous representations, discussions and writings are superseded by this AGREEMENT. No variation of, or addition to, this AGREEMENT shall be of any force or effect unless reduced to writing and signed by both parties.",
+    "ollama_generated": "14.2 SINGLE STATEMENT OF UNDERSTANDING - This AGREEMENT and all its annexures collectively represent the full extent of the understanding between SAP AFRICA and TELKOM concerning the subject matter. Any prior discussions, representations, or writings may be referred to for context, but they hold no binding power over this Agreement. Amendments or supplements to this Agreement shall only be considered valid if put in writing, duly signed by both parties, and communicated in a timely manner.",
+    "contradiction_score": 0.10786006599664688,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 54950,
+    "end_char": 55348,
+    "original": "14. 3   Severability - It is the intent of the parties that in case any one or more of the provisions contained in this AGREEMENT shall be held to be invalid or unenforceable in any respect, such invalidity or unenforceability shall not affect the other provisions of this AGREEMENT and this AGREEMENT shall be construed as if such invalid or unenforceable provisions had not been contained herein.",
+    "ollama_generated": "14.3 Modification - It is the desire of the parties that, should it transpire that any one or more of the terms set forth in this AGREEMENT are deemed inapplicable or unenforceable in any manner, such inappropriateness or impracticability shall not invalidate the remaining components of this AGREEMENT. Instead, this AGREEMENT shall be interpreted as if those contentious provisions had never been included herein, with the remaining stipulations continuing to stand intact.",
+    "contradiction_score": 0.23821133375167847,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 134,
+    "start_char": 58667,
+    "end_char": 59707,
+    "original": "16. 2. 1       acted dishonestly and/or in bad faith, and/or 16. 2. 2       has made any intentional or negligent misrepresentation to TELKOM whether in any negotiations preceding the conclusion of, or in the execution of this or any other agreement between the Parties, then TELKOM will be entitled by written notice to SAP Africa forthwith to cancel this Agreement. Upon such cancellation TELKOM will be entitled in addition to all other remedies available to it, to recover from SAP Africa all damages it has suffered by virtue of such conduct by SAP Africa. If, at the time of such cancellation, TELKOM is indebted to SAP Africa for any amounts whatsoever, TELKOM will be entitled to withhold payment in respect thereof for a period of 90 (ninety) days from the date of cancellation in order to investigate SAP Africa's conduct and any damages suffered by TELKOM. No payment by TELKOM to SAP Africa after the lapse of such period will preclude TELKOM thereafter, from recovering from SAP Africa any such damages as it may have suffered.",
+    "ollama_generated": "16.2. In the event that SAP Africa fails to act with due care, honesty, or good faith, and/or intentionally or negligently misrepresents facts to Telkom in any discussions leading up to or during the execution of this agreement, Telkom reserves the right to terminate this Agreement immediately upon written notice to SAP Africa. Upon such termination, Telkom shall be entitled to seek compensation for all losses suffered as a result of SAP Africa's conduct, in addition to any other available remedies. If, at the time of termination, Telkom owes any amounts to SAP Africa, Telkom may withhold payment for a period of 90 (ninety) days following termination in order to investigate SAP Africa's actions and assess damages suffered by Telkom. Any payments made by Telkom after the lapse of this period will not prevent Telkom from subsequently recovering any losses incurred due to SAP Africa's actions.",
+    "contradiction_score": 0.08711815625429153,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 60912,
+    "end_char": 61400,
+    "original": "17. 4. 1      If the circumstances make the agreed performance impossible, the affected party will, having regard to all relevant factors, as soon as possible and in good faith, put proposals for alternatives to the other party. Such proposals will be in sufficient details to enable the other party to technically and - 40 -                                             TELKOM CONTRACT No. 076C/01 informatively assess the alternatives and to decide whether any alternative is acceptable.",
+    "ollama_generated": "17.4.1 In the event that the performance as agreed becomes impracticable, the party encountering the impediment shall, taking into account all pertinent factors, endeavor to promptly suggest viable alternatives to the other party. Such proposals should contain adequate details to facilitate the other party's comprehensive and informed evaluation of the options presented, thereby allowing them to determine whether any proposed alternative is deemed acceptable. However, acceptance of such an alternative shall remain solely at the discretion of the receiving party.",
+    "contradiction_score": 0.004243126139044762,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 62088,
+    "end_char": 62258,
+    "original": "17. 5. 3       the other party may, if the extent to which the delay may be mitigated and time lost be recovered are unacceptable to it, elect to terminate the AGREEMENT.",
+    "ollama_generated": "17.5.3 In instances where the delay experienced cannot be sufficiently mitigated or the lost time cannot reasonably be recouped, this party reserves the right to unilaterally terminate the AGREEMENT without prior notice or liability.",
+    "contradiction_score": 0.016646236181259155,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 143,
+    "start_char": 62258,
+    "end_char": 62418,
+    "original": "17. 5. 4       neither of the parties will have any claim, arising from the circumstances, on the other, provided any amounts due and payable, are paid in full.",
+    "ollama_generated": "17.5.4 Neither party shall assert any claims against the other, based on the pertinent circumstances, unless any amounts owed but not yet paid in full remain outstanding.\n\nThis revised clause suggests that a claim can be made by either party if any unpaid balances still exist, whereas the original clause implied that no claims could be made once all payments were settled.",
+    "contradiction_score": 0.008328312076628208,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 62945,
+    "end_char": 62985,
+    "original": "17. 6. 4         Terrorism and sabotage.",
+    "ollama_generated": "17.6.4 Force Majeure Events \u2013 Terrorist Activities and Sabotage:\n\nThe parties acknowledge that unforeseeable events, such as acts of terrorism or sabotage, may disrupt the performance of their obligations under this agreement. In such extraordinary circumstances, either party shall not be liable for any delay or failure to perform its obligations, provided that it can demonstrate that the disruption was caused by a force majeure event and that it has used reasonable efforts to mitigate its impact.",
+    "contradiction_score": 0.01815943978726864,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 149,
+    "start_char": 62985,
+    "end_char": 63381,
+    "original": "17. 7     Any delay or non performance of any provision of the AGREEMENT (other than for payment of amounts due hereunder) caused by conditions beyond the control of the performing party will not constitute a breach of the AGREEMENT and the time for performance of such provision, if any, will be deemed to be extended for a period equal to the duration of the conditions preventing performances.",
+    "ollama_generated": "17. 7     In case of any delay or failure to perform any part of this CONTRACT, excluding payment obligations, attributable to circumstances beyond the control of the party responsible for performance, such occurrence shall not be deemed a breach of this CONTRACT. Instead, the timeline for fulfilling the affected provision, if applicable, will be adjusted to accommodate the duration of these unforeseen conditions. The non-performing party will make reasonable efforts to meet the intended performance schedule upon resolution of these exceptional circumstances.",
+    "contradiction_score": 0.003336439374834299,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 63996,
+    "end_char": 64089,
+    "original": "19. 2   Such an act is a material breach of the AGREEMENT and will be dealt with accordingly.",
+    "ollama_generated": "19.2. Failure to perform the required actions under this Agreement, while not catastrophic, may lead to consequences as we deem appropriate.",
+    "contradiction_score": 0.011189820244908333,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 64533,
+    "end_char": 65304,
+    "original": "21.       MARKETING PLANS As soon as possible after signature of this AGREEMENT, representatives of the parties shall meet and commence discussions and negotiations on the establishment, compilation and content of a marketing and branding plan in respect of the SOFTWARE and the services offered and to be offered by TELKOM, USING the SOFTWARE. During such negotiations, the parties shall observe the principles of utmost good faith to each other and they shall use their best endeavours to reach agreement on the sharing of responsibilities and tasks, the financial and other contributions due from each party and such other appropriate terms and conditions. Failure by the parties to reach any such agreement, shall not entitle either party to terminate this AGREEMENT.",
+    "ollama_generated": "21. MARKETING COORDINATION Immediately upon the execution of this AGREEMENT, each party will designate a representative for regular consultations on the development and implementation of a marketing and branding strategy for the SOFTWARE and the services provided or to be provided by TELKOM utilizing the SOFTWARE. During these consultations, the parties shall maintain open communication and good faith, with the goal of mutually agreeing on roles, responsibilities, financial commitments, and other terms, without any obligation to do so. In the event that an agreement is not reached, either party retains the right to terminate this AGREEMENT upon providing written notice to the other party, but only after a reasonable period of time has elapsed for further discussions.",
+    "contradiction_score": 0.06561517715454102,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 67629,
+    "end_char": 68251,
+    "original": "23. 3   Insurance in terms of the Compensation for Injuries and Diseases Act, No. 130 of 1993, as amended. SAP AFRICA will upon request from TELKOM submit proof to the satisfaction of TELKOM that it is insured under the Compensation for - 44 -  TELKOM CONTRACT NO. 076C/01 Injuries and Diseases Act by providing TELKOM with adequate proof stating that it has paid all assessments due\u037e 23. 4   Legal liability in respect of claims for death and/or injury to persons or loss of/or damage to third party property\u037e 23. 5   Motor Vehicle Liability Insurance in respect of all motor vehicles brought onto the premises of TELKOM.",
+    "ollama_generated": "23.3 TELKOM shall have the right, upon reasonable request, to confirm that SAP Africa holds adequate insurance coverage under the Compensation for Injuries and Diseases Act, No. 130 of 1993, as amended. This confirmation may be requested at any time during the term of this contract, and SAP Africa shall promptly provide TELKOM with proof of such insurance upon request.\n\n23.4 SAP Africa assumes full legal liability for any claims arising from death or injury to persons, or loss or damage to third-party property, in connection with its performance under this contract, except where such liability is expressly excluded or limited by law or the terms of this agreement.\n\n23.5 TELKOM shall not be responsible for any motor vehicle accidents involving vehicles owned by SAP Africa or its subcontractors while on TELKOM's premises, and SAP Africa shall maintain and provide proof of Motor Vehicle Liability Insurance for all such vehicles during the term of this contract.",
+    "contradiction_score": 0.15822388231754303,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 68251,
+    "end_char": 68462,
+    "original": "24     CONFIDENTIALITY 24. 1   For the purposes of this clause, any person giving information shall be referred to as \"the discloser\" and any person receiving information shall be referred to as \"the recipient\".",
+    "ollama_generated": "24. DISCLOSURE AND CONFIDENTIALITY COMMITMENT\n\n24.1 For the purposes of this section, any party communicating information shall be hereafter known as \"the provider\" and any other receiving party shall be referred to as \"the user\".\n\nIn this revised clause, the roles between the parties have been inverted. The original clause defined a discloser (the one giving information) and a recipient (the one receiving the information). In the new clause, the terms are now \"provider\" (one who communicates the information) and \"user\" (the one receiving the information). This change subtly shifts the responsibility of providing and receiving information to different parties, while maintaining a professional and fluent tone.",
+    "contradiction_score": 0.005920469760894775,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 69261,
+    "end_char": 70253,
+    "original": "- 45 -  TELKOM CONTRACT NO. 076C/01 24. 3   The recipient shall at all times, including such times after this agreement has been terminated, unless otherwise agreed in writing by the discloser, hold the information furnished by the discloser in strict confidence and shall use such information solely for the purposes of this agreement. The recipient shall disclose such information only to its own employees and professional advisers as are necessary for the purposes of carrying out its obligations and duties in terms of this agreement, provided that prior to such disclosure such employees and professional advisers have been advised in writing by the recipient of the confidential nature of the information. The same shall be true of customers. The recipient shall make no other use or disclosure of any nature of the information. For the purposes of this clause 25, the phrase \"personnel\" shall be deemed to include directors, sub- contractors or other representatives of the recipient.",
+    "ollama_generated": "45 - TELKOM CONTRACT NO. 076C/01\n\n24.3 - The Discloser grants a limited and revocable right to the Recipient to use the information disclosed, solely for the duration of this agreement and only to the extent necessary to fulfill its obligations herein. Any employees, professional advisers, subcontractors, or representatives of the Recipient who require access to such confidential information must be made aware, in writing, of the confidential nature of the information prior to their exposure to it.\n\nUpon termination of this agreement or upon the request of the Discloser, the Recipient shall immediately return or destroy all materials containing the disclosed information and shall make no further use or disclosure of any kind. It is understood that the Recipient remains responsible for the actions of its personnel, as well as any third parties to whom it may have disclosed the confidential information, during the term of this agreement.",
+    "contradiction_score": 0.15273548662662506,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 70686,
+    "end_char": 70911,
+    "original": "- 46 -                      TELKOM CONTRACT No. 076C/01 24. 6The recipient shall disclose such information and the reports only to its own employees and professional advisers as are necessary on a strictly need to know basis.",
+    "ollama_generated": "46 - TELKOM CONTRACT No. 076C/01\n24. Disclosure Obligations: The Recipient may share the disclosed information and reports with third parties, provided that such parties are bound by confidentiality agreements and their access is limited to a strict necessity-to-know basis.",
+    "contradiction_score": 0.2319430112838745,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 173,
+    "start_char": 71082,
+    "end_char": 71962,
+    "original": "THUS DONE AND SIGNED at  Pretoria  on this 31st day of  March 2001 For and on behalf  of SYSTEMS APPLICATIONS (AFRICA)(Proprietary)limited (who warrants his authority to so sign) For:  TELKOM  SOUTH AFRICA LIMITED      (who warrants his authority to so sign) (who warrants his authority to so sign) THUS DONE AND SIGNED at  Pretoria  on this 31st day of  March 2001 For and on behalf of  TELKOM SOUTH AFRICA LIMITED in the presence of the undersigned witnesses AS WITNESSES Signature         /S/ Print name:       name illegible Signature         /S/ Print name:      M.L.MORKEL - 47 -   TELKOM CONTRACT No. 076C/01 - 48 -    TELKOM CONTRACT NO. 076C/01 ANNEXURE 1 AGREEMENT between SYSTEMS APPLICATION PRODUCTS (AFRICA) (PTY) LIMITED TELKOM SOUTH AFRICA LIMITED Designated Site/Location:                       91 OAK AVENUE, CENTURION Affiliate Name (if different from Licensee):",
+    "ollama_generated": "THIS AGREEMENT is executed at Pretoria on this 31st day of March 2001. On behalf of SYSTEMS APPLICATIONS (AFRICA)(Proprietary) Limited, who confirms his authority to sign herein, this agreement is made with TELKOM SOUTH AFRICA LIMITED, also confirming his duly authorized representative. Witnessed below on the same date:\n\nWitness 1:                     /S/ Print name:\nWitness 2:                     /S/ Print name:   M.L.MORKEL - 47 -\nTELKOM CONTRACT No. 076C/01\nANNEXURE 1\nAGREEMENT between SYSTEMS APPLICATION PRODUCTS (AFRICA) (PTY) LIMITED and TELKOM SOUTH AFRICA LIMITED\nDesignated Site/Location:                       91 OAK AVENUE, CENTURION\nAffiliate Name (if different from Licensee):\n\nIn this Agreement, it is understood that while SYSTEMS APPLICATIONS (AFRICA)(Proprietary) Limited shall perform its obligations to the best of its ability, any failure or delay in performance by SYSTEMS APPLICATIONS (AFRICA)(Proprietary) Limited shall not be deemed a breach of this Agreement unless such failure or delay is material and persists for more than thirty (30) days after notice of such failure or delay has been given by TELKOM SOUTH AFRICA LIMITED.\n\nFurthermore, it is agreed that any dispute arising out of this Agreement shall be resolved through negotiation in good faith between the parties, and if necessary, through mediation. Should mediation fail, the dispute may be submitted to binding arbitration in accordance with the rules of the Arbitration Foundation of Southern Africa. The seat of the arbitration shall be Pretoria, South Africa.",
+    "contradiction_score": 0.17858919501304626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 174,
+    "start_char": 72233,
+    "end_char": 72250,
+    "original": "Delivery Address:",
+    "ollama_generated": "Shipping Location:\n\nThis slight rewording shifts the focus from where the item should be delivered (delivery address) to where the sender is located (shipping location). This can subtly weaken the obligation on the recipient, as it implies that the responsibility for determining and providing a valid delivery address lies with the sender.",
+    "contradiction_score": 0.0030689481645822525,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 72589,
+    "end_char": 72802,
+    "original": "1.        This Annexure 1 is annexed to and incorporated into the Agreement. Should any provision of this Annexure conflict with the provisions of the Agreement, then the provisions of this Annexure shall prevail.",
+    "modified": "1. This Annexure 1 is appended to and forms part of the Agreement, but in the event of a contradiction between any provision within this Annexure and the main Agreement, the conflicting provisions within the Agreement shall take precedence over those in this Annexure.",
+    "contradiction_score": 0.9700484871864319,
+    "kept": true
+  },
+  {
+    "clause_index": 179,
+    "start_char": 72802,
+    "end_char": 73761,
+    "original": "The Licence fee for the Software licensed in terms hereof is US$5, 000, 000, 00. The License Fee shall be converted into ZAR and TELKOM shall be invoiced on the day following signature of this AGREEMENT at the ruling USD/ZAR exchange rate being the average between \"buy\" and \"sell\" usd offered by SAP Africa's bankers at the close of business on the date of signature of this AGREEMENT. The License Fee expressed in ZAR plus VAT thereon shall be payable by TELKOM within 7 days of the date of invoice. Should TELKOM fail to pay the License Fee on due date then, TELKOM shall pay interest on such amounts due but outstanding at the legal rate of interest and any negative variation in the USD/ZAR exchange rate from due date of payment until receipt of payment shall be for TELKOM'S account. If this AGREEMENT is not signed by Telkom on or before 31 st   March 2001, then the license fee shall be determined in accordance with the SAP Africa/COMMERCE ONE INC..",
+    "ollama_generated": "The License fee for the Software granted under these terms is set at US$5,000,000.00. We, [Your Company Name], reserve the right to invoice TELKOM on the day following the signature of this AGREEMENT at the ruling USD/ZAR exchange rate, which will be determined as the average between \"sell\" and \"buy\" USD rates offered by SAP Africa's bankers at the close of business on the date of signature. This invoiced amount in ZAR (exclusive of VAT) shall become due for payment by TELKOM within 7 days of the date of invoice.\n\nIf the License Fee remains unpaid by TELKOM beyond the due date, we will be entitled to charge interest on the overdue amount at the legal rate and TELKOM shall bear any positive variation in the USD/ZAR exchange rate from the due date of payment until receipt of payment. Furthermore, if this AGREEMENT is not signed by Telkom by 31st March 2001, then the license fee shall be determined at the discretion of SAP Africa/COMMERCE ONE INC., with no obligation on our part to maintain the US$5,000,000.00 rate.",
+    "contradiction_score": 0.004838958382606506,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 75991,
+    "end_char": 76392,
+    "original": "18. Core Market Set Services 19. A. Procurement Services 19. 1. Product Description Enterprise Buyer Professional Edition  has been optimized for SAP customers looking for an e-procurement application that can automate the entire purchasing process, including MRO as well as direct goods purchases. When this application suite is run hosted at a MarketSet, this is referred to as Procurement Services.",
+    "ollama_generated": "18. Core Market Set Services (Revised)\n19. A. Procurement Services (Revised)\n19. 1. Product Description (Revised): While the Enterprise Buyer Professional Edition has been optimized for SAP customers seeking an e-procurement application that automates the procurement process, including MRO and direct goods purchases, it is essential to note that the utilization of this application suite when hosted at a MarketSet does not automatically constitute Procurement Services. Rather, the provision of such services shall be subject to a separate agreement and the explicit approval of both parties.\n\nIn essence, this revision clarifies that while the Enterprise Buyer Professional Edition is designed for automating procurement processes, its deployment on the MarketSet does not automatically imply the provision of Procurement Services. Such services would require a separate agreement between the parties.",
+    "contradiction_score": 0.0058487229980528355,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 188,
+    "start_char": 76392,
+    "end_char": 76508,
+    "original": "Professional has deep integration natively to the other supply chain components that make up the MarketSet solution.",
+    "ollama_generated": "The Professional's integration with other supply chain components within the MarketSet solution is expected to be seamless and adaptive, allowing for potential modifications or additions as necessary.",
+    "contradiction_score": 0.0009199853520840406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 190,
+    "start_char": 76873,
+    "end_char": 77551,
+    "original": "21. Content Engine 21. 1. Product Description Content Engine addresses all the critical needs of an e-marketplace operator to create, operate, and maintain a commerce-ready Catalog. Content Engine combines unique data aggregation capabilities with an easy to use, powerful search engine that enables marketplace operators to offer a multi-supplier catalog that could potentially contain products and information from thousands of suppliers. Content Engine also allows marketplace operators to link 3rd party data (ratings, data sheets, regulations information) or self created content to product information to provide a unique value added search experience for their community.",
+    "ollama_generated": "21. Revised Content Engine\n\n21.1. Enhanced Marketplace Functionality\nThe Revised Content Engine is designed to fulfill the essential requirements of an e-marketplace operator, facilitating the creation, management, and upkeep of a fully operational Catalog tailored for commerce. The Revised Content Engine integrates exceptional data collection capabilities with an intuitive, high-performing search engine, empowering marketplace operators to present a diversified multi-supplier catalog comprising product details and information from a vast array of potential suppliers, potentially exceeding thousands.\n\nThe Revised Content Engine further permits marketplace operators to attach 3rd party data (ratings, data sheets, regulatory information) or custom content to product listings, thereby offering an enriched and distinctive search experience to their user base.\n\nIn this revised version, the focus has been shifted towards presenting the Content Engine as a tool that enhances marketplace functionality rather than fulfilling critical needs, and allowing operators to attach self-created or 3rd party content instead of merely linking it to product information for a unique value-added search experience.",
+    "contradiction_score": 0.0417562760412693,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 215,
+    "start_char": 88062,
+    "end_char": 88189,
+    "original": "Local Support (in 50 countries worldwide) Local Support Centres at SAP subsidiaries are the local contact points for customers.",
+    "modified": "Customer Interaction (Global Reach): Customers may interact with various SAP affiliates globally, serving as primary points of contact for assistance, rather than being limited to designated Local Support Centers in specific countries.",
+    "contradiction_score": 0.7987667918205261,
+    "kept": true
+  },
+  {
+    "clause_index": 218,
+    "start_char": 89213,
+    "end_char": 89660,
+    "original": "Development Support (Europe, Americas, Asia) SAP Africa's Local Support Centre supports all SAP customers in the Southern Africa/Sub- Sahara region. In the event of SAP Africa being unable to respond timeously or effectively, the support query will be elevated to COMMERCE ONE INC.. Inc. consultants, in which event, SAP Africa shall use its best endeavours to respond timeously in accordance with the service levels stipulated in the table below.",
+    "ollama_generated": "In instances where SAP Africa's Local Support Centre is unable to address a support query from a customer within the Southern Africa/Sub-Sahara region in an acceptable manner or within the specified timeframe, the responsibility for resolution shall be delegated to COMMERCE ONE INC.. Inc. consultants. While SAP Africa remains committed to providing timely and effective service as outlined in the table below, it is understood that during such instances where support is transferred, primary responsibility lies with Commerce One Inc. to respond within their own stipulated service levels.",
+    "contradiction_score": 0.020086349919438362,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 91341,
+    "end_char": 91615,
+    "original": "High or Priority 2 A message with priority \"High\" is justified when serious restrictions in day-to-day operations are encountered. Necessary tasks cannot be performed due to a malfunction or failed function in the Software that is urgently required in the current situation.",
+    "ollama_generated": "Urgent or Priority 2 Message classification as \"High\" is warranted when unexpected complications arise that significantly impede routine operations, and it is determined that critical tasks cannot be completed due to a software malfunction or failure that is deemed essential for the current situation. In such cases, the onus is on the user to promptly communicate the issue to the relevant support team, with the understanding that timely resolution of the problem is the joint responsibility of both parties.",
+    "contradiction_score": 0.008513502776622772,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 91756,
+    "end_char": 91953,
+    "original": "Medium or Priority 3 A message with priority \"Medium\" is justified when restrictions in day-to-day operations are encountered. This is caused by a malfunction or failed functionality in the system.",
+    "ollama_generated": "Priority 3 Communications: In instances where functional limitations within day-to-day operations arise due to unforeseen system issues, it shall be appropriate to designate the corresponding message as having \"Medium\" priority. It is the responsibility of the sender to use their discretion in such situations and determine whether the problem warrants a higher or lower priority level.",
+    "contradiction_score": 0.0055484892800450325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 99377,
+    "end_char": 99555,
+    "original": "- 67 -     TELKOM CONTRACT No. 076C/0 1 1. 3                       TELKOM may, at its own cost, verify that the new version of the Source Code is deposited with the Escrow Agent.",
+    "ollama_generated": "67 -     TELKOM CONTRACT No. 076C/0 1\n     1.3                               The Client shall bear the expense for verifying, at its discretion, that the updated Source Code has been deposited with the Escrow Agent by TELKOM.",
+    "contradiction_score": 0.07777474075555801,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

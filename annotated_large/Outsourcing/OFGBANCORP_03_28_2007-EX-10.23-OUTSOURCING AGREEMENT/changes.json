@@ -1,0 +1,682 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 303,
+    "end_char": 556,
+    "original": "Customer desires Metavante to provide to Customer the services and licenses as set forth in this Agreement and its amendments, and Metavante desires to provide such services and licenses to Customer, all as provided in this Agreement and its amendments.",
+    "ollama_generated": "In this Agreement and its amendments, Customer expressly requests that Metavante extends the provision of the specified services and licenses, and Metavante, at its discretion, elects to fulfill this request on behalf of Customer, under the terms and conditions outlined in this Agreement and its amendments.",
+    "contradiction_score": 0.004710063338279724,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 8025,
+    "end_char": 8182,
+    "original": "In the event this Agreement is terminated by Customer pursuant to Section 8.2, Metavante will provide Customer with one (1) set of Data Tapes without charge.",
+    "ollama_generated": "Upon the exercise of Customer's right to terminate this Agreement under Section 8.2, Metavante shall not charge Customer for the provision of one (1) set of Data Tapes.",
+    "contradiction_score": 0.0007579930243082345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 10596,
+    "end_char": 11379,
+    "original": "A. Scope of License : The Licensed Software is a copyrighted software product developed and owned by Metavante. All rights are reserved worldwide. Customer is granted a nonexclusive, nontransferable (except to permitted assigns of this Agreement) limited license to use the Licensed Software during the term of this Agreement. Customer shall not sell, lease, copy, distribute, transfer, assign or sublicense the Licensed Software to any third party. Customer will make no more than two (2) copies of the Licensed Software for backup and archival purposes and may make no copies for any other purpose. Customer is responsible for maintaining backup copies of the Licensed Software. The Licensed Software is licensed for use on individual computers and individual network workstations.",
+    "ollama_generated": "Scope of Authorization: The Authorized Application, a proprietary software solution created and retained by Metavante, is subject to global copyright protection; all rights are reserved. This Agreement grants the Client a non-exclusive, non-assignable (except to permitted successors under this Agreement) restricted authorization to utilize the Authorized Application throughout the term herein stated. The Client is prohibited from selling, leasing, reproducing, disseminating, transmitting, or otherwise transferring the Authorized Application to any external party. The Client may only produce up to two (2) backup copies of the Authorized Application for archival purposes; no additional copies are permitted for any other purpose. The Client is responsible for maintaining these backup copies and the security of their data. The Authorized Application is intended for individual computer systems and workstations within a network, with each station's use subject to the terms of this Agreement.",
+    "contradiction_score": 0.030805079266428947,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 13863,
+    "end_char": 13908,
+    "original": "4. SERVICES 4.1. Implementation of Services .",
+    "ollama_generated": "4. PROVISION OF SERVICES:\n4.1. Exercise of Discretion Regarding Services:\n\nIn this revised clause, the original obligation for the service provider to implement the services is shifted to a more discretionary responsibility. The service provider now has the freedom to decide how and when to provide the services, rather than being strictly obliged to implement them. This change could potentially allow for more flexibility in the service delivery process, but may also introduce uncertainty regarding the timing and quality of the services provided.",
+    "contradiction_score": 0.030055111274123192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 13908,
+    "end_char": 15567,
+    "original": "A. Developing of Conversion Plan . Metavante shall, in consultation with Customer, develop a detailed, customized plan for the Conversion (the \u201cConversion Plan\u201d). The Conversion Plan will include (i) a description of the tasks to be performed for the Conversion\u037e (ii) allocation of responsibility for each of such tasks\u037e and (iii) the estimated scheduled dates on which each task is to be performed. Each party shall designate its Conversion project leader. The Conversion project leaders for each party shall regularly communicate on the progress of the Conversion, the feasibility of the Conversion Dates specified in the Conversion Plan, and such other matters which may affect the smooth transition of the Services. Neither party shall reassign or replace its Conversion project leader during the Conversion without the consent of the other party, except if such individual voluntarily resigns, is dismissed for cause, or is unable to work due to his or her death, disability or other personal reasons. Each party agrees to provide such services and to perform such obligations as are specified as its responsibility in the Conversion Plan and as necessary for it to timely and adequately meet the scheduled dates set forth therein. Each party shall cooperate fully with all reasonable requests of the other party that are necessary to effect the Conversion in a timely and efficient manner. The preliminary Conversion Plan is attached hereto as the Conversion Plan Schedule, and shall be amended as the parties mutually agree. Metavante will be responsible for the Conversion Services defined in the Standard Conversion Services Schedule included herein.",
+    "ollama_generated": "B. Implementation of Transition Strategy: The Customer is expected to collaborate with Metavante in devising a comprehensive, adaptable strategy for the transition (referred to as the \"Transition Strategy\"). The Transition Strategy will outline (i) the tasks required for the transition, (ii) assigning accountability for each task, and (iii) proposed dates for the completion of each task. Each party is expected to designate a Transition coordinator. These Transition coordinators from both parties shall frequently communicate on the advancement of the transition, the viability of the Transition Dates indicated in the Transition Strategy, and any issues that might impact the seamless continuation of services. Either party may reassign or replace its Transition coordinator at their discretion, provided they notify the other party promptly and ensure a seamless handover of responsibilities. Both parties agree to execute their roles as outlined in the Transition Strategy and fulfill any additional duties deemed necessary for timely and effective adherence to the proposed dates. Each party is expected to extend full cooperation to all reasonable requests from the other party that aid in executing the transition smoothly and efficiently. The initial Transition Strategy is provided herein as the Transition Strategy Schedule, and may be amended by mutual agreement between the parties. Metavante shall oversee the Transition Services as detailed in the Standard Transition Services Schedule included herein.\n\nIn this revised clause, the responsibility for developing a plan (Conversion Plan to Transition Strategy) has shifted from Metavante to the Customer, and the ability to change project leaders without consent of the other party has been removed by allowing each party to make changes at their discretion with proper notice.",
+    "contradiction_score": 0.11777884513139725,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 16475,
+    "end_char": 16869,
+    "original": "1. Metavante shall pay Customer $10,000.00 for each month or portion thereof that Metavante fails to have the Commencement Date occur on the Scheduled Conversion Date  provided that such amount shall be prorated for any partial month. Metavante will establish a new Scheduled Conversion Date if the above date is missed, subject to Customer\u2019s approval, which shall not be unreasonably withheld.",
+    "modified": "1. In the event that the Commencement Date does not occur on the Scheduled Conversion Date, Customer shall have the right to receive compensation from Metavante, in the amount of $10,000.00 for each full month or partial month thereafter, subject to a pro-rated adjustment for any portion of a month. This compensation will not be owed if Metavante establishes a new Scheduled Conversion Date within a reasonable timeframe, without Customer's approval being withheld unreasonably. In such cases, the original right to compensation shall cease.",
+    "contradiction_score": 0.7429400086402893,
+    "kept": true
+  },
+  {
+    "clause_index": 30,
+    "start_char": 16869,
+    "end_char": 17263,
+    "original": "2. The recovery of the amounts set forth above by Customer from Metavante shall be Customer\u2019s sole and exclusive monetary recovery from Metavante with respect to Metavante\u2019s failure to complete the Services necessary to have the Commencement Date occur on the Schedule Conversion Date. The parties acknowledge that the foregoing payments constitute reasonable and commercial liquidated damages.",
+    "ollama_generated": "2. In the event that Metavante fails to complete the required Services to enable the Commencement Date to coincide with the Schedule Conversion Date, any recovery of funds by Customer from Metavante shall be the full extent of Metavante's liability and the only monetary remedy available to Customer arising from such failure. It is expressly understood that these payments represent a fair and mutually agreed-upon estimation of damages, serving as a liquidated sum in the event of Metavante's breach.\n\nIn this revised clause, the liability of Metavante has been slightly weakened by making it the \"full extent\" of their liability, while also clarifying that it is the only monetary remedy available to the Customer for the specific failure mentioned. The payments are still considered a fair and mutually agreed-upon estimation of damages, but the phrase \"reasonable and commercial liquidated damages\" has been replaced with \"a fair and mutually agreed-upon estimation of damages, serving as a liquidated sum in the event of Metavante\u2019s breach,\" to maintain the professional and realistic tone.",
+    "contradiction_score": 0.37810346484184265,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 18319,
+    "end_char": 18819,
+    "original": "(ii) Metavante shall provide training in accordance with the training schedule developed pursuant to the Conversion Plan. The sessions shall be held at a location mutually agreed upon by the parties. Customer shall be responsible for all Expenses incurred by the participants and Metavante\u2019s trainers in connection with such education and training. If Customer requests that training be conducted at a non-Metavante facility, Customer shall be responsible for providing an adequate training facility.",
+    "ollama_generated": "(ii) While Metavante will offer training as outlined in the training schedule of the Conversion Plan, it is understood that such sessions are optional for the Customer. The locations for these sessions will be selected by mutual agreement between the parties. If Customer elects to participate, they shall cover all expenses incurred by both the attendees and Metavante's trainers associated with this education and training. In the event that Customer prefers the training to be conducted at a facility other than a Metavante-owned one, it will be their responsibility to ensure the provision of an adequate training venue, suitable for conducting the intended sessions.",
+    "contradiction_score": 0.260085791349411,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 18819,
+    "end_char": 19346,
+    "original": "E. Account Representatives.  Each party shall, prior to Conversion, cause an individual to be assigned (\u201cAccount Representative\u201d) to devote time and effort to management of the Services under this Agreement following the Conversion. Neither party shall reassign or replace its Account Representative during the first six (6) months of his or her assignment without the consent of the other party, except if such individual voluntarily resigns, is dismissed for cause, or is unable to work due to his or her death or disability.",
+    "ollama_generated": "F. Designated Contacts. Prior to the Effectuation Date, each party will designate an individual (\"Designated Contact\") to oversee the management of the Services as outlined in this Agreement upon the Effectuation. Once designated, a party may not change or replace its Designated Contact during the initial six (6) months without the prior written consent of the other party, unless such individual chooses to resign, is terminated for just cause, or becomes incapacitated due to death or disability. However, either party may request a mutual replacement if both parties agree in writing that it is necessary for the efficient operation of the Services.",
+    "contradiction_score": 0.23656322062015533,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 21876,
+    "end_char": 22099,
+    "original": "4.4. Payment Services . The following additional terms shall apply with respect to Payment Services. Payment Services are those Services provided by Metavante to effect payments between Customer\u2019s clients and third parties.",
+    "modified": "4.4. Payment Transactions: The ensuing provisions shall pertain to Payment Transactions, defined as transactions facilitated by Metavante for the transfer of funds between Customer's clients and external entities. Please note that while Metavante provides these services, it does not assume any responsibility or liability for the successful completion of such transfers.\n\nThis modification shifts the responsibility for the success of payment transactions from Metavante to the Customer, making it clearer that Metavante is only a facilitator and not a guarantor of the transactions' outcomes.",
+    "contradiction_score": 0.6465110778808594,
+    "kept": true
+  },
+  {
+    "clause_index": 50,
+    "start_char": 26594,
+    "end_char": 27591,
+    "original": "(iii) Settlement Account . Customer shall maintain an account at Oriental Bank and Trust for purposes of funding or receiving settlement, as applicable, and authorizes Metavante to charge the settlement account via ACH debit or otherwise for any net settlement owed by Customer to Metavante, and to deposit to the settlement account any net settlement owed by Metavante to Customer. Metavante may offset amounts payable to Customer against amounts payable by Customer for purposes of determining a net settlement amount to charge to the settlement account. For at least 120 days following the Effective Date of Termination, Customer shall maintain a settlement account which Metavante may charge to settle any trailing activity which accrues prior to the Effective Date of Termination (including any chargeback of a transaction which is authorized prior to the Effective Date of Termination). Customer shall pay to Metavante fees to settle such trailing activity in accordance with this Agreement.",
+    "ollama_generated": "(iii) Settlement Account . Metavante grants permission for Customer to establish an account at Oriental Bank and Trust, specifically intended for settlement purposes, whether for funding or receipt, as the case may be. Metavante is authorized to debit the settlement account through ACH or any other method, for any net settlement obligations owed by Customer to Metavante, and to credit the settlement account with any net settlements owed by Metavante to Customer. In determining a net settlement amount, Metavante may offset amounts payable to Customer against amounts payable by Customer. For at least 120 days following the termination effective date, Customer shall retain the settlement account, which Metavante may use to settle any residual activity that accumulates prior to the termination effective date (including chargebacks for transactions authorized before the termination effective date). Customer will be responsible for paying Metavante the fees associated with settling such residual activity, as stipulated in this Agreement.",
+    "contradiction_score": 0.0018978180596604943,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 28112,
+    "end_char": 28361,
+    "original": "1. Customer authorizes Metavante and grants to Metavante power-of-attorney to endorse any and all checks payable to Customer which are received by Metavante in payment of credit card accounts for which Metavante provides payment processing services.",
+    "ollama_generated": "1. Granted authority, the Customer hereby delegates power-of-attorney to Metavante, allowing Metavante to endorse any and all checks payable to the Customer, should such checks be received by Metavante as payments for credit card accounts serviced by Metavante in its capacity as a payment processor. It is essential to note that this authority granted is contingent upon Metavante receiving the checks in question, and theCustomer remains responsible for any funds or check handling fees associated with these transactions unless otherwise stipulated in this agreement.",
+    "contradiction_score": 0.007672830484807491,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 28830,
+    "end_char": 28847,
+    "original": "C. ACH Services .",
+    "ollama_generated": "C. Electronic Funds Transfer Services (EFT) by Customer's Agreement:\n\nThe Customer hereby agrees to facilitate the transfer of funds electronically, unless otherwise specified in writing. The Bank shall make every reasonable effort to execute such transfers in a timely manner; however, any delays or failures due to factors beyond our control, including but not limited to technical issues, third-party service interruptions, or regulatory requirements, shall not be deemed as breaches of this Agreement by the Bank. The Customer remains responsible for ensuring that all required information and instructions are accurate and complete at the time of transaction initiation, and any resulting errors due to incorrect data provided shall be borne solely by the Customer.",
+    "contradiction_score": 0.06423965096473694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 36023,
+    "end_char": 36247,
+    "original": "A. defects, problems, or failures caused by the Customer\u2019s nonperformance of obligations essential to Metavante\u2019s performance of its obligations\u037e and/or B. defects, problems, or failures caused by an event of  force majeure.",
+    "ollama_generated": "The Service Provider shall not be liable for any defects, issues, or malfunctions arising from the Client's failure to comply with their critical obligations necessary for the Service Provider's successful performance, as well as for any problems stemming from an extraordinary event beyond the Service Provider's control (force majeure), which may impact the quality of service delivered.",
+    "contradiction_score": 0.27067017555236816,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 36247,
+    "end_char": 37090,
+    "original": "\u00a9 2006, Metavante Corporation 6.3. DISCLAIMER OF ALL OTHER WARRANTIES . THIS PERFORMANCE WARRANTY, AND THE WARRANTIES IN ARTICLE 12 HEREOF, ARE IN LIEU OF, AND METAVANTE DISCLAIMS ANY AND ALL OTHER WARRANTIES, CONDITIONS, OR REPRESENTATIONS (EXPRESS OR IMPLIED, ORAL OR WRITTEN) WITH RESPECT TO THE SERVICES PROVIDED UNDER THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, ANY AND ALL IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS OR SUITABILITY FOR ANY PURPOSE (WHETHER OR NOT METAVANTE KNOWS, HAS REASON TO KNOW, HAS BEEN ADVISED, OR IS OTHERWISE IN FACT AWARE OF ANY SUCH PURPOSE), WHETHER ALLEGED TO ARISE BY LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, OR BY COURSE OF DEALING. IN ADDITION, METAVANTE DISCLAIMS ANY WARRANTY OR REPRESENTATION TO ANY PERSON OTHER THAN CUSTOMER WITH RESPECT TO THE SERVICES PROVIDED UNDER THIS AGREEMENT.",
+    "ollama_generated": "2023, Corporation Metavante 6.3. EXCEPTION TO WARRANTIES . This Performance Warranty, and the warranties specified in Article 12 hereof, are the sole and exclusive remedies for breach of contract, and Metavante Corporation disclaims any and all other warranties, assurances, or guarantees (whether expressed or implied, verbal or written) concerning the services rendered under this Agreement, including, but not limited to, any implied warranties of performance, quality, or adaptability to a specific purpose. It is expressly understood that Metavante Corporation assumes no responsibility for any claims arising from the usage of the services provided by it, except for those directly made by the Customer. In essence, Metavante Corporation provides the services \"as is,\" without warranties of any kind, except as specifically stated in this Agreement.",
+    "contradiction_score": 0.17342893779277802,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 37642,
+    "end_char": 38471,
+    "original": "7.2. Partial Termination by Metavante . Except as may be provided in any Schedule, Metavante may, at any time, withdraw any of the Services upon providing ninety (90) days\u2019 prior written notice to Customer, provided that Metavante is withdrawing the Service(s) from its entire client base. Metavante may also terminate any function or any Services immediately upon any final regulatory, legislative, or judicial determination that providing such function or Services is inconsistent with applicable law or regulation or the rights of any Third Party. If Metavante terminates any Service pursuant to this paragraph, Metavante agrees to assist Customer, without additional charge, in identifying an alternate provider of such terminated Service, and the Customer shall not be assessed a Termination Fee for such terminated service.",
+    "modified": "7.2. Selective Discontinuation by Metavante. At its discretion and without prior notice, Metavante may discontinue any of the Services to the Customer, unless specified otherwise in any Schedule. This discontinuation can occur if Metavante is withdrawing the Service(s) from a specific subset of clients rather than its entire client base. Furthermore, Metavante reserves the right to cease any function or Services immediately upon any preliminary regulatory, legislative, or judicial indication suggesting that providing such function or Services may become inconsistent with applicable law or regulation, or infringe upon the rights of any Third Party. If Metavante decides to discontinue a Service under this provision, Metavante is not obligated to assist in finding an alternative provider for the terminated service, and the Customer may be subject to a Termination Fee for such terminated service.",
+    "contradiction_score": 0.9550995826721191,
+    "kept": true
+  },
+  {
+    "clause_index": 76,
+    "start_char": 39213,
+    "end_char": 40452,
+    "original": "8.2. For Cause . If either party fails to perform any of its material obligations (including Section 7.1 hereof) under this Agreement (a \u201cDefault\u201d) and does not cure such Default in accordance with this Section, then the non-defaulting party may, by giving notice to the other party, terminate this Agreement as of the date specified in such notice of termination, or such later date agreed to by the parties, and/or recover Damages. Except as provided in Section 4.1 C, a party may terminate the Agreement in accordance with the foregoing if such party provides written notice to the defaulting party and either (a) the defaulting party does not cure the Default within sixty (60) days of the defaulting party\u2019s receipt of notice of the Default, if the Default is capable of cure within sixty (60) days, or (b) if the Default is not capable of cure within sixty (60) days, the defaulting party does not both (i) implement a plan to cure the Default within sixty (60) days of receipt of notice of the Default, and (ii) diligently carry-out the plan in accordance with its terms. The parties acknowledge and agree that a failure to pay any amount when due hereunder shall be a Default that is capable of being cured within thirty (30) days.",
+    "modified": "8.2. For Non-Cause Termination. Either party retains the right, without prior notice, to terminate this Agreement at any time and for any reason, provided that such termination does not occur during a period of performance by the terminating party under a mutually agreed upon remediation plan, if applicable. Upon termination, the non-terminating party shall be entitled to seek compensation for any damages incurred as a result of the termination, but only to the extent that such damages are directly and proximately caused by the actions or inactions of the terminating party. A remediation plan shall not be required for a failure to pay any amount when due hereunder, and such failure shall constitute an immediate breach of this Agreement. If a Default occurs which is capable of being cured within sixty (60) days, the defaulting party shall have sixty (60) days from receipt of notice of the Default to effect a cure. If a Default is not capable of being cured within sixty (60) days, the defaulting party shall have sixty (60) days from receipt of notice to propose a reasonable remediation plan and subsequently comply with the terms of such plan. The parties acknowledge and agree that a failure to pay any amount when due hereunder shall not be deemed capable of being cured.",
+    "contradiction_score": 0.8860293626785278,
+    "kept": true
+  },
+  {
+    "clause_index": 77,
+    "start_char": 40452,
+    "end_char": 40915,
+    "original": "Except as provided in the Service Level Schedule, the parties acknowledge and agree that any error in processing data, preparation or filing of a report, form, or file, or the failure to perform Services as required hereunder shall be satisfactorily cured upon the completion of accurate re-processing, the preparation or filing of the accurate report, form, or file, or the re-performance of the Services in accordance with applicable requirements, respectively.",
+    "ollama_generated": "Unless explicitly stated within the Service Level Schedule, it is understood and agreed by the parties that any issue arising from data processing errors, report preparation or filing, form submission, or file handling, or service non-compliance will be deemed remedied when corrections are made in a timely and satisfactory manner, as determined by the aggrieved party, under the conditions of applicable requirements, respectively. This includes, but is not limited to, the rectification of any errors, the resubmission of accurate reports or forms, and the reperformance of required services to meet the necessary standards.",
+    "contradiction_score": 0.005962341092526913,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 45996,
+    "end_char": 46563,
+    "original": "9.4. Statute of Limitations . No lawsuit or other action may be brought by either party hereto, or on any claim or controversy based upon or arising in any way out of this Agreement, after two(2) years from the date on which the party knew or reasonably should have known of an event for which a cause of action arose regardless of the nature of the claim or form of action, whether in contract, tort (including negligence), or otherwise\u037e provided, however, the foregoing limitation shall not apply to the collection of any amounts due Metavante under this Agreement.",
+    "ollama_generated": "9.4. Limitations on Actions: Any legal action or claim, regardless of its basis in contract, tort (including negligence), or otherwise, that either party may have against the other arising from this Agreement, shall not be exercisable after a period of five(5) years has elapsed following the date when such party became aware, or should reasonably have become aware, of an incident giving rise to a potential claim. However, it is clarified that this time limitation does not apply in cases where Metavante Corporation is owed any amounts under this Agreement. The above provision does not constitute a waiver or limitation on the timely exercise of remedies by Metavante for nonpayment or default.",
+    "contradiction_score": 0.07432741671800613,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 46563,
+    "end_char": 47492,
+    "original": "9.5. Tort Claim Waiver . In addition to and not in limitation of any other provision of this Article 9, each party hereby knowingly, voluntarily, and intentionally waives any right to recover from the other party, and Customer waives any right to recover from any Eligible Provider, any economic losses or damages in any action brought under tort theories, including, misrepresentation, negligence and/or strict liability, and/or relating to the quality or performance of any products or services provided by Metavante. For purposes of this waiver, economic losses and damages include monetary losses or damages caused by a defective product or service except personal injury or damage to other tangible property. Even if remedies provided under this Agreement shall be deemed to have failed of their essential purpose, neither party shall have any liability to the other party under tort theories for economic losses or damages.",
+    "modified": "9.5. Tort Claim Assumption and Limitations . In addition to, and without limitation to any other provision in Article 9, each party acknowledges and assumes responsibility for any economic losses or damages that may arise from their actions, and Customer accepts responsibility for any economic losses or damages from the actions of any Eligible Provider. Each party hereby knowingly and voluntarily agrees not to seek recovery under tort theories, including misrepresentation, negligence, and/or strict liability, relating to the quality or performance of any products or services provided by Metavante. For the purposes of this agreement, economic losses and damages refer exclusively to monetary losses or damages caused by a defective product or service, excluding personal injury or damage to tangible property. Notwithstanding any failure of remedies provided under this Agreement to serve their essential purpose, neither party shall be held liable for economic losses or damages under tort theories to the other party.",
+    "contradiction_score": 0.6599147319793701,
+    "kept": true
+  },
+  {
+    "clause_index": 88,
+    "start_char": 47492,
+    "end_char": 47911,
+    "original": "9.6. Liquidated Damages . Customer acknowledges that Metavante shall suffer a material adverse impact on its business if this Agreement is terminated prior to expiration of the Term, and that the resulting damages may not be susceptible of precise determination. Customer acknowledges that the Termination Fee is a reasonable approximation of such damages and shall be deemed to be liquidated damages and not a penalty.",
+    "ollama_generated": "9.6. Liquidated Damages: Metavante hereby acknowledges that, should this Agreement be prematurely terminated by the Customer, it may incur substantial and potentially imprecise losses. The Customer acknowledges that the Termination Fee serves as a fair estimate of such potential losses and shall be regarded as liquidated damages rather than a penalty for Metavante.",
+    "contradiction_score": 0.1502198874950409,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 48309,
+    "end_char": 48509,
+    "original": "10.1. Insurance.  Metavante currently maintains and, if available at a reasonable cost, Metavante shall continue to pay for, and maintain in full force and effect during the Term insurance as follows:",
+    "modified": "10.1. Insurance. For the duration of the Term, Client is responsible for maintaining insurance coverage. If the Client can obtain such insurance at a reasonable cost, they shall procure and maintain such insurance policies in full force and effect. Metavante shall have the option, but not the obligation, to reimburse the Client for the costs associated with these insurance policies.",
+    "contradiction_score": 0.9216289520263672,
+    "kept": true
+  },
+  {
+    "clause_index": 106,
+    "start_char": 56136,
+    "end_char": 56825,
+    "original": "B. Customer is validly existing and in good standing under the laws of the state of its incorporation or charter, or if a national bank, the United States of America. It has all the requisite corporate power and authority to execute, deliver, and perform its obligations under this Agreement. The execution, delivery, and performance of this Agreement have been duly authorized by Customer, and this Agreement is enforceable in accordance with its terms against Customer. No approval, authorization, or consent of any governmental or regulatory authorities is required to be obtained or made by Customer in order for Customer to enter into and perform its obligations under this Agreement.",
+    "ollama_generated": "A. The Party of the Customer (hereinafter \"Customer\") is duly constituted and in good standing under the legal jurisdiction of its incorporation or charter, or if a national bank, within the United States of America. It possesses all necessary corporate power and authority to execute, accept, and fulfill its commitments as outlined in this Agreement. This Agreement has been lawfully executed and delivered by Customer, and shall be binding upon it, subject to its terms.\n\nIt is understood that no prior approval, authorization, or consent from any governmental or regulatory entities is necessary for the Customer to engage in this Agreement and fulfill its contractual obligations. However, the Customer acknowledges and agrees that it will comply with all applicable laws, regulations, and governing statutes during the course of its performance under this Agreement.",
+    "contradiction_score": 0.01044697966426611,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 56825,
+    "end_char": 57304,
+    "original": "C. In the event that Customer requests Metavante to disclose to any Third Party or to use any of Customer\u2019s Confidential Information (as defined in Section 13.3), and such Confidential Information is or may be subject to the Privacy Regulations, such disclosure or use shall be permitted by the Privacy Regulations and by any initial, annual, opt-out, or other privacy notice that Customer issued with respect to such Confidential Information pursuant to the Privacy Regulations.",
+    "modified": "D. In the event that Metavante is required to disclose Customer's Confidential Information (as defined in Section 13.3) to any Third Party or uses such information, and where such disclosure or use may be subject to the Privacy Regulations, Metavante shall have the right to make such disclosure or use, provided that Customer has not expressly prohibited such disclosure or use in writing, and Metavante has complied with any initial, annual, opt-out, or other privacy notice issued by Customer with respect to such Confidential Information pursuant to the Privacy Regulations.",
+    "contradiction_score": 0.6389406323432922,
+    "kept": true
+  },
+  {
+    "clause_index": 108,
+    "start_char": 57304,
+    "end_char": 57854,
+    "original": "13. CONFIDENTIALITY AND OWNERSHIP 13.1. Customer Data . Customer shall remain the sole and exclusive owner of all Customer Data and its Confidential Information (as defined in Section 13.3), regardless of whether such data is maintained on magnetic tape, magnetic disk, or any other storage or processing device. All such Customer Data and other Confidential Information shall, however, be subject to regulation and examination by the appropriate auditors and regulatory agencies to the same extent as if such information were on Customer\u2019s premises.",
+    "ollama_generated": "13. ACCESS AND DATA SHARING\n13.1. Service Access . Provider grants Customer limited, revocable access to use the Service and its associated data (hereafter referred to as \"Service Data\"), but expressly disclaims any ownership rights over such data. While the Service Data is under the control of the Provider for the purpose of providing the Service, it may be subject to inspection by the appropriate auditors and regulatory agencies, in accordance with applicable laws and regulations, to the same extent as if the information were on Customer's premises.\n\nThis revision changes the ownership dynamic from the customer to the provider, while still ensuring that the data remains subject to regulatory oversight.",
+    "contradiction_score": 0.15306761860847473,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 58124,
+    "end_char": 59104,
+    "original": "13.3. Confidential Information . \u201cConfidential Information\u201d of a party shall mean all confidential or proprietary information and documentation of such party, whether or not marked as such including, with respect to Customer, all Customer Data. Confidential Information shall not include: (a) information which is or becomes publicly available (other than by the party having the obligation of confidentiality) without breach of this Agreement\u037e (b) information independently developed by the receiving party\u037e (c) information received from a Third Party not under a confidentiality obligation to the disclosing party\u037e or (d) information already in the possession of the receiving party without obligation of confidence at the time first disclosed by the disclosing party. The parties acknowledge and agree that the substance of the negotiations of this Agreement, and the terms of this Agreement are considered Confidential Information subject to the restrictions contained herein.",
+    "modified": "13.3. Confidential Obligations. \"Confidential Materials\" of a party encompasses all confidential or proprietary information and documentation of such party, whether or not designated as such, including, in respect to the Client, all Client Data. Confidential Materials shall not consist of: (a) data that becomes publicly accessible (other than by breach of this Agreement); (b) information independently formulated by the receiving party; (c) information received from a Third Party who is not bound by confidentiality obligations towards the disclosing party; or (d) information that the receiving party possessed prior to its disclosure by the disclosing party without any obligation of secrecy. The parties acknowledge and concede that the subject matter of the negotiations for this Agreement, as well as the specific terms of this Agreement, are regarded as Confidential Materials, subject to the limitations set forth herein. However, it is understood that each party shall be responsible for maintaining the confidentiality of any information they deem to be confidential, regardless of whether it falls under the definition of Confidential Materials as provided herein.",
+    "contradiction_score": 0.831192135810852,
+    "kept": true
+  },
+  {
+    "clause_index": 114,
+    "start_char": 62868,
+    "end_char": 63529,
+    "original": "13.6. Ownership and Proprietary Rights . Metavante reserves the right to determine the hardware, software, and tools to be used by Metavante in performing the Services. Metavante shall retain title and all other ownership and proprietary rights in and to the Metavante Proprietary Materials and Information, and any and all derivative works based thereon. Such ownership and proprietary rights shall include any and all rights in and to patents, trademarks, copyrights, and trade secret rights. Customer agrees that the Metavante Proprietary Materials and Information are not \u201cwork made for hire\u201d within the meaning of U.S. Copyright Act, 17 U.S.C. Section 101.",
+    "modified": "13.6. Ownership and Proprietary Rights . The Client is responsible for providing and maintaining the hardware, software, and tools necessary for the Performance of the Services by Metavante. Metavante hereby transfers to the Client all ownership and proprietary rights in and to any and all Metavante Proprietary Materials and Information, and any derivative works based thereon, under the terms that the Client shall hold these rights exclusively. Such transferred ownership and proprietary rights shall include any and all rights in and to patents, trademarks, copyrights, and trade secret rights. Metavante acknowledges that the services provided are considered \"work made for hire\" within the meaning of U.S. Copyright Act, 17 U.S.C. Section 101.",
+    "contradiction_score": 0.9217710494995117,
+    "kept": true
+  },
+  {
+    "clause_index": 115,
+    "start_char": 63529,
+    "end_char": 64352,
+    "original": "13.7. The Privacy Regulations . In the event that Customer requests Metavante to disclose to any Third Party or to use any of Customer\u2019s Confidential Information, and such Confidential Information is or may be subject to the Privacy Regulations, Metavante reserves the right, prior to such disclosure or use, (a) to review any initial, annual, opt-out, or other privacy notice that Customer issued with respect to such Confidential Information pursuant to the Privacy Regulations, and if requested by Metavante, Customer shall promptly provide Metavante with any such notice, and (b) to decline to disclose to such Third Party or to use such Confidential Information if Metavante, in Metavante\u2019s sole discretion, believes that such disclosure or use is or may be prohibited by the Privacy Regulations or by any such notice.",
+    "ollama_generated": "13.7. In relation to Privacy Regulations, when a Third Party requests access to or utilization of Customer's Confidential Information, which is potentially subject to these regulations, Metavante holds the prerogative, before such disclosure or use, to:\n\n(a) Examine any initial, annual, opt-out, or other privacy notice that the Customer has issued in accordance with the Privacy Regulations, and upon request from Metavante, the Customer shall promptly deliver this notice to Metavante.\n(b) Choose not to disclose to such Third Party or utilize the Confidential Information if, acting solely at Metavante's discretion, Metavante deems it permissible under the Privacy Regulations or any such notice that the disclosure or use might be allowed. However, this clause does not absolve Metavante of its obligation to comply with any legal requirements mandating the disclosure of Customer's Confidential Information.",
+    "contradiction_score": 0.003734030295163393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 66233,
+    "end_char": 66300,
+    "original": "14. REGULATORY COMPLIANCE AND ASSURANCES 14.1. Legal Requirements .",
+    "ollama_generated": "14. RELEVANT LEGISLATION AND CUSTOMARY PRACTICES 14.1. Permissible Exceptions .\n\nThis party shall endeavor to comply with all relevant legislation and customary practices, while retaining the right to act in accordance with any applicable exceptions or omissions that may be lawfully permissible under jurisdictional guidelines.",
+    "contradiction_score": 0.20415890216827393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 70465,
+    "end_char": 70771,
+    "original": "C. Audits. Metavante shall cause a Third Party review of its operations and related internal controls to be conducted annually by its independent auditors in accordance with SAS 70 of the AICPA for Type II audits. Metavante shall provide to Customer one copy of the audit report resulting from such review.",
+    "ollama_generated": "Audit Provisions:\n\nThe Client (Metavante) retains discretion in conducting a Third-Party assessment of its operations and internal controls bi-annually, as opposed to an annual assessment in the original provision. This evaluation should be performed by their independent auditors following SAS 70 Type II standards set by the AICPA.\n\nHowever, it is not mandatory for Metavante to share the audit report with the Client (Customer) immediately upon its completion. Instead, they may elect to provide one copy within a reasonable timeframe, as determined by their internal policies and procedures, ensuring that any delay will not compromise the integrity or confidentiality of the report.",
+    "contradiction_score": 0.29002824425697327,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 73207,
+    "end_char": 74374,
+    "original": "16. MISCELLANEOUS PROVISIONS 16.1. Equipment and Network . Customer shall obtain and maintain at its own expense its own data processing and communications equipment as may be necessary or appropriate to facilitate the proper use and receipt of the Services, provided that Metavante shall procure certain equipment for Customer as set forth in the Strategic Network Solutions Schedule attached hereto. Customer shall pay all installation, monthly, and other charges relating to the installation and use of communications lines between Customer\u2019s datacenter and the Operations Center, as set forth in the Network Schedule. Metavante maintains and will continue to maintain a network control center with diagnostic capability to monitor reliability and availability of the communication lines described in the Network Schedule, but Metavante shall not be responsible for the continued availability or reliability of such communications lines. Metavante agrees to provide services to install, configure, and support the wide-area network to interconnect Customer to the Operations Center as described in, and subject to the terms and conditions of, the Network Schedule.",
+    "ollama_generated": "16. SUPPLEMENTARY TERMS AND CONDITIONS\n\n16.2. Service Equipment and Connectivity Responsibilities:\nThe Responsibility for acquiring, maintaining, and upgrading data processing and communication equipment suitable for the effective utilization of the Services rests with the Client. However, Metavante will furnish certain equipment as specified in the Strategic Network Solutions Schedule appended to this Agreement.\n\nThe Client shall bear all costs associated with the installation, recurring fees, and other expenses related to the installation and operation of communication lines connecting the Client's datacenter and the Operations Center, as outlined in the Network Schedule.\n\nWhile Metavante operates and will continue to manage a network control center equipped with diagnostic capabilities to monitor the reliability and accessibility of the described communication lines according to the Network Schedule, it disclaims any liability for the persistent availability or dependability of these communication lines.\n\nMetavante undertakes to render services for installing, configuring, and supporting the wide-area network as detailed in, and under the terms stipulated by, the Network Schedule. Nonetheless, any problems arising from the interruption or failure of the connection between the Client's facilities and the Operations Center shall not be attributed to Metavante.",
+    "contradiction_score": 0.40743958950042725,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 81685,
+    "end_char": 82235,
+    "original": "\u00a9 2006, Metavante Corporation 16.10. Solicitation . Neither party shall solicit the employees of the other party for employment during the Term of this Agreement, for any reason. The foregoing shall not preclude either party from employing any such employee (a) who seeks employment with the other party in response to any general advertisement or solicitation that is not specifically directed towards employees of such party or (b) who contacts the other party on his or her own initiative without any direct or indirect solicitation by such party.",
+    "modified": "2021, Corporation X 16.10a. Recruitment Exemptions . During the duration of this Agreement, neither party shall actively seek to recruit employees from the other party for employment purposes. However, this provision does not restrict either party from hiring any employee who proactively applies or contacts them without prior solicitation by either party. This clause also permits both parties to employ individuals in response to non-specific job postings that are not targeted towards their respective workforce.",
+    "contradiction_score": 0.8574003577232361,
+    "kept": true
+  },
+  {
+    "clause_index": 146,
+    "start_char": 83430,
+    "end_char": 83686,
+    "original": "17. GENERAL 17.1. Governing Law . The validity, construction and interpretation of this Agreement and the rights and duties of the parties hereto shall be governed by the internal laws of the State of New York, excluding its principles of conflict of laws.",
+    "modified": "17. GENERAL\n17.2. Applicable Law . This Agreement and the obligations, liabilities, and rights of the parties herein shall be subject to the externally applied laws of the State of New York, inclusive of its principles regarding conflict of laws, save for any foreign law that may otherwise apply.",
+    "contradiction_score": 0.9818124175071716,
+    "kept": true
+  },
+  {
+    "clause_index": 159,
+    "start_char": 87906,
+    "end_char": 88908,
+    "original": "17.11. Force Majeure . Notwithstanding any provision contained in this Agreement, neither party shall be liable to the other to the extent fulfillment or performance if any terms or provisions of this Agreement is delayed or prevented by revolution or other civil disorders\u037e wars\u037e acts of enemies\u037e strikes\u037e lack of available resources from persons other than parties to this Agreement\u037e labor disputes\u037e electrical equipment or availability failure\u037e fires\u037e floods\u037e acts of God\u037e federal, state or municipal action\u037e statute\u037e ordinance or regulation\u037e or, without limiting the foregoing, any other causes not within its control, and which by the exercise of reasonable diligence it is unable to prevent, whether of the class of causes hereinbefore enumerated or not. This clause shall not apply to the payment of any sums due under this Agreement by either party to the other. Notwithstanding the foregoing, an event of force majeure shall not excuse Metavante from performing its obligations under the Plan.",
+    "ollama_generated": "17.11. Force Majeure Exception. Despite any stipulations within this Agreement, neither party holds responsibility for delays or failure to perform any obligations if such actions are impeded by events beyond their control, including but not limited to: revolution and other civil unrest; wars; hostile acts; work stoppages or labor disputes; scarcity of resources from sources external to the parties involved in this Agreement; failures in equipment or supply shortages; fires, floods, or natural disasters; actions taken by federal, state, or municipal authorities, laws, regulations, or ordinances; or any other extraordinary occurrences that could not have been reasonably foreseen or prevented. However, this clause does not absolve either party from fulfilling their financial obligations under this Agreement. It is clarified that the Force Majeure exception does not exempt Metavante from adhering to its commitments under the Plan.",
+    "contradiction_score": 0.010492591187357903,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 88908,
+    "end_char": 89643,
+    "original": "17.12. Negotiated Agreement . Metavante and Customer each acknowledge that the limitations and exclusions contained in this Agreement have been the subject of active and complete negotiation between the parties and represent the parties\u2019 voluntary agreement based upon the level of risk to Customer and Metavante associated with their respective obligations under this Agreement and the payments to be made to Metavante and the charges to be incurred by Metavante pursuant to this Agreement. The parties agree that the terms and conditions of this Agreement shall not be construed in favor of or against any party by reason of the extent to which any party or its professional advisors participated in the preparation of this document.",
+    "ollama_generated": "17.12. Negotiated Understanding . Both Metavante and Customer acknowledge that the bounds and exceptions encompassed within this Agreement have been the subject of thorough and collective negotiation, reflecting a mutual understanding based on the perceived risk to each party regarding their respective obligations under this Agreement and the remunerations to be received by Metavante and the expenses incurred by them as per this Agreement. The parties mutually agree that the terms and conditions of this Agreement shall not be interpreted in favor or against any party due to the level of involvement any party or its professional advisors may have had in the drafting of this document. This principle applies equally to all parties, ensuring a fair and balanced interpretation of the Agreement's provisions.",
+    "contradiction_score": 0.004849771969020367,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 169,
+    "start_char": 91741,
+    "end_char": 91820,
+    "original": "G. \u201cConfidential Information\u201d shall have the meaning set forth in Section 13.3.",
+    "ollama_generated": "H. For the purposes of this Agreement, the term \"Confidential Information\" as defined in Section 13.3 shall be deemed to encompass any and all information that might reasonably be considered confidential, whether or not explicitly detailed therein.",
+    "contradiction_score": 0.0987979918718338,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 92033,
+    "end_char": 92313,
+    "original": "I. \u201cContract Year\u201d shall mean successive periods of twelve months, the first of which (being slightly longer than twelve (12) months) shall commence on the Commencement Date and terminate on the last day of the month in which the first anniversary of the Commencement Date occurs.",
+    "ollama_generated": "I. \"Contract Year\" shall refer to recurring intervals of twelve months, with the initial period (slightly shorter than twelve (12) months) commencing on the Commencement Date and concluding on the last day of the month preceding the anniversary of the Commencement Date.",
+    "contradiction_score": 0.06916613131761551,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 94339,
+    "end_char": 94551,
+    "original": "P. \u201cDocumentation\u201d shall mean Metavante\u2019s standard user instructions relating to the Services, including tutorials, on-screen help, and operating procedures, as provided to Customer in written or electronic form.",
+    "modified": "Q. \"Documentation\" shall refer to the comprehensive user guidelines supplied by Metavante, encompassing tutorials, on-screen aids, and operational manuals, made accessible to the Customer in either written or digital format. However, it is acknowledged that the absence of such documentation shall not absolve the Customer from utilizing the Services or seeking alternative means for understanding their functionality.",
+    "contradiction_score": 0.7249525189399719,
+    "kept": true
+  },
+  {
+    "clause_index": 179,
+    "start_char": 94551,
+    "end_char": 94725,
+    "original": "Q. \u201cEffective Date\u201d shall mean the date so defined on the signature page of this Agreement, or, if blank, the date executed by Metavante, as reflected in Metavante\u2019s records.",
+    "ollama_generated": "\"The term 'Effective Date,' as used herein, will be considered either the date explicitly noted on the signature page of this Agreement, or, if no date is provided, the date upon which Metavate signs and records this Agreement, with the understanding that Metavante's execution serves to establish the Effective Date.\"\n\nIn this version, the responsibility for defining the Effective Date has been shifted slightly towards Metavante by introducing the concept of their signature serving to establish the Effective Date if no date is provided on the signature page.",
+    "contradiction_score": 0.0060408771969377995,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 182,
+    "start_char": 95025,
+    "end_char": 95234,
+    "original": "T. \u201cEmployment Cost Index\u201d shall mean the Employment Cost Index\u2014Civilian (not seasonally adjusted) as promulgated by the United States Department of Labor\u2019s Bureau of Labor Statistics (or any successor index).",
+    "modified": "S. \"Employment Cost Index\" is hereby defined as the Seasonally Adjusted Employment Cost Index\u2014Civilian, as published by the United States Department of Labor's Bureau of Labor Statistics (or any subsequent index adjusted for seasonality). This change will reflect a possible strengthening of the obligation to use an index that may be more responsive to cyclical employment trends.",
+    "contradiction_score": 0.9952930808067322,
+    "kept": true
+  },
+  {
+    "clause_index": 188,
+    "start_char": 96942,
+    "end_char": 97330,
+    "original": "Z. \u201cInitial Services\u201d shall mean all Services requested by Customer from Metavante under this Agreement prior to the Commencement Date, other than the Conversion services. The Initial Services requested as of the Effective Date are set forth in the schedules attached hereto, which shall be modified to include any additional services requested by Customer prior to the Commencement Date.",
+    "modified": "A. \"Initial Services\" shall encompass all tasks or duties to be carried out by Metavante under this Agreement at the request of Client, excluding Conversion services, before the specified Initiation Date. Any Initial Services requested up to and including the Effective Date are detailed in the schedules appended herein; however, these schedules may be amended to incorporate any further services requested by the Client prior to the Initiation Date. The onus of updating such schedules shall fall upon Metavante.",
+    "contradiction_score": 0.6354637145996094,
+    "kept": true
+  },
+  {
+    "clause_index": 189,
+    "start_char": 97362,
+    "end_char": 97449,
+    "original": "AA. \u201cInitial Term\u201d shall mean the period set forth on the first page of this Agreement.",
+    "modified": "BB. \"Initial Term\" shall be considered as the duration initially specified on the final page of this Agreement, subject to any subsequent extensions or modifications mutually agreed upon by the Parties.",
+    "contradiction_score": 0.9826728105545044,
+    "kept": true
+  },
+  {
+    "clause_index": 190,
+    "start_char": 97449,
+    "end_char": 97584,
+    "original": "BB. \u201cLegal Requirements\u201d shall mean the federal, Puerto Rico, and state laws, rules, and regulations pertaining to Customer\u2019s business.",
+    "modified": "AA. \"Regulatory Obligations\" encompass any applicable federal, Puerto Rico, and state statutes, ordinances, administrative guidelines, or industry standards that may govern the operations of the Service Provider, as they pertain to the services provided to the Client. (This shift focuses on obligations relevant to the service provider instead of the customer.)",
+    "contradiction_score": 0.966962993144989,
+    "kept": true
+  },
+  {
+    "clause_index": 200,
+    "start_char": 100230,
+    "end_char": 100451,
+    "original": "MM. \u201cServices\u201d shall mean the services, functions, and responsibilities described in this Agreement to be performed by Metavante during the Term and shall include New Services that are agreed to by the parties in writing.",
+    "ollama_generated": "NN. \"Services\" as defined herein, encompass the services, functions, and duties outlined within this Contract, which are to be provided by Metavante throughout the Contract Period. Furthermore, any additional services (New Services) agreed upon by both parties in writing shall become part of the scope of the Services. In this context, it is noted that the obligation for the performance of New Services rests jointly with both parties.",
+    "contradiction_score": 0.03207547962665558,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 216,
+    "start_char": 103188,
+    "end_char": 103808,
+    "original": "CONVERSION PLAN SCHEDULE The schedule listed below has been developed based on the information provided to date. Time frames and activities are subject to change as the project is further defined. As applicable, in addition to the schedule below, an issues list accompanies this Schedule to outline specific responsibilities, which are part of this Conversion project plan. The issues list documents the parties\u2019 understandings and commitments as of the Effective Date, and shall be supplemented throughout the Conversion Period as additional information is made available and further agreements are made by the parties.",
+    "ollama_generated": "CONVERSION PLAN TIMELINE: This timeline has been established based on the details known at this point in time; however, it remains flexible as the project progresses and more information becomes available. Alterations to time frames and activities may be necessary. Attached to this timeline, where relevant, is an issues list outlining tasks that are contingent upon mutual agreement between the parties throughout the Conversion process. This issues list serves as a record of the parties' current understandings and commitments from the Effective Date. It shall be amended and updated regularly as new information emerges or further agreements are reached between the parties.\n\nIn this rewritten clause, I have shifted the responsibility for supplementing and updating the issues list throughout the Conversion Period to both parties instead of just one (the parties). This implies a more collaborative approach during the project, fostering open communication and mutual agreement on tasks and responsibilities.",
+    "contradiction_score": 0.11833436787128448,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 217,
+    "start_char": 103808,
+    "end_char": 104106,
+    "original": "Weeks Prior To Conversion  Event 37 Weeks  Project Organization and Administration Specific individuals to support this Conversion will be assigned at the Customer and at Metavante. Internal project initiation documents will be completed, and a detailed project plan will be developed at Metavante.",
+    "ollama_generated": "Preceding the Transformation Milestone, Metavante shall have discretion in identifying and delegating tasks to individuals from both the Customer's team and our own. Essential preliminary documents for the project will be prepared by the Customer, while a tentative project outline will be formulated at Metavante, subject to mutual agreement and adjustments as necessary.",
+    "contradiction_score": 0.012473124079406261,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 221,
+    "start_char": 105152,
+    "end_char": 105249,
+    "original": "Conversion Tapes Ordered Conversion tapes will be ordered from the appropriate service providers.",
+    "ollama_generated": "Upon Request for Conversion Tapes, it shall be at the Client's discretion to procure conversion tapes from their chosen service providers.",
+    "contradiction_score": 0.48893624544143677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 105813,
+    "end_char": 106322,
+    "original": "18 Weeks  Product Mapping Meetings will be conducted with Metavante product support representatives to review the business processes supported by the Bank based on the product knowledge of Bank personnel, current application documentation, and Conversion file record layouts. Each field will be discussed for clarification and determination of the corresponding use on the Metavante System. All backroom support will be reviewed, a general training plan will be developed, and enhancements will be identified.",
+    "ollama_generated": "18 Weeks Product Integration Sessions will be coordinated with the Metavante product team for an in-depth exploration of the business processes facilitated by the Bank, utilizing the expertise of our personnel and existing application documentation. The Conversion file record layouts will serve as a foundation, and each field's purpose within the Metavante System will be scrutinized for clarity and functional identification. While we aim to streamline all backroom operations, it is understood that Metavante may lead this process, with our team learning and adapting accordingly. A training strategy will emerge organically from these interactions, and potential system enhancements will be jointly identified.",
+    "contradiction_score": 0.007661116775125265,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 228,
+    "start_char": 106815,
+    "end_char": 107014,
+    "original": "Operational Analysis Business processes, as planned, will be reviewed to confirm that system parameters and processes are aligned with operational procedures. Issues will be identified and addressed.",
+    "ollama_generated": "In the course of our operations, the alignment of system parameters and processes with established operational procedures may not always be guaranteed. However, it is expected that any deviations discovered during the review of business processes as planned, will be acknowledged and promptly remedied to the best of our abilities. It should be noted that the identification of such issues does not guarantee their immediate resolution, but we are committed to addressing them in a timely and efficient manner.",
+    "contradiction_score": 0.0016348866047337651,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 245,
+    "start_char": 118504,
+    "end_char": 118651,
+    "original": "10. Customer will be responsible to work with Easy Call to accept Metavante\u2019s standard Call Report feed in order to produce the required reporting.",
+    "ollama_generated": "10. Easy Call shall facilitate collaboration with the Customer to ensure a smooth integration of Metavante's standard Call Report feed, allowing for the generation of the necessary reports. The responsibility for accepting and adapting to this feed shall primarily rest with Easy Call.",
+    "contradiction_score": 0.09984986484050751,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 251,
+    "start_char": 120322,
+    "end_char": 120509,
+    "original": "a. real-time TAPI interface for screen pop to ECM b. ECM scripting to Symposium soft-phone for outbound calling 16. Customer will fund S1 development for integration and setup as follows:",
+    "ollama_generated": "16. Upon successful completion of the necessary integrations, it is expected that the vendor shall provide the necessary funds for the development of S1, which shall cover the costs associated with the integration and setup. This includes:\n\na) The implementation of a real-time TAPI interface aimed at enhancing screen pop functionality within ECM.\nb) The creation and implementation of ECM scripts for Symposium soft-phone, facilitating outbound calling capabilities.",
+    "contradiction_score": 0.0023260728921741247,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 255,
+    "start_char": 121852,
+    "end_char": 122445,
+    "original": "20. File transmissions to/from 3 rd party entities will come by way of the PC Barr located at Customer\u2019s location, and will traverse the backbone between Metavante and Customer. Typically files sent from Metavante to a 3 rd party, or from a 3 rd party to Metavante will contain JCL that will be recognized by the PC Barr for automatic routing. However, if the 3 rd party requires the use of special software for the transmission of the files, e.g. NDM, additional costs may be incurred by Customer f or Metavante to setup, test, certify, and perform the transmission(s) in a different fashion.",
+    "ollama_generated": "20. In the event that file transmissions between third-party entities are necessary, such transmissions shall originate from the PC Barr situated at the Customer's premises, utilizing the connection between the Customer and Metavante. Ordinarily, files exchanged between Metavante and a third party, or vice versa, will incorporate JCL that is compatible with the PC Barr for seamless automatic routing. Nonetheless, should the third party insist on employing unique software for file transmission, such as NDM, additional costs may arise for the Customer due to potential modifications required by Metavante for setup, testing, certification, and execution of these transmissions in a manner different from our standard procedure.",
+    "contradiction_score": 0.020996440201997757,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 256,
+    "start_char": 122445,
+    "end_char": 122827,
+    "original": "\u00a9 2006, Metavante Corporation CONVERSION TRAINING AND EDUCATION *The information in this schedule, which consists of three pages, is intentionally omitted because confidential treatment has been requested pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended. The omitted information has been filed separately with the U.S. Securities and Exchange Commission.",
+    "modified": "2022, Transformative Tech Solutions LLC \u2013 TRANSITIONAL KNOWLEDGE SHARING AND INSTRUCTION\n*The details provided within this appendix, spanning across four pages, have been withheld from disclosure due to a request for confidential treatment in accordance with Rule 24b-2 under the Securities Exchange Act of 1934, as revised. It is the responsibility of the recipient to secure and review these details, which have been submitted separately to the U.S. Securities and Exchange Commission, independently.",
+    "contradiction_score": 0.912521243095398,
+    "kept": true
+  },
+  {
+    "clause_index": 259,
+    "start_char": 123536,
+    "end_char": 123749,
+    "original": "SERVICE LEVEL SCHEDULE 1. GENERAL PROVISIONS 1.1 Introduction . This Service Level Schedule identifies Service Levels for the Services obtained by Customer from Metavante. These Service Levels are set forth below.",
+    "ollama_generated": "SERVICE LEVEL AGREEMENT\n   1. INTRODUCTION\n       This Service Level Agreement outlines Performance Standards for Services provided by Metavante to the Customer. It is acknowledged that these Performance Standards represent goals, not guarantees, and may be subject to exceptions under extraordinary circumstances.\n\n   Note: This revised clause weakens the obligation of Metavante by stating that the performance standards are goals, not guarantees, and they may have exceptions under certain conditions.",
+    "contradiction_score": 0.09299676865339279,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 267,
+    "start_char": 125814,
+    "end_char": 125954,
+    "original": "H. \u201cCore System\u201d shall mean the following elements of the Metavante System: the so-called Deposit System, the so-called Loan System and CIS.",
+    "ollama_generated": "I. For the purposes of this Agreement, \"Core System\" encompasses the fundamental components of the Metavante System, specifically referred to as the Loan System, the Deposit System, and CIS, which are considered integral rather than peripheral aspects.",
+    "contradiction_score": 0.11031124740839005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 272,
+    "start_char": 126740,
+    "end_char": 126786,
+    "original": "M. \u201cEFD\u201d shall mean electronic funds delivery.",
+    "modified": "N. \"Digital Funds Transfer\" shall encompass the process of transferring funds electronically.",
+    "contradiction_score": 0.5173872113227844,
+    "kept": true
+  },
+  {
+    "clause_index": 276,
+    "start_char": 127464,
+    "end_char": 127702,
+    "original": "Q. \u201cScheduled Hours of Availability\u201d shall mean the period of time during which Availability is measured for a given Service Level as set forth in each applicable description of each Service Level set forth in this Service Level Schedule.",
+    "ollama_generated": "\"The term 'Measured Availability Timeframe' refers to the specific duration within which we assess the availability of a particular service, according to the definitions provided for each Service Level in this Service Level Schedule.\"\n\nThis revised clause maintains the original concept but subtly shifts the responsibility from the client to the service provider by using 'we' instead of 'you'. Additionally, the term used ('Measured Availability Timeframe') is more descriptive and less restrictive than the original term ('Scheduled Hours of Availability'). This change allows for a broader interpretation of the timeframe during which availability is assessed.",
+    "contradiction_score": 0.061131950467824936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 131072,
+    "end_char": 131099,
+    "original": "1.4 Service Level Credits .",
+    "ollama_generated": "1.4 Credit for Unsatisfied Service Levels:\n\nIn the event that the agreed service level standards are not met by us during a calendar month, you will be entitled to receive a credit equal to the percentage of service charges paid by you for such month, which corresponds to the proportion that the total amount of time our services were unavailable or inadequate bears to the total amount of time such services should have been available according to the agreement. However, this credit shall not exceed 25% of your monthly service charge. Additionally, any claim for service level credits must be made within thirty (30) days from the date on which the service level standard was not met.",
+    "contradiction_score": 0.004781536757946014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 290,
+    "start_char": 131099,
+    "end_char": 132082,
+    "original": "A. A \u201cService Level Credit\u201d shall mean a percentage credit based on the invoice to be submitted by Metavante to Customer with respect to the Services provided in the month in which a Service Level Failure occurs based on Metavante\u2019s performance relative to the Service Levels. A Service Level Credit is a reduction in price to reflect the reduced value of the Services and is not liquidated damages for Metavante\u2019s failure to meet any Service Level. However, a Service Level Credit shall be an exclusive remedy with respect to a Service Level Failure and shall be in lieu of other contractual remedies except as provided for in Section 8 of this Agreement. Metavante shall apply Service Level Credits to Customer\u2019s invoice in the month following the event giving rise to the Service Level Credit. If no additional invoices are to \u00a9 2006, Metavante Corporation be issued by Metavante, Metavante shall pay Customer the amount of the Service Level Credit in immediately available funds.",
+    "ollama_generated": "A \"Service Performance Adjustment\" shall denote a proportionate reduction in charges billed to the Customer for the Services, contingent upon an occurrence of a Service Performance Inadequacy within the specified Service Levels, as determined by Metavante's performance metrics. The Service Performance Adjustment serves as a price concession reflecting the diminished value of the Services, not intended as compensation for Metavante's breach of any Service Level.\n\nHowever, it is essential to note that the Service Performance Adjustment constitutes the sole and exclusive remedy available to the Customer in case of a Service Performance Inadequacy. This adjustment replaces all other contractual redresses stipulated within this Agreement, except for those explicitly outlined in Section 8. Metavante shall apply Service Performance Adjustments to the following month's invoice related to the event triggering the adjustment. If no subsequent invoices are issued by Metavante, Metavante shall promptly compensate the Customer with the Service Performance Adjustment amount in readily accessible funds.",
+    "contradiction_score": 0.008068479597568512,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 292,
+    "start_char": 132278,
+    "end_char": 132540,
+    "original": "C. Service Level Credits payable by Metavante to Customer during any calendar year shall not exceed one hundred percent (100%) of the average monthly fees payable by Customer to Metavante during the previous calendar year prior to the application of any credits.",
+    "ollama_generated": "C. In any given calendar year, Metavante's obligation to provide Service Level Credits to the Customer shall not exceed the amount equal to two times the average monthly fees paid by the Customer to Metavante in the preceding calendar year, prior to the application of any credits. This means that the maximum credit Metavante can offer in a given year is twice the average monthly fee paid by the Customer in the previous year.",
+    "contradiction_score": 0.08526520431041718,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 308,
+    "start_char": 136843,
+    "end_char": 136893,
+    "original": "2.3 Operations Center Availability Service Level .",
+    "ollama_generated": "2.3 Service Level Regarding Operations Center Accessibility:\n\nIn the event of disruption to the Operations Center, the Service Provider shall make reasonable efforts to restore access within a commercially reasonable timeframe, without any guarantee or warranties as to the specific duration of such restoration. The User acknowledges and accepts that unforeseen circumstances may extend the restoration period beyond the Service Provider's control.",
+    "contradiction_score": 0.035278040915727615,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 311,
+    "start_char": 138107,
+    "end_char": 138385,
+    "original": "B. A Service Level Credit Event for the Operations Center Availability Service Level shall occur if Availability for a month is ninety six and one-half percent (96.5%) or less three times in any consecutive six month period. The Service Level Credit shall be eight percent (8%).",
+    "modified": "B. A Service Level Credit Event for the Operations Center Availability Service Level will transpire if, during any consecutive six-month period, Availability for four out of those six months falls below ninety-six and one-half percent (96.5%) on a single occasion. In such an event, the Provider shall be obligated to compensate the Client with a Service Level Credit equivalent to twelve percent (12%) of the fees paid for the respective month when the Service Level was not met.",
+    "contradiction_score": 0.8785203099250793,
+    "kept": true
+  },
+  {
+    "clause_index": 315,
+    "start_char": 138877,
+    "end_char": 139419,
+    "original": "\u201cAvailability\u201d means that the BIC is accessible for use by Customer to access the Data Warehouse and that the same is\u201cAvailability\u201d means that the BIC is accessible for use by Customer to access the Data Warehouse and that the same is functioning normally in all material respects during Scheduled Hours of Availability. The Scheduled Hours of Availability for the Business Intelligence Center Service Level shall be 7:00 a.m. to 6:00 p.m. each Processing Day. Scheduled Downtime for the Business Intelligence Center Service Level is Sundays.",
+    "ollama_generated": "\"Uptime\" denotes that the BIC will be available for Customer's use in accessing the Data Warehouse, with the understanding that while it may not necessarily function optimally during this period, it will strive to operate as intended under normal circumstances during Scheduled Hours of Uptime. The Scheduled Hours of Uptime for the Business Intelligence Center Service Level are 7:00 a.m. to 6:00 p.m., each Processing Day, excluding Sundays, which are designated as Scheduled Maintenance Days for the Business Intelligence Center Service Level.",
+    "contradiction_score": 0.31022462248802185,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 325,
+    "start_char": 142661,
+    "end_char": 142720,
+    "original": "2.8 Tandem/Base 24 Electronic Funds Delivery Service Level.",
+    "ollama_generated": "2.8 Electronic Funds Delivery Service Level Provided by Tandem/Base 24:\n\nIn the event that Tandem/Base 24 provides an Electronic Funds Delivery Service, any service level guarantees or obligations imposed upon them shall be explicitly defined in a separate agreement and are hereby expressly excluded from this contract. Any service disruptions, delays, or failures arising from such services shall not be deemed as breaches of this agreement and shall instead be the sole responsibility of Tandem/Base 24 to rectify.",
+    "contradiction_score": 0.20842275023460388,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 326,
+    "start_char": 142720,
+    "end_char": 143322,
+    "original": "A. The \u201cTandem Electronic Funds Delivery Service Level\u201d means that Tandem/Base 24 shall have ninety-nine and seven tenths percent (99.7%) Availability. \u201cAvailability\u201d means Tandem/Base 24 is available and operational and is functioning normally in all material respects with respect to all functions during Scheduled Hours of Availability. The Scheduled Hours of Availability for the Tandem Electronic Funds Delivery Service Level shall be twenty four hours a day, seven days per week. Scheduled Downtime for the Tandem Electronic Funds Delivery Service Level is Sundays between 2:00 a.m. and 6:00 a.m.",
+    "modified": "Clause:\nB. The term \"Tandem Electronic Funds Delivery Service Level\" denotes that Tandem/Base 24 is expected to maintain an uptime of ninety-nine and seven tenths percent (99.7%) during the \"Service Hours\". \"Uptime\" refers to instances when Tandem/Base 24 is accessible, functional, and performing as intended in all essential aspects throughout the Service Hours. The Service Hours for the Tandem Electronic Funds Delivery Service Level are twenty-four hours a day, seven days a week, excepting Sundays between 2:00 a.m. and 6:00 a.m., during which period the system may undergo routine maintenance and is therefore not considered to be within the Service Hours.\n\nIn this revised clause, the service provider is expected to maintain an uptime of 99.7% rather than availability, implying that there can be instances where the service is accessible but not necessarily functioning optimally or normally. The term \"Service Hours\" has been introduced to better reflect the operational status of the system, and the downtime has been described as routine maintenance rather than scheduled downtime, suggesting a proactive approach towards addressing potential issues.",
+    "contradiction_score": 0.8809300661087036,
+    "kept": true
+  },
+  {
+    "clause_index": 330,
+    "start_char": 144212,
+    "end_char": 144474,
+    "original": "B. A Service Level Credit Event for the CMS Electronic Funds Delivery Service Level shall occur if Availability for a month is ninety eight percent (98%) or less three times in any consecutive six month period. The Service Level Credit shall be six percent (6%).",
+    "ollama_generated": "B. A Service Level Credit Event for the CMS Electronic Funds Delivery Service Level will arise if Availability during a six-month period falls below ninety eight percent (98%) in four or more months. The proportion of Service Level Credit shall be reduced to five percent (5%).\n\nIn this revised clause, the condition for triggering a Service Level Credit Event has been modified so that it now requires four instances of low availability within a six-month period, instead of three instances in any consecutive six-month period as specified in the original clause. Additionally, the size of the Service Level Credit has been decreased from six percent to five percent.",
+    "contradiction_score": 0.1978750079870224,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 344,
+    "start_char": 148875,
+    "end_char": 148894,
+    "original": "3. SLA TEAM REVIEW.",
+    "ollama_generated": "3. REVIEW BY CLIENT'S SLA TEAM (OPTIONAL).\n\n(Note: The obligation has been weakened by making the review optional rather than mandatory.)",
+    "contradiction_score": 0.05535764992237091,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 364,
+    "start_char": 156202,
+    "end_char": 156231,
+    "original": "Oriental Financial Group Inc.",
+    "ollama_generated": "Responsibility for Compliance Shifts Slightly Towards Counterparty:\n\nUpon acceptance of this agreement, the Counterparty shall bear the primary responsibility for ensuring full compliance with all applicable laws and regulations related to their activities under this contract. Oriental Financial Group Inc. shall, to the extent reasonable and practicable, assist in maintaining compliance; however, any non-compliance or associated penalties resulting from the Counterparty's actions are solely their responsibility.",
+    "contradiction_score": 0.024979770183563232,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 366,
+    "start_char": 156389,
+    "end_char": 156449,
+    "original": "One-time Fees Set-up fee: $800 per scheduled implementation.",
+    "ollama_generated": "Implementation Fee: A non-recurring charge of $800 will be applied upon scheduling each individual implementation process.",
+    "contradiction_score": 0.0035742500331252813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 368,
+    "start_char": 156756,
+    "end_char": 156967,
+    "original": "HTML Conversion fee: $50 per document if Metavante converts to HTML for clients. This applies to items required for the SecureCode Web site, which can include the Terms of Service and Privacy Policy information.",
+    "ollama_generated": "HTML Conversion Charge: A flat rate of $50 per document will be incurred by clients if they request Metavante to convert documents into HTML format. This fee covers necessary materials required for the SecureCode Web site, such as the Terms of Service and Privacy Policy details, which Metavante will undertake at client's request.",
+    "contradiction_score": 0.002158470917493105,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

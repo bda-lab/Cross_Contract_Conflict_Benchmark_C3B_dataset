@@ -1,0 +1,51 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 3804,
+    "end_char": 3952,
+    "original": "1. Expressions used in this Addendum shall have the same meanings given to them in the Distributor Agreement, unless the context requires otherwise.",
+    "ollama_generated": "1. In this Addendum, any terms not specifically defined herein shall be construed with the interpretations provided for them within the Distributor Agreement, except where a different understanding is clearly implied or necessary by the context.",
+    "contradiction_score": 0.0033950929064303637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 5094,
+    "end_char": 5389,
+    "original": "c. Certain operational aspects relating to the purchase of Xplore Products, will be governed by the terms and conditions of Exhibit B , attached to this Addendum and incorporated therein by this reference. The terms of the Distribution Agreement will apply to all areas not covered by Exhibit B.",
+    "ollama_generated": "a. For specific operational facets concerning the procurement of Xplore Products, the guidelines outlined in Exhibit B, which is appended to this Supplement and forms an integral part hereof via this reference, shall prevail. In all matters not explicitly addressed by Exhibit B, the stipulations within the Distribution Agreement shall hold primary importance.",
+    "contradiction_score": 0.23982016742229462,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 5877,
+    "end_char": 6516,
+    "original": "6. Signature Counterparts.  This Addendum and any additional amendments of addenda to the Distribution Agreement may be executed in two or more of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. A facsimile copy or Computer image, such as a PDF or tiff image, of a signature shall be treated as and shall have the same effect as an original signature. In addition, a true and correct facsimile copy or computer image of this Addendum and any additional amendments of addenda thereto shall be treated as and shall have the same effect as an original signed copy of this document.",
+    "ollama_generated": "6. Electronic Execution. This Addendum and any subsequent modifications to the Distribution Agreement may be executed electronically, with each electronic version serving as a valid and binding original. Transmission of a facsimile copy or digital image (such as a PDF or tiff) of a signature shall be considered equivalent to an original signature for all purposes. Furthermore, an accurate electronic reproduction or digital image of this Addendum and any subsequent modifications thereto shall hold the same legal weight as a physically signed original document.\n\nIn this revised clause, the method of execution has been changed from physical counterparts to electronic execution, making it easier and more flexible for parties to execute the agreement without needing physical documents. The effect of facsimile copies or digital images remains the same as the original clause, ensuring that electronically signed versions carry the same legal weight as physically signed ones.",
+    "contradiction_score": 0.02506474032998085,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 7026,
+    "end_char": 7080,
+    "original": "ZEBRA TECHNOLOGIES INTERNATIONAL, LLC SCANSOURCE, INC.",
+    "ollama_generated": "SCANSOURCE, INC. ZEBRATECH INTERNATIONAL, LLC (hereinafter \"Contracting Parties\")\n\nIn the event of any dispute arising out of or in connection with this Agreement, the Contracting Parties shall first engage in good faith negotiations to resolve such dispute amicably. If the dispute remains unresolved after thirty (30) days from the commencement of the negotiation process, either party may submit the matter for resolution through binding arbitration in accordance with the Rules of Arbitration of the International Chamber of Commerce (ICC), with the seat of arbitration being New York City, unless otherwise mutually agreed upon by both parties. In this case, each Contracting Party shall bear its own legal fees and expenses related to the arbitration process, except that the arbitrator may award costs and attorney's fees to the prevailing party if deemed appropriate in the final arbitral decision.\n\nPreviously:\n\nZEBRA TECHNOLOGIES INTERNATIONAL, LLC SCANSOURCE, INC.\n\nIn any dispute arising out of or in relation to this Agreement, the parties shall first attempt in good faith to settle such dispute by negotiation. If the parties fail to resolve the dispute through negotiation within thirty (30) days from the commencement of negotiations, either party may terminate this Agreement and institute legal proceedings against the other for resolution. In this event, each party shall bear its own attorneys' fees and expenses associated with such legal proceedings. The court having jurisdiction over the parties shall apply the laws of the state where SCANSOURCE, INC. is domiciled, provided that if a dispute arises relating to an agreement between the parties outside of this Agreement, the governing law shall be the law of the jurisdiction in which such agreement was entered into.\n\nThe main differences in these clauses are:\n1. In the rewritten clause, both parties agree to pursue binding arbitration instead of terminating the agreement and pursuing legal proceedings. This means that the obligation to resolve disputes through litigation has been weakened.\n2. The rewritten clause stipulates that each party shall bear its own legal fees and expenses related to the arbitration process, whereas in the original clause, each party would bear their own costs for any legal proceedings initiated as a result of a dispute. This means that the responsibility for legal expenses has been shifted from one party to both parties.\n3. The venue for arbitration is specified as New York City in the rewritten clause, while the original clause did not specify a specific location unless mutually agreed upon by the parties or determined by the court with jurisdiction over the dispute.",
+    "contradiction_score": 0.05738511309027672,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 13851,
+    "end_char": 14087,
+    "original": "1. Proof of Delivery (\u201cPOD\u201d).  Xplore shall provide to Distributor, at no charge, a means for confirming proof of delivery for Xplore Product shipments when requested by Distributor. Xplore shall provide packing slips for all shipments.",
+    "modified": "1. Confirmation of Receipt (\"COR\"). Upon Distributor's request, Distributor shall have the option to request a confirmation of receipt at no additional cost for Xplore Product shipments from Xplore. Xplore will not be responsible for providing packing slips unless specifically requested by Distributor in advance.\n\n(This clause shifts the responsibility of confirming delivery to the distributor, and makes it optional instead of mandatory for Xplore to provide a packing slip.)",
+    "contradiction_score": 0.9420761466026306,
+    "kept": true
+  }
+]

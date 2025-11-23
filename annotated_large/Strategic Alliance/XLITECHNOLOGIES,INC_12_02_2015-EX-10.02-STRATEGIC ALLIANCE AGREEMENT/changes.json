@@ -1,0 +1,42 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1159,
+    "end_char": 1447,
+    "original": "3. PRODUCT: \"Product \" BOSCH\" has acquired, developed and continues to develop, a business using proprietary \"Nano Printed Lights,\" and associated other products (the \"Products\"). BOSCH calls this Nano Printed Lights product \"Printed LightSheets\" which is considered the \" Product Name \".",
+    "ollama_generated": "3. PRODUCT NAME: The term \"Product Name\" refers to the proprietary technology known as \"Nano Printed Lights,\" which BOSCH has acquired, developed, and continues to enhance as a key component of its business. This product is also referred to as \"Printed LightSheets,\" a name synonymous with the broader category of products associated with it (the \"Products\") that BOSCH has created or may create in the future. It is important to note that while \"Nano Printed Lights\" is a crucial component, it does not encompass the entirety of the Products BOSCH offers under this Product Name.",
+    "contradiction_score": 0.035117752850055695,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2646,
+    "end_char": 2726,
+    "original": "(i) COST OF PRODUCT: Cost is based upon square inch and reserved confidentially.",
+    "ollama_generated": "(i) PRICING OF THE PRODUCT: The pricing structure is determined on a per-square-inch basis, with the exact costs remaining confidential and subject to change without prior notice.\n\nExplanation: This revised clause weakens the obligation by stating that the cost per square inch remains confidential and may be subject to change at any time.",
+    "contradiction_score": 0.01560122799128294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2726,
+    "end_char": 2988,
+    "original": "(ii) COST OF PRODUCT TO MARKET: The established price for the market place will be negotiated confidentially but will follow the max and min limitations allowed. Special pricing for large orders and/or custom orders will need written approval (email) from BOSCH.",
+    "ollama_generated": "(ii) PRICING OF PRODUCTS TO MARKET: The market price for our products shall be mutually agreed upon, following the confined parameters of maximum and minimum prices. Exceptions, such as discounted rates for substantial orders or custom requests, will require written authorization from BOSCH via email to deviate from the established pricing structure. This provision serves to protect BOSCH's interest in maintaining a consistent market position.",
+    "contradiction_score": 0.005462766624987125,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 5007,
+    "end_char": 5308,
+    "original": "11. ENTIRE AGREEMENT: This Strategic Alliance Agreement (\"Agreement\"), between BOSCH and CLIENT as to the subject matter hereof, and supersede all previous agreements, warranties or representations, oral or written, which may have been made between Studio and Licensor as to the subject matter hereof.",
+    "ollama_generated": "11. EXCLUSIVE AGREEMENT: This Strategic Alliance Agreement (\"Agreement\"), between CLIENT and BOSCH with regard to the matters contained herein, is binding and replaces any prior understandings, guarantees, or representations, expressed or implied, that may have been shared between Licensor and Studio, regarding the subjects addressed in this document. In case of discrepancies, this Agreement shall prevail.",
+    "contradiction_score": 0.007546419743448496,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

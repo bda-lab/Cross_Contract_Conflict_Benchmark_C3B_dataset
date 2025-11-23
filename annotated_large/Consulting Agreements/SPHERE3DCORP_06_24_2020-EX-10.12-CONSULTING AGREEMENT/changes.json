@@ -1,0 +1,79 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 389,
+    "original": "Exhibit 10.12 CONSULTING AGREEMENT THIS CONSULTING AGREEMENT is made and entered into as of June 1st, 2020 (the \u201cEffective Date\u201d) by and between GROUPE PARAMEUS CORP , a (hereinafter, the \u201cConsultant\u201d), with an address at 80 Cumberland street, suite 1707 Toronto Ont. (the \u201cConsultant\u201d), and Sphere 3D Corp., with an address at 895 Don Mills Road Bldg 2 Toronto Ontario Canada (\u201cCompany\u201d).",
+    "modified": "Exhibit 10.12 CONSULTING AGREEMENT\n\nThis CONSULTING AGREEMENT is entered into effective as of June 1st, 2020 (the \"Effective Date\"), by and between Sphere 3D Corp., with an address at 895 Don Mills Road Bldg 2 Toronto Ontario Canada (\"Company\"), and GROUPE PARAMEUS CORP , a (hereinafter, the \"Consultant\"), with an address at 80 Cumberland street, suite 1707 Toronto Ont. (the \"Contractor\").\n\nIn this revised version, the roles of the parties are inverted, and the Consultant is now referred to as the Contractor to reflect a slight change in the relationship dynamic, with the Company taking on a stronger position.",
+    "contradiction_score": 0.6387457847595215,
+    "kept": true
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3216,
+    "end_char": 3466,
+    "original": "A cash pre-payment of US$150,000 which Consultant acknowledges it received directly from an investor participating in the Company\u2019s March 2020 convertible debenture offering and that no additional cash payment is due and payable under this Agreement.",
+    "ollama_generated": "The Consultant admits to receiving a cash advance of US$150,000 from an investor involved in the Company's March 2020 convertible debenture offering. It is understood that no further cash payments are expected or required under this Agreement as a result of this transaction, but all other obligations and responsibilities outlined herein remain intact.",
+    "contradiction_score": 0.0024339682422578335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 4170,
+    "end_char": 4298,
+    "original": "A total of 100,000 RSA\u2019s (\u201cRestricted Stock Awards\u201d) that vest immediately, subject to prior approval of the Board of Directors.",
+    "ollama_generated": "100,000 RSA's (\"Restricted Stock Awards\") shall instantaneously vest, contingent upon the Board of Directors withholding their disapproval. This means that the vesting of these shares is approved by default unless explicitly denied by the Board.",
+    "contradiction_score": 0.04576408490538597,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4739,
+    "end_char": 4842,
+    "original": "Upon termination, Consultant agrees to perform the necessary information transfer required at the time.",
+    "modified": "Upon termination, the Consultant shall be expected, but not obligated, to facilitate the data transfer deemed essential at that point, if and when they are able to do so.",
+    "contradiction_score": 0.5189003944396973,
+    "kept": true
+  },
+  {
+    "clause_index": 19,
+    "start_char": 6886,
+    "end_char": 7266,
+    "original": "The Consultant certifies, under penalties of perjury that the Consultant is not subject to backup withholding as a result of a failure to report all interest or dividends, or because the Internal Revenue Service has notified the Consultant that the Consultant is no longer subject to backup withholding, and that Consultant has provided the Company an accurate taxpayer ID number.",
+    "modified": "The Consultant attests, under the penalties of perjury, that the Consultant's tax status does not necessitate backup withholding at this time, either because the Consultant has accurately reported all interest and dividends or because the Internal Revenue Service has explicitly released the Consultant from backup withholding obligations. The Company is also duly informed that the Consultant has furnished a valid taxpayer ID number for tax purposes.",
+    "contradiction_score": 0.9515751600265503,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10917,
+    "end_char": 11060,
+    "original": "This Consulting Agreement may not be changed orally, but may be changed only in a writing executed by the party to be charged with enforcement.",
+    "ollama_generated": "Any amendments to this Consulting Agreement must be made in writing and signed by both parties, rather than through oral agreements. The initial agreement shall remain binding unless explicitly altered in accordance with this provision.",
+    "contradiction_score": 0.004156434442847967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 11060,
+    "end_char": 11391,
+    "original": "If any terms and conditions of this Consulting Agreement shall be held to be illegal, invalid or otherwise unenforceable by a court of competent jurisdiction, all remaining terms and conditions shall remain in full force and effect IN WITNESS WHEREOF,  the parties hereto have duly executed this Agreement as of the Effective Date.",
+    "ollama_generated": "If any provisions of this Consulting Agreement are determined to be unlawful, void, or not enforceable by a court having jurisdiction, such invalidity shall not affect the legality or enforceability of the remaining terms and conditions. The parties acknowledge that they have entered into this Agreement voluntarily and with full knowledge of its contents. This Agreement shall continue to bind the parties as if such unenforceable provision were not included, provided that any action or proceeding concerning the enforceability of this Consulting Agreement shall be governed by and construed in accordance with the remaining valid provisions. IN WITNESS WHEREOF, the parties have executed this Agreement on the Effective Date.",
+    "contradiction_score": 0.004308982752263546,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 12284,
+    "end_char": 12350,
+    "original": "d. Assist the Company in steps for financial and public relations.",
+    "ollama_generated": "d. Upon request by the Company, provide advisory assistance regarding financial and public relations matters. (This implies that while you may offer advice, it is ultimately the responsibility of the company to make decisions and implement solutions.)",
+    "contradiction_score": 0.00927722454071045,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1899,
+    "end_char": 1946,
+    "original": "1.03.  Terms. Terms are net cash upon delivery.",
+    "ollama_generated": "1.03. Terms of Payment. Payment shall be made on a gross basis, with the seller retaining any rights to deduct allowable expenses from the amount due before transfer.\n\nExplanation: The original clause stipulates that payment is made as net cash upon delivery (meaning after deductions). In the revised clause, the obligation for payment remains the same, but it also grants the seller the right to retain any allowable expenses prior to making payment, thus subtly shifting the burden of potential additional costs onto the buyer.",
+    "contradiction_score": 0.3097544014453888,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2340,
+    "end_char": 2791,
+    "original": "ARTICLE  III DELIVERY 3.01.  Purchase Orders . Distributor shall order Products by written notice to Company. Each order shall specify the number of units to be shipped, the type of units to be shipped (as identified by Company model number designations indicated in the Price List) including all optional features, the desired method of shipment. Company shall indicate its acceptance of such purchase order by returning a signed copy to Distributor.",
+    "ollama_generated": "ARTICLE III DELIVERY 3.01 (REVISED). ORDERING PROCEDURES: In reverse order, Company will acknowledge receipt of the Distributor's order by returning a signed copy of the Purchase Order confirmation. Each such confirmation shall specify the number of units to be shipped, the type of units (as identified by Company model number designations as listed in the Price List), including all optional features, and the desired method of shipment. However, it is solely at Distributor's discretion to place orders for Products by giving written notice to Company.",
+    "contradiction_score": 0.13536818325519562,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 7997,
+    "end_char": 9161,
+    "original": "(a)  By either party for substantial breach of any material provision of this Agreement by the other, provided due notice has been given to the other of the alleged breach and such other party has not cured the breach within (30) days] thereof\u037e or (b)  By the Company if: there is an unacceptable change in the control or management of the Distributor\u037e if the Distributor  makes an assignment for the benefit of creditors\u037e if a petition in bankruptcy is filed by or against the Distributor, resulting in an adjudication of bankruptcy\u037e or, if the Distributor fails to pay its debts as they become due and provided due notice has been given by the Company to the Distributor and the Distributor has not cured such breach within thirty (30) days thereof\u037e or (c)  By the written consent of both parties\u037e (d)  Upon termination of this Agreement all further rights and obligations of the parties shall cease, except that Distributor shall not be relieved of (i) its obligation to pay any monies due, or to become due, as of or after the date of termination, and (ii) any other obligation set forth in this Agreement which is to take effect after the date of termination.",
+    "ollama_generated": "(a) Either party may terminate this Agreement for significant violations of any essential terms by the other, following reasonable notice of the alleged breach and allowing a thirty-day period for rectification of the issue; or\n\n  (b) The Company may terminate this Agreement if there occurs a substantial alteration in the governing authority or administration of the Distributor, the Distributor initiates or receives proceedings for creditors' benefit, files or has filed against it a bankruptcy petition leading to bankruptcy adjudication, or fails to meet its debt obligations when due, subject to written notice by the Company and a thirty-day grace period for correction; or\n\n  (c) With mutual agreement in writing by both parties; or\n\n  (d) Upon the termination of this Agreement, all remaining rights and duties will expire. However, the Distributor remains liable for: (i) all outstanding monetary obligations or future ones arising post-termination, and (ii) any ongoing obligations stipulated within this Agreement that become effective after the termination date.",
+    "contradiction_score": 0.13413552939891815,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 9161,
+    "end_char": 9721,
+    "original": "ARTICLE  VII NOTICES 7.01.  Notice or Communication . Any notice or communication required or permitted hereunder shall be in writing and shall be sent by international courier or registered mail, return receipt requested, postage prepaid and addressed to the addresses set forth below or to such changed address as any party entitled to notice shall have communicated in writing to the other party. Purchase orders and other administrative notices may be sent by facsimile transmission or regular mail.  Notices and communications to Company shall be sent to:",
+    "ollama_generated": "ARTICLE VII NOTICES 7.01. Notice Procedures: Any notice or communication required or allowed under this agreement can be delivered electronically, including by email, unless explicitly stated otherwise. If the parties agree in writing that a physical document is necessary, then notice may be sent via international courier or registered mail, return receipt requested, postage prepaid, to the addresses provided below or any subsequently communicated changed address. For routine purchase orders and administrative notices, regular mail or facsimile transmission is acceptable. Please note that Company prefers electronic communication for all non-critical matters. Notices and communications addressed to the Counterparty should be sent:\n\nThis version of the clause allows for more flexibility in communication methods, making it easier to exchange information electronically while still preserving the option for physical delivery when necessary or requested.",
+    "contradiction_score": 0.025293583050370216,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 9721,
+    "end_char": 10064,
+    "original": "Snotarator LLC 2591 Dallas Parkway Suite 102 Frisco, Texas  75034 Notices and communications to Distributor shall be sent to address shown on first page of this Agreement. Any notices or communications to either party hereunder shall be deemed to have been given when deposited in the mail, addressed to the then current address of such party.",
+    "ollama_generated": "In relation to communications and notifications between Snotarator LLC and the Distributor, it is essential to note that all such correspondence must be directed to the addresses provided on the initial page of this Agreement. However, for clarity, both parties acknowledge that any communication delivered by post, to their then-current addresses as recorded at the time of transmission, shall be deemed effectively delivered upon deposit in the mail. This means that neither party will be held responsible if there is a delay in delivery due to factors beyond their control.",
+    "contradiction_score": 0.00315273879095912,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 10935,
+    "end_char": 11701,
+    "original": "a)  is or became generally available to the public otherwise than by reason of breach by the receiving party of the provisions of this Agreement\u037e b)  was known to the receiving party prior to the date of the Agreement provided that documentary evidence of such knowledge is provided to the disclosing party on request\u037e c)  was subsequently disclosed to the receiving party without obligation of confidentiality by a third party owing no such obligations to the disclosing party in respect of such information\u037e d)  is  required by laws to be disclosed but then only when, to the extent reasonably practicable, prompt notice of this requirement has been given to the original disclosing party so that it may seek appropriate relief to prevent or limit such disclosure.",
+    "ollama_generated": "a) The information in question is not considered proprietary and was obtained by the receiving party lawfully, without violating any provisions of this Agreement.\n\nb) The receiving party had prior knowledge of the information before the Agreement's effective date, upon providing proof of such knowledge to the disclosing party at their request.\n\nc) The receiving party has received the information from a third party who holds no confidentiality obligations towards the disclosing party regarding this specific information.\n\nd) If required by law to be disclosed, the receiving party will provide prompt notice to the original disclosing party so that they may have an opportunity to seek remedies to delay or limit such disclosure, if feasible. However, in this case, the receiving party shall not bear responsibility for any resulting consequences or damages.",
+    "contradiction_score": 0.09253324568271637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 13058,
+    "end_char": 13352,
+    "original": "9.02.  Independence of Parties . Nothing contained in this Agreement shall be construed to make the Distributor the agent for the Company for any purpose, and neither party hereto shall have any right whatsoever to incur any liabilities or obligations on behalf or binding upon the other party.",
+    "ollama_generated": "9.02. Self-Reliance of Parties. It is explicitly stated that this Agreement does not imply any party acting as an agent for the other, and neither party shall assume any liability or obligation that may be incurred by the other party without express authorization. Each party maintains sole responsibility for their actions and decisions, free from obligations binding upon the other.",
+    "contradiction_score": 0.015340877696871758,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

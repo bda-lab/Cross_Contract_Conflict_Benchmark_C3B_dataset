@@ -1,0 +1,60 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 942,
+    "end_char": 1070,
+    "original": "1.   SERVICES OF THE PROFESSIONAL.  The Professional agrees to perform the following services during the term of this Agreement:",
+    "ollama_generated": "1. DELIVERED SERVICES BY THE PROFESSIONAL. In the course of this Agreement, the Professional shall be expected to complete the following tasks:\n\nThis revised clause shifts the responsibility from the Professional actively performing the services to completing the tasks, which subtly suggests a more passive role and potentially lessens the obligation's strength.",
+    "contradiction_score": 0.005007387138903141,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 7306,
+    "end_char": 7392,
+    "original": "4600 East 48th Avenue Denver, CO 80216 With a copy to:          Robert W. Walter, Esq.",
+    "ollama_generated": "4600 East 48th Avenue, Denver, CO 80216 (with a simultaneous copy to Robert W. Walter, Esq.).\n\nExplanation: The original clause indicates that the recipient of the notice is the primary addressee and Robert W. Walter, Esq. receives a copy. In the rewritten clause, both parties receive notices simultaneously, implying equal status or potentially shared responsibility. This change could imply a different dynamic in the relationship between the parties.",
+    "contradiction_score": 0.021298430860042572,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 8779,
+    "end_char": 9002,
+    "original": "8.   ENTIRE AND SOLE AGREEMENT. This Agreement constitutes the entire agreement between the parties and supersedes all statements, promises and understandings, whether oral or written, with respect to subject matter hereof.",
+    "modified": "8. LIMITATION OF COMMITMENTS. This Agreement serves as a single and exclusive commitment among the parties, eclipsing any prior verbal or written declarations, commitments, or presumptions concerning the matters at hand, unless otherwise explicitly agreed in writing by both parties.\n\nThe revised clause highlights that this agreement is the sole and definitive contract between the parties, while also acknowledging that other commitments may still be valid if they are explicitly agreed upon in writing by both parties.",
+    "contradiction_score": 0.5953651070594788,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 9448,
+    "end_char": 9719,
+    "original": "10.  SEVERABILITY. Should any one or more of the provisions of this Agreement be determined to be illegal or unenforceable, all other provisions of this Agreement shall be given effect separately from the provision or provisions determined to be illegal or unenforceable.",
+    "modified": "10. LIMITATION ON SEVERABILITY. In the event that any one or more of the terms and conditions outlined in this Agreement are deemed invalid or unenforceable, the remaining provisions shall not be nullified, but rather, their enforceability will be affected to the maximum extent permissible by law. The invalid or unenforceable provision(s) shall be considered severed from this Agreement, and the Parties shall negotiate in good faith to replace such provision(s) with a valid and enforceable substitute.",
+    "contradiction_score": 0.6718528270721436,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 9719,
+    "end_char": 9903,
+    "original": "11.  GOVERNING LAW. This Agreement shall be construed and enforced in accordance with, and governed by the laws of the State of Colorado without regard to conflicts of laws principles.",
+    "ollama_generated": "11. APPLICABLE LAW. The interpretation and enforcement of this Agreement shall be guided by the laws of Colorado, giving precedence to its substantive law over any conflict-of-laws rules that might otherwise apply. [This implies that while Colorado law will primarily govern the agreement, potential applicability of other jurisdictions' laws may be disregarded.]",
+    "contradiction_score": 0.45537930727005005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 11853,
+    "end_char": 11890,
+    "original": "-------------------------------------",
+    "ollama_generated": "The Client acknowledges that unforeseen circumstances may arise during the course of the Project, potentially causing delays. In such instances, the Contractor shall make every reasonable effort to complete the Project within an extended timeframe, but shall not be obligated to do so unless the Client approves the extension in writing and verifies that the delay was beyond the Contractor's control.",
+    "contradiction_score": 0.01116825733333826,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

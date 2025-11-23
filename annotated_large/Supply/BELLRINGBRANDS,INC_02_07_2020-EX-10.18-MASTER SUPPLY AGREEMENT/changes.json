@@ -1,0 +1,118 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 198,
+    "original": "EXHIBIT 10.18 CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED WITH \u201c[***]\u201d, HAS BEEN EXCLUDED BECAUSE IT IS NOT MATERIAL AND WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+    "modified": "CONFIDENTIAL INFORMATION MARKED WITH \"[***]\" IN THIS DOCUMENT, WHILE NOT CRITICAL TO THE OVERALL AGREEMENT, COULD POSSIBLY BECOME SIGNIFICANT COMPETITIVE ADVANTAGES IF DISCLOSED PUBLICLY. WE UNDERLINE THE IMPORTANCE OF REMAINING VIGILANT AND DISCREET IN HANDLING SUCH DATA TO AVOID UNINTENDED COMPETITIVE DISADVANTAGES.",
+    "contradiction_score": 0.7631508708000183,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3759,
+    "end_char": 4266,
+    "original": "A Specification may be updated from time to time by PNC in its sole discretion, provided PNC provides Supplier with reasonable prior notice on any updates (\u201cChange Notification\u201d). Within [***] from receipt of the Change Notification, Supplier will either: (1) accept the Specification change at the current price and terms\u037e or (2) submit to PNC a proposal (\u201cProposal\u201d) setting forth the conditions of acceptance that may include a change in price and/or other terms, including documentation to support same.",
+    "ollama_generated": "A Specification is subject to modification by PNC at its sole discretion, without any obligation to provide prior notice, although reasonable efforts will be made for effective communication (\"Change Notice\"). Upon receiving a Change Notice, Supplier shall have up to [***] days to respond. If the Supplier chooses not to accept the Specification modification at the existing price and terms, they must promptly submit a proposal to PNC detailing their proposed conditions of acceptance, which may involve adjustments in price and/or other terms, along with supporting documentation.\n\nThis revision emphasizes that while providing notice is preferred, it's not mandatory. Additionally, the Supplier now has a more immediate response timeframe when faced with a Specification change. Furthermore, the language has been adjusted to clearly state that the Supplier must submit a proposal if they wish to negotiate new terms, rather than implicitly stating this in their options for action.",
+    "contradiction_score": 0.034217678010463715,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 9227,
+    "end_char": 9813,
+    "original": "2.5 Subject to the occurring of a Force Majeure Event, if Supplier fails to deliver the Ingredients in accordance with the Specifications, including within the time specified on the Purchase Order, in addition to any other remedies available, PNC may terminate the Purchase Order in whole or in part. In the event of such a termination, Supplier shall continue performance of any nonterminated portion of the Purchase Order, or any nonterminated Purchase Orders, and the quantity of Ingredient ordered and so terminated shall be deducted against any relevant Master Purchase Commitment.",
+    "modified": "2.5 In the event that Supplier successfully delivers the Ingredients in accordance with the Specifications within the time specified on the Purchase Order, despite any Force Majeure Event, PNC reserves the right to terminate the Purchase Order in whole or in part, without prejudice to any other remedies available. In case of such termination, Supplier shall be released from any further obligations related to the terminated portion of the Purchase Order or any terminated Purchase Orders. However, any Ingredients ordered and not delivered due to this termination will count towards the Supplier's fulfillment of the Master Purchase Commitment.",
+    "contradiction_score": 0.9923262596130371,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 12445,
+    "end_char": 12854,
+    "original": "3 Business Continuity/Continuous Supply Assurances . Supplier will develop and maintain a business continuity plan that identifies critical pathways and potential crisis situations that could interrupt the supply of Ingredients to PNC and establish contingency plans for dealing with each crisis situation. Upon PNC\u2019s written request, Supplier will submit the business continuity plan to PNC for PNC\u2019s review.",
+    "ollama_generated": "3. Business Continuity/Continuous Supply Commitments: The Supplier is not obligated to create a comprehensive business continuity plan unless specifically requested by PNC in writing. However, if the Supplier does choose to develop such a plan, it will identify critical pathways and potential crisis situations that may impact the supply of Ingredients to PNC, and establish contingency plans for addressing each situation. Upon request from the Supplier, PNC will review and provide feedback on the submitted business continuity plan at its discretion.",
+    "contradiction_score": 0.2876574695110321,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 21346,
+    "end_char": 21801,
+    "original": "6.2 Either Party may terminate this Agreement for cause if the other Party fails to perform any material provision of this Agreement or commits a material breach of this Agreement which is not corrected within [***] after receiving written notice of the failure or breach. except that if the default is by Supplier that creates an immediate public food safety risk, PNC may terminate this Agreement immediately without regard to any period for correction.",
+    "ollama_generated": "6.2 Either Party retains the discretion to dissolve this Agreement at their sole option, should they perceive a significant infringement of any essential terms within this Agreement by the other Party or a substantial breach that impairs its integrity, without prejudice to the fact that such breaches may be rectified within a reasonable timeframe upon receipt of written notice. However, if the non-compliance stems from the Supplier and poses an immediate public health hazard related to food safety, PNC reserves the right to terminate this Agreement forthwith, irrespective of any corrective period.",
+    "contradiction_score": 0.1438622921705246,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 22169,
+    "end_char": 22510,
+    "original": "6.4 On the termination of this Agreement for any reason, all rights granted to Supplier under this Agreement will immediately cease, and Supplier must deliver to PNC all written or recorded materials relating to the Confidential Information of PNC in the possession or control of Supplier or any of its related party, subject to Section 5.2.",
+    "modified": "6.4 Upon termination of this Agreement for any cause, it shall be the responsibility of PNC to promptly request the return of all rights conferred upon the Supplier under this Agreement. The Supplier is not required to initiate such delivery, but shall comply with any valid request made by PNC within a reasonable timeframe. Any materials relating to the Confidential Information of PNC in the possession or control of the Supplier or its affiliates will be retained by the Supplier subject to Section 5.2, unless and until directed otherwise by PNC.",
+    "contradiction_score": 0.8845730423927307,
+    "kept": true
+  },
+  {
+    "clause_index": 40,
+    "start_char": 22518,
+    "end_char": 22550,
+    "original": "7Indemnification and Insurance .",
+    "ollama_generated": "7. Indemnity and Insurance Obligations:\n\nIn the event that any third-party claims, suits, actions, or proceedings (collectively \"Claims\") arise from or are related to the performance of this Agreement by either Party, the Party responsible for such Claim shall promptly notify the other Party in writing and shall indemnify, defend, and hold harmless the other Party against any and all costs, damages, liabilities, and expenses (including reasonable attorneys' fees) arising from or related to such Claim. Each Party shall maintain insurance policies providing coverage for its obligations under this Section 7, with limits not less than $1,000,000 per occurrence and in the aggregate, and shall provide proof of such insurance upon request of the other Party. Notwithstanding the foregoing, neither Party's obligation to indemnify the other shall extend to damages resulting from gross negligence or willful misconduct by the indemnifying Party.\n\n(Original Clause)\n7. Indemnification and Insurance:\n\nThe Parties shall each maintain insurance policies providing coverage for their liabilities under this Agreement, with limits not less than $1,000,000 per occurrence and in the aggregate. Each Party shall indemnify, defend, and hold harmless the other Party against any and all costs, damages, liabilities, and expenses (including reasonable attorneys' fees) arising from or related to a breach of this Agreement by such Party. This obligation to indemnify shall extend to damages resulting from gross negligence or willful misconduct by the indemnifying Party, provided that the indemnifying Party was acting within the scope of its duties under this Agreement.",
+    "contradiction_score": 0.470828652381897,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 24893,
+    "end_char": 24960,
+    "original": "7.5.2 Umbrella/Excess Liability with limits of not less than [***].",
+    "modified": "7.5.2 Minimum Umbrella/Excess Liability coverage of at most [***].\n\nIn this revised clause, the obligation is reversed from requiring a minimum to allowing a maximum limit for the Umbrella/Excess Liability coverage. This change implies that the party involved in the contract may choose an insurance coverage up to a specified amount but not exceeding the stated figure.",
+    "contradiction_score": 0.8722514510154724,
+    "kept": true
+  },
+  {
+    "clause_index": 56,
+    "start_char": 28107,
+    "end_char": 28196,
+    "original": "9.1.2 The Liability Cap will not apply to intentional misconduct and/or gross negligence.",
+    "ollama_generated": "9.1.2 Exceeding the established Liability Cap may be justified in instances where our actions are deemed intentional or grossly negligent, offering potential claimants a commensurate remedy.",
+    "contradiction_score": 0.039264976978302,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 28648,
+    "end_char": 29501,
+    "original": "10.1 Neither Party will be liable for any breach of its obligations under this Agreement resulting from causes beyond its reasonable control, including, but not limited to, an act of nature, drought, outbreak of foot and mouth disease, port and other transport strikes, war, fires, quarantine restrictions, insurrections or riots, energy shortages, embargo or the inability to obtain supplies or raw materials because of a global shortage or governmental action (a \u201cForce Majeure Event\u201d). Notwithstanding anything herein to the contrary, in the event of a Force Majeure Event, or any other circumstance that limits Fonterra\u2019s ability to produce or deliver product, Supplier will exercise its best efforts to comply with its obligations hereunder, mitigate the adverse impact on and not disfavor PNC, and will treat it in parity with its other customers.",
+    "ollama_generated": "10.1 Under this Agreement, neither Party shall bear responsibility for any failure to meet their obligations, arising from events outside their immediate control (hereafter referred to as \"Unforeseen Circumstances\"), such as natural disasters, supply chain interruptions due to labor strikes, wars, fires, or governmental restrictions. Notably, in the event of Unforeseen Circumstances impacting Fonterra's production or delivery capabilities, the Supplier shall make every reasonable effort to fulfill their commitments, prioritize PNC's interests, strive for fair treatment across all customers, and ensure any negative impacts are minimized.\n\nIn essence, this clause alters the original by placing a stronger emphasis on the Supplier's efforts to maintain fairness towards PNC in the event of uncontrollable circumstances affecting Fonterra's production or delivery. Additionally, it shifts the responsibility for fulfilling obligations during such events from Fonterra to the Supplier, while encouraging the Supplier to prioritize PNC's interests among other customers.",
+    "contradiction_score": 0.0015305214328691363,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 34368,
+    "end_char": 34583,
+    "original": "17.3 Child Labor. Supplier will not employ anyone under the legal working age defined by local law. Supplier will comply with all applicable laws addressing the working requirements and conditions for child workers.",
+    "ollama_generated": "17.3 Child Labor Compliance: The Supplier acknowledges responsibility for ensuring that no individual below the established legal working age, as per local regulations, is employed by them or indirectly through their subcontractors. The Supplier will comply with all applicable laws regarding juvenile labor, including but not limited to, enforcing prohibitions on hazardous work and implementing educational programs for minors. Any violation of this clause may result in immediate termination of the contract without liability.",
+    "contradiction_score": 0.0026170392520725727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 35713,
+    "end_char": 35926,
+    "original": "21.2 This Agreement may be executed concurrently by original or facsimile signature in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument.",
+    "ollama_generated": "21.2 This Agreement can be individually signed, whether originals or facsimiles, with each separate signature considered a valid and binding part of this document. However, for this Agreement to be fully executed, it requires the collective signatures of all parties involved, whereupon all combined signatures will constitute one unified and complete instrument.",
+    "contradiction_score": 0.21528315544128418,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

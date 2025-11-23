@@ -1,0 +1,141 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 644,
+    "end_char": 1270,
+    "original": "RECITALS WHEREAS, the Company will own, develop, manufacture or have manufactured, market and sell the products set forth on Exhibit A attached hereto, as the same may be amended from time to time in accordance with the terms hereof (the \u201cProducts\u201d), and desires to outsource certain logistical and administrative services with respect to the Products\u037e and WHEREAS, the Company desires to engage Contractor to provide certain logistical and administrative services with respect to the Products and Contractor is willing to provide such services in connection therewith, on the terms and conditions set forth in this Agreement.",
+    "ollama_generated": "RECITALS WHEREAS, the Contractor possesses expertise in logistical and administrative services and has expressed readiness to provide these services with respect to the Products listed on Exhibit A attached hereto, as may be revised in accordance with this Agreement's terms (the \u201cProducts\u201d); AND WHEREAS, the Company recognizes a need for outsourcing certain aspects of the management of its Products and is prepared to engage the Contractor under these agreed terms and conditions, outlined within this Agreement.",
+    "contradiction_score": 0.0012470766669139266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 2739,
+    "end_char": 2921,
+    "original": "(l) \u201cGovernmental Authority\u2019 means any supranational, national, federal, provincial, state or local judicial, legislative, executive or regulatory authority, body or instrumentality.",
+    "modified": "(m) \"Referring Authority\" denotes any global, regional, national, federal, state, or municipal judiciary, legislature, executive, or administrative entity, commission, or agency. This term encompasses both the primary and appellate levels of such bodies.",
+    "contradiction_score": 0.853162944316864,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 4000,
+    "end_char": 4082,
+    "original": "(r) \u201cProducts\u201d shall have the meaning set forth in the Recitals to this Agreement.",
+    "ollama_generated": "(r) For purposes of this Agreement, the term \"Products\" shall be defined as referred to in the Recitals herein.\n\nIn this revised version, I have maintained the original structure and tone but slightly changed the meaning by using \"for purposes of this Agreement\" instead of directly stating that the definition comes from the Recitals. This implies that while the Products' definition is related to the Recitals, it may also be expanded upon within the agreement itself.",
+    "contradiction_score": 0.009490528143942356,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 4515,
+    "end_char": 4575,
+    "original": "(w) \u201cTerm\u201d shall have the meaning set forth in Section 2.01.",
+    "ollama_generated": "(w) The term \"Term,\" as used herein, will be defined and described in full detail within Section 2.01. It is incumbent upon the reader to familiarize themselves with this definition prior to any further interpretation or application of this agreement.",
+    "contradiction_score": 0.0011654992122203112,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 4575,
+    "end_char": 4873,
+    "original": "(x) \u201cTermination Fee\u201d shall mean an amount equal to the average Service Fees per day over the  180 day period immediately preceding the date written notice of termination is provided pursuant to Section 8.01(d) and (e) multiplied by number of days by which the Notice Period will be less than  180.",
+    "ollama_generated": "\"(y) 'Termination Compensation' shall denote an amount equivalent to the average Service Fees per day throughout the 180-day period following the provision of written notice under Section 8.01(d) and (e), multiplied by the number of days that exceed 180 in the Notice Period.\"\n\nIn this revised clause, the payment amount is calculated based on the days beyond the 180-day notice period, rather than the days short of it as in the original clause. This slight adjustment weakens the obligation to pay the termination fee, as a longer notice period may now result in a reduced compensation for the service provider.",
+    "contradiction_score": 0.06078535318374634,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 4958,
+    "end_char": 5591,
+    "original": "CONFIDENTIAL TREATMENT REQUESTED 1.02 Interpretation . The words \u201chereof,\u201d \u201cherein,\u201d \u201chereto\u201d and \u201chereunder\u201d and words of similar import, when used in this Agreement, shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The terms defined in the singular shall have a comparable meaning when used in the plural and vice versa. The term \u201cincluding\u201d shall mean \u201cincluding, without limitation.\u201d When a reference is made in this Agreement to an Article, a Section or an Exhibit, such reference shall be to an Article or a Section of, or an Exhibit to, this Agreement unless otherwise indicated.",
+    "ollama_generated": "CONFIDENTIALITY REQUESTED 2.02 Interpretation . For the purposes of this Agreement, any use of \"herein,\" \"hereof,\" \"hereto,\" and \"hereunder,\" or terms with similar meaning, shall encompass this entire Agreement as a single entity rather than individual provisions. The definitions provided in the singular context apply equally to their plural counterparts, and vice versa. The term \"including\" will be understood to imply \"including, but not limited to.\" When referring to an Article, Section or Exhibit within this Agreement, it shall refer to the respective element of this Agreement unless explicitly specified otherwise.\n\nThis rewritten clause is intended to maintain a professional tone while slightly altering the obligation, making the reference to specific provisions optional in certain instances, and broadening the scope of \"including\" to allow for additional items not specifically listed.",
+    "contradiction_score": 0.33134180307388306,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 9824,
+    "end_char": 10718,
+    "original": "4.03 Retention of Monies . During the Term of this agreement, and for a period of twenty four (24)months after Termination (the \u201cWithholding Period\u201d), Contractor may retain monies (collections in Accounts Receivable)  against any reasonable anticipated deductions for product recalls, unsalables, rebates, allowances or any audits or other adjustments it deems necessary.  The retention of monies shall only be to the extent that the reasonable anticipated deductions exceed the anticipated accounts receivables.  At the end of the Withholding Period, Contractor shall remit to the Company the retained monies less any deductions charged by Customers against Company\u2019s Products.  After the Withholding Period, Company will remain liable to Contractor for any additional audits, deductions, rebates, credits, allowances or other adjustments taken by the Customers against the Company\u2019s Products.",
+    "ollama_generated": "4.03 Retention of Monies . Throughout the Term of this agreement and for a period of twenty-four (24) months following its termination (the \"Withholding Period\"), the Company grants the Contractor permission to hold monies (collections in Accounts Receivable) to cover any reasonable anticipated deductions arising from product recalls, unsalables, rebates, allowances, or any audits or other adjustments it deems necessary. This retention is permissible up to the amount that exceeds the Contractor's anticipated accounts receivables. At the conclusion of the Withholding Period, the Contractor will be required to return to the Company any retained monies, but shall first deduct any charges levied by Customers against the Company's Products. After the Withholding Period, it shall be the responsibility of the Company to compensate the Contractor for any additional audits, deductions, rebates, credits, allowances, or other adjustments made by Customers in relation to the Company\u2019s Products.\n\nIn this version, the original clause has been reworded to weaken the obligation on the Contractor and shift the responsibility for additional charges back onto the Company after the Withholding Period.",
+    "contradiction_score": 0.09549644589424133,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 10718,
+    "end_char": 11174,
+    "original": "CONFIDENTIAL TREATMENT REQUESTED 4.04 Expenses . Other than as specifically provided herein, each party shall be responsible for its own expenses incurred in connection with the performance of its obligations under this Agreement\u037e provided, that the Company shall reimburse Contractor for reasonable documented out-of-pocket travel expenses associated with any meeting specifically requested by the Company and not otherwise contemplated by this Agreement.",
+    "ollama_generated": "CONFIDENTIALITY REQUESTED 4.04 Expenses: Except as explicitly stated in this Agreement, each party shall bear their own costs related to fulfilling their obligations within this Contract; however, it is important to note that the Contractor will be remunerated for any reasonable and documented travel expenses incurred during trips expressly requested by the Company, which are not already accounted for in this Agreement - provided that such trips are necessary and reasonable. The onus will be on the Contractor to demonstrate these conditions.",
+    "contradiction_score": 0.01392961386591196,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 19542,
+    "end_char": 20080,
+    "original": "7.03 Insurance . Company shall maintain Products Liability Insurance and  in an amount satisfactory to Contractor, under which Contractor is named as an additional insured.  All insurance coverages are to be placed with insurers which have a Best\u2019s rating of no less than \u201cA.\u201d  Such insurance requirements shall be maintained during the Term and shall continue for a minimum of three years following termination of this Agreement. Failure to comply with the insurance requirements shall place Company in material breach of this Agreement.",
+    "ollama_generated": "7.03 Insurance Obligations: The Contractor shall have the discretion to determine the appropriate amount and coverage for Products Liability Insurance, subject to a minimum Best's rating of \"A.\" The Company shall ensure that the insurance policy includes the Contractor as an additional insured party. All insurance policies shall be obtained from insurers with a minimum Best's rating of \"A.\"\n\nThe Contractor's insurance obligations under this Agreement shall commence upon its execution and remain in effect throughout the Term, unless otherwise terminated earlier by either party. For a period of three years following termination or expiration of this Agreement, the Contractor shall maintain the minimum insurance coverage as required by this clause. Failure to meet these insurance requirements shall not be considered a material breach by the Contractor but may result in the Company exercising its rights under the termination provisions set forth in Section 9.01.",
+    "contradiction_score": 0.1995675265789032,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 20203,
+    "end_char": 21651,
+    "original": "(a) In the event that a party hereto commits a material breach of any of the terms or conditions of this Agreement the other party may terminate this Agreement (i) if such breach may be cured, upon written notice if the breaching party fails to cure such breach within thirty (30) days after its receipt of written notice thereof, or (ii) if such breach is incapable of cure, upon written notice to the other party thereof (it being understood that any breach of Section 5.04 would be incapable of cure)\u037e (b) Notwithstanding the provisions of Section 8.01, in the event that a party hereto fails to pay any amounts payable hereunder when due, the other party may terminate this Agreement (i) if such breach may be cured, upon written notice if the breaching party fails to cure such breach within three (3) business days after its receipt of written notice thereof\u037e or, (ii) if such breach is incapable of cure, upon written notice to the other party thereof\u037e (c) In accordance with the provisions of Section 8.03\u037e or, (d) Either party hereto may terminate this Agreement after the Initial Period upon at least  six (6) months\u2019 prior written notice to the other party thereof.  The Company may terminate this Agreement in accordance with the immediately preceding sentence but with less than  six (6) months\u2019 prior written notice to Contractor\u037e  provided, that in such event, the Company shall pay Contractor an amount equal to the Termination Fee.",
+    "ollama_generated": "(a) Upon discovery of a material breach by a party of this Agreement's terms or conditions, the non-breaching party retains the discretion to elect termination, effective immediately upon providing written notice. Such notice shall be deemed sufficient if the breaching party fails to remedy the breach within thirty (30) days following receipt of such notice, except that in the event of a breach under Section 5.04, no remedial action is required or expected.\n   (b) Any failure by a party to fulfill their financial obligations as prescribed herein shall serve as grounds for immediate termination at the discretion of the non-defaulting party. Written notice must be provided upon such default, with a requirement that the breaching party remedy the situation within three (3) business days. Failure to do so will result in automatic termination without further notice.\n   (c) In accordance with Section 8.03's stipulations.\n   (d) Either party may elect to terminate this Agreement upon providing at least six (6) months' written notice, subject to the Company's prerogative to terminate earlier than specified, but in such instances, they shall be obligated to compensate the other party with a Termination Fee.",
+    "contradiction_score": 0.33454248309135437,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 25124,
+    "end_char": 25760,
+    "original": "Attention: Chief Financial Officer 200 Murray Hill Parkway East Rutherford, NJ 07073 Telephone (201) 935-3232 Facsimile: (201) 842-6049 9.03 Failure to Exercise . The failure of either party to enforce at any time for any period any provision hereof shall not be construed to be a waiver of such provision or of the right of such party thereafter to enforce each such provision, nor shall any single or partial exercise of any right or remedy hereunder preclude any other or further exercise thereof or the exercise of any other right or remedy. Remedies provided herein are cumulative and not exclusive of any remedies provided at law.",
+    "ollama_generated": "9.03 Forbearance to Act: The forbearance by either party from enforcing, at any given moment or during a certain time frame, any provision within this agreement shall not be regarded as a concession to waive such provision or the future right to enforce it. Any utilization of any right or remedy as stipulated herein does not bar the exercise of any other or further rights or remedies, nor does it restrict the exercise of any other available right or remedy at law. The remedies delineated in this agreement are cumulative and do not exclude any other rights or remedies that may be afforded by law.",
+    "contradiction_score": 0.09859069436788559,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 26326,
+    "end_char": 26588,
+    "original": "9.05 No Third Party Beneficiaries . Nothing in this Agreement, express or implied, is intended to confer upon any Person other than the Company and Contractor, or their successors or permitted assigns, any rights or remedies under or by reason of this Agreement.",
+    "ollama_generated": "9.05 Limitation on Third-Party Beneficiaries: It is not the intention of either party, expressed or implied, to grant any third parties, other than the Company and the Contractor, any rights or remedies under or by virtue of this Agreement. Any such third parties are hereby expressly excluded from any right or claim arising from this Agreement.",
+    "contradiction_score": 0.0016881261253729463,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 28908,
+    "end_char": 29292,
+    "original": "9.09 Counterparts . This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, and together shall constitute one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other party, it being understood that both parties need not sign the same counterpart.",
+    "ollama_generated": "9.09 Counterparts . This Agreement may be executed in multiple counterparts, with each counterpart considered a valid and binding original. Once all parties have signed and exchanged their respective counterparts, this Agreement shall be deemed fully executed and effective, without the requirement that all parties sign the same document. It is understood that any party may deliver its counterpart via electronic means, such as email or secure file transfer, in addition to traditional delivery methods.",
+    "contradiction_score": 0.0015285203699022532,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 30679,
+    "end_char": 30951,
+    "original": "List to be furnished by CCA CONFIDENTIAL TREATMENT REQUESTED EXHIBIT B TO SERVICES OUTSOURCING AGREEMENT SEE-ATTACHED FLOW CHARTS CONFIDENTIAL TREATMENT REQUESTED EXHIBIT C - LOGISTIC EXPENSES \u2022Outbound freight costs - average out to be approximately  [ ** ] cents per lb.",
+    "ollama_generated": "List of Estimated Logistics Expenses to be Provided by CCA (Confidential Treatment Requested) as an Appendix to the Services Outsourcing Agreement (Exhibit B). Please refer to the attached flow charts for clarification (Confidential Treatment Requested).\n\nExhibit C - Logistic Cost Estimates\n-Anticipated outbound freight costs - may fluctuate, with a general trend of not exceeding [**] cents per lb.",
+    "contradiction_score": 0.04297558218240738,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

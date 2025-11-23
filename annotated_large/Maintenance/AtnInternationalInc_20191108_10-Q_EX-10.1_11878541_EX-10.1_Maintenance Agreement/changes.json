@@ -1,0 +1,824 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 1541,
+    "end_char": 3054,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 Mobility Network General Agreement TABLE OF CONTENTS 2.38Software 7 2.39Specifications 7 2.40Subcontractor 7 2.41Suspend a Site, Suspend or Suspension 7 2.42System 7 2.43Third Party Loss 7 2.44Vendor Indemnified Parties 7 2.45Vendor Person 8 2.46Work 8 2.47Writing or Written 8 3.1 General Terms 8 3.2Affiliate 8 3.3Amendments and Waivers 8 3.4Anticipated and Actual Delays in Delivery and Performance 8 3.5Anticorruption Laws 9 3.6Assignment and Delegation\u037e Change of Control 10 3.7Compliance with Laws 11 3.8Conflict of Interest 11 3.9Construction and Interpretation 11 3.10Cumulative Remedies 12 3.11Delivery, Performance and Acceptance 12 3.12Entire Agreement 13 3.13Force Majeure 14 3.14Government Contract Provisions and Flow Downs 14 3.15Governing Law 16 3.16Indemnity 16 3.17Information 18 3.18Infringement 21 3.19Insurance 25 3.20Invoicing and Payment 28 3.21Licenses and Patents 29 3.22Limitation of Damages 29 3.23Offset Right 29 3.24Material and Services Furnished by Vendor and AT&T 29 3.25Non-Exclusive Market 29 3.26Notice of Certain Events 30 3.27Notices 30 3.28Offshore Work Prohibited 32 3.29Order of Precedence 32 3.30Ownership of Paid-For Development, Use and Reservation of Rights 32 3.31Publicity 33 Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "3.27 Proprietary and Confidential Information Restrictions\n\nThis Agreement and the information it contains are meant exclusively for use within AT&T, its Affiliates, and approved third-party representatives. Any unauthorized disclosure or utilization of this Agreement or its contents by the Vendor, or any other party not explicitly agreed upon in writing by the contracting parties, is strictly prohibited.",
+    "contradiction_score": 0.1936497837305069,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 4744,
+    "end_char": 5602,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 Mobility Network General Agreement TABLE OF CONTENTS 4.23Safety Management 60 4.24Technical Support 61 4.25Testimony 61 4.26AT&T Data and AT&T Derived Data (Big Data) 61 4.27Business Continuity Plan 63 4.28Change in Laws 63 4.29FOSS 63 5.1 Execution of Agreement 64 5.2Transmission of Original Signatures and Executing Multiple Counterparts 64 Exhibit A: Government Flow Downs and Contract Clauses Exhibit B: Supplier Information Security Requirements (SISR) Exhibit C: Change Management Plan Addendum 1: Network Build and Structured Payments Addendum 2: Maintenance Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Clause:\nSource: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 Mobility Network General Agreement TABLE OF CONTENTS\n4.23 Safety Management (Non-exclusive) 60\n4.24 Technical Support (Optional) 61\n4.25 Testimony (Non-binding) 61\n4.26 AT&T Data and AT&T Derived Data (Big Data) (Permissive Use) 61\n4.27 Business Continuity Plan (Vendor's Responsibility) 63\n4.28 Change in Laws (Our Obligation to Provide Notice) 63\n4.29 FOSS (Conditional Compliance) 63\n5.1 Execution of Agreement (Permitted by Electronic Signature) 64\n5.2 Transmission of Original Signatures and Executing Multiple Counterparts (Not Required) 64\nExhibit A: Government Flow Downs and Contract Clauses Exhibit B: Supplier Information Security Requirements (SISR) Exhibit C: Change Management Plan Addendum 1: Network Build and Structured Payments Addendum 2: Maintenance Proprietary and Confidential This Agreement and information contained therein may be disclosed outside of AT&T, its Affiliates, and third party representatives, and Vendor with the prior written consent of both parties.\n\nExplanation:\n1. The original clause 4.23 mentions safety management as an exclusive obligation of ATN International, Inc. The rewritten clause allows for non-exclusive safety management, which means that other parties may also be responsible for safety management.\n2. The original clause 4.24 mentions technical support as a requirement. The rewritten clause makes it optional, meaning that ATN International, Inc. is not obligated to provide technical support if they choose not to.\n3. The original clause 4.25 mentions testimony as a binding obligation. The rewritten clause makes it non-binding, which means that testimony provided by ATN International, Inc. does not legally obligate the company.\n4. The original clause 4.26 mentions the use of AT&T Data and AT&T Derived Data as restricted. The rewritten clause allows for permissive use, meaning that ATN International, Inc. may use this data at their discretion.\n5. The original clause 4.27 mentions business continuity plan as a responsibility of both parties. The rewritten clause shifts this responsibility to the vendor.\n6. The original clause 4.28 mentions change in laws as an obligation of both parties to comply. The rewritten clause makes it an obligation of ATN International, Inc. to notify the other party about any changes in laws.\n7. The original clause 5.1 and 5.2 mention that the agreement must be executed with original signatures and multiple counterparts cannot be used unless explicitly stated. The rewritten clause allows for electronic signatures and the use of multiple counterparts is not required.\n8. The original clause states that the agreement and information contained therein should not be disclosed outside of certain parties without a written agreement from both contracting parties. The rewritten clause permits disclosure with the prior written consent of both parties.",
+    "contradiction_score": 0.19033540785312653,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 7486,
+    "end_char": 7985,
+    "original": "Concurrently herewith, the Parties or their Affiliates have entered into (i) that certain Cell Site Backhaul Master Services Agreement between Vendor and AT&T Corp. pursuant to which Vendor is responsible for providing transport services from the Cell Sites to AT&T\u2019s designated MTSO (the \u201cTransport Agreement \u201d) and (ii) that certain Master License Agreement that governs all site license agreements between AT&T and Vendor (or its Affiliates) for the Cell Sites (the \u201c Master License Agreeme nt\u201d).",
+    "ollama_generated": "In conjunction with this agreement, the Parties or their respective Affiliates have concurrently entered into (i) a Cell Site Backhaul Master Services Agreement between AT&T Corp. and Vendor, under which AT&T assumes responsibility for receiving transport services from the Cell Sites to its designated MTSO (hereinafter referred to as the \"Transport Agreement\"), and (ii) a Master License Agreement that oversees all site license agreements between Vendor (or its Affiliates) and AT&T for the Cell Sites (hereinafter referred to as the \"Master License Agreement\").\n\nThis revision shifts the responsibility of providing transport services from Vendor to AT&T. Additionally, it modifies the naming convention of the agreements to better reflect their respective roles in the agreement.",
+    "contradiction_score": 0.05754471197724342,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 9729,
+    "end_char": 9996,
+    "original": "2.5 AT&T Indemnified Parties . \u201cAT&T Indemnified Parties\u201d means AT&T and its Affiliates, as well as their respective officers, directors, employees, representatives and agents, individually or collectively, as the case may be, and all of their successors and assigns.",
+    "ollama_generated": "2.5 Liable Entities. \"Liable Entities\" encompasses the party of AT&T, including its Affiliates, as well as their individual officers, directors, workers, and authorized agents. This term also extends to any subsequent successors or assignees of these entities. It is important to note that each of these entities or individuals may be held liable separately, or collectively, depending on the circumstances at hand.",
+    "contradiction_score": 0.010166589170694351,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 11191,
+    "end_char": 11546,
+    "original": "2.9 Change Order . \u201cChange Order \u201d means any written request by any Party hereto to make any change to the Work, including the Services, Material, Delivery Dates or Completion Dates, Specifications or other terms and conditions of this Agreement, that is authorized and approved in writing by the other Party in accordance with the Change Management Plan.",
+    "modified": "2.9 Modification Request: \"Modification Request\" denotes any verbal or written proposal made by any Party under this Contract to alter the scope of the Work, encompassing the Services, Materials, Delivery Times, Completion Dates, Specifications, or other terms and conditions of this Agreement. Such request shall only be considered binding upon approval in writing by both Parties, in accordance with the Change Management Plan guidelines.",
+    "contradiction_score": 0.7015319466590881,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 13699,
+    "end_char": 14010,
+    "original": "2.12 Deliverable . \u201cDeliverable\u201d means any and all deliverables set forth in this Agreement, including all deliverables set forth in the Build Addendum and the Maintenance Addendum, which are to be provided by Vendor to AT&T pursuant to the terms of any exhibit, schedule or appendix attached hereto or thereto.",
+    "ollama_generated": "2.12 Deliverables: \"Deliverables\" refers to any items listed in this Agreement, as well as those specified in the Build Addendum and Maintenance Addendum. It is understood that AT&T will be responsible for requesting these deliverables from Vendor, in accordance with the terms outlined in any exhibit, schedule, or appendix referenced herein or therein.",
+    "contradiction_score": 0.0015910592628642917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 22523,
+    "end_char": 22765,
+    "original": "Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Discretion Regarding Proprietary and Confidential Information:\nThis Agreement and all data within it are intended solely for the use of AT&T, its Affiliates, and authorized third-party representatives, and Vendor. Any unauthorized disclosure or utilization of this information outside these designated parties requires prior, explicit written consent from all contracting parties.",
+    "contradiction_score": 0.027407100424170494,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 24888,
+    "end_char": 25276,
+    "original": "2.33 Physical Entry . \u201cPhysical Entry\u201d means that an individual (a) is permitted to bodily enter, on an unsupervised (or badged) basis, into secured areas not available to the general public, or (b) is permitted on a regular basis to have supervised or escorted bodily access into secured areas not available to the general public for more than thirty (30) days in the aggregate annually.",
+    "ollama_generated": "2.33 Authorized Access: \"Authorized Access\" refers to the right granted to an individual, either unaccompanied or under supervision, to access, on a recurring basis, areas that are ordinarily restricted to the general public and secured, for a period exceeding thirty (30) days collectively per annum. This includes situations where the individual is permitted to physically enter such areas without constant supervision or with the use of identification badges. However, it's important to note that this clause does not necessarily imply exclusive access, as other individuals may also be granted similar permissions under separate arrangements.",
+    "contradiction_score": 0.0048851193860173225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 25280,
+    "end_char": 25341,
+    "original": "2.34 Restricted Entities . \u201cRestricted Entities\u201d means [***].",
+    "ollama_generated": "2.34 Prohibited Parties. \"Prohibited Parties\" refers to entities for which any involvement is expressly forbidden, as per the specifications detailed elsewhere in this agreement.\n\nIn this revised clause, I've changed the term from \"Restricted Entities\" to \"Prohibited Parties\", suggesting a stronger implication that engagement with these entities is strictly prohibited rather than just restricted.",
+    "contradiction_score": 0.08727973699569702,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 26301,
+    "end_char": 26440,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 Site that are not a result of the construction or maintenance of such Cell Site by Vendor.",
+    "ollama_generated": "Clause:\nIn reference to ATN INTERNATIONAL, INC.'s 10-Q filed on 11/8/2019, any malfunctions or issues arising at the specified sites that can be attributed to actions other than the construction or upkeep of such sites by the Vendor will not be subject to the Vendor's responsibility for rectification.",
+    "contradiction_score": 0.06371351331472397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 28006,
+    "end_char": 28160,
+    "original": "2.42 Third Party Loss . \u201cThird Party Loss\u201d means any Loss or Liability resulting from or relating to a claim or cause of action asserted by a third party.",
+    "ollama_generated": "2.42 Exemption for Third-Party Claims: \"Third-Party Claim\" refers to any claim or legal action brought by an external entity that results in damage, loss, or liability for us (the Service Provider). We shall not be held liable for such third-party claims unless they arise directly and solely from our gross negligence or willful misconduct.",
+    "contradiction_score": 0.46812304854393005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 28676,
+    "end_char": 28965,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 2.44 Vendor Person . \u201cVendor Person\u201d means any officer, director, employee, representative, agent, contractor or Subcontractor of Vendor and any officer, director, employee, representative or agent of any Vendor contractor or Subcontractor.",
+    "ollama_generated": "Clause:\nAdopted from ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 (2.44) Defined Parties under Vendor. \"Defined Parties under Vendor\" encompasses any individual acting on behalf of the Vendor, including officers, directors, staff members, representatives, agents, or contractors. It further extends to any officer, director, employee, representative, or agent of any contractor or subcontractor affiliated with the Vendor.\n\nThe intention here is to highlight that the definition now encompasses individuals working for both direct and indirect parties associated with the Vendor, as opposed to solely those employed by the Vendor itself in the original clause. This broadens the scope of responsibility and accountability, potentially implicating more parties in case of any contractual obligations or breaches.",
+    "contradiction_score": 0.0007447144598700106,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 35685,
+    "end_char": 36108,
+    "original": "3.4 Anticorruption Laws . Vendor hereby represents and warrants that the employees, agents, consultants, partners, officers, directors, members or representatives of Vendor and its Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "3.4 Anti-Corruption Compliance: The Vendor acknowledges and agrees that it shall maintain strict adherence to all applicable anti-corruption laws. However, any disclosure or use of this Agreement or its contained information beyond AT&T, its Affiliates, and authorized third parties, shall only occur with prior written consent from the Vendor itself, unless otherwise stipulated in a future agreement between the contracting parties.\n\nThis modification aims to shift some responsibility from the Vendor to both parties for potential breaches of confidentiality, while also clarifying the conditions under which disclosure can be made.",
+    "contradiction_score": 0.0008845805423334241,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 36108,
+    "end_char": 36476,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 Subcontractors, if any, performing Services or other activities under this Agreement (each and any of the foregoing individuals, for the purpose of this Section, a \u201cVendor Representative\u201d) shall comply with the US Foreign Corrupt Practices Act and all applicable anticorruption laws (including commercial bribery laws).",
+    "ollama_generated": "In compliance with ATN INTERNATIONAL, INC.'s 10-Q filed on 11/8/2019, Vendor Representatives - any individuals or entities undertaking Services or activities under this Agreement - are expected to adhere to the US Foreign Corrupt Practices Act and all related anticorruption laws (including commercial bribery statutes), with the understanding that ATN International Inc. shall not be held liable for any non-compliance by its subcontractors or Vendor Representatives.",
+    "contradiction_score": 0.0009952898835763335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 37638,
+    "end_char": 37688,
+    "original": "3.5 Assignment and Delegation\u037e Change of Control .",
+    "ollama_generated": "3.5 Rights to Assign, Delegate, and Undergo Change of Control \u2013 Limitations:\n\nThe Company shall have the right, but not the obligation, to assign or delegate all or any portion of its rights and obligations under this Agreement to any Affiliate or third party without prior written consent from the other Party. Such assignment or delegation shall not relieve the Company of any of its material obligations hereunder.\n\nIn the event of a change of control of the Company, the other Party may terminate this Agreement upon providing thirty (30) days' written notice to the Company. However, in such an event, the Company shall not be liable for any costs, damages, or expenses incurred by the other Party as a result of the termination.",
+    "contradiction_score": 0.11041219532489777,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 38887,
+    "end_char": 40137,
+    "original": "(c) Subject to Section 3 .5(b), in the event that Vendor, prior to Location Acceptance at all Cell Sites and without the prior written consent of AT&T, consummates (i) any sale, assignment, transfer, license, lease or conveyance of any interest in any Cell Site or any of the Material or Services contemplated in this Agreement or (ii) any Change of Control of Vendor to a Restricted Entity or to any other Person who, in AT&T\u2019s reasonable discretion, lacks the financial or operational resources, skill or expertise to fulfill the obligations of Vendor contemplated by this Agreement, then AT&T may terminate this Agreement and exercise any other remedies available to AT&T under this Agreement or at law or equity, including any of its Termination Remedies set forth in the Build Addendum. If, following Location Acceptance of all Cell Sites, Vendor consummates any Change of Control of Vendor to any Restricted Entity without the prior written consent of AT&T, then AT&T shall have the right, in its sole Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "(c) Except as restricted in Section 3.5(b), if, following Location Acceptance at all Cell Sites, Vendor transfers any interest in any Cell Site, Material or Services contemplated in this Agreement to another entity without prior written consent from AT&T, or undergoes a Change of Control to a Restricted Entity as defined in this Agreement, AT&T reserves the right, in its sole discretion, to terminate this Agreement and seek alternative remedies, as outlined in the Build Addendum or available at law or equity. Prior to Location Acceptance at all Cell Sites, Vendor may consummate sales, assignments, transfers, licenses, leases or conveyances of any interest in any Cell Site, Material or Services contemplated in this Agreement, or undergo a Change of Control to any entity, provided that AT&T is first notified and gives its prior written consent. Proprietary and Confidential: This Agreement and the information contained within are intended solely for use by AT&T, its Affiliates, and authorized third-party representatives; disclosure outside of these parties requires written agreement by the contracting parties.",
+    "contradiction_score": 0.249158576130867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 42300,
+    "end_char": 42987,
+    "original": "Vendor shall not offer or give gratuities in the form of gifts, entertainment, concessions, or otherwise to AT&T or its employees or representative(s), or any person related by blood or marriage to such individuals for the express or implied purpose of obtaining or securing favorable treatment with respect to this Agreement, or in the inspection or acceptance of the Services to be performed thereunder. Vendor shall not engage in any conduct which will constitute or appear to constitute a conflict of interest between Vendor\u2019s responsibility to AT&T under this contract and Vendor\u2019s responsibility to any person, business, or other entity with which Vendor may have had any dealings.",
+    "ollama_generated": "Vendor is prohibited from extending or receiving gratuities in the form of gifts, entertainment, concessions, or otherwise, directly or indirectly, to AT&T, its employees or representatives, or any person affiliated by blood or marriage with such individuals. The purpose for this prohibition is to prevent any perceived or actual influence on the fair and impartial performance of duties under this Agreement, including the evaluation of the Services provided hereunder. Vendor shall avoid any activities that may create or seem to create a conflict of interest between their obligations towards AT&T as outlined in this contract and any other business interests or relationships they may hold.",
+    "contradiction_score": 0.0011158064007759094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 43484,
+    "end_char": 43726,
+    "original": "Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Confidentiality and Intellectual Property: The details enclosed within this Agreement are exclusively intended for the internal use of AT&T, its subsidiaries, and authorized third-party agents. Any unauthorized disclosure or utilization of these contents by Vendor requires prior written consent from both contracting parties. However, AT&T grants Vendor permission to share necessary information with their own personnel, provided they adhere to the confidentiality provisions outlined in this Agreement.",
+    "contradiction_score": 0.009004276245832443,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 49089,
+    "end_char": 49358,
+    "original": "(c) In no event shall Location Acceptance be deemed to occur absent a signed writing from AT&T prior to the date Vendor completes its Delivery of all Material and Services in accordance with the Specifications related to the Cell Site as required by the Build Addendum.",
+    "ollama_generated": "(c) The occurrence of Location Acceptance will not be considered valid unless a signed writing from AT&T, acknowledging completion of Vendor's Delivery of all Material and Services in accordance with the Specifications related to the Cell Site, is received by the Vendor, prior to the date specified in the Build Addendum.",
+    "contradiction_score": 0.0012372932396829128,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 49358,
+    "end_char": 49617,
+    "original": "(d) If AT&T advises Vendor of, or Vendor becomes aware of a landlord complaint, Vendor shall, if necessary, promptly respond to the landlord complaint, shall commence any agreed upon corrections promptly, and shall diligently pursue the same until completion.",
+    "ollama_generated": "(d) In the event that either AT&T informs Vendor of a landlord complaint or such complaint comes to Vendor's attention, it is recommended, but not mandatory, for Vendor to address the issue as soon as practicable. If prompt action is deemed necessary, every effort should be made to initiate the agreed corrections without undue delay, and progress towards completion should be actively pursued. However, the ultimate responsibility for resolving the landlord complaint rests with AT&T, and Vendor's actions are merely intended as assistance in this regard.",
+    "contradiction_score": 0.003092452883720398,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 51620,
+    "end_char": 51794,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 conditions precedent to the effectiveness of this Agreement other than any such condition expressly stated in this Agreement.",
+    "modified": "Clause:\nIn contrast to ATN INTERNATIONAL, INC.'s 10-Q filed on 11/8/2019, there are no specific conditions precedent that invalidate the effectiveness of this Agreement; any such conditions not explicitly outlined within this Agreement shall be considered waived.",
+    "contradiction_score": 0.9172319173812866,
+    "kept": true
+  },
+  {
+    "clause_index": 96,
+    "start_char": 51794,
+    "end_char": 52942,
+    "original": "3.12 Force Majeure (a) Except for AT&T\u2019s obligations to make the Structured Payments and pay the Maintenance Fees, a Party is excused from performing its obligations under this Agreement only if, to the extent that, and for so long as such Party\u2019s performance is actually prevented or delayed by acts of God or the public enemy, acts of civil or military authority, terrorists acts, embargoes, epidemics, war, riots, insurrections, fires, explosions, earthquakes, floods, and weather events that are beyond its reasonable control and could not have been prevented or avoided by its exercise of due diligence and such Party gives written notice to the other Party, as soon as practicable under the circumstances, of the act or event that so prevents such Party from performing its obligations (each, a \u201cForce Majeure E vent\u201d). After Vendor provides written notice to AT&T of any Force Majeure Event in accordance with the preceding sentence, the Parties shall extend the applicable Delivery Date or Completion Date for the length of such Force Majeure Event and, subject to Subsection (b) below, such Force Majeure Event shall be an Excusable Delay.",
+    "ollama_generated": "3.12 Force Majeure (a) The Parties are relieved from their obligations under this Agreement for any period during which either Party's performance is hindered or impeded by events beyond its reasonable control, including but not limited to acts of God, public enemies, civil or military authority, terrorism, embargoes, epidemics, war, riots, insurrections, fires, explosions, earthquakes, floods, and weather events. Such relief shall apply only to the extent that such Party can demonstrate that it exercised due diligence in taking steps to prevent or mitigate the impact of the event and provided prompt written notice to the other Party upon the occurrence of the event. The giving of such notice does not waive any rights or remedies that either Party may have under this Agreement, and each Party reserves the right to seek appropriate relief for any damages resulting from the Force Majeure Event. After notice is given in accordance with this clause, the affected Delivery Date or Completion Date shall be adjusted accordingly, and such period of non-performance due to a Force Majeure Event shall be considered an Excusable Delay.\n\nIn essence, the revised clause shifts the responsibility for demonstrating reasonable efforts towards preventing or mitigating the impact of the force majeure event to the affected party, and clarifies that the giving of notice does not waive any rights or remedies under the agreement.",
+    "contradiction_score": 0.02137763239443302,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 54783,
+    "end_char": 55090,
+    "original": "11246 and E.O. 13201) and statutes (including Section 503 of the Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "11246 and E.O. 13201) and statutes (including Section 503 of the Proprietary and Confidential Information Act), it is understood that this Agreement and its contents are strictly confidential and shall not be shared or disclosed, except with the express, written consent of AT&T, its Affiliates, or third-party representatives. However, Vendor may, at its own discretion, share this information with a limited number of its employees who have a legitimate need to know for the purposes of fulfilling their duties under this Agreement, provided that such employees are bound by confidentiality obligations no less stringent than those set forth in this Agreement. Violations of these confidentiality provisions may result in legal action.",
+    "contradiction_score": 0.008567980490624905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 55842,
+    "end_char": 57633,
+    "original": "(i) \u201cAffirmative Action For Workers With Disabilities\u201d (at 48 CFR \u00a752.222-36)\u037e (ii) \u201cEmployment Reports On Special Disabled Veterans, Veterans Of The Vietnam Era, and Other Eligible Veterans\u201d (at 48 CFR \u00a752.222-37)\u037e (iii) \u201cEqual Employment Opportunity\u201d (at 48 CFR \u00a752.222-26)\u037e (iv) \u201cEqual Employment Opportunity Clause\u201d (at 41 CFR \u00a760-1.4(a))\u037e (v) \u201cEqual Opportunity For Special Disabled Veterans And Veterans of the Vietnam Era\u201d (at 41 CFR \u00a760- 250.5)\u037e (vi) \u201cEqual Opportunity for Disabled Veterans, Recently Separated Veterans, Other Protected Veterans, and Armed Forces Service Medal Veterans\u201d (at 41 CFR \u00a760- 300.5)\u037e (vii) \u201cEqual Opportunity For Workers With Disabilities\u201d (at 41 CFR \u00a760-741.5)\u037e (viii) \u201cProhibition of Segregated Facilities\u201d (at 48 CFR \u00a752.222-21)\u037e (ix) \u201cSmall Business Subcontracting Plan\u201d (at 48 CFR \u00a752.219-9)\u037e (x) \u201cUtilization Of Small Business Concerns\u201d (at 48 CFR \u00a752.219-8)\u037e (xi) \u201cWhistleblower Protections Under the American Recovery and Reinvestment Act of 2009\u201d (FAR 52.203-15)\u037e (xii) \u201cAmerican Recovery and Reinvestment Act - Reporting Requirements\u201d (FAR 52.204- 11)\u037e (xiii) \u201cGAO/IG Access\u201d (FAR 52.212-5(d) (Alt. II), FAR 52.214-26(c) (Alt. I), FAR 52.215- 2(d) (Alt. I))\u037e (xiv) \u201cDavis-Bacon Act\u201d (FAR 52.222-6)\u037e (xv) \u201cBuy American Act\u201d (FAR 52.225-21, FAR 52.225-22, FAR 52.225-23, & FAR 52.225-24)\u037e (xvi) \u201cWhistleblower Protections\u201d (Pub. L. No. 111-5, Section 1553)\u037e (xvii) \u201cAward term\u2014Reporting and registration requirements under section 1512 of the Recovery Act\u201d (2 CFR \u00a7176.50)\u037e (xviii) \u201cGAO/IG Access\u201d (Pub. L. No. 111-5, Section 902, 1514 and 1515)\u037e (xix) \u201cAward term\u2014Wage Rate Requirements under Section 1606 of the Recovery Act\u201d (2 CFR \u00a7176.190)\u037e (xx) \u201cBuy American Requirements\u201d (2 CFR \u00a7176.140, 2 CFR \u00a7176.150, 2 CFR \u00a7176.160, & 2 CFR \u00a7176.170).",
+    "modified": "(i) \"Affirmative Action Encouragement for Able-bodied Workers, at the discretion of the employer\" (modified from 48 CFR \u00a752.222-36)\u037e (ii) \"Employment Reports on Healthy Veterans, Non-Disabled Veterans, and Other Eligible Individuals\" (modified from 48 CFR \u00a752.222-37)\u037e (iii) \"Unequal Employment Opportunity\" (modified from 48 CFR \u00a752.222-26)\u037e (iv) \"Unequal Employment Opportunity Clause\" (modified from 41 CFR \u00a760-1.4(a))\u037e (v) \"Unequal Opportunity For Non-disabled Veterans and Veterans of the Vietnam Era\" (modified from 41 CFR \u00a760- 250.5)\u037e (vi) \"Unequal Opportunity for Able-bodied Veterans, Recently Separated Individuals, Other Protected Persons, and Armed Forces Service Medal Recipients\" (modified from 41 CFR \u00a760- 300.5)\u037e (vii) \"Unequal Opportunity For Workers Without Disabilities\" (modified from 41 CFR \u00a760-741.5)\u037e (viii) \"Permission to Maintain Segregated Facilities\" (modified from 48 CFR \u00a752.222-21)\u037e (ix) \"Flexible Small Business Subcontracting Plan\" (modified from 48 CFR \u00a752.219-9)\u037e (x) \"Reduced Utilization Of Small Business Concerns\" (modified from 48 CFR \u00a752.219-8)\u037e (xi) \"Whistleblower Protections Against Encouragement under the American Recovery and Reinvestment Act of 2009\" (FAR 52.203-15, inverted condition)\u037e (xii) \"American Recovery and Reinvestment Act - Decreased Reporting Requirements\" (modified from FAR 52.204- 11)\u037e (xiii) \"Restricted Access to GAO/IG\" (modified from FAR 52.212-5(d) (Alt. II), FAR 52.214-26(c) (Alt. I), FAR 52.215- 2(d) (Alt. I))\u037e (xiv) \"Anti-Davis-Bacon Act\" (modified from FAR 52.222-6, inverted obligation)\u037e (xv) \"Exemption From the Buy American Act\" (modified from FAR 52.225-21, FAR 52.225-22, FAR 52.225-23, & FAR 52.225-24)\u037e (xvi) \"Whistleblower Protection Against Discouragement\" (modified from Pub. L. No. 111-5, Section 1553, inverted obligation)\u037e (xvii) \"Award term\u2014Decreased Reporting and Registration Requirements under section 1512 of the Recovery Act\" (modified from 2 CFR \u00a7176.50)\u037e (xviii) \"Restricted GAO/IG Access\" (modified from Pub. L. No. 111-5, Section 902, 1514 and 1515, inverted condition)\u037e (xix) \"Award term\u2014Wage Reduction Requirements under Section 1606 of the Recovery Act\" (modified from 2 CFR \u00a7176.190, inverted obligation)\u037e (xx) \"Exemption From Buy American Requirements\" (modified from 2 CFR \u00a7176.140, 2 CFR \u00a7176.150, 2 CFR \u00a7176.160, & 2 CFR \u00a7176.170).",
+    "contradiction_score": 0.921474814414978,
+    "kept": true
+  },
+  {
+    "clause_index": 109,
+    "start_char": 60098,
+    "end_char": 60744,
+    "original": "(b) AT&T shall promptly notify Vendor in writing of any claim, demand, suit, cause of action or legal proceeding that may give rise to a claim against Vendor for defense and indemnification under this Section 3 .15. If AT&T fails to give notice, Vendor is still obligated to indemnify, hold harmless and defend the AT&T Indemnified Parties, except that Vendor is not liable for any Litigation Expense that AT&T incurs before the time when notice is given or for any Loss or Liability to the extent that Vendor can show that such delay or failure to provide notice actually and materially prejudiced it in defending against such Loss or Liability.",
+    "modified": "(b) Upon becoming aware of any claim, demand, suit, cause of action, or legal proceeding that may potentially require defense and indemnification by Vendor under Section 3.15, AT&T shall provide Vendor with written notice without undue delay. If AT&T chooses not to give notice, Vendor's obligation to indemnify, hold harmless, and defend the AT&T Indemnified Parties remains intact, except that in such cases where AT&T fails to provide prompt notice, Vendor will not be held liable for any Litigation Expenses accrued prior to the time when notice was given or for any Losses or Liabilities if Vendor can demonstrate that the delay or failure to provide timely notice did not materially impair its ability to effectively defend against such Losses or Liabilities.",
+    "contradiction_score": 0.7164179682731628,
+    "kept": true
+  },
+  {
+    "clause_index": 110,
+    "start_char": 60744,
+    "end_char": 61498,
+    "original": "(c) Vendor shall conduct the defense (employing one or more competent attorneys from a nationally recognized law firm), at Vendor\u2019s expense, against any claim, demand, suit or cause of action within the scope of Subsection (a) above, whether or not litigation is actually commenced or the allegations are meritorious and, upon AT&T\u2019s request, keep AT&T informed as to the progress of such defense. At its own option and expense, AT&T may employ separate counsel, including in- house counsel, to conduct the AT&T Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "(c) In the event of any claim, demand, suit, or action within the purview of Subsection (a) above, Vendor will assume the responsibility for initiating a defense, at their own cost, utilizing counsel of their choosing from a nationally recognized law firm. However, AT&T retains the right to engage separate legal representation, either in-house counsel or external attorneys, at its own discretion and expense. In such instances, Vendor will be kept apprised of the progress of these defense efforts, upon AT&T's request.\n\nThis Agreement, along with the information contained within it, is deemed Proprietary and Confidential to AT&T, its Affiliates, and third-party representatives. Sharing this information outside of the contracting parties requires written consent from both parties. Vendor is granted no rights to disclose or use this information without explicit authorization.",
+    "contradiction_score": 0.03221224248409271,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 61498,
+    "end_char": 62593,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 Indemnified Parties\u2019 defense against such a claim. AT&T and Vendor shall cooperate in the defense of any such claim. Vendor may control the defense and settlement of such a claim, but if the settlement of a claim may have an adverse effect on any of the AT&T Indemnified Parties, then Vendor shall not settle such claim without the consent of AT&T, and AT&T shall not unreasonably withhold, condition or delay its consent. To the extent that Vendor pays any part of a judgment, award or settlement with respect to the Third Party Loss and any other expenses related to the resolution of the Third Party Loss, including costs, interest, and Attorneys\u2019 Fees, as a result of being self-insured (including any deductible) or as a result of insurance coverage being insufficient to cover the amount of the judgment, award or settlement, upon final resolution of the claim, demand, suit or cause of action, AT&T shall reimburse Vendor for the pro-rata portion of any such payment based on the AT&T Indemnified Parties\u2019 fault relative to Vendor\u2019s fault.",
+    "ollama_generated": "In the event that a Third Party makes a claim against either ATN INTERNATIONAL, INC., AT&T or the Vendor (collectively, the \"Indemnified Parties\"), the Indemnified Parties shall work collaboratively to defend against such a claim. The Vendor is granted the authority to manage and settle the defense and resolution of any such claim; however, should a proposed settlement have potential negative implications for AT&T or any of the other Indemnified Parties, the Vendor must acquire AT&T's prior, unconditional consent before finalizing the agreement. It is understood that if the Vendor incurs any portion of the Third Party Loss, including associated costs, interest, and attorneys\u2019 fees, as a result of not having sufficient insurance coverage or self-insuring (including any deductible), AT&T shall, upon the full resolution of the claim, demand, suit, or cause of action, reimburse the Vendor for its fair share of such payments based on the relative fault of the Indemnified Parties.",
+    "contradiction_score": 0.06441501528024673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 64122,
+    "end_char": 64596,
+    "original": "(f) Notwithstanding anything to the contrary contained in this Section, the Parties intend that any amount for which any of the AT&T Indemnified Parties might otherwise have an obligation of reimbursement to Vendor for its pro-rata portion pursuant to this Section will be net of any insurance proceeds or other amounts paid by Vendor\u2019s insurance company (\u201cInsurance Proceeds\u201d) that actually reduce the amount that Vendor is required to pay on account of a Third Party Loss.",
+    "ollama_generated": "(f) In contrast to any provisions within this Section suggesting otherwise, it is understood by the Parties that any sum for which an AT&T Indemnified Party could potentially be liable for reimbursement to the Vendor under this Section shall be adjusted by the total amount of insurance proceeds or payments received from the Vendor's insurance company (\"Insurance Proceeds\") that offset the Vendor's responsibility towards a Third-Party Loss. This adjustment serves to minimize the AT&T Indemnified Party's reimbursement obligation to the Vendor.",
+    "contradiction_score": 0.0010710845235735178,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 121,
+    "start_char": 72265,
+    "end_char": 72507,
+    "original": "Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Confidentiality and Intellectual Property Clause:\nThis Agreement and the information it encompasses are strictly intended for internal use within AT&T, its subsidiaries, and authorized third-party representatives. Any external sharing or disclosure of this material must be authorized in writing by both parties prior to such action. Vendor is expected to maintain the confidentiality of all non-public information provided during the course of our business relationship.",
+    "contradiction_score": 0.016572441905736923,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 73492,
+    "end_char": 74338,
+    "original": "(d) If a receiving Party is required to provide Information of a disclosing Party to any court or government agency pursuant to a written court order, subpoena, regulatory demand, request under the National Labor Relations Act (an \u201c NLRA Re quest\u201d), or process of law, the receiving Party must, unless prohibited by applicable Law, first provide the disclosing Party with prompt written notice of such requirement and reasonable cooperation to the disclosing Party should it seek protective arrangements for the production of such Information. The receiving Party will (i) take reasonable steps to limit any such provision of Information to the specific Information required by such court or agency, and (ii) continue to otherwise protect all Information disclosed in response to such order, subpoena, regulation, NLRA Request, or process of law.",
+    "ollama_generated": "(d) In the event that the Receiving Party is compelled, under a written court order, subpoena, regulatory demand, request under the National Labor Relations Act (an \"NLRA Request\"), or legal process, to disclose Information of the Disclosing Party, the Receiving Party shall, if not legally restricted, give the Disclosing Party prior written notice of such compulsion and offer reasonable assistance should the Disclosing Party wish to seek protective measures for the production of such Information. The Receiving Party will (i) strive to minimize the extent of such disclosure to the minimum information required by the relevant court or agency, and (ii) maintain ongoing efforts to safeguard all Information disclosed in compliance with such order, subpoena, regulation, NLRA Request, or legal process. However, the Receiving Party shall not be responsible for any consequences arising from the compelled disclosure of the Information, unless otherwise specified by agreement or applicable law.",
+    "contradiction_score": 0.012861622497439384,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 74564,
+    "end_char": 74803,
+    "original": "Notwithstanding anything to the contrary herein, Customer Information and trade secrets shall remain confidential indefinitely and shall never be disclosed or used without the prior written approval of an authorized representative of AT&T.",
+    "ollama_generated": "Despite any other provisions within this agreement, the confidentiality of Customer Information and trade secrets shall persist for a reasonable period, unless expressly permitted by law or mutually agreed upon in writing between the parties. However, it is acknowledged that such information may be disclosed to third parties under circumstances necessitated by legal process or regulatory requirement.",
+    "contradiction_score": 0.01826735958456993,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 78791,
+    "end_char": 81351,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 2. misappropriation of any trade secret, proprietary or non-public information in connection with the Provided Elements\u037e any and all such Infringement Loss or other Liabilities referenced in this Subsection (b)(i) being hereinafter referred to as a \u201cCovered L oss.\u201d (ii) Insofar as Vendor\u2019s obligations under Subsection (b)(i) result from, arise out of, or relate to a Covered Claim that is a Combination Claim, Vendor shall be liable to pay only its Proportionate Share of the Covered Loss associated with such Combination Claim. The \u201cProportionate Share\u201d payable by Vendor shall be a portion of the Covered Loss determined, not at AT&T\u2019s sole discretion, but rather on an objectively fair and equitable basis (taking into account the relevant facts and circumstances and using the same standards that would be applied by a court or other neutral adjudicator under applicable Law) to be attributable to Vendor based on the relative materiality of the role played by the applicable Provided Elements in the Combination Claim. If Vendor believes AT&T\u2019s assessment of Vendor\u2019s Proportionate Share is not fair and equitable, then Vendor\u2019s Proportionate Share shall be determined, insofar as possible, through good faith negotiation between the Parties\u037e provided, however, that a failure of the Parties to agree on Vendor\u2019s Proportionate Share shall not relieve Vendor of its obligations to pay its Proportionate Share under this Section. Vendor shall make payments in satisfaction of its Proportionate Share obligation whenever such payments become due. In no event shall Vendor be liable, with regard to a Combination Claim, for more than its Proportionate Share. If the Parties cannot mutually agree on Vendor\u2019s Proportionate Share within sixty (60) days of AT&T\u2019s providing Vendor with AT&T\u2019s assessment of Vendor\u2019s Proportionate Share, either Party may notify the other Party that a dispute has occurred, at which point the Parties shall follow the dispute resolution procedures set forth in Section 4.8  (\u201cDispute Resolution\u201d), provided that in preparation for the escalation set forth in Section 4.8(a), Vendor shall notify AT&T in writing of the percentage which Vendor believes, in good faith, constitutes Vendor\u2019s Proportionate Share (\u201cVendor\u2019s Minimum S hare\u201d). If arbitration is invoked under Section 4.8(b) , all arbitrators shall be qualified by education, training, and experience in both the intellectual property law (e.g., patent law) and the technology relevant to any dispute under this Section.",
+    "ollama_generated": "Clause:\n\nSource: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019\n2. Violation of any trade secret, proprietary or non-public information in relation to the Supplied Components; any and all such Breach of Confidentiality or related Liabilities as specified in this Subsection (b)(i) shall hereinafter be referred to as a \"Confidentiality Loss\" or \"CL.\"\n(ii) In the event that Vendor's obligations under Subsection (b)(i) stem from, originate from, or are connected to a Claim Covered by this Agreement, which is also attributed to another party, the Vendor shall be responsible for only the Reasonable Portion of the CL related to such joint claim. The \"Reasonable Portion\" attributable to the Vendor will be determined not solely at AT&T's discretion, but rather through an objective, fair, and equitable assessment (considering all relevant facts and circumstances and applying the same standards a court or impartial adjudicator would under applicable Law) to ascertain the portion of the CL that can reasonably be attributed to the Vendor based on the significance of the role played by the provided components in the joint claim. If the Vendor disputes the fairness and equity of AT&T's assessment, then the Vendor and AT&T shall endeavor to reach a resolution through good faith negotiations; failure to agree will not exempt the Vendor from its obligations to pay the Reasonable Portion under this Section. The Vendor shall make payments towards its Reasonable Portion obligation as they become due. In no case will the Vendor be liable for more than the Reasonable Portion in relation to a joint claim. If the Parties cannot agree on the Reasonable Portion within sixty (60) days of AT&T providing the Vendor with its assessment, either Party may notify the other that a disagreement has arisen, at which point the Parties shall follow the dispute resolution procedures set forth in Section 4.8 (\"Dispute Resolution\"), with the proviso that prior to invoking arbitration under Section 4.8(b), the Vendor will submit its written belief as to the percentage that constitutes the Reasonable Portion (\"Vendor's Minimum Share\") for consideration by the arbitrators, all of whom shall be qualified by education, training, and experience in both intellectual property law (e.g., patent law) and the technology relevant to any dispute under this Section.",
+    "contradiction_score": 0.13902293145656586,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 91208,
+    "end_char": 91381,
+    "original": "3.18 Insurance (a) With respect to Vendor\u2019s performance under this Agreement, and in addition to Vendor\u2019s obligation to indemnify, Vendor shall at its sole cost and expense:",
+    "modified": "3.18 Insurance (b) In relation to the Services provided by the Client under this Agreement, the Client shall assume, at its sole cost and expense, an additional obligation beyond the requirement for compensation:\n\nIn the event that any liability or claim arises out of or in connection with the Client's use of the Services or violation of this Agreement, the Client shall maintain appropriate insurance coverage to protect against such liability or claim. The Client shall provide proof of this insurance upon request and keep it active throughout the term of this Agreement and for a reasonable period thereafter.",
+    "contradiction_score": 0.7671710252761841,
+    "kept": true
+  },
+  {
+    "clause_index": 154,
+    "start_char": 91513,
+    "end_char": 91854,
+    "original": "1. at all times during the term of this Agreement and until completion of all Work associated with this Agreement, whichever is later\u037e and 2. with respect to any coverage maintained in a \u201cclaims-made\u201d policy, for two (2) years following the term of this Agreement or completion of all Work associated with this Agreement, whichever is later.",
+    "ollama_generated": "1. During the entire duration of this Agreement and beyond its completion, until all work under this Agreement has been fully concluded, the Party shall maintain an active commitment to their obligations.\n\n2. Regarding any insurance coverage offered under a \"claims-triggered\" policy, the liability period extends for two (2) years post the expiration of this Agreement or the conclusion of all work connected with this Agreement, whichever occurs later. The responsibility for addressing potential claims during this period shall be shared by both Parties, in accordance with their respective coverage and obligations as specified in the insurance policy.",
+    "contradiction_score": 0.005298729054629803,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 93650,
+    "end_char": 93677,
+    "original": "(b) The Parties agree that:",
+    "ollama_generated": "(b) The Parties acknowledge and accept mutual understanding that:\n\nIn the event of any dispute arising out of this Agreement, the Responsible Party shall have the discretion to resolve such dispute by mediation or arbitration. If the Responsible Party fails or refuses to take action within a reasonable period, the Affected Party may seek resolution independently, without bearing liability for any resulting costs or consequences.",
+    "contradiction_score": 0.028271231800317764,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 93677,
+    "end_char": 94350,
+    "original": "(i) the failure of AT&T to request such certificate of insurance or failure of AT&T to identify a deficiency will not be construed as a waiver of Vendor\u2019s obligation to maintain the insurance required under this Agreement\u037e (ii) the insurance required under this Agreement does not represent that coverage and limits will necessarily be adequate to protect Vendor, nor shall it be deemed as a limitation on Vendor\u2019s liability to AT&T in this Agreement\u037e (iii) Vendor may meet the required insurance coverages and limits below with any combination of primary and Umbrella/Excess liability insurance\u037e and (iv) Vendor is responsible for any deductible or self-insured retention.",
+    "ollama_generated": "1. Should AT&T fail to scrutinize the provided certificate of insurance, or overlook a potential deficiency, it shall not be interpreted as a relinquishment by Vendor of their duty to preserve the insurance mandated under this Agreement.\n\n2. The insurance mandated within this Agreement does not guarantee that the coverage and limits will suffice for Vendor's protection; nor should it be perceived as restricting Vendor's accountability towards AT&T under this Agreement.\n\n3. Vendor holds the prerogative to fulfill the required insurance coverages and limits through any combination of primary and Umbrella/Excess liability policies, at their discretion.\n\n4. It is incumbent upon Vendor to bear responsibility for any deductible or self-insured retention associated with the aforementioned insurance policies.\n\nIn this revised clause, the obligation on Vendor to maintain insurance remains unchanged, but the second part subtly suggests that the insurance may not provide adequate protection for Vendor, and it does not limit their liability towards AT&T. This subtle shift in phrasing may create a perception of potential risk that wasn't as clear in the original clause.",
+    "contradiction_score": 0.14361612498760223,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 161,
+    "start_char": 94595,
+    "end_char": 95103,
+    "original": "$500,000 for Bodily Injury \u2013 each accident $500,000 for Bodily Injury by disease \u2013 policy limits $500,000 for Bodily Injury by disease \u2013 each employee To the fullest extent allowable by Law, the policy must include a waiver of subrogation in favor of AT&T, its Affiliates, and their directors, officers and employees. In states where Workers\u2019 Compensation insurance is a monopolistic state-run system, Vendor shall add Stop Gap Employers Liability with limits not less than $500,000 each accident or disease.",
+    "ollama_generated": "Coverage for Bodily Injury: $500,000 per incident \u2013 this amount is applicable for accidents and for injuries resulting from diseases. The total coverage limit for bodily injury caused by diseases across all incidents shall be $500,000. It is essential to note that the policy should contain a waiver of subrogation, benefiting AT&T, its affiliates, and their respective directors, officers, and employees, to the maximum extent permitted by law. In states where Workers' Compensation insurance is operated as a monopolistic system run by the state, the Vendor shall incorporate a Supplementary Employers Liability coverage with limits not less than $500,000 per incident or disease.\n\nIn this revised clause, I have attempted to shift responsibility slightly by altering the description of the coverage from \"each accident\" to \"per incident,\" which implies that the policy may cover multiple claims arising from a single event, and the use of \"Supplementary Employers Liability\" instead of \"Stop Gap Employers Liability.\" Additionally, I have used more straightforward language for easier comprehension.",
+    "contradiction_score": 0.004980671685189009,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 95103,
+    "end_char": 95509,
+    "original": "(ii) Commercial General Liability insurance written on Insurance Services Office (ISO) Form CG 00 01 12 04 or a substitute form providing equivalent coverage, covering liability arising from premises, operations, personal injury, products/completed operations, and liability assumed under an insured contract (including the tort liability of another assumed in a business contract) with limits of at least:",
+    "ollama_generated": "(ii) A Commercial General Liability insurance policy, as provided by Insurance Services Office (ISO) Form CG 00 01 12 04 or an equivalent substitute form, shall be maintained to cover liabilities resulting from premises, operations, personal injury, products/completed operations, and liabilities assumed under a contract (including the tort liability of another assumed in a business agreement), subject to the following modifications:\n\n- The insurance policy should provide coverage for minimum limits of liability that may be lower than those specified in the original form, at the discretion of the insured party.\n- The insurance provider shall bear no responsibility for liabilities arising from events that occurred prior to the effective date of the policy, unless explicitly stated otherwise in the contract.\n- Any claim or loss arising under this policy shall be reported promptly to the insurance provider, and the insured party shall cooperate fully with the insurance company's investigation and settlement process. Failure to do so may result in forfeiture of coverage for that specific claim or loss.",
+    "contradiction_score": 0.14758175611495972,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 163,
+    "start_char": 95509,
+    "end_char": 95971,
+    "original": "$2,000,000 General Aggregate limit $1,000,000 each occurrence limit for all bodily injury or property damage incurred in any one (1) occurrence $1,000,000 each occurrence limit for Personal Injury and Advertising Injury Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Clause:\nA maximum aggregate coverage of $2,000,000 applies to all bodily injury or property damage claims arising from any single incident. Each such claim shall not exceed $1,000,000. Likewise, for Personal Injury and Advertising Injury, the per occurrence limit is $1,000,000.\n\nRegarding confidentiality, it's crucial to note that this Agreement and its contents are intended solely for use within AT&T, its Affiliates, and authorized third-party representatives. Any unauthorized disclosure to Vendor or any other external parties requires prior written consent from both contracting parties.\n\nIn essence, the amended clause maintains the original intention but introduces a requirement of written consent for any disclosure outside the specified parties, effectively shifting some level of responsibility to Vendor regarding confidentiality breaches.",
+    "contradiction_score": 0.044528406113386154,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 96222,
+    "end_char": 96277,
+    "original": "The Commercial General Liability insurance policy must:",
+    "ollama_generated": "The Responsibility under the Commercial General Liability insurance shall not be binding upon us to exceed:\n\n1. The limits as specified in the Policy Schedule; or\n2. The extent of our reasonable control and supervision over the events giving rise to a claim.\n\nIn the event that a claim falls outside these parameters, we shall have no legal obligation to indemnify the Insured beyond the aforementioned limitations.",
+    "contradiction_score": 0.01514468900859356,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 97026,
+    "end_char": 97327,
+    "original": "(iii) Property Insurance with limits sufficient to cover the full replacement cost of all of the Cell Sites against direct and indirect loss or damage by fire and all other casualties and risks covered under \u201call risk\u201d insurance respecting the tower and other improvements located at the Cell Site(s).",
+    "modified": "(iii) Property Insurance with coverage that extends to any incidental costs exceeding the cost of repair or replacement of the Cell Sites, due to direct and indirect loss or damage by fire and all other perils insured under a comprehensive \"all risk\" policy, pertaining specifically to the tower and other enhancements situated at the Cell Site(s). This coverage is intended to offer protection against unforeseen expenses that may arise from such events.",
+    "contradiction_score": 0.7496852874755859,
+    "kept": true
+  },
+  {
+    "clause_index": 170,
+    "start_char": 97722,
+    "end_char": 98139,
+    "original": "(v) Umbrella/Excess Liability insurance with limits of at least $10,000,000 each occurrence, claim or wrongful act with terms and conditions at least as broad as the underlying Commercial General Liability, Business Automobile Liability, and Employers Liability policies. Umbrella/Excess Liability limits will be primary and non-contributory with respect to any insurance or self-insurance that is maintained by AT&T.",
+    "ollama_generated": "(v) Umbrella/Excess Liability insurance with coverage of at least $10,000,000 per incident, claim, or act of negligence, offering terms and conditions no less comprehensive than those of the base Commercial General Liability, Business Automobile Liability, and Employers Liability policies. In instances where AT&T maintains any insurance or self-insurance, the Umbrella/Excess Liability coverage will operate on a secondary basis, with no obligation to contribute towards claims until the primary insurance or self-insurance limits have been exhausted.",
+    "contradiction_score": 0.46136757731437683,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 98139,
+    "end_char": 98260,
+    "original": "(vi) Professional Liability (Errors & Omissions) insurance with limits of at least $5,000,000 each claim or wrongful act.",
+    "ollama_generated": "(vii) Errors & Omission Insurance coverage, providing a minimum limit per occurrence and act of negligence of $5,000,000, with the understanding that the insured may elect to carry lower limits at their discretion. [This clause allows for potential flexibility in insurance coverage.]",
+    "contradiction_score": 0.05931103602051735,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 176,
+    "start_char": 99201,
+    "end_char": 102015,
+    "original": "3.19 Invoicing and Payment (a) Promptly after Location Acceptance, Vendor will render an invoice in duplicate to AT&T with respect to the applicable Cell Site. Such invoice for such Cell Site shall be consistent with the AT&T purchase order and detail the Material, Deliverables and Services provided for such Cell Site. The Vendor invoice must specify in detail, if applicable, (i) quantities of each item of Material, Deliverable, and Services, (ii) prices of each item of Material, Deliverable, and Services, (iii) whether the item is taxable and the amount of tax per item, (iv) total amounts for each item, (v) total amount of applicable sales or use taxes, (vi) discounts, if any, (vii) shipping charges, if any, (viii) total amount due, (ix) remit to address, (x) description of Material, Deliverables, and Services, and (xi) special service charges, if any. Each invoice shall specifically reference that the invoice will be paid in accordance with the terms set forth in this Agreement and all payments for amounts due on such invoice for Material, Deliverables, and Services provided under the Build Addendum will be made in accordance with the Structured Payments Schedule attached as Schedule 3 to the Build Addendum. AT&T will promptly review such invoice and, unless AT&T disputes in good faith the amounts set forth therein, will promptly acknowledge that the Structured Payment set forth therein is due in accordance with the terms of this Agreement and the Build Addendum. In the event that AT&T disputes in good faith any amounts set forth in any such invoice, AT&T shall give written notice of such disputed amounts to Vendor prior to the due date of the first Structure Payment set forth in such invoice. Vendor will provide a payment request to AT&T on a monthly basis on the first day of each calendar month for the Structured Payments set forth in the Build Addendum and the Maintenance Fees set forth in the Maintenance Addendum, in each case as provided in the respective addendum. AT&T shall pay Vendor no later than sixty (60) days after receipt of such monthly payment request for Structured Payments. AT&T shall pay, or provide a written notice of any good faith dispute to, Vendor no later than ninety (90) days after receipt of an invoice for Maintenance Fees. Any dispute of an invoice for Maintenance Fees shall be made by AT&T in good faith and shall set forth in writing a detailed description of the disputed amounts and the reason for such dispute. Notwithstanding any good faith dispute, AT&T shall pay all undisputed amounts in full to Vendor no later than the due date for such invoice. Invoices received by AT&T more than one (1) year after the Delivery of Material and Deliverables or the provision of Services are untimely and AT&T has no obligation to pay such invoices.",
+    "ollama_generated": "3.19 Invoice Submission and Payment\n\n(a) Following AT&T's Acceptance of Location, the Vendor shall submit two identical invoices to AT&T for the applicable Cell Site. These invoices should reflect the terms outlined in the AT&T Purchase Order and clearly outline the Material, Deliverables, and Services provided for that specific Cell Site. The Vendor's invoice should specify, where applicable:\n\n   (i) Quantities of each item of Material, Deliverable, and Service;\n   (ii) Prices for each item of Material, Deliverable, and Service;\n   (iii) Tax status and the tax amount per item, if applicable;\n   (iv) Total amounts for each item;\n   (v) Total amount of sales or use taxes;\n   (vi) Any discounts applied;\n   (vii) Shipping charges, if applicable;\n   (viii) The total amount due;\n   (ix) The remit to address;\n   (x) Descriptions of Material, Deliverables, and Services;\n   (xi) Special service charges, if any.\n\nEach invoice should clearly state that payment will be made in accordance with the terms set out in this Agreement, and all payments for amounts due on such invoices for Material, Deliverables, and Services provided under the Build Addendum will follow the Structured Payments Schedule as outlined in Schedule 3 of the Build Addendum.\n\nAT&T will review the invoice promptly, and unless AT&T disputes, in good faith, the amounts stated therein, AT&T will acknowledge that the payment structure set out in the invoice is due in accordance with this Agreement and the Build Addendum. If AT&T has any good faith disputes about the amounts listed on an invoice, it must provide written notice to the Vendor before the due date of the first Structured Payment specified in the invoice.\n\nThe Vendor will submit a payment request to AT&T on a monthly basis, on the first day of each calendar month, for the Structured Payments outlined in the Build Addendum and the Maintenance Fees outlined in the Maintenance Addendum. AT&T must pay the Vendor no later than sixty (60) days after receipt of such payment request for Structured Payments. For invoices related to Maintenance Fees, AT&T must either pay the Vendor or provide written notice of any good faith dispute within ninety (90) days of receiving the invoice. Any dispute about a Maintenance Fee invoice must be made in good faith and should detail the disputed amounts and the reason for the dispute. Despite any good faith dispute, AT&T will pay all undisputed amounts to the Vendor on or before the due date for that invoice.\n\nAny invoices received by AT&T more than one (1) year after the Delivery of Materials and Deliverables, or the provision of Services, are considered late and AT&T has no obligation to pay such invoices.",
+    "contradiction_score": 0.01769047975540161,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 102140,
+    "end_char": 102433,
+    "original": "(c) Vendor agrees to accept standard, commercial methods of payment and evidence of payment obligations, including, but not limited to, credit card payments, purchasing card payments, AT&T\u2019s purchase orders, and electronic fund transfers, in connection with any amounts owed by AT&T hereunder.",
+    "ollama_generated": "(c) It is understood that AT&T may elect to utilize various standard, commercial methods of payment for any amounts due under this Agreement. The Vendor's responsibility shall include, but not be limited to, accepting and processing credit card payments, purchasing card payments, electronic fund transfers, and AT&T purchase orders as designated by AT&T.",
+    "contradiction_score": 0.006294249091297388,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 190,
+    "start_char": 109175,
+    "end_char": 109417,
+    "original": "Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Confidentiality and Intellectual Property: The details encompassed within this Agreement, as well as any accompanying information, shall be exclusively shared among AT&T, its Affiliates, and authorized third-party representatives. Any disclosure to Vendor or any external entity requires prior written consent from both contracting parties.",
+    "contradiction_score": 0.005156141240149736,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 195,
+    "start_char": 110864,
+    "end_char": 111205,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 (ii) If a Notice is sent by e-mail, upon successful transmission to the recipient\u2019s email account, if such Notice is sent in time to allow it to be accessible by the Addressee before the time allowed for giving such Notice expires, and a confirmation copy is sent by one of the other methods.",
+    "ollama_generated": "Clause:\nSource: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 (ii) A Notice delivered via email shall be considered valid if it is successfully transmitted to the recipient's email account, with no guarantee that the Addressee will access it before the time allowed for giving such Notice expires. However, our responsibility is fulfilled once the transmission is successful; any subsequent failure on the part of the Addressee to retrieve the Notice does not invalidate its validity.\n\nThis revised clause weakens the obligation on ATN International, Inc., by stating that they are only responsible for successfully transmitting the email, but do not guarantee accessibility before the expiration of the time allowed for giving such Notice. The responsibility for retrieving and reading the notice lies with the Addressee.",
+    "contradiction_score": 0.04832926020026207,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 201,
+    "start_char": 114380,
+    "end_char": 114569,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 include any Items produced by Vendor for its own use in connection with performance of the Services and for which AT&T has not been charged.",
+    "modified": "Clause:\nSource: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 excludes any Items used by Vendor in connection with the performance of the Services for which AT&T has been previously charged.\n\nExplanation: The original clause states that AT&T does not include items produced by the vendor but not charged for in their 10-Q report. The rewritten clause now excludes items used by the vendor and already charged to AT&T from the same report. This shifts responsibility, as AT&T will no longer account for items they have already paid for.",
+    "contradiction_score": 0.9817069172859192,
+    "kept": true
+  },
+  {
+    "clause_index": 202,
+    "start_char": 114569,
+    "end_char": 115263,
+    "original": "(b) License Grant to AT&T. Vendor hereby grants and promises to grant and have granted to AT&T and its Affiliates a royalty-free, nonexclusive, sublicensable, assignable, transferable, irrevocable, perpetual, world- wide license in and to any applicable Intellectual Property Rights of Vendor to use, copy, modify, distribute, display, perform, import, make, sell, offer to sell, and exploit (and have others do any of the foregoing on or for AT&T\u2019s or any of its customers\u2019 behalf or benefit) any Intellectual Property Rights of Vendor or any third party that are not included in Material or Paid-For Development but necessary to operate the Cell Sites or receive the full benefit of the Work.",
+    "ollama_generated": "(b) License Concession to AT&T. Vendor hereby concedes and agrees to concede and has already conceded to AT&T and its Affiliates a non-royalty, non-exclusive, assignable, transferable, irrevocable, perpetual, worldwide license in and to any applicable Intellectual Property Rights of the Vendor, with the right to sublicense, for AT&T and its customers to use, reproduce, modify, distribute, display, perform, import, manufacture, market, sell, offer for sale, and exploit (and to permit others to do the same on or for AT&T's behalf) any Intellectual Property Rights of Vendor or any third party that are not encompassed within the Material or Paid-For Development but are essential for the operation of the Cell Sites or to fully enjoy the benefits derived from the Work. However, this license shall not extend to any Intellectual Property Rights owned by third parties unless such use is explicitly authorized by the rightful owner.",
+    "contradiction_score": 0.11040163785219193,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 203,
+    "start_char": 115263,
+    "end_char": 115962,
+    "original": "(c) Further Acts and Obligations . Vendor will take or secure such action (including, but not limited to, the execution, acknowledgment, delivery and assistance in preparation of documents or the giving of testimony) as may be reasonably requested by AT&T to evidence, transfer, perfect, vest or confirm AT&T\u2019s right, title and interest in any Paid-For Development. Vendor shall, in all events and without the need of AT&T\u2019s request, secure all Intellectual Property Rights in any Paid-For Development (and any licenses specified above) from each employee, agent, Subcontractor or sub-contractor of Vendor who has or will have any rights in the Paid- For Development or Intellectual Property Rights.",
+    "modified": "(c) Additional Actions and Responsibilities. The Purchaser shall be entitled to request, at its sole discretion, that Supplier performs actions (such as but not limited to, executing, acknowledging, delivering, or assisting in the preparation of documents, or providing testimony) deemed necessary for the verification, transfer, perfection, vesting, or confirmation of Purchaser's right, title, and interest in any Paid-For Development. The Supplier, on its own initiative and without the need for Purchaser's request, shall secure all Intellectual Property Rights in any Paid-For Development (and any specified licenses) from each employee, agent, Subcontractor, or sub-contractor who may have or acquire any rights in the Paid-For Development or Intellectual Property Rights. This obligation remains binding on Supplier regardless of whether the intellectual property was developed before or after this agreement's effective date.",
+    "contradiction_score": 0.9627892971038818,
+    "kept": true
+  },
+  {
+    "clause_index": 218,
+    "start_char": 123239,
+    "end_char": 123841,
+    "original": "(c) AT&T Audits may be conducted once a year (or more frequently if requested by governmental authorities who regulate AT&T\u2019s business, if required by applicable Law or if auditors require follow-up access to complete audit inquiries or if an audit uncovers any problems or deficiencies), upon at least ten (10) business days advance notice (unless otherwise mandated by Law) and during business hours. Vendor will cooperate, and will ensure that its Subcontractors cooperate, in the AT&T Audits, and will make the information reasonably required to conduct the AT&T Audits available on a timely basis.",
+    "ollama_generated": "(c) The Vendor hereby grants AT&T the right to conduct annual audits (or as frequently as necessary, at AT&T's discretion, whether prompted by governmental authorities, legal requirements, auditor requests for follow-up access, or discovered issues during prior audits), providing a reasonable notice period (which may be waived by AT&T in cases of emergency or regulatory compliance). These audits shall take place during the Vendor's business hours, unless otherwise specified. The Vendor and its Subcontractors will comply with these audit requests to the fullest extent possible, and will make all necessary information available to AT&T's auditors in a timely manner. However, the Vendor reserves the right to challenge any request for information that it deems excessive or irrelevant to the audit at hand.",
+    "contradiction_score": 0.021657753735780716,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 221,
+    "start_char": 124321,
+    "end_char": 125173,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 (e) Vendor will maintain and retain the records set forth in Subsection (a) during the term of the Agreement and for three (3) years thereafter (unless a discovery or legal hold request is made with respect to such records, in which case Vendor shall retain such records until AT&T notifies Vendor that such discovery or legal hold request has expired). Vendor will provide AT&T, at AT&T\u2019s request and cost, with paper and electronic copies of documents and information reasonably necessary to verify Vendor\u2019s compliance with this Agreement. Upon notification by AT&T of a discovery or legal hold request, Vendor shall fully cooperate with such request and immediately preserve any Vendor records covered by such request and promptly provide such Vendor records requested by AT&T related to the inquiry.",
+    "ollama_generated": "Clause:\nSource: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 (e) The Vendor shall be responsible for maintaining and preserving all records as specified in Subsection (a), throughout the Agreement's duration and for a period of three (3) years thereafter. However, if a discovery or legal hold request is made pertaining to these records, the Vendor may dispose of them, unless directed otherwise by AT&T. The Vendor will make available, upon AT&T's request and expense, copies of documents and information that are necessary for verifying the Vendor's compliance with this Agreement. Upon receiving notification from AT&T regarding a discovery or legal hold request, the Vendor shall respond in a timely manner but is not obligated to fully cooperate unless specifically instructed by AT&T.",
+    "contradiction_score": 0.2483881115913391,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 222,
+    "start_char": 125173,
+    "end_char": 125734,
+    "original": "(f) Except as provided in Subsection (d), all reasonable out-of-pocket costs and expenses incurred by AT&T in connection with an AT&T Audit shall be paid by AT&T. Vendor shall be solely responsible for all costs and expenses incurred by Vendor in connection with its obligations under this Section. In the event that either Party requires that an audit be performed by an independent auditor, unless otherwise specified herein, the Party requesting such independent auditor will be responsible for the costs and expenses associated with the independent auditor.",
+    "modified": "(f) As stipulated in Subsection (d), all out-of-pocket costs and expenses incurred by Vendor during a Vendor Audit, unless explicitly specified otherwise, will be borne by Vendor. AT&T shall only bear the reasonable out-of-pocket costs and expenses related to an AT&T Audit that are not expressly covered under this Section. In case either Party necessitates an audit conducted by a third-party auditor, it is AT&T who will assume the financial responsibility for the associated costs and expenses of the independent auditor, unless otherwise stated herein.",
+    "contradiction_score": 0.5955680012702942,
+    "kept": true
+  },
+  {
+    "clause_index": 231,
+    "start_char": 129467,
+    "end_char": 130258,
+    "original": "3.35 Survival of Obligations . Obligations and rights under this Agreement that by their nature would reasonably continue beyond the termination or expiration of this Agreement (including those in the Sections entitled \u201cCompliance with Laws,\u201d \u201cConstruction and Interpretation,\u201d \u201cCumulative Remedies,\u201d \u201cEntire Agreement,\u201d \u201cGoverning Law,\u201d \u201cInformation,\u201d \u201cIndemnity,\u201d \u201cInfringement,\u201d \u201cInsurance,\u201d \u201cLimitation of Damages,\u201d \u201cOrder of Precedence,\u201d \u201cOwnership of Paid-For Development, Use and Reservation of Rights,\u201d \u201cPublicity,\u201d \u201cSeverability,\u201d \u201cAT&T Supplier Information Security Requirements (SISR),\u201d \u201cWarranty,\u201d \u201cCustomer Information,\u201d \u201cDispute Resolution\u201d and the representations, warranties, indemnities and Termination Remedies) will survive the termination or expiration of this Agreement.",
+    "ollama_generated": "3.35 Persistence of Obligations Post-Termination. Upon termination or expiration of this Agreement, any obligations and rights arising from this Agreement that by their nature are intended to persist beyond such event (specifically those in the Sections titled \"Compliance with Laws,\" \"Construction and Interpretation,\" \"Cumulative Remedies,\" \"Entire Agreement,\" \"Governing Law,\" \"Information,\" \"Indemnity,\" \"Infringement,\" \"Insurance,\" \"Limitation of Liability,\" \"Order of Precedence,\" \"Ownership of Paid-For Development, Use and Reservation of Rights,\" \"Publicity,\" \"Severability,\" \"AT&T Supplier Information Security Requirements (SISR),\" \"Warranty,\" \"Customer Data Protection,\" \"Dispute Settlement Procedures,\" and the representations, warranties, indemnities, and Termination Consequences) will continue to bind the parties post-termination or expiration.",
+    "contradiction_score": 0.0024315405171364546,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 241,
+    "start_char": 135720,
+    "end_char": 136083,
+    "original": "(g) If either Party is audited by a taxing authority or other governmental entity in connection with taxes under this Section 3 .36, the other Party shall reasonably cooperate with the Party being audited in order to respond to any audit inquiries in an appropriate and timely manner, so that the audit and any resulting controversy may be resolved expeditiously.",
+    "modified": "(g) In the event that either Party is subjected to an audit by a taxing authority or other governmental entity regarding taxes pertinent to this Section 3 .36, the audited Party reserves the right to seek independent legal counsel and advice before responding to any inquiry, with the expectation that the cooperating Party will provide reasonable assistance, as requested, to facilitate the response process. The Party providing assistance shall not be obligated to expedite the resolution of the audit or any subsequent dispute without prior written consent.",
+    "contradiction_score": 0.9219086170196533,
+    "kept": true
+  },
+  {
+    "clause_index": 245,
+    "start_char": 137418,
+    "end_char": 137590,
+    "original": "(b) Termination for Convenience \u2013 This Agreement, the Build Addendum and the Maintenance Addendum may not be terminated by either Party at any time for its own convenience.",
+    "modified": "(b) Termination at Will - Either Party shall have the right to terminate this Agreement, the Build Addendum, and the Maintenance Addendum with immediate effect and without cause upon providing written notice to the other party. This termination provision allows for either Party to end the agreement at any time that is convenient for them.",
+    "contradiction_score": 0.9984793066978455,
+    "kept": true
+  },
+  {
+    "clause_index": 249,
+    "start_char": 140357,
+    "end_char": 141778,
+    "original": "(iii) If (1) Vendor (A) receives a notice of default (or similar breach or violation) and has not cured such default (or similar breach or violation) within thirty (30) days from the receipt of such notice or (B) is in default under any credit facility or other financing arrangement, (2) any Vendor credit facility or other financing arrangement has been terminated or suspended (other than by Vendor or as a result of an expiration in accordance with its terms) or (3) Vendor no longer has access to funding under any credit facility or other financing arrangement required by Vendor to fulfill its obligations to AT&T under this Agreement, the Master License Agreement, the Transport Agreement and the Roaming Agreement (as such term is defined in the Build Addendum), then Vendor shall promptly, but no later than one (1) business day following Vendor\u2019s receipt of notice of any such event, notify AT&T of such event and in addition to all other rights and remedies at law or in equity or otherwise, AT&T shall have the right upon written notice to immediately terminate AT&T\u2019s obligations under this Agreement or the Build Addendum or Maintenance Addendum, as applicable, and exercise all Termination Remedies set forth in the Build Addendum\u037e provided , that prior to exercising such termination right, AT&T shall enter into good faith discussions with Vendor to determine if Vendor can obtain alternative financing.",
+    "ollama_generated": "(iii) If (1) AT&T issues a notice of potential issue (or similar concern regarding compliance or performance) and Vendor (A) fails to address such issue within thirty (30) days from the receipt of such notice or (B) is in non-compliance under any credit facility or other financing arrangement, (2) any AT&T credit facility or other financing arrangement has been suggested for modification or adjustment (other than by Vendor or as a result of an expiration in accordance with its terms) or (3) AT&T finds it necessary to seek alternative funding sources due to Vendor's inability to meet its obligations under this Agreement, the Master License Agreement, the Transport Agreement, and the Roaming Agreement (as such term is defined in the Build Addendum), then AT&T shall have the right, upon providing written notice, to initiate discussions with Vendor regarding potential adjustments to the terms of this Agreement or the Maintenance Addendum, as applicable. If these discussions prove unsuccessful, AT&T may exercise all Termination Remedies set forth in the Build Addendum; provided, however, that prior to exercising such termination right, AT&T shall give Vendor a reasonable opportunity to demonstrate its ability to secure alternative financing or comply with AT&T's concerns.",
+    "contradiction_score": 0.44998085498809814,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 255,
+    "start_char": 144976,
+    "end_char": 145576,
+    "original": "(g) Termination Charges \u2013 AT&T shall not be liable for any termination charges (or any charges for any Material or Services already ordered or performed at the time of termination) in any case when any termination results from a termination right granted to AT&T in this Agreement\u037e provided that AT&T shall remain obligated to make Structured Payments with respect to any Cell Sites that have reached Location Acceptance prior to the effective date of such termination and pay any Maintenance Fees for Services performed under the Maintenance Addendum prior to the effective date of such termination.",
+    "ollama_generated": "(g) Termination Liabilities \u2013 The Customer shall bear all termination liabilities (or any charges for any Materials or Services already ordered, initiated, or in progress at the time of termination), except when termination is prompted by a right granted to the Customer under this Agreement. However, it is understood that AT&T will continue to fulfill Structured Payment obligations for any Cell Sites that have been accepted at their locations prior to the effective date of such termination. Moreover, AT&T shall be responsible for paying any Maintenance Fees for Services rendered under the Maintenance Addendum before the termination's effective date.",
+    "contradiction_score": 0.16640757024288177,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 258,
+    "start_char": 147709,
+    "end_char": 147935,
+    "original": "3.38 Third Party Administrative Services (a) Vendor acknowledges that a third party administrator will perform certain administrative functions for AT&T in relation to this Agreement. Such administrative functions may include:",
+    "ollama_generated": "3.38 Third-Party Administrative Services (b) AT&T acknowledges the involvement of a third-party administrator, who shall be responsible for executing specific administrative tasks related to this Agreement. The following duties might be delegated:\n\nThis shift in language emphasizes that AT&T is aware of the third party's role and explicitly states their responsibility in handling certain administrative functions, as opposed to the original clause where the Vendor acknowledges it.",
+    "contradiction_score": 0.2702593505382538,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 264,
+    "start_char": 150993,
+    "end_char": 151410,
+    "original": "3.41 Title To Material Furnished by AT&T . Title to material furnished by AT&T under this Agreement shall at all times be in AT&T\u2019s name. Vendor assumes full responsibility for any loss or damage to such material while material is in Vendor\u2019s or its Subcontractor\u2019s possession or control and shall be liable for the full value of the material (which shall include AT&T\u2019s acquisition cost plus all taxes and shipping).",
+    "modified": "3.41 Title to Material Provided by Vendor: The title to materials provided by the Vendor under this Agreement will always remain with the Vendor. AT&T assumes full responsibility for any loss or damage to such material while it is in AT&T's possession or control, and will compensate the Vendor for the full value of the material (which shall include the Vendor's acquisition cost plus all taxes and shipping). The Vendor will have no liability for any diminished value of the material due to normal wear and tear during the course of its use.\n\nThis revised clause shifts the responsibility for loss or damage to the material from the Vendor to AT&T while in their possession, and also relieves the Vendor from liability for any decrease in the material's value due to normal usage.",
+    "contradiction_score": 0.6964525580406189,
+    "kept": true
+  },
+  {
+    "clause_index": 265,
+    "start_char": 151410,
+    "end_char": 151617,
+    "original": "Vendor shall not allow or permit any Lien to be placed upon or otherwise encumber any AT&T Provided Equipment or other assets, properties or rights owned, operated or leased by AT&T or any of its Affiliates.",
+    "ollama_generated": "The Vendor acknowledges and agrees that no action shall be taken, nor any right, title, or interest be asserted, to encumber or place a lien on any Equipment provided by AT&T, or on any other assets, properties, or rights owned, operated, or leased by AT&T or its Affiliates. Any such action by the Vendor shall be the sole responsibility of the Vendor, who will indemnify and hold harmless AT&T and its Affiliates against any losses, claims, damages, or expenses arising therefrom.",
+    "contradiction_score": 0.019260456785559654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 271,
+    "start_char": 154668,
+    "end_char": 155146,
+    "original": "(b) By the tenth day following the close of each calendar month, Vendor shall, in a format and manner acceptable to AT&T, report actual results of its efforts to meet the goals set forth in the applicable participation plan during the preceding calendar month. When reporting results, Vendor shall count only expenditures with entities that are certified as MBE, WBE, or DVBE firms by third party certifying agencies recognized by AT&T, as listed on http://www.attsuppliers.com.",
+    "ollama_generated": "(b) Upon receipt of a request from AT&T, within fifteen business days following the end of each calendar month, the Vendor will provide, in a format and manner acceptable to AT&T, a detailed report of their ongoing efforts towards achieving the objectives outlined in the specified participation plan for the preceding calendar month. For this reporting purpose, the Vendor shall include only expenditures made with entities that are certified as MBE, WBE, or DVBE firms by third-party certifying agencies recognized by AT&T, which can be found at <http://www.attsuppliers.com>. This reporting requirement does not bind the Vendor to consistently meet the set goals but aims to facilitate transparency and understanding of their progress in this regard.",
+    "contradiction_score": 0.011017986573278904,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 280,
+    "start_char": 160532,
+    "end_char": 162702,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 obligations under this Agreement and Vendor will immediately notify AT&T if, during the Term, Vendor becomes aware of any such action, suit, or proceeding\u037e (v) Vendor has, as of the Effective Date, and will continue to have during the Term of the Build Addendum or Maintenance Addendum, as applicable, all necessary skills, rights, and financial resources (including any required binding commitments for financing from third Persons) applicable to such obligations then in effect, and authority to enter into this Agreement, the Build Addendum or the Maintenance Addendum, including the authority to provide or license the Material or Services, and satisfy all of its obligations hereunder and thereunder\u037e (vi) As of the Effective Date, no third party claim has been alleged against Vendor that any Material and Services provided hereunder infringes upon such third party\u2019s intellectual property rights and Vendor will immediately notify AT&T if, during the Term, Vendor becomes aware of any such third party claim\u037e (vii) No consent, approval, or withholding of objection is required from any entity, including any governmental authority, with respect to the entering into or the performance of this Agreement, the Build Addendum or the Maintenance Addendum\u037e (viii) At the time of Location Acceptance (or, if later, at the time of Delivery), the Material and Services will be provided free of any Lien of any kind\u037e (ix) Vendor will be fully responsible and liable for all acts, omissions, and Work performed by any of its representatives, including any Subcontractors\u037e (x) All representatives, including Subcontractors, will strictly comply with the provisions specified in this Agreement and all applicable Laws\u037e (xi) Vendor will strictly comply with the terms of this Agreement, the Build Addendum and the Maintenance Addendum, including those specified in any exhibits, schedules or appendices attached hereto or thereto\u037e and (xii) All Material provided to AT&T hereunder shall be tested by or on behalf of Vendor prior to installation and prior to Location Acceptance to ensure its compliance with the Specifications.",
+    "modified": "1. OBLIGATIONS AND NOTIFICATION: ATN INTERNATIONAL, INC. acknowledges that it is solely responsible for ensuring compliance with this Agreement during the Term, and shall promptly notify Vendor of any action, suit, or proceeding that may impact its obligations.\n\n2. SKILLS, RIGHTS, AND RESOURCES: As of the Effective Date, and throughout the term of either the Build Addendum or Maintenance Addendum, as applicable, Vendor affirms it has all necessary skills, rights, and resources (including any binding commitments for financing from third parties) required to fulfill its obligations under this Agreement, the Build Addendum, or the Maintenance Addendum.\n\n3. THIRD-PARTY CLAIMS: As of the Effective Date, no third party claim has been made against Vendor that any Material or Service provided hereunder infringes upon their intellectual property rights. Vendor will promptly notify AT&T if it becomes aware of any such third-party claim during the Term.\n\n4. CONSENT, APPROVAL, AND OBJECTIONS: Obtaining consent, approval, or withholding objection from any entity, including governmental authorities, is not required for the entering into or performance of this Agreement, the Build Addendum, or the Maintenance Addendum.\n\n5. LIEN-FREE MATERIAL AND SERVICES: At the time of Location Acceptance (or Delivery, if later), Materials and Services will be delivered free from any lien of any kind.\n\n6. SUBCONTRACTOR RESPONSIBILITY: Vendor assumes full responsibility and liability for all acts, omissions, and work performed by its representatives, including any Subcontractors.\n\n7. COMPLIANCE BY REPRESENTATIVES AND SUBCONTRACTORS: All representatives, including Subcontractors, will strictly adhere to the provisions specified in this Agreement and all applicable Laws.\n\n8. COMPLIANCE WITH AGREEMENT: Vendor acknowledges its obligation to comply with the terms of this Agreement, the Build Addendum, and the Maintenance Addendum, including any exhibits, schedules, or appendices attached hereto or thereto.\n\n9. PRE-INSTALLATION AND ACCEPTANCE TESTING: All Material provided to AT&T hereunder will be tested by or on behalf of Vendor prior to installation and prior to Location Acceptance to ensure its compliance with the Specifications. This testing requirement does not relieve Vendor of its obligation to deliver compliant Materials and Services upon installation and acceptance.",
+    "contradiction_score": 0.6166595816612244,
+    "kept": true
+  },
+  {
+    "clause_index": 284,
+    "start_char": 165094,
+    "end_char": 165474,
+    "original": "(e) If a breach of warranty for which Vendor is responsible has not been corrected within a commercially reasonable time, and such breach has caused material and irreparable damage and harm to AT&T, then upon thirty (30) days\u2019 notice to Vendor, AT&T may terminate this Agreement with respect to the applicable Cell Site(s) without further liability to Vendor for those Cell Sites.",
+    "modified": "(e) In the event that a warranty issue arising from the responsibility of the Vendor persists beyond a commercially reasonable period, and such persistence results in material and irreparable harm or damage to AT&T, AT&T reserves the right, upon providing thirty (30) days' notice to the Vendor, to suspend or terminate this Agreement pertaining to the applicable Cell Site(s), without incurring any additional liability towards the Vendor for those specific Cell Sites. The Vendor shall bear responsibility for any damages or losses that AT&T may incur as a result of this termination.",
+    "contradiction_score": 0.5098305344581604,
+    "kept": true
+  },
+  {
+    "clause_index": 295,
+    "start_char": 170951,
+    "end_char": 171193,
+    "original": "Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Confidentiality and Intellectual Property: Information exchanged under this Agreement is strictly confidential and intended solely for use within AT&T, its Affiliates, and designated third-party representatives. Any disclosure of such information to Vendor or others requires prior written consent from all contracting parties.",
+    "contradiction_score": 0.005641850642859936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 307,
+    "start_char": 179643,
+    "end_char": 180088,
+    "original": "(ii) Comply with the obligations of Subsection (a)(i)(1) above by a Background Check, including credit history, employment history, driving records and criminal history (\u201cBackgrou nd C heck\u201d) of applicable records for those counties, states, and federal court districts in which a proposed Vendor Person has identified as having resided, worked, or attended school in the previous ten (10) years, unless a shorter period is required by any Laws.",
+    "ollama_generated": "(ii) A Vendor Person's failure to provide a comprehensive Background Check, encompassing credit history, employment history, driving records, and criminal history (\"Background Check\"), for any locations where they have resided, worked, or attended school within the past ten (10) years, shall not be deemed as compliance with the obligations outlined in Subsection (a)(i)(1), unless a longer period is explicitly mandated by Laws. This stipulation does not absolve the Vendor Person from their responsibility to conduct and provide such a check for any periods shorter than ten years, should such a requirement arise under relevant laws.",
+    "contradiction_score": 0.11110547930002213,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 317,
+    "start_char": 183524,
+    "end_char": 184274,
+    "original": "4.7 Damage to Property . Vendor assumes full responsibility for any damage or loss to AT&T\u2019s property that may be caused by or result from any tortious act or omission of Vendor or any person employed by or under contract with Vendor. In the event of such damage, AT&T may elect to have repairs made by Vendor, by AT&T personnel, or by other contractors. In the event AT&T shall elect to have Vendor repair the damage, Vendor shall promptly do so, at its own expense and to AT&T\u2019s satisfaction. In the event Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "4.7 Damage to Property: In the event that damage or loss occurs to the property of AT&T as a result of negligent actions or inactions on the part of Vendor, or any individual hired by or associated with Vendor, Vendor shall bear the entire liability. However, AT&T retains the discretion to opt for repairs either by its own personnel, external contractors, or requesting Vendor to undertake the repairs. Should AT&T choose the latter option, Vendor will be expected to perform the repairs promptly, at their own expense, and to a standard satisfactory to AT&T.\n\nRegarding confidentiality, it is explicitly stated that this Agreement and any related information should not be shared or disclosed beyond the scope of AT&T, its affiliates, and third-party representatives, unless express written consent has been obtained from both parties prior to such disclosure.",
+    "contradiction_score": 0.014129864983260632,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 322,
+    "start_char": 185008,
+    "end_char": 185201,
+    "original": "(i) The contact persons of both Parties shall work in good faith to try to resolve the dispute within twenty (20) days from the date that a Party first gives notice that a dispute has occurred.",
+    "ollama_generated": "(ii) In the event of a disagreement, it is recommended, although not binding, that the designated representatives of each Party endeavor in goodwill to seek a resolution within a timeframe of twenty (20) days following the initial notification by either Party of the dispute. The failure to reach an agreement does not absolve either party from their contractual obligations.",
+    "contradiction_score": 0.014248281717300415,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 325,
+    "start_char": 186328,
+    "end_char": 186729,
+    "original": "(c) Locale . The hearings shall be held at a mutually agreed upon location within the United States at which the Parties may present evidence (including, without limitation, witnesses and documentation) and argument in support of their respective positions. If the Parties cannot agree upon an arbitration location within 3 business days, the arbitration shall be conducted in New York City, New York.",
+    "ollama_generated": "(c) Venue Selection . The hearings shall initially be scheduled for a mutually convenient city within the United States, at which either Party may propose an initial location. If no agreement is reached within 3 business days, the arbitration proceedings shall default to New York City, New York, with the responsibility of choosing a suitable venue falling upon the Party who failed to suggest a location in a timely manner. Each Party shall have the right to present evidence (including, without limitation, witnesses and documentation) and argument in support of their respective positions at the designated venue.",
+    "contradiction_score": 0.09973153471946716,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 328,
+    "start_char": 187556,
+    "end_char": 187882,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 (e) Continuation of Service Pending Arbitration. Vendor and AT&T will continue to provide all Services and honor all other commitments under this Agreement in accordance with this Agreement during the course of resolution of disputes and arbitration pursuant to this Agreement.",
+    "ollama_generated": "Clause:\nSource: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 (e) Arbitration with Ongoing Service Provision. Vendor acknowledges and agrees that, during the course of arbitration initiated under this Agreement, it shall continue to provide all Services in accordance with this Agreement but without any additional commitments beyond those explicitly stated herein. AT&T's obligations under this Agreement remain unchanged.\n\nIn other words, the vendor is responsible for maintaining service provision during the arbitration process, but AT&T is not obligated to provide any additional commitments beyond what is already agreed upon in the contract.",
+    "contradiction_score": 0.010786588303744793,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 330,
+    "start_char": 188428,
+    "end_char": 188496,
+    "original": "(b) The following additional conditions apply to any such exchanges:",
+    "modified": "(b) In the context of any such exchanges, the following supplementary provisions shall be observed:\n\nThe Seller shall bear no responsibility for any unforeseen contingencies or issues arising during the exchange process, unless explicitly agreed otherwise in writing.\n\nIn the event that such unforeseen circumstances occur and necessitate a pause or termination of the exchange, the Buyer shall have the discretion to either: (i) resume the exchange at a later date mutually agreed upon by both parties; or (ii) cancel the exchange without penalty, provided the Seller is notified within a reasonable timeframe.\n\nIn the absence of mutual agreement regarding the resumption or cancellation of the exchange, the Seller shall retain the right to proceed with the originally planned exchange at their sole discretion.",
+    "contradiction_score": 0.7439244389533997,
+    "kept": true
+  },
+  {
+    "clause_index": 334,
+    "start_char": 189781,
+    "end_char": 190072,
+    "original": "(iv) Method of Exchange: Exchange of Data will be made by direct electronic or computer systems communication between AT&T and Vendor or by indirect communications using a third party service provider ( \u201cProvider\u201d) or Value Added Network (\u201cVAN\u201d) to translate, forward and/or store such Data.",
+    "ollama_generated": "(iv) Method of Data Transmission: The Vendor shall be responsible for transmitting Data to AT&T via direct electronic or computer systems communication. In the event that direct transmission is not feasible, the Vendor may utilize a third-party service provider ( \"Provider\") or Value Added Network (\"VAN\") as an intermediary for translation, forwarding, and/or storage of such Data. However, it is understood that the Vendor shall remain liable for ensuring the secure and timely transmission of Data at all times.",
+    "contradiction_score": 0.35384446382522583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 336,
+    "start_char": 190190,
+    "end_char": 190348,
+    "original": "(v) When the Parties are using EDI, the requirements of the EDI system will govern and will control if in conflict with any other provision of this Agreement.",
+    "ollama_generated": "(v) In cases where Electronic Data Interchange (EDI) is utilized by both Parties, it shall be recognized that the functioning aspects and guidelines of the selected EDI system hold precedence over any conflicting provisions within this Agreement. However, it is crucial to note that the EDI system's control will only apply when there is a disagreement with the terms specified in this Agreement; all other provisions that do not conflict shall remain intact and binding.",
+    "contradiction_score": 0.0021554671693593264,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 337,
+    "start_char": 190348,
+    "end_char": 190590,
+    "original": "Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "Disclosure Restrictions:\nThis Agreement and any information enclosed within it shall be strictly confined to use and disclosure among AT&T, its Affiliates, and authorized third-party representatives. Unauthorized sharing with Vendor or any external party is expressly forbidden unless explicitly approved in writing by all contracting parties prior to such disclosure.",
+    "contradiction_score": 0.0026456292252987623,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 340,
+    "start_char": 191682,
+    "end_char": 191999,
+    "original": "(ii) Vendor shall comply with all applicable Laws, including any notice requirements, regarding any Material ordered hereunder which contains or consists of a Regulated Substance or any Service ordered hereunder which involves the handling, use, storage, recycling, disposal or transportation of Regulated Substances.",
+    "ollama_generated": "(ii) The Purchaser acknowledges that it is responsible for ensuring compliance with all applicable Laws, including any notice requirements, pertaining to any Material ordered hereunder containing or consisting of a Regulated Substance, as well as any Service ordered hereunder involving the handling, use, storage, recycling, disposal, or transportation of Regulated Substances. The Vendor shall not bear any liability for non-compliance with such Laws by the Purchaser.",
+    "contradiction_score": 0.3931000828742981,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 346,
+    "start_char": 193972,
+    "end_char": 195236,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 that are regulated as (a) \u201chazardous material\u201d under the Hazardous Material Transportation Act and the Control of Radioactive Contamination Law, Title 8 of the California Code of Regulation, Section 5194, and the Hazardous Substances Information and Training Act, (b) \u201cchemical hazards\u201d under the Occupational Safety and Health Administration (OSHA) standards, (c) \u201cchemical substances and mixtures\u201d under the Toxic Substances Control Act and \u201cchemicals\u201d on the Governor\u2019s List known to the State of California to cause cancer, birth defects, and/or other reproductive harm, as that term is defined in the California Safe Drinking Water and Toxic Enforcement Act of 1986 (\u201cProposition 65\u201d), (d) \u201cpesticides\u201d under the Federal Insecticide, Fungicide and Rodenticide Act, and (e) \u201chazardous waste\u201d as defined or listed under the Resource Conservation and Recovery Act and the Hazardous Waste Control (ii) Vendor shall comply with all applicable Laws, including any notice requirements, regarding any Material ordered hereunder which contains or consists of a Regulated Substance or any Service ordered hereunder which involves the use, handling, storage, recycling, disposal or transportation of Regulated Substances.",
+    "ollama_generated": "Clause:\nSource: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 that may contain, handle, store, recycle, dispose, or transport materials or provide services that: (a) fall under the classification of \"hazardous material\" as defined by the Hazardous Material Transportation Act and the Control of Radioactive Contamination Law, Title 8 of the California Code of Regulation, Section 5194, and the Hazardous Substances Information and Training Act; (b) are considered \"chemical hazards\" under the Occupational Safety and Health Administration (OSHA) standards; (c) consist of \"chemical substances and mixtures\" as regulated by the Toxic Substances Control Act, or are included on the Governor\u2019s List of chemicals known to the State of California to cause cancer, birth defects, and/or other reproductive harm, according to the California Safe Drinking Water and Toxic Enforcement Act of 1986 (\u201cProposition 65\u201d); (d) are categorized as \"pesticides\" under the Federal Insecticide, Fungicide and Rodenticide Act; or (e) qualify as \"hazardous waste\" according to the Resource Conservation and Recovery Act and the Hazardous Waste Control Act.\n\nIn this agreement, Vendor shall have the discretion not to comply with any laws regulating these materials or services, except for emergency situations or when specifically required by applicable law. In such cases where compliance is necessary, Vendor will make reasonable efforts to comply with all applicable notice requirements and regulations regarding the handling, storage, recycling, disposal, or transportation of Regulated Substances.",
+    "contradiction_score": 0.06924881041049957,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 359,
+    "start_char": 201438,
+    "end_char": 201993,
+    "original": "4.15 Inspection of Work . AT&T may have inspectors at the Cell Sites to inspect the performance and quality of the Work and to ensure Vendor\u2019s compliance with the plans and Specifications and with the terms and conditions of this Agreement. Any AT&T inspectors, employees or agents, however, shall have no authority to direct or advise Vendor concerning the method or manner by which the Work is to be performed. Vendor has sole authority, responsibility and control over the Work and shall exercise its full responsibilities as an independent contractor.",
+    "modified": "4.15 Inspection of Work: The Vendor acknowledges and agrees that AT&T reserves the right to conduct periodic inspections at the Cell Sites for the purpose of evaluating the performance and quality of the Work, verifying compliance with the plans, Specifications, and this Agreement. Any observations or recommendations made by AT&T inspectors, employees, or agents during such inspections shall not be binding on the Vendor, and the Vendor is under no obligation to implement them unless required by law or contractual obligations. The Vendor retains sole discretion over the method and manner of Work performance and shall be solely responsible for any and all decisions regarding the execution of the Work, subject only to AT&T's right to withhold approval if such decisions deviate significantly from the plans, Specifications, or this Agreement.",
+    "contradiction_score": 0.7831751704216003,
+    "kept": true
+  },
+  {
+    "clause_index": 360,
+    "start_char": 201993,
+    "end_char": 204125,
+    "original": "4.16 Liens (a) At the time of Location Acceptance (or, if delivered thereafter, at the time of Delivery), the Work (including the Material and Services provided) shall be delivered to AT&T free and clear of all Liens of any kind. Following Location Acceptance of each Cell Site, if any Lien or notice of Lien is recorded or stop notice is served upon AT&T for or in connection with labor performed upon, or for or in connection with furnishing Material for use in, or for or in connection with furnishing appliances, teams or power contributing to, the Work (including without limitation Liens securing indebtedness for money borrowed or any obligations for the deferred purchase price of property or services related to or in connection with the Work), Vendor shall promptly discharge any such Liens and shall furnish AT&T with release vouchers or termination statements in settlement and satisfaction of such Liens in forms satisfactory to AT&T. If Vendor does not settle such a Lien or cause the Lien to be released and discharged within a reasonable period of time, not to exceed sixty (60) days after the Lien is filed or asserted, then AT&T shall have the right to procure the discharge of the Lien and, in such event, Vendor shall reimburse AT&T for all moneys paid by AT&T to procure the discharge, including costs and Attorneys\u2019 Fees. AT&T may require Vendor to prove payment of bills for Services, Material, or other things furnished or done for the performance of the Work, before making payment to the Vendor. AT&T may request at the time of Location Acceptance of each Cell Site that Vendor furnish an affidavit, stating that all bills in question have been paid in full, and that there are no outstanding claims, admitted or disputed, except as stated in the affidavit. AT&T may request that Vendor furnish receipts, release and Lien waivers, and Lien terminations releasing any Lien. AT&T reserves the right to pay any undisputed bill directly to such Person to whom it is owed and offset the amount (plus any other amounts permitted under this Section) pursuant to Section 3.22  against any amount payable to Vendor.",
+    "modified": "4.16 Liens (b) Upon completion of each Cell Site, Vendor shall be responsible for ensuring that all Liens, claims, or encumbrances (including but not limited to those securing indebtedness or obligations related to the Work) are discharged and released, unless otherwise agreed in writing by AT&T. Any failure by Vendor to discharge such Liens within a reasonable timeframe, not to exceed sixty (60) days from their assertion or filing, shall grant AT&T the authority to discharge them at Vendor's expense, with Vendor being liable for all costs, including Attorneys\u2019 Fees, incurred.\n\nAT&T may request proof of payment for Services, Materials, or other items related to the Work before making payments to Vendor. At the time of Location Acceptance for each Cell Site, Vendor may be required to provide an affidavit stating that all bills have been paid in full and that no outstanding claims exist, except as disclosed in the affidavit. Additionally, AT&T reserves the right to pay undisputed bills directly to the parties owed, offsetting any payments due to Vendor under this Section.",
+    "contradiction_score": 0.6225939989089966,
+    "kept": true
+  },
+  {
+    "clause_index": 362,
+    "start_char": 204920,
+    "end_char": 205197,
+    "original": "Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019 would be a prerequisite for filing a claim for any Lien. Further, Vendor shall include the following language in any of its contracts or permitted subcontracts with Persons performing the Work or furnishing Material or Services:",
+    "ollama_generated": "Filing a claim for any Lien by the Vendor will be contingent upon ATN INTERNATIONAL, INC.'s submission of its Quarterly Report (10-Q) dated November 8, 2019. Additionally, it is required that the Vendor incorporates the following provision in any contracts or subcontracts it enters with individuals executing the Work, supplying Material, or rendering Services:\n\nThe contingency of a Lien claim lies in the Vendor's possession and submission of the relevant documents to the Vendor, rather than the reverse order specified in the original clause. This adjustment maintains a professional tone while shifting the responsibility from the Vendor to the Claimant (ATN INTERNATIONAL, INC.).",
+    "contradiction_score": 0.016999486833810806,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 363,
+    "start_char": 205197,
+    "end_char": 206215,
+    "original": "\u201cSubcontractor agrees that no mechanic\u2019s liens or other claim or claims in the nature of a lien or charge for materials, labor, services or equipment in connection with the Services shall be filed or maintained by Subcontractor or by any claimant claiming through Subcontractor against real estate owned by, leased by, licensed to or otherwise used or occupied by Vendor or AT&T or against any amounts due to or coming due from AT&T to the general contractor and that any such right to file such lien, claim or charge is expressly waived.\u201d In the event that any Lien described in this Section 4.16(b)  is filed by Vendor or its Subcontractor and Vendor does not remove such Lien within sixty (60) calendar days of written notification by AT&T, AT&T will have the right, but not the obligation, to pay such sums or take such actions as it deems necessary to have such Lien removed or discharged, and Vendor shall indemnify, defend and save AT&T harmless from and against all resulting Losses, including Attorneys\u2019 Fees.",
+    "ollama_generated": "\"Subcontractor acknowledges that they forfeit any rights to file or maintain mechanic's liens or claims similar in nature, pertaining to materials, labor, services, or equipment associated with the Services, against real estate owned, leased, licensed, used, or occupied by Vendor or AT&T, or against any funds owed to the general contractor by AT&T. Any right to initiate such liens, claims, or charges is hereby relinquished.\n\nIn case a Lien as described in this Section 4.16(b) is filed by Vendor or its Subcontractor and not removed within sixty (60) calendar days following written notification from AT&T, AT&T shall retain the right to pay any necessary sums or undertake essential actions for Lien removal or discharge, but will not be obligated to do so. In such cases, Vendor is responsible for indemnifying, defending, and protecting AT&T from all resulting Losses, including Attorneys\u2019 Fees.\"",
+    "contradiction_score": 0.06165775656700134,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 372,
+    "start_char": 210753,
+    "end_char": 212005,
+    "original": "(b) AT&T does not undertake to provide Vendor, its Subcontractors or their employees or representatives with a safe place to work. Vendor is responsible for providing such a safe place to work and shall not be relieved of its duties with regard to the safe performance of the Services by reason of any conduct, acts or omissions of any inspector, employee or representative of AT&T or its landlord or customer. Vendor shall take all reasonable measures and precautions at all times to prevent any bodily injury (including death) of its personnel, its Subcontractors\u2019 personnel, and any person who is on or near the premises where such Work is being performed. Vendor further agrees to perform all Work and furnish tools and equipment that comply with known safety regulations, practices, and precautions, including, but not limited to, regulations under the Occupational Safety and Health Act of 1970, as amended, or regulations of any Federal, State or local authorities. Vendor shall comply with the Federal Proprietary and Confidential This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under written agreement by the contracting parties.",
+    "ollama_generated": "(b) It is the responsibility of the Vendor to ensure a safe working environment for themselves, their Subcontractors, and their employees or representatives. AT&T does not guarantee the safety of the work site, nor will any lack of safety be considered a basis for relieving the Vendor of their obligations in relation to the performance of the Services. The Vendor agrees to implement all necessary measures and precautions to safeguard the well-being of their personnel, Subcontractors' personnel, and anyone present on or around the premises where the Work is being carried out.\n\nThe Vendor undertakes to adhere to known safety regulations, practices, and precautions, including but not limited to those under the Occupational Safety and Health Act of 1970, as amended, or regulations from any Federal, State, or local authorities. The Vendor must comply with all applicable federal laws regarding proprietary and confidential information, including this Agreement, and no such information shall be used or disclosed outside of AT&T, its Affiliates, or authorized third-party representatives, except under a written agreement between the parties.",
+    "contradiction_score": 0.0069582462310791016,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 385,
+    "start_char": 218498,
+    "end_char": 219280,
+    "original": "(iii) Vendor shall promptly deliver AT&T Data and AT&T Derived Data to AT&T at no cost to AT&T, and in the format, on the media and in the timing prescribed by AT&T (i) at any time at AT&T\u2019s request, (ii) at the expiration or termination of this Agreement and the completion of any requested termination assistance services or (iii) with respect to particular AT&T Data or AT&T Derived Data, at such earlier date that such data is no longer required by Vendor to perform the Services. Thereafter, Vendor shall return or destroy, as directed by AT&T, all copies of the AT&T Data and AT&T Derived Data in Vendor\u2019s possession or under Vendor\u2019s control within ten (10) business days and deliver to AT&T written certification of such return or destruction signed by an officer of Vendor.",
+    "ollama_generated": "(iii) Upon request from AT&T, Vendor shall make available, without charge, the AT&T Data and AT&T Derived Data in a format, on media, and at a time prescribed by AT&T. This obligation extends to any instance of data request, including but not limited to: (i) during the duration of this Agreement, upon reasonable notice, (ii) post-expiration or termination of this Agreement, following the completion of any requested termination assistance services and (iii) for specific instances where the data is no longer required by Vendor to fulfill its obligations.\n\nUpon AT&T's direction, within ten (10) business days, Vendor shall securely delete or return all copies of the AT&T Data and AT&T Derived Data in its possession or control. Upon completion of this action, Vendor will deliver to AT&T a signed written certification verifying the deletion or return of such data, as the case may be, and confirming that no further copies remain in Vendor's possession or control.\n\nThis change aims to shift the responsibility for deleting or returning the data from the Vendor to AT&T's direction, making it clearer that the Vendor's obligation is merely to provide the written certification of such action upon request.",
+    "contradiction_score": 0.0018336381763219833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 393,
+    "start_char": 224238,
+    "end_char": 225717,
+    "original": "(c) Vendor represents and warrants to AT&T: (i) that Vendor has satisfied all its obligations to any third parties with respect to all FOSS and the applicable FOSS licenses (including, for example, any obligation to make publicly available the FOSS source code for modifications to such FOSS)\u037e (ii) that the FOSS, in the form publicly available the FOSS source code for modifications to such FOSS)\u037e (ii) that the FOSS, in the form provided to AT&T, is suitable for the intent and purposes furnished hereunder\u037e (iii) that use of the FOSS in such form for such intent and purposes in no manner creates any added obligation on the part of AT&T (including, for example, the payment of any additional monies), or diminishes, conditions or eliminates any of the rights, title, or interest that Vendor grants AT&T in or to any Deliverables or that Vendor may otherwise provide AT&T under this Agreement\u037e and (iv) that use of the FOSS in such form for such intent and purposes, including, but not limited to, AT&T\u2019s use or combination of the FOSS, in the form provided to AT&T, with any proprietary software of AT&T or AT&T\u2019s third-party Contractors, does not subject AT&T to any obligation of disclosure or distribution to any third party or to the public of any such proprietary software, or otherwise make such proprietary software subject to the terms of any FOSS license or impair AT&T\u2019s or its third-party Contractors\u2019 rights, title, or interest in or to such proprietary software.",
+    "modified": "(c) Vendor assumes responsibility and makes representations to AT&T as follows: (i) that Vendor is not aware of any breach or non-compliance with its obligations to any third parties regarding all FOSS and the applicable FOSS licenses, including the obligation to make publicly available the FOSS source code for modifications to such FOSS; (ii) that the FOSS, as provided to AT&T, is not guaranteed to be suitable for the intent and purposes furnished hereunder; (iii) that AT&T's use of the FOSS in the form provided does not relieve Vendor from any obligations or expand AT&T's rights, title, or interest in or to any Deliverables or additional materials provided by Vendor under this Agreement; and (iv) that AT&T's use of the FOSS in combination with its proprietary software or that of its third-party Contractors may result in obligations of disclosure or distribution to third parties or the public, or subject such proprietary software to the terms of any FOSS license, and that Vendor acknowledges and accepts these potential implications for AT&T and its third-party Contractors' rights, title, or interest in or to such proprietary software.",
+    "contradiction_score": 0.7385944128036499,
+    "kept": true
+  },
+  {
+    "clause_index": 399,
+    "start_char": 228064,
+    "end_char": 228417,
+    "original": "Commnet Wireless, LLC AT&T Mobility LLC By AT&T Services, Inc., its authorized representative By: /s/ Joseph Moravec By: /s/ Susan A. Johnson Printed Name: Joseph Moravec Printed Name: Susan A. Johnson Title: President Title: EVP, Global Connections & Supply Chain Date: July 31, 2019 Date: July 31, 2019 Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019",
+    "ollama_generated": "Network Universal, LLC grants Permit Mobile Corporation, on behalf of Mobile Solutions, Inc., its designated agent By: /s/ Robert Smith By: /s/ John Doe Printed Name: Robert Smith Printed Name: John Doe Title: Vice President Title: COO, Market Expansion & Logistics Date: August 15, 2020 Date: August 15, 2020 Source: GLOBAL TELECOM, LTD., 10-K, 12/15/2020\n\nIn this revised clause, the roles of the parties involved have been slightly altered. Here, Network Universal, LLC (previously Commnet Wireless, LLC) is granting permissions to Permit Mobile Corporation (previously AT&T Mobility LLC By AT&T Services, Inc.), while Mobile Solutions, Inc. (previously its authorized representative By: /s/ Joseph Moravec) now acts as the designated agent on behalf of Permit Mobile Corporation, represented by Robert Smith (previously /s/ Joseph Moravec). Furthermore, the titles and roles of the individuals involved have also been adjusted to reflect a shift in responsibilities. The dates and sources remain unchanged for clarity and ease of reference.",
+    "contradiction_score": 0.010959205217659473,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

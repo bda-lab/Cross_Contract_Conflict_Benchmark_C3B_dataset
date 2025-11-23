@@ -1,0 +1,51 @@
+[
+  {
+    "clause_index": 11,
+    "start_char": 3488,
+    "end_char": 3803,
+    "original": "4. Notices. All notices required or permitted under this Agreement must be in writing and delivered by email or personal delivery on the date sent\u037e or if my facsimile on the date sent\u037e or if by certified US mail on the third business day following such mailing\u037e or if by overnight courier, on the next business day.",
+    "ollama_generated": "4. Notices and Communication: Any notifications or communications required or permitted under this Agreement shall be considered effectively served upon receipt of written notice via email (preferred), personal delivery, facsimile transmission (if provided by the recipient), certified U.S. mail (allow three business days for delivery) or overnight courier (next business day). However, the receiving party's failure to acknowledge or respond to such notice shall not impact its validity or enforceability under this Agreement.",
+    "contradiction_score": 0.01098967157304287,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4114,
+    "end_char": 4361,
+    "original": "B. Governing Law. This Agreement and any amendments thereto shall be construed according to the laws of the State of Colorado without regard to conflicts of law principles and any disputes hereunder shall be litigated in a state court in Colorado.",
+    "modified": "Clause:\nA. Jurisdictional Provisions. This Agreement, along with any subsequent modifications, shall be interpreted under the legal framework of Colorado, disregarding any rules governing conflicts between jurisdictions. Any disagreements arising from this contract will be adjudicated in a federal court located within Colorado.\n\nExplanation: This rewritten clause maintains the original's purpose (specifying the applicable law and dispute resolution forum) but shifts the venue of dispute resolution to a federal court instead of a state court, potentially providing the party with more extensive rights of appeal and other protections under federal rules of civil procedure.",
+    "contradiction_score": 0.964848518371582,
+    "kept": true
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4361,
+    "end_char": 5066,
+    "original": "C. Confidential Information. In the course of performing their respective obligations, each party will enter into possession of information of the other party which the Parties wish to protect and deem \u201cConfidential Information.\u201d This will include all Intellectual Property, processes, pricing, and any information that is marked confidential. When the Agreement ends, each party shall return all copies of any such information to the other and take every reasonable measure to preclude its representatives from sharing or keeping such information. Failure to do so shall constitute a material breach of this Agreement with all rights and remedies available to the party whose material has been Disclosed.",
+    "ollama_generated": "C. Confidentiality Obligations. As each party undertakes duties under this Agreement, they may acquire information belonging to the other that is considered \"Confidential Information,\" which they acknowledge as valuable and worthy of protection. This encompasses all Intellectual Property, methods, pricing structures, and any data marked confidential or otherwise identified as sensitive.\n\nUpon the termination of this Agreement, it shall be the responsibility of each party to securely destroy all copies of such Confidential Information in their possession. Furthermore, each party agrees not to disclose or distribute this information without the express written consent of the other party, except where required by law or court order.\n\nIn case of any violation of these confidentiality obligations, the breaching party shall be liable for damages arising from such disclosure, and the non-breaching party may seek appropriate legal remedies. However, this clause does not impose an affirmative duty on either party to actively monitor or enforce compliance with these obligations beyond taking reasonable measures to protect Confidential Information.",
+    "contradiction_score": 0.07563567906618118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 5355,
+    "end_char": 5482,
+    "original": "[Remainder of Page Intentionally Left Blank] IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date below.",
+    "ollama_generated": "[This Agreement may be Executed Across Multiple Pages; Any Additional Pages are Intentionally Included Herein for Convenience.] By their signatures below, the Parties hereby attest to the validity and enforceability of this Agreement, effective as of the date indicated.\n\n(Note: This revised clause inverts the original by allowing for additional pages to be added, rather than blank spaces intentionally left.)",
+    "contradiction_score": 0.3794798254966736,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 5549,
+    "end_char": 5703,
+    "original": "BY: /s/ Thomas A. Gallo BY: /s/ Timothy S Orr Date: 1/26/2020 Date: 1/27/2020 Name: Thomas A. Gallo Name: Timothy Orr- President Title: Executive Director",
+    "ollama_generated": "BY: /s/ Thomas A. Gallo, as the Executive Director, acting on behalf of himself, and /s/ Timothy S Orr, as the President, acting on behalf of himself, dated on separate occasions on 1/26/2020 and 1/27/2020 respectively.\n\nName: Thomas A. Gallo, Executive Director (acting individually) Name: Timothy Orr, President (acting individually)\n\nIn this version of the clause, I have emphasized that each individual is acting on behalf of themselves rather than as representatives of the organization (as was implied in the original clause), potentially shifting some level of personal responsibility.",
+    "contradiction_score": 0.006745204795151949,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

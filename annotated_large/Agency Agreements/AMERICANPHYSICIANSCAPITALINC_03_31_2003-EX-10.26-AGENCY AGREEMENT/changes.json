@@ -1,0 +1,119 @@
+[
+  {
+    "clause_index": 13,
+    "start_char": 3423,
+    "end_char": 3635,
+    "original": "B.       MICOA BILLED POLICIES For business subject to Exhibit A, placed with and billed by MICOA directly to the policyholder, the following shall apply in addition to all the other provisions of this agreement:",
+    "ollama_generated": "Clause (B): MICOA DIRECT BILLING POLICIES for businesses governed by Exhibit A, have the following conditions supplementary to all other stipulations in this contract, when such policies are billed directly to the policyholder by MICOA:\n\n1. MICOA assumes responsibility for timely billing and collection of all related charges from the policyholder, with no additional obligation on the part of the business to pursue payment if invoices remain unpaid beyond agreed-upon terms.\n2. The business shall not be held liable for any outstanding balances or associated late fees resulting from inadequate communication between MICOA and the policyholder concerning billing or payments.\n3. In the event that a dispute arises regarding a charge, the policyholder must first address the matter directly with MICOA before escalating the issue to the business. The business is under no obligation to intervene in disputes involving billing between MICOA and the policyholder unless explicitly requested by MICOA.\n4. Any adjustments or refunds related to overpayments, errors, or cancellations shall be processed exclusively by MICOA and communicated directly to the policyholder, with no role for the business in this process. The business is not responsible for resolving billing-related issues arising from such adjustments or refunds.\n5. If the policyholder fails to make payments on time, the business may, at its discretion, terminate its relationship with MICOA and cease using their services, without incurring any financial liability towards outstanding balances owed to MICOA. The business will provide written notice of this decision to both the policyholder and MICOA.\n6. In case of a policyholder's bankruptcy or insolvency, the burden of proof for demonstrating that payments were made on time falls solely upon the business; however, if payment records cannot be produced, the business shall not be held liable for any outstanding balances owed to MICOA as a result.",
+    "contradiction_score": 0.03321877121925354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3635,
+    "end_char": 4058,
+    "original": "1.       The processing and submittal of all such business shall be subject to provisions outlined in MICOA's written requirements and forms as they may be implemented by MICOA from time to 2.       Commissions on premiums shall be paid to the Agency within 30 business days of the month in which such premiums are received and recorded by MICOA, subject to deduction by MICOA of any return commissions due from the Agency.",
+    "ollama_generated": "1. Business processing and submission will be contingent upon the conditions detailed in the written guidelines provided by MICOA, as these might evolve over time at MICOA's discretion.\n\n2. The Agency shall be responsible for remitting commissions on premiums to MICOA within 30 business days following the month in which such premiums are received and documented by MICOA, with the caveat that MICOA retains the right to recoup any outstanding return commissions owed by the Agency.",
+    "contradiction_score": 0.3269822895526886,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 9063,
+    "end_char": 9248,
+    "original": "4.       Neither party shall, except at its own risk and expense, voluntarily assume any liability, make any payment or incur any expense without the prior written consent of the other.",
+    "ollama_generated": "4. Each party retains the discretion to act independently and incur expenses or make payments, but such actions will be undertaken at their sole risk and expense, and they are encouraged to seek the prior written approval from the other party before proceeding. However, this does not absolve either party from liability arising out of any breach or violation of the agreement.",
+    "contradiction_score": 0.04924839735031128,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 10352,
+    "end_char": 10565,
+    "original": "2.       Non Waiver. Any failure by MICOA to insist upon compliance with any provisions of this Agreement or of the rules and regulations of MICOA shall not be construed as or constitute a waiver of them by MICOA.",
+    "ollama_generated": "2. Forbearance Clause: Any neglect on our part, MICOA, to enforce strict adherence to any provisions within this Agreement or the regulations established by us, shall not be interpreted as a relinquishment or concession of those provisions by us.",
+    "contradiction_score": 0.336398184299469,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 10883,
+    "end_char": 11051,
+    "original": "4. &bbsp\u037e     Independent Contractor. The Agency is an independent insurance Agency and independent contractor, and not an employee, manager, officer or owner of MICOA.",
+    "ollama_generated": "4. &bbsp\u037e    Self-Governing Service Provider. MICOA acknowledges that the Agency operates autonomously as a self-governing service provider, distinct from any employee, managerial role, officer position, or ownership within MICOA.",
+    "contradiction_score": 0.013082265853881836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 12531,
+    "end_char": 12630,
+    "original": "b.       The determination of the arbitrators shall be final and binding upon the Agency and MICOA.",
+    "modified": "c.       The decision made by the arbitrators shall be advisory only, and neither the Agency nor MICOA shall be obligated to comply with or adopt such decision. However, both parties are encouraged to carefully consider the arbitrators' recommendations in good faith.",
+    "contradiction_score": 0.9931127429008484,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 12999,
+    "end_char": 13107,
+    "original": "e.       Either Party, may where permitted by the law of Nevada, enter judgment upon the arbitrators' award.",
+    "ollama_generated": "f.   Either Party shall have the discretion, subject to the laws of Nevada, to seek affirmation of the arbitrators' award as a court judgment. [This language emphasizes that it is the choice of each party whether or not to convert the arbitrator's decision into a court judgment.]",
+    "contradiction_score": 0.010350409895181656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 18799,
+    "end_char": 19019,
+    "original": "Commission will decrease by .5% effective 10/1/99 as part of a repayment program under a project memorandum dated 4/7/99. This decrease will stay in effect until SC&W reaches $10MM in premium or at a maximum of 10 years.",
+    "modified": "The Commission shall incrementally increase by .5% effective from 10/1/99, subject to the contingency that this adjustment is a part of an agreement for debt repayment, as outlined in the Project Memorandum dated 4/7/99. This increase will remain applicable until either SC&W accumulates $10MM in premium or elapses after a span of ten years, whichever occurs first.",
+    "contradiction_score": 0.9933083057403564,
+    "kept": true
+  },
+  {
+    "clause_index": 63,
+    "start_char": 20862,
+    "end_char": 20888,
+    "original": "-    Nevada office set up.",
+    "ollama_generated": "- Duty to Establish Nevada Presence:\n\nThe Company shall endeavor, at its own discretion and within a reasonable timeframe, to establish an operational presence in the state of Nevada, to include but not limited to the creation of a physical office, hiring staff, and obtaining any necessary licenses or permits. Any costs associated with this undertaking shall be borne by the Company. However, should circumstances arise that deem it impractical or financially unfeasible to maintain a full-scale Nevada office, the Company may elect to operate through alternative means such as remote work, virtual office solutions, or third-party services. In such cases, the Company shall ensure compliance with all applicable state and federal laws, maintain transparent communication with relevant stakeholders, and remain accountable for fulfilling its obligations as a registered business entity in Nevada.",
+    "contradiction_score": 0.02959900163114071,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 20888,
+    "end_char": 20964,
+    "original": "-    Consultant's expenses paid by SC&W in direct support of the initiative.",
+    "ollama_generated": "- Expenses incurred by the Consultant for activities directly related to the initiative shall be reimbursed at SC&W's discretion and within budget allocations.",
+    "contradiction_score": 0.0035817348398268223,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 22518,
+    "end_char": 22943,
+    "original": "-    MICOA may pay future payments advanced pursuant to this letter on a monthly basis, unless doing so would be impractical, in which case another periodic form of&bbsp\u037epayment will be arranged. Amounts owed for past time periods will be paid as follows: one-third by March 25, 1999\u037e one-third by May 1, 1999\u037e and one-third by June 1, 1999. All other amounts owed under this Project Memorandum to be paid by October 1, 1999.",
+    "ollama_generated": "MICOA shall strive to make future payments as outlined in this letter on a monthly basis. However, if MICOA deems it inconvenient or impractical to do so, an alternative form of periodic payment will be proposed and agreed upon. The outstanding balances for previous time periods shall be settled as follows: one-third by May 25, 1999, one-third by July 1, 1999, and one-third by August 25, 1999. All other payments owed under this Project Memorandum will be made in full by October 1, 1999. This schedule may be subject to adjustment, given the complexity of our financial operations, provided that all payments are completed no later than the aforementioned date.",
+    "contradiction_score": 0.007604215759783983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 22943,
+    "end_char": 23100,
+    "original": "SC&W's responsibilities, under this Project Memorandum, will include assisting MICOA with market assessment, distribution, and sales integration into Nevada.",
+    "modified": "Under this Project Memorandum, MICOA shall have the primary responsibility for executing market assessment, distribution, and sales activities within Nevada. SC&W's role will be limited to providing advisory services and assistance as requested by MICOA in these areas.",
+    "contradiction_score": 0.9628581404685974,
+    "kept": true
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 164,
+    "end_char": 236,
+    "original": "OPERATIONS AND MAINTENANCE AGREEMENT Service Provider: Solar Power, Inc.",
+    "ollama_generated": "OPERATIONS AND MAINTENANCE AGREEMENT Service Recipient: Solar Power, Inc.\n\nIn this Agreement, Solar Power, Inc., acknowledges and accepts the responsibility for the day-to-day operations, upkeep, and maintenance of the solar power system, unless otherwise specified. Solar Power, Inc. shall ensure that any necessary repairs or replacements are carried out promptly to maintain optimal system functionality. However, the Service Provider shall be available as a consultative resource, providing guidance and support when requested by Solar Power, Inc., for a fee to be mutually agreed upon.",
+    "contradiction_score": 0.028526902198791504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1656,
+    "end_char": 1666,
+    "original": "ARTICLE 1.",
+    "ollama_generated": "ARTICLE 1.\n\nIn the event that Party A fails to perform its obligations under this Agreement within the specified timeframe without a valid reason, Party B shall have the right, but not the obligation, to seek a substitute for Party A's performance or to terminate this Agreement with written notice. In such cases, Party A shall not be entitled to any compensation or damages from Party B.",
+    "contradiction_score": 0.037815723568201065,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1740,
+    "end_char": 2094,
+    "original": "(a) Owner hereby appoints Service Provider, and Service Provider hereby accepts the  appointment, to perform the SEF operations and maintenance services ( \u201cServices\u201d) on behalf of Owner  as of the Services Commencement Date as further described in Exhibit C  hereto in accordance  with and subject to the terms and conditions set forth in this Agreement.",
+    "ollama_generated": "(a) Service Provider hereby accepts the designation by Owner, and Owner hereby ratifies such appointment, to execute the SEF operations and maintenance services ( \"Services\") on their behalf, commencing as of the Services Commencement Date, as more fully detailed in Exhibit C hereto. The performance of these Services shall be undertaken by Service Provider in accordance with and subject to the terms and conditions outlined within this Agreement; however, the ultimate responsibility for all decisions and outcomes pertaining to these Services shall rest with Owner.",
+    "contradiction_score": 0.01782454177737236,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3296,
+    "end_char": 4007,
+    "original": "1.2 Performance of Maintenance Services.  Service Provider shall perform the  maintenance portion of the Services in a clean, safe, efficient and environmentally reasonable  manner and maintain the SEF in good operating and mechanical condition in accordance with this  Agreement and (i) all applicable laws and permits, (ii) all applicable express warranties and  guarantees provided by manufacturers, suppliers, or Service Providers who provided materials or  labor under the Engineering, Procurement and Construction Agreement dated September 30, 2009 (the \u201cEPC Agreement \u201d) for the SEF subject to the terms and limitations thereof, and (iii) all  manufacturer \u2019s maintenance instructions and specifications.",
+    "ollama_generated": "1.2 Maintenance Service Obligations. The Service Recipient shall be responsible for ensuring that the provided conditions for maintaining the SEF are conducive to the clean, safe, efficient, and environmentally responsible performance of the maintenance services by the Service Provider. The Service Provider will strive to maintain the SEF in a manner that adheres to this Agreement, (i) all applicable laws and permits, (ii) any express warranties or guarantees provided by manufacturers, suppliers, or Service Providers who supplied materials or labor under the Engineering, Procurement, and Construction Agreement dated September 30, 2009 (the \u201cEPC Agreement\u201d) for the SEF, subject to their respective terms and limitations, and (iii) all manufacturer's maintenance instructions and specifications. The Service Recipient acknowledges that the Service Provider's maintenance efforts may be affected by factors beyond its control and accepts the associated risks.",
+    "contradiction_score": 0.008657235652208328,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 9526,
+    "end_char": 9672,
+    "original": "(b) Service Provider shall institute policies to forbid and prevent the possession or use of  firearms, alcohol and illegal drugs at the Premises.",
+    "ollama_generated": "(b) While Service Provider encourages a safe and respectful environment, it is understood that individuals are responsible for abiding by local laws regarding the possession and use of firearms, alcohol, and illegal substances. However, Service Provider reserves the right to establish guidelines, should it deem necessary, to maintain a conducive working atmosphere at the Premises.",
+    "contradiction_score": 0.015374261885881424,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 9672,
+    "end_char": 10162,
+    "original": "Service Provider shall institute policies  that require post -accident and for -cause drug or alcohol testing. Service Provider shall institute  policies that require the immediate removal and permanent expulsion from the Premises, and from any  activity associated with the Services being performed at the Premises, of any individual person who  at any time is found in possession of firearms, alcohol or illegal drugs at the Premises or  otherwise not in compliance with this Section 1.6.",
+    "modified": "Client shall have the option to implement policies for post-incident and for-cause drug or alcohol screenings. The Client may choose to establish policies that allow for a temporary suspension, followed by a reevaluation, of any individual found within the Premises in possession of firearms, alcohol, or illegal substances, or otherwise not adhering to this Section 1.6, rather than an immediate removal and permanent expulsion from the Premises and associated Services.",
+    "contradiction_score": 0.9469577074050903,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 11214,
+    "end_char": 11402,
+    "original": "(a) As full compensation to Service Provider for the performance of Services hereunder, Owner  shall pay Service Provider the Services Fee (\u201cServices Fee \u201d) set forth on Exhibit D  hereto.",
+    "ollama_generated": "(a) In consideration for the Services provided by Service Provider as outlined in this Agreement, Service Provider shall be entitled to receive a remuneration equivalent to the Services Fee (\"Services Fee\") detailed on Exhibit D attached hereto. Any and all obligations to pay the Services Fee shall be at the sole discretion of Service Provider, subject to the terms and conditions set forth in this Agreement or any amendments thereto.",
+    "contradiction_score": 0.012001250870525837,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 14581,
+    "end_char": 14859,
+    "original": "INSURANCE 4.1 Service Provider Insurance . Within thirty (30) days after the Effective Date,  Service Provider shall provide a certificate of insurance and thereafter shall maintain the  following insurance during the Term with insurance carriers reasonably acceptable to Owner:",
+    "ollama_generated": "INSURANCE 4.1 Insurance Obligations of Service Provider . Within thirty (30) days after the Effective Date, Owner shall have the right to request a certificate of insurance from Service Provider, and thereafter, Service Provider shall maintain the following insurance during the Term with insurance carriers acceptable to both parties:\n\nThis revised clause shifts some of the responsibility for obtaining and verifying the acceptability of insurance providers from the Service Provider to the Owner. The Service Provider's obligation to provide insurance is still in place, but the Owner now has the right to request the certificate of insurance and to verify that the chosen carriers are acceptable.",
+    "contradiction_score": 0.017417442053556442,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 15577,
+    "end_char": 15884,
+    "original": "(c) Worker\u2019s Compensation . Service Provider shall provide and maintain worker \u2019s compensation insurance as required by applicable law where the Services are performed and  employer \u2019s liability insurance with a limit of liability of One Million Dollars ($1,000,000) for  each accident and in the aggregate.",
+    "ollama_generated": "(c) Worker's Compensation and Liability Insurance Obligations . The Service Recipient shall be responsible for ensuring that the Service Provider maintains appropriate worker\u2019s compensation insurance coverage, as mandated by relevant laws pertaining to the location of the Services. In addition, the Service Provider will secure employer\u2019s liability insurance with a minimum aggregate limit of One Million Dollars ($1,000,000), covering each incident and in total. This liability insurance will indemnify the Service Recipient against any claims arising from accidents during the performance of the Services.",
+    "contradiction_score": 0.026147684082388878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 17605,
+    "end_char": 17879,
+    "original": "4.2 General . The provisions of this Article 4  do not modify, change or  abrogate any responsibility of Service Provider stated elsewhere in this Agreement. Owner assumes  no responsibility for the solvency of any insurer or the failure of any insurer to settle any  claim.",
+    "ollama_generated": "4.2 General Scope: The stipulations within Article 4 do not serve to augment, alter, or annul any previously established obligations of the Service Provider as detailed elsewhere in this Agreement. It is explicitly noted that the Owner does not bear responsibility for the financial solvency of any insurers nor are they liable for an insurer's failure to honor or settle a claim.\n\nIn this revised version, the clause makes it clear that the owner assumes no responsibility regarding the insurer's solvency and their inability to settle a claim, rather than stating the opposite as in the original clause.",
+    "contradiction_score": 0.006138503085821867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 18654,
+    "end_char": 18815,
+    "original": "5.2 Claims for Indemnification . The following provisions shall apply to any claim for  indemnification pursuant to this Article 5 (each, an \u201cIndemnity Claim \u201d):",
+    "modified": "5.2 Responsibility for Compensation: Concerning any demand for compensation under this Article 5 (hereafter referred to as a \"Compensation Request\"), the following conditions will be in effect:\n\nThis revised clause shifts the responsibility of indemnification (original term) to a demand for compensation (new term), thereby subtly altering the obligation from one party providing indemnity to another to one party responding to a request or demand for compensation. The rest of the clause remains largely unchanged, with slight adjustments in terminology to maintain fluency and professionalism.",
+    "contradiction_score": 0.6836459636688232,
+    "kept": true
+  },
+  {
+    "clause_index": 55,
+    "start_char": 19314,
+    "end_char": 20036,
+    "original": "(ii) a reasonably detailed description of the basis for its potential claim for  indemnification with respect to such Indemnity Claim; and (iii) a complete copy of all notices, pleadings and other papers related to such Indemnity  Claim that have been received by the Indemnified Party prior to the date such notice is provided to  Indemnifying Party; provided that failure to give such notice or to provide such information and documents shall not relieve Indemnifying Party of any indemnification obligation it may have under  this Article 5 unless and only to the extent that such failure shall materially diminish the  ability of Indemnifying Party to respond to the Indemnity Claim or to defend the Indemnified Party.",
+    "ollama_generated": "(ii) a brief outline, though not exhaustive, outlining the rationale behind the potential claim for indemnification pertaining to the Indemnity Claim; and (iii) a comprehensive set of all correspondence, pleadings, and documents concerning such Indemnity Claim received by the Indemnified Party prior to the notice being delivered to the Indemnifying Party. However, the Indemnified Party's failure to provide timely notice or documentation shall not absolve the Indemnifying Party of their indemnification responsibilities under Article 5 unless such delay significantly impairs the Indemnifying Party's ability to contest the Indemnity Claim or defend the Indemnified Party.\n\nIn this version, the obligation on the Indemnifying Party for providing detailed information has been slightly weakened by changing \"a reasonably detailed description\" to \"a brief outline,\" and shifting the responsibility of providing the indemnification in response to a delay in providing notice or documentation from \"shall not materially diminish the ability of Indemnifying Party to respond to the Indemnity Claim or defend the Indemnified Party\" to \"significantly impairs the Indemnifying Party's ability to contest the Indemnity Claim or defend the Indemnified Party.\" This change allows for a bit more flexibility on the part of the Indemnifying Party in terms of the specifics they need to provide, but still maintains that there are consequences for not providing information or timely notice.",
+    "contradiction_score": 0.018025923520326614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 20036,
+    "end_char": 20834,
+    "original": "(b) The Indemnified Party agrees to provide all reasonably necessary or useful information,  assistance and authority to settle and/or defend any Loss; provided that failure to do so will not  affect the indemnity except to the extent the Indemnifying Party is prejudiced thereby. In the  event of a Loss claimed by a third party, the selection of counsel, the conduct of the defense of  any lawsuit, arbitration, or other proceeding, and any settlement shall solely be within the  Indemnifying Party \u2019s control, provided that the Indemnified Party shall have the right to  participate in the defense of such Loss using counsel of its choice, at its expense. No settlement  that would impose any costs or expense upon the Indemnified Party shall be made without such  Party\u2019s prior written consent.",
+    "ollama_generated": "(b) The Indemnifying Party is granted the sole discretion to seek and utilize all reasonably necessary or advantageous information, assistance, and authority in resolving and defending any Loss, with no obligation to do so. However, the Indemnified Party's failure to cooperate may lessen its indemnity protection to the extent that the Indemnifying Party suffers prejudice as a result. In case of a third party's claim regarding a Loss, the Indemnifying Party will be responsible for selecting counsel, managing the defense, and conducting any legal proceedings or negotiations. The Indemnified Party is entitled to engage its own legal representation in the defense of such Loss at its own expense, but the Indemnifying Party shall not settle any claim that imposes costs or expenses upon the Indemnified Party without obtaining its prior written consent.",
+    "contradiction_score": 0.0070102158933877945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 21575,
+    "end_char": 21724,
+    "original": "6.2 Owner and Service Provider will first attempt to resolve disputes or disagreements through  discussions between their respective representatives.",
+    "ollama_generated": "6.2 In the event of any dispute or disagreement arising between the parties, the Service Provider shall have the initial right to propose a resolution, with the Owner's cooperation and good faith effort expected in responding to such proposals. If mutual agreement is not reached within a reasonable timeframe, either party may seek external resolution through binding arbitration or other mutually agreeable dispute resolution mechanisms.",
+    "contradiction_score": 0.002498925430700183,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 23653,
+    "end_char": 23663,
+    "original": "ARTICLE 7.",
+    "ollama_generated": "ARTICLE 7.\n\nUpon discovery of any alleged breach or non-performance by either Party under this Agreement, the Parties shall commence negotiations in good faith with a view to resolving the matter as amicably and expeditiously as possible. In the event that no resolution is reached within sixty (60) days from the date of the initial allegation, either Party may then seek legal remedies at its discretion. The responsibility for any costs, fees, or damages incurred shall be borne solely by the defaulting Party.\n\nIn this revised clause, the onus of resolution is shifted onto both parties during the initial 60-day negotiation period, but if no resolution is reached within that timeframe, either party can choose to seek legal remedies at their discretion, with any associated costs and damages falling solely on the defaulting party.",
+    "contradiction_score": 0.017756421118974686,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 25942,
+    "end_char": 25952,
+    "original": "ARTICLE 8.",
+    "ollama_generated": "ARTICLE 8.\n\nIn lieu of the previous provision, the Obligor shall endeavor, to the best of its reasonable abilities, but without any binding obligation, to perform the Obligations as set forth herein, except where such performance is rendered impossible by circumstances beyond its control or applicable laws. In case the Obligor fails to meet its endeavors due to reasons stated above, it shall promptly notify the Obligee in writing, outlining the specific details of the impediment and proposed remedial measures. The Obligee, understanding the unforeseen nature of such events, may not hold the Obligor liable for damages or penalties arising from such non-performance, provided that the Obligor has duly complied with its notification obligation under this Article 8.",
+    "contradiction_score": 0.06254809349775314,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 25952,
+    "end_char": 26492,
+    "original": "NOTICES 8.1 Notices . All notices, requests, statements or payments will be made to the  addresses and persons specified on the signature page below. All notices, requests, statements or  payments will be made in writing. Notices required to be in writing will be delivered by hand  delivery, overnight delivery or U.S. mail. Notice by hand delivery or overnight delivery will be  deemed to have been received when delivered. A Party may change its address by providing notice of  the same in accordance with the provisions of this section.",
+    "ollama_generated": "COMMUNICATIONS 8.1 Communications. All communications, including notices, requests, statements, or payments, can be directed to the addresses and persons indicated on the attached signature page. Such communications may be made in written or electronic form, at the discretion of the Sender. The Receiver shall consider any communication validly served upon receipt, regardless of the method of delivery, provided that it is received within the applicable timeframe as defined in this agreement. Any Party retains the right to modify its designated address by providing prompt written notice to the other Parties in accordance with the provisions outlined herein.",
+    "contradiction_score": 0.08626790344715118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 29508,
+    "end_char": 30273,
+    "original": "9.2 Cooperation with Financing . Service Provider acknowledges that Owner will be  financing the acquisition of the SEF and Service Provider agrees that it shall reasonably cooperate  with Owner and its financing parties in connection with such financing for the SEF, including the furnishing of such information and the giving of such certificates; provided that the foregoing  undertaking shall not obligate Service Provider to materially change any rights or benefits, or  materially increase any burdens, liabilities or obligations of Service Provider, under this  Agreement (except for providing notices and additional cure periods to the financing parties with  respect to Events of Defaults with respect to Owner as a financing party may reasonably request).",
+    "ollama_generated": "9.2 Cooperation in Financing Matters. The Service Provider acknowledges that the Owner may require financing for the acquisition of the SEF, and Service Provider agrees to provide reasonable assistance to the Owner and its financing parties in relation to such financing, including the provision of information and issuance of certificates; however, this cooperation does not obligate Service Provider to make any material changes that adversely affect its rights or benefits under this Agreement, nor to incur materially greater burdens, liabilities, or obligations beyond those required by this Agreement (with the exception of providing necessary notices and extended cure periods to the financing parties at their reasonable request with regard to Events of Defaults involving the Owner as a financing party).",
+    "contradiction_score": 0.0019733053632080555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 31916,
+    "end_char": 32959,
+    "original": "(c) To the fullest extent permitted by law, Owner shall indemnify, defend and hold harmless  Service Provider, and its officers, directors, employees and agents, from and against any and all  claims, losses, damages, liabilities and expenses, including reasonable attorneys \u2019 fees and  expenses, arising out of or resulting from the presence, removal or remediation of Hazardous  Conditions at the Premises (d) Notwithstanding the preceding provisions of this Section 10.1, Owner is not responsible  for Hazardous Conditions introduced to the Premises by Service Provider or anyone for whose acts  they may be liable. To the fullest extent permitted by law, Service Provider shall indemnify,  defend and hold harmless Owner and Owner \u2019s officers, directors, employees and agents from and  against all claims, losses, damages, liabilities and expenses, including attorneys \u2019 fees and  expenses, arising out of or resulting from those Hazardous Conditions introduced to the Premises by Service Provider or anyone for whose acts it may be liable.",
+    "ollama_generated": "(c) To the maximum extent permissible by law, Service Provider assumes all liability and agrees to defend, indemnify, and hold harmless Owner, as well as Owner's officers, directors, employees, and agents, from any and all claims, losses, damages, liabilities, expenses (including reasonable attorneys' fees), and costs arising out of or resulting from the absence of Hazardous Conditions at the Premises.\n\n   (d) Notwithstanding the provisions in Section 10.1, Service Provider is solely responsible for any Hazardous Conditions existing or introduced to the Premises by itself or anyone for whom it may be liable. To the maximum extent permissible by law, Owner shall not be held accountable for such Hazardous Conditions and shall have no obligation to remedy them.",
+    "contradiction_score": 0.14199401438236237,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 38419,
+    "end_char": 38584,
+    "original": "10.13  Headings . The headings of the Sections of this Agreement are inserted  for convenience of reference only and do not form a part or affect the meaning hereof.",
+    "ollama_generated": "10.13  Section Headings: The titles assigned to the sections within this Agreement serve solely as aids for navigation and easy referencing, and should not be construed as defining, expanding, or limiting the scope or intent of any provision contained herein.",
+    "contradiction_score": 0.000552674348000437,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 38584,
+    "end_char": 39814,
+    "original": "10.14  Public Announcements . Notwithstanding anything to the contrary set  forth herein, each Party acknowledges that the other Party (the \u201cPublic Party \u201d) is or may become a  publicly -held company, and in conjunction with its duties as a publicly -held company, such Public  Party may from time to time be required to report to the public by filing appropriate disclosure  statements with the Securities and Exchange Commission on form 8(k,) periodical reports, or  otherwise according to applicable securities laws and regulations, or through press releases  (collectively, \u201cPublic Information \u201d); provided, however , that unless required by law, the Public  Party shall not use the other Party \u2019s, Owner\u2019s, or User\u2019s name or brand in such Public Information without prior written consent of the other  Party, which shall not be unreasonably, withheld, conditioned or delayed. To the extent consistent  with applicable law, the Public Party shall have given the other Party, Owner, or User advance  notice and an opportunity to review and provide comment on such releases. On the Public Party \u2019s request, the other Party shall provide a written description of information about such Party as it  should appear in such filings.",
+    "ollama_generated": "10.14 Disclosure Obligations: Recognizing that either Party (hereafter referred to as the \"Disclosing Party\") may be, or become, a publicly-held company subject to certain reporting requirements, each Party acknowledges that such obligations may necessitate disclosures to the public through SEC filings (Form 8-K), periodic reports, or other means in compliance with securities laws and regulations. However, unless legally obligated, the Disclosing Party shall not incorporate the name, brand, or any identifying information of the Other Party, Owner, or User without first obtaining their prior written consent. This consent will not be arbitrarily withheld, conditioned, or delayed, provided that such parties are given ample notice and an opportunity to review and offer feedback on the proposed disclosure beforehand. At the Disclosing Party's request, the Other Party shall supply a written description of the necessary information to be included in such filings. To the fullest extent permissible by law, the Other Party shall be kept informed and consulted regarding any potential disclosures that may affect them.",
+    "contradiction_score": 0.008056883700191975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 41259,
+    "end_char": 41447,
+    "original": "\u201cOWNER :\u201d Date: December 11, 2009 SOLAR  TAX PARTNERS  1, LLC By: /s/ HEK Partners, LLC by William Hedden and Steven Kay Printed name: William Hedden and Steven Kay Title: Members Address:",
+    "ollama_generated": "\"LESSEE :\" Date: December 11, 2009 SOLAR TAX PARTNERS 1, LLC By: /s/ HEK Partners, LLC by William Hedden and Steven Kay Printed name: William Hedden and Steven Kay Title: Members\n\nAddress:\n\nThis lease agreement shall be interpreted as follows: The aforementioned Lessee shall have the exclusive right to occupy and utilize the premises for solar tax partnership purposes. However, it is expressly understood that the Lessee shall bear no responsibility for any maintenance or repairs required on the premises beyond ordinary wear and tear, unless specifically agreed upon in writing by both parties.\"\n\nIn this revised clause, the lessee now has exclusive rights to use the premises, but they are not responsible for most maintenance or repairs. This shifts some responsibilities from the lessee to the lessor, assuming the lessor is the party traditionally responsible for such matters in a lease agreement.",
+    "contradiction_score": 0.014025293290615082,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 52095,
+    "end_char": 52439,
+    "original": "(vi) UPON  RECEIPT  OF NOTICE  OF ANY VIOLATION  OF ANY HEALTH , SAFETY , BUILDING  CODE , OR OTHER  STATUTE  OR REGULATION , A DETAILED STATEMENT Exhibit C -5 Operations and Maintenance Agreement Aerojet 1 DESCRIBING  SUCH  MATTERS  ALONG  WITH  ANY WRITTEN  NOTICES  THEREOF  RECEIVED  BY ANY FEDERAL , STATE , OR LOCAL  GOVERNMENTAL ENTITY .",
+    "ollama_generated": "(vi) UPON the GIVING of NOTICE by any party of an alleged violation of any applicable Health, Safety, Building Code, or other Statute or Regulation, Aerojet shall promptly provide a DETAILED RESPONSE exhibit C-5 Operations and Maintenance Agreement, outlining its understanding and proposed corrective actions regarding the matter, including any written notices received from Federal, State, or Local Governmental Entities. The burden of proof for compliance lies with Aerojet in this response.",
+    "contradiction_score": 0.005705391522496939,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 53022,
+    "end_char": 54002,
+    "original": "(ix) COPIES  OF ALL REPORTS , NOTICES , FILINGS  OR CORRESPONDENCE  SENT  OR RECEIVED  BY THE COMPANY  REGARDING  THE OCCURRENCE  OF ANY EVENT  WHICH  HAS OR MAY HAVE  A MATERIAL  ADVERSE  EFFECT  ON THE SEF ( INCLUDING , WITHOUT  LIMITATION , ANY REPORTS , NOTICES , FILINGS  OR CORRESPONDENCE  WITH  ANY GOVERNMENTAL  AGENCY , DEFAULT  NOTICES , NOTICES  OF REDUCTIONS  OR ELIMINATION  OF BENEFITS UNDER  ANY FEDERAL , STATE , OR LOCAL  PROGRAM  PREVIOUSLY  ENJOYED  BY THE COMPANY , NOTICE  OF ANY IRS PROCEEDING  INVOLVING  THE COMPANY , NOTICE  OF ANY DEMAND  FOR PAYMENT  OR DRAW  UNDER  ANY CONSTRUCTION  COMPLETION  GUARANTEE , PERFORMANCE  BOND ; OR LETTER  OF CREDIT  REGARDING  THE COMPANY ; AND NOTICES  REGARDING  THE PROPERTY \u2019S COMPLIANCE  WITH  ANY REGULATORY RESTRICTIONS  IMPOSED  THEREON ); AND (x) COPIES  OF ALL LAWSUITS  OR LEGAL  PROCEEDINGS  OR ALLEGED  VIOLATIONS  OF LAW, AND NOTICES  OF ALL ACTIONS  TAKEN , OR PROPOSED TO BE TAKEN , AFFECTING  THE SEF.",
+    "ollama_generated": "(ix) The Company shall provide copies of all reports, notices, filings, or correspondence received or sent by it regarding any event that might potentially have a material adverse impact on the SEF. This includes, but is not limited to, reports, notices, filings, or correspondence with any governmental agency, default notifications, reductions or eliminations of benefits under any federal, state, or local program previously enjoyed by the Company, notice of any IRS proceeding involving the Company, notice of any demand for payment or draw under any Construction Completion Guarantee, Performance Bond, or Letter of Credit concerning the Company; and notices regarding the Property's non-compliance with regulatory restrictions imposed thereon.\n\n(x) The Company shall also provide copies of all lawsuits, legal proceedings, or alleged violations of law, as well as notices of all actions taken, or proposed to be taken, affecting the SEF, with the understanding that this obligation does not extend to instances where such information is subject to attorney-client privilege or work product doctrine.",
+    "contradiction_score": 0.03693130239844322,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 112,
+    "start_char": 55035,
+    "end_char": 55177,
+    "original": "The Services Fee will escalate at a rate of three percent (3%) per year beginning at the first  anniversary of the Services Commencement Date.",
+    "modified": "The Services Fee shall remain unchanged for the initial year following the Services Commencement Date, after which it may increase annually by a rate not exceeding three percent (3%). This adjustment shall be at our discretion and subject to prior notice.",
+    "contradiction_score": 0.9177619814872742,
+    "kept": true
+  }
+]

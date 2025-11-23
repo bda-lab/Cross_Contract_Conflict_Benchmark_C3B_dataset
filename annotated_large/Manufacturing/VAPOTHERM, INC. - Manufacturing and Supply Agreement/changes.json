@@ -1,0 +1,334 @@
+[
+  {
+    "clause_index": 9,
+    "start_char": 4377,
+    "end_char": 4551,
+    "original": "ARTICLE 1 SALE AND PURCHASE 1.1 Supply of Cartridge . Subject to the terms of this Agreement, Medica shall manufacture, in such quantities as Vapotherm orders, the Cartridge.",
+    "ollama_generated": "ARTICLE 1 SALE AND PURCHASE\n1.1 Supply of Cartridge. Vapotherm shall place its order for the Cartridge with Medica, and Medica shall endeavor to manufacture the Cartridges to the best of its ability, in quantities commensurate with the orders received from Vapotherm. However, Medica shall not be liable for any failure to meet ordered quantities if it encounters unforeseen manufacturing issues or supply chain disruptions beyond its control.",
+    "contradiction_score": 0.005670847836881876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 5859,
+    "end_char": 6063,
+    "original": "(a) Vapotherm will place a firm Purchase Order for the following [* * *] months. Every month there after, Vapotherm will placed a PO for the following month to maintain a rolling [* * *] month commitment.",
+    "modified": "(a) The Supplier is expected to provide a Flexible Purchase Order for the specified goods or services, with the initial order spanning the subsequent [* * *] months. It is understood that the Supplier shall issue a new PO each month, based on their discretion and capabilities, to sustain a minimal ongoing commitment of [* * *] months. This flexible arrangement allows Vapotherm to adjust its orders on a monthly basis while still maintaining a long-term business relationship.",
+    "contradiction_score": 0.8241074681282043,
+    "kept": true
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6063,
+    "end_char": 6394,
+    "original": "(b) The forecast for any month specified in any Rolling Forecast may not be less than the total number of Cartridges for which Vapotherm, prior to delivery of that Rolling Forecast to Medica in accordance with Section  2.l(a) , has submitted purchase orders in accordance with Section  3.2 specifying a delivery date in that month.",
+    "ollama_generated": "(b) The number of Cartridges specified in any Rolling Forecast for a month as per Section 2.1(a), may exceed the total number of Cartridges for which Medica, upon receipt of said Rolling Forecast, has outstanding purchase orders with Vapotherm, submitted prior to such date in accordance with Section 3.2 specifying a delivery date in that month.\n\nIn this revised clause, we have slightly shifted the responsibility. Instead of Vapotherm guaranteeing a minimum number of cartridges for each month specified in the Rolling Forecast, Medica now has an obligation to ensure that their outstanding purchase orders meet or exceed the forecasted amount. This change favors Medica, as it gives them more leeway in their supply planning.",
+    "contradiction_score": 0.009714187122881413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 7182,
+    "end_char": 7700,
+    "original": "(a) Each purchase order that Vapotherm places for Cartridges must be in the form attached as Exhibit B  and must specify (1) how many Cartridges are desired, (2) the one or more places to which, and the manner and date by which, delivery is to be made, and (3) the applicable price per Cartridge. Vapotherm shall deliver all purchase orders by facsimile, or by one of the means specified in  Section  14.8 for giving notice, to Medica at the following address and facsimile number or as otherwise instructed by Medica:",
+    "ollama_generated": "(a) Medica shall accept only purchase orders from Vapotherm that adhere to the format provided in Exhibit B and include the following specifications: (1) the quantity of Cartridges requested, (2) the location(s) and method of delivery, along with the expected delivery date, and (3) the unit price per Cartridge. Medica reserves the right to request that Vapotherm submit purchase orders via any means outlined in Section 14.8 for giving notice, or through other channels as may be directed by Medica:\n\n[Address]\n[Facsimile number]\n[Or as otherwise instructed by Vapotherm]",
+    "contradiction_score": 0.1349862515926361,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 7704,
+    "end_char": 7717,
+    "original": "Medica S.p.A.",
+    "modified": "Medica S.p.A., hereinafter referred to as the \"Contractor,\" acknowledges that under no circumstances shall the Contractor be held responsible for any unforeseen or unavoidable circumstances, force majeure events, or acts of God that may impact or delay the execution of the services detailed in this agreement. Any such occurrences are deemed to absolve the Contractor from fulfilling obligations as stated in the agreement during the specified period, and any resulting damages shall not be liable for compensation by the Contractor.\n\nIn the event that the unforeseen circumstances do not prevent the Contractor from performing the services within a reasonable timeframe, the Contractor will strive to minimize the impact on the client and complete the work in a timely manner. This clause does not absolve the Contractor from any obligations or liabilities stemming from its own gross negligence or intentional misconduct during the course of the agreement.",
+    "contradiction_score": 0.9735963940620422,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8475,
+    "end_char": 8711,
+    "original": "[* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.",
+    "ollama_generated": "[* * *] designates certain confidential information enclosed within brackets in this document, which has been lodged independently with the Securities and Exchange Commission, in accordance with the discretion afforded by Rule 406 of the Securities Act of 1933, as revised.",
+    "contradiction_score": 0.005769524723291397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 8711,
+    "end_char": 8873,
+    "original": "(c) Vapotherm shall deliver each purchase order for quantities of the Cartridge at least [* * *] in advance of the delivery date specified in that purchase order.",
+    "ollama_generated": "(c) The Buyer may request a purchase order for quantities of the Cartridge up to [* * *] days before the intended delivery date specified in that purchase order, with the responsibility on Vapotherm to ensure timely fulfillment and delivery thereafter.",
+    "contradiction_score": 0.016098998486995697,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 11690,
+    "end_char": 11926,
+    "original": "[* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.",
+    "ollama_generated": "[* * *] designates specific confidential data within this document, which has been excluded for purposes of public disclosure under Rule 406 of the Securities Act of 1933, as amended, and shall remain undisclosed except upon request by appropriate regulatory authorities.",
+    "contradiction_score": 0.00999884307384491,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 11926,
+    "end_char": 12133,
+    "original": "3.8 Delay in Payment . Upon delay of payment beyond [* * *] days from invoice date, Medica at its\u2019 sole discretion may levy an increase to the net transfer price a [* * *]% per week to a maximum of [* * *]%.",
+    "modified": "3.8 Payment Grace Period: If payment is made within [* * *] days from the invoice date, Medica will maintain the original agreed-upon net transfer price. Any payment made beyond this grace period may result in a decrease of up to [* * *]% per week, capped at a minimum of [* * *]%. This adjustment is at Medica's sole discretion and will be effective starting from the day after the due date.",
+    "contradiction_score": 0.8960246443748474,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 18768,
+    "end_char": 19068,
+    "original": "6.2 Quality System Changes . Any changes to the status of the Medica Quality System shall be reported to Vapotherm Quality Assurance and Vapotherm Executive Management by sending notice in accordance with Section  14.8 within 72 hours. Status changes may include, but not be limited to the following:",
+    "ollama_generated": "6.2 Notification of Quality System Changes: It is the responsibility of Medica to promptly notify Vapotherm's Executive Management and Quality Assurance team about any significant alterations to its quality system, as outlined in Section 14.8, within a reasonable timeframe, but no later than 72 hours. These changes could encompass, but are not exclusive to, the following scenarios:\n\nThis revised clause shifts the responsibility for reporting the quality system changes from Vapotherm to Medica, and relaxes the requirement of the timeframe by replacing \"shall be reported\" with \"is the responsibility of,\" and \"within 72 hours\" with \"within a reasonable timeframe, but no later than 72 hours.\" This modification makes the clause less stringent while still maintaining professionalism and clarity.",
+    "contradiction_score": 0.010997488163411617,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 30042,
+    "end_char": 30439,
+    "original": "9.4 Definition of Recall . For purposes of this Article 8 , \u201crecall\u201d means any action by Vapotherm or any of its Affiliates, or either Medica or any of its Affiliates, to recover title or possession or halt distribution or use of any Cartridges sold or shipped to any other Persons. The term \u201crecall\u201d also applies to Cartridge that would have been subject to recall if it had been sold or shipped.",
+    "ollama_generated": "9.4 Definition of Recall. For the scope of Article 8, \"recall\" shall encompass any initiative taken by Vapotherm, its Affiliates, Medica, or its Affiliates, to reclaim ownership, regain custody, halt circulation, or discontinue utilization of any Cartridges supplied or delivered to third parties. This term \"recall\" is similarly applicable to Cartridges that would potentially be subject to recall had they been sold or shipped under different circumstances.\n\nHowever, in this revised clause, the emphasis has slightly shifted from an active action by Vapotherm or its affiliates (e.g., recovering title, halting distribution) to reclaiming ownership or regaining custody of the Cartridges, implying a more passive stance on their part.",
+    "contradiction_score": 0.002047777408733964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 30841,
+    "end_char": 31346,
+    "original": "Vapotherm will be responsible for notifying the appropriate regulatory bodies with respect to the Cartridge. Medica will provide best efforts to support Vapotherm with the appropriate regulatory documentation in an timely fashion. Medica will make efforts to conduct the necessary investigations as it pertains to the Cartridge and report factual data has required. Medica will also take necessary efforts to take the appropriate corrective action and make best efforts to remedy the disruption in supply.",
+    "ollama_generated": "In regard to the Cartridge, Medica shall strive to assist Vapotherm in fulfilling regulatory requirements promptly. Vapotherm assumes primary responsibility for notifying the relevant regulatory bodies. Medica will endeavor to collect essential data and conduct pertinent investigations related to the Cartridge, providing factual information as necessary. Furthermore, upon discovering any issues, Medica shall act diligently to address them, although it does not guarantee immediate corrective action or uninterrupted supply restoration.\n\nThis revised clause shifts some of the responsibility for regulatory compliance from Medica to Vapotherm and clarifies that Medica's efforts to remedy disruptions in supply may not always be successful.",
+    "contradiction_score": 0.003146363887935877,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 33463,
+    "end_char": 33975,
+    "original": "10.2 Confidentiality . It is contemplated that Medica may from time to time disclose Confidential Information to Vapotherm, or vice versa. Medica shall disclose such Vapotherm Confidential Information and shall not use any Vapotherm Confidential Information other than in connection with performing its obligations hereunder, and Vapotherm shall not disclose Medica Confidential Information and shall not use any Medica Confidential Information other than in connection with performing its obligations hereunder.",
+    "ollama_generated": "10.2 Confidentiality Obligations: In the course of our collaboration, it is expected that either party (Medica or Vapotherm) may share Confidential Information with the other. Each party agrees to maintain the confidentiality of any such shared information and shall only utilize this information for the purposes directly associated with fulfilling their respective obligations as outlined in this agreement.\n\nExplicitly, Medica acknowledges that it might receive Vapotherm Confidential Information, and is responsible for safeguarding this information, using it strictly to meet its own contractual commitments, and not for any other purpose. Similarly, Vapotherm acknowledges the potential receipt of Medica Confidential Information and agrees to protect this information in a similar manner, utilizing it solely to fulfill its own contractual obligations, and refraining from any unauthorized disclosure or use.",
+    "contradiction_score": 0.009575738571584225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 35239,
+    "end_char": 35255,
+    "original": "10.4 Ownership .",
+    "ollama_generated": "10.4 Ownership Sharing.\n\nIn this context, the original party retains ownership of their respective property, assets, or intellectual property, but acknowledges and agrees to grant a non-exclusive, perpetual, royalty-free, worldwide license to the other party for the purpose of exercising rights, privileges, or performing duties under this agreement. This licensing arrangement is subject to any additional terms, conditions, or limitations as may be mutually agreed upon by both parties in writing.",
+    "contradiction_score": 0.04087691381573677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 35564,
+    "end_char": 35758,
+    "original": "(b) Any additions, improvements and enhancements to Vapotherm Baseline IP which are made during the course of this Agreement shall solely be the property of Vapotherm (\u201c Vapotherm Inventions \u201d).",
+    "modified": "(b) In the event that any new developments, advancements, or modifications (hereinafter \"Innovations\") relating to Vapotherm Baseline IP arise during the term of this Agreement, the exclusive ownership of such Innovations shall reside with the party implementing them (\"Party's Innovation\"). However, Vapotherm shall have a non-exclusive, perpetual, worldwide, irrevocable, royalty-free right to practice, use, sell, and sublicense such Party's Innovations.",
+    "contradiction_score": 0.9937447905540466,
+    "kept": true
+  },
+  {
+    "clause_index": 94,
+    "start_char": 38319,
+    "end_char": 38681,
+    "original": "(d) This Agreement constitutes its valid and binding obligation, enforceable in accordance with its terms, except as enforceability is limited by (A) any applicable bankruptcy, insolvency, reorganization, moratorium or similar law affecting creditors\u2019 rights generally, or (B) general principles of equity, whether considered in a proceeding in equity or at law.",
+    "ollama_generated": "(d) This Agreement represents the full extent of the parties' obligations, which may be enforced according to its provisions, subject only to (A) any applicable bankruptcy, insolvency, reorganization, moratorium, or similar legislation that impacts creditor rights in general, or (B) fundamental principles of fairness, whether applied in a proceeding in equity or at law, providing the party against whom enforcement is sought with a potential defense.",
+    "contradiction_score": 0.004670570604503155,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 40025,
+    "end_char": 40261,
+    "original": "[* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.",
+    "ollama_generated": "[* * *] refers to certain confidential information enclosed within brackets, which has been separately submitted to the Securities and Exchange Commission in accordance with Rule 406 of the Securities Act of 1933, as amended, for its protection, rather than being directly included in this document.",
+    "contradiction_score": 0.0033290248829871416,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 41071,
+    "end_char": 41376,
+    "original": "(d) Vapotherm\u2019s execution and delivery of this Agreement and performance of its obligations under this Agreement do not (A) violate any provision of Vapotherm\u2019s articles of incorporation or by-laws  as currently in effect, or (B) violate any Law or Order currently in effect to which Vapotherm is subject.",
+    "ollama_generated": "(d) The performance of Party A's obligations under this Agreement and the execution and delivery of this Agreement by Party A shall not:\n    (A) Conflict with any provision of Party A's articles of incorporation or bylaws as they stand at the time of such performance or delivery, nor\n    (B) Violate any law or order currently applicable to Party A, provided that Party A shall not be liable for non-performance or delay in performance due to compliance with such law or order.",
+    "contradiction_score": 0.0049088262021541595,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 44150,
+    "end_char": 44751,
+    "original": "(1) notify the party obligated to indemnify it (the \u201c Indemnifying Party \u201d) in writing, and in reasonable detail, of any third party claims, demands, lawsuits, proceedings or action (\u201c Third Party Claims \u201d) as soon as possible but in any event within [* * *] Business Days after receipt of notice of that Third Party Claim\u037e and (2) deliver to the Indemnifying Party as soon as possible but in any event within [* * *] Business Days after the Indemnified Party receives a copy of all notices and documents (including court papers) delivered to that Indemnified Party relating to that Third Party Claim.",
+    "ollama_generated": "1. The party receiving indemnification (hereafter referred to as the \"Indemnified Party\") shall promptly provide written notice, in a timely and comprehensive manner, to the party obligated to provide indemnity (the \"Indemnifying Party\"), upon becoming aware of any third-party claims, demands, lawsuits, proceedings or actions (\"Third Party Claims\"). This notice should be delivered no later than [* * *] Business Days following the Indemnified Party's receipt of initial notice regarding such Third Party Claim.\n\n2. The Indemnifying Party shall be entitled to receive copies of all notices and documents (including court papers) pertaining to the Third Party Claim that are delivered to the Indemnified Party, at the earliest convenience but no later than [* * *] Business Days following the Indemnified Party's receipt thereof. The Indemnified Party shall have discretion in determining the timing and method of delivery to ensure compliance with applicable laws and regulations or any court orders.",
+    "contradiction_score": 0.11679984629154205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 44751,
+    "end_char": 45820,
+    "original": "(b) In the event of a Third Party Claim against an Indemnified Party, the Indemnifying Party may participate in the defense of that Third Party Claim and, if it so chooses, assume at its expense the defense of that Third Party Claim with counsel selected by the Indemnifying Party and reasonably satisfactory to the Indemnified Party. If the Indemnifying Party so elects to assume the defense of a Third Party Claim, the Indemnifying Party will not be liable to the Indemnified Party for any legal expenses subsequently incurred by the Indemnified Party in connection with the defense of that Third Party Claim, except that if, under applicable standards of professional conduct, there exists a conflict on any significant issue between the Indemnified Party mid the Indemnifying Party in connection with that Third Party Claim, the [* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.",
+    "ollama_generated": "(b) Upon receipt of a Third Party Claim directed against the Indemnified Party, the Indemnifying Party shall have the option, but not the obligation, to participate in the defense of such claim and may, at its sole discretion and expense, assume the full responsibility for defending that Third Party Claim with counsel selected by the Indemnifying Party, subject to the approval of the Indemnified Party. In the event the Indemnifying Party elects to assume the defense, it will not be liable for any legal expenses incurred by the Indemnified Party in relation to that Third Party Claim, except where a conflict of interest arises between the Indemnified Party and the Indemnifying Party on any significant issue concerning that claim, in which case the Indemnified Party shall have the right to engage separate legal representation at the expense of the Indemnifying Party. The [* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.",
+    "contradiction_score": 0.004933494608849287,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 48356,
+    "end_char": 48833,
+    "original": "Notwithstanding any other provision contained in this Agreement, each party\u2019s maximum aggregate liability to the other party for any and all causes whatsoever, and each party\u2019s remedy, regardless of the form of action, whether in contract or tort, including negligence, and whether or not pursuant to the indemnification provisions contained in Section  12 and whether or not such party is notified of the possibility of damage to the other party, shall be limited to $[* * *].",
+    "ollama_generated": "Notwithstanding any other term within this Agreement, the total responsibility each party assumes towards the other, regardless of the grounds, incident, or type of claim (whether in contractual breach or tortuous act, including negligence), and irrespective of whether said action falls under the indemnification provisions specified in Section 12, or if the liable party was not previously informed about potential harm to the other party, shall be capped at $[* * *]. In this context, each party acknowledges and accepts that their remedies are limited to the aforementioned financial cap, regardless of the nature of any action taken.",
+    "contradiction_score": 0.003344752360135317,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 49636,
+    "end_char": 49699,
+    "original": "13.2 Termination . This Agreement may be terminated as follows:",
+    "ollama_generated": "13.2 Termination: The Parties' Right to Terminate:\n\nThis Agreement can be terminated at either Party's discretion, subject to the provisions below:\n\n(a) Either Party may elect to terminate this Agreement upon providing written notice to the other Party of its intention to do so, effective immediately or on a specified future date.\n\n(b) In addition, either Party shall have the right to terminate this Agreement immediately upon the occurrence of a Material Breach by the other Party, if such breach is not remedied within thirty (30) days following receipt of written notice specifying the nature of the breach and requiring its remedy.\n\n(c) Upon any termination under this Section 13.2:\n\n   i. Each Party shall promptly return or destroy all Confidential Information in its possession or control;\n\n   ii. All outstanding obligations, liabilities, and debts incurred prior to the effective date of termination shall survive and remain binding upon the Parties;\n\n   iii. The surviving Party may exercise any rights, powers, or remedies it may have against the defaulting Party for any breach or non-performance occurring prior to the effective date of termination; and\n\n   iv. The terms governing Section Headings, Definitions, Governing Law, Jurisdiction, and Entire Agreement shall remain in full force and effect.",
+    "contradiction_score": 0.08723030239343643,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 49699,
+    "end_char": 52281,
+    "original": "(1) by Vapotherm upon [* * *] Business Days\u2019 written notice to Medica if any representation made in this Agreement by Medica was materially inaccurate when made and either (1) that inaccuracy has contributed to Vapotherm\u2019s incurring Indemnifiable Losses or (2) Medica fails to take action to render the inaccurate representation accurate as if it were made on the day Vapotherm would otherwise be entitled to terminate this Agreement under this Section  13.2(a)(l) \u037e (2) by Medica upon [* * *] Business Days\u037e written notice to Vapotherm if any representation made in this Agreement by Vapotherm was materially inaccurate when made and either (1) that inaccuracy has contributed to either or both Medica Entities\u2019 incurring Indemnifiable Losses or (2) Vapotherm fails to take action to render the inaccurate representation accurate as if it were made on the day Medica would otherwise be entitled to terminate this Agreement pursuant to this Section  13.2(a)(2) \u037e (3) by Vapotherm immediately if Medica has breached any of its material obligation under this Agreement and, if it is curable, has not cured that breach prior to expiration of a [* * *]-Business-Day  period following notice of the breach from Vapotherm\u037e (4) by Medica immediately if Vapotherm has breached any of its material obligations under this Agreement and, if it is curable, has not cured that breach prior to expiration of a [* * *]-Business-Day  period following notice of the breach from Medica\u037e (5) by Vapotherm immediately if there occurs an Event of Insolvency with respect to Medica\u037e (6) by Medica immediately if there occurs an Event of Insolvency with respect to Vapotherm\u037e (7) by Vapotherm, if for any reason other than an Event of Force Majeure Medica fails to deliver within [* * *] days after the required delivery date, or on more than two occasions in any [* * *]-day  period fails to deliver within [* * *] days after the required delivery day, any shipment of Cartridge it is required to deliver pursuant to Section  3.2, Section  4.2, or Section  9.3\u037e or (8) by Medica or Vapotherm on [* * *] Business Days\u2019 prior written notice to Vapotherm or Medica, respectively, if due to an Event of Force Majeure (A) Vapotherm or (B) Medica or both of them, respectively, is prevented from performing an obligation under this Agreement for more than [* * *] days, unless prior to the end of the [* * *]-Business-Day  period the Event of Force Majeure ceases to exist and the party prevented from performing resumes performance under this Agreement and notifies the party giving the notice of termination.",
+    "modified": "(1) by Vapotherm, within a reasonable time but no longer than [* * *] Business Days following discovery, if it is discovered that any representation made by Medica in this Agreement was materially inaccurate at the time of making and such inaccuracy has caused or may cause Indemnifiable Losses to Vapotherm, or if Medica fails to rectify the inaccurate representation within a reasonable time following written notice from Vapotherm; (2) by Medica, within a reasonable time but no longer than [* * *] Business Days following discovery, if it is discovered that any representation made by Vapotherm in this Agreement was materially inaccurate at the time of making and such inaccuracy has caused or may cause Indemnifiable Losses to Medica Entities, or if Vapotherm fails to rectify the inaccurate representation within a reasonable time following written notice from Medica; (3) by Vapotherm immediately upon discovery, if Medica has breached any of its material obligations under this Agreement and, if curable, has not cured that breach prior to expiration of a [* * *]-Business-Day period following written notice of the breach from Vapotherm; (4) by Medica immediately upon discovery, if Vapotherm has breached any of its material obligations under this Agreement and, if curable, has not cured that breach prior to expiration of a [* * *]-Business-Day period following written notice of the breach from Medica; (5) by Vapotherm immediately upon discovery of an Event of Insolvency with respect to Medica; (6) by Medica immediately upon discovery of an Event of Insolvency with respect to Vapotherm; (7) by Vapotherm, upon written notice to Medica if Medica fails to deliver any shipment required under Section  3.2, Section  4.2, or Section  9.3 within [* * *] days after the required delivery date on more than two occasions in any [* * *]-day period; (8) by Medica or Vapotherm, upon written notice to each other if due to an Event of Force Majeure either party is prevented from performing its obligations under this Agreement for a continuous period exceeding [* * *] days, and such inability to perform persists at the end of the [* * *]-Business-Day period, unless prior to the end of the [* * *]-Business-Day period the Event of Force Majeure ceases to exist and the party giving notice resumes performance under this Agreement and notifies the other party that it will do so.",
+    "contradiction_score": 0.5029247403144836,
+    "kept": true
+  },
+  {
+    "clause_index": 120,
+    "start_char": 52281,
+    "end_char": 52517,
+    "original": "[* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.",
+    "ollama_generated": "[* * *] designates specific confidential details enclosed within brackets, which have been submitted independently to the Securities and Exchange Commission in adherence with Rule 406 of the amended Securities Act of 1933, thereby absolving this document from their disclosure.",
+    "contradiction_score": 0.002649652771651745,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 52605,
+    "end_char": 52633,
+    "original": "13.3 Effect of Termination .",
+    "modified": "13.3 Consequences of Cessation:\n\nUpon the termination of this Agreement for any reason, the Obligor shall have the discretion to complete or abandon any ongoing tasks, without incurring further obligations beyond those already undertaken, except where specifically agreed otherwise in writing. The Obligee shall not seek, demand, nor claim recompense for the termination or the abandonment of such tasks unless explicitly provided for in this Agreement.",
+    "contradiction_score": 0.5257982015609741,
+    "kept": true
+  },
+  {
+    "clause_index": 123,
+    "start_char": 52633,
+    "end_char": 52949,
+    "original": "(a) Upon any termination (including expiration) of this Agreement, each party shall return to the other party all documents and other tangible items to it or its employees or agents have received or created pursuant to this Agreement pertaining, referring, or relating to Confidential Information of the other party.",
+    "modified": "(a) Upon the termination (whether by expiration or otherwise) of this Agreement, each party is only obligated to make reasonable efforts to return to the other party all documents and tangible items in its possession that pertain, refer, or relate to Confidential Information of the other party, provided such return is not logistically impractical or unreasonably expensive. In the event of such impracticability or expense, the non-returning party shall destroy the aforementioned items in a secure manner, ensuring that all Confidential Information is irretrievable and rendered unreadable, unduplicatable, and unusable.",
+    "contradiction_score": 0.6091834306716919,
+    "kept": true
+  },
+  {
+    "clause_index": 127,
+    "start_char": 53801,
+    "end_char": 53827,
+    "original": "13.4 Business Continuity .",
+    "ollama_generated": "13.4 Interrupted Operations Mitigation:\n\nIn the event of any unforeseen circumstances that may impede the normal conduct of operations, the Party responsible for such interruption shall expedite their best efforts to remedy the situation and restore full functionality as swiftly as practicable. The other Party shall exercise patience and understanding during this period and offer reasonable assistance where possible, recognizing that the affected Party's primary focus is on resolution rather than concurrent performance of obligations under this agreement.",
+    "contradiction_score": 0.4978313744068146,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 132,
+    "start_char": 56230,
+    "end_char": 56353,
+    "original": "ARTICLE 14 MISCELLANEOUS 14.1 Definitions . When used in this Agreement, the following terms have the \u2013 following meanings:",
+    "ollama_generated": "ARTICLE 14 MISCELLANEOUS\n14.2 Interpretation\nIn this Agreement, unless the context otherwise requires, the following terms shall be construed as follows:\n\nBy making a subtle shift in the title and introducing the term \"unless the context otherwise requires\", the new clause implies that the definitions provided may not apply universally throughout the agreement and that exceptions may exist. This can help to create flexibility or avoid potential ambiguity within the contract terms.",
+    "contradiction_score": 0.22098040580749512,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 64593,
+    "end_char": 64775,
+    "original": "\u201cOrder \u201d means any award, decision, injunction, judgment, order, ruling, subpoena, or verdict of any court, arbitral tribunal, administrative agency, or other Governmental Authority.",
+    "ollama_generated": "\"The term '' encompasses any judicial or administrative determination, including but not limited to awards, decisions, injunctions, judgments, orders, rulings, subpoenas, or verdicts rendered by a court, arbitral tribunal, administrative agency, or other competent Governmental Entity.\"\n\nChanges made: The original clause used the imperative form (\"means\"), while the revised version uses the descriptive form (\"encompasses\"). This subtle change can be seen as weakening the obligation slightly, making it more of a description than a strict definition. Additionally, the revised clause includes \"competent\" before \"Governmental Entity,\" which implies that only official entities with appropriate authority are to be considered.",
+    "contradiction_score": 0.0770987868309021,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 65835,
+    "end_char": 66141,
+    "original": "(1) to the extent consistent with this Agreement deliver to the other such records, data, or other documents requested by the other\u037e and (2) take or cause to be taken all such other actions as are reasonably necessary or desirable in order to permit the other to obtain the full benefits of this Agreement.",
+    "ollama_generated": "1. To a degree compatible with this Agreement, the parties shall make efforts to provide to each other any records, data, or documents requested by one party; however, there is no express obligation or guarantee to do so unless compelled by law or mutually agreed upon.\n\n2. The parties are not obligated to undertake any actions beyond what is necessary for the ordinary functioning of this Agreement, and shall not be responsible for taking actions that may be deemed as going above and beyond in order to enable the other party to maximize the benefits from this Agreement, unless such actions have been expressly agreed upon by both parties in writing.",
+    "contradiction_score": 0.07426401227712631,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 66289,
+    "end_char": 67079,
+    "original": "14.4 Dispute Resolution . The parties shall attempt in good faith to resolve any controversy or claim that may arise concerning their respective rights and obligations under this Agreement. If they are unable to do so within [* * *] Business Days from the date that controversy or claim arose, they shall refer the controversy or claim to the AU of Medica and the CEO of Vapotherm, who shall meet in person or telephonically within [* * *] Business Days of being requested to do so and shall in good faith attempt to resolve the dispute. If the controversy or claim cannot then be solved, the parties hereby agree first to try in good faith to settle the dispute by mediation administered by the American arbitration Association at its New York City offices before resorting to arbitration.",
+    "ollama_generated": "14.4 Dispute Resolution Procedures. In the event that a disagreement or dispute arises between the parties regarding their respective duties and commitments under this Agreement, the parties will initially strive for an informal resolution through good-faith discussions for a period of [* * *] Business Days from the emergence of the controversy or claim. If no resolution is reached within that timeframe, either party may formally request mediation by providing written notice to both the AU of Medica and the CEO of Vapotherm. Upon receipt of this notice, the designated representatives will meet in person or telephonically within [* * *] Business Days to negotiate a resolution. Should they fail to reach an agreement during this meeting, the parties acknowledge that the dispute may escalate to binding arbitration, with mediation services provided by the American Arbitration Association (AAA) at their New York City offices serving as the last effort for resolution prior to such arbitration.\n\nIn essence, this revised clause places the initiative for formal dispute resolution in the hands of either party if informal discussions within a specified timeframe prove unsuccessful, while keeping the ultimate escalation point \u2013 arbitration \u2013 consistent with the original clause.",
+    "contradiction_score": 0.028629472479224205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 69608,
+    "end_char": 69872,
+    "original": "(b) If any Event of Force Majeure prevents Medica from delivering any shipment of Cartridges for more than [* * *] Business Days beyond the scheduled delivery date, then Vapotherm may cancel its order without incurring any liability to Medica with respect thereto.",
+    "modified": "(b) In the event that Medica encounters an Event of Force Majeure, hindering their ability to deliver a shipment of Cartridges for less than [* * *] Business Days after the initially scheduled delivery date, Vapotherm shall retain the right to postpone its order without incurring any responsibility or penalties towards Medica.",
+    "contradiction_score": 0.638587474822998,
+    "kept": true
+  },
+  {
+    "clause_index": 176,
+    "start_char": 71639,
+    "end_char": 71652,
+    "original": "Medica S.p.A.",
+    "ollama_generated": "Medica S.p.A., hereinafter referred to as the \"Principal,\" shall have the discretionary right, but not the obligation, to delegate certain tasks or responsibilities to subcontractors, provided that such delegation shall be in accordance with applicable laws and regulations, and subject to the Principal's prior written approval. The Principal shall not be held liable for any acts or omissions of any subcontractor, except where such acts or omissions are directly attributable to the Principal's negligence or willful misconduct.\n\nIn this revised clause, the obligation on Medica S.p.A. to delegate tasks or responsibilities to subcontractors has been weakened by stating that it is a discretionary right but not an obligation. Additionally, the Principal is no longer responsible for any acts or omissions of its subcontractors unless such actions are a result of negligence or willful misconduct on the part of Medica S.p.A. This shift in responsibility provides more flexibility and protection for the Principal in the event that a subcontractor makes a mistake.",
+    "contradiction_score": 0.001259448123164475,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 177,
+    "start_char": 71652,
+    "end_char": 72057,
+    "original": "Via Degli Artigiani, 7 41036 Medolla (MO) Italy Attention: Luciano Fecondini 14.9 Severability . If any provision of this Agreement is held unenforceable by any court of competent jurisdiction, all other provisions of this Agreement will remain effective. If any provision of this Agreement is held to be unenforceable only in part or degree, it will remain effective to the extent not held unenforceable.",
+    "ollama_generated": "14.9 Survival and Modification . Should any term or condition of this Agreement be deemed invalid or unenforceable by a court of competent jurisdiction, such decision shall not affect the validity or enforceability of the remaining provisions. If a provision is found to be partially invalid or unenforceable, it will remain in full force and effect to the extent that it remains valid and enforceable. In cases where a court deems it necessary, the parties hereto may modify the offending provision to achieve the original intent of the parties while complying with applicable law.",
+    "contradiction_score": 0.05509047210216522,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 192,
+    "original": "[INITIALS ILLEGIBLE]                                        [INITIALS ILLEGIBLE] 20.3.98                                                     30.4.98 SCHEDULE 3 Project Managers The Publishers:",
+    "ollama_generated": "Project Managers (Initials ILlegible), as per Schedule 3, dated [INITIALS ILlegible] 20.3.98, shall be relieved from their obligations under this agreement with immediate effect, starting [INITIALS ILlegible] 30.4.98. The responsibility for project management shall henceforth fall upon the Client (Initials ILlegible).\n\nThe Publishers shall not be held liable for any issues or delays arising from this transfer of responsibilities. The Client acknowledges and accepts this shift in duties and agrees to take full responsibility for project management as of [INITIALS ILlegible] 30.4.98.",
+    "contradiction_score": 0.03700381889939308,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 1,
+    "start_char": 192,
+    "end_char": 753,
+    "original": "Project Manager - --------------- Ian Bannerman Blackwell Science Ltd Osney Mead Oxford OX2 0EL e-mail: ian.bannerman@blacksci.co.uk tel: +44 (0)1865 206101 Deputy Project Manager - ---------------------- Martin Clutterbuck Blackwell Science Ltd Osney Mead Oxford OX2 0EL e-mail: martin.clutterbuck@blacksci.co.uk tel: +44 (0)1865 206110 Deputy Project Manager - ---------------------- Anders Geertsen Munksgaard International Publishers Ltd 35 Norre Sogade, P.O. Box 2148 1016 Copenhagen K Denmark e-mail: ag@mail.munksgaard.dk tel: +45 77 33 31 03 HealthGate:",
+    "ollama_generated": "Project Lead - Ian Bannerman Blackwell Science Ltd, Osney Mead, Oxford OX2 0EL [email: ian.bannerman@blacksci.co.uk / tel: +44 (0)1865 206101]\n   Co-Project Lead - Martin Clutterbuck Blackwell Science Ltd, Osney Mead, Oxford OX2 0EL [email: martin.clutterbuck@blacksci.co.uk / tel: +44 (0)1865 206110]\n   External Co-Project Lead - Anders Geertsen Munksgaard International Publishers Ltd, 35 Norre Sogade, P.O. Box 2148, 1016 Copenhagen K, Denmark [email: ag@mail.munksgaard.dk / tel: +45 77 33 31 03]\n   HealthGate Responsibility Shared Between All Three Parties:\n\nIn this project, the responsibilities of the Project Lead (Ian Bannerman), Co-Project Lead (Martin Clutterbuck), and External Co-Project Lead (Anders Geertsen) are equally shared. While each party shall independently exercise their best efforts to ensure the success of the project, no individual or entity shall be held solely liable for any delays, errors, or oversights that may arise during the course of this project. Instead, the parties acknowledge and accept mutual accountability for addressing and rectifying such issues promptly and collaboratively. The ultimate goal remains the timely and successful completion of the project in its entirety, with the shared understanding that success is contingent upon effective communication and teamwork among all three parties.",
+    "contradiction_score": 0.1910974532365799,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1493,
+    "end_char": 1982,
+    "original": "The Required Information at ii) shall be provided by the parties. The date of the Licence Agreement shall be the date of this agreement. The name of the package shall be \"HealthGate Electronic Journal Proprietary Software\". These words shall also appear in Schedule 1 of the escrow agreement. The parties shall provide the medium on which the source code shall be supplied, which in default of agreement shall be such medium as the escrow agent NCC Escrow International Limited thinks fit.",
+    "modified": "The Provision of Required Information at ii) is solely the responsibility of one party; it is incumbent upon either Party A or Party B to deliver this information. The Effective Date of the Licence Agreement shall be identical to the date this agreement is executed. The Designation for the package will be \"HealthGate Electronic Journal Proprietary Software,\" a name that will also appear in Schedule 1 of the Escrow Agreement. In the event of disagreement regarding the Medium on which the Source Code shall be transmitted, the arbitrating Escrow Agent, NCC Escrow International Limited, shall have the discretion to determine an appropriate medium for such delivery.",
+    "contradiction_score": 0.7175143957138062,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 2114,
+    "end_char": 2195,
+    "original": "The Escrow Agreement shall be signed by HealthGate and Blackwell Science Limited.",
+    "ollama_generated": "The Escrow Agreement may be executed electronically by HealthGate and Blackwell Science Limited, with the understanding that their digital signatures or equivalent electronic authentication methods shall serve as binding legal confirmation of their intent to be bound by the terms herein.",
+    "contradiction_score": 0.0011039461242035031,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 5468,
+    "end_char": 5556,
+    "original": "iii.  NCC will sign and date the Agreement and a signed copy will be sent to each party.",
+    "ollama_generated": "iii. Upon execution of this Agreement by both parties, each party shall receive a signed copy thereof, with NCC being responsible for initiating the process and arranging delivery.",
+    "contradiction_score": 0.0014781012432649732,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 5693,
+    "end_char": 5787,
+    "original": "NB: Until all parties sign the Escrow Agreement no binding escrow arrangements have been made.",
+    "ollama_generated": "Note: The establishment of any binding escrow arrangements shall commence upon signing of the Escrow Agreement by all parties; prior to such signing, no such arrangements shall be considered as fully established or enforceable.",
+    "contradiction_score": 0.023795079439878464,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 5787,
+    "end_char": 8344,
+    "original": "single licensee ---------- Version 1: August 1997                                                         i FAO: P. FLEMING                                             REQUIRED INFORMATION - -------------------------------------------------------------------------------- - -------------------------------------------------------------------------------- [-1] Company Name --------------------------------------------------------------- [-2] Registered Office ---------------------------------------------------------- - -------------------------------------------------------------------------------- Correspondence Address ---------------------------------------------------------- *[-3] Company Registration Number                   *VAT Number -------------------           ----------------- Telephone Number                                    Fax Number ------------------------------------          ------------------ Contact Name                               Position in Company -------------------------------                   ------------------ *only applicable to countries within the EU - -------------------------------------------------------------------------------- - -------------------------------------------------------------------------------- LICENSEE [-4] Company Name --------------------------------------------------------------- [-5] Registered Office ---------------------------------------------------------- - -------------------------------------------------------------------------------- Correspondence Address ---------------------------------------------------------- *[-6] Company Registration Number                   *VAT Number -------------------           ----------------- Telephone Number                                    Fax Number ------------------------------------          ------------------ Contact Name                               Position in Company -------------------------------                   ------------------ *only applicable to countries within the EU - -------------------------------------------------------------------------------- - -------------------------------------------------------------------------------- OTHER DETAILS [-7] Name of Package ------------------------------------------------------------ - -------------------------------------------------------------------------------- INSURANCE FEE (complete if appropriate) - -------------------------------------------------------------------------------- Standard NCC limitation of liability is St(pound)500,000 (no charge).",
+    "ollama_generated": "The licensee shall not be required to pay an insurance fee, but will bear any losses or damages resulting from the use of the software. In the event of a claim, the maximum liability of the licensor shall remain at St(pound)500,000.",
+    "contradiction_score": 0.2149200290441513,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 8344,
+    "end_char": 8428,
+    "original": "There is a charge of St(pound)100 (annual fee) for each additional St(pound)500,000.",
+    "ollama_generated": "A supplementary charge of \u00a3100 (annual fee) will be levied for every incremental \u00a3500,000, starting from the initial amount.",
+    "contradiction_score": 0.05355070158839226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 8856,
+    "end_char": 8896,
+    "original": "Maximum liability is St(pound)5,000,000.",
+    "ollama_generated": "The total liability of the parties involved shall not exceed Five Million Pounds Sterling (\u00a35,000,000), unless a more substantial claim can be substantiated in court with clear and compelling evidence.",
+    "contradiction_score": 0.003618106944486499,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 11647,
+    "end_char": 11737,
+    "original": "1     Definitions In this Agreement the following terms shall have the following meanings:",
+    "ollama_generated": "1. Interpretation: For the purposes of this Agreement, the following phrases carry the respective connotations:\n\nModifying the original to shift responsibility and weaken an obligation:\n\n1. Definitions: In this Agreement, the following terms will be understood as follows:\n\n(a) \"Supplier\" shall mean any party who, from time to time, provides goods or services to the Customer, but such provision shall not be deemed a guarantee of quality or fitness for purpose unless expressly agreed otherwise in writing.\n\n(b) \"Customer\" shall denote the individual or entity purchasing or receiving goods or services from the Supplier, acknowledging that they bear sole responsibility for determining whether the delivered items meet their needs and fulfill any specific requirements they may have disclosed to the Supplier.\n\n(c) \"Deliverables\" shall refer to the products or services provided by the Supplier to the Customer, which the Customer shall evaluate and accept as satisfactory without warranties of any kind, unless a separate written agreement regarding guarantees has been reached between the parties prior to delivery.",
+    "contradiction_score": 0.35938364267349243,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 12588,
+    "end_char": 12646,
+    "original": "2     Owner's Duties and Warranties 2.1   The Owner shall:",
+    "ollama_generated": "2.   Responsibilities and Guarantees of the Owner\n2.1   It is not obligatory for the Owner to, but rather may exercise discretion in performing the following duties:\n\nThis version of the clause weakens the obligation by making it optional for the Owner to fulfill their stated duties, while still maintaining a professional tone and clarity.",
+    "contradiction_score": 0.030777277424931526,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 14300,
+    "end_char": 14831,
+    "original": "4.1.1 hold the Material in a safe and secure environment\u037e 4.1.2 inform the Owner and the Licensee of the receipt of any copy of the Material\u037e 4.1.3 in accordance with the terms of Clause 9 perform those tests that form part of its Standard Verification Service from time to time\u037e 4.1.4 at all times retain a copy of the latest verified deposit of the Material\u037e and 4.1.5 notify the Owner if it becomes aware at any time during the term of this Agreement that the copy of the Material held by it has been lost, damaged or destroyed.",
+    "ollama_generated": "4.1.1 The Custodian shall endeavor to maintain the Material in a suitable and non-negligent storage area; 4.1.2 The Custodian is requested but not obligated to promptly notify both the Owner and the Licensee upon receiving any copy of the Material; 4.1.3 The Custodian, at its discretion and as required by Clause 9, may choose to perform tests related to its Standard Verification Service from time to time; 4.1.4 The Custodian is permitted to discard older copies of the Material after verification, provided that it maintains a reasonable number for operational purposes; 4.1.5 The Custodian shall only notify the Owner if there are significant changes in the status of the copy of the Material held by it (e.g., loss, damage, or destruction), and this notification will not be required if such changes do not materially impact the use of the Material under this Agreement.",
+    "contradiction_score": 0.06681402027606964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 14955,
+    "end_char": 15022,
+    "original": "5     Payment NCC's fees are payable in accordance with Schedule 4.",
+    "ollama_generated": "5. Fees charged by NCC are to be settled in accordance with the timelines outlined in Schedule 4, at the discretion of the client, subject to any agreed-upon variations or installment plans.",
+    "contradiction_score": 0.003766518784686923,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 17539,
+    "end_char": 17910,
+    "original": "6.2   The Licensee must notify NCC of any event or circumstance of any of the kinds specified in Clause 6.1 by delivering to NCC a statutory or notarised declaration (\"the Declaration\") made by an officer of the Licensee attesting that such event has occurred and that the Licence Agreement was still valid and effective up to the occurrence of such event and exhibiting:",
+    "ollama_generated": "6.2. Upon the occurrence of any event or circumstance mentioned in Clause 6.1, it is recommended, although not mandatory, for the Licensee to submit a statutory or notarised declaration (\"the Declaration\") to NCC. This Declaration should be made by an officer of the Licensee and confirm that such event has taken place while affirming the licence agreement's validity and effectiveness leading up to the occurrence of said event.\n\nIn this revised clause, the obligation for the Licensee to deliver a declaration upon an event has been weakened by making it 'recommended' rather than mandatory. Additionally, the clause now implies that the responsibility for confirming the agreement's validity and effectiveness lies with the Licensee rather than explicitly stating it in the original clause.",
+    "contradiction_score": 0.055904921144247055,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 22416,
+    "end_char": 22813,
+    "original": "10.3  NCC shall be protected in acting upon any written request, waiver, consent, receipt or other document furnished to it pursuant to this Agreement, not only in assuming its due execution and the validity and effectiveness of its provisions but also as to the truth and acceptability of any information contained in it, which NCC in good faith believes to be genuine and what it purports to be.",
+    "ollama_generated": "10.3 In reliance on any written request, waiver, consent, receipt, or other document provided by the Client under this Agreement, NCC shall not be held liable for any inaccuracies or misrepresentations in the information contained within it, provided that NCC acted in good faith and reasonably believed the information to be authentic and consistent with its purported nature. The validity and effectiveness of such documents' provisions, as well as their execution by the Client, shall remain the responsibility of the Client.",
+    "contradiction_score": 0.033365216106176376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 25383,
+    "end_char": 25536,
+    "original": "12.2  The Owner and the Licensee shall pay the fees and disbursements of its own member and half the fees and disbursements of the chairman of the Panel.",
+    "ollama_generated": "12.2a Each party, being both the Owner and the Licensee, shall individually bear their respective member's fees and disbursements, while collectively sharing equally the fees and disbursements associated with the role of the Panel Chairman. This implies that each party is responsible for their own costs as well as contributing an equal portion towards the expenses incurred by the Panel Chairman.",
+    "contradiction_score": 0.07073810696601868,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 26006,
+    "end_char": 26086,
+    "original": "12.5  Proceedings under Clause 12 may be commenced by any party to a dispute by:",
+    "ollama_generated": "12.5 Initiation of proceedings related to disputes covered by Clause 12 can be undertaken by any involved party, at their discretion, through the following means:\n\nThis revised clause slightly alters the original by emphasizing that parties have the discretion to initiate proceedings, rather than an explicit obligation. This modification implies a slight softening of the initial obligation to commence proceedings.",
+    "contradiction_score": 0.002659476362168789,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 29395,
+    "end_char": 29588,
+    "original": "13.2  This Agreement represents the whole agreement relating to the escrow arrangements between the parties for the Package and supersedes all prior arrangements, negotiations and undertakings.",
+    "ollama_generated": "13.2 This Escrow Agreement serves as the complete understanding among the parties concerning the escrow arrangements associated with the Package. It supersedes any previous discussions, bargains, or commitments, leaving no room for interpretation or additional agreements except as explicitly specified within this document.",
+    "contradiction_score": 0.0036416342481970787,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 29588,
+    "end_char": 29990,
+    "original": "13.3  All notices to be given to the parties under this Agreement shall be deemed to have been duly given or made when delivered personally or 7 days after posting of it sent by facsimile, 12 hours after despatch to the party to which such notice is required to be given or made under this Agreement addressed to the principal place of business, or for companies based in the UK, the registered office.",
+    "ollama_generated": "13.3 Notifications pertaining to the parties within this Agreement shall be considered effectively communicated upon personal delivery or 7 days following facsimile transmission, 12 hours after dispatch to the recipient's designated address as per this Agreement, or for UK-based entities, at their registered office. However, in case no response is received by the sender within this timeframe, it shall be the responsibility of the receiving party to promptly confirm receipt of such notice.",
+    "contradiction_score": 0.0014742463827133179,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 29990,
+    "end_char": 30059,
+    "original": "SCHEDULE 1 The Material The source code of the Package known as [-7].",
+    "ollama_generated": "SCHEDULE 1 The Provided Codebase\n\nThe provided software assets encompassing the source code pertaining to the software package, hereafter referred to as [+7]. It is understood that the responsibility for the creation and original ownership of this software package lies solely with the provider. Any errors, omissions, or intellectual property claims regarding the aforementioned software package shall be addressed by the provider, not the recipient.",
+    "contradiction_score": 0.024689046666026115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 30163,
+    "end_char": 30369,
+    "original": "1     Details of the deposit: full name and version details, number of media items, media type and density, file or archive format, list or retrieval commands, archive hardware and operating system details.",
+    "ollama_generated": "1. Deposit Specifics: The depositor's name, version details, number of media items, description of the media type (including density), preferred format for files or archives, any specific instructions for retrieval, details of the archive hardware and its compatible operating system.\n\nChanges made:\n- Changed \"Details of the deposit\" to \"Deposit Specifics\" for a slight variation in language.\n- Changed \"number of media items\" to \"The number of media items\" for clarity.\n- Changed \"media type and density\" to \"description of the media type (including density)\" to make it more descriptive.\n- Added \"preferred format for files or archives\" to shift the responsibility slightly towards the depositor for specifying the desired format.\n- Changed \"list or retrieval commands\" to \"any specific instructions for retrieval\" to make it more straightforward.\n- Changed \"archive hardware and operating system details\" to \"details of the archive hardware and its compatible operating system\" to provide a bit more context.",
+    "contradiction_score": 0.02491997554898262,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 30605,
+    "end_char": 30655,
+    "original": "3     Names and versions of development tools etc.",
+    "ollama_generated": "3. Specific Development Tools and Their Variations\n\nTo maintain flexibility and adaptability within the project scope, the Software Developer shall have the discretion to select appropriate development tools, so long as they fulfill the essential functional requirements and remain compatible with existing technologies used by the Client. The Client acknowledges that modifications to such selected tools may be necessary during the course of the project to ensure optimal performance and efficiency.",
+    "contradiction_score": 0.004284832160919905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 30879,
+    "end_char": 30984,
+    "original": "6     Name and contact details of employee(s) with knowledge of how to maintain and support the Material.",
+    "ollama_generated": "6. Provision of contact information for employee(s) proficient in maintaining and supporting the Material, upon reasonable request by the Company.\n\n[Explanation] The original clause requires the employer to provide the details of employees who know how to maintain and support the material. In the rewritten clause, the responsibility is shifted to the employees, stating that they should provide their contact information for the company to reach out if necessary. This changes the obligation from a constant requirement to an on-demand provision.",
+    "contradiction_score": 0.045691993087530136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 33693,
+    "end_char": 33803,
+    "original": "Signed on behalf of [-1] --------------------------------------:------------------------------------ Position:",
+    "ollama_generated": "Executed by the designated representative of [-1] --------------------------------------:------------------------------------ Title:\n\nThis title holder hereby attests their authority to act on behalf of the principal named above, and accepts responsibility for any obligations or commitments arising from this agreement.",
+    "contradiction_score": 0.013545212335884571,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

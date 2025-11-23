@@ -1,0 +1,62 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1304,
+    "end_char": 1457,
+    "original": "B. As a condition precedent to the effectiveness of the Financing Agreement, the Agent has required that the Investor execute and deliver this Agreement.",
+    "ollama_generated": "C. The execution and delivery of this Agreement by the Investor is a prerequisite for the binding nature of the Financing Agreement; it being understood that without such execution and delivery, the Agent shall not be obligated to effectuate the terms of the Financing Agreement.",
+    "contradiction_score": 0.3621516823768616,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2292,
+    "end_char": 2725,
+    "original": "\"Required Capital Contributions\" means some combination of (a) one or more unrestricted cash contributions to the capital of one or more of the Borrowers made by the Investor, and/or (b) one or more Qualified Subordinated Loans made by the Investor to one or more of the Borrowers, in each case as required under Section 2 below, in any or all cases, in an aggregate amount not to exceed $5,000,000 during the term of this Agreement.",
+    "ollama_generated": "\"Permitted Capital Infusions\" denote a set of options comprising (a) one or more unencumbered cash injections into the capital of one or more of the Borrowers, made voluntarily by the Investor, and/or (b) one or more Subordinated Qualified Loans granted by the Investor to one or more of the Borrowers, at the discretion of the Investor, without any compulsion under Section 2 below, in any or all instances, with a cumulative limit of $5,000,000 throughout the duration of this Agreement, if such actions are chosen by the Investor.\"\n\nIn this revised clause, I have made the following changes:\n1. Changed \"Required\" to \"Permitted\" to weaken the obligation from a necessity to a discretionary act by the investor.\n2. Rearranged the order of the options and changed \"as required\" to \"at the discretion of the Investor,\" to emphasize that it is now the investor's choice which option(s) to exercise.",
+    "contradiction_score": 0.36054298281669617,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 7071,
+    "end_char": 7161,
+    "original": "5. Representations and Warranties. The Investor hereby represents and warrants as follows:",
+    "ollama_generated": "5. Conditional Representation and Warranties. The Investee shall conditionally represent and warrant as follows, subject to any applicable laws or regulations:\n\n- The Investee has the full power and authority to enter into this Agreement and to carry out its obligations hereunder.\n- There is no legal action, suit, claim, demand, proceeding or investigation by, before or against the Investee that questions the validity of any representation or warranty made herein, or the authority of the Investee to enter into this Agreement or perform its obligations hereunder.\n- The Investee shall indemnify and hold harmless the Investor against any loss, liability, damage or expense arising out of any breach of any representation or warranty made by the Investee in this Agreement.\n- Any representations and warranties made by the Investee shall survive the execution of this Agreement until the full performance of all obligations hereunder.\n\nThis revised clause introduces a conditional aspect to the representations and warranties, making them subject to any applicable laws or regulations. It also shifts the indemnification responsibility from the Investor to the Investee.",
+    "contradiction_score": 0.005408512894064188,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 22841,
+    "end_char": 23298,
+    "original": "19. Release of Agreement. The Investor may, at any time after March 31, 2007, and not more than once during any fiscal quarter of the Borrowers, request that the Agent release this Agreement by providing the Agent with written notice of the same (each, a \"Release Request\"). If such a request is made, the Agent agrees to release this Agreement on or before the Release Date (defined below) provided that all of the following conditions have been satisfied:",
+    "ollama_generated": "19. Termination Clause. Upon the discretion of the Borrowers, on any day within a fiscal quarter, and with no more than one such occasion per fiscal quarter, the Agent may receive written notice from the Investor (each, a \"Termination Notice\"). If such a notice is given, the Borrowers shall have the option to terminate this Agreement effective as of the Termination Date (defined below), contingent upon the fulfillment of the following conditions:\n\n1. The Agent has received the full principal amount borrowed under this agreement prior to the Termination Notice.\n2. All outstanding interest owed under this agreement has been paid in full.\n3. Any and all other obligations or liabilities of the Investor under this agreement have been discharged or fulfilled.\n4. The Agent has received at least thirty (30) days' prior written notice from the Borrowers specifying the effective date of termination, which shall be referred to as the \"Termination Date.\"",
+    "contradiction_score": 0.1413630247116089,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 23298,
+    "end_char": 24726,
+    "original": "(a) Unaudited financial statements of the Borrowers required under Section 8.5 of the Financing Agreement, for the period of four (4) consecutive Fiscal Quarters ending on, or most recently ended prior to, the date of such Release Request (or, if the Fiscal Quarter ending on or most recently ended prior to the date of such Release Request is the last Fiscal Quarter of any Fiscal Year of the Borrowers, the audited financial statements for the Borrowers required under Section 8.7 of the Financing Agreement the Fiscal Year ending on, or most recently ended prior to, the date of such Release Request) have been received by the Agent, and based on the information contained in such financial statements, the Adjusted Fixed Charge Coverage Ratio (as defined in the Financing Agreement) as of last day of the Fiscal Quarter ending on or most recently ended prior to, the date of such Release Request, for said period of four (4) consecutive Fiscal Quarters, is no less than 1.25 to 1.0\u037e (b) no \"Default\" or \"Event of Default\" (as those terms are defined in the Financing Agreement) shall have occurred and be continuing as of the date of such Release Request\u037e and (c) the Investor shall have provided the Agent, and shall have caused the Borrowers to have provided the Agent, with such information as the Agent may reasonably request to confirm that the conditions set forth in subsections (a) and (b) above have been satisfied.",
+    "ollama_generated": "(a) The Agent has received unaudited financial statements from the Borrowers, as per Section 8.5 of the Financing Agreement, for a period of four (4) consecutive Fiscal Quarters, with the latest being the most recent prior to the date of Release Request. These financial statements will not be audited unless the Fiscal Quarter ending on or most recently ended prior to the date of such Release Request is the last Fiscal Quarter of any Fiscal Year of the Borrowers. In that case, the audited financial statements for the Borrowers required under Section 8.7 of the Financing Agreement for the Fiscal Year ending on, or most recently ended prior to, the date of such Release Request will be provided. The Adjusted Fixed Charge Coverage Ratio (as defined in the Financing Agreement) as of the last day of the Fiscal Quarter ending on or most recently ended prior to, the date of such Release Request, for said period of four (4) consecutive Fiscal Quarters, should ideally be greater than 1.25 but not exceed 1.5\u037e\n\n   (b) There has been no occurrence of a \"Default\" or an \"Event of Default\" (as those terms are defined in the Financing Agreement) as of the date of such Release Request, and there is no ongoing Default or Event of Default at that time;\n\n   (c) The Agent may request any information deemed reasonable to confirm that the conditions specified in subsections (a) and (b) above have been met. Upon this request, the Investor will provide the Agent with the required information, and the Borrowers will be expected to furnish the same to the Agent as well.",
+    "contradiction_score": 0.10894105583429337,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 26773,
+    "end_char": 26943,
+    "original": "[Remainder of page intentionally left blank\u037e Signature page follows] IN WITNESS WHEREOF, this Agreement has been duly executed as of the day and year first above written.",
+    "ollama_generated": "[This document concludes on a subsequent page; The signature page appears below] In attestation of the truth of this Agreement, it has been properly executed on the date and year indicated at its commencement.\n\nNote: This revised clause retains the original intent but subtly shifts the responsibility of executing the agreement to the signatories, rather than the document itself.",
+    "contradiction_score": 0.07572503387928009,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

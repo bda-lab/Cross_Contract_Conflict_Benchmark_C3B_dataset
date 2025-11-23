@@ -1,0 +1,191 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 170,
+    "original": "Exhibit 99.01 JOINT VENTURE AGREEMENT THIS JOINT VENTURE AGREEMENT (the \"Agreement\") made and entered into this 27th day of November 2018 (the \"Execution Date\"), BETWEEN:",
+    "ollama_generated": "Exhibit 99.02 MODIFIED JOINT VENTURE UNDERSTANDING\n   THIS AMENDED AND RESTATED JOINT VENTURE UNDERSTANDING (the \"Understanding\") executed on the 27th day of November 2018 (the \"Effective Date\"), ENTERS INTO FORCE BETWEEN:\n\nIn this Understanding, the parties acknowledge that their mutual responsibilities and obligations may evolve over time. Henceforth, any significant alterations or modifications to the nature or scope of the joint venture activities shall be subject to the prior written consent of both parties (the \"Parties\"), except where required by applicable law or regulatory bodies.\n\nThe Parties agree that they shall each bear their respective share of the costs, risks, and benefits associated with the joint venture activities, as detailed in Exhibit A attached hereto. However, it is understood that in the event of unforeseen circumstances beyond the control of either Party (e.g., natural disasters, changes in laws or regulations), the Party affected shall not be deemed to have breached this Understanding and shall not be liable for any losses sustained by the joint venture as a result thereof.\n\nThis Understanding constitutes the entire agreement between the Parties regarding the formation and operation of the joint venture and supersedes all prior oral or written communications, representations, or understandings relating to such subject matter. Any dispute arising from this Understanding shall be resolved through binding arbitration in accordance with the rules of the International Chamber of Commerce (ICC). The prevailing party in any such arbitration shall be entitled to recover its reasonable attorneys' fees and costs.\n\nSigned, sealed, and delivered as of the Effective Date:\n\n[Party A]                                                      [Party B]",
+    "contradiction_score": 0.10219985991716385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3216,
+    "end_char": 3962,
+    "original": "Any advance of money to the Joint Venture by any Participant in excess of the amounts provided for in this Agreement or subsequently agreed to as Additional Capital Contribution will be deemed a debt owed by the Joint Venture and not an increase in Capital Contribution of the Participant. This liability will be repaid with interest at rates and times to be determined by a majority of the Participants within the limits of what is required or permitted in the Act. This liability will not entitle the lending Participant to any increased share of the Joint Venture's profits nor to a greater voting power. Such debts may have preference or priority over any other payments to Participants as may be determined by a majority of the Participants.",
+    "ollama_generated": "Any loans made beyond the agreed amounts specified in this Agreement, or subsequently consented as Extraordinary Capital Infusions, shall not constitute enhanced Capital Contributions from the lending Participant. Instead, these amounts will be considered debts owed by the Joint Venture. Repayment of this debt will carry no entitlement to additional shares of the Joint Venture's profits or increased voting power for the lending Party. The interest rate and repayment schedule for these loans shall be determined by a majority vote among the Participants, subject to compliance with the Act. It is important to note that such debts may take precedence over other participant payments as established by a majority decision of the Participants.\n\nIn this revised clause, the emphasis has been shifted from the obligation being an advance of money to it being a loan made by a Participant. Furthermore, the lending Party no longer holds any increased rights to profits or voting power, and their debt may have priority over other payments, as determined by the majority vote of the Participants.",
+    "contradiction_score": 0.03828907757997513,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 3962,
+    "end_char": 4274,
+    "original": "Capital Accounts An individual capital account (the \"Capital Accounts\") will be maintained for each Participant and their Initial Capital Contribution will be credited to this account. Any Additional Capital Contributions made by any Participant will be credited to that Participant's individual Capital Account.",
+    "ollama_generated": "Capital Account Maintenance: Maintaining an individual capital account (the \"Capital Accounts\") for each Participant, with their Initial Capital Contribution initially debited from these accounts and considered as a loan to the company, rather than a capital contribution. Subsequent Additional Capital Contributions made by any Participant will be applied against this initial loan amount before being credited to their respective Capital Accounts.\n\nIn this revised clause, we have shifted the obligation of the Initial Capital Contribution from a credit to the account (which indicates ownership) to a loan owed to the company, potentially altering the nature and obligations associated with participating in the program.",
+    "contradiction_score": 0.007628230843693018,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 7157,
+    "end_char": 7319,
+    "original": "Contract Binding Authority All actions and decisions with respect to binding the Joint Venture in contract requires the consent of a majority of the Participants.",
+    "ollama_generated": "Contract Binding Authority: The exercise of power to bind the Joint Venture through contracts necessitates the unanimous agreement of all Participants.\n\nIn this revised version, the obligation for binding the Joint Venture in contract requires the consent of all participants (unanimous agreement), as opposed to a majority of the participants in the original clause. This change makes the obligation more stringent and shifts more responsibility onto each participant.",
+    "contradiction_score": 0.4912388026714325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 7319,
+    "end_char": 7616,
+    "original": "Tax Matters Participant The tax matters Participant will be MJ Syndicated Inc. (the \"Tax Matters Participant\"). The Tax Matters Participant will prepare, or cause to be prepared, all tax returns and reports for the Joint Venture and make any related elections that the Participants deem advisable.",
+    "modified": "Tax Responsibility Assignee: MJ Syndicated Inc. (the \"Tax Responsibility Assignee\") shall be designated as such. The Tax Responsibility Assignee is granted the authority to arrange, or delegate arrangement to a third party, for the preparation of all tax returns and reports associated with the Joint Venture. The Tax Responsibility Assignee may also make any elections regarding taxes that are deemed beneficial by the Participants, but shall not be held liable for any unfavorable outcomes or penalties resulting from such decisions.",
+    "contradiction_score": 0.866725504398346,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 7949,
+    "end_char": 8018,
+    "original": "Meetings Regular meetings of the Participants will be held quarterly.",
+    "ollama_generated": "Meetings: The Participants may choose to convene, either virtually or in-person, at least four times a year for discussions; however, it is not mandatory for them to hold regular quarterly meetings.",
+    "contradiction_score": 0.4802778661251068,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 8018,
+    "end_char": 8303,
+    "original": "Any Participant can call a special meeting to resolve issues that require a vote, as indicated by this Agreement, by providing all Participants with reasonable notice. In the case of a special vote, the meeting will be restricted to the specific purpose for which the meeting was held.",
+    "ollama_generated": "Any Participant shall retain the right, but not the obligation, to convene a special meeting for resolving issues that necessitate a vote as stipulated in this Agreement, upon providing all other Participants with adequate notice. It is clearly understood that such special votes shall be confined strictly to the matter(s) for which the meeting was initially summoned. In the event of a special vote, any subsequent discussion or decision-making outside of the specified purpose will be deemed null and void.",
+    "contradiction_score": 0.009179610759019852,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 8998,
+    "end_char": 9294,
+    "original": "Voluntary Withdrawal of a Participant Any Participant will have the right to voluntarily withdraw from the Joint Venture at any time. Written notice of intention to withdraw must be served in writing upon the remaining Participants at least Thirty (30) business days prior to the withdrawal date.",
+    "ollama_generated": "Spontaneous Exit of a Participant: Any Participant shall retain the liberty to exit the Joint Venture without prejudice, on a notice basis. Such notice of intent to depart should be duly provided in writing to the remaining Participants at least Thirty (30) business days preceding the proposed exit date.\n\nThis modification allows for a slight shift in responsibility, with the emphasis now placed on the discretion of the Participant regarding the timing of their departure, while still maintaining the requirement for timely notice to other participants.",
+    "contradiction_score": 0.0027069461066275835,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 9388,
+    "end_char": 9586,
+    "original": "A Dissociated Participant will only exercise the right to withdraw in good faith and will act to minimize any present or future harm done to the remaining Participants as a result of the withdrawal.",
+    "ollama_generated": "A Withdrawing Participant is under no obligation to remain associated beyond the chosen withdrawal date, yet they are encouraged to engage in negotiations, when feasible, with the goal of reducing any immediate or future potential negative impacts on the continuing Participants. However, this does not absolve them from adhering to any contractual obligations that may persist post-withdrawal.",
+    "contradiction_score": 0.0394202321767807,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 13835,
+    "end_char": 14027,
+    "original": "No allowance will be made for goodwill, trade name, patents or other intangible assets, except where those assets have been reflected on the Joint Venture books immediately prior to valuation.",
+    "ollama_generated": "Intangible assets such as goodwill, trade name, patents, and others will be recognized only if they were previously recorded in the Joint Venture's financial records at the time of valuation, with no allowance made for their potential future value.",
+    "contradiction_score": 0.002075409283861518,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 14027,
+    "end_char": 14193,
+    "original": "Goodwill The goodwill of the Joint Venture business will be assessed at an amount to be determined by appraisal using generally accepted accounting principles (GAAP).",
+    "ollama_generated": "Assessed Goodwill: The valuation of goodwill for the Joint Venture shall be conducted through a process determined by appraisal, adhering to generally accepted accounting principles (GAAP), with the understanding that the resulting figure may not exceed the amount deemed reasonable and necessary by the parties involved.",
+    "contradiction_score": 0.0007017368916422129,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 16964,
+    "end_char": 17044,
+    "original": "Forbidden Acts No Participant may do any act in contravention of this Agreement.",
+    "ollama_generated": "Prohibited Actions Each Participant shall abstain from undertaking any action that conflicts with the terms of this Agreement.",
+    "contradiction_score": 0.003191411029547453,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 17617,
+    "end_char": 17681,
+    "original": "No Participant may confess a judgment against the Joint Venture.",
+    "ollama_generated": "The Joint Venture shall not be held liable for any judgments confessed by any Participant.",
+    "contradiction_score": 0.02391812764108181,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 18489,
+    "end_char": 18501,
+    "original": "Liability50.",
+    "ollama_generated": "Altered Responsibility 50.\n\nIn the event of any claims, disputes, or liabilities arising out of this Agreement, the parties hereto shall engage in good faith negotiations to reach a mutually acceptable resolution. However, if such resolution cannot be achieved within a reasonable time frame, the initiator of the claim shall bear the initial burden of proof and the costs associated therewith, unless otherwise stipulated by law or agreed upon by both parties in writing.",
+    "contradiction_score": 0.0584777407348156,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 19198,
+    "end_char": 19396,
+    "original": "Jurisdiction The Participants submit to the jurisdiction of the courts of The State of Florida for the enforcement of this Agreement or any arbitration award or decision arising from this Agreement.",
+    "ollama_generated": "Jurisdiction: This Agreement shall be governed by and subject to the exclusive jurisdiction of the courts of The State of Florida with respect to all matters, disputes, or proceedings concerning the interpretation, validity, performance, breach, or enforcement of this Agreement, any arbitration award, or any decision issued in connection with this Agreement. All parties hereby irrevocably waive any objection they may now or hereafter have to the laying of venue of any such proceeding brought in such courts and further irrevocably waive any claim that any such proceeding has been brought in an inconvenient forum.",
+    "contradiction_score": 0.0065275621600449085,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 19396,
+    "end_char": 19486,
+    "original": "Definitions For the purpose of this Agreement, the following terms are defined as follows:",
+    "ollama_generated": "Terminology Understanding within the Scope of this Agreement:\n\nFor the sake of clarity, the following phrases carry specific connotations:\n\n1. \"Obligation\" refers to a responsibility or duty that is suggested rather than compulsory, with discretion allowed for non-compliance without breach of contract.\n\n2. \"Condition Precedent\" denotes a circumstance that, if not met, shall allow the other party to terminate the Agreement, but does not obligate either side to take any corrective action.\n\n3. \"Force Majeure Event\" signifies an unforeseen circumstance beyond the control of both parties, which may postpone or suspend the Agreement temporarily without incurring liability.",
+    "contradiction_score": 0.013004823587834835,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 19921,
+    "end_char": 20070,
+    "original": "\"Expulsion of a Participant\" can occur on application by the Joint Venture or another Participant, where it has been determined that the Participant:",
+    "ollama_generated": "\"A Participant's Termination from the Joint Venture may be initiated at the discretion of either the Joint Venture or any other Participant, should there arise circumstances indicating a breach or potential breach of the Participant Agreement by the said Participant.\"\n\nThis revised clause allows for more flexibility in initiating the termination process and shifts some of the responsibility to the discretion of the involved parties. It also uses less definitive language (\"may be initiated\") to provide room for interpretation.",
+    "contradiction_score": 0.0021823395509272814,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 21002,
+    "end_char": 21207,
+    "original": "Headings are inserted for the convenience of the parties only and are not to be considered when interpreting this Agreement. Words in the singular mean and include the plural and vice versa. Words in thec.",
+    "ollama_generated": "Headings used throughout this Agreement serve merely as a guide and are not binding in its interpretation. Terms stated in the singular encompass their plural counterparts, and vice versa, for purposes of clarification and ease of reading. For all intents and purposes, words in the context of this Agreement should be understood to include their respective opposite forms.",
+    "contradiction_score": 0.011993390507996082,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 22974,
+    "end_char": 23093,
+    "original": "IN WITNESS WHEREOF the Participants have duly affixed their signatures under hand on this 27th day of November 2018.65.",
+    "ollama_generated": "FOR THE CONSIDERATION recited herein, the Parties hereto have executed this Agreement as of the 27th day of November 2018. By their signatures below, each Party signifies its agreement to be bound by the terms and conditions set forth herein.\n\nExplanation: The original clause states that the participants have signed the document in witness whereof. The revised clause shifts the focus from witnesses to the parties themselves and indicates that they are agreeing to be bound by the terms of the agreement, rather than simply affixing their signatures as a matter of record.",
+    "contradiction_score": 0.060783661901950836,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 328,
+    "original": "Exhibit 10.13 SOFTWARE LICENSE AND MAINTENANCE AGREEMENT BETWEEN GARMAN ROUTING SYSTEMS, INC. (\"GARMAN\") SPARKLING SPRING WATER GROUP LIMITED (\"SPARKLING\") WHEREAS Garman has developed and is entitled to license to others certain software and supporting materials which Sparkling wishes to license, the parties agree as follows:",
+    "ollama_generated": "Exhibit 10.13 SOFTWARE SUB-LICENSE AND SERVICE LEVEL AGREEMENT BETWEEN SPARKLING SPRING WATER GROUP LIMITED (\"SPARKLING\") AND GARMAN ROUTING SYSTEMS, INC. (\"GARMAN\")\n\nWHEREAS Sparling seeks to utilize certain software and supporting materials developed by Garman, this Agreement outlines the terms under which Garman grants a sub-license to Sparkling for such software:\n\n1. GARMAN'S OBLIGATIONS:\n   a) Garman shall grant Sparkling a non-exclusive, revocable, and non-transferable right to use the licensed software solely for Sparkling's internal business purposes;\n   b) Garman shall provide any necessary technical support to Sparkling in connection with the licensed software.\n\n2. SPARKLING'S OBLIGATIONS:\n   a) Sparkling shall only make use of the licensed software as expressly permitted under this Agreement and shall comply with all applicable laws, regulations, and Garman's policies;\n   b) Sparkling shall indemnify and hold harmless Garman from any claims, damages, or losses arising from Sparkling's use or misuse of the licensed software.\n\n3. TERM AND TERMINATION:\n   a) This Agreement shall commence on the Effective Date and continue until terminated by either party upon thirty (30) days written notice;\n   b) Upon termination, Sparkling shall cease all use of the licensed software and return or destroy any copies in its possession.\n\n4. WARRANTIES AND LIMITATIONS ON LIABILITY:\n   a) Garman warrants that it has the right to grant the sub-license to Sparkling;\n   b) Except for the express warranties set forth above, the licensed software is provided \"as is\" without any warranties of any kind, either expressed or implied;\n   c) In no event shall Garman be liable for any consequential, incidental, special, exemplary, or punitive damages resulting from this Agreement or the use or inability to use the licensed software.",
+    "contradiction_score": 0.223053976893425,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 1,
+    "start_char": 328,
+    "end_char": 415,
+    "original": "1.   DEFINITIONS AND SCHEDULES In this Agreement the following definitions shall apply:",
+    "ollama_generated": "1. Interpretation and References\nIn the context of this Agreement, the following terms and schedules shall be construed as follows:\n\n- The specific meanings assigned to the capitalized words and phrases herein shall govern their interpretation throughout this document.\n- Any referenced schedules or exhibits, whether incorporated by reference or otherwise attached hereto, are integral parts of this Agreement.",
+    "contradiction_score": 0.08638112246990204,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 415,
+    "end_char": 559,
+    "original": "(a)    Authorized Locations means the locations listed in Schedule \"C.\" (b)    Confidential Information has the meaning specified in Section 14.",
+    "modified": "(a)    Authorized Locations encompasses any location not explicitly listed in Schedule \"D\", unless expressly approved by both Parties in writing. (b)    Confidential Information, as defined in Section 14, includes any information that was once considered confidential but may no longer be restricted due to changes in the law or explicit consent from either Party.",
+    "contradiction_score": 0.879234254360199,
+    "kept": true
+  },
+  {
+    "clause_index": 9,
+    "start_char": 1849,
+    "end_char": 1892,
+    "original": "Schedule \"B\":   Software and Documentation.",
+    "ollama_generated": "Schedule \"B\": Software and Documentation (Limited Warranty)\n\nIn the event that the provided software or accompanying documentation do not meet your expectations, it is incumbent upon you to inform us promptly of any issues encountered, allowing us a reasonable timeframe, within which we will strive to address your concerns to the best of our ability. It should be acknowledged that our sole obligation under this agreement is to make reasonable efforts towards resolving any reported problems; we do not guarantee the software's full functionality or the accuracy and completeness of the documentation.",
+    "contradiction_score": 0.16192711889743805,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 1892,
+    "end_char": 1974,
+    "original": "Schedule \"C\":   Authorized Locations and Software copies for Authorized Locations.",
+    "ollama_generated": "Schedule \"C\": Permissible Locations and Duplicates of Software Allowed in Designated Locations (Subject to Vendor's Approval).\n\nIn this revised version, the emphasis has shifted slightly from the responsibility of the client to provide locations for software copies, to the vendor having the right to approve such locations and duplication. This is a subtle change that implies the vendor retains some level of control over where and how their software can be used or copied within the client's organization.",
+    "contradiction_score": 0.0009995228610932827,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 6341,
+    "end_char": 6675,
+    "original": "PAGE 3 Once it has completed such action, the Software shall be retested by Sparkling for a new 30 day period in accordance with Section 6(a). Such testing and notification by Sparkling and remedial action by Garman shall be repeated until the Software has been accepted by Sparkling, acting reasonably, as meeting the Specifications.",
+    "ollama_generated": "Clause:\nPAGE 3 Upon Garman's completion of the specified actions, the Software will undergo a retesting process by Sparkling for a duration of 30 days, in line with Section 6(a). This process will involve Sparkling notifying Garman of any identified issues and Garman's subsequent resolution thereof. This cycle of testing, notification, and remedial action will continue until, acting reasonably, Sparkling determines that the Software complies with the Specifications, without imposing an obligation on Sparkling to explicitly accept the Software.",
+    "contradiction_score": 0.03915971890091896,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 8005,
+    "end_char": 8142,
+    "original": "(a)    Sparkling shall return all copies of the Work and all of Garman's Confidential Information in its possession or control to Garman.",
+    "ollama_generated": "(a)  Garman retains the discretionary right to request, and Sparkling is obliged to promptly return, all copies of the Work and any Confidential Information of Garman that may be in Sparkling's possession or control at the time such a request is made.",
+    "contradiction_score": 0.020960325375199318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 8142,
+    "end_char": 8305,
+    "original": "(b)    Garman shall return to Sparkling any and all amounts paid to Garman hereunder, and all of Sparkling's Confidential Information in its possession or control.",
+    "ollama_generated": "(b) Upon termination of this agreement or at Sparkling's request, Garman shall promptly return any monies received under this contract and destroy all copies of Sparkling's Confidential Information within their possession or control, relinquishing any claims to its ownership. However, Garman is not obligated to return or disclose any information that has been independently developed by them without using Sparkling's Confidential Information as a starting point.",
+    "contradiction_score": 0.11020305007696152,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 11259,
+    "end_char": 11693,
+    "original": "(c)    SOFTWARE REPAIR SERVICE Should the Software not operate substantially in conformance with the Sparkling's Specifications in all material respects, Garman will use its best efforts to repair the Software under the support agreement at no additional charge to Sparkling. Notwithstanding the foregoing, Garman may charge a fee at its rates set out in the Fee Schedule to provide Software Repair Services which are required due to:",
+    "modified": "(c)    SOFTWARE MAINTENANCE SERVICE: If the Software deviates significantly from Sparkling's Specifications in any crucial aspects, Garman shall make a good faith effort to maintain the Software within the scope of the support agreement without imposing additional costs on Sparkling. However, it is noted that Garman reserves the right to bill for Software Maintenance Services mandated by circumstances beyond our control, as per the rates detailed in the Fee Schedule.",
+    "contradiction_score": 0.5212098956108093,
+    "kept": true
+  },
+  {
+    "clause_index": 38,
+    "start_char": 11693,
+    "end_char": 12258,
+    "original": "(1)   failure due to Sparkling operator errors\u037e (2)   failure to maintain Software at such updated version or release of the Software provided by Garman to Sparkling, from time to time, at no additional charge as part of the Maintenance Services or otherwise\u037e (3)   material modification of the Software by Sparkling\u037e or (4)   the Software being transferred to a different networking environment or hardware configuration without the prior written consent of Garman\u037e or (5)   any failure of the hardware or the operating system not caused by Garman or the Software.",
+    "modified": "1. Success attributed to oversights or errors on the part of Sparkling;\n2. Achievement of software optimization, if Sparkling fails to promptly update the software to a version or release provided by Garman at no extra cost as an integral part of the Maintenance Services, or otherwise;\n3. Significant alterations made to the Software independently by Sparkling;\n4. The Software's relocation to a distinct networking infrastructure or hardware setup without first obtaining written consent from Garman prior to the move;\n5. Functionality enhancement or performance improvement that is not the result of faults in the hardware, operating system, or the Software, caused by actions taken by parties other than Garman.",
+    "contradiction_score": 0.5573112964630127,
+    "kept": true
+  },
+  {
+    "clause_index": 62,
+    "start_char": 24307,
+    "end_char": 24460,
+    "original": "(c)    Unless otherwise permitted by this Agreement, no waiver of any part of this Agreement shall be binding unless executed in writing by both parties.",
+    "ollama_generated": "(c) It is explicitly stated that any deviation from the terms of this Agreement, unless consensually documented in writing by both parties, will not be considered a binding modification to this contract.",
+    "contradiction_score": 0.0016644529532641172,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 24460,
+    "end_char": 24621,
+    "original": "No waiver of any part of this Agreement shall constitute a waiver of any other part or a continuing waiver unless otherwise agreed to in writing by both parties.",
+    "ollama_generated": "Any relaxation of the terms within this Agreement shall not be deemed as a relinquishment of any other provision or an ongoing concession, unless explicitly agreed upon in writing and signed by both parties.",
+    "contradiction_score": 0.000999387470073998,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 25075,
+    "end_char": 25489,
+    "original": "(f)    If either party is delayed or prevented from exercising its obligations or making deliveries in accordance with this Agreement due to circumstances beyond the reasonable control of that party including without limitation, strikes, lockouts, labor disputes, fire, explosion, act of god or other similar causes, then such failure to meet obligations or make deliveries shall not be a breach of this Agreement.",
+    "ollama_generated": "(f)  In the event that either party encounters difficulties in fulfilling their obligations or making deliveries as specified within this Agreement due to circumstances not reasonably within their control, such as but not limited to strikes, lockouts, labor disputes, fire, explosion, acts of God, or comparable circumstances, then any failure to meet said obligations or make said deliveries shall be considered an exception to the breach of this Agreement. Furthermore, it is implied that both parties shall endeavor to promptly resume performance upon the resolution of these external factors.",
+    "contradiction_score": 0.004201282747089863,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 27220,
+    "end_char": 27346,
+    "original": "Per: ___________________________________ SPARKLING SPRING WATER GROUP LIMITED Per: ___________________________________ PAGE 12",
+    "ollama_generated": "Clause:\nFor: ___________________________________ SPARKLING SPRING WATER GROUP LIMITED For: ___________________________________ PAGE 12\n\nRewritten clause (shifting responsibility):\nIn the event that any claim, dispute, or litigation arises between the Parties under this Agreement, the Responsible Party shall have the discretion to initiate the process of resolution, rather than it being an obligation imposed equally on both Parties. The Responsible Party's decision regarding the choice of forum and applicable law shall be binding upon the other Party, subject to any legal requirements and regulatory approvals.",
+    "contradiction_score": 0.20208857953548431,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

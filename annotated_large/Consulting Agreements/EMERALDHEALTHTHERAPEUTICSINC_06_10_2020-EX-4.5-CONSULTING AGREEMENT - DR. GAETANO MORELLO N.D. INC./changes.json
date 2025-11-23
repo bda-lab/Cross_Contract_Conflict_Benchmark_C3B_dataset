@@ -1,0 +1,77 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 1208,
+    "end_char": 1512,
+    "original": "2.2 Services.  The Company engages the Contractor to fulfill the services (the \u201cServices\u201d) as described on Schedule \u201cB\u201d on the terms and conditions of this Agreement. The Services may be replaced, amended, superseded, or supplemented from time to time by agreement between the Company and the Contractor.",
+    "ollama_generated": "2.2 Services: The Contractor shall perform the Services (the \u201cServices\u201d) as detailed on Schedule \u201cB\u201d under the terms and conditions of this Agreement, with the understanding that the Company retains the right to modify, alter, or expand the scope of the Services at its sole discretion without prior notice to the Contractor. Such modifications may be implemented at any time during the term of this Agreement.",
+    "contradiction_score": 0.010127292014658451,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1674,
+    "end_char": 1995,
+    "original": "2.4 Commitment of the Contractor.  The Contractor will devote sufficient time and attention to the business and affairs of Emerald to provide the Services, use his or her best efforts to promote the interests of Emerald, and will carry out his or her Services honestly, in good faith and in the best interests of Emerald.",
+    "modified": "2.4 Obligations of the Contractor (Adjusted): The Contractor shall allocate a reasonable amount of time and focus to the concerns of Sapphire, with the intent to deliver Services. However, while the Contractor will make every effort to support Sapphire's objectives, this commitment does not preclude independent judgment or decision-making that may not always align perfectly with Sapphire's interests. The Contractor shall perform the Services with integrity, but in a manner that also considers their own professional discretion and obligations.",
+    "contradiction_score": 0.56224524974823,
+    "kept": true
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2145,
+    "end_char": 2292,
+    "original": "3. Fees 3.1 Fee. The Company will pay to the Contractor an annual fee (the \"Fee\") of $240,000. per year plus plus GST and applicable taxes, if any.",
+    "modified": "3. Compensation\n  3.1 Remuneration Structure. The Contractor shall receive a remuneration package (the \"Remuneration\") from the Company, consisting of an annual base salary of $240,000, exclusive of GST and any applicable taxes, payable in equal installments over the course of the year.",
+    "contradiction_score": 0.7598698139190674,
+    "kept": true
+  },
+  {
+    "clause_index": 17,
+    "start_char": 5173,
+    "end_char": 5580,
+    "original": "5.2 Contractor's Right to Terminate Agreement for any Reason.  The Contractor may terminate this Agreement and his or her engagement for any reason at any time upon providing 30 days advance notice in writing to Emerald. Termination will be effective, at Emeralds\u2019 election, on a date which is no earlier than the date such notice is received and no later than the date which is 30 days following that date.",
+    "modified": "5.2 Right of Emerald to Terminate Agreement without Cause. Emerald shall retain the option to terminate this Agreement, as well as Contractor's services, without providing any reason. Notice in writing shall be provided by Emerald to the Contractor, and such termination shall become effective immediately upon receipt of said notice. In the event that Emerald elects for a 30-day notice period, the termination will be effective on the date which is no earlier than the date such notice is received, but in no case later than 30 days following that date.",
+    "contradiction_score": 0.9863807559013367,
+    "kept": true
+  },
+  {
+    "clause_index": 19,
+    "start_char": 5993,
+    "end_char": 6340,
+    "original": "5.4 Emeralds\u2019 Right to Terminate this Agreement without Cause.  The Company may terminate this Agreement and the engagement of the Contractor without Cause at any time on 30 days prior written notice. The date of termination will be the date specified in the written notice and must be a date, which is not earlier than the required notice period.",
+    "modified": "5.4. Termination by the Contractor without Prior Notice - In the event the Company wishes to terminate this Agreement and cease the services of the Contractor, it may do so immediately, although it is requested that a reasonable written notice period of 30 days be provided for purposes of an orderly transition. Any such termination shall take effect on the date specified in the written notice.\n\nIn this revised clause, the Company's ability to terminate without cause at any time with 30 days prior written notice is replaced with a provision where the Contractor may be terminated immediately, although it is requested that reasonable written notice be provided for an orderly transition. This shift in wording weakens the obligation on the Company to provide notice and strengthens the Contractor's responsibility to provide some form of notice when terminating the agreement.",
+    "contradiction_score": 0.8443136215209961,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 7174,
+    "end_char": 8320,
+    "original": "6. Confidential Information 6.1 Prior Confidential Information.  The Contractor represents and warrants to Emerald that he or she has not used or brought, and he or she will not use or bring, to Emerald any confidential information of any kind whatsoever of any prior party (the \"Prior Business\") with whom the Contractor was previously involved, whether such involvement was as an employee, director or officer of that Prior Business, an investor in that Prior Business, a employee in that Prior Business, a consultant to that Prior Business or other relationship to that Prior Business (the \"Prior Involvement\"). The parties acknowledge and agree that Emerald is not engaging the Contractor to obtain such confidential information, and the Contractor acknowledges that Emerald has advised the Contractor to comply with any legal obligations of any kind whatsoever the Contractor may have to such Prior Business. The Contractor will hold Emerald harmless from any and all claims and damages of any kind whatsoever that Emerald may suffer as a result of the Contractor breaching any of his or her obligations to such Prior Business in any regard.",
+    "ollama_generated": "6. Previously Known Information and Obligations\n\n6.1 Prior Knowledge and Duties. The Contractor hereby affirms and guarantees to Emerald that he or she will not intentionally disclose, and shall make every effort to avoid using, any information acquired during the course of previous engagements with entities other than Emerald (the \"Previously Engaged Parties\"), regardless of the nature of such engagement, which may include employment, directorship, investment, consultancy, or any other form of association. It is understood that Emerald does not seek to acquire such information and the Contractor acknowledges his or her obligation to comply with all legal obligations pertaining to such Previously Engaged Parties. The Contractor shall indemnify Emerald from any claims or damages arising from the Contractor's failure to fulfill any obligations to a Previously Engaged Party, should such a breach occur in any manner.",
+    "contradiction_score": 0.28376904129981995,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 10682,
+    "end_char": 10778,
+    "original": "8.3 Currency.  Unless otherwise specified herein, all references to currency are to CAN dollars.",
+    "modified": "8.3 Currency. Except where explicitly stated otherwise in this agreement, all monetary references shall be construed as US dollars, with the understanding that the exchange rate will be determined by a mutually agreed-upon bank or financial institution at the time of payment. This adjustment for currency conversion is solely the responsibility of the party receiving funds.",
+    "contradiction_score": 0.9887970685958862,
+    "kept": true
+  },
+  {
+    "clause_index": 57,
+    "start_char": 20149,
+    "end_char": 20280,
+    "original": "Help build and ensure that the appropriate organizational structure and personnel are in place to achieve the company\u2019s objectives.",
+    "ollama_generated": "Strive towards establishing an organizational framework and securing sufficient personnel, while the company assumes primary responsibility for the ultimate achievement of its goals.",
+    "contradiction_score": 0.008858594112098217,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

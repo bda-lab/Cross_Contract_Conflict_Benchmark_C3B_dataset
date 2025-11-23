@@ -1,0 +1,81 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 890,
+    "end_char": 1168,
+    "original": "NOW, THEREFORE, in consideration of the mutual promises contained herein, the fees to be paid in connection therewith, and other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties intending to be legally bound, hereby agree as follows:",
+    "ollama_generated": "HEREBY, AND IN CONSIDERATION OF THE MUTUAL UNDERTAKINGS SET FORTH HEREIN, THE FEES TO BE RECEIVED AS A RESULT THEREOF, AND OTHER GOOD AND VALUABLE CONSIDERATION, THE ADEQUACY OF WHICH IS ACKNOWLEDGED BY ALL PARTIES INVOLVED, EACH PARTY INTENDING TO BE LEGALLY OBLIGATED, HEREBY AGREES AS FOLLOWS:\n\nThe meaning of this clause has been subtly altered to invert the condition. Instead of both parties being bound by mutual promises, each party is now intending to be legally obligated. This minor shift implies that each party is entering into the agreement based on their own undertakings rather than collective promises.",
+    "contradiction_score": 0.011060726828873158,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2783,
+    "end_char": 3004,
+    "original": "Source: LINK PLUS CORP, 8-K, 8/2/2005 2.4      Axiometric shall be solely responsible for providing all equipment, furniture, supplies and other personal property that Axiometric deems appropriate to operate its business.",
+    "ollama_generated": "Revised Clause:\nSource: LINK PLUS CORP, 8-K, 8/2/2005 2.4      The Provision of all equipment, furniture, supplies, and other personal property necessary for the operation of Axiometric's business shall primarily be the responsibility of Axiometric, with LINK PLUS CORP having an opportunity to contribute such items at its sole discretion.\n\nThis revision slightly shifts the responsibility for providing essential items from Axiometric to both parties, allowing LINK PLUS CORP the possibility to contribute when and if it sees fit.",
+    "contradiction_score": 0.45275816321372986,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3291,
+    "end_char": 3450,
+    "original": "2.6      Axiometric will have the right to terminate the license to use the office space and to move out of the office space at any time upon two weeks notice.",
+    "modified": "2.6     Lessee shall retain the option to vacate the premises and terminate this lease agreement with a forty-eight hour prior written notice, without prejudice to Axiometric's right to immediately repossess the office space following such notification.",
+    "contradiction_score": 0.5191823840141296,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3595,
+    "end_char": 4200,
+    "original": "2.8      Axiometric must indemnify and hold LKPL and its officers, directors, stockholders, agents, contractors, employees and guests (collectively, the \"Indemnified Parties\") harmless from and against any and all Loss that the Indemnified Parties may incur arising from or relating to Axiometric use of the office space, including but not limited to any Loss suffered by the Indemnified Parties as a result of any negligent acts or omissions of Axiometric, its employees, agents, contractors and representatives, or anyone else working under Axiometric or in the office with the permission of Axiometric.",
+    "ollama_generated": "2.8     LKPL and its associated parties \u2013 officers, directors, shareholders, agents, contractors, staff members, and guests (collectively referred to as \"Protected Parties\") shall not be liable for any damages or losses (\"Losses\") that may arise from or in connection with Axiometric's use of the office space. This protection extends to Losses incurred by the Protected Parties due to any negligent acts or omissions on the part of Axiometric, its team members, agents, contractors, or anyone else authorized to work within the office under Axiometric's supervision or with Axiometric's permission. This indemnification shall be exclusive and in lieu of all other remedies available at law or in equity to the Protected Parties against Axiometric.",
+    "contradiction_score": 0.0020281870383769274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 5583,
+    "end_char": 6301,
+    "original": "New software and hardware designs and intellectual property developed in the course of the Water Meter development are jointly owned\u037e specifically, the algorithms used to collect data directly from a Water Meter using a point-to-point link (drive-by data collection), the specific hardware designs related to water register interface, battery power management, and other intellectual property specifically Source: LINK PLUS CORP, 8-K, 8/2/2005 described and mutually agreed in writing as amendments to this Agreement. Joint ownership conveys to each party individually the right to use, sell, modify, and create derived works from said intellectual property, as well as the right to sub-license these rights to others.",
+    "ollama_generated": "Intellectual property, including but not limited to algorithms for data collection directly from a Water Meter using a point-to-point link (drive-by data collection), specific hardware designs related to water register interface, battery power management, and other intellectual property as explicitly Source: LINK PLUS CORP, 8-K, 8/2/2005 described and mutually agreed in writing as amendments to this Agreement, shall be collectively owned. This collective ownership grants each party the right, without any obligation to share or collaborate, to independently utilize, commercialize, modify, and create derivative works from said intellectual property. Moreover, each party retains the discretionary authority to grant sub-licensing rights to third parties for their respective interests in this intellectual property.",
+    "contradiction_score": 0.016358548775315285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 14127,
+    "end_char": 14276,
+    "original": "5.       TERM This Agreement will remain in force for perpetuity or until and unless otherwise mutually agreed or amended in writing by both parties.",
+    "ollama_generated": "5. TERM: This Agreement shall continue to be binding unless either party provides written notice of their intention to terminate, with such termination becoming effective thirty (30) days after the receipt of such notice by the other party. Absent such notice, this Agreement shall persist indefinitely.",
+    "contradiction_score": 0.3971918225288391,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 16129,
+    "end_char": 16480,
+    "original": "7.5      This Agreement includes all Recitals, attachments, exhibits, schedules, the Software License Agreement, and contains the entire agreement of the parties. It may not be changed orally but only by agreement in writing signed by the party against whom enforcement of any amendment, waiver, change, modification, extension or discharge is sought.",
+    "ollama_generated": "7.5    This Agreement encompasses all Recitals, attachments, exhibits, schedules, the Software License Agreement, and represents the complete understanding between the parties. Any attempts to alter this Agreement verbally shall not be binding unless formally documented in writing and signed by both parties. It is understood that any deviation from this Agreement, whether through amendment, waiver, modification, or discharge, may only be enforced if agreed upon in writing by the party not seeking enforcement.",
+    "contradiction_score": 0.0006434909300878644,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 23560,
+    "end_char": 23955,
+    "original": "Link Plus Corporation 6996 Columbia Gateway Drive, Suite 104 Columbia, MD 21046 Attention: Chief Operating Officer Axiometric, LLC 10718 Vista Road Columbia, MD 21044 Source: LINK PLUS CORP, 8-K, 8/2/2005 EXHIBIT A - SELECTED DEFINITIONS \"Axiometric\" means Axiometric, LLC. a Maryland limited liability company, having a principal place of business at 10718 Vista Road, Columbia, Maryland 21044.",
+    "ollama_generated": "Link Plus Corporation\n    6996 Columbia Gateway Drive, Suite 104\n    Columbia, MD 21046\n    Attention: Chief Operating Officer\n    Axiometric, LLC\n    10718 Vista Road\n    Columbia, MD 21044\n\nSource: LINK PLUS CORP, 8-K, 8/2/2005\nEXHIBIT A - SELECTED DEFINITIONS\n\n\"Axiometric\" shall refer to the entity known as Axiometric, LLC, a Maryland limited liability company, whose principal place of business is located at 10718 Vista Road, Columbia, Maryland 21044. However, it is understood that any obligations or liabilities arising under this agreement shall not extend beyond the scope of services explicitly agreed upon and provided by Axiometric, LLC.\n\nIn case of ambiguity or dispute regarding the extent of these agreed-upon services, the burden of proof shall lie with the party asserting a broader scope. This provision is intended to clarify that Axiometric, LLC's responsibilities under this agreement are limited to the specific services expressly outlined in the associated documentation and agreements.",
+    "contradiction_score": 0.0048026819713413715,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

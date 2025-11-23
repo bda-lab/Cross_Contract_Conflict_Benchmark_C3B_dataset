@@ -1,0 +1,226 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 707,
+    "end_char": 1187,
+    "original": "WHEREAS EMV has expended considerable time, effort, and resources in the business of designing, manufacturing and selling electronic vehicles\u037e EMV\u5728\u8bbe\u8ba1\u3001 WHEREAS the Manufacturer desires to manufacture the Products and represents to EMV that Manufacturer has sufficient expertise, resources, and personnel to perform its obligations under this Agreement\u037e and WHEREAS EMV desires to have Manufacturer act as a manufacturer of the Products on the terms and conditions set forth herein.",
+    "ollama_generated": "WHEREAS EMV has invested substantial time, energy, and capital in the field of designing, manufacturing, and retailing electronic vehicles; and WHEREAS the Vendor expresses an interest in producing the specified goods and asserts to EMV that the Vendor possesses the necessary skillset, resources, and workforce to fulfill its duties according to this Contract. Furthermore, EMV seeks to engage the Vendor as a manufacturer of these Products on the provisions outlined herein, with the understanding that any liability or risk associated with product quality or performance will be solely borne by the Vendor, subject to any express warranties and indemnifications contained in this Agreement.",
+    "contradiction_score": 0.004430113360285759,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 5996,
+    "end_char": 6305,
+    "original": "Manufacturer agrees not to alter the Products from the Specifications (including without limitation their packaging) without EMV's prior written consent. EMV agrees not to alter the Products produced by Manufacturer (including, without limitation their packaging) without Manufacturer\u2019s prior written consent.",
+    "modified": "Manufacturer retains the right to modify the Products from the Specifications (including their packaging), with prior notice to EMV, who shall have no objection to such changes unless there is a material deviation from the original specifications. In cases where a material deviation occurs, Manufacturer will provide EMV an opportunity to negotiate acceptable modifications. EMV likewise reserves the right to modify the Products produced by Manufacturer (including their packaging), with prior notice to Manufacturer, who shall have the option to object within a reasonable timeframe and propose alternatives if necessary.",
+    "contradiction_score": 0.8792741894721985,
+    "kept": true
+  },
+  {
+    "clause_index": 23,
+    "start_char": 8153,
+    "end_char": 8841,
+    "original": "2.4 Testing and Inspections Spot Testing . Upon prior written notice to Manufacturer, EMV or its authorized representative(s) may conduct spot functional tests of the Products at Manufacturer's facility at which Products are being manufactured during Manufacturer's normal business hours. The parties will mutually agree upon the timing of such investigations, which will be conducted in such a manner as not to unduly interfere with Manufacturer's operations. If any Products fail any part of the test procedure set forth on the Specifications, EMV may require such Products to be rejected, and Manufacturer will promptly take all steps necessary to correct such failures at its expense.",
+    "ollama_generated": "2.4 Testing and Inspections - Upon reasonable notice to the Manufacturer, EMV or its authorized representatives may perform non-intrusive functional tests of the Products during their production process at the Manufacturer's facility. The parties shall collaborate to determine the most convenient time for such inspections, ensuring that they do not significantly disrupt the Manufacturer's regular business activities. If any Products fail any part of the test protocol outlined in the Specifications, the Manufacturer will have the opportunity to rectify the issues at its own expense. However, EMV shall not require rejection of Products unless the failures are persistent and cannot be reasonably resolved within a mutually agreed upon timeframe.",
+    "contradiction_score": 0.028776956722140312,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 10465,
+    "end_char": 10489,
+    "original": "2.6 Engineering Changes.",
+    "ollama_generated": "2.6 Proposed Modifications to Engineering:\n\nThe Client shall have the right, at their sole discretion, to request modifications or adjustments to the Engineered Product. Upon such request, the Service Provider shall provide a quote for the costs associated with these changes and, if agreed upon by the Client, proceed with the implementation of the modifications. The Client acknowledges that additional time may be required for the Service Provider to implement requested modifications and agrees to extend any existing deadlines accordingly.",
+    "contradiction_score": 0.016519948840141296,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 11362,
+    "end_char": 11549,
+    "original": "Manufacturer will reimburse EMV for all expenses incurred by EMV to qualify changes to such materials or processes that are undertaken by Manufacturer without EMV's prior written consent.",
+    "modified": "Manufacturer shall bear the costs associated with any modifications to materials or processes initiated by themselves, requiring EMV's prior written consent. In instances where Manufacturer does not obtain such consent, they will not seek reimbursement for expenses incurred in relation to these changes from EMV.",
+    "contradiction_score": 0.8911675214767456,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 12166,
+    "end_char": 12372,
+    "original": "2.9 Packaging, Advertising and Promotion Manufacturer shall include the information provided by EMV in the packaging in which the Products are sold and shall modify any of the packaging if requested by EMV.",
+    "ollama_generated": "2.9 In the sale of the Products, EMV shall provide the necessary details to be included in the product packaging, and Manufacturer is expected to make reasonable efforts to incorporate these details. Any modification requests made by EMV concerning packaging will be addressed promptly by the Manufacturer, subject to feasibility and logistical considerations.",
+    "contradiction_score": 0.0008456255309283733,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 13300,
+    "end_char": 13817,
+    "original": "ActivityContribution (In Percentage) EMV Manufacturer Design and Development Costs ****% ****% Manufacturing equipment (including improvement on existing equipment) ****% Road Test and Laboratory Tests **** % by EMV for all the road test & laboratory test during R&D stage before finalizing design of overall vehicle and parts by EMV**** % by Manufacturer for all the road test & laboratory test during mass production stage to reach the technical standard after finalizing design of overall vehicle and parts by EMV.",
+    "ollama_generated": "Contribution to Activity Percentages (EMV Manufacturer Design and Development Costs):\n- ****% by EMV for the design and development costs associated with Electric Vehicle (EV) Manufacture\n- ****% by EMV for manufacturing equipment (including improvements on existing equipment)\n- Road Test and Laboratory Tests: ****% by EMV during all road tests & laboratory tests throughout the R&D stage, prior to finalizing the overall vehicle and parts design by EMV\n- Mass Production Stage Technical Standard Reach: ****% by Manufacturer for all road test & laboratory tests during the manufacturing stage, following the completion of overall vehicle and parts design by EMV\n\nThis revised clause shifts a portion of the costs and responsibilities for road testing and laboratory testing from the manufacturer to the Electric Vehicle Manufacturer (EMV), both during the Research and Development (R&D) phase and the mass production stage. The exact percentages remain unchanged in this revision, with the understanding that the amounts may vary between the parties involved.",
+    "contradiction_score": 0.14933699369430542,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 13877,
+    "end_char": 13946,
+    "original": "Homologation fees for vehicle and spare parts**** % for EMV\u2019s market.",
+    "modified": "The homologation fees for vehicles and spare parts shall be capped at a maximum of **% for the EMV's market. This cap is intended to provide a cost ceiling for our valued clients, ensuring a more competitive pricing structure.",
+    "contradiction_score": 0.505556046962738,
+    "kept": true
+  },
+  {
+    "clause_index": 39,
+    "start_char": 13950,
+    "end_char": 13983,
+    "original": "**** % for Manufacturer\u2019s market.",
+    "ollama_generated": "The Manufacturer retains **95%** discretion over pricing within its sales channels.",
+    "contradiction_score": 0.1354147344827652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 15702,
+    "end_char": 15862,
+    "original": "In addition, during the valid period of this agreement, EMV guarantee the annual purchase volume will be not less than the purchase volume of the previous year.",
+    "modified": "For the duration of this contract, it is understood that EMV shall strive to maintain an annual purchase volume, but shall not be bound by a strict obligation to surpass the purchase volume of the preceding year.",
+    "contradiction_score": 0.8322864174842834,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 15909,
+    "end_char": 16088,
+    "original": "On a periodic basis, EMV shall provide Manufacturer with a latest _6_month rolling forecast of Product requirements (\u201c Forecast \u201d), as currently anticipated pursuant to Exhibit A.",
+    "modified": "On an irregular basis, Manufacturer may request from EMV a historical 6-month rolling forecast of Product requirements (\"Forecast\"), which shall be provided by EMV if reasonably feasible and within a reasonable timeframe, as stipulated in Exhibit A.",
+    "contradiction_score": 0.9313177466392517,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 17366,
+    "end_char": 17573,
+    "original": "Zongshen Industry Zone Ba\u2019nan District, Chongqing CHINA 400054 Email: \u25cf Phone: +86 \u25cf Mobile: +86 \u25cf Manufacturer will notify EMV for any change of the mailing address, email address and the sales coordinator.",
+    "ollama_generated": "The Ba'nan District, Zongshen Industry Zone, Chongqing CHINA 400054 (Email: \u25cf, Phone: +86, Mobile: +86) assumes responsibility for timely communication to EMV regarding any updates or changes in the mailing address, email address, and the designated sales coordinator. EMV is not obligated to seek or confirm such information unless explicitly informed by the Manufacturer.",
+    "contradiction_score": 0.0034872794058173895,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 17573,
+    "end_char": 17962,
+    "original": "4.3 Manufacturer Assessment Based on the Forecast, EMV and Manufacturer shall meet at least quarterly to set and update mutually agreeable key performance targets in a variety of  areas including, without limitations, annual pricing, Lead-time, quality and on-time delivery. EMV shall evaluate Manufacturer\u2019s performance against such targets and the parties shall agree corrective actions.",
+    "ollama_generated": "4.3 Manufacturer Evaluation Based on the Forecast, it is recommended, yet not mandatory, for EMV and Manufacturer to convene at least quarterly to establish and revise key performance indicators in several domains, including, but not limited to, annual pricing, lead-time, quality, and on-time delivery. The initiative for evaluation of Manufacturer's performance against these indicators lies with EMV. If necessary, EMV may propose corrective actions, which will be discussed collaboratively between the parties. However, it is Manufacturer's responsibility to implement these agreed-upon corrections.",
+    "contradiction_score": 0.008177131414413452,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 19240,
+    "end_char": 19848,
+    "original": "4.5.1  Order Quantity Adjustment After Manufacturer\u2019s acceptance of Purchase Order, in case of order quantity adjustment within the lead time set forth in  each Purchase Order , EMV shall inform Manufacturer in written form as soon as reasonably possible. Manufacturer will use commercially reasonable efforts to meet increases/decreases requested by EMV, and will quote any applicable charges resulting from changes in costs  associated with such quantity adjustment following the issuance of a Purchaser Order. EMV shall bear such charges, subject to an updated Purchase Order being signed by both parties.",
+    "modified": "4.5.1 Adjustment of Order Quantity Post Manufacturer's Acceptance of Purchase Order, the Manufacturer retains the discretion to reject any adjustments requested by EMV within the lead time specified in each Purchase Order, without penalty or obligation. Any changes initiated by EMV will be at their sole cost and risk, with the Manufacturer providing a revised quote for any additional charges resulting from these adjustments. The Manufacturer is under no obligation to accommodate such adjustments unless a revised and signed Purchase Order is executed by both parties.",
+    "contradiction_score": 0.5922377705574036,
+    "kept": true
+  },
+  {
+    "clause_index": 61,
+    "start_char": 20659,
+    "end_char": 21243,
+    "original": "4.6 Rescheduling of Delivery Date EMV may reschedule the delivery of Products by sending Manufacturer a written change order pursuant to the schedule set forth in  each Purchase Order . Manufacturer agrees to use commercially reasonable efforts to accommodate requests for rescheduling (acceleration and delay), and before accepting such rescheduling requests, will quote any applicable charges resulting from changes in costs associated with such rescheduling , which charges shall be the sole responsibility of EMV, subject to an updated Purchase Order being signed by both parties.",
+    "ollama_generated": "4.6 Delivery Date Rescheduling: The Manufacturer has the option to request a rescheduling of the delivery date for Products. Such requests should be communicated to EMV in writing following the change order procedure outlined in each Purchase Order. EMV will make reasonable efforts to accommodate these requests (either by acceleration or delay), and any additional costs arising from these changes will be borne solely by the Manufacturer, with an updated Purchase Order to be signed by both parties prior to the implementation of the rescheduled delivery date.",
+    "contradiction_score": 0.29363134503364563,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 23558,
+    "end_char": 23666,
+    "original": "5.2 Pricing The price of Products will be determined by both parties at the beginning of each calendar year.",
+    "ollama_generated": "5.2 Pricing The pricing structure for Products shall be established on a mutual basis between the parties at the outset of each financial year, with the understanding that any subsequent adjustments may be made unilaterally by either party, effective immediately and subject to prior written notification.",
+    "contradiction_score": 0.005640364717692137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 24607,
+    "end_char": 24909,
+    "original": "* Confidential treatment has been requested for certain portions of this Exhibit. The confidential portions of this Exhibit have been omitted and filed separately with the Securities and Exchange Commission. Such portions have been marked with \u201c****\u201d at the exact place where material has been omitted.",
+    "ollama_generated": "* Certain sections within this Exhibit are subject to a request for confidential treatment. These sensitive parts have been excluded from this document and submitted individually to the Securities and Exchange Commission, clearly labeled and marked with \"****\" at the corresponding locations where information has been redacted. The responsibility of maintaining the confidentiality of these omitted sections remains with the recipient who has access to them.",
+    "contradiction_score": 0.0010251982603222132,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 24944,
+    "end_char": 24971,
+    "original": "5.3 Packaging and Shipping.",
+    "ollama_generated": "5.3 Delivery and Custody Transference.\n\nIn this context, the responsibility for packaging and arranging shipping of the goods shall be assigned to the Seller, whereas the Buyer will retain the right to verify the condition of the shipped goods upon arrival at their designated location. Any additional costs incurred due to improper or inadequate packaging by the Seller will be borne solely by the Seller. The risk of loss or damage during transit shall pass from the Seller to the Buyer upon delivery, with the understanding that the Buyer has a reasonable period to inspect and dispute the condition of the goods before accepting them.",
+    "contradiction_score": 0.40021243691444397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 25534,
+    "end_char": 25544,
+    "original": "5.4 Taxes.",
+    "ollama_generated": "5.4 Tax Obligations Shifted:\n\nIn the event of any tax liability arising out of this Agreement, the Responsible Party shall have the discretion to bear such cost or seek reimbursement from the other Party, subject to applicable laws and regulations, in a manner that ensures minimal financial impact on both Parties.",
+    "contradiction_score": 0.09655866771936417,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 27597,
+    "end_char": 27769,
+    "original": "6. MARKETING REGIONS \u9500\u552e\u533a\u57df EMV and the Manufacturer agree that the Manufacturer will be responsible for marketing of the Products in the region of Asia (India not included).",
+    "ollama_generated": "6. MARKETING REGIONS (Asia, excluding India)\n\nEMV and the Manufacturer acknowledge that the Manufacturer shall have the discretionary responsibility for marketing the Products within the specified regions of Asia, with the exception of India, where joint marketing efforts may be mutually agreed upon by both parties.",
+    "contradiction_score": 0.004101207479834557,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 27961,
+    "end_char": 28154,
+    "original": "7. INTELLECTUAL PROPERTY 7.1 Ownership EMV represents and warrants to the Manufacturer that it has title and/or right to use and to license the Proprietary Rights to the Manufacturer hereunder.",
+    "ollama_generated": "7. INTELLECTUAL PROPERTY\n7.1 Ownership\nThe Manufacturer acknowledges and accepts that EMV holds the title and/or rights to use and license the Proprietary Rights, and that such rights are not encumbered by any third-party claims or liens (subject to any exceptions agreed upon in writing by both parties).",
+    "contradiction_score": 0.0008958833059296012,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 40627,
+    "end_char": 40914,
+    "original": "10.6 No Agency The parties hereto are independent contractors. Nothing contained herein or done in pursuance of this Agreement shall constitute either party the agent of the other party for any purpose or in any sense whatsoever, or constitute the parties as partners or joint venturers.",
+    "ollama_generated": "10.6 Limited Representation: Although the parties involved in this agreement are autonomous entities, it is acknowledged that each may act on their own behalf and not as a representative of the other. The performance of this agreement shall not establish any form of partnership, joint venture, or agency relationship between the parties. Each party shall bear sole responsibility for their actions and decisions taken during the course of this agreement.",
+    "contradiction_score": 0.13603481650352478,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 44763,
+    "end_char": 44876,
+    "original": "s/ Jerry Kroll Name: Jerry Kroll Title: CEO and General Manager CHONGQING ZONGSHEN AUTOMOBILE  INDUSTRY CO., LTD.",
+    "ollama_generated": "Clause:\nName: Jerry Kroll\nTitle: Delegated Managing Director, Chongqing Zongshen Automobile Industry Co., Ltd.\n\nExplanation: The original title was \"CEO and General Manager,\" which carries the implication of having ultimate authority and responsibility for all aspects of the company. In the revised clause, Jerry Kroll is now a \"Delegated Managing Director,\" which signifies that he has been given the authority to manage the company, but does not necessarily imply that he holds the final decision-making power or is responsible for every aspect of its operations. This change in title subtly shifts some of the responsibility away from Jerry Kroll, making his role less demanding and potentially less risky.",
+    "contradiction_score": 0.3912819027900696,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

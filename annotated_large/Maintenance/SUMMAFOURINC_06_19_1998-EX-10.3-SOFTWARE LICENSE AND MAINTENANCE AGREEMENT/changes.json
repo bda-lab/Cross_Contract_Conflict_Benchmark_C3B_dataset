@@ -1,0 +1,700 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 453,
+    "original": "EXHIBIT 10.3 SOFTWARE LICENSE AND MAINTENANCE AGREEMENT This Software license and maintenance agreement (\"Agreement\") is entered into effective as of August 4, 1997 (the \"Effective Date\") by and between D2 Technologies, Inc., a California corporation with offices at 104 West Anapamu Street, Santa Barbara, CA 93101 (\"D2\"), and Summa Four Inc., a Delaware corporation with offices at 25 Sundial Avenue, Manchester, New Hampshire 03103-7251 (\"LICENSEE\").",
+    "ollama_generated": "EXHIBIT 10.3 MODIFIED SOFTWARE USAGE AND SUPPORT AGREEMENT\n\nThis Modified Software Usage and Support Agreement (\"Agreement\") is executed on August 4, 1997 (the \"Effective Date\"), by and between D2 Technologies, Inc., a California corporation with offices at 104 West Anapamu Street, Santa Barbara, CA 93101 (\"D2\"), and Summa Four Inc., a Delaware corporation with offices at 25 Sundial Avenue, Manchester, New Hampshire 03103-7251 (\"CLIENT\").\n\nIn this Agreement, D2 grants to the Client a limited, non-exclusive, revocable, and non-transferable license to use its software (the \"Software\") in accordance with the terms herein. In contrast to traditional licensing agreements, it is understood that any maintenance or support services provided by D2 to the Client shall be optional and at D2's sole discretion, unless expressly agreed upon in writing between the parties. Furthermore, the Client acknowledges and accepts that it is solely responsible for the proper installation, configuration, and operation of the Software, and D2 shall not be liable for any issues arising from such activities, except where explicitly stated otherwise in this Agreement or applicable law.",
+    "contradiction_score": 0.010442683473229408,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 1865,
+    "end_char": 1945,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software Usage Agreement                D2 Technologies, Inc.\n\nIn consideration of the license granted hereunder, the End User acknowledges and agrees as follows:\n\n1. Grant of License: D2 Technologies, Inc. (the \"Licensor\") grants to the End User (the \"Licensee\") a non-exclusive, non-transferable, limited right to use the Software (defined below) solely for the Licensee's internal business purposes and not for any commercial or revenue-generating activities.\n\n2. Scope of License: The scope of the license granted hereunder is restricted to the number of users specified in Exhibit A attached hereto. The Licensee shall not permit any unauthorized use of the Software, nor shall it attempt to exceed the permitted number of users or the specifications outlined in this Agreement.\n\n3. Ownership: The Licensor retains all right, title, and interest in and to the Software, including but not limited to all intellectual property rights therein. The Licensee acknowledges that no title to the Software is transferred to the Licensee hereunder.\n\n4. Limitation of Liability: In no event shall the Licensor be liable for any damages, whether direct, indirect, incidental, special, consequential, or exemplary, arising out of or in connection with the use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages. The Licensee assumes all risks associated with the use of the Software.\n\n5. Term and Termination: This Agreement shall commence on the Effective Date (as defined in Exhibit A) and shall continue until terminated by either party upon thirty (30) days' written notice to the other party. Upon termination, the Licensee must cease all use of the Software and return or destroy all copies thereof in its possession.\n\nIn this revised clause, the obligation on the end user (Licensee) to notify D2 Technologies (Licensor) before terminating the agreement has been weakened by allowing either party to terminate upon thirty (30) days' written notice to the other party. This change favors the Licensee, who now has more flexibility in terminating the agreement without needing prior approval from the Licensor.",
+    "contradiction_score": 0.05505143851041794,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 1945,
+    "end_char": 2340,
+    "original": "and Maintenance Agreement       August 4, 1997                      CONFIDENTIAL 1.6      \"New Version\" in this Agreement shall mean a new release of Licensed Technology that provides significant performance enhancements, including new releases of software product optimized for different members of the same DSP processor family which is based on the same core architecture and instruction set.",
+    "ollama_generated": "Clause:\nMaintenance Agreement                  August 4, 1997                      CONFIDENTIAL 1.6\n\n\"Minor Update\" in this Agreement refers to a minor modification or improvement of the Licensed Technology that does not significantly enhance its performance, and may include software updates optimized for different members within the same DSP processor family, provided they share the same core architecture but do not necessarily offer substantial performance gains compared to the existing version.\n\nIn this revised clause, we have shifted the focus from \"significant performance enhancements\" to \"minor modifications or improvements,\" thus weakening the obligation for the software updates to deliver significant performance benefits.",
+    "contradiction_score": 0.21276681125164032,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2340,
+    "end_char": 2600,
+    "original": "1.7      \"Defect\" shall mean any failure of Licensed Technology to meet the Specification as a result of a material failure (including an error or \"bug\" that is material) of the Licensed Technology. \"Material\" is defined as priority A, B, and C in Article 6.3.",
+    "modified": "1.7    \"Performance Issue\" will be construed as any deviation of the Functionality of the Licensed Technology from the Specification, attributable to a critical or substantial flaw within the Licensed Technology, including but not limited to software errors or bugs. A flaw shall be deemed \"critical\" or \"substantial\" if it falls under priorities A, B, or C as stipulated in Article 6.3. Furthermore, we acknowledge that minor issues, which do not meet this criteria, may still exist and are not considered Performance Issues for the purposes of this agreement.",
+    "contradiction_score": 0.6364529728889465,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 6897,
+    "end_char": 7160,
+    "original": "2.3      End User License. LICENSEE shall ensure that all Licensed Technology distributed by LICENSEE shall be subject to a shrink-wrap agreement or other end user agreement which contains a provision substantially similar to the provision set forth in Exhibit D.",
+    "ollama_generated": "2.3 User License Obligation. Grantor reserves the right to require that any Licensed Technology provided by LICENSEE is distributed under a license agreement, including but not limited to shrink-wrap agreements or other end user licensing mechanisms, which contains a provision substantially similar to the one in Exhibit D; however, compliance with this obligation shall be at the discretion of LICENSEE.",
+    "contradiction_score": 0.023113325238227844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 8166,
+    "end_char": 8196,
+    "original": "3.2      Different Processors.",
+    "ollama_generated": "3.2 Alternative Data Handlers:\n\nIn the event that we deem it necessary to engage the services of a third-party processor for any purpose specified in this Agreement, we shall remain responsible for their actions or omissions, but you acknowledge and agree that such third parties may have independent rights, limitations, and liabilities under applicable laws. You hereby grant us the right to delegate our data processing obligations to these alternative data handlers, subject to compliance with all relevant laws and regulations and the preservation of appropriate security measures.",
+    "contradiction_score": 0.15642842650413513,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 10005,
+    "end_char": 10085,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software User Agreement                             D2 Technologies, Inc.\n\nIn consideration for the grant of a limited, non-exclusive license to use our software (\"Software\"), you agree to the following terms. By using the Software, you acknowledge that you have read and understood these terms and enter into this agreement voluntarily.\n\nInstead of your obligation to comply with the conditions set forth herein, we shall now consider it as a privilege granted by us, subject to our discretionary rights to modify, suspend, or terminate your access at any time for any reason, including your non-compliance or violation of these terms.\n\nFurthermore, while before the user was responsible for backing up their data, under this new clause, we will now take no responsibility whatsoever for any loss, corruption, or unavailability of data resulting from the use of our Software, unless such loss is directly caused by a breach of our obligations under this agreement.\n\nLastly, instead of granting an exclusive remedy in case of disputes, we have shifted this clause to state that either party has the right to seek any equitable or legal remedies for any claim arising out of or relating to this agreement, as well as any breach thereof, at our mutual discretion.\n\nWe hope these changes provide a more balanced and fair agreement for both parties. If you have any questions or concerns regarding the updated terms, please do not hesitate to contact us. Thank you.",
+    "contradiction_score": 0.0017225185874849558,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 14905,
+    "end_char": 15328,
+    "original": "6.3      Error Correction. If D2 becomes aware of any Defect in the Licensed Technology, D2 shall promptly provide LICENSEE with written notice of such Defect. D2 shall have no obligation to actively monitor the Licensed Technology for Defects after such software has been accepted by LICENSEE. D2 shall work diligently to promptly correct Defects in accordance with the following schedule\u037e \"days\" shall mean calendar days.",
+    "ollama_generated": "6.3 Error Correction. In the event that LICENSEE discovers any Defect within the Licensed Technology, it is incumbent upon LICENSEE to notify D2 in writing without undue delay. It should be noted that once accepted by LICENSEE, responsibility for monitoring the Licensed Technology for defects lies solely with LICENSEE. Upon receiving notice of a Defect from LICENSEE, D2 shall make every reasonable effort to rectify such Defect within a timely manner, as defined by the following schedule; \"days\" in this context shall denote business days.\n\nThis revised clause shifts the responsibility for monitoring the Licensed Technology from D2 to LICENSEE, weakens the obligation on D2 to promptly correct Defects (now states they will make every reasonable effort), and specifies that the term \"days\" refers to business days rather than calendar days.",
+    "contradiction_score": 0.4054977297782898,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 15844,
+    "end_char": 16038,
+    "original": "-B-      Defects  that have been  substantiated  as a serious inconvenience to LICENSEE or an End User. This includes any priority A Defect for which a viable detour or work around is available.",
+    "modified": "-A-       Any reported defects, deemed as significant inconveniences by the Licensee or End User, will be addressed promptly. This includes all Priority A Defects, regardless of whether alternatives for bypassing or mitigating the issue are accessible.\n\nIn this revised clause, I've slightly altered the obligation to make it clear that the provider must address any reported defect that causes significant inconvenience, not just those with available detours or workarounds as stated in the original clause. This changes the emphasis from the availability of alternatives to addressing the root cause of the inconvenience.",
+    "contradiction_score": 0.7318826913833618,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 16160,
+    "end_char": 16454,
+    "original": "(2)      Response: Response consists of providing, as appropriate, one of the following to the LICENSEE: an existing correction\u037e A new correction\u037e a viable detour or work around\u037e a request for more information to complete analysis of the problem, or a plan on how the problem will be corrected.",
+    "ollama_generated": "(2) Response Obligation: The PROVIDER shall have the discretion to respond to the REQUESTOR's needs by offering one or more of the following options: an existing solution; a proposed new solution; a suggested detour or workaround; a request for additional information needed to comprehensively analyze the issue at hand, or a proposed strategy detailing how and when the problem will be addressed. It is understood that the PROVIDER's response shall be reasonable and timely under the circumstances, but no guarantee of a specific outcome is implied.",
+    "contradiction_score": 0.35214972496032715,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 16454,
+    "end_char": 16617,
+    "original": "(3)      Closure: Closure consists of providing a final correction or work around of the problem including an Update and revised or new Documentation as necessary.",
+    "modified": "(3)  Termination: Termination involves rectifying any identified issue, but may not necessarily include the provision of a comprehensive update, and the accompanying documentation will remain as previously provided unless an amendment is deemed necessary by our discretion.",
+    "contradiction_score": 0.9849323630332947,
+    "kept": true
+  },
+  {
+    "clause_index": 55,
+    "start_char": 18268,
+    "end_char": 18434,
+    "original": "and Maintenance Agreement       August 4, 1997                      CONFIDENTIAL (ii)     D2 will answer questions concerning the installation of Licensed Technology.",
+    "ollama_generated": "Clause:\nMaintenance Agreement       August 4, 1997                      CONFIDENTIAL (ii)\n\nIn the event that assistance is required regarding the installation of Licensed Technology, D2 shall be at liberty to provide such answers, but only to a reasonable extent and without any obligation for in-depth explanations or technical support beyond what is necessary to respond to the query.\n\nThis change weakens the obligation slightly by giving D2 the freedom to decide the extent of their assistance and reducing their obligation to provide in-depth explanations or technical support.",
+    "contradiction_score": 0.007810977287590504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 19740,
+    "end_char": 20405,
+    "original": "7.       LIMITED SOURCE CODE LICENSE AND PROTECTION 7.1      Source Code delivery. D2 shall, after acceptance of Licensed Technology by LICENSEE and within fifteen days after receiving such a request from LICENSEE deliver a copy of the fully commented Source Code for the then current version of the Licensed Technology and information needed for compiling and building the Licensed Technology Object Code to LICENSEE. Thereafter, D2 shall automatically deliver a copy of the fully commented Licensed Source Code for the then current version of the Licensed Technology within fifteen days after the release of any Updates or New Versions of the Licensed Technology.",
+    "ollama_generated": "7. PROTECTED SOURCE CODE ACCESS AND RESTRICTIONS\n\n7.1     Access to Source Code. Licensee may request access to the fully commented Source Code for the then-current version of the Licensed Technology from D2 at any time, but such access shall be provided solely at D2's discretion and in accordance with the terms of this Agreement. If granted, D2 shall deliver a copy of the Source Code and necessary information for compiling and building the Licensed Technology Object Code within a reasonable timeframe, which shall not exceed fifteen business days.\n\n7.2     Updates and New Versions. In the event that any Updates or New Versions of the Licensed Technology are released, D2 may, at its sole discretion, choose to make the corresponding Source Code available to the Licensee. If D2 decides to provide such access, it shall be done within fifteen business days after the release.\n\nIn this rewritten clause, the responsibility for delivering the source code has shifted from an obligation of D2 to a discretionary action. Additionally, the timeframe for delivery has been expanded from a strict fifteen-day requirement to a \"reasonable timeframe which shall not exceed fifteen business days.\" This change provides more flexibility and potential protection for D2 while still maintaining the spirit of the original clause.",
+    "contradiction_score": 0.10324618220329285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 20405,
+    "end_char": 21005,
+    "original": "7.2      Source Code Access Conditions. The following events shall constitute \"Source Code Access Conditions\": (i) D2's insolvency, general assignment for the benefit of creditors, or ceasing to do business, or (ii) D2's failure or inability to meet its warranty, maintenance and support obligations under Article 6, or its warranty obligations under Article 8.3, within fifteen days after written notice by LICENSEE to D2 of D2's failure to meet such obligations, or (iii) termination of this Agreement by LICENSEE pursuant to Articles 9.3 and 9.4, or (iv) as needed by LICENSEE for fault isolation.",
+    "ollama_generated": "7.2 Source Code Access Privileges: The following circumstances will trigger \"Source Code Access Privileges\" for the Licensee: (i) If Licensor encounters financial distress, seeks creditor protection, or discontinues operations, or (ii) If Licensor fails to fulfill its warranty, maintenance, and support obligations as outlined in Articles 6 and 8.3, following a written notice from the Licensee specifying such failure, and Licensor's failure to remedy the situation within fifteen days of such notice, or (iii) Upon termination of this Agreement by either party in accordance with Articles 9.3 and 9.4, or (iv) at the sole discretion of the Licensee for debugging purposes.",
+    "contradiction_score": 0.05964548885822296,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 21785,
+    "end_char": 22079,
+    "original": "(A)      General. LICENSEE acknowledges and agrees that the Licensed Source Code constitutes the confidential and proprietary trade secrets of D2, and that LICENSEE's protection thereof is essential to this Agreement and a condition of LICENSEE's use and possession of the Licensed Source Code.",
+    "modified": "(B)     General. D2 acknowledges and asserts that the Licensed Source Code embodies its valuable and exclusive intellectual property, and D2 expects LICENSEE to exercise due care in safeguarding it, not as a mere condition for this Agreement but as a mutual commitment of both parties towards maintaining the integrity and security of the Licensed Source Code.",
+    "contradiction_score": 0.9367570877075195,
+    "kept": true
+  },
+  {
+    "clause_index": 75,
+    "start_char": 25212,
+    "end_char": 25377,
+    "original": "D2 will prepare an amended Exhibit E as required to cover such changes, and such changes shall become effective after execution of the amended Exhibit E by LICENSEE.",
+    "modified": "The responsibility for preparing an amended Exhibit E, necessary to account for any applicable modifications, shall fall upon the Licensee. Once executed by D2, the enactment of such changes within Exhibit E will become effective.",
+    "contradiction_score": 0.5669997334480286,
+    "kept": true
+  },
+  {
+    "clause_index": 83,
+    "start_char": 28417,
+    "end_char": 28602,
+    "original": "(v)      Copies of such agreements shall be provided to D2 on request\u037e provided however, that portions of such agreements not required by this Article 7 may be deleted from such copies.",
+    "ollama_generated": "(v) Upon reasonable request from D2, copies of the aforementioned agreements will be made available; however, it is clarified that any sections of these agreements not mandated by Article 7 may be omitted from the provided copies. In this case, the responsibility lies with the other party to determine the necessity and relevance of the omitted portions.",
+    "contradiction_score": 0.0016472428105771542,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 29188,
+    "end_char": 29687,
+    "original": "8.2      Additional D2 Warranties. D2 additionally warrants that it (i) is not aware of any pending or actual litigation which is likely to have a material adverse effect on the rights or obligations of LICENSEE under this Agreement\u037e and (ii) is not aware of any claim or any basis for any claim that Licensed Technology, or LICENSEE's use of the Licensed Technology as contemplated herein, will infringe any patents, trade secrets of other intellectual property rights belonging to any third party.",
+    "ollama_generated": "8.2 Additional Warranties by D2 (Limited). While D2 makes reasonable efforts to ensure this, it does not guarantee that it is aware of all pending or potential litigation which, if undisclosed, might have a significant impact on the obligations or rights of the Licensee under this Agreement. Furthermore, D2 does not warrant that it is not privy to any claim or basis for a claim suggesting that the Licensed Technology, or the Licensee's usage of the Licensed Technology as per this Agreement, may violate any third-party patents, trade secrets, or intellectual property rights, but rather, it assumes no responsibility for such potential infringements.",
+    "contradiction_score": 0.026680797338485718,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 29687,
+    "end_char": 30085,
+    "original": "8.3      Software Warranty. D2 warrants to LICENSEE that the media upon which the Licensed Technology is delivered to LICENSEE will be free from Defects in materials and workmanship, and that Licensed Technology shall meet and perform in accordance with D2's specifications on Exhibit A. D2 shall promptly correct any Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "8.3 Software Limited Warranty. LICENSEE acknowledges and accepts that the media upon which the Licensed Technology is delivered may contain minor imperfections or inconsistencies, and that the Licensed Technology's performance may vary from D2's specifications outlined in Exhibit A. Any issues arising from such variations shall not be considered as Defects within the scope of this warranty. In the event of significant malfunctions or non-performance of the Licensed Technology, LICENSEE shall notify D2 Technologies, Inc promptly, and D2 will make reasonable efforts to rectify the issue, provided that LICENSEE has complied with all installation, usage, and maintenance instructions as specified in the user manual.",
+    "contradiction_score": 0.09094136953353882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 31760,
+    "end_char": 31889,
+    "original": "9.4      Survival. Articles 7.2, 7.3,7.4, 8, 9, 10, 11, 12, 13, 14 shall survive any termination or expiration of this Agreement.",
+    "ollama_generated": "9.4       Obligations Surviving Termination. The obligations under Articles 7.2, 7.3, 7.4, 8, 9, 10, 11, 12, 13, and 14 shall continue to bind the Parties even after the termination or expiration of this Agreement, irrespective of the cause for such termination or expiration.\n\nIn this revised clause, the focus has been shifted slightly to emphasize that the obligations under the specified articles will continue to apply post-termination or expiration, regardless of the reasons behind it. This can be useful in situations where the parties want to ensure that certain provisions remain enforceable despite the termination or end of the agreement.",
+    "contradiction_score": 0.0010555301560088992,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 34750,
+    "end_char": 35243,
+    "original": "12.1     Confidential Information. As used in this Agreement, the term \"Confidential Information\" shall mean any information disclosed by one party to another pursuant to this Agreement which is marked as confidential or proprietary, or, if disclosed orally, is designated as confidential at the time of disclosure and is subsequently reduced to a writing which is marked as confidential or proprietary and is provided to the receiving party within thirty (30) days after such oral disclosure.",
+    "ollama_generated": "12.1    Confidential Materials. For purposes of this Agreement, the term \"Confidential Materials\" encompasses any information shared between parties under this Agreement, whether marked as confidential or proprietary, or verbally communicated and subsequently recorded in writing within thirty (30) days following such oral disclosure, provided that such written record is then labeled as confidential or proprietary. It is understood that the burden of labeling and recording rests primarily with the disclosing party, though the receiving party shall promptly comply with any reasonable request from the discloser to label and record such information as confidential.",
+    "contradiction_score": 0.39843836426734924,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 36112,
+    "end_char": 37422,
+    "original": "(i)      was in the public domain at the time it was disclosed or has entered the public domain through no fault of the receiving party\u037e (ii)     was known to the receiving party, at the time of disclosure, as demonstrated by files in existence at the time of disclosure\u037e (iii)    was disclosed with the prior written approval of the disclosing party\u037e (iv)     was, is presently or may be in the future independently developed by the receiving party without any use of the Confidential Information of any other party, as demonstrated by files created at the time of such independent development\u037e (v)      became known to the receiving party, without restriction, from a source other than the disclosing party without breach of this Agreement by the receiving party and otherwise not in violation of the disclosing party's rights\u037e (vi)     has been disclosed to third parties by the disclosing party without restrictions similar to those contained in this Agreement\u037e or (vii)    is disclosed pursuant to the order or requirement of a court, administrative agency, or other governmental body\u037e provided, however, that the receiving party shall provide prompt written notice thereof to the disclosing party to enable the disclosing party to seek a protective order or otherwise prevent or restrict such disclosure.",
+    "ollama_generated": "(i)    The information in question was already publicly accessible at the time of its revelation, or has subsequently become public domain through no fault or negligence on the part of the recipient; (ii)   The recipient had prior knowledge of this information, as evidenced by records existing prior to the disclosure; (iii)  The disclosing party provided prior written consent for the dissemination of such information; (iv)  The recipient independently developed, or in the future may independently develop, such information without any reliance on the Confidential Information of any other party, as shown by records produced during this independent development process; (v)     This information became accessible to the recipient, unrestricted, from a source other than the disclosing party, and without breach of this Agreement by the recipient or violation of the disclosing party's rights; (vi)   The information was previously disclosed by the disclosing party to third parties without any restrictions comparable to those stated in this Agreement; (vii)  The information is being disclosed in compliance with a court order, administrative decree, or government mandate; however, it should be noted that the recipient shall immediately provide written notice of such disclosure to allow the disclosing party an opportunity to seek a protective order or take measures to restrict such disclosure.\n\nIn this rewritten clause, the meaning has been slightly changed by emphasizing the recipient's potential independence in developing the information without relying on any other party's Confidential Information. Also, the recipient is required to provide prompt notice of any court-ordered disclosure, allowing the disclosing party an opportunity to seek a protective order or restrict disclosure \u2013 strengthening the disclosing party's protection.",
+    "contradiction_score": 0.0065540955401957035,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 39662,
+    "end_char": 40035,
+    "original": "In the event of any disclosure pursuant to (i) or (ii) above, the disclosing party shall use all reasonable efforts to obtain confidential treatment of materials so disclosed. The parties shall in good faith consult regarding the text of any proposed public announcement regarding this Agreement or the terms and conditions hereof before such announcement is actually made.",
+    "ollama_generated": "In the occurrence of any revelation as per (i) or (ii) above, it will be the responsibility of the revealing party to make a genuine effort, but without guarantee, to secure confidential handling for the disclosed materials. The parties are obliged to engage in good faith consultations regarding the content of any potential public declaration concerning this Agreement or its underlying terms and conditions, prioritizing such consultation before any announcement is officially communicated. However, it is important to note that the ultimate decision on whether or not to make a public announcement remains with each party, subject to their discretion and independent judgment.",
+    "contradiction_score": 0.014004950411617756,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 40766,
+    "end_char": 40964,
+    "original": "15.      GENERAL 15.1     Governing Law. This Agreement shall be governed by and interpreted in accordance within the laws of the State of New York without reference to conflicts of laws provisions.",
+    "modified": "15. EXECUTION AND INTERPRETATION\n15.1 Jurisdiction and Applicable Law. This Agreement shall be subject to the substantive laws of any jurisdiction other than the State of New York, specifically excluding its conflict-of-laws principles that might otherwise refer to the internal laws of the State of New York. The interpretation and execution of this Agreement will follow the chosen governing law exclusively.",
+    "contradiction_score": 0.9735157489776611,
+    "kept": true
+  },
+  {
+    "clause_index": 116,
+    "start_char": 41821,
+    "end_char": 42267,
+    "original": "15.4     Relationship of the Parties. D2 and LICENSEE are independent contractors under this Agreement. Nothing contained in this Agreement is intended to, nor is it to be construed so as to, constitute D2 and LICENSEE as partners or joint ventures with respect to this Agreement. Employees of any party remain employees of said party and shall at not time be considered agents of or to be obligated to render a fiduciary duty to the other party.",
+    "ollama_generated": "15.4     Nature of the Parties' Relationship. Under this Agreement, D2 and LICENSEE operate as separate entities without any partnership or joint venture relationship. It is crucial to note that this Agreement does not imply the creation of such a partnership or joint venture. Each party retains its respective employees who will not be considered agents of the other party. No employee shall have a fiduciary duty to, or act on behalf of, the counterparty under any circumstances arising from this Agreement.\n\nIn this revised clause, the focus has been shifted towards emphasizing that neither party's employees owe a fiduciary duty to each other, and they will not be considered agents of one another under the agreement. This change may provide more clarity regarding each party's responsibilities and reduce potential confusion or disputes.",
+    "contradiction_score": 0.0036404067650437355,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 43528,
+    "end_char": 44282,
+    "original": "and Maintenance Agreement       August 4, 1997                      CONFIDENTIAL 15.7     Assignment. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and assigns. No party may assign any of its rights, obligations or privileges (except by operation of law or other corporate reorganization) hereunder without the prior written consent of the other party, which shall not be unreasonable withheld, provided, that any party shall have the right to assign its rights, obligations and privileges hereunder to a successor in business or an acquirer of all or substantially all of its business or assets to which this Agreement pertains without obtaining the consent of the other party.",
+    "modified": "15.7 Assignment. This Agreement is exclusively for the parties named below and shall not extend to their successors, assigns, or any other entities, unless specifically agreed in writing by all parties. Any attempt to transfer or assign rights, obligations, or privileges under this Agreement without the explicit, written approval of all parties will be null and void. However, a party may assign its interests hereunder to a third party who acquires either the entirety of the assignor's business or substantially all of its assets related to this Agreement, without requiring consent from other parties, upon giving notice to the other parties in writing. This clause supersedes any conflicting provisions regarding assignment found elsewhere in this Agreement.",
+    "contradiction_score": 0.9120191335678101,
+    "kept": true
+  },
+  {
+    "clause_index": 121,
+    "start_char": 44282,
+    "end_char": 44810,
+    "original": "15.8     Notices. Any notice required or permitted to be given by any party under this Agreement shall be in writing, shall be addressed to the President of D2, or to the President of LICENSEE, and shall be personally delivered or set by certified or registered letter, or by telecopy confirmed by registered or certified letter, to the receiving party at its address first set forth above, or such new address as may from time to time be supplied hereunder by the receiving party. Notices will be deemed effective upon receipt.",
+    "ollama_generated": "15.8 Communication and Notice: Any communication or notice required or permitted under this Agreement can be made in writing by either party, and shall be directed to the respective Secretaries of D2 or the Licensee. The communication may be delivered via email with confirmation of receipt, registered post, or courier service, to the addresses as provided initially or any subsequently updated address notified by the receiving party. Communications will be considered received when acknowledged in writing by the receiving party, or if delivered by email, upon confirmation of delivery.\n\nThis revision slightly shifts the responsibility for delivering notices from the President to the Secretaries of both parties. It also allows for communication via email with confirmation of receipt, making it a more flexible and efficient method of notice.",
+    "contradiction_score": 0.0017732421401888132,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 46163,
+    "end_char": 46470,
+    "original": "- ---------------------------------            ----------------------------------- BY: /s/ Dick Swee                            BY: /s/ David Y. Wong -----------------------------                ------------------------------- Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "---------------------------------            ----------------------------------- BY: /s/ Dick Swee                            BY: /s/ David Y. Wong -----------------------------                ------------------------------- Software End-User Agreement                                           D2 Technologies, Inc\n\nIn the event that the software provided by D2 Technologies, Inc. (\"D2T\") is found to infringe upon any third party intellectual property rights, D2T shall have the exclusive right and discretion to either: (i) modify the software so as to make it non-infringing; or (ii) obtain a license for the use of such third party intellectual property at its own cost and expense. In no event shall the end user be liable for any costs, damages or expenses incurred by D2T due to this infringement.\n\nThe end user acknowledges that they are solely responsible for ensuring compliance with all applicable local, state, national, and international laws, regulations, rules, and guidelines when using the software. D2T shall not be held liable for any claims arising from the end user's non-compliance with such laws or regulations.\n\nThe language has been modified to shift some of the responsibility for potential infringement issues onto the provider (D2T), and to clarify that the end user is responsible for compliance with all applicable laws when using the software.",
+    "contradiction_score": 0.11357370764017105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 47895,
+    "end_char": 48198,
+    "original": "A.2      Voice Activity Detection Voice Activity Detection (VAD) detects voice activity, adapts to background ambient or line noise as well as the presence of echo, classifies voice activity as \"early\" versus \"sustained\", and assigns an \"effort level\" to the speaker that is independent of network loss.",
+    "ollama_generated": "A.2      The Functionality of Voice Activity Detection (VAD) entails the identification of voice activity, the ability to adapt to background noise or disruptions such as echo, categorizing voice activity as either \"early\" or \"sustained,\" and assigning an \"effort level\" to the speaker based on network performance conditions, acknowledging that any inadequacies within the network may impact the assigned effort level.\n\nIn this revised clause, the responsibility of adapting to network loss is shifted towards the network conditions, acknowledging the potential influence it might have on the \"effort level\" assigned to the speaker.",
+    "contradiction_score": 0.011360789649188519,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 48453,
+    "end_char": 48486,
+    "original": "A.2.1    Functional requirements:",
+    "ollama_generated": "A.2.1   Performance Expectations Regarding Functionality:\n\nIn the event that the Product is expected to perform in a manner that significantly deviates from its intended functional specifications, as defined in this Agreement, the Vendor shall have the discretion to adapt, adjust or modify the Product without breaching this Agreement. However, the ultimate responsibility for ensuring compatibility and fitness for purpose lies with the User.",
+    "contradiction_score": 0.1483033001422882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 49584,
+    "end_char": 49662,
+    "original": "3.       The Voice Activity Detector adapts to background noise up to -24 dBm.",
+    "ollama_generated": "3. Under normal operating conditions, the responsibility of adjusting for background noise levels exceeding -24 dBm does not fall upon the Voice Activity Detector; rather, it is incumbent upon the user to ensure appropriate noise level conditions for optimal performance.",
+    "contradiction_score": 0.05223720893263817,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 49886,
+    "end_char": 49966,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software License Agreement\n\nD2 Technologies, Inc.\n\nThe User's use of this software (the \"Software\") is subject to the following terms and conditions. By using the Software, the User acknowledges that they have read, understood, and agreed to these terms and conditions.\n\nIn the event that the User discovers any errors or defects in the Software, D2 Technologies, Inc. shall not be obligated (but may elect) to provide support or correct such issues unless and until such time as the User agrees to pay for such services at a rate and under terms mutually agreed upon between the parties.\n\nThe User shall have no exclusive rights to the Software and acknowledges that the Software remains the property of D2 Technologies, Inc. The User may make a reasonable number of copies of the Software solely for archival purposes but is expressly prohibited from selling or transferring any such copies to third parties without the prior written consent of D2 Technologies, Inc.\n\nIn the event that the User violates any of these terms and conditions, D2 Technologies, Inc. reserves the right to terminate the User's license to use the Software, and the User agrees to immediately cease all use of the Software upon such notice from D2 Technologies, Inc. The User further acknowledges that D2 Technologies, Inc. shall not be liable for any damages or losses suffered by the User as a result of such termination.\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to its conflict of law principles. Any legal action arising out of or relating to this Agreement shall be brought exclusively in the federal or state courts located in San Francisco County, California, and the User hereby irrevocably submits to the jurisdiction of such courts.\n\nThis is the entire agreement between the parties relating to the subject matter hereof, and it supersedes all prior and contemporaneous communications and agreements between the parties with respect thereto. This Agreement may not be amended except in writing signed by an authorized representative of each party. Any waiver of any provision herein shall not constitute a waiver of any other provision nor limit or impair any other rights or remedies under this Agreement, but shall be effective only as specifically set forth in a written instrument executed by the waiving party.\n\nIn the event that any part of this Agreement is held invalid or unenforceable, that portion shall be construed to reflect the parties' original intent, and the remaining portions shall remain in full force and effect. This Agreement may not be assigned by either party without the prior written consent of the other party, but shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.",
+    "contradiction_score": 0.1318243443965912,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 50081,
+    "end_char": 50403,
+    "original": "The accuracy of the voice Activity detector is measured by the rate of \"false detection\" (i.e. classifying noise or echo as voice activity) and \"clipping\" (i.e. classifying voice activity as noise or echo) under different ambient noise and echo conditions. \"Port active\" detection under different ambient noise conditions:",
+    "ollama_generated": "The precision of the Voice Activity Detector is assessed based on two primary metrics: \"misidentification rate\" (which involves incorrectly labeling silence or background noise as voice activity) and \"underdetection rate\" (failing to recognize voice activity as such, potentially misclassifying it as noise or echo). Additionally, the performance of the \"Port active\" detection mechanism is evaluated under varying levels of ambient noise conditions.\n\nThis subtle rewording emphasizes that the system may occasionally fail to detect genuine voice activity or incorrectly identify silence or background noise as voice activity, thereby shifting the focus slightly towards the possibility of errors in either direction.",
+    "contradiction_score": 0.0023915348574519157,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 51266,
+    "end_char": 51442,
+    "original": "Fewer than 0.5% of onsets/hour (2.5 per hour) for modest noise condition (-45 dBm) and fewer than 2% (10 per hour) for high noise condition (-35 dBm) have perceptible clipping.",
+    "ollama_generated": "The likelihood of audible clipping occurring more frequently than every 50 hours (for modest noise conditions of -45 dBm) and every 50 hours for every 10 instances (for high noise conditions of -35 dBm) is negligible.\n\nIn this revised clause, the meaning has been slightly altered to suggest a greater tolerance for instances of perceptible clipping, with the expectation that it will occur less frequently than before, but without explicitly stating the exact number of occurrences per hour. This shift in language allows for some flexibility while maintaining professionalism and clarity.",
+    "contradiction_score": 0.0060724178329110146,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 52232,
+    "end_char": 52366,
+    "original": "3.       Clipping of input speech in the presence of echo is no higher than clipping in the presence of modest to high level of noise.",
+    "ollama_generated": "3. In circumstances where there's an echo, the degree of clipping in input speech should not surpass the clipping that occurs under substantial to intense levels of background noise, provided that such a circumstance allows for reasonable adjustments to ensure optimal audio quality.",
+    "contradiction_score": 0.0005389243015088141,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 52624,
+    "end_char": 52710,
+    "original": "Table A-1 specifies the nominal frequencies for the DTMF digits that must be detected.",
+    "ollama_generated": "Table A-1 outlines the suggested frequencies at which the DTMF digits should ideally be recognized, although it does not impose a strict or absolute obligation to adhere to these exact values.",
+    "contradiction_score": 0.09347746521234512,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 52710,
+    "end_char": 53390,
+    "original": "-------------------------------------------------------------- Nominal High Group Frequencies (Hz) 1209      1336       1477      1633 -------------------------------------------------------------- Nominal        697        1         2          3         A Low Group       770        4         5          6         B Frequencies      852        7         8          9         C (Hz)          941        *         0          #         D -------------------------------------------------------------- Table A-1: Nominal DTMF Frequencies 1.       Detect the presence of all 16 DTMF digits that are produced by different phones on the market under a broad range of network conditions.",
+    "ollama_generated": "Under normal operating conditions, and with a focus on common network scenarios, ensure the system is capable of identifying at least some of the 16 DTMF digits that may be generated by various phones available in the market. It's not mandatory for the system to detect all possible DTMF tones under every condition or from all types of phones.\n\n   Note: This clause emphasizes flexibility and adaptability, allowing the system to perform under a variety of network conditions while setting realistic expectations about its capabilities. The original clause required comprehensive detection of all 16 digits under any network condition or phone type, which might not always be feasible in practical scenarios.",
+    "contradiction_score": 0.04460985213518143,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 163,
+    "start_char": 54250,
+    "end_char": 54284,
+    "original": "A.3.2    Performance requirements:",
+    "ollama_generated": "A.3.2   Performance standards:\n\nService Provider shall strive to meet the performance expectations specified herein, acknowledging that deviations may occur due to unforeseen circumstances beyond its control. Service Receiver shall accept such deviations gracefully, understanding that they do not constitute a breach of contract unless they are significant and persist for an extended period, or if they recur frequently.",
+    "contradiction_score": 0.03659011423587799,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 54488,
+    "end_char": 54568,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software Licensing Agreement\n\n                            Recipient (Licensee)\n\nIn the event that D2 Technologies, Inc. (Licensor) has granted you permission to access and utilize certain proprietary software (Software), it is essential that you acknowledge and agree to the following terms and conditions:\n\nThe Software, together with any associated documentation, remains the exclusive property of Licensor, and your right to use such Software shall be limited to the scope of this agreement.\n\nWhile we endeavor to provide Software that functions flawlessly, Licensor makes no warranties or guarantees concerning its performance, accuracy, reliability, or applicability to your specific needs. We encourage you to evaluate the suitability of the Software before implementing it into your operations.\n\nThe Licensee assumes all responsibility and risk for any damage, loss, or expenses that may result from the use, inability to use, or reliance on the Software. This includes but is not limited to data loss, system downtime, and potential legal issues arising from compliance with laws and regulations applicable to your jurisdiction.\n\nThe Licensee shall indemnify, defend, and hold harmless Licensor and its affiliates, officers, directors, employees, agents, successors, and assigns from any claims, damages, or expenses resulting directly or indirectly from the use of the Software by the Licensee or third parties acting on their behalf.\n\nIn the event of a dispute arising out of this agreement, the governing law shall be that of the state of Delaware, without regard to its conflict of laws principles. The Licensor and the Licensee hereby consent to the exclusive jurisdiction and venue of the federal and state courts located in Wilmington, Delaware for any such disputes.\n\nThis agreement constitutes the entire understanding between the parties regarding the use of the Software and supersedes all prior or contemporaneous agreements, representations, and understandings concerning the subject matter hereof. This agreement may not be amended or modified except in writing signed by an authorized representative of each party. Any failure to enforce any provision of this agreement shall not constitute a waiver of such provision or any other provisions herein.\n\nBy using the Software, you signify your acceptance of these terms and conditions, including any updates or revisions thereto.",
+    "contradiction_score": 0.0668417364358902,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 167,
+    "start_char": 55336,
+    "end_char": 55471,
+    "original": "+/-2.0% accept to +/-3.0% reject\u037e +/-2.5% accept to +/-3.5% reject\u037e +/-3.0% accept to +/-4.0% reject\u037e +/-3.5% accept to +/-4.5% reject.",
+    "ollama_generated": "2.0% tolerance for deviation is accepted up to 3.0%, while any deviation beyond this range may lead to rejection. However, a slightly wider tolerance of 2.5% is accepted up to 3.5%, and a more substantial deviation up to 4.0% may still be accepted, although it may require additional consideration or negotiation. Any deviations exceeding the range of 3.5% to 4.5% will result in outright rejection.",
+    "contradiction_score": 0.3148116171360016,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 170,
+    "start_char": 58924,
+    "end_char": 60072,
+    "original": "and Maintenance Agreement       August 4, 1997                      CONFIDENTIAL - ------------------------------------------------------------------------------------------------------------------- Echo                          16 dB Signal-to-Echo          10 dB Signal-to-Echo          Pass both Bellcore and ratio at 20 ms\u037e 24 dB at      ratio at 20 ms                EIA/TIA-464A echo 45 ms                                                       requirements - ------------------------------------------------------------------------------------------------------------------- Dial Tone                     DTMF Detection in the         DTMF Detection in the         Pass both Bellcore and presence of dial tone         presence of dial tone         EIA/TIA-464A at -15 dBm per dial           at -16 dBm per dial           requirements for tone frequency                tone frequency                detection of DTMF digits in the presence of dial tone - ------------------------------------------------------------------------------------------------------------------- TABLE A-2: DTMF Performance Requirements Other performance requirements:",
+    "ollama_generated": "Additional performance expectations for DTMF:\n\n1. Detection of DTMF digits in the absence of dial tone, compliant with EIA/TIA-464A at -15 dBm per dial tone frequency.\n2. Ability to correctly identify DTMF digits even when subjected to noise levels exceeding -16 dBm per dial tone frequency, as stipulated by EIA/TIA-464A.\n3. Reduced response time for DTMF detection, aiming for a maximum of 20 ms, in accordance with Bellcore standards.\n4. Compliance with the EIA/TIA-464A echo requirements at 45 ms.",
+    "contradiction_score": 0.18329226970672607,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 60274,
+    "end_char": 60738,
+    "original": "2.       Talk-down: DTMF detection must work reliably in the presence of echo (for the maximum allowable output voice level) and with varying levels of DTMF signals (due to network loss). D2's DTMF detector combined with the echo must meet the performance requirements of Figure A-I in the presence echo generated by playing pause-removed voice (male and female) at - 18 dBm ASL (averaged over 3 seconds) over a telephone circuit with 15 dB echo return loss (ERL).",
+    "ollama_generated": "2. Echo Resilience: The DTMF detection shall function effectively despite the presence of echo, even for the highest permissible voice output level. It should also perform efficiently under fluctuating levels of DTMF signals, considering potential network degradation. The combined performance of D2's DTMF detector and echo mechanism must adhere to the standards outlined in Figure A-I, when exposed to echo generated by playback of uninterrupted voice (both male and female) at a level of -18 dBm ASL (averaged over 3 seconds), on a telephone circuit boasting a 15 dB echo return loss (ERL). However, it is understood that deviations from these performance benchmarks may occur, and any such deviations shall not be deemed as breaches of this agreement, provided they do not significantly impair the overall system functionality.",
+    "contradiction_score": 0.006689687725156546,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 175,
+    "start_char": 63579,
+    "end_char": 64330,
+    "original": "and Maintenance Agreement       August 4, 1997                      CONFIDENTIAL 4.       Double-talk talk-off: Many voice processing hardware or semiconductor manufacturers significantly degrade the \"talk-off' performance of their detector in the presence of voice echo or sidetone to achieve a high level of talk-down performance. This strategy is acceptable in a pure digit-in-voice-out scenario, but for voice conferencing or voice recognition applications, voice could be present in the both the transmit and receive path. In such cases, the DTMF detector must be very robust against \"talk-off\" in double-talk situations. The talk-off requirements for D2's DTMF detector under double-talk is fewer than 66 talkoffs for the Bellcore talk-off tape.",
+    "ollama_generated": "4. Robust Double-talk Compatibility: It is acknowledged that various voice processing hardware or semiconductor manufacturers may intentionally reduce the effectiveness of their detector's 'talk-off' functionality in conditions of voice echo or sidetone to attain optimal 'talk-down' performance. This practice is permissible in single-stream (digit-in/voice-out) operations, but for applications involving voice conferencing or voice recognition, the potential presence of voice in both transmit and receive channels necessitates a highly resilient DTMF detector against 'talk-off' in dual-stream scenarios. The allowable number of 'talk-offs' for D2's DTMF detector under dual-stream conditions, as per the Bellcore talk-off tape, shall not exceed 66 instances. In the event that the specified limit is surpassed, D2 shall be responsible for providing remedial measures or modifications to ensure compliance with this agreement.",
+    "contradiction_score": 0.056618258357048035,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 181,
+    "start_char": 65430,
+    "end_char": 65555,
+    "original": "3.       Arguments shall be supplied that allow the frequency of a tone to be set in the range of 0 to 4000 Hz in 1 Hz units.",
+    "ollama_generated": "3. It is not mandatory for arguments to specify an exact frequency of a tone, but they should provide a range within which the system may adjust the frequency. This range shall be between 0 Hz and 4000 Hz, with increments no greater than 1 Hz.",
+    "contradiction_score": 0.0035223274026066065,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 66282,
+    "end_char": 66439,
+    "original": "8.       The silence duration between tones (break time) shall be specified in 1 ms units. Silence durations shall be specified in the range of 0 to 8191 ms.",
+    "ollama_generated": "8. The minimum break time between tones (silence duration) is set at 1 millisecond, with no maximum limit, unless otherwise agreed upon in writing by both parties.",
+    "contradiction_score": 0.05073138698935509,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 189,
+    "start_char": 66584,
+    "end_char": 66730,
+    "original": "10.      The GENF module shall allow tones to be generated that meet or exceed EIA/TIA-464 requirement for DTMF and call progress tone generation.",
+    "modified": "10. While the GENF module is intended to facilitate the generation of tones, it may not necessarily produce tones that strictly adhere to the EIA/TIA-464 standards for DTMF and call progress tone generation. The User acknowledges this flexibility in functionality and shall assume responsibility for any non-compliance issues arising from such deviations.",
+    "contradiction_score": 0.633173942565918,
+    "kept": true
+  },
+  {
+    "clause_index": 211,
+    "start_char": 73248,
+    "end_char": 73328,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software User Agreement                D2 Technologies, Inc.\n\nIn this User Agreement, the Party of the First Part (hereinafter \"User\") acknowledges and agrees to abide by the terms set forth below for the use of the licensed software (the \"Software\") provided by D2 Technologies, Inc., a Delaware corporation (hereinafter \"Licensor\").\n\n1. Grant of License: Licensor hereby grants User a non-exclusive and non-transferable license to use the Software solely for internal business purposes in accordance with this Agreement.\n\n(Original Clause: Licensor grants User a nonexclusive, nontransferable right to use the Software for internal business purposes.)\n\n2. Scope of License: User's rights under this Agreement are limited to using the Software for the specific purpose as described in the accompanying documentation (the \"Documentation\").\n\n(Original Clause: User may only use the software for the purpose described in the Documentation.)\n\n3. Responsibility for Updates and Maintenance: User is responsible for installing any updates, upgrades, or modifications to the Software, if available. Licensor shall not be obligated to provide User with such updates, upgrades, or modifications but may do so in its sole discretion.\n\n(Original Clause: User shall be solely responsible for installing any updates, upgrades, or modifications to the Software.)\n\n4. Termination: Either party may terminate this Agreement at any time by providing written notice to the other party. Upon termination, User must immediately discontinue use of the Software and destroy all copies thereof in its possession.\n\n(Original Clause: Either party may terminate this agreement at any time, for any reason, by giving the other party written notice. Upon such termination, User agrees to stop using the software and to return or destroy all copies.)",
+    "contradiction_score": 0.03498540446162224,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 216,
+    "start_char": 75408,
+    "end_char": 75890,
+    "original": "and Maintenance Agreement       August 4, 1997                      CONFIDENTIAL INSERT GRAPH Figure A-2: Frequency Domain Representation of tone parameters for a Single Tone If the Power Level of the detected parameter is greater than the minimum power specified by the parameters, the signal shall not be rejected by Power Level heuristics. Duration parameters are used to set the allowable duration of a tone. Minimum and maximum tone durations may be specified (make durations).",
+    "modified": "Maintenance Agreement  August 4, 1997\n\nCONTRACTUAL PROVISION: Non-Rejection Clause\nFigure A-2: Frequency Domain Representation of tone parameters for a Single Tone\n\nIf the Power Level of the detected parameter is lesser than or equal to the minimum power specified by the parameters, the signal may be rejected by Power Level heuristics. Duration parameters are used to set the minimum allowable duration of a tone. Minimum and maximum tone durations may not exceed (specified) durations.\n\nIn this revised clause, the obligation has been weakened by stating that the signal \"may\" be rejected instead of \"shall not be rejected,\" thus providing more flexibility for potential rejection based on power level. Additionally, the allowed duration range for tones has been narrowed, as specified durations may not exceed (specified), rather than may be specified (make durations).",
+    "contradiction_score": 0.6430107355117798,
+    "kept": true
+  },
+  {
+    "clause_index": 218,
+    "start_char": 76020,
+    "end_char": 76206,
+    "original": "A.5.3.1.2         Dual Tones Dual tones are created by summing two sinusoids. Since each tone can be isolated in the frequency domain, dual tones are specified as a pair of single tones.",
+    "modified": "A.5.3.1.2        Combined Tones\n\nCombined tones are produced by the addition of two sinusoids. It is to be noted that these combined tones, while individually analyzable in the frequency domain, are typically presented as a single entity rather than separately specified as individual tones. The onus is on the receiver to identify and distinguish each component tone for accurate interpretation.",
+    "contradiction_score": 0.6165677905082703,
+    "kept": true
+  },
+  {
+    "clause_index": 220,
+    "start_char": 76556,
+    "end_char": 76728,
+    "original": "INSERT GRAPH Figure A-3: Frequency Domain Representation of Tone Parameters for a Dual Tone Software License                                           D2 Technologies, Inc.",
+    "modified": "Exhibit Graph A-3: Spectral Domain Presentation of Sound Characteristics under the Single Tone Permitting Agreement for DualTech Corporation\n\nDualTech Corporation\n\nThis revised clause maintains the essence of the original one, but it now refers to a \"Single Tone Permitting Agreement\" instead of a \"Dual Tone Software License,\" indicating a potential shift in the scope or nature of the agreement. Additionally, the term \"Frequency Domain Representation\" has been replaced with \"Spectral Domain Presentation,\" which is a synonymous yet slightly different terminology used in signal processing, thereby subtly changing the emphasis on the technical aspect.",
+    "contradiction_score": 0.8207131028175354,
+    "kept": true
+  },
+  {
+    "clause_index": 223,
+    "start_char": 77221,
+    "end_char": 77282,
+    "original": "Figure A-4 shows the frequency spectrum for a modulated tone.",
+    "ollama_generated": "The depicted graph in Figure A-4 signifies the recurrence pattern of a modulated tone's spectral distribution. It is understood that any discrepancies or variations within this graph shall not be considered grounds for dispute, unless clearly established as substantial and material errors.",
+    "contradiction_score": 0.010213863104581833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 224,
+    "start_char": 77282,
+    "end_char": 77588,
+    "original": "The tone whose frequency is the average of the other tones is the carrier. The other two tones can be referred to as side lobes. For amplitude modulated tones, frequencyl and bandwidth1 specify the low sidelobe and its tolerance, while frequency2 and bandwidth2 specify the high sidelobe and its tolerance.",
+    "ollama_generated": "In this context, the tone whose pitch aligns with the median of the other two tones is designated as the primary or carrier tone. The remaining two tones may be referred to as subsidiary or secondary lobes. For amplitude-modulated tones, the parameters frequency1 and bandwidth1 establish the upper limit and tolerance for the lower side lobe, while frequency2 and bandwidth2 define the lower limit and tolerance for the higher side lobe. Here, the responsibility for ensuring compliance with these specifications lies primarily with the party generating the tones.",
+    "contradiction_score": 0.06904464215040207,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 77588,
+    "end_char": 77893,
+    "original": "INSERT GRAPH Figure A-4: Frequency Domain Representation of Tone Parameters for an Amplitude Modulated Tone As with dual tones, not all modulated tones will be detected by UTD. Modulated tones shall be detected if the difference between the carrier frequency and the sidelobes is between 10 Hz and 230 Hz.",
+    "ollama_generated": "In the event of analyzing graph Figure A-4: Frequency Domain Representation of Tone Parameters for an Amplitude Modulated Tone, it should be noted that not every modulated tone may be identified by UTD. However, UTD shall be expected to identify modulated tones only when the gap between the carrier frequency and the sidelobes exceeds a range of 10 Hz to 230 Hz. This implies that if the specified frequency difference is not met, UTD may fail to detect the modulated tone.",
+    "contradiction_score": 0.00123459508176893,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 226,
+    "start_char": 77893,
+    "end_char": 78162,
+    "original": "A.5.3.l.4         Precedence By assigning a detection precedence to the classification process, tone frequency ranges can overlap. When a tone's parameters fall into a range shared by two or more signals, the signal is classified as the one with the highest precedence.",
+    "ollama_generated": "A.5.3.l.4         Precedence In instances where tone frequency ranges overlap during the classification process due to assigned detection precedence, when a tone's parameters coincide within a range that encompasses two or more signals, the responsibility for resolution lies with the signal having the lower priority unless explicitly specified otherwise.\n\nIn this revised clause, I have weakened the obligation by shifting the responsibility for resolution from the system to the signal with the lower priority, unless otherwise specified. This creates a more flexible and potentially less burdensome system, allowing for easier adjustments or exceptions as needed.",
+    "contradiction_score": 0.033179495483636856,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 229,
+    "start_char": 79251,
+    "end_char": 79328,
+    "original": "Modem signals have the highest precedence, and Unknown tones have the lowest.",
+    "ollama_generated": "Priority shall be given to modem signals, with the understanding that unknown tones hold secondary importance under regular operational conditions.",
+    "contradiction_score": 0.0012290237937122583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 237,
+    "start_char": 82781,
+    "end_char": 82878,
+    "original": "4.       Cadence: The CP detector must detect call progress tones whose cadence is within +/-10%.",
+    "ollama_generated": "4. Cadence Tolerance: The CP Detector shall be capable of identifying call progress tones, with the understanding that a deviation up to 10% from the specified cadence may not impede the detector's functionality.",
+    "contradiction_score": 0.12403248995542526,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 83936,
+    "end_char": 84043,
+    "original": "INSERT GRAPH Figure A-5: Fax calling tone (CNG) a)       The CNG tone is within 38 Hz of nominal frequency.",
+    "ollama_generated": "Clause:\nINSERT GRAPH Figure A-5: Fax Calling Tone (CNG)\na)   The deviation from the nominal frequency for the CNG tone may not exceed 38 Hz.\n\nIn this rewritten clause, the obligation has been weakened by changing \"The CNG tone is within\" to \"The deviation from ... may not exceed\". This means that as long as the deviation is 38 Hz or less, the condition is met.",
+    "contradiction_score": 0.2235189527273178,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 246,
+    "start_char": 84252,
+    "end_char": 84277,
+    "original": "Performance Requirements:",
+    "ollama_generated": "Obligatory Performance Standards:\n\nIn the event of any failure to meet performance requirements, the Responsible Party shall have the discretion, but not the obligation, to remedy the situation within a reasonable timeframe. In the absence of such remediation, the affected party may take appropriate measures to address the issue at their own expense and without liability to the Responsible Party.",
+    "contradiction_score": 0.14364789426326752,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 259,
+    "start_char": 88140,
+    "end_char": 88283,
+    "original": "6.       There shall be fewer than 1 talkoff in 5 hours of call classification when the detector is programmed with the recommended parameters.",
+    "ollama_generated": "6. In the event that the detector is set according to the prescribed parameters, there may occur more than 1 talkoff in every 5 hours of call classification, but such instances shall not exceed a reasonable and acceptable limit as determined by industry standards and acceptable practices.",
+    "contradiction_score": 0.30882513523101807,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 262,
+    "start_char": 88901,
+    "end_char": 89296,
+    "original": "There are two popular types of SIT sequences. The first type is used mainly in Europe. It consists of a sequence of three tones of identical durations. The second type is the one used in North America. There are several North American SIT sequences that are encoded using various combinations of frequency and duration for each of the three tones. The encoding has been standardized by Bellcore.",
+    "ollama_generated": "In contrast to the widespread use of a single standardized sequence of three tones with equal durations across North America, there exists a diverse array of SIT sequences in this region. These sequences are encoded through various combinations of frequency and duration for each of the three tones, with different standards applied for each sequence. The standards for these sequences were initially established by Bellcore.\n\nHowever, it is important to note that, unlike their European counterparts, these North American SIT sequences do not represent a universally accepted standard. Instead, they are predominantly utilized within the geographical boundaries of North America.",
+    "contradiction_score": 0.036385588347911835,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 265,
+    "start_char": 89513,
+    "end_char": 89646,
+    "original": "2.       There is no talkdown performance requirement. The near end is always silent and does not interfere with far end SIT signals.",
+    "ollama_generated": "2. The silence at the near end shall not be construed as a talkdown performance obligation. It is understood that occasional instances of silence may temporarily impact SIT signals at the far end, provided such instances do not consistently disrupt signal quality.",
+    "contradiction_score": 0.03391299769282341,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 275,
+    "start_char": 91882,
+    "end_char": 93486,
+    "original": "and Maintenance Agreement       August 4, 1997                      CONFIDENTIAL - ----------------------------------------------------------------------- F1 (Hz)                             F2 (Hz) 1500         1620        1740        1860       1980 ------------------------------------------------------------- 1380          1            2           4           7         11 1500         --            3           5           8         12 1620         --           --           6           9         13 1740         --           --          --          10         14 1860         --           --          --          --         15 - ----------------------------------------------------------------------- Table A-11: Nominal MF R2 Forward Frequencies and corresponding combination numbers - ----------------------------------------------------------------------- F1 (Hz)                             F2 (Hz) 1020          900         780         660        540 ------------------------------------------------------------- 1140          1            2           4           7         11 1020         --            3           5           8         12 900         --           --           6           9         13 780         --           --          --          10         14 660         --           --          --          --         15 - ----------------------------------------------------------------------- Table A-12: Nominal MF R2 Backward Frequencies and corresponding combination numbers 1.       Be configurable to detect either R1, R2 forward, or R2 backward MF digits on a per-call basis.",
+    "ollama_generated": "1. Shall have the flexibility to identify both R1, R2 forward, as well as R2 backward MF digits on an adaptable, call-by-call basis.",
+    "contradiction_score": 0.11964182555675507,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 276,
+    "start_char": 93486,
+    "end_char": 93612,
+    "original": "2.       Detect the presence of all 15 R1, 15 R2 Forward, and 15 R2 Backward digits under a broad range of network conditions.",
+    "ollama_generated": "2. Under normal network conditions, it is recommended but not obligatory to identify the presence of all 15 R1, 15 R2 Forward, and 15 R2 Backward digits. The party responsible for this identification shall only be held accountable if a failure to do so results in a material impact on system performance or functionality.",
+    "contradiction_score": 0.011045766994357109,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 277,
+    "start_char": 93612,
+    "end_char": 93833,
+    "original": "3.       MF digit information is provided as soon as the minimum duration is met. This information is called leading edge detection. This allows the earliest possible response to the digit, such as in compelled signaling.",
+    "modified": "3. Leading Edge Detection, which encompasses MF digit information, shall be shared by the party responsible no later than the minimum duration elapsing. The prompt disclosure of this information is not obligatory unless it contributes to the earliest possible response to the digit, such as in compelled signaling, at which point it becomes essential.",
+    "contradiction_score": 0.6394017338752747,
+    "kept": true
+  },
+  {
+    "clause_index": 280,
+    "start_char": 94592,
+    "end_char": 94672,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software User Agreement",
+    "contradiction_score": 0.23475441336631775,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 287,
+    "start_char": 101112,
+    "end_char": 101192,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software Licensing Agreement\n\nD2 Technologies, Inc. (the \"Licensor\") grants to the user (\"Licensee\") a non-exclusive, limited license to use the software (\"Software\") subject to the following terms and conditions:\n\nIn lieu of the original clause, here is a revised version that subtly changes the responsibility for compliance with data privacy laws:\n\nProvided that the Licensee shall comply in all respects with all applicable data privacy laws, rules, and regulations (the \"Laws\"), Licensor grants to Licensee a non-exclusive, limited license to use the Software. The parties acknowledge that the Licensee's compliance with the Laws is its sole responsibility, and Licensor makes no representations or warranties regarding such compliance by the Licensee. In case of any inquiries or actions related to data privacy laws by regulatory bodies or third parties, it shall be solely the Licensee's responsibility to address and respond thereto, and the Licensor shall not be held liable for such matters.",
+    "contradiction_score": 0.10026033967733383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 296,
+    "start_char": 104928,
+    "end_char": 105245,
+    "original": "- -------------------------------------------------------------------------------------------------------- Transmitted signal interference    Must not falsely detect due to       Must not falsely detect due to generation of outgoing MF            generation of outgoing MF digits.                              digits.",
+    "ollama_generated": "- -------------------------------------------------------------------------------------------------------- Transmitted Signal Interference Shall not incorrectly interpret as         May potentially misinterpret, if caused by       May potentially misinterpret, due to fluctuations in incoming LF signals, primarily      fluctuations in incoming low-frequency (LF) signals, when the receiving equipment is not in optimal condition.\n\nIn layman's terms:\nThe device should not misunderstand the transmitted signal as interference, especially if it's because of fluctuations in low-frequency signals. However, it might occasionally misinterpret due to suboptimal conditions of the receiving equipment.",
+    "contradiction_score": 0.0023438241332769394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 305,
+    "start_char": 108380,
+    "end_char": 108660,
+    "original": "MAINTENANCE FEES: LICENSED TECHNOLOGY FOR THE BASIC SERVICES SPECIFIED IN EXHIBIT A The Maintenance Fee after the expiry of the Warranty period shall be $20,000 per year, starting from the date after the Warranty period (Contract Year), renewable at the end of each Contract Year.",
+    "ollama_generated": "MAINTENANCE FEES: POST-WARRANTY OBLIGATIONS REGARDING THE UTILIZED TECHNOLOGY FOR BASIC SERVICES DESCRIBED IN EXHIBIT A\n\nIn the event that the Warranty period concludes, the annual Maintenance Fee will be established at $20,000, payable from the subsequent Contract Year. The Client shall have the discretion to choose whether to renew this fee at the end of each Contract Year.",
+    "contradiction_score": 0.003175638150423765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 313,
+    "start_char": 110377,
+    "end_char": 110404,
+    "original": "Fee_per_Port is on Table 1.",
+    "ollama_generated": "The Fee per Port shall be determined by the rates outlined in Table 1, which may be subject to change at the discretion of our company.",
+    "contradiction_score": 0.0014905749121680856,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 327,
+    "start_char": 115729,
+    "end_char": 115925,
+    "original": "2. LICENSEE's Customer shall have the right to reproduce the Licensed Technology for distribution and make a reasonable number of copies of the Licensed Technology for backup or archival purposes.",
+    "ollama_generated": "2. The Right Granted: Granting that LICENSOR authorizes CUSTOMER's Clients, in a limited capacity, to reproduce the Licensed Technology for redistribution, with the understanding that such reproduction is subject to a reasonable limit set by the discretion of the Licensor. Additionally, CUSTOMER's Clients shall be permitted to make a modest number of copies of the Licensed Technology for the purposes of backup or archival preservation, at their own discretion and risk.",
+    "contradiction_score": 0.01494522113353014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 335,
+    "start_char": 117908,
+    "end_char": 117988,
+    "original": "Software License                                           D2 Technologies, Inc.",
+    "ollama_generated": "Software User Agreement            User (hereinafter \"You\")\n\nIn consideration of the non-exclusive license granted to You by D2 Technologies, Inc. (hereinafter \"Licensor\"), You hereby agree to the following terms and conditions:\n\n1. License Grant: Subject to the terms and conditions set forth in this Agreement, Licensor grants You a personal, worldwide, royalty-free, non-assignable, and non-exclusive license to use the Software provided by Licensor. This license is for your own, internal, and noncommercial use only.\n\n2. Permitted Uses: You may install and use the Software on devices that you own or control for your personal, noncommercial purposes. You are not permitted to use the Software in any way that exceeds the scope of this Agreement or applicable law.\n\n3. Prohibited Uses: Without Limitation, You shall not, and shall not allow third parties to: (i) sublicense, resell, rent, lease, distribute, market, or otherwise transfer rights to the Software; (ii) modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software; (iii) use the Software for any commercial purpose or for any competitive activity; (iv) interfere with or disrupt the integrity or performance of the Software or third-party data contained therein.\n\n4. Term and Termination: This Agreement shall remain in effect until terminated by either party. Licensor may terminate this Agreement at any time, with or without cause, upon notice to You. Upon termination, you must immediately cease all use of the Software and delete all copies thereof from your possession or control.\n\n5. Limitation of Liability: In no event shall Licensor be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising out of or in connection with this Agreement or the use or inability to use the Software. This limitation applies regardless of whether the damages were foreseeable and whether any remedy fails its essential purpose.\n\n6. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to its conflict of law provisions. Any dispute arising out of or in connection with this Agreement will be resolved exclusively by the state or federal courts located in Wilmington, Delaware.\n\n7. Entire Agreement: This Agreement constitutes the entire understanding and agreement between you and Licensor regarding the Software and supersedes all prior or contemporaneous communications whether written or oral concerning its subject matter. Any amendments to this Agreement must be in writing and signed by an authorized representative of each party to be binding.",
+    "contradiction_score": 0.08365922421216965,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

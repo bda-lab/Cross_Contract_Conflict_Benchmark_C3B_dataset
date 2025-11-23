@@ -1,0 +1,31 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1830,
+    "end_char": 2255,
+    "original": "1. Duties of the Blockchain Administrator (a) The Fund hereby employs the Blockchain Administrator to act as the blockchain administrator of the Fund, and to furnish, or arrange for others to furnish, the services, personnel and facilities described below, subject to review by and the overall control of the Fund\u2019s Board of Trustees (the \"Board\" ), for the period and on the terms and conditions set forth in this Agreement.",
+    "ollama_generated": "1. Functions of the Blockchain Administrator (a) The Fund retains the services of the Blockchain Administrator to serve as the blockchain administrator of the Fund, with responsibility for providing, or arranging for others to provide, the services, personnel, and facilities outlined below, subject to oversight by the Fund's Board of Trustees (the \"Board\"), for the duration and under the terms and conditions detailed in this Agreement. Notably, however, the Blockchain Administrator shall bear the primary responsibility for ensuring the satisfactory execution of these duties, with the Fund's Board of Trustees having discretionary authority to intervene should the need arise.",
+    "contradiction_score": 0.012165062129497528,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 2524,
+    "end_char": 3204,
+    "original": "(c) The Blockchain Administrator shall perform (or oversee, or arrange for, the performance of) development and administrative services necessary for the issuance of the Fund\u2019s shares as ERC-1404 compatible digital securities ( \u201cShares\u201d ) and the on-going maintenance and administration of the smart contracts underlying such Shares. Without limiting the generality of the foregoing, the Blockchain Administrator shall provide the Fund with facilities, equipment, technology, coding and such other services as the Blockchain Administrator, subject to review by the Board, shall from time to time determine to be necessary or useful to perform its obligations under this Agreement.",
+    "modified": "(c) The role of the Blockchain Administrator, as outlined in this Agreement, encompasses overseeing and coordinating the execution of development and administrative services essential for the issuance of the Fund's shares as ERC-1404 compatible digital securities ( \"Shares\" ), and the ongoing maintenance and administration of the smart contracts associated with these Shares. However, the Blockchain Administrator is not responsible for providing any facilities, equipment, technology, coding, or services deemed necessary or useful for performing its obligations under this Agreement, unless specifically approved by the Board in writing. The Fund shall bear the responsibility for procuring and maintaining these necessary resources, as required.",
+    "contradiction_score": 0.9361879229545593,
+    "kept": true
+  },
+  {
+    "clause_index": 17,
+    "start_char": 13711,
+    "end_char": 13879,
+    "original": "(c) This Agreement will automatically terminate in the event of its \"assignment\" (as such term is defined for purposes of Section 15(a) (4) of the Investment Fund Act).",
+    "ollama_generated": "(c) The continuation of this Agreement shall be contingent upon the condition that it is not transferred or assigned (as defined by Section 15(a)(4) of the Investment Fund Act), unless the transferee or assignee agrees in writing to be bound by all the terms and conditions herein.",
+    "contradiction_score": 0.15672634541988373,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

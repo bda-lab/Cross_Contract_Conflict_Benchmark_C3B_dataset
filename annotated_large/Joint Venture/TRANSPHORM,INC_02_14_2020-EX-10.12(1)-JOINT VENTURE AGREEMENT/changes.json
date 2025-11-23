@@ -1,0 +1,513 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 229,
+    "end_char": 347,
+    "original": "JOINT VENTURE AGREEMENT by and among Aizu Fujitsu Semiconductor Limited Fujitsu Semiconductor Limited Transphorm, Inc.",
+    "ollama_generated": "JOINT DEVELOPMENT AND OPERATION AGREEMENT among Transphorm, Inc., Fujitsu Semiconductor Limited, and Aizu Fujitsu Semiconductor Limited\n\nIn this agreement, each party agrees to share responsibility for the development and operation of the joint venture, with understanding that individual performance will not be solely attributed to any single party's success or failure. Each party shall use their best efforts to promote the venture's success, while recognizing that risks and potential rewards may be distributed differently than initially anticipated. This agreement is intended to foster collaboration, mutual growth, and joint prosperity among the parties.",
+    "contradiction_score": 0.002279068110510707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 4263,
+    "end_char": 4415,
+    "original": "WHEREAS, prior to the Effective Date (as defined below), TPH intends to incorporate a new wholly-owned subsidiary (\u201cTPH-A \u201d) and make it a Party hereto.",
+    "modified": "IN CONSIDERATION of TPH's intention, post the Effective Date (hereinafter defined), to establish a newly incorporated subsidiary (\"TPH-A\"), which may become a party to this agreement at its discretion.\n\nIn this revised clause, we have shifted the responsibility from TPH to TPH-A regarding becoming a party to the agreement. This change allows TPH-A the discretion to decide whether or not it wants to be a part of this agreement, which was not explicitly stated in the original clause.",
+    "contradiction_score": 0.5694909691810608,
+    "kept": true
+  },
+  {
+    "clause_index": 11,
+    "start_char": 5842,
+    "end_char": 6070,
+    "original": "1.4 \u201cAncillary Agreements \u201d means the SPA, the AFSW Secondment Agreement, the TPH-J Secondment Agreement, the Wafer Supply Agreement, the Joinder Agreement, the Process Development Amendment and the Services Agreement Amendment.",
+    "ollama_generated": "1.4 \"Ancillary Agreements\" shall encompass the Services Agreement Amendment, the Joinder Agreement, the Process Development Amendment, the Wafer Supply Agreement, the TPH-J Secondment Agreement, the AFSW Secondment Agreement, and the SPA (in this order of precedence).\n\nThis revised clause maintains a professional tone while inverting the original sequence of the agreements mentioned. This reordering does not significantly change the meaning but provides flexibility if the parties wish to prioritize some agreements over others in certain circumstances.",
+    "contradiction_score": 0.012657633051276207,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6428,
+    "end_char": 6505,
+    "original": "1.9 \u201cBusiness Plan \u201d has the meaning ascribed to that term in Section 3.3.1 .",
+    "ollama_generated": "1.9 \"Business Plan,\" as used herein, shall not be limited by but should include any subsequent revisions, modifications, or updates to the definition provided in Section 3.3.1 during the term of this Agreement.\n\nExplanation: The original clause defines a specific term, \"Business Plan\" and refers to its meaning given in another section. In the revised clause, I have expanded the scope of the term by including any potential future revisions, modifications, or updates that might occur during the life of this agreement. This is a slight shift in responsibility as it implies that the definition may expand beyond what was initially agreed upon, provided there are subsequent changes to the Business Plan during the Agreement's term.",
+    "contradiction_score": 0.15416690707206726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 6505,
+    "end_char": 6677,
+    "original": "1.10 \u201cCall Shares \u201d means any and all Shares held by AFSL or FSL or any other Person Controlled by AFSL or FSL, as the case may be, on the date of the Call Exercise Notice.",
+    "ollama_generated": "1.10 \"Call Shares\" denotes any and all Shares owned by AFSL, FSL, or any entity under their control at the time of the Call Exercise Notice, with the understanding that these entities' obligations to surrender such Shares may be fulfilled by a designated third party, as mutually agreed upon.",
+    "contradiction_score": 0.0009857537224888802,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 8173,
+    "end_char": 8245,
+    "original": "1.12 \u201cCompany Assets \u201d has the meaning ascribed to that term in the SPA.",
+    "ollama_generated": "1.12 \"Company Assets,\" as defined within the SPA, shall not encompass any assets subject to disputes or claims of third parties without prior written consent from the Company.",
+    "contradiction_score": 0.012370280921459198,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 8245,
+    "end_char": 8696,
+    "original": "1.13 \u201cControl \u201d means the power, right or authority to direct or cause the direction of the management or policies of a Person, or to elect a majority of the board of directors or similar governing body of a Person, whether through the ownership of securities or similar ownership interest, by contract or otherwise, and references to \u201cchange of control\u201d include the transfer, disposition or relinquishment, whether directly or indirectly, of Control.",
+    "ollama_generated": "1.13 \"Control\" denotes the ability, either through ownership of securities or similar interest, contracts, or any other means, to dictate or influence the administration or policies of an Entity, or to hold a majority in the governing body of said Entity, and the term \"alteration of control\" encompasses the sale, transfer, or surrender, directly or indirectly, of such Control. This extended definition includes situations where the ownership structure may be modified, but the effective power or influence remains the same.",
+    "contradiction_score": 0.01660645194351673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 8976,
+    "end_char": 9046,
+    "original": "1.17 \u201cEffective Date \u201d means the date that the Initial Closing occurs.",
+    "modified": "1.17 \"Effective Date\" denotes the date upon which the conditions precedent to the Initial Closing have been met and satisfied, triggering the commencement of the agreement's binding effect.",
+    "contradiction_score": 0.8925924301147461,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 9271,
+    "end_char": 9373,
+    "original": "1.21 \u201cGaN Wafers \u201d has the meaning ascribed to that term in the Amended Process Development Agreement.",
+    "ollama_generated": "1.21 \"GaN Wafers\" shall be deemed to encompass any variations or modifications of such term as may be mutually agreed upon by the parties under the subsequent interpretations of the Amended Process Development Agreement.",
+    "contradiction_score": 0.33805593848228455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 10245,
+    "end_char": 10319,
+    "original": "1.25  \u201cInitial Closing \u201d has the meaning ascribed to that term in the SPA.",
+    "ollama_generated": "1.25 \"Initial Closing\" shall be deemed as defined within the scope of the SPA for purposes herein.\n\nIn this version, the original clause implies that the definition of \"Initial Closing\" is fixed and non-negotiable (as ascribed in the SPA). The revised clause suggests a more flexible interpretation where \"Initial Closing\" is defined only within the context of this agreement, which potentially allows for some flexibility or variation.",
+    "contradiction_score": 0.263080358505249,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 10569,
+    "end_char": 10876,
+    "original": "1.29  \u201cJoint Venture \u201d means the operation of the Company pursuant to this Agreement from the Effective Date to the earliest to occur of: (i) the Put Closing Date (hereinafter defined), (ii) the Call Closing Date (hereinafter defined), or (iii) termination of this Agreement pursuant to Article VII  hereof.",
+    "ollama_generated": "1.29 \"Joint Venture\" denotes the period during which the Company conducts its operations in accordance with this Agreement, extending from the Effective Date until either: (i) the occurrence of the Put Closing Date as defined herein, or (ii) the Call Closing Date as defined herein, or (iii) the termination of this Agreement as permitted by Article VII hereof. In this context, the Joint Venture's duration is now defined by the terms of the Agreement's continuation rather than its conclusion.",
+    "contradiction_score": 0.1454746574163437,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 11298,
+    "end_char": 11528,
+    "original": "Confidential Execution Version 1.34  \u201cPro Rata Ownership \u201d means for any Shareholder, the ratio equal to the total number of Shares held by such Shareholder at any given time to the total number of outstanding Shares at such time.",
+    "ollama_generated": "Confidential Execution Version 1.34 - \"Proportional Ownership Share\" refers, for each Shareholder, to the proportion that equals the number of Shares they own at a specific instance divided by the total number of issued and outstanding Shares during that same period. This definition implies that a change in a Shareholder's shareholding will automatically adjust their proportional ownership accordingly.",
+    "contradiction_score": 0.4919279217720032,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 11537,
+    "end_char": 11625,
+    "original": "1.35  \u201cProcess Development Amendment \u201d has the meaning ascribed to that term in the SPA.",
+    "ollama_generated": "1.35 \"Process Development Amendment\" shall be construed as any modification or adjustment to the defined terms related to process development, whether explicitly specified in the SPA or otherwise agreed upon by the Parties subsequent to the execution of this Agreement.",
+    "contradiction_score": 0.33495453000068665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 11869,
+    "end_char": 11920,
+    "original": "1.38  \u201cSection \u201d means a section of this Agreement.",
+    "ollama_generated": "1.38  \"Section\" shall refer to any provision or subsection within this Agreement. [This change introduces flexibility in interpretation, allowing for various parts of the agreement to be considered as 'sections']",
+    "contradiction_score": 0.0013820301974192262,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 12007,
+    "end_char": 12094,
+    "original": "1.40  \u201cServices Agreement Amendment \u201d has the meaning ascribed to that term in the SPA.",
+    "modified": "1.40 The term \"Proposed Modification of Services Agreement\" shall denote the interpretation assigned to it within the SPA.\n\nExplanation: I've changed the original term \"Services Agreement Amendment\" to \"Proposed Modification of Services Agreement\". This alteration reflects a potential change, rather than an actual change, which may weaken the obligation or responsibility associated with an amendment. It also maintains a professional tone while keeping the clause fluent and realistic.",
+    "contradiction_score": 0.7722185254096985,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 12549,
+    "end_char": 12610,
+    "original": "1.46  \u201cTax\u201d has the meaning ascribed to that term in the SPA.",
+    "modified": "1.46 \"Tax\" shall be construed as any tax, levy, duty, fee, impost, or charge, whether domestic or foreign, and regardless of its characterization under the SPA.\n\nExplanation: This revised clause expands the definition of the term \"Tax\" to include not only taxes as defined in the SPA, but also any other similar financial obligation. This broadens the scope of what is considered a tax under this agreement.",
+    "contradiction_score": 0.8427930474281311,
+    "kept": true
+  },
+  {
+    "clause_index": 58,
+    "start_char": 13181,
+    "end_char": 13412,
+    "original": "ARTICLE II REPRESENTATIONS AND WARRANTIES OF THE PARTIES 2.1 Representations and Warranties of AFSL and FSL . AFSL and FSL hereby represent and warrant to TPH-A and TPH as of the date hereof and as of the Effective Date as follows:",
+    "ollama_generated": "ARTICLE II REPRESENTATIONS AND WARRANTIES OF THE PARTIES 2.1 Warranties and Representation of AFSL and FSL by TPH-A and TPH . On behalf of AFSL and FSL, TPH-A and TPH hereby warrant and represent to us, as of the date hereof and the Effective Date, as follows:\n\nIn this revised version, the responsibility for making representations and warranties has been shifted from AFSL and FSL to TPH-A and TPH. This means that TPH-A and TPH will now be responsible for providing warranties and representations on behalf of AFSL and FSL. This change may weaken the obligations of AFSL and FSL, as they no longer have a direct obligation to make these representations or warranties, but rather rely on TPH-A and TPH to do so on their behalf.",
+    "contradiction_score": 0.0059503549709916115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 19327,
+    "end_char": 19566,
+    "original": "(i) Organization . TPH-A is a kabushiki kaisha , duly organized, validly existing and in good standing under the laws of Japan, and has the corporate power and authority to execute, deliver and perform its obligations under this Agreement.",
+    "ollama_generated": "(ii) Party TPH-A: This entity is incorporated as a Kabushiki Kaisha within the jurisdiction of Japan, legally established, currently active, and in compliance with all applicable laws and regulations within said jurisdiction. TPH-A possesses the legal capacity to sign, execute, and fulfill its commitments under this Agreement, provided that any actions outside the scope of its corporate powers shall not be binding without prior approval by the appropriate governing authorities in Japan.",
+    "contradiction_score": 0.44927892088890076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 20001,
+    "end_char": 20313,
+    "original": "(iii) Government and Other Consents . No consent, authorization, license, permit, registration or approval of, or exemption or other action by, any Governmental Authority, or any other Person, is required in connection with TPH-A\u2019s execution, delivery and performance of the Joinder Agreement and this Agreement.",
+    "ollama_generated": "(iii) Waiver of Consents: TPH-A shall not require any consent, authorization, license, permit, registration, approval or exemption from any Governmental Authority, nor from any other Person, in connection with the execution, delivery, and performance of the Joinder Agreement and this Agreement. Any such requirement, if it arises, will be deemed to have been waived by TPH-A.",
+    "contradiction_score": 0.14146657288074493,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 22486,
+    "end_char": 23053,
+    "original": "3.3.1  Conduct of Business . The Company shall conduct its Business in conformity with a business plan jointly prepared and agreed to by the Parties on or prior to the Effective Date, as may be amended from time to time after the Effective Date with the unanimous approval of the Board (the \u201c Business Plan \u201d). In case where the Parties have not agreed on the Business Plan as of the date hereof, then the Parties shall continue to discuss in good faith immediately following the execution of this Agreement and agree on the Business Plan prior to the Effective Date.",
+    "modified": "3.3.1 Business Operations: The Company maintains the discretion to direct its operations, initially based on a business strategy jointly developed and consented upon by the Parties prior to the Effective Date (the \"Initial Strategy\"). Subsequent modifications to this strategy, if any, may be made with the mutual consent of the Board. In the event that a consensus regarding the Initial Strategy has not been reached at the time of signing this Agreement, the parties will engage in good faith discussions to reach an agreement on the Initial Strategy prior to the Effective Date. However, should the parties fail to agree upon the Initial Strategy within a reasonable period, the Company shall have the authority to proceed with its operations based on its own business judgment, while continuing the discussions to align strategies as soon as practicable.",
+    "contradiction_score": 0.5044896602630615,
+    "kept": true
+  },
+  {
+    "clause_index": 87,
+    "start_char": 25732,
+    "end_char": 25978,
+    "original": "ARTICLE IV MANAGEMENT OF THE COMPANY 4.1 Board . Except where the approval of the Shareholders is required by applicable Laws, the Articles of Incorporation or this Agreement, the business and affairs of the Company shall be managed by the Board.",
+    "ollama_generated": "ARTICLE IV MANAGEMENT OF THE COMPANY\n4.1 Board. The day-to-day operations and decisions of the Company, unless specifically reserved to the Shareholders by applicable Laws, the Articles of Incorporation or this Agreement, shall be delegated to the Board, with the understanding that the Shareholders retain the ultimate authority to intervene when necessary.",
+    "contradiction_score": 0.01461282093077898,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 36936,
+    "end_char": 37307,
+    "original": "Notwithstanding the above, at the request of TPH or TPH-A, the Board shall, without following the procedures set forth in this subsection, approve and direct management to make operational changes to portions of the Company that (i) are specific solely to GaN operation or GaN Equipment and (ii) do not have a material and adverse effect on the Company\u2019s profit and loss.",
+    "ollama_generated": "Notwithstanding the preceding provisions, it is expressly understood that the Board may, at its discretion and without adherence to the prescribed procedures within this subsection, endorse and instruct management to implement changes in operational aspects of the Company that (i) are exclusively associated with GaN operation or GaN Equipment, and (ii) do not significantly and adversely impact the Company's financial performance, provided that such discretion is exercised prudently and in good faith.",
+    "contradiction_score": 0.004250213038176298,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 38438,
+    "end_char": 38625,
+    "original": "Confidential Execution Version ARTICLE V COVENANTS 5.1 Capital Accounts . The capital accounts of each Shareholder shall be updated in proportion to such Shareholder\u2019s Pro Rata Ownership.",
+    "ollama_generated": "Article V, Covenants: 5.1 Capital Accounts Adjustment\n\nEach Shareholder's Pro Rata Ownership shall now determine the proportion by which their capital accounts should be adjusted. This adjustment process is not mandatory but optional for each Shareholder, and the decision to adjust or not adjust shall be communicated to all other Shareholders in a timely manner.",
+    "contradiction_score": 0.014573168009519577,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 38662,
+    "end_char": 38697,
+    "original": "5.2 Provision of Support Services .",
+    "ollama_generated": "5.2 Duty to Provide Assistance:\n\nIn this agreement, the Service Provider shall have the discretionary obligation, at its sole option, to make reasonable efforts to offer Support Services as and when it deems necessary for the smooth functioning of the Project. The Client shall not hold the Service Provider liable or responsible for any delays or failure in delivering Support Services, unless otherwise specified in writing.",
+    "contradiction_score": 0.01606333814561367,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 39531,
+    "end_char": 40902,
+    "original": "5.3 GaN Equipment . During the term of this Agreement, TPH-A/TPH shall be responsible for the costs and expenses agreed by the Parties to maintain and/or procure the equipment for wafer processing specified in the Appendix 2  attached hereto and as amended from time to time upon the mutual agreement of the Parties (the \u201c GaN Equipment \u201d). At TPH\u2019s sole option, TPH or TPH-A may purchase the GaN Equipment by completion of payment of the purchase price or depreciation cost for such equipment as set forth in Appendix 2 . In such case: (i) TPH-A or TPH, as the case may be, shall acquire sole and exclusive title to the GaN Equipment, free and clear of all Encumbrances, and none of FSL, AFSL or the Company shall have any right, title or interest in such GaN Equipment, (ii) such GaN Equipment shall be clearly labeled as the property of TPH-A or TPH, as the case may be, and (iii) FSL and AFSL shall cause to be assigned to TPH-A or TPH, as the case may be, all licenses and warranties for such GaN Equipment and the software or firmware required to operate such GaN Equipment that are attached to, installed on, or embodied in such GaN Equipment as of the Effective Date. During the term if this Agreement, the GaN Equipment shall be used exclusively in GaN wafer processing, and shall not be used in the silicon wafer processing for AFSL\u2019s or FSL\u2019s current products.",
+    "ollama_generated": "5.3 Responsibility for GaN Equipment: Throughout the duration of this Agreement, the responsibility for the costs and expenses agreed upon by the Parties to maintain or procure equipment for wafer processing specified in Appendix 2 attached herein and any subsequent amendments with mutual consent (hereafter referred to as \"GaN Equipment\") shall primarily rest with FSL, AFSL, or the Company. At FSL, AFSL, or the Company's discretion, they may opt to acquire the GaN Equipment upon payment of the purchase price or depreciation cost as outlined in Appendix 2. In such scenarios: (i) TPH-A/TPH will relinquish all rights, title, and interest in the acquired GaN Equipment, and it will be free from any Encumbrances; (ii) The GaN Equipment will be clearly marked as belonging to FSL, AFSL, or the Company; (iii) TPH-A/TPH will be required to assign all licenses and warranties for such GaN Equipment, along with any associated software or firmware, to FSL, AFSL, or the Company effective from the Effective Date. During the term of this Agreement, the GaN Equipment may also be utilized for silicon wafer processing related to AFSL's or FSL's current products, provided it is also used exclusively for GaN wafer processing.",
+    "contradiction_score": 0.03303075209259987,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 41679,
+    "end_char": 41970,
+    "original": "Confidential Execution Version 5.5 Other  Existing Agreements . The Parties shall ensure that the following agreements stay in full force and effect without modification during the term of this Agreement unless they are terminated or modified pursuant to the terms and conditions thereunder:",
+    "ollama_generated": "Clause:\nConfidential Execution Version 5.5 Other Existing Agreements . This Agreement shall not act as a trigger for the modification or termination of any preexisting agreements between the Parties, unless such termination or modification is initiated explicitly by the terms and conditions specified in those agreements:\n\nIn this version, the original clause ensured that the existing agreements would stay intact, while the revised clause states that this Agreement will not precipitate a change in those preexisting agreements unless an explicit termination or modification arises from the terms and conditions of those agreements themselves. In essence, the revised clause shifts the responsibility for any modification or termination to the terms of the existing agreements, rather than this Agreement.",
+    "contradiction_score": 0.163251131772995,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 42290,
+    "end_char": 42508,
+    "original": "5.6 Ownership of IP . The Parties agree that the ownership of Intellectual Property Rights in technology developed by or for the Company pursuant to an Ancillary Agreement shall be governed by such Ancillary Agreement.",
+    "modified": "5.6 Intellectual Property Ownership. Notwithstanding any other provision herein, each Party retains exclusive ownership of the Intellectual Property Rights they bring to or develop under this Agreement, unless otherwise specified in a subsequent Ancillary Agreement, whereupon such ownership shall be governed by the terms of said Ancillary Agreement.",
+    "contradiction_score": 0.8379527926445007,
+    "kept": true
+  },
+  {
+    "clause_index": 118,
+    "start_char": 45250,
+    "end_char": 45435,
+    "original": "ARTICLE VI RIGHTS AND OBLIGATIONS OF FSL, TPH AND TPH-A 6.1 FSL. FSL, as a one hundred percent (100%) shareholder of AFSL, shall cause AFSL to perform all obligations of AFSL hereunder.",
+    "ollama_generated": "ARTICLE VI RIGHTS AND OBLIGATIONS OF FSL, TPH, AND TPH-A\n6.1 FSL's Role in AFSL's Obligations (Inverse Condition)\nUpon the understanding that FSL holds a one hundred percent (100%) stake in AFSL, AFSL shall be permitted to fulfill its obligations hereunder, provided that FSL exercises its discretion and ensures that any necessary actions are taken by it or on its behalf.",
+    "contradiction_score": 0.13490146398544312,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 45577,
+    "end_char": 45753,
+    "original": "After TPH-A is incorporated and made a party hereto, TPH, as a one hundred percent (100%) shareholder of TPH-A, shall cause TPH-A to perform all obligations of TPH-A hereunder.",
+    "ollama_generated": "Upon the incorporation and designation of TPH-A as a party to this agreement, TPH-A, while retaining its own legal identity, will be expected to fulfill all of its obligations under this contract, with the understanding that TPH, holding a hundred percent (100%) stake in TPH-A, provides guidance and oversight to ensure compliance. However, it is important to note that the ultimate responsibility for the performance of TPH-A's obligations remains with TPH-A itself.",
+    "contradiction_score": 0.06361251324415207,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 50743,
+    "end_char": 50865,
+    "original": "7.3.1  After the Effective Date, this Agreement may be terminated on the date that the first of the following shall occur:",
+    "ollama_generated": "7.3.1 Upon the Effective Date, there exists an option for either party to terminate this Agreement at their discretion, effective from the date of such election, subject to the condition that no termination may take place prior to the said date.",
+    "contradiction_score": 0.04762588441371918,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 134,
+    "start_char": 57771,
+    "end_char": 57835,
+    "original": "7.6 Shareholder Calls Upon Bankruptcy After the Effective Date .",
+    "ollama_generated": "7.6 Bankruptcy Filing Initiated by Shareholder Following the Effective Date.\n\nThis subtle change in wording shifts the responsibility of initiating bankruptcy proceedings from the company (Shareholder Calls Upon) to the individual shareholder (Bankruptcy Filing Initiated by).",
+    "contradiction_score": 0.0028931780252605677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 59276,
+    "end_char": 59913,
+    "original": "7.7 Survival of Provisions After the Effective Date . Sections  11.4, 11.6, 11.7, 11.14  and 11.15  shall specifically survive the termination of this Agreement after the Effective Date. In case where this Agreement is terminated pursuant to Section 7.3.1(ii)  and (iii), Section 9.4,  Article X, and Section 11.5  shall also specifically survive the termination of this Agreement after the Effective 7.8 Cooperation . During the term of the Joint Venture, each Party shall cooperate with the other and shall take all actions necessary in order to consummate any sale and purchase of Shares, or dissolution and winding up of the Company.",
+    "modified": "7.7 Persistence of Provisions Post-Termination . Sections 11.4, 11.6, 11.7, 11.14, and 11.15 will persist beyond the termination of this Agreement following the Effective Date. In instances where this Agreement is terminated under Section 7.3.1(ii) and (iii), Sections 9.4, Article X, and Section 11.5 will likewise endure post-termination.\n\n7.8 Obligation to Collaborate . After the dissolution of the Joint Venture, each Party shall no longer be obligated to cooperate with one another. However, each Party shall retain the discretion to act individually and independently in order to facilitate any potential sale or purchase of Shares, or the dissolution and winding up of the Company.",
+    "contradiction_score": 0.6424492597579956,
+    "kept": true
+  },
+  {
+    "clause_index": 149,
+    "start_char": 63886,
+    "end_char": 64400,
+    "original": "9.2.1  As longs as TPH-A and TPH are not in material and continuing breach of this Agreement or the Ancillary Agreements, TPH-A or TPH may trigger the option to purchase the Call Shares (the \u201c Call Option \u201d) by providing a written notice of the exercise of the Call Option (the \u201c Call Exercise Notice \u201d) simultaneously to the Company, FSL and AFSL, which notice states (i) such Party\u2019s bona fide intention to exercise the Call Option, and (ii) the date on which such Party intends that the Call Closing Date occur.",
+    "ollama_generated": "9.2.1 The Company, FSL, and AFSL acknowledge that either TPH-A or TPH maintain the right, at their sole discretion and without any prior obligation to do so, to submit a written notice (the \"Call Exercise Notice\") indicating their intent to exercise the Call Option on the Call Shares. Such notice shall be directed simultaneously to all parties involved, stating (i) their clear intention to exercise the Call Option, and (ii) the proposed date for the Call Closing Date, which, once communicated, shall not be altered without mutual consent among the parties, except in cases where non-exercise becomes compulsory due to material and persistent breaches of this Agreement or the Ancillary Agreements by either TPH-A or TPH.",
+    "contradiction_score": 0.004368651192635298,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 64400,
+    "end_char": 64617,
+    "original": "Confidential Execution Version 9.2.2  TPH or TPH-A may not exercise the Call Option for less than one hundred percent (100%) of the Shares held by both FSL and AFSL or any Affiliate of FSL or AFSL, as the case may be.",
+    "ollama_generated": "Confidential Execution Version 9.2.2. Either TPH or TPH-A shall have the discretion to exercise the Call Option, but such exercise must pertain to fewer than one hundred percent (100%) of the Shares held by either FSL or AFSL or any Affiliate of FSL or AFSL; provided that if less than 100% is exercised, TPH or TPH-A shall be obligated to offer and transfer the remaining Shares to the other party on mutually agreed terms.",
+    "contradiction_score": 0.19018864631652832,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 64617,
+    "end_char": 64780,
+    "original": "9.2.3  TPH-A and TPH may not exercise the Call Option prior to the Option Starting Date nor more than one hundred eighty (180) days after the Option Starting Date.",
+    "ollama_generated": "9.2.3. The right conferred by the Call Option to TPH-A and TPH can be exercised no earlier than the Option Starting Date, and in any event, such exercise must occur not later than one hundred eighty (180) calendar days following the Option Starting Date. Further, TPH-A and TPH are not obligated to exercise the Call Option at all should they determine that it is in their best interests not to do so.",
+    "contradiction_score": 0.0020164859015494585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 66459,
+    "end_char": 66848,
+    "original": "9.3 Conditions to Put Option or Call Option Closing . Each Party\u2019s obligation to complete the Put Option or Call Option at the Put Closing Date or Call Closing Date, as applicable, is subject to the fulfillment on or before such Put Closing Date or Call Closing Date of each of the following conditions, unless waived in writing (where permissible) by the applicable party in such closing:",
+    "ollama_generated": "9.3 Triggering Conditions for Exercise of Put Option or Call Option. The right to exercise either the Put Option or Call Option shall not be binding on a Party, and they may elect to refrain from executing at the agreed Put Closing Date or Call Closing Date, as applicable, if any of the following conditions are not met on or before such respective date. Any waiver of these conditions, where allowable in writing by the affected party prior to the closing, shall be at their sole discretion.\n\nIn this revised version, the obligation to exercise the option has been shifted towards the Party; they may now choose whether or not to execute the option based on the fulfillment of certain conditions.",
+    "contradiction_score": 0.06568016111850739,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 67797,
+    "end_char": 68579,
+    "original": "9.3.3  Governmental Approvals . All required authorizations, permits, consents, orders, actions or approvals of, or declarations or filings with, or expirations or terminations of waiting periods imposed by, any Governmental Authority in the United States, whether federal, state or local, that may be required, as well as any Governmental Authority in any other jurisdiction which the parties mutually agree in good faith is required to be obtained, in each case, to consummate the Put Option or Call Option, shall have been filed, occurred or been obtained, including that any required waiting period (and any extension thereof) under the Hart-Scott-Rodino Act relating to the transactions contemplated by the Put Option or Call Option shall have expired or been terminated early.",
+    "ollama_generated": "9.3.3 Governmental Approvals . It is the responsibility of the parties to secure all necessary authorizations, permits, consents, orders, actions or approvals of, or declarations or filings with, or expirations or terminations of waiting periods imposed by, any Governmental Authority in the United States, whether federal, state or local. In cases where a Governmental Authority in any other jurisdiction is deemed necessary by both parties acting in good faith, such approvals shall also be obtained. It is understood that any delays, extensions or ongoing requirements due to regulatory procedures, such as those under the Hart-Scott-Rodino Act, may affect the timeline of the Put Option or Call Option, and the parties acknowledge this potential impact.",
+    "contradiction_score": 0.008519107475876808,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 70097,
+    "end_char": 70395,
+    "original": "ARTICLE X TREATMENT OF EMPLOYEES 10.1  New Terms and Conditions for Employment . The terms and conditions of employment of any person employed by the Company after the Put Closing Date or Call Closing Date, as applicable, shall be on terms and conditions satisfactory to the Company, TPH and TPH-A.",
+    "ollama_generated": "ARTICLE X TREATMENT OF EMPLOYEES\n10.1  Post-Closing Employment Terms\n\nThe employment terms and conditions of any individual joining the Company post the Put Closing Date or Call Closing Date, as applicable, shall be at the sole discretion of the Company, with the understanding that these terms may not necessarily align with those currently held by existing employees.",
+    "contradiction_score": 0.3047466576099396,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 70603,
+    "end_char": 71337,
+    "original": "Confidential Execution Version 10.2.1  FSL, AFSL and the Company do not have any pension liability in respect of the Company\u2019s employees or the Company\u2019s pension plans\u037e 10.2.2  there is no material labor dispute between FSL, AFSL or the Company, on the one hand, and the Company\u2019s employees, on the other hand or legal proceeding against FSL, AFSL or the Company related to the Company\u2019s employees\u037e and 10.2.3  in the event of any liability to the Company\u2019s employees to the extent related to their employment by the Company, AFSL, FSL or AFSL/FSL\u2019s Affiliates prior to the Put Closing Date or Call Closing Date, as applicable, AFSL and FSL agree that such liability shall be borne solely by AFSL/FSL and not the Company or TPH-A/TPH.",
+    "ollama_generated": "Confidential Execution Version 10.2.1:\n\nIn regards to FSL, AFSL, and the Company, it is clarified that they carry no pension obligations pertaining to the Company's employees or its pension plans; 10.2.2 states that there exists no substantial labor dispute between the parties involved (FSL, AFSL, and the Company) and the Company\u2019s workforce, nor any legal proceedings against FSL, AFSL, or the Company concerning the Company's staff; and 10.2.3 outlines that in instances where the Company is responsible for liabilities to its employees related to their employment with the Company, AFSL, or FSL prior to the specified Closing Date (Put or Call, as applicable), the Company will not be held accountable. Instead, AFSL and FSL accept full responsibility for such liabilities, with TPH-A/TPH remaining unaffected.",
+    "contradiction_score": 0.00853967759758234,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 170,
+    "start_char": 71578,
+    "end_char": 72367,
+    "original": "11.2  Limitations on Parties\u2019 Authority . None of the Parties shall have or hold itself out as having, any right, authority or agency to act on behalf of any other Party or the Company in any capacity or in any manner except as specifically authorized in this Agreement, and none of the Parties shall become liable to any other Parties or to any other Person by reason of any representation, action or omission of any other Party contrary to this provision. Without limiting the generality of the foregoing, in no event shall any Party have any liability or obligation for any debts, liabilities or contractual obligations of any other Party to any other Person and each Party agrees to indemnify and hold harmless any other Party as to such debts, liabilities and contractual obligations.",
+    "ollama_generated": "11.2 Scope of Parties' Authority: Each Party expressly reserves the right to act independently without being deemed an agent or representative of any other Party or the Company, unless explicitly specified within this Agreement. No Party shall assume liability to any other Party or external entity due to any misrepresentation, action, or inaction by another Party that contravenes this provision. In no circumstance will any Party bear responsibility for another Party's debts, liabilities, or contractual obligations towards third parties. Instead, each Party agrees to be indemnified and held harmless from such financial burdens by the other Parties.",
+    "contradiction_score": 0.19217470288276672,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 176,
+    "start_char": 75552,
+    "end_char": 75923,
+    "original": "11.4.2  Each of the Parties agrees to take, and to cause its respective Affiliates and the Company to take, reasonably adequate security and precautionary measures to effect compliance with this Section 11.4  by directors, officers, employees and agents of each of the Parties, their respective Affiliates and the Company who are given access to Confidential Information.",
+    "modified": "11.4.2 Each Party acknowledges its responsibility to recommend, but not enforce, the adoption of reasonable security measures by its directors, officers, employees, agents, and any affiliated entities or the Company when they gain access to Confidential Information. While the Parties will strive for compliance with this Section 11.4, they expressly waive any obligation to verify or ensure full adherence to these measures by the aforementioned individuals.",
+    "contradiction_score": 0.5413430333137512,
+    "kept": true
+  },
+  {
+    "clause_index": 177,
+    "start_char": 75923,
+    "end_char": 77059,
+    "original": "11.4.3  Each of the Parties hereby acknowledges that the Disclosing Party would be irreparably harmed by a breach of this Section 11.4  and it would not be possible to estimate damages resulting from such a breach. The Parties agree that the Disclosing Party shall be entitled to injunctive relief to prevent a breach or continued breach of this Section 11.4 , or any part of it, and to secure the enforcement of this Section 11.4  and shall be entitled to recover from the other Parties reasonable legal fees and all costs and expenses incurred in connection with such an action 11.5  Access to Company Information After the Put Closing Date or the Call Closing Date . In case it is necessary for AFSL/FSL to access to any materials or information of the Company prepared or otherwise made on or before the Put Closing Date or the Call Closing Date due to requirement by any Governmental Authority or any third party on or after the Put Closing Date or the Call Closing Date, then, TPH/TPH-A shall fully cooperate, and shall cause the Company to fully cooperate, with AFSL/FSL so that AFSL/FSL can access such materials or information.",
+    "modified": "11.4.3  While acknowledging the potential damage to the Receiving Party from a breach of this Section 11.4, it is understood that the precise extent of such damages might be challenging to quantify. The Parties consensually agree that the Receiving Party may seek equitable remedies to deter or halt any infringement or persisting infringement of this Section 11.4, or its components, but shall not automatically have the right to recover legal fees and expenses from the other parties unless explicitly granted by a competent court.\n\n11.5  Access to Company Information Post-Closing Dates: In instances where AFSL/FSL requires access to any Company materials or information produced or obtained prior to the Put Closing Date or Call Closing Date due to mandates from a Governmental Authority or third party following these dates, TPH/TPH-A is obliged to facilitate and ensure that the Company does so as well, to the extent feasible, enabling AFSL/FSL to acquire such materials or information.",
+    "contradiction_score": 0.8307176232337952,
+    "kept": true
+  },
+  {
+    "clause_index": 179,
+    "start_char": 77437,
+    "end_char": 78018,
+    "original": "Confidential Execution Version 11.7  Notices . All notice, waivers and other communications required or permitted hereunder shall be in writing and shall be deemed to have been duly given when delivered by hand or one (1) day after being sent by e-mail (with reasonable evidence of transmission) and followed by registered mail or an internationally recognized overnight courier service if those to be notified, including Shareholders, Directors and auditors, reside outside Japan, addressed to the Party to whom the notice is intended to be given at the addresses specified below:",
+    "ollama_generated": "Confidential Execution Version 11.7 - Notices:\n\nAll written notices, waivers, or other communications as required or allowed under this agreement may be made by either party and shall be considered validly communicated upon receipt, unless otherwise specified in this clause. For the purposes of clarity, such communication may be effected through electronic means (including email), with a timeframe of immediate delivery for in-country transmissions, and one (1) business day following the date of transmission if sent electronically to parties residing outside Japan. In these cases, proof of transmission (such as read receipts or timestamps) shall serve as evidence of delivery. Furthermore, for those intended recipients who reside outside Japan, a subsequent communication by registered mail or an internationally recognized overnight courier service is recommended but not required, to ensure the safe arrival of said notice, waiver, or other communication.\n\nThe addresses for such communications shall be as follows:\n\n1. For the parties within Japan: [Addresses Here]\n2. For the parties residing outside Japan: [Addresses Here]",
+    "contradiction_score": 0.04389847815036774,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 181,
+    "start_char": 78046,
+    "end_char": 78199,
+    "original": "No.4 Kogyo Danchi, Monden-Machi, Aizu Wakamatsu, Fukushima, Aizu Fujitsu Semiconductor Limited Attn: President and Representative Director (b) If to FSL:",
+    "ollama_generated": "Clause 4:\nKogyo Danchi, Monden-Machi, Aizu Wakamatsu, Fukushima, Aizu Fujitsu Semiconductor Limited Attn: President and Representative Director (b) If by FSL:\n\nIn the event that any dispute arises between the Parties related to this Agreement, it shall be at Aizu Fujitsu Semiconductor Limited's sole discretion whether to initiate a resolution process. The resolution of such disputes shall not be obligatory for either Party unless explicitly agreed upon in writing by both parties after the dispute has arisen. This provision does not limit or waive any rights that either party may have under applicable law.",
+    "contradiction_score": 0.08534390479326248,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 185,
+    "start_char": 78443,
+    "end_char": 78532,
+    "original": "Attn: Chief Executive Officer With a copy, which shall not constitute notice, to each of:",
+    "ollama_generated": "Attn: Chief Executive Officer (CEO), with the understanding that this communication does not serve as formal notification to any other party:\n\n1. The CEO is hereby responsible for ensuring compliance with all applicable laws, regulations, and contractual obligations regarding the operation of the company's facilities and services, specifically those outlined in this agreement.\n2. The CEO shall take reasonable measures to mitigate potential risks associated with the business operations, but the company will not be liable for any damages resulting from unforeseen events or circumstances beyond its control, unless such damage is a direct result of gross negligence on the part of the CEO.\n3. In the event that an issue arises which requires action or decision from the CEO in accordance with this agreement, the CEO shall promptly take appropriate steps to address the matter and make a reasonable effort to communicate any relevant information to the company's senior management team. However, the CEO is not required to seek advice or consent from the company or any of its representatives before making such decisions unless explicitly stated otherwise in this agreement.\n4. The CEO agrees to cooperate with internal and external audits, investigations, and reviews of the company, but will have the right to refuse access to sensitive or confidential information if disclosure is deemed inappropriate or unnecessary for the purposes of the audit, investigation, or review.\n5. Upon termination or expiration of this agreement, the CEO shall return all property and documents belonging to the company and refrain from making any disparaging statements about the company, its management, employees, or operations without written permission from the board of directors.",
+    "contradiction_score": 0.029419245198369026,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 78534,
+    "end_char": 78572,
+    "original": "Wilson Sonsini Goodrich & Rosati, P.C.",
+    "ollama_generated": "Wilson Sonsini Goodrich & Rosati, P.C., hereby reserves the right to delegate the performance of its duties under this agreement to any third party, provided that such delegation shall not diminish its overall responsibility for the satisfactory completion of said duties.",
+    "contradiction_score": 0.12471466511487961,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 188,
+    "start_char": 78623,
+    "end_char": 78893,
+    "original": "Attn: Mark Bertelsen and Julia Reigel Mori Hamada & Matsumoto Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan Attn: Masujima Masakazu or to such other address or addresses as any such Party may from time to time designate by written notice.",
+    "ollama_generated": "Addressee: Mark Bertelsen and Julia Reigel or their designated representatives at Mori Hamada & Matsumoto, Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan. Alternatively, Masujima Masakazu or any other specified recipient at such address or addresses as either Party may notify in writing.\n\nThis revised clause maintains the same format but shifts responsibility slightly by allowing either party to designate a representative and broadens the possibility of communication by making it clear that either party can send notices to alternative addresses.",
+    "contradiction_score": 0.007202355191111565,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 189,
+    "start_char": 78893,
+    "end_char": 79159,
+    "original": "Notwithstanding the foregoing, the Parties acknowledge and agree that notice hereunder may be provided by e-mail, but such notice shall not be deemed effective unless and until the Party to whom such notice was delivered confirms, in writing, receipt of such notice.",
+    "ollama_generated": "In contrast to the preceding terms, both Parties acknowledge and concur that electronic mail (e-mail) may serve as a means for delivering notices. However, it is important to note that such e-mail communication shall only be considered effective once the recipient replies, in writing, confirming receipt of the said notice. This verification serves as an essential step to ensure the validity and completion of the notification process.",
+    "contradiction_score": 0.0006705798441544175,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 196,
+    "start_char": 81143,
+    "end_char": 81473,
+    "original": "11.13  Limitations on Rights of Third Persons . Nothing expressed or implied in this Agreement is intended or shall be construed to confer upon or give any Person other than the Parties any rights or remedies under or by reason of this Agreement or any transaction contemplated hereby, except the permitted assigns of the Parties.",
+    "ollama_generated": "11.13 Third-Party Rights Limitations . This Agreement does not grant, and shall not be construed to grant, any rights or remedies to any Person other than the Parties to this Agreement or their duly authorized assignees. Any such third parties are expressly excluded from deriving any rights or benefits under this Agreement or any transactions arising from it.",
+    "contradiction_score": 0.0008249657112173736,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 200,
+    "start_char": 82135,
+    "end_char": 82742,
+    "original": "11.15.2 Any dispute, controversy or claim arising out of or relating to this Agreement, or the breach, termination or invalidity hereof, shall be finally resolved exclusively by arbitration administered by the Hong Kong International Arbitration Centre (\u201cHKIAC \u201d). The arbitration shall be conducted in accordance with the HKIAC Administered Arbitration Rules in effect at the time of the arbitration, except as they may be modified by mutual agreement of the Confidential Execution Version Parties. The seat of the arbitration shall be Hong Kong. The arbitration shall be conducted in the English language.",
+    "ollama_generated": "11.15.2 In the event that any disagreement, issue, or contention emerges from this Agreement's interpretation, execution, violation, termination, or nullification, such matters will be resolved through non-binding mediation, facilitated by the Hong Kong International Arbitration Centre (\"HKIAC\"). This mediation process, while not binding initially, may lead to a settlement agreement that the parties involved shall commit to complying with. The mediation process shall abide by the HKIAC Mediation Rules in effect at the time, which can be amended by mutual consent of the parties. In case no settlement is reached through mediation, either party reserves the right to seek resolution through binding arbitration under the conditions stipulated herein within sixty (60) days following the unsuccessful completion of the mediation process. The seat of both the mediation and subsequent arbitration, if necessary, shall be Hong Kong. The language of these proceedings will be English.",
+    "contradiction_score": 0.01519831083714962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 207,
+    "start_char": 85130,
+    "end_char": 86424,
+    "original": "11.16  Severability . Each section and subsection of this Agreement constitutes a separate and distinct undertaking or provision hereof. Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable Laws. In the event that any provision of this Agreement shall finally be determined by a competent court or tribunal to be unlawful or unenforceable, such provision shall be deemed severed from this Agreement, but every other provision of this Agreement shall remain in full force and effect, and in substitution for any such provision held unlawful or unenforceable, there shall be substituted a provision of similar import reflecting the original intent of the Parties to the extent permissible under applicable Confidential Execution Version 11.17  Execution in Counterparts . This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same agreement. The signature of each Party may be evidenced by an electronic (e.g., pdf) copy of this Agreement bearing such signature and transmitted to the other Parties. Such signature shall be valid and binding as if an original executed copy of this Agreement has been delivered.",
+    "ollama_generated": "11.16 Survival of Provisions . Each provision within this Agreement stands independently, serving as a separate obligation or undertaking. The intent is to interpret each provision in the most legal and enforceable manner possible under relevant Laws. If a court or tribunal deems any provision of this Agreement unlawful or unenforceable, it will be considered void, but all other provisions shall continue to apply without interruption. Any voided provision will be replaced with one of similar intention that is permissible according to applicable Confidential Execution Version 11.17 Counterparts Execution . This Agreement may be signed in multiple parts, each considered a valid original. An electronic (e.g., pdf) copy bearing a signature can serve as evidence of a party's signature and be equally binding as if a physical signed copy had been exchanged.\n\nIn this version, the obligation of each provision to remain enforceable is weakened by making it conditional on being valid under applicable laws. Also, instead of severing an unenforceable provision and having the rest of the agreement continue in full force, any voided provisions will be replaced with one of similar intention that is permissible according to applicable Confidential Execution Version. Lastly, the language has been adjusted to make it clearer that electronic signatures are valid and binding as if a physical signed copy had been exchanged.",
+    "contradiction_score": 0.16178719699382782,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 213,
+    "start_char": 88657,
+    "end_char": 89195,
+    "original": "1. Joinder to Joint Venture Agreement . TPH-A, by executing and delivering this Joinder, hereby becomes a party to the Joint Venture Agreement in the capacity of \u201cTPH-A\u201d as defined therein in accordance with Section 6.3 thereof, and agrees to be bound by all of the terms and conditions thereof (including without limitation all of the representations and warranties and covenants of TPH-A therein to be made or performed, as applicable, from and after the date hereof), in each case as if the undersigned were a direct signatory thereto.",
+    "ollama_generated": "1. Inclusion in Joint Venture Agreement . By executing and delivering this Joinder, TPH-A acknowledges its membership in the Joint Venture, represented as \"TPH-A\" as defined within Section 6.3 of the agreement, with an understanding that it will comply with the terms and conditions thereof from the date hereof. However, TPH-A's obligations shall be deemed to have been made or performed only upon actual execution of a signature on the Joint Venture Agreement, if and when such occurs. In all other respects, TPH-A agrees to be bound by the representations, warranties, and covenants as stated in the agreement, though it is not considered a direct signatory until such execution takes place.",
+    "contradiction_score": 0.032867006957530975,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

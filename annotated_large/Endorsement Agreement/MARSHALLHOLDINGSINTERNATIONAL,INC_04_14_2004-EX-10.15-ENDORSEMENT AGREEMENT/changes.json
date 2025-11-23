@@ -1,0 +1,61 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 361,
+    "original": "EXHIBIT 10.15 ENDORSEMENT AGREEMENT This ENDORSEMENT AGREEMENT (the \"Agreement\") is made this 1st day of November, 2003 by and between Bruce Jenner, Individual (\"CELEBRITY\"), with his offices located in California\u037e and The Right Solution, a Nevada Corporation (the COMPANY), with its offices located at 3035 East Patrick Lane, Suite 14, Las Vegas, Nevada 89120.",
+    "ollama_generated": "ENDORSEMENT AGREEMENT REVISED VERSION\n\nThis REVISED ENDORSEMENT AGREEMENT (the \"Agreement\"), dated as of the 1st day of November, 2003, is entered into by and between The Right Solution, a Nevada Corporation (hereinafter referred to as the \"Company\"), with its offices located at 3035 East Patrick Lane, Suite 14, Las Vegas, Nevada 89120, and Bruce Jenner, Individual (hereinafter referred to as the \"Endorser\"), with his principal residence in California.\n\nUnder this Agreement, the Company acknowledges that it is solely responsible for any breach of the terms set forth herein, unless expressly provided otherwise. The Endorser shall provide reasonable cooperation and assistance in good faith during the term of this Agreement, but shall not be held liable for any claims or actions arising from the use of the Endorser's name, image, or likeness, except in cases where such misuse is found to have been knowingly and intentionally caused by the Endorser. The Company shall indemnify and hold harmless the Endorser for any claims, actions, or liabilities arising from such use.\n\nIn this revised Agreement, the obligations of the parties are shifted in favor of the Company, providing it with greater protection against potential claims arising from the use of the Endorser's name and likeness. The Endorser retains a limited role in cooperation and assistance, but is no longer directly responsible for any claims or actions that may arise during the term of the Agreement.",
+    "contradiction_score": 0.08879179507493973,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2748,
+    "end_char": 2880,
+    "original": "(v)  Travel arrangements and accommodations will be provided by the COMPANY. This will be first class accommodations when available.",
+    "ollama_generated": "(v) The EMPLOYEE is responsible for arranging travel and securing accommodations. However, the COMPANY may offer upgrades to first-class accommodations at its discretion.\n\nThis revision shifts some responsibility from the company to the employee while maintaining a professional tone and still offering the possibility of first-class accommodations.",
+    "contradiction_score": 0.0055612800642848015,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4636,
+    "end_char": 4739,
+    "original": "6.   TERMINATION The COMPANY and CELEBRITY may terminate this Agreement under the following conditions:",
+    "ollama_generated": "6.  TERMINATION This Agreement may be terminated by either the COMPANY or CELEBRITY, subject to the following circumstances:\n\n(a) Either party may elect to terminate this Agreement upon providing thirty (30) days' written notice to the other party, with no cause required.\n\n(b) In the event that a material breach of this Agreement occurs, either party shall have the right to terminate immediately upon giving written notice to the breaching party. The receiving party may choose to cure the breach within thirty (30) days of receipt of such notice, provided that failure to do so will constitute an irrevocable election to terminate this Agreement.\n\n(c) In addition, either party shall have the right to terminate immediately if the other party becomes insolvent or files for bankruptcy protection, or if any legal proceedings are initiated against the other party that could materially affect the performance of its obligations under this Agreement.",
+    "contradiction_score": 0.0043508256785571575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 7291,
+    "end_char": 7566,
+    "original": "8.   MISCELLANEOUS (i)  Subsequent Events.  CELEBRITY and the COMPANY each agree to notify the ----------------- other party if, subsequent to the date of this Agreement, either party incurs obligations which could compromise its efforts and obligations under this Agreement.",
+    "modified": "8. MISCELLANEOUS (i) Subsequent Events. The COMPANY and CELEBRITY agree not to incur any obligations that may potentially compromise their respective efforts and commitments under this Agreement, without first informing the other party if such obligations arise subsequent to the date of this Agreement. In the event that either party finds it necessary to incur such obligations post-execution of this Agreement, they shall promptly disclose these developments to the other party.",
+    "contradiction_score": 0.9110637903213501,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 10054,
+    "end_char": 10164,
+    "original": "The Right Solution 3095 East Patrick Lane, Suite 14 Las Vegas, Nevada 89120 (B)  In the case of the CELEBRITY:",
+    "ollama_generated": "In the event of the involvement of the CELEBRITY:\n\nThe Right Solution, located at 3095 East Patrick Lane, Suite 14, Las Vegas, Nevada 89120 (B), shall not be held responsible for any claims or liabilities arising from such involvement. The CELEBRITY acknowledges and agrees to indemnify and hold harmless The Right Solution and its affiliates from any and all damages, losses, expenses, or claims that may result from their participation in the project or activities related thereto.",
+    "contradiction_score": 0.13370732963085175,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 10322,
+    "end_char": 10585,
+    "original": "9.        Governing Law.  This Agreement was negotiated and is being contracted ------------- for in Nevada, and shall be governed by the laws of the State of Nevada, and the United States of America, notwithstanding any conflict-of-law provision to the contrary.",
+    "ollama_generated": "9. Governing Law. This Agreement was initiated and is being entered into with a strong preference for interpretation under the legal framework of Nevada, and shall be subject to the jurisdiction and laws of the State of Nevada and the United States of America, disregarding any conflicting rules or principles from other jurisdictions that may apply.",
+    "contradiction_score": 0.0018235695315524936,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

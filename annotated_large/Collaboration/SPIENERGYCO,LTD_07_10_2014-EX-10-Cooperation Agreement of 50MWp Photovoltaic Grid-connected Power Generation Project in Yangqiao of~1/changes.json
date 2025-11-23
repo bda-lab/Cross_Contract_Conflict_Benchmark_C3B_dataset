@@ -1,0 +1,21 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 213,
+    "end_char": 610,
+    "original": "Party A welcomes and supports Party B to invest and develop new energy project in Fenyi County, and Party B is willing to invest and build 50MWp photovoltaic grid-connected power generation project in Fenyi County\u037e both parties, in the principle of equality, mutual benefits, win-win cooperation and solid progress, reach the following cooperation agreement as for relevant matters of the project:",
+    "ollama_generated": "Party B is invited by Party A to consider investment and development of a new energy project in Fenyi County. While Party B maintains the discretion to decide on its level of involvement, it is open to pursuing the establishment of a 50MWp photovoltaic grid-connected power generation project in Fenyi County. In spirit of fairness, potential benefits, and collaborative success, both parties may opt to reach an agreement regarding project-related matters, should they mutually deem it advantageous:\n\nThis revised clause shifts the initiative from Party A to Party B for investment decisions while keeping the cooperation agreement optional. Additionally, it emphasizes mutual discretion in choosing whether or not to enter into an agreement, which weakens the obligation compared to the original clause.",
+    "contradiction_score": 0.04960081726312637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1201,
+    "end_char": 1544,
+    "original": "II. As required by Party B building PV grid-connected power station project, Party A accepts the Cooperation Agreement of 50MWp Photovoltaic Grid-connected Power Generation Project in Yangqiao Town of Fenyi County signed by Party B and Yangqiao Town of Fenyi County, and actively coordinates Yangqiao Town to perform relevant responsibilities.",
+    "modified": "II. In accordance with the requirements outlined by the Yangqiao Town of Fenyi County for Party B's 50MWp Photovoltaic Grid-connected Power Station Project, Party A acknowledges and adheres to the terms of the Cooperation Agreement, but does not assume an active role in coordinating Yangqiao Town regarding their responsibilities. Instead, Party A shall provide necessary support and guidance to enable Yangqiao Town to carry out their assigned duties as outlined within the agreement.",
+    "contradiction_score": 0.981296956539154,
+    "kept": true
+  }
+]

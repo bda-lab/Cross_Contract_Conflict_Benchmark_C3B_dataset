@@ -1,0 +1,31 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 4422,
+    "end_char": 4924,
+    "original": "b.As of the VNBZ Closing, except as expressly set forth in this Amendment, the JV Agreement shall immediately cease to have any application or effect with respect to VNBZ, all rights and obligations with respect to VNBZ under the JV Agreement shall terminate and all references to \u201cCompany\u201d or \u201cCompanies\u201d in the JV Agreement (either in the body of the JV Agreement or its schedules and other attachments) shall read and be interpreted to mean VNBJ and/or ANRA except as the context otherwise requires.",
+    "modified": "a. Commencing from the VNBZ Closing, save for what is explicitly stated in this Amendment, the JV Agreement will no longer apply or exert any influence regarding VNBZ. All rights and duties pertaining to VNBZ as outlined in the JV Agreement shall be considered null and void. However, any instances where \"Company\" or \"Companies\" appear within the JV Agreement (whether in the main text, schedules, or attachments), they should be read and understood to refer exclusively to VNBJ and/or ANRA, unless the context explicitly necessitates otherwise. This exception applies to all occurrences of \"Company\" or \"Companies.\"",
+    "contradiction_score": 0.9251906275749207,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 6635,
+    "end_char": 6747,
+    "original": "Article 3. Governing Law This Amendment shall be governed by and construed in accordance with the laws of Japan.",
+    "ollama_generated": "Article 3. Jurisdiction & Interpretation\nThis Amendment will be subject to the jurisdiction of, and interpreted in accordance with, the discretion of a mutually agreed-upon arbitrator from Japan, whose decision shall be final and binding on all parties involved.",
+    "contradiction_score": 0.09702454507350922,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 7466,
+    "end_char": 7563,
+    "original": "By: /s/ Eric R. Swanson Name: Eric R. Swanson Title: President & Secretary Nissin Kogyo Co., Ltd.",
+    "ollama_generated": "By: /s/ Eric R. Swanson\nName: Eric R. Swanson\nTitle: Representative, Nissin Kogyo Co., Ltd.\n\nNew Clause: In consideration of the mutual covenants contained herein, the undersigned agrees to perform his obligations under this agreement to the best of his ability and judgment, and any failure to meet said obligations shall not constitute a material breach of this agreement unless such failure results in significant harm or prejudice to the other party. The other party acknowledges that it is aware of the undertakings and responsibilities assumed by the undersigned, and agrees to indemnify and hold harmless the undersigned for any claims arising from the other party's failure to fulfill its obligations under this agreement.",
+    "contradiction_score": 0.04986086115241051,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

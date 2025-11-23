@@ -1,0 +1,289 @@
+[
+  {
+    "clause_index": 10,
+    "start_char": 3948,
+    "end_char": 4383,
+    "original": "\"ACSI Site\" means that Web Site, the primary Home Page of which is identified by the URL www.amazon.com (and any successor or replacement Web -------------- Site).  For the avoidance of doubt, the \"ACSI Site\" does not include any other Web Sites maintained by or for ACSI or its Affiliates (including, without limitation, those Web Sites, the primary Home Pages of which are identified by the URL's www.amazon.co.uk and www.amazon.de).",
+    "ollama_generated": "\"ACSI Platform\" refers to the online environment primarily accessible via the URL www.amazon.com (and any subsequent versions or replacements thereof). It is important to clarify that the \"ACSI Platform\" encompasses only this specific platform and does not extend to any other digital environments operated by ACSI or its Affiliates, such as those accessed through the URLs www.amazon.co.uk and www.amazon.de.\"\n\nThis revised clause maintains a professional tone while slightly modifying the original to emphasize that the \"ACSI Platform\" is limited to one specific domain (www.amazon.com) and excludes any other domains operated by ACSI or its affiliates, such as those under www.amazon.co.uk and www.amazon.de.",
+    "contradiction_score": 0.0017296129371970892,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 5854,
+    "end_char": 6027,
+    "original": "--------------- Source: AUDIBLE INC, 10-Q, 11/13/2000 ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "------------- New Clause:\n------------------- Source: REVISIONED ENTITY LTD., Quarterly Report, 12/24/2022 ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.\n\nIn this Agreement, the term \"Responsible Party\" shall refer to the entity that inadvertently discloses any Confidential Information, rather than the entity that receives it, as stated originally. The Responsible Party shall promptly notify the Disclosing Party upon becoming aware of such a disclosure and shall take all reasonable steps to remedy the situation. However, the Responsible Party shall not be liable for any damages resulting from unintentional or accidental disclosures, provided that it acted in good faith and exercised due diligence to prevent such occurrences. The Disclosing Party acknowledges that it is responsible for the security of its own Confidential Information and agrees to indemnify the Responsible Party against any claims arising from breaches of this clause attributable to the Disclosing Party's negligence or willful misconduct.",
+    "contradiction_score": 0.2761726379394531,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 6637,
+    "end_char": 6807,
+    "original": "\"Claim\" means any claim, action or proceeding instituted by a third party (other than an Affiliate of a Party), including, without limitation, any governmental authority.",
+    "modified": "\"Dispute\" refers to any claim, action, or proceeding initiated by an external entity (excluding Affiliates of the Parties) or any administrative body, whether it is formal litigation or an informal challenge.",
+    "contradiction_score": 0.9839751720428467,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 7029,
+    "end_char": 7226,
+    "original": "\"Company Derivative Work\" means any Derivative Work (whether created by ACSI, Company, or the Parties jointly) of any Company Existing Intellectual Property or Company Future Intellectual Property.",
+    "ollama_generated": "\"Company Derivative Work\" shall denote any Derivative Works (be it individually created by ACSI, Company, or the Parties collectively), which are based on either the existing or future intellectual property belonging to the Company. Notwithstanding the foregoing, the responsibility for the creation and ownership of the Derivative Works shall lie primarily with the Party who originally produced them, unless otherwise agreed upon in writing by the Parties.",
+    "contradiction_score": 0.024649538099765778,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 8296,
+    "end_char": 8666,
+    "original": "\"Company Site\" means, collectively: (a) that Web Site, the primary Home Page for which is identified by the URL www.audible.com (and any successor or replacement Web Site)\u037e and (b) any other Web Sites operated by or for Company or its Affiliates from time to time (excluding the Mirror Company Site) through which Spoken-Word Audio Products are sold or offered for sale.",
+    "ollama_generated": "\"Company Websites\" encompass, in totality: (a) the specific Website, recognizable by the URL www.audible.com (or any subsequent equivalent or substitute site), and (b) any additional websites managed, maintained, or operated by the Company, its Affiliates, or third parties on their behalf, where spoken-word audio products are made available for purchase or promotion. Important to note that this definition excludes any websites overseen by separate entities under a Mirror Agreement with the Company.",
+    "contradiction_score": 0.10004492849111557,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 10118,
+    "end_char": 10216,
+    "original": "\"Derivative Work\" means any adaptation, modification, enhancement, improvement or derivative work.",
+    "modified": "\"Original Work\" denotes the initial form of the work as conceived and created, excluding any adaptations, modifications, enhancements, or derivative works. The Owner shall retain all rights to such Original Works, unless explicitly granted otherwise in writing.",
+    "contradiction_score": 0.8509088158607483,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10342,
+    "end_char": 10668,
+    "original": "\"Exclusive Spoken-Word Audio Products\" means: (a) spoken-word audio-only products, in a format suitable for digital download and/or streaming, [***] \"Existing ACSI Product Section\" means any ACSI Product Section identified on the ACSI Site Home Page as of the Effective Date, as shown in the screen shot attached as Exhibit A.",
+    "ollama_generated": "\"Exclusive Spoken-Word Audio Products\" refers to: (a) digital downloadable or streamable spoken-word audio products, with the understanding that such products may also be included within any ACSI Product Section identified on the ACSI Site Home Page as of the Effective Date, as depicted in Exhibit A. However, it is acknowledged that additional or modified sections may be added to the ACSI Product Section at a later date, and these newly created or altered sections will not necessarily constitute \"Exclusive Spoken-Word Audio Products.\"",
+    "contradiction_score": 0.008214255794882774,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 13363,
+    "end_char": 13725,
+    "original": "\"Mirror Company Site\" means a \"mirrored\" version of that Web Site, the primary Home Page for which is identified by the URL www.audible.com (and any successor or replacement Web Site).  The primary home page of the Mirror Company Site shall be identified by the URL www.amazon.audible.com (or such other URL as ---------------------- the Parties may agree upon).",
+    "ollama_generated": "\"Mirrored Audible Site\" refers to a replicated version of the main Web Site, whose primary home page is initially accessible via the URL www.audible.com (and any subsequent updates or replacements). Notably, the primary home page of the Mirrored Audible Site may be identifiable through the URL www.amazon.audible.com (or an alternative URL as mutually agreed upon by the Parties).\n\nIn this revised clause, the obligation to update the URL for the mirror site's primary homepage has been shifted from one party to both parties, implying a more collaborative approach in managing the mirrored site's URL.",
+    "contradiction_score": 0.0018452387303113937,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 13725,
+    "end_char": 14027,
+    "original": "\"Proration Percentage\" means, as of any date within the Refund Period, the following quantity, expressed as a percentage: (a) one (1)\u037e minus (b) the sum of: (i) the number of days of the Refund Period which have elapsed prior to such date\u037e divided by (ii) the total number of days in the Refund Period.",
+    "ollama_generated": "\"Refund Adjustment Rate\" is defined, in relation to any date falling within the Refund Period, as the following percentage: (a) one hundred percent; less (b) the ratio of (i) the total number of days remaining in the Refund Period after such date, compared to (ii) the original length of the Refund Period.\n\nThis modification implies that the initial percentage is set at 100%, and it decreases as time within the Refund Period passes, rather than increasing as previously stated. This shift in language effectively weakens the obligation for refunds over time.",
+    "contradiction_score": 0.025442926213145256,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 16374,
+    "end_char": 16514,
+    "original": "\"Trademark\" means any trademark, service mark, trade name, trade dress, proprietary logo or insignia or other source or business identifier.",
+    "ollama_generated": "\"Designated Identifiers\" encompass any trademark, servicemark, corporate name, product design, distinctive logo or emblem, or any other visual representation used to distinguish goods, services, or business entities in commerce. The responsibility for ensuring the uniqueness and protection of such identifiers lies primarily with the party utilizing them.",
+    "contradiction_score": 0.0561116486787796,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 16514,
+    "end_char": 17197,
+    "original": "\"Web Site\" means any point of presence maintained on the Internet or on any other public or private data network.  With respect to any Web Site maintained on the World Wide Web or any successor public data network, such Web Site includes all HTML pages (or similar unit of information presented in any relevant data protocol) that either (a) are identified by the same second-level domain (such as http://www.amazon.com) or by the same equivalent level identifier in any relevant address scheme, or (b) contain branding, graphics, navigation or other characteristics such that a user reasonably would conclude that the pages are part of an integrated information or service offering.",
+    "ollama_generated": "\"Website\" is defined as any online platform accessible via the internet or any public or private data network. For any Website operating on the World Wide Web or its subsequent iterations, this term encompasses all HTML pages (or comparable units of information in any pertinent data protocol) that either:\n\n1) Share the same second-level domain (such as http://www.amazon.com), or\n2) Exhibit common branding, graphics, navigation, or other distinguishing characteristics which would lead a user to believe that the pages constitute an integrated offering of information or services.\n\nNotably, this definition emphasizes that related pages within a Website may not necessarily share the same domain name, provided they exhibit sufficient visual and functional similarities to be perceived as part of the same cohesive offering.",
+    "contradiction_score": 0.012795345857739449,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 17197,
+    "end_char": 17288,
+    "original": "\"Year\" means any period of twelve (12) consecutive months commencing on the Effective Date.",
+    "ollama_generated": "\"Year\" denotes any sequence of twelve (12) continuous months, starting from the moment immediately following the Effective Date, with the proviso that partial months or interruptions may occur without affecting the continuity of the year for the purpose of this agreement.",
+    "contradiction_score": 0.013891941867768764,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 17288,
+    "end_char": 17777,
+    "original": "Section 2.  Spoken-Word Audio Sub-Section  and Mirror Company Site 2.1  Spoken-Word Audio Sub-Section .  Pursuant to the implementation procedures set forth in Section 4, ACSI will establish and, upon and following the Launch Date , maintain (or cause one of its Affiliates to maintain) on the ACSI Site  during the Term Source: AUDIBLE INC, 10-Q, 11/13/2000 -------- *** Confidential Information  has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "Section 2. Spoken-Word Audio Sub-Section and Mirror Company Site (Revised)\n\n   2.1 Spoken-Word Audio Sub-Section . In compliance with the guidelines outlined in Section 4, it shall be the duty of Partner Company to set up and preserve, commencing from the Launch Date , a functional version of the specified Spoken-Word Audio content on their designated Site, or delegate this task to one of their Affiliates, throughout the Term.\n\n   Source: AUDIBLE INC, 10-Q, 11/13/2000 --------- *** Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "contradiction_score": 0.032602760940790176,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 23624,
+    "end_char": 24661,
+    "original": "2.7  Traffic Data.  Throughout the Term, on a monthly basis, Company will provide ACSI all relevant data requested from time to time by ACSI concerning behavior on the Mirror Company Site , to the extent such behavior reasonably relates to the online promotion or sale of products sold through the ACSI Site and/or Mirror Company Site  and such data is reasonably available.  ACSI and its Affiliates will hold such data in confidence and will not use it except in connection with their marketing efforts or as otherwise may be  agreed by Company in writing.  Notwithstanding anything contained in this Section 2.7   [Traffic Data] , Company will not be required to deliver to ACSI any user data in contravention of any applicable Law or Company's privacy policy (provided, that if Company modifies its privacy policy, Company shall revise the same in a manner which provides it the maximum legally permissible flexibility to provide the data Source: AUDIBLE INC, 10-Q, 11/13/2000 specified in this Section 2.7   [Traffic Data]  to ACSI).",
+    "ollama_generated": "2.7 Traffic Data and User Privacy: For the duration of the Agreement, the Company will make an effort, but not an obligation, to provide ACSI, on a monthly basis or as practically feasible, all relevant data requested concerning user behavior on the Mirror Company Site, provided this behavior is related to the online promotion or sale of products sold through the ACSI Site and/or Mirror Company Site. This data will only be shared if it is reasonably accessible and does not conflict with any applicable Law or the Company's current privacy policy.\n\nACSI and its Affiliates will maintain confidentiality regarding this data, using it solely for their marketing purposes or as mutually agreed upon in writing by the Company. It is important to note that under no circumstances will the Company be required to disclose user data in violation of its privacy policy, unless such a modification increases the Company's legally permissible flexibility to share the requested data.",
+    "contradiction_score": 0.018580017611384392,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 26512,
+    "end_char": 27256,
+    "original": "Within three (3) days following the referral of the matter to the Parties' Presidents (or equivalent officers), the Presidents will meet to resolve the dispute at a mutually convenient time and place.  Additional representatives of the Parties (but not their relationship managers or divisional executives) may be present at the meeting.  If the Presidents are unable to resolve the dispute within two (2) days following their initial meeting (or such later date as they may agree), the Parties will be free to exercise such rights and remedies as may be available to them at law or in equity. Any resolution of any dispute reached under this Section 2.8   [Escalation of Certain Disputes]  will be reduced to writing and signed by the Parties.",
+    "modified": "Upon the referral of the matter between the Parties, their Presidents (or equivalent officers) shall have six (6) days to convene a meeting at a mutually convenient time and location. This meeting may include additional representatives from each Party, except for their relationship managers or divisional executives. If, after their initial meeting, the Presidents fail to reach a resolution within four (4) days (or an extension agreed upon by both Parties), neither Party will be precluded from pursuing any rights, remedies, or legal actions available to them under applicable law or equity. Any resolution reached through this dispute resolution process shall be documented in writing and signed by the respective Parties.\n\nIn this revised version, the obligation to meet within three days has been extended to six days, making it slightly weaker. Also, the timeframe for resolving the dispute after their initial meeting has been extended from two to four days, giving both parties a little more leeway. Additionally, the language has been adjusted to imply that neither party will be prevented from pursuing additional legal action if the dispute is not resolved within the agreed-upon timeline.",
+    "contradiction_score": 0.6881803870201111,
+    "kept": true
+  },
+  {
+    "clause_index": 59,
+    "start_char": 28939,
+    "end_char": 29311,
+    "original": "3.2  Advertising 3.2.1  Amazon.com Customer Base.   During each Year of the Term following the Launch Date , ACSI (or one of its Affiliates) will deliver Amazon.com-branded e-mails and Amazon.com-branded in-product advertising materials related to the Spoken-Word Audio Sub-Section  to selected members of the Amazon.com customer base in at least the following quantities:",
+    "ollama_generated": "3.2 Advertising 3.2.1 Amazon.com Customer Base. During each Year of the Term commencing from the Launch Date, it is understanding that ACSI (or one of its Affiliates) shall make a reasonable effort to provide Amazon.com-branded e-mails and Amazon.com-branded in-product advertising materials related to the Spoken-Word Audio Sub-Section to a selected number of members within the Amazon.com customer base, with no specific minimum quantity guaranteed for each delivery.",
+    "contradiction_score": 0.01262567937374115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 29311,
+    "end_char": 30228,
+    "original": "--------------------------------------------------------------------------------------------- Year                           Email                      Product Shipment -----------------------------    --------------------------    ------------------------------ --------------------------------------------------------------------------------------------- 1                            [***]                            [***] --------------------------------------------------------------------------------------------- 2                            [***]                            [***] --------------------------------------------------------------------------------------------- 3                            [***]                            [***] --------------------------------------------------------------------------------------------- The Parties shall mutually agree on the nature of such advertising\u037e [***].",
+    "ollama_generated": "--------------------------------------------------------------------------------------------- Year          Email                Product Shipment -------------------------------    ---------------------    ------------------------------ ---------------------------------------------------------------------------------------------\n   1                        [***]                            [***] ---------------------------------------------------------------------------------------------\n   2                        [***]                            [***] ---------------------------------------------------------------------------------------------\n   3                        [***]                            [***] ---------------------------------------------------------------------------------------------\n   The Responsible Party will determine the nature of such advertising, subject to mutual consultation with the Other Party for substantial changes.",
+    "contradiction_score": 0.3637789785861969,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 33982,
+    "end_char": 34725,
+    "original": "4.3  Account Managers.  Each Party will assign an account manager (which manager shall be subject to change from time to time by the assigning Party) to oversee the performance of such Party's obligations under this Agreement and to facilitate coordination of the Parties' performance of their respective obligations (including, without limitation, the establishment of the Spoken-Word Audio Sub-Section, the creation of the Co-Branded Pages, the integration of the ACSI Site Functionality  with the Mirror Company Site , and the advertising activities contemplated in Section 3).  The account managers will meet from time to time during the Term to review the implementation of this Agreement and to explore methods for improving performance.",
+    "ollama_generated": "4.3 Designated Representatives. Each Party shall have the discretionary authority to designate a representative (who may be replaced at any time by the appointing Party) responsible for ensuring compliance with this Agreement's terms and fostering cooperation between the Parties in fulfilling their respective obligations. The designated representatives are not bound to meet regularly, but may convene during the Term at their sole discretion, to discuss and potentially suggest enhancements to the Agreement's implementation. The scope of responsibilities for these representatives includes, among other tasks:\n\n- The development and management of the Spoken-Word Audio Sub-Section.\n- The creation and maintenance of Co-Branded Pages.\n- The integration of ACSI Site Functionality with the Mirror Company Site.\n- The planning and execution of advertising activities as outlined in Section 3.\nIt is understood that these representatives are not obliged to implement any suggested improvements, but may choose to do so at their own discretion and within the parameters of this Agreement.",
+    "contradiction_score": 0.04931549355387688,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 35248,
+    "end_char": 36010,
+    "original": "4.4.2  Company will provide reasonable assistance to ACSI and ACSI's Affiliates in all regulatory compliance activities required in connection with the advertising, operation, maintenance and sale of Spoken-Word Audio Products on and through the Spoken-Word Audio Sub-Section , including, but not necessarily limited to, assisting ACSI in identifying, obtaining and maintaining in force any and all licenses and permits necessary for ACSI and its Affiliates in connection with any of the foregoing.  In connection with the foregoing regulatory compliance activities, Company will reimburse ACSI for any reasonable costs (including legal costs) incurred by ACSI or its Affiliates in connection with identifying and obtaining any and all such licenses and permits.",
+    "ollama_generated": "4.4.2 The Company shall offer, to the best of its ability, advisory support to ACSI and its Affiliates in all regulatory compliance activities related to advertising, operation, maintenance, and sales of Spoken-Word Audio Products within the Spoken-Word Audio Sub-Section. This includes, but is not exclusively limited to, aiding ACSI in the process of identifying, obtaining, and maintaining necessary licenses and permits for regulatory compliance. However, it is explicitly stated that the Company shall not be held responsible for procuring these licenses and permits themselves.\n\nIn relation to these regulatory compliance activities, the Company agrees to reimburse ACSI for any incurred costs, including legal expenses, that are deemed reasonable by both parties, should they arise from the identification and acquisition of necessary licenses and permits.",
+    "contradiction_score": 0.005472122225910425,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 37068,
+    "end_char": 37268,
+    "original": "Section 5.  Compensation 5.1  In consideration of the intangible rights granted and services to be performed by ACSI during the Term, Company will pay ACSI the consideration specified in this Section.",
+    "ollama_generated": "Section 5. Remuneration 5.1. In recognition of the intellectual property rights transferred and duties undertaken by ACSI throughout the Agreement Period, ACSI shall be entitled to receive the compensation detailed within this Section, at the discretion of Company.\n\n(This version puts the onus on the company for deciding the payment amount, making it less binding on their part)",
+    "contradiction_score": 0.01220446266233921,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 41030,
+    "end_char": 41419,
+    "original": "5.6  Allocation of Payments.  The Parties acknowledge and agree that the Annual Fees shall be allocated as consideration for advertising services and intangible rights granted by ACSI to Company hereunder, including the rights granted under Section 2.1   [Spoken-Word Audio Sub-Section]  and Section 4.2   [ACSI Site Links]  and the licenses granted to Company under Section 6, as follows:",
+    "ollama_generated": "5.6 Allocation of Payments. The Parties understand and concur that the Annual Fees are apportioned as remuneration for advertising services and intangible rights bestowed upon Company by ACSI in this Agreement, encompassing the rights specified under Section 2.1 [Spoken-Word Audio Sub-Section] and Section 4.2 [ACSI Site Links], as well as the licenses provided to Company under Section 6. However, it is clarified that the allocation of payments shall not be construed as a limitation on ACSI's rights to seek additional compensation for any other services or benefits beyond those expressly mentioned herein.\n\nIn this revised clause, the obligation of the parties regarding the allocation of payments has been broadened to allow ACSI to seek additional compensation for any services or benefits beyond those explicitly stated in the agreement.",
+    "contradiction_score": 0.2788248658180237,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 54501,
+    "end_char": 54895,
+    "original": "8.4  Third Party Infringement Claims. In the event that either Party receives from a third party a bona fide claim of infringement concerning any advertising materials or other content supplied by the other Party, such Party may immediately remove such materials --------- *** Confidential Information  has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "8.4 Third Party Infringement Claims. In the event that either Party is made aware by a third party of a bona fide claim of infringement concerning any advertising materials or other content supplied by the other Party, it shall be the non-infringing Party's discretion to determine an appropriate course of action, which may include, but is not limited to, negotiating a resolution or removing such materials from distribution. This does not imply any admission of liability on either party's part and is undertaken solely for the purpose of mitigating potential risks associated with the infringement claim.",
+    "contradiction_score": 0.20572823286056519,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 58559,
+    "end_char": 58789,
+    "original": "Section 10.  Term and Termination 10.1    Term.  The term of this Agreement will commence on the Effective Date, and unless earlier terminated as provided elsewhere in this Agreement, will end automatically upon the end of Year 3.",
+    "ollama_generated": "Section 10. Term and Termination\n\n10.1 Term. This Agreement shall take effect on the Effective Date, and it shall continue in force unless terminated by either party with written notice at any time prior to the conclusion of Year 3. Following the expiration of Year 3, this Agreement will be deemed automatically renewed on a yearly basis, subject to either party's right to terminate upon providing written notice.\n\nIn this revised clause, the original clause stated that the agreement would end automatically at the end of Year 3 unless terminated elsewhere in the agreement. In contrast, the revised clause provides that the agreement will continue unless terminated by either party with written notice prior to Year 3, and if not terminated, it will be automatically renewed annually after Year 3. This new version shifts the responsibility for termination from the unspecified \"elsewhere\" in the original clause to either party as of the revised clause. Additionally, while the original clause implied that the agreement would end after three years with no possibility of renewal, the revised clause allows for an automatic yearly renewal unless terminated by either party.",
+    "contradiction_score": 0.03807642310857773,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 60174,
+    "end_char": 61448,
+    "original": "10.3    ACSI Termination. In the event that: (a) Company at any time engages in any criminal conduct, fraud, dishonesty or other behavior that is materially harming the goodwill or reputation of ACSI or its Affiliates or the ACSI Site \u037e (b) Company has consistently failed to abide by the technical and customer service requirements described in Section 2.4   [Technical Standards\u037e Customer Service]  or has failed to integrate the ACSI Site Functionality  into the Spoken-Word Audio Sub-Section and/or Mirror Company Site  as required by the Phase II Development Plan (so long as such failure is not a result of acts or omissions by ACSI)\u037e or (c) Company consistently fails to pay bona fide debts as they legally come due, institutes or has instituted against it any bankruptcy, reorganization, debt arrangement, assignment for the benefit of creditors, or other proceeding under any bankruptcy or insolvency Law or dissolution, receivership, or liquidation proceeding (and, if such proceeding is instituted against it, such proceeding is not dismissed within one hundred twenty (120) days), the same shall be deemed a material breach of this Agreement which is not susceptible to cure, and ACSI shall be entitled to terminate this Agreement upon written notice to Company.",
+    "ollama_generated": "10.3   Termination by ACSI. If: (a) ACSI, at any point, becomes involved in any criminal conduct, fraud, dishonesty, or behavior that significantly impacts its own goodwill or reputation, or the goodwill and reputation of its Affiliates or the ACSI Site; (b) ACSI has repeatedly failed to comply with the technical and customer service standards outlined in Section 2.4 [Technical Standards; Customer Service] or has not successfully integrated the ACSI Site Functionality into the Spoken-Word Audio Sub-Section and/or Mirror Company Site as required by the Phase II Development Plan (provided that such failure is not due to actions or omissions on the part of Company); or (c) ACSI encounters financial difficulties, initiates or has initiated any bankruptcy, reorganization, debt arrangement, assignment for the benefit of creditors, or other proceedings under any bankruptcy or insolvency Law, or undergoes receivership, liquidation, or dissolution (and if such proceeding is initiated against ACSI, it is not dismissed within one hundred twenty [120] days), this shall be considered a material breach of this Agreement that cannot be rectified. In these circumstances, the Company shall be given written notice by ACSI, and ACSI shall have the right to terminate this Agreement.",
+    "contradiction_score": 0.03414140269160271,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 65030,
+    "end_char": 65523,
+    "original": "10.5.5  Phase II Development Plan.  Notwithstanding any other provision of this Agreement, the Parties acknowledge and agree that no failure by the Parties to develop the Phase II Development Plan as contemplated by Section 4.1.3   [Phase II]  shall be deemed, in itself, a breach of this Agreement by either Party (and therefore that such occurrence shall not, in itself, give rise to any of the remedies specified in Section 10.5.1   [General]  or Section 10.5.2   [Effect of Termination] ).",
+    "ollama_generated": "10.5.5 Phase II Development Plan. Notwithstanding any other provision within this Agreement, the Parties acknowledge and mutually agree that the omission of either Party to produce the Phase II Development Plan as stipulated by Section 4.1.3 [Phase II] shall not be construed as a violation of this Agreement by either Party (thus, such an event will not independently trigger any remedies outlined in Section 10.5.1 [General] or Section 10.5.2 [Consequences upon Termination]). Instead, it is understood that the development plan's absence does not constitute a breach of contract, unless proven otherwise through additional evidence.",
+    "contradiction_score": 0.0021803569979965687,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 65659,
+    "end_char": 65709,
+    "original": "Section  11.  Miscellaneous 11.1    Tax Treatment.",
+    "ollama_generated": "Section 11. Miscellaneous\n11.1 Tax Responsibilities Shifted.\n\nIn the spirit of fairness and transparency, it is hereby agreed that any tax liabilities arising from the transactions detailed in this contract shall be solely borne by the party receiving the financial benefits derived therefrom. This includes, but is not limited to, income taxes, value-added taxes, and any other applicable levies or duties. The responsible party shall provide all necessary documentation and comply with all relevant tax regulations, while the other party shall offer no assistance in this regard, except for the sharing of information already publicly available.",
+    "contradiction_score": 0.018898600712418556,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 70176,
+    "end_char": 70393,
+    "original": "11.5     Costs.  Except as expressly provided herein, each Party will be responsible for all costs and expenses incurred by it in connection with the negotiation, execution, delivery and performance of this Agreement.",
+    "ollama_generated": "11.5 Expenditures. Save for the costs explicitly outlined within this agreement, the onus of covering all expenses and fees accrued during the negotiation, drafting, signing, distribution, and execution of this contract lies primarily with each Party, except where such expenses are deemed necessary by mutual consent and arrangement between the Parties.",
+    "contradiction_score": 0.003972999751567841,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 76801,
+    "end_char": 76984,
+    "original": "[***]                                    [***] --------------- ***Confidential Information  has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "[***]                                    [***] - The disclosure of Non-Public Information, as defined in the attached confidentiality agreement, will be subject to proper filing with the Securities and Exchange Commission, prior to any such disclosure.\n\nThis revised clause shifts the responsibility from the recipient to the discloser, ensuring that any non-public information disclosed is properly filed with the SEC beforehand.",
+    "contradiction_score": 0.042489517480134964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 77031,
+    "end_char": 77068,
+    "original": "Source: AUDIBLE INC, 10-Q, 11/13/2000",
+    "ollama_generated": "Clause (Revised):\n\nSource: [REVISED] AMAZON MUSIC, 10-K, 12/31/2022\n\nIn the event that a Customer's payment method is declined or invalid, or if any other issue arises that prevents Amazon Music from charging for a subscription or any other fees owed, the onus shall not lie solely with the Customer to promptly rectify the matter. Instead, Amazon Music acknowledges its responsibility to:\n\n1. Provide clear and timely communication to the Customer about the payment issue, including the reason for the problem, the steps necessary to resolve it, and any potential consequences if action is not taken within a reasonable timeframe.\n2. Attempt to update the Customer's billing information by using alternative payment methods or contacting their bank or financial institution for assistance, as long as such actions do not require Amazon Music to incur additional costs beyond those normally associated with customer service.\n3. Suspend the account in good faith while endeavoring to find a resolution, ensuring that access to Amazon Music's services remains available once payment has been successfully processed again. However, Amazon Music reserves the right to terminate the subscription if the issue persists for an extended period without cooperation from the Customer.\n4. Offer flexible grace periods and, where possible, waive any late fees or penalties accrued due to a declined or invalid payment method. Amazon Music may, in its sole discretion, decide not to extend such leniency if it determines that the Customer's actions were deliberately intended to evade payments.\n5. Maintain records of all communications and actions taken related to this clause for potential use in any future disputes or litigation arising from unpaid fees or charges. Amazon Music will make these records available upon reasonable request by the Customer, subject to applicable privacy laws and regulations.",
+    "contradiction_score": 0.470150351524353,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

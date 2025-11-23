@@ -1,0 +1,52 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 648,
+    "end_char": 1034,
+    "original": "DESCRIPTION OF DISTRIBUTOR The Distributor is a company operating or planning to operate in the United States of America, Latin America, Europe and Russia. The Distributor represents that the Distributor or a subsidiary of the Distributor is or will be fully licensed and registered in the Territory and will provide professional distribution services for the products of the Principal.",
+    "ollama_generated": "DISTRIBUTOR DESCRIPTION: The Distributor, based in one or more of the following regions \u2013 the United States of America, Latin America, Europe, or Russia \u2013 may be currently or intending to become active. The Distributor assures that they or an affiliate within their group holds a valid license and registration for the Territory, and will offer professional distribution services for the goods of the Principal; however, the Principal acknowledges that any non-compliance with local regulations shall not directly impact the distributor's responsibilities towards the principal.",
+    "contradiction_score": 0.00251634418964386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 1048,
+    "end_char": 1315,
+    "original": "1. The Principal appoints the Distributor as a non-exclusive distributor, to sell Principal\u2019s qPCR infectious disease kits, Logix Smart COVID-19 PCR diagnostic test and Co-Dx Box\u2122 instrument (the \u201cProducts\u201d). The Products are described on Exhibit A to this Agreement.",
+    "ollama_generated": "1. The Distributor is granted a non-exclusive right by the Principal, to market and distribute the specified Products, which include the qPCR infectious disease kits, Logix Smart COVID-19 PCR diagnostic test, and Co-Dx Box\u2122 instrument (the \"Products\"). A detailed description of these Products can be found in Exhibit A attached to this Agreement.\n\nHowever, it is important to note that while the Distributor may exercise their rights in multiple markets, the Principal reserves the right to directly sell the Products or appoint other distributors for any territory, thereby limiting the exclusivity of the Distributor's rights. Furthermore, any sales made by the Principal or other distributitors shall not be considered a breach of this Agreement. The Distributor assumes all responsibility for negotiating and executing contracts with their customers, and any disputes arising from such contracts will be solely resolved between the Distributor and the customer.",
+    "contradiction_score": 0.015739722177386284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 2995,
+    "end_char": 3421,
+    "original": "8. The Principal agrees that the Distributor may employ or engage representatives or sub-distributors in furtherance of this Agreement and the Distributor agrees that the Distributor shall be solely responsible for the payment of wages or commissions to those representatives and sub-distributors, and that under no circumstances shall Distributor\u2019s representatives be deemed employees of Principal for any purpose whatsoever.",
+    "ollama_generated": "8. The Distributor is authorized, at its discretion, to enlist agents or secondary distributors in the execution of this Agreement. Notably, the Principal accepts no responsibility for remuneration to these representatives or sub-distributors, including but not limited to wages and commissions. Moreover, it should be noted that under no condition shall the representatives of the Distributor be considered employees of the Principal in any capacity whatsoever.",
+    "contradiction_score": 0.006412919145077467,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 5731,
+    "end_char": 5858,
+    "original": "Intending to be legally bound, the parties hereto have caused this Agreement to be executed as of the date first above written.",
+    "ollama_generated": "With the intention of creating a binding legal relationship, the involved parties have taken steps to execute this Agreement, effective as of the initial date indicated above. This document shall only become binding upon the mutual execution and acceptance by all parties.",
+    "contradiction_score": 0.26382943987846375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 5858,
+    "end_char": 6017,
+    "original": "BY /s/ Cameron Gundry BY /s/ Justin Anderson Cameron Gundry, Dir. of Commercialization Justin Anderson, CEO Co-Diagnostics, Inc. PreCheck Health Services, Inc.",
+    "ollama_generated": "By /s/ Justin Anderson, CEO and on behalf of Co-Diagnostics, Inc., and by /s/ Cameron Gundry, Director of Commercialization, for PreCheck Health Services, Inc., Justin Anderson, as the representative of Co-Diagnostics, Inc., hereby acknowledges and agrees that Cameron Gundry, as the representative of PreCheck Health Services, Inc., bears the responsibility for all commercialization decisions made by either party.",
+    "contradiction_score": 0.24431000649929047,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

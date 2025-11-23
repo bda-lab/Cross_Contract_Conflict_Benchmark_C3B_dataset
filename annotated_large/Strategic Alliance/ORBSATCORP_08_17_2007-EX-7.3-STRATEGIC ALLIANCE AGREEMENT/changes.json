@@ -1,0 +1,141 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 374,
+    "end_char": 522,
+    "original": "WHEREAS, AVDU desires to engage UTK to provide the services as set forth in this Agreement, and WHEREAS, UTK is agreeable to provide these services.",
+    "ollama_generated": "WHEREAS, UTK expresses its willingness to render the services detailed within this Agreement upon request from AVDU, and WHEREAS, AVDU acknowledges the acceptance of such services by UTK subject to the terms and conditions set forth herein.",
+    "contradiction_score": 0.0009315548231825233,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 1621,
+    "end_char": 1799,
+    "original": "C.Notwithstanding the above, no activity, venture, business or other pursuit of UTK, during the term of this Agreement shall conflict with UTK\u2019s obligations under this Agreement.",
+    "ollama_generated": "C. Despite the preceding provisions, any activity, endeavor, enterprise, or undertaking pursued by UTK throughout the duration of this Agreement may align with, rather than necessarily conflicting with, their obligations under this Agreement.",
+    "contradiction_score": 0.024589022621512413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 2225,
+    "end_char": 2484,
+    "original": "B.UTK cannot guarantee results on behalf of AVDU, but shall pursue all reasonable avenues available through its network of contacts. The acceptance and consumption of any transaction is subject to acceptance of the terms and conditions by its sole discretion.",
+    "ollama_generated": "B.UTK does not warrant or guarantee the outcomes in relation to AVDU, but will endeavor to explore all practicable means within its disposal through its connections and resources. Any transaction initiated is subject to acceptance of the terms and conditions by AVDU's sole discretion, with B.UTK having no obligation to execute the transaction unless explicitly agreed otherwise in writing.",
+    "contradiction_score": 0.0014060467947274446,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 2497,
+    "end_char": 2547,
+    "original": "C.In conjunction with the Services, UTK agrees to:",
+    "ollama_generated": "C. While availing the Services, UTK shall be at liberty to opt out of specific tasks or responsibilities, provided that such opt-out does not materially impact the overall performance and delivery of the Services. Any decision to devolve certain tasks or responsibilities shall be made in consultation with the Service Provider.",
+    "contradiction_score": 0.30050724744796753,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 2547,
+    "end_char": 2770,
+    "original": "1.Make itself available at the offices of AVDU or at another mutually agreed upon place, during normal business hours, for reasonable periods of time, subject to reasonable advance notice and mutually convenient scheduling.",
+    "ollama_generated": "1. Upon request by either party, the other party shall provide access to their premises, whether AVDU's offices or an agreed-upon alternative location, during extended business hours, for prolonged durations as necessary, given a reasonable advance notice and with due consideration to each party's scheduling constraints. (This revision suggests that the duration of availability may be longer, and the scheduling flexibility is shared between both parties.)",
+    "contradiction_score": 0.23069144785404205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 5072,
+    "end_char": 5225,
+    "original": "F.CORPORATE AUTHORITY. Both AVDU and UTK have full legal authority to enter into this Agreement and perform the same in the time and manner contemplated.",
+    "ollama_generated": "AUTHORITY OF PARTIES. Each of AVDU and UTK acknowledges and warrants they possess all necessary power, authority, and capacity to execute this Agreement, and that no other party's consent is required for such execution or performance. Any actions taken by either party under this Agreement shall be deemed valid, binding, and in compliance with their internal procedures and legal obligations, except where expressly provided otherwise herein.",
+    "contradiction_score": 0.14288915693759918,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 6126,
+    "end_char": 6318,
+    "original": "K.Until termination of the engagement, AVDU will notify UTK promptly of the occurrence of any event, which might materially affect the condition (financial or otherwise), or prospects of AVDU.",
+    "ollama_generated": "M.For the duration of this engagement, UTK shall be informed by AVDU in a timely manner of any event that may potentially, albeit not necessarily, have a significant impact on the financial or operational status, or future outlook, of AVDU, with said notification to occur as soon as such event comes to AVDU's attention.\n\nIn this revised clause, the obligation is shifted from AVDU to UTK, implying that UTK will now be responsible for being informed about any significant events affecting AVDU, instead of the opposite in the original clause. Furthermore, the language has been kept professional and fluent while slightly changing the meaning.",
+    "contradiction_score": 0.013112589716911316,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 7331,
+    "end_char": 7799,
+    "original": "C.UTK shall not be required in the performance of its duties to divulge to AVDU, or any officer, director, agent or employee of AVDU, any secret or confidential information, knowledge, or data concerning any other person, firm or entity (including, but not limited to, any such person, firm or entity which may be a competitor or potential competitor of) which UTK may have or be able to obtain other than as a result of the relationship established by this Agreement.",
+    "ollama_generated": "C.UTK is granted discretionary authority in the execution of its responsibilities, and may choose not to disclose to AVDU, or any representative thereof (officers, directors, agents, or employees), any non-public information, insights, or data that it possesses or could obtain, pertaining to any third party, whether a competitor or potential competitor, except when such information is obtained through the context of this Agreement.",
+    "contradiction_score": 0.03555436432361603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 7851,
+    "end_char": 8231,
+    "original": "1.UTK shall indemnify, defend and hold harmless AVDU from and against any and all losses incurred by AVDU which arise out of or result from misrepresentation, breach of warranty or breach or non- fulfillment of any covenant contained herein or Schedules annexed hereto or in any other documents or instruments furnished by UTK pursuant hereto or in connection with this Agreement.",
+    "ollama_generated": "1.AVDU shall have the right to seek indemnification, legal defense, and be free from liability against UTK for any losses sustained by AVDU that originate from or are caused by misrepresentations, breaches of warranty, or failures to meet covenants outlined within this Agreement, the Schedules appended herein, or any other documents or instruments provided by UTK in relation to this Agreement. UTK assumes the responsibility for such claims made against AVDU.",
+    "contradiction_score": 0.1570787876844406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 10764,
+    "end_char": 10935,
+    "original": "G.ORIGINALS. This Agreement may be executed in any number of counterparts, each of which so executed shall be deemed an original and constitute one and the same agreement.",
+    "modified": "G.AMENDED COPIES. Any portion of this Agreement may be signed separately by the parties, with each such signed copy being regarded as a valid and binding amended copy, collectively representing a single unified agreement. The absence of physical counterparts shall not impede the enforceability of this Agreement.",
+    "contradiction_score": 0.8735840320587158,
+    "kept": true
+  },
+  {
+    "clause_index": 50,
+    "start_char": 11529,
+    "end_char": 11939,
+    "original": "J.MODIFICATION AND WAVIER. A modification or waiver of any of the provisions of this Agreement shall be effective only if made in writing and executed with the same formality as this Agreement. The failure of any party to insist upon strict performance of any of the provisions of this Agreement shall not be construed as a waiver of any subsequent default of the same or similar nature or of any other nature.",
+    "ollama_generated": "MODIFICATION AND WAIVER PROVISIONS. Any modification or waiver of the terms contained within this Agreement must be made in writing and affixed with the same level of formalities as this contract. A party's forbearance from enforcing strict compliance with any provision of this Agreement shall not be interpreted as a waiver of the right to enforce future instances, similar or otherwise, or of any other rights established under this Agreement.",
+    "contradiction_score": 0.005859768018126488,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 14262,
+    "end_char": 14501,
+    "original": "Term: The term of the Agreement will be for 12 months unless terminated sooner. This Agreement may be renewed upon mutual, written agreement of the parties. Either party may terminate this agreement at any time with 30 days written notice.",
+    "ollama_generated": "Term: This Agreement shall initially last for a period of twelve months, subject to early termination by either party upon providing thirty days' written notice. The possibility of renewing this Agreement exists if and only when both parties express their consent in writing.\n\nThis revised version maintains the original's professional tone while slightly modifying the obligation by shifting the focus towards early termination, which can now be initiated by either party at any time, and emphasizing that the renewal of the agreement depends on the mutual written agreement of both parties.",
+    "contradiction_score": 0.009945977479219437,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 15625,
+    "end_char": 15831,
+    "original": "vii.On a case-by-case basis, at AVDU\u2019s request and UTK\u2019s sole discretion, UTK will propose an equity-financing plan for AVDU\u2019s consideration, to finance select technology acquisition opportunities for AVDU.",
+    "ollama_generated": "vii. Upon AVDU's expressed interest and at UTK's convenience, UTK may suggest a potential equity-financing strategy, which, while not binding on UTK, would be presented for AVDU's review, aimed at funding select technology acquisition prospects that AVDU deems suitable.",
+    "contradiction_score": 0.0012486622435972095,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 18120,
+    "end_char": 18350,
+    "original": "/s/ Clifford M. Gross /s/ Benjamin C. Croxton UTEK Corporation  World Energy Solutions Clifford M. Gross, Ph.D.  Benjamin C. Croxton Chief Executive Officer  Chief Executive Officer Date: September 9, 2005  Date: September 9, 2005",
+    "ollama_generated": "/s/ Clifford M. Gross /s/ Benjamin C. Croxton UTEK Corporation  World Energy Solutions\nClifford M. Gross, Ph.D., Chief Executive Officer  Benjamin C. Croxton, Chief Executive Officer\nDate: September 9, 2005  Date: September 9, 2005\n\nRewritten Clause:\nIn the event of any dispute arising out of this agreement, the responsibility for resolving such disputes shall primarily lie with the parties involved. However, if they fail to reach a resolution amicably within a reasonable timeframe, either party may opt to seek external mediation or arbitration, at their sole discretion and cost.\n\nIn essence, while both parties are expected to make good-faith efforts to resolve disputes internally, the ultimate responsibility for engaging external third-party services lies with each party individually, should they deem it necessary.",
+    "contradiction_score": 0.003335644258186221,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

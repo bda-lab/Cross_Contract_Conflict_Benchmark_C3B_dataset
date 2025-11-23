@@ -1,0 +1,329 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 2354,
+    "end_char": 2567,
+    "original": "1.2 \u201cApproved Production Specifications \u201d means those materials, processes and workmanship specifications of Manufacturing Subcontractors as approved by ENERGOUS for the manufacture and production of the Products.",
+    "ollama_generated": "1.2 \"Approved Production Specifications\" refers to the manufacturing and production guidelines, including materials and methods, as established by ENERGOUS and deemed acceptable by them for the fabrication of the Products, as per specifications provided by Manufacturing Subcontractors.",
+    "contradiction_score": 0.0010168043663725257,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 4039,
+    "end_char": 4793,
+    "original": "1.6 \u201cDocumentation \u201d means all information that is necessary or useful to support DIALOG\u2019s authorized manufacture, testing, sale and support of the Products, including but not limited to Product Specifications, data sheets, application notes, application board gerber files/BOM, sales and marketing collateral, Product errata, test reports, characterization reports, software (e.g., firmware, GUI), test plans and yield data in connection with the manufacture and sale of Products, Approved Production Specifications, test and characterization programs and associated documentation reasonably required to have Products manufactured, assembled and tested, designs of all Tooling and all other items reasonably required for the manufacture of the Products.",
+    "ollama_generated": "1.6 \"Documentation\" encompasses all data essential or advantageous for third-party parties to reproduce, test, market, and support the given Products according to DIALOG's authorization, including (yet not limited to) Product Specifications, datasheets, application notes, application board gerber files/BOM, sales and marketing materials, Product errata, test reports, characterization reports, software (e.g., firmware, GUI), test plans, yield data relevant for the production and sale of Products, Approved Production Specifications, manufacturing and testing programs along with related documentation necessary to facilitate third-party manufacture, assembly, and testing of the Products, designs of all Tooling and any additional items reasonably requested for the manufacturing process of the Products. (In this context, it is understood that the responsibility for providing such Documentation lies primarily with DIALOG.)",
+    "contradiction_score": 0.003288735169917345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 5553,
+    "end_char": 6204,
+    "original": "1.8 \u201cInsolvency Event \u201d means (a) without a successor, the specified party fails to function as a going concern or to operate in the ordinary course, or (b) other than in the case when the specified party is a debtor-in-possession and continuing to fulfill all its obligations under this Agreement, a receiver or trustee in bankruptcy is appointed for such party or its property, or such party makes a general assignment for the benefit of its creditors, or such party commences, or has commenced against it, proceedings under any bankruptcy, insolvency or debtor\u2019s relief law, in each case which proceedings are not dismissed within ninety (90) days.",
+    "ollama_generated": "1.8 \"Financial Distress Event\" denotes the occurrence of any one or more of the following circumstances regarding the specified party:\n\n(a) The specified party ceases to operate as a going concern, fails to carry on business in the ordinary course, or becomes subject to any form of court-supervised reorganization or similar proceedings;\n\n(b) A receiver, trustee, liquidator, or other similar agent is appointed for the specified party or its assets, not including a case where the specified party acts as a debtor-in-possession and continues to fulfill all its obligations under this Agreement;\n\n(c) The specified party initiates, or has initiated, any proceedings under bankruptcy, insolvency, or debt relief law that have not been dismissed within ninety (90) days, regardless of whether the specified party is the filing party;\n\n(d) The specified party enters into an agreement with its creditors for the benefit of such creditors, or takes any other action indicating an inability to meet its financial obligations as they become due.",
+    "contradiction_score": 0.17033801972866058,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 7982,
+    "end_char": 8112,
+    "original": "1.15 MCM means a multichip module, being a single package that includes multiple integrated circuit dies, including a Product die.",
+    "ollama_generated": "1.15 In this Agreement, \"MCM\" refers to a Multichip Carrier, which is a combined packaging solution that may incorporate several Integrated Circuit dice, among which the Product's die is included.",
+    "contradiction_score": 0.306708961725235,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8112,
+    "end_char": 8453,
+    "original": "1.16 \u201cNet Sales \u201d means the invoiced amounts for the Sale of Products less: (a) amounts credited for return of any such Products\u037e (b) amounts separately stated with respect to shipment of such Products for insurance, handling, duty, freight, and taxes\u037e and (c) any discounts, credits or rebates in the relevant royalty or service fee period.",
+    "ollama_generated": "1.16 \"Gross Sales\" refers to the total amounts billed for the purchase of Products, inclusive of: (a) any credits granted for returned Products; (b) costs specifically itemized concerning shipping, insurance, handling, customs duty, transport, and taxes associated with such Products; and (c) any discounts, price reductions, or refunds that have been applied in the relevant royalty or service fee duration, but excluding the initial sale value. The Buyer shall be responsible for deducting these amounts from the Gross Sales to calculate Net Sales for purposes of this Agreement.",
+    "contradiction_score": 0.449125200510025,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 9377,
+    "end_char": 9837,
+    "original": "* Confidential Treatment Requested Page 3 1.21 \u201cProducts \u201d means the ENERGOUS products set forth in  Exhibit A , as such Exhibit may be amended from time to time by mutual agreement between the parties, that have been released by ENERGOUS to production, including all Product Updates, which will be deemed to have been added to  Exhibit A  automatically, without any further action required by the parties, immediately following the release to production date.",
+    "ollama_generated": "1.21 \"Products\" encompass the ENERGOUS items listed in Exhibit A, as may be amended mutually between the parties over time, comprising all ENERGOUS products that have been made publicly available for use, along with any subsequent updates or revisions of such Products. The addition of new Products Updates will be automatically incorporated into Exhibit A without the necessity of further action from the parties upon their public release date by ENERGOUS. This definition assumes that all Products and updates are considered confidential unless explicitly stated otherwise in writing by ENERGOUS or mutually agreed upon in writing between the parties.",
+    "contradiction_score": 0.007738741114735603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 9928,
+    "end_char": 10449,
+    "original": "1.23 \u201cProduct IP \u201d means (a) all Intellectual Property Rights in and to the Products, including all Product Updates, (b) any other Inventions and work products created or developed in connection with research and development or manufacturing efforts relating to the Products, including all Intellectual Property Rights therein and (c) all Intellectual Property Rights in and to the Mask Sets and Tooling, in each of the foregoing cases, that are owned or controlled by ENERGOUS, its Affiliates or any successor or assign.",
+    "modified": "1.23 \"Licensed IP\" refers to (a) all Intellectual Property Rights pertaining to the Products, including all Product Updates, (b) any other Inventions and creative works generated during the course of research, development, or manufacturing related to the Products, as well as all Intellectual Property Rights associated with these works, and (c) all Intellectual Property Rights concerning the Mask Sets and Tooling, in each case, where ENERGOUS, its Affiliates, or any subsequent owner holds or manages the rights, provided that such ownership or control arises either directly or through assignment.",
+    "contradiction_score": 0.7681025862693787,
+    "kept": true
+  },
+  {
+    "clause_index": 32,
+    "start_char": 12392,
+    "end_char": 12770,
+    "original": "1.26 \u201cSale,\u201d \u201cSell\u201d or \u201cSold\u201d mean the sale, transfer, exchange or other disposition of Products, by DIALOG or any of its Affiliates to any customer or other third party, directly or indirectly through one or more tiers of distribution, for consideration that is recognized as revenue by DIALOG or its Affiliates according to applicable generally accepted accounting principles.",
+    "ollama_generated": "1.26 \"Transaction,\" \"Transfer\" or \"Disposal\" encompasses the sale, assignment, barter, or other form of conveyance of Products, whether initiated by DIALOG or any of its Affiliates, to any entity or external party, including but not limited to multi-tier distribution channels. This action may result in receipt of compensation that is, at the discretion of DIALOG or its Affiliates, recognized as revenue under generally accepted accounting principles, though recognition of such revenue shall not be a prerequisite for the occurrence of this definition.",
+    "contradiction_score": 0.09797607362270355,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 15608,
+    "end_char": 15799,
+    "original": "(a) [***]\u037e * Confidential Treatment Requested Page 5 (b) [***]\u037e (c) [***]\u037e (d) [***]\u037e and (e) [***] designed for use with any of the applications in paragraphs (a) to (d) of this Section 2.2.",
+    "ollama_generated": "Clause:\n(a) [***] ; * Confidentiality is voluntarily assumed by the recipient on Page 5 (b) [***] ; (c) [***] ; (d) [***] ; and (e) [***] are to be used at the discretion of the user, but it is acknowledged that they may potentially function with any of the applications mentioned in paragraphs (a) through (d) under Section 2.2, rather than being explicitly designed for such use.\n\nIn this rewritten clause, the obligation has been shifted to the recipient to assume confidentiality voluntarily, and the software's functionality is now acknowledged rather than explicitly stated as designed for specific applications.",
+    "contradiction_score": 0.01781761646270752,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 16205,
+    "end_char": 16368,
+    "original": "2.3 Exceptions to Excluded Applications . The following applications are exceptions to and excluded from the Excluded Applications (the \u201cPermitted Applications \u201d):",
+    "modified": "2.3 Applications Included in the Scope: The scope of this agreement includes the following applications, which are specifically included within the definition of the Included Applications (\"Excluded Applications\"):\n\nIn this revised version, I've shifted the focus from excluding certain applications to instead including specific applications within the scope of the agreement. This subtle change weakens the initial clause by making it more inclusive rather than exclusive, as it now specifically mentions the applications that are part of the agreement.",
+    "contradiction_score": 0.8842611312866211,
+    "kept": true
+  },
+  {
+    "clause_index": 45,
+    "start_char": 16368,
+    "end_char": 16481,
+    "original": "(a) [***]\u037e (b) [***]\u037e (c) [***]\u037e (d) [***]\u037e (e) [***]\u037e (f) [***]\u037e (g) [***]\u037e (h) [***]\u037e (i) [***]\u037e and (j) [***].",
+    "ollama_generated": "(a) The Parties shall endeavor to fulfill their respective obligations as outlined herein; however, no Party shall be liable for any delay or failure resulting from unforeseen circumstances beyond their reasonable control.\n   (b) Each Party shall maintain all necessary licenses, permits, and approvals related to its obligations under this Agreement. Any new requirements or changes thereto shall be the sole responsibility of the affected Party to obtain.\n   (c) [***] is responsible for procuring and maintaining any equipment, software, or services necessary for the performance of its obligations hereunder, at its own cost and expense. The other Party shall not be responsible for any equipment, software, or service failures.\n   (d) [***] shall provide all necessary support, assistance, and cooperation to enable the other Party to fulfill its obligations under this Agreement.\n   (e) Any modifications, amendments, or additions to this Agreement must be in writing and signed by both Parties.\n   (f) This Agreement constitutes the entire understanding between the Parties regarding the subject matter hereof. Any prior understandings, agreements, or representations are superseded by this Agreement.\n   (g) If any provision of this Agreement is determined to be invalid or unenforceable, all other provisions shall remain in full force and effect.\n   (h) The Parties acknowledge that they have had the opportunity to seek independent legal advice prior to executing this Agreement.\n   (i) Any notices, demands, or communications required or permitted under this Agreement shall be in writing and delivered personally, by courier service, by facsimile, or email.\n   (j) This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. No Party may waive any rights under this Agreement without the written consent of the other Party.",
+    "contradiction_score": 0.2735588252544403,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 16481,
+    "end_char": 17191,
+    "original": "The fact that a [***] has [***] does not automatically preclude such device from falling under paragraphs (b), (c) and (d) of this Section 2.3 2.4 Sublicenses . DIALOG may sublicense the foregoing license rights to any of its Affiliates. DIALOG will be responsible for the observance and performance by all such Affiliates of all of DIALOG\u2019s obligations pursuant to this Agreement. DIALOG may sublicense the foregoing license rights to Manufacturing Subcontractors solely to the extent necessary and appropriate for them to manufacture, assemble, test and provide support for the Products. DIALOG may not sublicense the foregoing license rights to any other third party without ENERGOUS\u2019 prior written consent.",
+    "ollama_generated": "The existence of a [***] in a given device does not necessarily exclude it from being subject to paragraphs (b), (c) and (d) of Section 2.3, 2.4 Sublicenses. ENERGOUS grants DIALOG the authority to sub-license the stipulated license rights to any of its Affiliates. However, ENERGOUS shall not bear responsibility for the compliance and fulfillment by these Affiliates of all obligations stipulated in this Agreement; rather, it is DIALOG's obligation to ensure such compliance.\n\nDIALOG may sub-license the aforementioned license rights only to Manufacturing Subcontractors, with the limitation that such sub-licensing is solely for the purpose of manufacturing, assembling, testing, and providing support for the Products. DIALOG is not permitted to transfer these license rights to any third party without first obtaining ENERGOUS' prior written consent.",
+    "contradiction_score": 0.04821425676345825,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 17666,
+    "end_char": 17793,
+    "original": "(b) ENERGOUS will use its diligent, good faith efforts to promote DIALOG as the preferred supplier of Products and Product Die.",
+    "ollama_generated": "(b) While DIALOG is encouraged to work collaboratively with ENERGOUS, it is understood that ENERGOUS shall not be held accountable for actively promoting DIALOG as the preferred supplier of Products and Product Die, but rather, ENERGOUS will make reasonable efforts to do so.",
+    "contradiction_score": 0.012095279060304165,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 17793,
+    "end_char": 18638,
+    "original": "However, ENERGOUS is allowed to engage with a Semiconductor Supplier to supply comparable products or product die to a customer if either (i) the customer which has not been engaged with DIALOG with respect to such product or product die notifies ENERGOUS or DIALOG in writing by an authorized officer of the customer that it does not want to use DIALOG or a DIALOG Affiliate as a supplier of such product or product die\u037e or (ii) if DIALOG has been engaged with the customer, the customer notifies ENERGOUS or DIALOG in writing prior to commencement of the Design-In Phase that it does not want to use DIALOG or a DIALOG Affiliate as a supplier of such product or product die. For clarity, ENERGOUS shall not intentionally supply Products, Product Die or comparable products or product die to customers directly or through distribution channels.",
+    "ollama_generated": "Notwithstanding the foregoing, ENERGOUS retains the discretion to procure semiconductor products or product dies from alternate suppliers, provided that: (a) the customer has not entered into an agreement with DIALOG regarding such product or product die and explicitly communicates in writing, through an authorized officer, its preference for a supplier other than DIALOG or a DIALOG Affiliate; or (b) if a prior agreement exists between DIALOG and the customer, the customer expresses its intent in writing before the onset of the Design-In Phase to opt for a supplier other than DIALOG or a DIALOG Affiliate. It is understood that ENERGOUS may unintentionally supply Products, Product Dies, or comparable items to customers directly or indirectly through distribution channels under extraordinary circumstances where the aforementioned conditions are met.",
+    "contradiction_score": 0.22923137247562408,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 18642,
+    "end_char": 18656,
+    "original": "2.6 Branding .",
+    "ollama_generated": "2.6 Use of Branding \u2013 Modification:\n\nThe Client shall have the right to use the Service Provider's branding only in the manner and to the extent that it does not exceed the expressly granted permissions, and any misuse or unauthorized alteration shall be at the sole discretion and responsibility of the Client. The Client assumes full liability for any potential harm or damage arising from such use, with the Service Provider being exempted from any claims or lawsuits resulting from the Client's actions.",
+    "contradiction_score": 0.08617184311151505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 19566,
+    "end_char": 20154,
+    "original": "(c) Use of Licensor\u2019s Marks will be subject to the following terms and conditions: (i) all goodwill generated by use of Licensor\u2019s Marks by Licensee will inure to the benefit of Licensor\u037e (ii) Licensee will use Licensor\u2019s Marks only in such forms and with such graphics as authorized by Licensor\u037e and (iii) Licensee will identify Licensor\u2019s Marks as being owned by Licensor and will (A) cause the symbol \u201c\u00ae\u201d to appear adjacent to and slightly above any registered Licensor Mark, or (B) alternatively, for any Licensor Marks that are not registered, the symbol \u201cTM\u201d or \u201cSM\u201d, as applicable.",
+    "ollama_generated": "(c) The utilization of Licensor's Trademarks shall be contingent upon the following stipulations: (i) Licensor acknowledges and accepts that a portion of the goodwill generated by Licensee's use of Licensor's Trademarks may benefit Licensee; (ii) Licensor will grant authorization for the specific forms and graphics to be used in conjunction with their Trademarks, as determined by Licensee; and (iii) Licensee shall identify Licensor's Trademarks as proprietary to Licensor. This identification shall include the symbol \u201c\u00ae\u201d adjacent to and slightly above any registered Licensor Trademark, or alternatively, for any unregistered Licensor Trademarks, the symbol \u201cTM\u201d or \u201cSM\u201d, as applicable, clearly indicating Licensee's acknowledgement of Licensor's ownership rights.",
+    "contradiction_score": 0.013123721815645695,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 24694,
+    "end_char": 25620,
+    "original": "4.2 Commercialization Meetings . The parties will meet regularly, but at least once each month during the Term, either in person or by telephone, video or internet conference call, to share technical and commercial information as reasonably required to facilitate the parties\u2019 exercise of their respective rights and performance of their respective obligations under this Agreement. The information shared by the parties will include, but is not limited to (a) market and competitive dynamic updates, (b) activities and progress updates at DIALOG\u2019s customers, (c) technical review and feedback from customers, (d) non-binding 12 month rolling Sales and Royalty and Service Fee forecasts for the Licensed Products, (e) initiatives to boost sales potential for the Licensed Products. Customer information shared will be within the limits allowed by any non-disclosure agreements DIALOG may have entered into with such customers.",
+    "ollama_generated": "4.2 Commercialization Meetings . While it is anticipated that the parties will meet regularly, the frequency and mode of these meetings (in person or via telephone, video or internet conference calls) shall be determined by mutual agreement between the parties. These meetings are intended to support the exercise of the parties' rights and fulfillment of their obligations under this Agreement, but are not mandatory unless expressly agreed upon by both parties. The information shared during these meetings will include, but is not limited to (a) market and competitive dynamic updates, (b) activities and progress updates at DIALOG\u2019s customers, (c) technical review and feedback from customers, (d) non-binding 12 month rolling Sales and Royalty and Service Fee forecasts for the Licensed Products, (e) initiatives to boost sales potential for the Licensed Products. It is understood that any customer information shared will be subject to the limitations imposed by any non-disclosure agreements DIALOG may have with such customers. The obligation to hold these meetings lies primarily with DIALOG, but both parties are expected to actively participate and contribute.",
+    "contradiction_score": 0.0032797246240079403,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 32584,
+    "end_char": 33548,
+    "original": "(b) In the event that ENERGOUS does not receive Federal Communications Commission approval of any Licensed Product for power transmission [***] by the [***], (i) ENERGOUS may provide written notice to DIALOG which references this Section 8.2(b) and indicates ENERGOUS\u2019 intention to enable one or more Semiconductor Suppliers to supply Products for [***]\u037e and (ii) DIALOG may provide written notice to ENERGOUS which references this Section 8.2(b) and indicates DIALOG\u2019s intention to sell, distribute or work with one or more third parties to develop products incorporating Uncoupled Power Transfer Technology for [***]. [***] following the date such notice is given pursuant to Section 20.1, the restrictions in Section 8.2(a) shall no longer apply to DIALOG for Uncoupled Power Transfer Technology in [***] and the restrictions relating to enabling a Semiconductor Supplier in Section 2.5(a) shall no longer apply to ENERGOUS for Products or Product Die in [***].",
+    "ollama_generated": "(b) If Federal Communications Commission approval of any Licensed Product for power transmission by the specified date is not obtained by ENERGOUS, the following provisions will apply:\n\n(i) ENERGOUS may send written notice to DIALOG, referencing this Section 8.2(b), and communicate its intention to authorize one or more Semiconductor Suppliers to supply Products for [***].\n\n(ii) Upon receiving such notice from ENERGOUS, DIALOG retains the right to respond with written notice indicating that it may choose, at its discretion, to engage in activities related to the sale, distribution, or collaboration with third parties for the development of products incorporating Uncoupled Power Transfer Technology for [***].\n\nFrom the date such notice is delivered under Section 20.1, the restrictions in Section 8.2(a) will no longer apply to DIALOG concerning Uncoupled Power Transfer Technology in [***], and ENERGOUS shall be free from the limitations imposed by Section 2.5(a) regarding enabling a Semiconductor Supplier for Products or Product Die in [***]. This clause does not restrict either party from engaging in activities outside the specified territories and product lines, as long as such activities comply with the terms of this agreement.",
+    "contradiction_score": 0.10624729096889496,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 34516,
+    "end_char": 34589,
+    "original": "* Confidential Treatment Requested Page 11 9. ROYALTIES AND SERVICE FEES.",
+    "ollama_generated": "Clause:\n* Confidential Treatment Requested Page 11 9. ROYALTIES AND SERVICE CHARGES ALLEGEDLY DUE.\n\nThis rewritten clause slightly changes the original by introducing a sense of uncertainty or dispute regarding the royalties and service fees that may be due, shifting the responsibility to the other party to prove their validity. However, it remains fluent, realistic, and professional in its tone and structure.",
+    "contradiction_score": 0.00804588571190834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 38551,
+    "end_char": 38829,
+    "original": "9.8 Payment Currency . All payments due under this Agreement will be payable in U.S. Dollars. With respect to Net Sales invoiced in a currency other than U.S. Dollars, the Net Sales will be expressed in the domestic currency of the entity making the Sale, together with the U.S.",
+    "ollama_generated": "9.8 Payment Currency Adjustment: All payments owed under this Agreement shall be receivable, not payable, in U.S. Dollars. For Net Sales billed in a currency other than U.S. Dollars, the Seller shall provide an additional invoice detailing the equivalent U.S. Dollar amount at the prevailing exchange rate on the due date of payment.",
+    "contradiction_score": 0.3774058222770691,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 46072,
+    "end_char": 46943,
+    "original": "(b) The warranty contained in Section 11.2(a) does not apply to the extent any Product is operated in a manner other than that specified by the Product Specifications, is treated with abuse, negligence or other improper treatment (including, without limitation, use outside the device maximum ratings, package MSL (moisture sensitivity level) guidelines or environmental limits as may be set forth in the Product Specifications), or is defective as a result of any materials or workmanship of the Manufacturing Subcontractors or failure of the Manufacturing Subcontractors to manufacture the Product according to Approved Production Specifications. As such, any warranty claims due to defects in build, materials or workmanship will be directed to the Manufacturing Subcontractors as part of that contract between DIALOG or, if applicable, its Affiliate and such parties.",
+    "ollama_generated": "(b) The liability under Section 11.2(a) is limited in cases where a Product deviates from its intended use as outlined in the Product Specifications, experiences misuse, negligence, or improper handling (such as operation beyond the device's maximum ratings, disregard of MSL guidelines, exposure to conditions outside the Product Specifications' environmental limits), or is compromised due to materials or craftsmanship issues from the Manufacturing Subcontractors or manufacturing discrepancies not in accordance with Approved Production Specifications. In such instances, any claims regarding defects in construction, materials, or workmanship shall be directed towards the Manufacturing Subcontractors, as per the agreement between DIALOG or, if relevant, its Affiliate and the respective parties.\n\nThis revision maintains a professional tone while shifting responsibility to the user for certain conditions that void the warranty, and directing any claims toward the Manufacturing Subcontractors in those instances.",
+    "contradiction_score": 0.00947547797113657,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 46943,
+    "end_char": 47266,
+    "original": "(c) With the exception of the warranties in Section 11.2(a)(ii) (third party IP infringement) and Section 11.2(a)(iii) (misappropriation of third party trade secrets) related to any Product Die, the warranties in this Section 11.2 do not apply to MCMs or repackaged Product Die developed by or for DIALOG or its Affiliates.",
+    "ollama_generated": "(c) The warranties outlined in this Section 11.2 shall not extend to MCMs or repackaged Product Dies that are either developed by DIALOG or its Affiliates, except for the express exceptions of the warranties specified in Section 11.2(a)(ii) (third party IP infringement) and Section 11.2(a)(iii) (misappropriation of third party trade secrets) regarding any Product Die. In all other cases, DIALOG or its Affiliates shall not benefit from the warranties provided in this Section 11.2.",
+    "contradiction_score": 0.02552378922700882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 47266,
+    "end_char": 48540,
+    "original": "(d) In the event any warranty claim is due to or arises from an Epidemic Defect, ENERGOUS will be responsible for all costs and expenses directly incurred by DIALOG or its Affiliates or their respective customers as a result of reasonable inspection, servicing, repairs, replacements, recall notices, recalls and responses with respect thereto, provided that ENERGOUS\u2019 aggregate liability to DIALOG and its Affiliates and their respective customers under this paragraph (d) will not exceed [***] per occurrence of an Epidemic Defect. Each party will immediately notify the other upon becoming aware of the circumstance that could reasonably be construed to be an indication of an Epidemic Defect, and, in any event, will notify the other party immediately upon becoming aware of the existence of an Epidemic Defect. ENERGOUS and DIALOG will expeditiously work together in good faith to determine a technical resolution of the Epidemic Failure. ENERGOUS agrees to make all commercially reasonable efforts to promptly diagnose the Epidemic Failure\u2019s root cause, provide DIALOG a report detailing the results of ENERGOUS\u2019 investigation and plan an effective workaround and a permanent solution. ENERGOUS will consult with DIALOG on any proposed workarounds and other solutions.",
+    "ollama_generated": "(d) In the event that an Epidemic Defect is responsible for triggering any warranty claim, it shall be ENERGOUS' obligation to cover all costs and expenses incurred by DIALOG, its Affiliates, or their respective customers as a result of reasonable inspection, servicing, repairs, replacements, recall notices, recalls, and responses related thereto. However, ENERGOUS' total liability towards DIALOG, its Affiliates, and their respective customers under this section (d) shall be limited to [***] per occurrence of an Epidemic Defect. Each party will promptly notify the other upon discovering any circumstances that could potentially suggest an Epidemic Defect, and in all cases, will inform the other party immediately upon confirming the presence of an Epidemic Defect. ENERGOUS and DIALOG are expected to collaborate diligently in good faith to find a technical solution for the Epidemic Failure. ENERGOUS is committed to making every reasonable effort to swiftly identify the root cause of the Epidemic Failure, deliver a report detailing the findings of its investigation, and propose an effective workaround and permanent solution. ENERGOUS will consult DIALOG on all proposed workarounds and solutions.",
+    "contradiction_score": 0.017075248062610626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 50913,
+    "end_char": 53001,
+    "original": "12.1 Indemnification by Energous . Subject to Section 12.2, ENERGOUS agrees to indemnify, hold harmless and, in the case of any third party claims, defend DIALOG and its Affiliates and each of their respective directors, officers, employees, contractors, agents, distributors and customers (collectively, \u201c DIALOG Indemnitees \u201d) from and against and in respect of any and all alleged or actual demands, claims, actions, causes of action, suits or proceedings, assessments, awarded damages (including punitive damages), liabilities, interest and penalties, costs and expenses (including, without limitation, court costs and reasonable legal fees and disbursements in connection therewith) (each, a \u201c Claim\u201d) to the extent resulting from, arising out of, relating to, or imposed upon or incurred by any DIALOG Indemnitees by reason of (a) death or bodily injury caused by or resulting from use of the Products, (b) any breach of any representation or warranty made by ENERGOUS hereunder or to any third party in relation to the Products or Product Die, (c) the infringement or misappropriation of any third party Intellectual Property Rights in relation to the Products or Product Die, (d) the infringement or misappropriation of any third party Intellectual Property Rights as a result of DIALOG\u2019s or its Affiliates\u2019 exercise of rights in accordance with the terms of this Agreement, including, but not limited to, the Manufacturing Subcontractors\u2019 manufacture of the Products on their behalf, provided that the Products are manufactured in strict compliance with the Product Specifications and Approved Production Specifications and only to the extent such Claims arise due to compliance with the Product Specifications and/or the Approved Production Specifications or use of the Tooling provided by ENERGOUS hereunder, (e) the infringement by DIALOG of any third party Marks rights as a result of its authorized use of the ENERGOUS Marks, (f) any failure by ENERGOUS to comply with applicable laws, regulations and standards, or (g) ENERGOUS\u2019 negligence, intentional misconduct or fraud.",
+    "ollama_generated": "12.1 Indemnification Obligation of DIALOG. Subject to Section 12.2, DIALOG shall indemnify, hold harmless and, in the case of any third-party claims, defend ENERGOUS and its Affiliates and each of their respective directors, officers, employees, contractors, agents, distributors, and customers (collectively, \"ENERGOUS Indemnitees\") from and against any and all alleged or actual demands, claims, actions, causes of action, suits or proceedings, assessments, awarded damages (including punitive damages), liabilities, interest, penalties, costs, and expenses (each, a \"Claim\") to the extent resulting from, arising out of, relating to, or imposed upon or incurred by any ENERGOUS Indemnitees by reason of (a) death or bodily injury caused by or resulting from use of the Products by end users, (b) any breach of any representation or warranty made by DIALOG hereunder or to any third party in relation to the Products or Product Die, (c) the infringement or misappropriation of any third-party Intellectual Property Rights in relation to the Products or Product Die, (d) the infringement or misappropriation of any third-party Intellectual Property Rights as a result of ENERGOUS' exercise of rights in accordance with the terms of this Agreement, including, but not limited to, the Manufacturing Subcontractors' manufacture of the Products on their behalf, provided that the Products are manufactured in strict compliance with the Product Specifications and Approved Production Specifications and only to the extent such Claims arise due to non-compliance with the Product Specifications and/or the Approved Production Specifications or use of the Tooling provided by DIALOG hereunder, (e) the infringement by ENERGOUS of any third-party Marks rights as a result of its authorized use of the DIALOG Marks, (f) any failure by DIALOG to comply with applicable laws, regulations, and standards, or (g) DIALOG's negligence, intentional misconduct, or fraud.\n\nIn this revised clause, the indemnification obligation has been shifted from ENERGOUS to DIALOG. The changes include:\n\n1. Inverting the parties involved in the indemnity agreement, i.e., ENERGOUS is now the one being indemnified, and DIALOG is the one making the indemnification.\n2. Modifying the conditions for indemnification, such as shifting the responsibility for compliance with the Product Specifications from ENERGOUS to DIALOG (point d).\n3. Altering the language to reflect the changed parties and conditions, i.e., using \"shall\" instead of \"agrees to indemnify,\" and changing references from ENERGOUS Indemnitees to ENERGOUS and its Affiliates.",
+    "contradiction_score": 0.028450345620512962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 59741,
+    "end_char": 59770,
+    "original": "(b) Termination By ENERGOUS .",
+    "ollama_generated": "(b) Right of Cancellation by ENERGOUS:\n\nIn the event that ENERGOUS deems it necessary or advantageous for its business operations, ENERGOUS may terminate this Agreement without cause and with immediate effect. Upon such termination, ENERGOUS shall have no further obligations towards the other party under this Agreement, except for those relating to the payment of any amounts already due prior to termination.",
+    "contradiction_score": 0.008427781984210014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 63554,
+    "end_char": 64766,
+    "original": "(a) Notwithstanding any statement in Section 15.3 to the contrary, upon any termination or expiration of this Agreement and until the later to occur of (i) [***] from the Effective Date or (ii) [***] following the effective date of termination or expiration of this Agreement (the \u201cWind Down Period \u201d), the parties\u2019 respective rights and obligations under Sections 2 (License), 3 (Sourcing), 7 (Product Sales), 9 (Royalties and Service Fees), 11 (Representations and Warranties\u037e Disclaimers), 12 (Indemnification), 13 (Limitation of Liability), 14 (Compliance with Laws), 15.2 (Termination), 16 (Escrow) and all Exhibits hereto which are associated with any of the foregoing listed sections will remain in full force and effect as to (A) any Products or repackaged Product Die with respect to which DIALOG or any of its Affiliates has secured a design win at a customer prior to or within one (1) month after the start of the Wind Down Period, or (B) the sale of any MCMs which have been released for production at a foundry, provided, however, that DIALOG\u2019s license rights under Section 2.1 (including any sublicenses granted by DIALOG pursuant to Section 2.4) will be non-exclusive during the Wind Down Period.",
+    "ollama_generated": "(a) Notwithstanding any provision in Section 15.3, during the \"Wind Down Period\" - commencing from the termination or expiration of this Agreement and lasting until the earlier occurrence of (i) [***] from the Effective Date or (ii) [***] following the effective date of such termination or expiration - both parties shall continue to adhere to their respective obligations under Sections 2 (License), 3 (Sourcing), 7 (Product Sales), 9 (Royalties and Service Fees), 11 (Representations and Warranties\u037e Disclaimers), 12 (Indemnification), 13 (Limitation of Liability), 14 (Compliance with Laws), 15.2 (Termination), 16 (Escrow) and all Exhibits related to these sections, subject to the following exceptions:\n\n   (i) The license rights granted under Section 2.1 (and any sub-licenses extended by DIALOG in accordance with Section 2.4) will be exclusive during the Wind Down Period, only for Products or repackaged Product Dies that DIALOG or its Affiliates have secured a design win from a customer prior to or within one (1) month following the start of the Wind Down Period; and\n   (ii) For MCMs that have been released for production at a foundry, the parties' obligations shall continue, but DIALOG will retain no exclusive rights under Section 2.1 (or any sub-licenses granted pursuant to Section 2.4) during the Wind Down Period.",
+    "contradiction_score": 0.07398384064435959,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 143,
+    "start_char": 67141,
+    "end_char": 68605,
+    "original": "16.3 License. ENERGOUS hereby grants DIALOG a non-exclusive, non-transferable (except as set forth in Section 2) license under the Product IP to use any of the Deposit Materials released from escrow for the purpose of fixing an Epidemic Defect or other Product design or production issue impacting yield or quality during the Term and, if applicable, any Wind Down Period or Continuing Obligation period, including, but not limited to, authorizing any third party subcontractor to manufacture and supply Products, provided, however, that DIALOG continues to make all Royalty payment owed to ENERGOUS (or the then-current owner of the Product IP) as provided in this Agreement. No Service Fees will be payable under this license. DIALOG agrees not to exercise such license until occurrence of a Release Condition, subject to the other restrictions set forth in this Section 16. Such license may be exercised by DIALOG only during the Term and any Wind Down Period or Continuing Obligation period and is subject to DIALOG\u2019s continued compliance with all of the other applicable terms and conditions of this Agreement during any such applicable period. All Deposit Materials will be deemed ENERGOUS\u2019 Confidential Information hereunder. DIALOG\u2019s license to possess and use the Deposit Materials does not include any right to disclose, market, sublicense or distribute the Deposit Materials to any third party other than its Affiliates and Manufacturing Subcontractors.",
+    "ollama_generated": "16.3 Licensing Arrangement: DIALOG is granted a non-exclusive, non-transferable license (except as specified in Section 2) by ENERGOUS, under the Product Intellectual Property (Product IP), to utilize any Deposit Materials retrieved from escrow, solely for the purpose of resolving Epidemic Defects or other product design/production issues affecting yield or quality during the Term and subsequent periods such as the Wind Down Period or Continuing Obligation period. This license allows DIALOG to authorize any third-party subcontractor to manufacture and supply products, contingent upon DIALOG's consistent fulfillment of all royalty obligations towards ENERGOUS (or the then-current Product IP owner), as stipulated in this Agreement. No Service Fees are applicable under this license.\n\nIt is agreed by DIALOG that it will not exercise this license unless and until a Release Condition has been met, subject to all other restrictions detailed within this Section 16. This licensing right remains valid only during the Term and any subsequent periods such as the Wind Down Period or Continuing Obligation period, and is contingent upon DIALOG's continued compliance with all terms and conditions of this Agreement during those applicable periods. All Deposit Materials are considered ENERGOUS\u2019 Confidential Information under these terms.\n\nDIALOG's possession and use of the Deposit Materials does not grant any right to reveal, commercialize, sublicense or distribute the Deposit Materials to any third party other than its Affiliates and Manufacturing Subcontractors, except as explicitly permitted by this Agreement.",
+    "contradiction_score": 0.20232683420181274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 69123,
+    "end_char": 69350,
+    "original": "17.1 Publicity.  Within 30 days of the Effective Date each party will issue a mutually agreed joint press release regarding the strategic cooperation for the supply of Products and the strategic cooperation between the parties.",
+    "modified": "17.1 Public Discourse: Upon mutual agreement, each party may choose to announce their cooperation in supplying Products and their strategic alliance, at any time following the Effective Date. The specific terms and details of this announcement shall be independently determined by each party. No joint press release will be required unless explicitly agreed upon by both parties.",
+    "contradiction_score": 0.9451195597648621,
+    "kept": true
+  },
+  {
+    "clause_index": 154,
+    "start_char": 72994,
+    "end_char": 73107,
+    "original": "Either party may change its address by giving notice pursuant to, and specifically referring to, this Section 20.",
+    "ollama_generated": "Should either party elect to update their respective addresses, a written notification in accordance with the procedures outlined in Section 20 shall suffice for such change to take effect.",
+    "contradiction_score": 0.0007406882359646261,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 78411,
+    "end_char": 78424,
+    "original": "Margin Split:",
+    "ollama_generated": "Margin Allocation:\n\nUpon the sale of Goods hereunder, the Parties shall allocate the Net Profit Margins as follows: The Party providing the Goods shall retain an amount equal to fifty percent (50%) of the Net Profit Margin, and the remaining fifty percent (50%) shall be remitted to the other Party. However, in the event that no goods are sold or if there is a loss on sales, neither Party shall owe any amounts to the other Party with respect to the Net Profit Margin.\n\n(Original Clause: Margin Split: The Parties shall share equally the net profit margin derived from the sale of Goods hereunder. Each Party shall be entitled to fifty percent (50%) of the net profit margin on every sale. If there are no sales or if there is a loss on any sales, neither Party shall owe any amounts to the other with respect to the net profit margin.)",
+    "contradiction_score": 0.11509626358747482,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 176,
+    "start_char": 78541,
+    "end_char": 78747,
+    "original": "Notwithstanding any provision of the Agreement, no Royalties or Service Fees will be payable to ENERGOUS hereunder in connection with any Sale to any customer of prototype or sample Licensed Products [***].",
+    "ollama_generated": "Despite any provisions in the Agreement, ENERGOUS shall not be obligated to receive any Royalties or Service Fees for Sales of prototype or sample Licensed Products [***], according to this contract.",
+    "contradiction_score": 0.001076707267202437,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 182,
+    "start_char": 79493,
+    "end_char": 79593,
+    "original": "Third Party\u2019s Name: Dialog Semiconductor [purchasing entity to be determined] Third Party\u2019s Address:",
+    "ollama_generated": "Clause:\nThird Party's Name: [To-be-Determined Purchaser]\nThird Party's Address:\n\nAmended Clause:\nIn the event that the aforementioned Purchaser is yet to be identified, the obligations under this Agreement shall be suspended until such identification has occurred. Upon identification, the Purchaser shall immediately assume all contractual responsibilities and obligations as set forth herein.",
+    "contradiction_score": 0.24334941804409027,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 80231,
+    "end_char": 80626,
+    "original": "Page 28 6. Reporting Upon Energous\u2019 request (but not more frequently than once per calendar year), [Manufacturing Subcontractor] will provide Energous with the accumulated wafer volumes ordered (and shipped) to the Third Party under this Letter of Authorization. By signing this Letter of Authorization, the Third Party authorizes [Manufacturing Subcontractor] to report to Energous accordingly.",
+    "ollama_generated": "Page 28, Clause 6: At its discretion (but no less than every three years), Energous may request a report from the Manufacturing Subcontractor. The report should detail the total wafer volumes supplied by the Manufacturing Subcontractor to any Third Party, as outlined in this Letter of Authorization. By executing this Letter of Authorization, the Third Party consents to allow [Manufacturing Subcontractor] to disclose such information to Energous when requested.",
+    "contradiction_score": 0.14388208091259003,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 1201,
+    "end_char": 1358,
+    "original": "1. INTERPRETATION (a) Definitions In this Agreement and the schedules annexed hereto, the following terms shall have the respective meanings indicated below:",
+    "ollama_generated": "1. INTERPRETATION (b) Terminology Clarifications Within the context of this Agreement and its accompanying schedules, the following phrases carry the following significance:\n\n(i) \"Obligations\" - The responsibilities as outlined in this agreement shall be interpreted with a degree of flexibility that allows for pragmatic adjustments to meet emerging circumstances.\n(ii) \"Performance Standards\" - These standards are guidelines rather than inflexible requirements, and deviation from them will not automatically constitute a breach of contract.\n(iii) \"Liability\" - In the event of any claims arising, the parties shall share responsibility in proportion to their individual roles and contributions. No party shall be held solely responsible for the actions or omissions of another.\n(iv) \"Force Majeure Events\" - These events are unforeseeable circumstances beyond the control of either party, and non-compliance due to such events will not constitute a breach of contract.\n(v) \"Notice\" - Any notice required under this agreement may be delivered via electronic communication methods, including but not limited to email, provided that written confirmation is obtained upon receipt.",
+    "contradiction_score": 0.20733365416526794,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 1436,
+    "end_char": 1504,
+    "original": "\u201cAcceptance Period \u201d has the meaning ascribed to it in Section 3(d).",
+    "ollama_generated": "\"The term 'Acceptance Period' shall be deemed as not extending beyond the scope defined in Section 3(d), unless otherwise explicitly agreed upon in writing by both parties.\"",
+    "contradiction_score": 0.004197083879262209,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2379,
+    "end_char": 2785,
+    "original": "Source: EHAVE, INC., 20-F, 5/15/2019 \u201cAuthentication ID \u201d means a security mechanism by which an Authorized User identifies herself or himself to the Ehave Companion Solution and gains access thereto, which security mechanism may include user identification, passwords, digital certificates or any other similar process mechanism for authentication and recognition as determined by Ehave from time to time.",
+    "ollama_generated": "Clause:\nSource: EHAVE, INC., 20-F, 5/15/2019 \"Authentication ID\" refers to a security protocol that allows an Authorized User to authenticate themselves and access the Ehave Companion Solution. This identification process may encompass user verification, passwords, digital certificates or any other equivalent mechanism for authentication and validation as decided by Ehave at their discretion. The responsibility of determining the acceptable methods for authentication lies with Ehave, and they reserve the right to update these methods over time.",
+    "contradiction_score": 0.01188728865236044,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 2785,
+    "end_char": 2944,
+    "original": "\u201cAuthorized User \u201d means an individual who an End User has authorized to access and use CHT\u2019s services, which includes the use of the Ehave Companion Solution.",
+    "ollama_generated": "\"Designated User\" denotes an entity or individual granted permission by the End User to explore and utilize CHT's services, encompassing the operation of the Ehave Companion Solution. However, it is essential to note that this authorization extends only as far as the Designated User's compliance with CHT's terms and conditions, and any actions taken beyond these boundaries shall not be considered authorized use.",
+    "contradiction_score": 0.11627814918756485,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 2948,
+    "end_char": 3078,
+    "original": "\u201cBusiness Day \u201d means any calendar day except for Saturday or Sunday or any statutory holiday observed in the Province of Ontario.",
+    "ollama_generated": "\"Working Day\" shall refer to any weekday that is not a recognized statutory holiday, nor a Saturday or Sunday, within the Province of Ontario.\n\nIn this revised version, I have slightly altered the original term \"Business Day\" to \"Working Day\", which may be perceived as slightly weakening the obligation, given that it is more specific and includes only weekdays. This change subtly indicates that certain activities can technically take place on days other than traditional business days, but not necessarily, whereas the original clause might suggest a stronger expectation for activity during non-weekend days.",
+    "contradiction_score": 0.18880513310432434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3079,
+    "end_char": 3146,
+    "original": "\u201cCHT Developments \u201d has the meaning ascribed to it in Section 4(a).",
+    "ollama_generated": "\"The term 'CHT Developments,' as defined in Section 4(a), shall be understood as encompassing any entities or subsidiaries that may fall under the control, management, or ownership of CHT Developments.\"\n\nIn this revised clause, the original meaning is retained with a slight modification to broaden the scope and encompass potential subsidiaries or affiliated entities that might be connected to 'CHT Developments.'",
+    "contradiction_score": 0.03145191818475723,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 3319,
+    "end_char": 3376,
+    "original": "\u201cClaim \u201d has the meaning ascribed to it in Section 16(a).",
+    "ollama_generated": "\"For the purposes of this agreement, 'Dispute' shall be construed as per the definition provided in Section 16(a), unless explicitly stated otherwise.\"\n\nThis rewritten clause slightly alters the original by suggesting that the term 'Dispute' may not always conform to its defined meaning if there is an explicit exception. This introduces a degree of flexibility and discretion, potentially weakening the obligation to strictly adhere to the definition in Section 16(a).",
+    "contradiction_score": 0.06167067214846611,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 3377,
+    "end_char": 3451,
+    "original": "\u201cCompetitive Transaction \u201d has the meaning ascribed to it in Section 2(d).",
+    "ollama_generated": "\"A 'Competitive Transaction,' as referred to herein, shall not be limited by the definition provided in Section 2(d), allowing for a broader interpretation.\"\n\nIn this revised clause, I've slightly shifted the focus towards a more expansive understanding of the term \"Competitive Transaction,\" making it less restrictive than the original.",
+    "contradiction_score": 0.20395052433013916,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6234,
+    "end_char": 6405,
+    "original": "\u201cEnd User \u201d means CHT\u2019s customers who have entered into a subscription agreement with CHT for CHT services, which services include the use of the Ehave Companion Solution.",
+    "ollama_generated": "\"Designated User\" refers to any party that holds a subscription agreement with CHT for access to CHT's services, encompassing but not limited to the utilization of the Ehave Companion Solution. Notably, this term does not extend to entities who may be using CHT's services without a formal subscription agreement in place.\"\n\nThe change here is that the original clause specified that \"End User\" was CHT's customers only, whereas the revised clause broadens the definition slightly to include any party with access to CHT's services, whether or not they are officially recognized as a customer. The wording has also been adjusted to make it clearer that this term does not apply to those using the service without a subscription agreement.",
+    "contradiction_score": 0.007866746746003628,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 6847,
+    "end_char": 6917,
+    "original": "\u201cEscrow Agreement \u201d has the meaning ascribed thereto in Section 12(a).",
+    "ollama_generated": "\"For purposes of this agreement, the term 'Escrow Agreement' shall bear the definition provided in Section 12(a), unless a different meaning is explicitly specified.\"\n\nThis revised clause softens the obligation by providing an exception for when a different definition may be used.",
+    "contradiction_score": 0.031962115317583084,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 7508,
+    "end_char": 8075,
+    "original": "\u201cIntellectual Property \u201d means any property, tangible or intangible, that may be subject to Intellectual Property Rights, including without limitation, ideas, formulae, algorithms, concepts, techniques, processes, procedures, approaches, methodologies, plans, systems, research, information, documentation, data, data compilations, specifications, requirements, designs, diagrams, programs, inventions, technologies, software (including its source code), tools, products knowledge, know-how, including without limitation, trade secrets, and other materials or things.",
+    "ollama_generated": "\"Intellectual Property\" refers to any tangible or intangible properties that could be protected under Intellectual Property Laws, encompassing but not limited to ideas, formulae, algorithms, concepts, techniques, processes, procedures, approaches, methodologies, plans, systems, research findings, information, documentation, data, data compilations, specifications, requirements, designs, diagrams, software (including its source code), tools, product knowledge, know-how, trade secrets, and other intellectual assets or items.\n\nThis revised clause has a slightly modified meaning by shifting the focus from the property's potential for Intellectual Property Rights protection to the properties that could be protected under Intellectual Property Laws, potentially widening the scope of what is considered as \"Intellectual Property\".",
+    "contradiction_score": 0.02604912407696247,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 9496,
+    "end_char": 9748,
+    "original": "Source: EHAVE, INC., 20-F, 5/15/2019 \u201cPoint of Access \u201d means Ehave\u2019s, or its subcontractor\u2019s, border router, which is used to establish connectivity from the Ehave Platform to Ehave\u2019s, or its subcontractor\u2019s, Internet provider, or the public Internet.",
+    "ollama_generated": "Clause:\nSource: EHAVE, INC., 20-F, 5/15/2019 \"Point of Access\" refers to any connection point where the data from the Ehave Platform is routed towards an internet service provider or the public internet, whether directly managed by Ehave or through a subcontractor's infrastructure. This may include, but is not limited to, border routers.",
+    "contradiction_score": 0.29176297783851624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 9748,
+    "end_char": 9909,
+    "original": "\u201cRoyalties \u201d means the fees, charges and other amounts to be paid by CHT to Ehave for the rights granted hereunder and which amounts are set out in Schedule \u201c6\u201d.",
+    "ollama_generated": "\"Royalties\" shall denote the remuneration, payments, or reimbursements that Ehave is entitled to receive from CHT for the rights bestowed under this agreement. The specific sums mentioned in Appendix \"6\" will determine these payments.\n\nBy making this slight change, we've shifted the responsibility of determining and paying royalties from the Company (CHT) to the recipient (Ehave). This inverts the original condition while still maintaining professionalism and clarity.",
+    "contradiction_score": 0.00902614463120699,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 11175,
+    "end_char": 11248,
+    "original": "\u201cTransition out Period \u201d has the meaning ascribed to it in Section 10(f).",
+    "ollama_generated": "\"The Transition out Period\" refers to any timeframe not specifically defined elsewhere in this agreement, but shall be determined at the sole discretion of the Party transitioning out.\n\nNote: This revision changes the meaning of the original clause by shifting the responsibility for defining the \"Transition out Period\" from a specific section (Section 10(f)) to the party who is transitioning out.",
+    "contradiction_score": 0.25529974699020386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 11324,
+    "end_char": 11759,
+    "original": "\u201cVirus \u201d means a piece of code usually (but not necessarily) disguised as something else that causes some unexpected and, for the victim, usually undesirable, event and which is designed so that it may automatically spread to other computer users\u037e the term \u2018Virus\u2019 will also be deemed to include worms, cancelbots, trojan horses, harmful contaminants (whether self-replicating or not) and nuisance causing or otherwise harmful applets.",
+    "ollama_generated": "\"Cyber Threat\" shall encompass any form of malicious code, whether disguised or not, that is intended to cause unanticipated and typically unwelcome outcomes on a computer system, and may include automatic propagation to other users. This definition also extends to worms, logic bombs, Trojan horses, harmful payloads (self-replicating or not), annoying or malicious scripts, and any software designed to disrupt normal operations or inflict harm.",
+    "contradiction_score": 0.17547869682312012,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 11759,
+    "end_char": 12416,
+    "original": "(b) Headings\u037e Extended Meanings The division of this Agreement into articles, sections, schedules and other subdivisions, and the inclusion of headings are for convenience of reference only and shall not affect the construction or interpretation of this Agreement. The headings in the Agreement are not intended to be full or precise descriptions of the text to which they refer. Unless something in the subject matter or context is inconsistent therewith, references herein to Articles and Sections are to Articles and Sections of this Agreement. The word \u201cincluding\u201d or \u201cinclude(s)\u201d means \u201cincluding without limitation\u201d or \u201cinclude(s) without limitation\u201d.",
+    "ollama_generated": "(b) Structural Classifications; Limitations on Meaning\nThe segmentation of this Agreement into articles, sections, schedules and other subdivisions, as well as the incorporation of headings, is primarily for ease of navigation and should not serve to modify or redefine the essence of this Agreement. The titles in this Agreement are intended to offer general guidance rather than exhaustive or definitive descriptions of the content to which they relate.\n\nIn instances where the subject matter or context does not contradict this, references within this document to Articles and Sections will be understood as referring to specific Articles and Sections within this Agreement. The phrase \"including\" or \"includes\" signifies \"including without exception\" or \"includes but is not limited to.\" This clause serves to clarify that the aforementioned phrases are to be interpreted expansively, encompassing potential items beyond those explicitly listed.",
+    "contradiction_score": 0.3052387833595276,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 12555,
+    "end_char": 12692,
+    "original": "Source: EHAVE, INC., 20-F, 5/15/2019 (d) Exhibits and Schedules The following Schedules are a part of and are integral to this Agreement:",
+    "modified": "Clause:\nRevised: XYZ CORP., 20-F, 5/15/2019 (d) Exhibits and Schedules This Agreement recognizes the following Schedules as being separately executable but essential supplements to this Agreement:\n\nIn this revised clause, the original clause stated that the schedules were \"a part of\" and \"integral to\" the agreement. Here, I've changed it to suggest that the schedules are \"separately executable but essential supplements\" to the agreement, implying a slightly different relationship where the schedules can stand alone while still being crucial to understanding the main agreement.",
+    "contradiction_score": 0.6092900037765503,
+    "kept": true
+  },
+  {
+    "clause_index": 54,
+    "start_char": 14357,
+    "end_char": 14374,
+    "original": "(g) Severability:",
+    "ollama_generated": "(g) Independent Covenants:\n\nIn the event that any provision of this Agreement is deemed invalid or unenforceable by a court of competent jurisdiction, such provision shall be deemed severed from the remainder of this Agreement and shall not affect the validity or enforceability of any other provisions herein. Parties hereto agree to negotiate in good faith to replace such invalid or unenforceable provision with a valid and enforceable one that reflects their original intentions as closely as possible.",
+    "contradiction_score": 0.31028878688812256,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 16463,
+    "end_char": 16834,
+    "original": "(c) Restrictions on Use Any rights not granted herein are strictly reserved by Ehave. CHT shall not, and shall not permit others to, reverse engineer, decompile, disassemble or translate any software used by Ehave to provide the Ehave Companion Solution, or otherwise attempt to view, display or print such software, including its Source Code, except as permitted herein.",
+    "ollama_generated": "(c) Flexible Use Permissions Not expressly granted in this agreement are deemed implicitly allowed by Ehave. The Client is free to explore and analyze the functionalities of the Ehave Companion Solution software, provided that such activities are undertaken for educational or research purposes only. Any attempts at reverse engineering, decompiling, disassembling, or translating the software code, or any effort to access, reproduce, modify, distribute, or create derivative works of the software, including its Source Code, is strictly prohibited without prior written consent from Ehave.\n\nIn essence, while Ehave encourages the Client's understanding of the Ehave Companion Solution, it retains full ownership and control over the underlying software code. Any unauthorized manipulation or distribution of the code will be considered a violation of this agreement.",
+    "contradiction_score": 0.20396342873573303,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 28869,
+    "end_char": 29407,
+    "original": "4. CHT DEVELOPMENTS (a) Development From time to time, CHT may request Ehave to develop functionality that is separate from, but interfaces with the Ehave Companion Solution (the \u201c CHT Developments \u201d). Any such development effort shall be subject to a separate services agreement between the Parties which will set out the respective obligations of the Parties regarding the development and deployment of any CHT Developments, including without limitation assignment or transfer of any rights that Ehave may have in such CHT Developments.",
+    "ollama_generated": "4. EHAVE DEVELOPMENTS (a) From time to time, Ehave may be asked by CHT Developments to create functionalities that interface with the CHT Developments Companion Solution (the \u201c Ehave Developments \u201d). Any such development work shall be undertaken under a separate services agreement between the Parties. This agreement will delineate the responsibilities of each Party regarding the development, testing, and deployment of any Ehave Developments, including but not limited to the assignment or transfer of any rights that CHT Developments may have in such Ehave Developments, with the understanding that Ehave shall retain ownership of all intellectual property rights not explicitly transferred.",
+    "contradiction_score": 0.005231162998825312,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 30004,
+    "end_char": 30101,
+    "original": "5. GENERAL PERFORMANCE OBLIGATIONS (a) Marketing CHT shall, in good faith and at its own expense:",
+    "ollama_generated": "5. GENERAL PERFORMANCE OBLIGATIONS (b) The Marketing Entity for CHT may, at its discretion and with the understanding that expenses shall be borne primarily by CHT:\n\nThis revised clause shifts the responsibility of expense to the Marketing Entity for CHT, while still maintaining their obligation to perform duties in good faith.",
+    "contradiction_score": 0.006737882271409035,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 31392,
+    "end_char": 31830,
+    "original": "(b) Provision to End Users CHT shall require each End User to enter into and execute a subscription agreement in a form and substance satisfactory to Ehave and CHT, acting reasonably, and which contains provisions similar to Ehave\u2019s collaboration agreement for the use of the Ehave solution (the \u201cSubscription Agreement \u201d). Ehave shall be a third party beneficiary hereunder, but shall not have any obligations to the End User thereunder.",
+    "ollama_generated": "(b) Obligation to End Users: Each End User will voluntarily enter into and execute a subscription agreement in a manner acceptable to both Ehave and CHT, with discretion given for reasonableness, and this agreement shall emulate the terms of Ehave's collaboration agreement for utilizing the Ehave solution (hereafter referred to as the \"Subscription Agreement\"). It is noted that while Ehave will benefit from this agreement without direct obligations, it does not assume any responsibilities towards the End User under this agreement.\n\nThis revised clause maintains a professional tone but slightly alters the obligation on the end user by using \"voluntarily\" and inverts the third-party beneficiary condition to clarify that Ehave will benefit without assuming direct obligations.",
+    "contradiction_score": 0.006955593824386597,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 31830,
+    "end_char": 32050,
+    "original": "(c) End User Data Pursuant to the Subscription Agreement, CHT shall obtain from each End User the right to and hereby grants, effective upon the execution and delivery of such End User\u2019s Subscription Agreement, to Ehave:",
+    "ollama_generated": "(c) End User Data Under the terms of the Subscription Agreement, Ehave shall have the right, subject to CHT obtaining it from each End User, to receive, effective upon the execution and delivery of such End User's Subscription Agreement, the grant from CHT:\n\nThis clause subtly shifts the responsibility for acquiring the rights to End User Data from CHT to Ehave. The data will still be obtained from the End Users under the terms of the Subscription Agreement, but Ehave will have the right to receive it directly instead of CHT.",
+    "contradiction_score": 0.0028931114356964827,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 33841,
+    "end_char": 34356,
+    "original": "(e) End User Support On and after the launch of the Ehave Companion Solution, CHT shall, at its own expense, ensure that an adequate number of trained, capable and qualified technical personnel with sufficient knowledge of the Ehave Companion Solution are available to provide first line support to assist End Users. If CHT\u2019s support personnel are unable to resolve any trouble tickets from an End User, CHT may escalate the trouble ticket to Ehave in accordance with the support procedures set out in Schedule \u201c3\u201d.",
+    "ollama_generated": "(e) Post-Launch Support: Ehave is responsible for providing initial technical support for the Ehave Companion Solution. However, Ehave will endeavor to maintain a sufficient number of trained personnel at its own expense to address End User queries and troubleshoot issues to the best of their abilities. In cases where the in-house support team cannot resolve an End User's trouble ticket, they shall promptly escalate the issue to CHT for further assistance, in accordance with the support procedures outlined in Schedule \"3\". This obligation on the part of CHT does not extend to providing 24/7 support or guaranteeing immediate resolution of all issues.",
+    "contradiction_score": 0.4405350089073181,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 39665,
+    "end_char": 40628,
+    "original": "(d) Changes to Service Ehave may, at any time, with or without written notice (except in cases where such change may affect the manner in which the Services are delivered, in which case, Ehave shall use reasonable efforts to provide advance written notice, but in any event as soon as reasonably possible thereafter) to CHT (i) make changes to the Ehave Companion Solution that are necessary to comply with applicable safety, security or other statutory requirements or orders from applicable Governmental Authorities\u037e (ii) supplement or make changes to its user documentation and to its rules of operations, access procedures, security and privacy procedures and policies, provided such changes do not materially adversely affect CHT or its End Users\u037e and (iii) change the components, type and location of the Ehave Platform, provided that such changes do not adversely affect the performance, features, functionality or security of the Ehave Companion Solution.",
+    "ollama_generated": "(d) In relation to Service E, Ehave reserves the right to implement modifications at its discretion, with or without prior written notice, except in circumstances where such alteration may significantly impact the manner by which Services are delivered, in which case Ehave will strive to provide advance notice in writing as soon as practicable, and in any event, promptly following such an occurrence. These modifications may encompass:\n\n(i) Essential adjustments to the Ehave Companion Solution that align with applicable safety, security, or legal requirements, as mandated by relevant Governmental Authorities;\n\n(ii) Amendments or additions to user guidelines, operational rules, access protocols, security and privacy procedures, policies, or documentation. While every effort will be made to ensure these changes do not unduly prejudice CHT or its End Users, Ehave reserves the right to implement such alterations without prior notice;\n\n(iii) Modifications to the components, architecture, location, or infrastructure of the Ehave Platform, provided that such amendments do not compromise the performance, features, functionality, or security of the Ehave Companion Solution. In cases where performance issues are reported as a result of these changes, Ehave will address them promptly and effectively to ensure optimal service delivery.",
+    "contradiction_score": 0.03799901157617569,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 43678,
+    "end_char": 44210,
+    "original": "Source: EHAVE, INC., 20-F, 5/15/2019 8. AUDIT RIGHTS (a) Ehave Right to Audit CHT will provide Ehave and its representatives, auditors and inspectors (\" Auditors \") upon ten (10) Business Days prior written notice with reasonable access, during business hours, to all facilities, systems and assets used by CHT, to CHT personnel and subcontractors and to all relevant CHT books and records, in each case, to the extent relevant to this Agreement, in order to conduct appropriate audits, examinations and inspections (\" Audits \") to:",
+    "ollama_generated": "Clause:\nSource: EHAVE, INC., 20-F, 5/15/2019\n8. AUDIT RIGHTS (a) CHT Grants Access for Audit\nCHT grants Ehave and its authorized representatives, auditors, inspectors (\"Auditors\") the right, upon providing ten (10) Business Days prior written notice, to access, during regular business hours, all facilities, systems, assets, personnel, subcontractors, and relevant books and records of CHT, to the extent necessary for this Agreement. This right allows Auditors to conduct appropriate audits, examinations, and inspections (\"Audits\") solely for the purpose of ensuring compliance with this Agreement. The access provided by CHT shall not be unreasonably withheld or delayed.",
+    "contradiction_score": 0.030478088185191154,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 45582,
+    "end_char": 45856,
+    "original": "(c) Records CHT shall keep detailed records and books of account with supporting vouchers, invoices and other documentation showing all expenditures, charges and related calculations of whatsoever nature made by it in the performance of its obligations under this Agreement.",
+    "ollama_generated": "(c) Documentation: Party A (Party A) is responsible for maintaining thorough records and financial ledgers, complete with receipts, invoices, and other substantiating documentation, documenting all expenses, fees, and related computations incurred during the execution of their responsibilities as outlined in this Agreement. In case of any requests or audits, Party A shall make these documents available upon reasonable notice to Party B (Party B) for review.",
+    "contradiction_score": 0.010804922319948673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 46884,
+    "end_char": 47139,
+    "original": "9. TERM This term of this Agreement and the rights and obligations of the Parties hereto shall commence as of the Effective Date and shall continue in perpetuity (the \u201c Term \u201d), unless terminated earlier in accordance with the provisions contained herein.",
+    "ollama_generated": "9. Duration: The effective date of this Agreement marks the initiation of the Party's mutual rights, duties, and responsibilities (hereinafter referred to as the \"Duration\"). This Duration shall persist only for a definite period specified in the provisions herein, unless extended or otherwise terminated in accordance with these terms.",
+    "contradiction_score": 0.47347673773765564,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 48047,
+    "end_char": 48076,
+    "original": "(b) CHT\u2019s Right to Terminate:",
+    "ollama_generated": "(b) Party A's Obligation to Permit Termination:\n\nParty A shall have an obligation to allow CHT the right to terminate this agreement, upon providing written notice, if CHT determines in its sole discretion that a material breach of this agreement has occurred and remains uncured for a period of thirty (30) days after receipt of a written cure notice.",
+    "contradiction_score": 0.04061319679021835,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 48076,
+    "end_char": 48418,
+    "original": "Subject to Sections 10(e) and 10(g), CHT may terminate this Agreement and the rights granted hereunder, in whole or in part, without prejudice to enforcement of any other legal right or remedy (including any express termination right set forth elsewhere in this Agreement), immediately upon giving written notice of such termination if Ehave:",
+    "ollama_generated": "Subject to Sections 10(e) and 10(g), E has the option, without prejudice to any other legal rights or remedies (including any express termination right set forth elsewhere in this Agreement), to provide written notice of immediate termination of this Agreement and the rights granted hereunder, in whole or in part, if CHT:\n\nThis modification shifts the power of termination from the initial contract holder (CHT) to the party mentioned as E. The meaning has been slightly weakened by making it an option for E rather than a mandatory action on their part and by using the phrase \"provide written notice\" instead of \"giving written notice\", indicating that E is initiating the termination process.",
+    "contradiction_score": 0.0836823582649231,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 52262,
+    "end_char": 52288,
+    "original": "(e) Effect of Termination:",
+    "ollama_generated": "(e) Consequences of Cessation:\n\nUpon any termination of this Agreement, regardless of the reason, the Terminating Party shall not be obligated to provide any further performance or support to the Other Party, and the Other Party shall assume full responsibility for any ongoing obligations, costs, or liabilities arising from their use of the services or goods provided hereunder.",
+    "contradiction_score": 0.1435440480709076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 66465,
+    "end_char": 67351,
+    "original": "In the event that any Party receives a request to disclose all or any part of the Confidential Information of the other Party under the terms of a valid and effective subpoena or order issued by a court of competent jurisdiction or by a Governmental Authority, such Party agrees to (i) immediately notify the other Party of the existence, terms and circumstances surrounding such a request\u037e (ii) consult with the other Party on the advisability of taking legally available steps to resist or narrow such request\u037e and (iii) if disclosure of such Confidential Information is required, exercise its commercially reasonable efforts to obtain, and/or assist the other Party to obtain, at the other Party\u2019s expense, an order or other reliable assurance that confidential treatment will be accorded to such portion of the disclosed Confidential Information which the other Party so designates.",
+    "ollama_generated": "Upon receipt of a demand to disclose any part of the Confidential Information of either Party under a valid and enforceable subpoena, court order, or request from a Governmental Authority, the receiving Party shall (i) promptly inform the other Party about the nature, conditions, and circumstances of such demand; (ii) collaborate with the other Party on determining appropriate legal measures to contest or limit the demand; and (iii) if required by law to disclose Confidential Information, the Party will make reasonable attempts, at their own expense, to secure, and aid the other Party in obtaining, a protective order or equivalent arrangement ensuring confidential treatment for the designated portions of the disclosed Confidential Information. This clause does not obligate either Party to challenge or delay compliance with such legal process, but instead allows for due diligence in protecting the interests of both Parties where possible.",
+    "contradiction_score": 0.0008399646612815559,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 70857,
+    "end_char": 70928,
+    "original": "Source: EHAVE, INC., 20-F, 5/15/2019 (d) Exclusion of Other Warranties:",
+    "ollama_generated": "EHAVE, INC., 20-F, 5/15/2019 (d): Imposition of Limited Warranties Only:\n\nIn no event shall any warranty, express or implied, arising by operation of law or otherwise, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement, apply to the Services or Products. The sole liability of EHAVE, INC. under this Section (d) shall be limited to providing the Services or Products again.\n\nThis clause now shifts the responsibility for potential product or service issues towards the customer by limiting the warranties provided by EHAVE, Inc., and specifies that their liability is only to repeat the provision of services or products in case of a breach of warranty.",
+    "contradiction_score": 0.0037303350400179625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 72298,
+    "end_char": 72891,
+    "original": "Upon the execution of this Agreement or at any time at a Party\u2019s request during the term of this Agreement, the other Party shall provide the requesting Party with evidence of the aforementioned insurance coverage in the form of a certificate of insurance acceptable to the requesting Party. In the event of any material change or cancellation of the required insurance policies, the applicable Party will provide the other Party with thirty (30) calendar days' prior written notice and will promptly replace such insurance policy in accordance with this Section 15, without lapse in coverage.",
+    "ollama_generated": "Upon the execution of this Agreement or at any point during its duration upon a Party's demand, the other Party is expected to supply evidence of the stipulated insurance coverage in a format satisfactory to the receiving Party. In case of substantial modifications or termination of the necessary insurance policies, the affected Party shall notify the other, in writing, thirty (30) days prior to such change, and will endeavor to replace the expiring policy as promptly as feasible, ensuring uninterrupted coverage. However, any failure in this regard is not deemed a breach of contract unless it results in a significant disruption or lapse in coverage.",
+    "contradiction_score": 0.0022433362901210785,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 73734,
+    "end_char": 74631,
+    "original": "(i) Ehave is given prompt written notice of the Claim or of any allegations or circumstances known to CHT which could reasonably result in a Claim\u037e (ii) Ehave is given all reasonable information and assistance from CHT, at Ehave\u2019s expense, which Ehave may require to defend the Claim\u037e Source: EHAVE, INC., 20-F, 5/15/2019 (iii) Ehave is given sole control of the defence of the Claim, and all negotiations for the settlement or compromise thereof, provided that Ehave shall promptly engage competent counsel and initiate defence in a professional manner and CHT may observe or participate in such proceedings with its own counsel at its own expense\u037e and (iv) the alleged infringement does not result from any non-permitted uses, alterations, modifications or enhancements carried out by CHT, any End User or on its or their behalf by a third person (other than any Ehave personnel or contractors).",
+    "ollama_generated": "(i) CHT shall provide prompt written notice to Ehave of any Claim or allegations, or circumstances that may potentially lead to a Claim. This includes any information or context that could reasonably be expected to contribute to the Claim. (ii) Upon request, Ehave is entitled to receive all reasonable information and assistance from CHT, but at Ehave's expense, for the purpose of mounting an effective defense. (iii) CHT shall not intervene in the defense or settlement negotiations of the Claim unless explicitly requested by Ehave. If requested, CHT may observe these proceedings, with its own counsel, at its own cost. However, Ehave is responsible for engaging competent legal representation and initiating the defense in a professional manner. (iv) The alleged infringement arises solely from actions performed by Ehave personnel or contractors, any End User, or third parties acting on their behalf, with CHT bearing no responsibility for non-permitted uses, alterations, modifications, or enhancements in this context.",
+    "contradiction_score": 0.013235085643827915,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 74631,
+    "end_char": 75422,
+    "original": "If such Claim has occurred, or in Ehave\u2019s opinion is likely to occur, without limiting Ehave\u2019s obligation to defend and indemnify the CHT Indemnified Parties as aforesaid, Ehave may, at its option and expense, either procure for CHT the right to continue using the Ehave Companion Solution in accordance with this Agreement or modify or replace the same so that it becomes non-infringing without loss of functionality, or if none of the foregoing alternatives is reasonably available and at Ehave\u2019s discretion, discontinue the use of the Ehave Companion Solution on not less than sixty (60) Business Days\u2019 prior written notice to CHT and its End Users. The foregoing states the entire obligations of Ehave with respect to any infringement of Intellectual Property Rights of any third Person.",
+    "ollama_generated": "If a Claim arises, or in Ehave's reasonable belief might arise, Ehave does not exclude its duty to defend and indemnify the CHT Indemnified Parties as specified, but may, at its sole discretion and expense, choose one of the following actions:\n\n1. Acquire for CHT the right to continue utilizing the Ehave Companion Solution in accordance with this Agreement, or\n2. Modify or replace the Ehave Companion Solution to ensure it no longer infringes on any Intellectual Property Rights, while maintaining functionality, or\n3. If neither of the above alternatives are practically viable, Ehave reserves the right to discontinue the use of the Ehave Companion Solution, providing written notice to CHT and its End Users at least sixty (60) Business Days in advance. This clause outlines the full extent of Ehave's obligations regarding any infringement of third-party Intellectual Property Rights.\n\nThis revised clause emphasizes that Ehave has a duty to defend and indemnify, but also provides more flexibility by allowing it to choose among different options in response to a potential claim, rather than being obligated to attempt all possible solutions. It also clarifies that Ehave's obligations are limited to the specified infringement of third-party Intellectual Property Rights.",
+    "contradiction_score": 0.009693966247141361,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 163,
+    "start_char": 76501,
+    "end_char": 76901,
+    "original": "17. LIMITATION OF LIABILITY (a) Consequential Damages Subject to Section 17(c), in no event shall either Party be liable to the other for any consequential, incidental, exemplary or punitive damages even if advised in advance of the possibility of such damages. Further, subject to Section 17(c), neither Party shall not be liable to the other Party for any lost revenue, lost profit or lost savings.",
+    "ollama_generated": "17. LIMITATION OF LIABILITY (a) Limitation on Recoverable Losses: Except as provided in Section 17(c), neither Party shall have any liability to the other for indirect, special, exemplary, or punitive damages, including loss of data, revenue, profit, or savings, even if advised of the possibility of such damages. However, each Party's liability to the other shall be limited to direct damages only and shall not exceed the total fees paid by one Party to the other under this Agreement in the twelve months preceding the event giving rise to the claim.\n\n(b) Exclusions: Each Party acknowledges that it has entered into this Agreement on an \"as is\" basis, with no warranties or conditions of any kind, express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose, unless specifically stated otherwise in writing.",
+    "contradiction_score": 0.3519783914089203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 164,
+    "start_char": 76901,
+    "end_char": 77209,
+    "original": "(b) Limitation of Direct Damages Subject to Section 17(c), in no event shall either Party's liability under this Agreement exceed the aggregate of all amounts paid under this Agreement and amounts that have accrued but not yet been paid in the twelve (12) months preceding the event giving rise to the claim.",
+    "ollama_generated": "(b) Cap on Direct Liability, except as provided in Section 17(c), neither Party's liability under this Agreement will exceed the total of all amounts receivable under this Agreement and amounts owed but unpaid for the twelve (12) months preceding the incident that led to the claim, regardless of the extent or number of damages claimed.",
+    "contradiction_score": 0.10381760448217392,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 77369,
+    "end_char": 77784,
+    "original": "(i) personal injury or death to the extent that such injury or death results from the negligence or wilful misconduct of a Party or its employees or subcontractors\u037e (ii) fraud, fraudulent misrepresentation or fraudulent concealment\u037e (iii) the Party\u2019s obligations set out in Sections 2(c), 5(b), 5(c), 6(b), 11, 13 or 16\u037e (iv) CHT\u2019s payment obligations under Section 7\u037e or (v) willful misconduct or gross negligence.",
+    "ollama_generated": "(i) Damages arising from personal injury or death, such incidents being attributable to the neglect or intentional wrongdoing of a Party, its personnel, or those assigned under contract\u037e (ii) instances of deceit, misrepresentation in a fraudulent manner, or deliberate concealment of facts\u037e (iii) failure to fulfill the duties specified in Sections 2(c), 5(b), 5(c), 6(b), 11, 13, or 16 by any Party\u037e (iv) breaches of payment obligations on CHT's part as outlined in Section 7\u037e or (v) acts of deliberate misconduct or extreme negligence on the part of either party.\n\nChanges made:\n- Changed \"to the extent\" to \"arising from\" to make it more explicit that damages are being discussed.\n- Inverted the condition in point (i) to imply a stronger association between the action and the resulting injury or death.\n- Reworded point (iii) to emphasize failure of duties rather than setting out obligations, which may imply a weaker obligation.\n- Changed \"Payment obligations\" to \"breaches of payment obligations\" in point (iv) to make it clearer that non-fulfillment of these obligations is being considered.\n- Reworded point (v) to emphasize deliberate acts and extreme negligence, which may shift responsibility more towards the parties involved.",
+    "contradiction_score": 0.04348963871598244,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 167,
+    "start_char": 77784,
+    "end_char": 77995,
+    "original": "(d) Application of Limitations and Exclusions The limitations and exclusions set out in this Section shall apply whether a claim, demand or action is based in contract, tort (including negligence), or otherwise.",
+    "ollama_generated": "(d) Scope of Limitations and Exemptions: Any limitations or exemptions as stated within this Section extend to all potential claims, demands, or actions, regardless of whether they are grounded in contractual breach, negligence, tortious action, or any other legal theory.\n\nIn the rewritten clause, I've aimed to keep the original meaning but slightly broadened the scope by using the phrase \"any potential claims\" instead of just referring to contract and tort claims as in the original. This way, it now includes any possible legal basis for a claim, demand or action, making the provision more comprehensive while still maintaining its professional tone.",
+    "contradiction_score": 0.04871716350317001,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 79995,
+    "end_char": 81302,
+    "original": "Either Party may submit a dispute to mediation by providing written notice to the other Party. In the mediation process, the Parties will try to resolve their differences voluntarily with the aid of a single, impartial mediator, who shall attempt to facilitate negotiations. The mediator shall be selected by agreement of the Parties. If the Parties cannot otherwise agree on a mediator within five (5) Business Days, a single mediator shall be designated by the ADR Institute of Canada, Inc. or any successor organization (\u201c ADR \u201d) at the request of a Party. Any mediator so designated must not have a conflict of interest with respect to any Party. The mediation shall be conducted as specified by the mediator and agreed upon by the Parties. The Parties agree to discuss their differences in good faith and to attempt, with the assistance of the mediator, to reach an amicable resolution of the dispute. The mediation shall be treated as a settlement discussion and therefore shall be confidential. The mediator may not testify for either Party in any later proceeding relating to the dispute. No recording or transcript shall be made of the mediation proceedings. Each Party shall bear its own costs and legal fees in the mediation. The Parties shall share the fees and expenses of the mediator equally.",
+    "ollama_generated": "Either Party has the discretionary right to initiate a binding arbitration process by delivering written notice to the other Party. In this arbitration, the Parties will endeavor to settle their disputes amicably with the assistance of an impartial arbitrator, appointed jointly by the Parties. The Parties' failure to agree on an arbitrator within five (5) Business Days shall result in the selection of a single arbitrator by the ADR Institute of Canada, Inc., or its successor, upon request from either Party. Any arbitrator selected must not possess any conflicts of interest with respect to any Party. The arbitration proceedings will occur according to the procedures specified by the appointed arbitrator and agreed upon by both Parties.\n\nThe Parties are obligated to engage in discussions aimed at resolving their disagreements in good faith, and they shall endeavor, working together with the arbitrator, to reach a mutually satisfactory resolution of the dispute. The arbitration proceedings will be treated as a settlement negotiation and maintained under strict confidentiality. Neither the appointed arbitrator nor any Party may disclose information about the arbitration process in any subsequent legal proceedings related to the dispute. No recordings or transcripts shall be made of the arbitration hearings.\n\nEach Party shall bear its own costs, fees, and attorney's fees associated with the arbitration process. The appointed arbitrator's fees and expenses will be equally divided between the Parties, unless otherwise agreed by both parties in writing. This arbitration clause is intended to provide a final and binding resolution of any disputes arising out of or relating to this Agreement, and it supersedes any previous dispute resolution mechanisms set forth herein.",
+    "contradiction_score": 0.17805634438991547,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 173,
+    "start_char": 81335,
+    "end_char": 81351,
+    "original": "(c) Arbitration:",
+    "ollama_generated": "(c) Dispute Resolution:\n\nIn the event of any dispute arising between the parties related to this Agreement, the parties shall endeavor in good faith to resolve such disputes amicably through negotiation. If a resolution is not reached within sixty (60) days from the initiation of negotiations, either party may elect, by written notice to the other, to submit the dispute to binding arbitration in accordance with the Rules of Arbitration of the International Chamber of Commerce (ICC).\n\nIn this revised clause, I've weakened the obligation for the parties to resolve disputes through arbitration. The original clause required that disputes be resolved by arbitration, whereas this version allows either party to elect arbitration if negotiation fails within a specified timeframe. Additionally, I've made the condition for arbitration contingent upon the failure of good-faith negotiations.",
+    "contradiction_score": 0.23926691710948944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 82467,
+    "end_char": 82496,
+    "original": "20. MISCELLANEOUS (a) Notice:",
+    "ollama_generated": "20. MISCELLANEOUS (a) Communication:\n\nIn the event that any communication or notice is required to be given by either Party under this Agreement, it shall be sufficient for such notice or communication to be made in writing, by email, or personal delivery, provided that no response or acknowledgement is required from the recipient. If either Party fails to respond within a reasonable time, the giving Party may consider themselves released from any obligation of further communication regarding the matter at hand.",
+    "contradiction_score": 0.2532171308994293,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 83973,
+    "end_char": 84214,
+    "original": "Each Party shall take such action (including, but not limited to, the execution, acknowledgement and delivery of documents) as may reasonably be requested by the other Party for the implementation or continuing performance of this Agreement.",
+    "ollama_generated": "Each Party will only be expected to act on reasonable requests from the other Party, with regards to actions such as executing, acknowledging, and delivering necessary documents, if these actions are essential for the initial establishment or ongoing fulfillment of this Agreement. In this context, a Party may decline a request deemed unnecessary or disproportionate to the agreement's objectives.",
+    "contradiction_score": 0.06189863011240959,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 84897,
+    "end_char": 84911,
+    "original": "(e) Enurement:",
+    "ollama_generated": "(e) Liability Mitigation:\n\nThe Service Provider shall endeavor to limit any liability arising from the use or performance of the Services, to the extent permitted by law. The User acknowledges and accepts that the Service Provider shall not be held liable for any indirect, incidental, special, exemplary, punitive, or consequential damages resulting from the use of the Services, regardless of whether such damages were foreseeable and whether the Service Provider has been advised of the possibility of such damages. The User agrees to indemnify and hold harmless the Service Provider against any claims arising from the User's use of the Services, except where such claims are due to the gross negligence or intentional misconduct of the Service Provider.",
+    "contradiction_score": 0.09252224862575531,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 190,
+    "start_char": 85066,
+    "end_char": 85593,
+    "original": "Neither this Agreement nor any rights or obligations hereunder shall be assignable by a Party without the prior written consent of the other Party, provided that either Party shall have the right, on notice to but without the other Party\u2019s consent, to assign this Agreement and its rights and obligations contained herein, to an affiliate or to a third party who is not a competitor of the other Party in connection with a sale of all or substantially all of the assigning Party\u2019s business or assets relating to this Agreement.",
+    "ollama_generated": "This Agreement and its rights and obligations shall not be transferable by a Party without obtaining prior written consent from the other Party, except under the following conditions: either Party may, with notice to but without seeking the approval of the other, transfer this Agreement, together with its rights and duties as specified herein, to an affiliate or to a non-competing third party in the event of a sale involving all, or substantially all, of the transferring Party's business or assets pertaining to this Agreement.",
+    "contradiction_score": 0.01907189004123211,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 194,
+    "start_char": 86293,
+    "end_char": 86536,
+    "original": "It is the Parties desire and agreement that this Agreement and all Exhibits and associated documentation be drafted in English. Les Parties conviennent que la pr\u00e9sente convention et tous les documents s\u2019y rattachant, soient r\u00e9dig\u00e9s en anglais.",
+    "ollama_generated": "The Parties mutually acknowledge and prefer that this Agreement, along with all its Exhibits and ancillary materials, will be prepared in the English language. However, should any translation errors arise during the drafting process, the original English text shall take precedence over any translated versions in case of discrepancies or ambiguities. Les Parties reconnaissent et s'accordent que la pr\u00e9sente convention ainsi que tous les documents s'y rattachant seront r\u00e9dig\u00e9s en anglais. Toutefois, en cas d'erreurs de traduction lors du processus de r\u00e9daction, le texte original en anglais pr\u00e9vaudra sur toutes versions traduites dans l'\u00e9ventualit\u00e9 de diff\u00e9rences ou ambigu\u00eft\u00e9s.",
+    "contradiction_score": 0.005199385341256857,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

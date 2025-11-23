@@ -1,0 +1,445 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 95,
+    "end_char": 221,
+    "original": "Confidential Treatment Requested Under 17 C.F.R. Sections 200.80(b)(4) and Rule 406 of the Securities Act of 1933, as amended.",
+    "ollama_generated": "Information Shared Herein Remains Confidential by Request Pursuant to 17 C.F.R. Sections 200.80(b)(4) and Rule 406 of the Securities Act of 1933, as Amended; Recipient Holds Obligation to Maintain Such Confidentiality.\n\nThis modification emphasizes that it is the recipient's obligation to maintain confidentiality, rather than stating that the information itself is confidential by request.",
+    "contradiction_score": 0.048990167677402496,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 413,
+    "end_char": 680,
+    "original": "Monrovia, CA 91016 (hereinafter called \u201cXENCOR\u201d), Boehringer Ingelheim International GmbH Binger Stra\u00dfe 173 55216 Ingelheim Germany (hereinafter called \u201cBII\u201d) (hereinafter BII an XENCOR each shall also be called \u201cParty\u201d and collectively \u201cParties\u201d as the case may be).",
+    "ollama_generated": "XENCOR, located at Monrovia, CA 91016, hereafter referred to as \"XENCOR,\" and Boehringer Ingelheim International GmbH, with its head office at Binger Stra\u00dfe 173, 55216 Ingelheim Germany, hereafter known as \"BII,\" shall interchangeably be designated as \"Party\" and collectively as \"Parties.\" Each Party, individually or jointly, shall also bear the designation \"XENCOR\" or \"BII,\" respectively.\n\nIn this revised clause, the \"each shall also be called 'Party' and collectively 'Parties'\" part has been rewritten to reflect that either party can individually or collectively be referred to as a Party, but each is still distinctly referred to as XENCOR or BII when necessary. This change slightly weakens the implied equal responsibility of both parties as they are no longer consistently referred to jointly as Parties in all instances.",
+    "contradiction_score": 0.04633200168609619,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 4039,
+    "end_char": 4217,
+    "original": "WHEREAS , BII has know-how and expertise to develop production processes for biopharmaceuticals towards commercial scale volumes and within international regulatory requirements;",
+    "ollama_generated": "WHEREAS, the understanding is that GGG, possessing a proficiency in the development of biopharmaceutical production processes up to commercial scale quantities, will endeavor to comply with international regulatory standards;\n\nIn this revised clause, the obligation of BII (now GGG) has been weakened from an absolute requirement to develop production processes for biopharmaceuticals towards commercial scale volumes and within international regulatory requirements, to a more conditional \"will endeavor\" to comply. This change reflects a reduced level of certainty or expectation regarding the performance of GGG in this regard.",
+    "contradiction_score": 0.03643050044775009,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 9628,
+    "end_char": 9886,
+    "original": "1.7  \u201cBII Technology\u201d shall mean the Technology developed or obtained by or on behalf of BII or any of its Affiliated Companies without the use of the of XENCOR Confidential Information and Know-How or the Material, including without limitation, the Process.",
+    "ollama_generated": "1.7 \"BII Technology\" refers to the Technology that has been independently developed or acquired by BII or any of its Affiliated Companies, excluding any technology that relies upon XENCOR's Confidential Information and Know-How, as well as any material derived from such sources, including but not limited to, the Process. However, it is understood that this clause does not restrict BII from using XENCOR's Technology that was already in its possession prior to the effective date of this Agreement.",
+    "contradiction_score": 0.018694257363677025,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 10221,
+    "end_char": 10280,
+    "original": "1.11  \u201cCMO\u201d shall mean Contract Manufacturing Organization.",
+    "modified": "1.11 \"Contract Manufacturing Entity\" or \"CME\" is hereby defined as the party responsible for the manufacturing process under this agreement.",
+    "contradiction_score": 0.602806806564331,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 10498,
+    "end_char": 10907,
+    "original": "1.13  \u201cConfirmation of Compliance\u201d shall mean BII\u2019s complete and accurate certificate, executed and delivered to XENCOR in connection with each Batch of Product, confirming that such Batch of Product was manufactured according to cGMP, the Process and applicable laws at the BI Facility, and setting forth any deviations therefrom and the results of final investigations performed by BII according to the QAA.",
+    "ollama_generated": "1.13  \"Confirmation of Conformity\" shall denote XENCOR's acceptance of BII's certificate, delivered in connection with each Batch of Product, which attests that the manufacturing process at the BI Facility for this specific Batch was primarily consistent with cGMP, the Process, and applicable laws. Any deviations from these standards and the outcomes of any investigations conducted by BII according to the QAA shall be disclosed in this certificate, unless XENCOR expressly waives such disclosure in writing.",
+    "contradiction_score": 0.21470318734645844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 11079,
+    "end_char": 11631,
+    "original": "The Rules Governing Medicinal products supplied in the European Union: Volume 4 -Medicinal products supplied for Human and Veterinary Use: Good Manufacturing Practice, as amended from time to time; the United States Code of Federal Regulations, title 21, parts 210, 211, 600 and 610, as amended from time to time; and the International Committee on Harmonisation and other comparable guidelines, directives or standards required by governmental authorities in the Major Territories or in any other country or countries agreed in writing by the Parties.",
+    "ollama_generated": "The Manufacturing Practices for Medicinal products supplied within the European Union (EU): Volume 4 -Medicinal products supplied for Human and Veterinary Use, as updated from time to time; the United States Code of Federal Regulations, title 21, parts 210, 211, 600 and 610, as revised from time to time; as well as the International Committee on Harmonisation and other equivalent guidelines, directives, or standards suggested by governmental authorities in the Major Territories, or in any additional countries or territories mutually agreed upon in writing by the Parties, shall be adhered to by the manufacturer, with the understanding that any deviations from these regulations must be communicated and justified in a timely manner to the relevant Parties.",
+    "contradiction_score": 0.0014547985047101974,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 11895,
+    "end_char": 12165,
+    "original": "1.19  \u201cFTE\u201d shall mean a fully allocated employee or consultant of BII and working on the Technology transfer with such time and effort to constitute the equivalent of one (1) employee on a full time basis consistent with normal business and scientific practice [\u2026***\u2026].",
+    "ollama_generated": "1.19 \"FTE\" shall now refer to an individual who is either a fully allocated staff member or an external consultant, engaged by BII for the Technology transfer project. The time commitment of this person may not necessarily equate to that of one (1) full-time employee; rather, it should reasonably approximate the hours and dedication that would be expected from such a role under standard business and scientific practices [\u2026***\u2026]\n\nIn this revised clause, the meaning has been slightly altered by reducing the certainty that an FTE will always equate to one (1) full-time employee. This change allows for a more flexible interpretation of what constitutes an FTE, acknowledging that the time commitment could be less than a full-time effort.",
+    "contradiction_score": 0.004472664091736078,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 15208,
+    "end_char": 15345,
+    "original": "1.34  \u201cProject\u201d shall mean the performance of the Services, including without limitation the Process development program for the Product.",
+    "ollama_generated": "1.34 \"Services\" encompass the scope of work designated as the \"Project,\" which primarily involves the development and refinement of the Process for the Production of the Product. Notably excluded from this definition are any tasks or activities outside the confines of the Project's defined objectives.",
+    "contradiction_score": 0.33874547481536865,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 16136,
+    "end_char": 16227,
+    "original": "1.41  \u201cService(s)\u201d shall mean those certain services performed by BII under this Agreement.",
+    "ollama_generated": "1.41 \"The Services\" are hereby defined as the specific duties and responsibilities undertaken by BII, in accordance with this Agreement. However, it is understood that BII shall have discretion in the methods and approaches used to fulfill these duties, provided they meet the general standards outlined within this Agreement.",
+    "contradiction_score": 0.0021437951363623142,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 19131,
+    "end_char": 19585,
+    "original": "2.1.2  Priority In the event of a conflict or ambiguity between any term of this Agreement and an Appendix, the terms of this Agreement shall prevail. In case the Parties mutually agree that a specific Section of this Agreement shall be modified by the terms of a Project Plan (and that such term of the Project Plan shall prevail) for a specific Service, they may only do so by explicit reference to the Section of this Agreement that shall be modified.",
+    "ollama_generated": "2.1.2 Supremacy and Modification In the event of conflicting or ambiguous terms between this Agreement and an Appendix, the terms outlined in any Project Plan shall take precedence, unless explicitly stated otherwise within this Agreement regarding the specific Service involved. Any modifications to the terms of this Agreement through a Project Plan for a given Service will be considered binding, provided that the Section of this Agreement being modified is expressly referenced in the Project Plan.",
+    "contradiction_score": 0.4758331775665283,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 33286,
+    "end_char": 33724,
+    "original": "2.8.2  Obligations of XENCOR Therefore, XENCOR shall use commercially reasonable efforts to conduct and complete at its own cost and risk a Phase 1 clinical trial with the Product as described in Section 2.8.3 within the timelines set forth herein (subject to Section 2.8.3); and find one or more suitable third party/parties as business partner(s) for the further development of the Product into a medicinal product (\u201cBusiness Partner\u201d).",
+    "ollama_generated": "2.8.2 Responsibilities of XENCOR: XENCOR may, at its discretion and without obligation to do so, endeavor to initiate and conclude, at its sole expense and peril, a Phase 1 clinical trial with the Product as detailed in Section 2.8.3 within the timeframes specified herein (subject to Section 2.8.3). Furthermore, XENCOR is empowered to seek and negotiate with potential third-party collaborators for the advancement of the Product into a medicinal product (\"Business Partner\"), but such partnerships are not guaranteed.",
+    "contradiction_score": 0.008360444568097591,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 36206,
+    "end_char": 36913,
+    "original": "3.1.2  Payment of the Project Fees The Project Fees referred to in Section 3.1.1 above, together with interest at a [\u2026***\u2026] percent ([...***...]%) annual interest rate on any unpaid Project Fees accruing from the earlier of (i) the date of completion of the clinical summary report for the Phase 1 clinical trials of the Product as planned according to Appendix 7  unless delayed as described in Section 2.8.3 or (ii) the date that is five (5) calendar years after the Effective Date (each of the alternatives above, the \u201cDue Date\u201d) until paid in full (the Project Fees together with any such interest, referred to as the \u201cTotal Amount\u201d), shall become duly payable in accordance with the following schedule:",
+    "ollama_generated": "3.1.2 Payment of the Project Fees: The Project Fees outlined in Section 3.1.1 above, along with interest at a [\u2026***\u2026] percent ([...***...]%) annual interest rate on any unpaid Project Fees from the date of payment due (either from the earlier of (i) the date of completion and submission of the clinical summary report for the Phase 1 clinical trials of the Product, as planned according to Appendix 7, or (ii) five (5) calendar years after the Effective Date), will become payable in accordance with the following schedule. However, it is noted that the Sponsor may elect to make partial payments, and any such payment received before the full amount is due shall not be considered as satisfaction of the total obligation unless explicitly agreed upon in writing by both parties. The amount owed, including any interest accrued (referred to as the \"Total Amount\"), remains payable in full until fully satisfied.",
+    "contradiction_score": 0.07167048007249832,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 36913,
+    "end_char": 37416,
+    "original": "a.  In case XENCOR has entered into an agreement with at least one Business Partner, then, beginning from the later of (i) the effective date of such agreement or (ii) the Due Date, XENCOR will pay BII the Total Amount in [...***...] installments of [...***...] of the [...***...] (defined below) that [...***...]; provided, however, that in no event will [...***...] of the annual Licensing Revenue [...***...]; provided that, for the avoidance of doubt, [...***...] shall be excluded from [...***...].",
+    "ollama_generated": "b. In the event that XENCOR has not entered into an agreement with any Business Partner prior to the Due Date, then, beginning from the effective date of such agreement (should it occur), XENCOR's obligation to pay BII the Total Amount will be contingent upon XENCOR having entered into an agreement with at least one Business Partner. Once this condition is met, XENCOR will pay BII the required installments of [...***...] of the [...***...] (defined below), commencing from the later of the effective date or the Due Date. However, it is clarified that [...***...] of the annual Licensing Revenue will not be subject to this payment obligation; furthermore, it should be noted that [...***...] shall not constitute part of the total revenue for purposes of this clause.",
+    "contradiction_score": 0.3270433843135834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 37681,
+    "end_char": 38494,
+    "original": "c.  As long as XENCOR, notwithstanding its commercially reasonable efforts after the completion of the Phase 1 clinical trial either (i) is not able to further develop the Product for technical and/or scientific reasons or (ii) does not decide to proceed with the further development of the Product without a Business Partner and does not enter into an agreement with a Business Partner within two (2) calendar years from the Due Date, then XENCOR shall have no obligation to pay BII any or all of the Total Amount. For the avoidance of doubt, such obligations will become due as described in this Section 3.1.2, at any time XENCOR enters into an agreement with at least one Business Partner or further develops the Product within ten (10) calendar years following the Effective Date, as provided in Section 10.3.",
+    "modified": "c. If XENCOR fails to find a suitable Business Partner and does not commence the further development of the Product within two (2) calendar years following the Due Date, despite its commercially reasonable efforts after the completion of the Phase 1 clinical trial, then XENCOR will be absolved from any obligation to pay BII the Total Amount. However, if XENCOR enters into an agreement with a Business Partner or develops the Product further within ten (10) calendar years following the Effective Date, as outlined in Section 10.3, the obligations described in this Section 3.1.2 will become immediately due to BII. For clarity, such obligations will not arise otherwise.",
+    "contradiction_score": 0.6715711355209351,
+    "kept": true
+  },
+  {
+    "clause_index": 97,
+    "start_char": 38905,
+    "end_char": 39585,
+    "original": "XENCOR shall make payments of all invoiced amounts for the payments of the Total Amount and of the Technology Access Fee due and payable in accordance with Section 5.2.3 and 5.2.4, as applicable [...***...] from the date of receipt of BII\u2019s invoice. If XENCOR fails to make timely payment of the invoiced amount, interest shall accrue on the amount of the Project Fees shown in the invoice at a fixed annual rate equal to the highest rate of interest quoted as the \u201cprime rate\u201d in The Wall Street Journal on the day that payment was due. All payments due under this Agreement shall be paid in US dollars by wire transfer or by such other means agreed to in writing by the Parties.",
+    "ollama_generated": "Under this Agreement, BII has the right to demand payment from XENCOR for all amounts billed, including but not limited to the Total Amount and the Technology Access Fee, as per Sections 5.2.3 and 5.2.4, whenever appropriate, starting from the date BII sends its invoice. If XENCOR does not settle its due invoices promptly, interest shall accumulate on the Project Fees stated in the invoice at an annual fixed rate equivalent to the lowest rate of interest quoted as the \"prime rate\" in The Wall Street Journal on the payment due date. All payments owed under this Agreement must be remitted in US dollars, either via wire transfer or by any alternative means mutually agreed upon in writing by both Parties.",
+    "contradiction_score": 0.2892715334892273,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 39919,
+    "end_char": 39946,
+    "original": "[...***...] Account Number:",
+    "ollama_generated": "[...]***..., Designated Bank Account:\n\nIn this revised version, the account number is referred to as a \"Designated Bank Account\" instead of the original \"Account Number\". While this change does not significantly alter the meaning of the original clause, it subtly shifts the focus from a specific account number to a more general term that suggests a designated or chosen account. This shift might be used to imply a broader range of acceptable accounts or to create a sense of flexibility in the account selection process. However, it is important to note that the revised clause still maintains professionalism and clarity.",
+    "contradiction_score": 0.037318773567676544,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 59653,
+    "end_char": 60601,
+    "original": "Notwithstanding the foregoing, no Technology Access Fee shall be due or payable if BII does not produce a viable Process for manufacture of Product as evidenced by failure to produce cGMP Product within the timeframe agreed in the Project Plan or, if factors outside of the reasonable control of BII (such as e.g. a cell-line not suitable for production, delay in the growth of the cell line; shortage of raw materials and supplies, delay or non\u00adperformance of BII\u2019s suppliers, requests or orders of governments or regulatory authorities, etc.) require the timeframe in the Project Plan to be extended, the extended timeframe agreed upon in writing between BII and XENCOR that is reasonable and customary for paying customers in the biopharmaceutical industry for companies of comparable size and the respective activities. In addition, no Technology Access Fee shall be due or payable in connection with XENCOR\u2019s election to use or have used (e.g.",
+    "ollama_generated": "Despite the preceding provisions, no Technology Access Fee will become payable if BII fails to deliver a market-ready Manufacturing Process for the Production, as indicated by the inability to produce cGMP Product within the mutually agreed timeline specified in the Project Plan. However, should unforeseen circumstances beyond BII's control (such as an unsuitable cell-line for production, delays in the propagation of the cell line; scarcity of raw materials and supplies, delays or non-performance on the part of BII's suppliers, mandates or directives from governmental or regulatory bodies, etc.) necessitate a revision of the Project Plan's timeline, the revised schedule will be subject to XENCOR's approval. Furthermore, no Technology Access Fee will accrue under any circumstances related to XENCOR's choice to employ or have employed (e.g.)",
+    "contradiction_score": 0.005273810587823391,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 63933,
+    "end_char": 64356,
+    "original": "5.2.4  Payment Terms The Technology Access Fee, as applicable, shall be paid to BII upon completion of the Technology transfer described in Section 5.2.3 and shall be payable in accordance with the provisions set forth under Sections 3.2 and 3.3 above. Parties agree that the Technology transfer shall be completed upon the transfer of Process and all reasonably necessary related BII Confidential Information and Know-How.",
+    "ollama_generated": "5.2.4 Payment Obligation: The recipient, if applicable, will be responsible for making the Technology Access Fee payments to BII. This obligation arises following the recipient's readiness to demonstrate the utilization of the transferred Technology, as detailed in Section 5.2.3. The payment shall be made in accordance with the guidelines provided in Sections 3.2 and 3.3 above. It is understood that the completion of the technology transfer occurs when BII has received the Process, all necessary related Confidential Information, and Know-How from the recipient.\n\nIn this revised clause, the payment obligation shifts to the recipient, and the completion of the technology transfer is contingent upon BII receiving the necessary information and know-how from the recipient rather than the recipient receiving the technology transfer.",
+    "contradiction_score": 0.059337861835956573,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 67677,
+    "end_char": 67913,
+    "original": "For avoidance of doubt, all XENCOR liability or indemnification obligations that might result from representations and the warranties under this Section 6 are always subject to the limitations set forth in Section 7.4 of this Agreement.",
+    "ollama_generated": "To eliminate any ambiguity, it is important to note that all liabilities or indemnification responsibilities arising from the representations and warranties outlined in Section 6 shall never exceed the limits specified in Section 7.4 of this Agreement, which serve as our cap for such obligations.",
+    "contradiction_score": 0.0012099269079044461,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 67913,
+    "end_char": 67958,
+    "original": "6.3  BII Warranties BII hereby warrants that:",
+    "modified": "6.3. Customer's Assurance: The Customer hereby assures that:\n\nIn this revised clause, the responsibility for the warranty has been shifted from BII (the provider) to the Customer (the recipient). This change implies that the Customer now assumes the obligation of ensuring or warranting the stated condition, rather than BII.",
+    "contradiction_score": 0.6700916886329651,
+    "kept": true
+  },
+  {
+    "clause_index": 143,
+    "start_char": 67958,
+    "end_char": 69968,
+    "original": "a.  BI is entitled to use the BI Facility and BII Confidential Information and Know-How, for the purposes set forth in this Agreement; and b.  BII at the Effective Date, it is not aware of any special or unusual hazards that would arise as a result of its carrying out of the Projects as planned; and c.  at the Effective Date, it has not been debarred, nor is it subject to a pending debarment, and that it will not, to the best of its Knowledge, use in any capacity in connection with the Services under this Agreement any person, who has been debarred pursuant to section 306 of the FDCA, 21 U.S.C. \u00a7 335a, or who is the subject of a conviction described in such section. BII agrees to notify XENCOR in writing immediately if it has Knowledge that BII or any person who is performing Services is debarred or is the subject of a conviction described in section 306, or if any action, suit, claim, investigation, or proceeding is pending, or to BII\u2019s Knowledge, is threatened, relating to the debarment or conviction of BII or any person performing Services under this Agreement; and d.  to the best of its Knowledge at the Effective Date its performance under this Agreement including, but not limited to, the BII Technology and its use in the Process, by BII, XENCOR or a third party manufacturer of XENCOR does not infringe the intellectual property rights of any third party and it will promptly notify XENCOR in writing should it become aware of any claims asserting such infringement or of any third party intellectual property rights, that would be infringed by the BII Technology and its use in the Process. For the avoidance of doubt, the currently pending Cabilly dispute is excluded and will be addressed/ compensated by XENCOR once applicable: and e.  as of the Effective Date no third party has asserted any claim or lawsuit against BII claiming infringement of any intellectual property owned by a third party with relation to BII Technology and/or the Process, or any part or component thereof.",
+    "ollama_generated": "a. BI retains the right to utilize the BI Facility and BII Confidential Information and Know-How, as specified in this Agreement; however, BI assumes full responsibility for any unintended consequences arising from such use beyond what is reasonably expected.\n\n   b. At the Effective Date, BII acknowledges that it may encounter potential risks or hazards associated with the Projects, and it shall be solely responsible for managing and mitigating these risks to the extent permitted by law and under normal industry practices.\n\n   c. As of the Effective Date, neither BII nor any person performing Services under this Agreement is debarred or subject to a pending debarment, as per section 306 of the FDCA, 21 U.S.C. \u00a7 335a. In the event that such debarment occurs or if BII becomes aware of any conviction described in the said section, BII will immediately inform XENCOR in writing and take necessary corrective actions.\n\n   d. BII represents and warrants that its performance under this Agreement, including but not limited to, the BII Technology and its use in the Process, does not violate or infringe upon any third party's intellectual property rights. In the event BII becomes aware of any potential infringement claims or third-party intellectual property rights that may be infringed by the BII Technology and its use in the Process, it shall promptly notify XENCOR in writing.\n\n   e. Notwithstanding the currently pending Cabilly dispute, for the avoidance of doubt, no third party has asserted any claim or lawsuit against BII alleging infringement of any intellectual property rights owned by a third party with regard to BII Technology and/or the Process, or any part or component thereof, as of the Effective Date. However, BII acknowledges that it bears full responsibility for addressing any such claims or lawsuits should they arise in the future.",
+    "contradiction_score": 0.11617385596036911,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 70481,
+    "end_char": 71790,
+    "original": "a.  BII agrees that if a third party threatens or asserts any claim or files any lawsuit, claiming that BII Intellectual Property utilized under this Agreement and necessary for manufacture and production of the Product in accordance with this Agreement, including, without limitation, the BII Technology or the Process, or the use thereof, constitutes infringement of any intellectual property owned by a third party (each, a \u201cClaim\u201d), BII will promptly and timely inform XENCOR of such Claim, and BII shall have the first right to negotiate, litigate and/or settle any such Claim, and shall defend any such Claim unless it would not be commercially reasonable for BII to bear the reasonably anticipated losses, damages, costs and expenses arising from any settlement or judgment resulting from such Claim. For the avoidance of doubt, the term \u201ccommercially reasonable\u201d, as used in this paragraph a. shall be determined (i) in the context of BII\u2019s entire business related to the intellectual property that is the subject to the Claim, where the Claim asserts infringement that impacts aspects of BII\u2019s business beyond the XENCOR relationship, and (ii) if the Claim asserts infringement that is limited only to activities performed for XENCOR, in the context of the entire relationship between XENCOR and BII.",
+    "ollama_generated": "a. Under this Agreement, XENCOR acknowledges that in the event a third party alleges any claim or initiates litigation, asserting that the intellectual property utilized by BII for manufacturing and producing the Product, specifically encompassing the BII Technology or the Process, or their use thereof, infringes on intellectual property owned by said third party (each, a \"Claim\"), BII shall immediately notify XENCOR of such Claim. However, BII retains the sole discretion to negotiate, litigate, and/or settle any such Claim, although BII is not obligated to defend any such Claim if it would be unreasonable for BII, under the circumstances and considering its entire business related to the intellectual property at issue, particularly when the Claim extends beyond the scope of the relationship between XENCOR and BII, to bear the potential losses, damages, costs, and expenses that may result from any settlement or judgment stemming from such Claim. The term \"unreasonable,\" as used in this clause, shall be determined based on a consideration of BII's entire business related to the intellectual property that is the subject of the Claim, taking into account the potential impact on BII's business beyond the XENCOR relationship, and if the Claim pertains solely to activities performed for XENCOR, in light of the overall relationship between XENCOR and BII.",
+    "contradiction_score": 0.062411606311798096,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 77892,
+    "end_char": 78725,
+    "original": "b.  XENCOR\u2019s Indemnification Obligations Always subject to Section 7.4, XENCOR shall indemnify, defend and hold BII and its Representatives harmless from and against all Losses incurred by them as a result of third party claims based on or resulting from (i) BII\u2019s use of the XENCOR Confidential Information and Know-How, the Material, the XENCOR Intellectual Property and/or the XENCOR Technology in accordance with this Agreement\u037e or (ii) XENCOR\u2019s non\u00adcompliance with the warranties given under Sections 6.1 and 6.2 of this Agreement, or (iii) XENCOR\u2019s use of the Deliverables (including but not limited to the Product, if any), or (iv) XENCOR\u2019 s use of the Process, the BII Technology, the BII Confidential Information and Know-How, and/or any other results of the Project or this Agreement, not in accordance with this Agreement.",
+    "ollama_generated": "a. In compliance with Section 7.4, BII shall have the right to seek indemnification from XENCOR for any losses sustained by them arising from third-party claims pertaining to: (i) BII's utilization of the XENCOR Confidential Information and Know-How, the Material, the XENCOR Intellectual Property, and/or the XENCOR Technology, as permitted by this Agreement; or (ii) any breaches of the warranties provided under Sections 6.1 and 6.2 by XENCOR, or (iii) BII's use of the Deliverables (including, but not limited to, the Product, if applicable), or (iv) BII's use of the Process, the XENCOR Technology, the XENCOR Confidential Information and Know-How, and/or any other outcomes stemming from the Project or this Agreement, when such usage contradicts the terms of this Agreement.\n\nThis modification shifts the indemnification obligation from XENCOR to BII, allowing the latter to seek reimbursement for certain losses under specified circumstances.",
+    "contradiction_score": 0.2783166170120239,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 81105,
+    "end_char": 81498,
+    "original": "8 Intellectual Property 8.1  Existing Intellectual Property Rights BII hereby acknowledges that XENCOR is the owner of XENCOR Confidential Information and Know-How and the XENCOR Technology and BII shall acquire no rights, title or interest whatsoever in or to any of XENCOR Confidential Information and Know-How and/or XENCOR Technology, except as specifically provided for in this Agreement.",
+    "ollama_generated": "8 Intellectual Property\n8.1  Ownership of Existing Intellectual Property Rights\nIn this Agreement, BII acknowledges that XENCor is the sole owner of XENCor's Confidential Information, Know-How, and Technology (hereinafter \"XENCor IP\"). Furthermore, it is expressly stated that upon the execution of this Agreement, BII shall not acquire any rights, title, or interest in or to any portion of the XENCor IP, except as may be explicitly granted under the terms of this Agreement. However, BII shall have a non-exclusive, limited license to use the XENCor IP solely for the purpose of performing its obligations and exercising its rights under this Agreement.",
+    "contradiction_score": 0.035977087914943695,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 84972,
+    "end_char": 85343,
+    "original": "For the avoidance of doubt, (i) know-how pertaining to manufacturing of biopharmaceuticals generally and gained during the course of performing this Agreement may be freely used by BII in its biopharmaceutical business without any restrictions, provided, that, notwithstanding the foregoing, BII may not use any Other Improvement that relates specifically to the Product.",
+    "ollama_generated": "To eliminate any ambiguity, (i) technical knowledge related to the production of biopharmaceuticals in a broader sense, acquired throughout the execution of this Agreement, may be employed without limitations by BII within its biopharmaceutical operations; however, it is important to note that BII shall not utilize any proprietary advancements directly linked to the Production Item, except for those explicitly permitted.",
+    "contradiction_score": 0.0008191067026928067,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 169,
+    "start_char": 85343,
+    "end_char": 85726,
+    "original": "a.  Each Party shall ensure that all of such Party\u2019s (or its Affiliated Company\u2019s) employees or contractors acting on its behalf pursuant to this Agreement are and will be obligated under a binding written agreement or by law to assign to such Party all inventions and rights on the inventions made under this Agreement so that such Party can comply with the terms of this Agreement.",
+    "modified": "b. Each Party shall not be responsible for any inventions or rights related to this Agreement created by its employees or contractors, unless such creations are explicitly assigned in a binding written agreement or are subject to legal obligations, allowing the other Party the opportunity to acquire such rights on a non-exclusive basis, as deemed necessary for their compliance with this Agreement.",
+    "contradiction_score": 0.9676805734634399,
+    "kept": true
+  },
+  {
+    "clause_index": 170,
+    "start_char": 85726,
+    "end_char": 86119,
+    "original": "b.  Subject to the terms and conditions contained in this Agreement, BII shall be responsible for filing, prosecution and maintenance of patent applications and patents granted or generated under this Agreement and owned by BR. XENCOR shall be responsible for filing, prosecution and maintenance of patent applications and patents granted or generated under this Agreement and owned by XENCOR.",
+    "modified": "c. Under the provisions of this Agreement, both BII and XENCOR shall share responsibility for the filing, prosecution, and maintenance of all patent applications. Patent rights granted or generated during the term of this Agreement shall be jointly owned by BR and XENCOR, with each party responsible for managing their respective patent portfolio.",
+    "contradiction_score": 0.6976852416992188,
+    "kept": true
+  },
+  {
+    "clause_index": 174,
+    "start_char": 87267,
+    "end_char": 88099,
+    "original": "b.  Performance of Project: During the term of this Agreement, XENCOR hereby grants to BII and BII hereby accepts for the purpose of pursuing the Project a non-exclusive, non-sub-licensable (except to Affiliated Companies), royalty-free, license to use the XENCOR Confidential Information and Know-How, the Material, the XENCOR Intellectual Property and/or any part of the Other Improvements for the sole purpose to develop the Process, and for the manufacturing of the Product for clinical purposes in accordance with this Agreement. BII expressly agrees not to use or practice any XENCOR Confidential Information and Know- How, the Material, and/or the XENCOR Intellectual Property for any purpose other than performance or the Services in accordance with this Agreement, except if otherwise expressly permitted in this Agreement.",
+    "ollama_generated": "c. Utilization of Project: Throughout the tenure of this Agreement, XENCOR grants BII a non-exclusive, non-transferable (without prior written consent), and royalty-free license to employ the XENCOR Confidential Information, Know-How, Materials, Intellectual Property, and Other Improvements solely for the purpose of researching and creating the Process, and manufacturing the Product for clinical applications in accordance with this Agreement. BII acknowledges and accepts that they shall not exploit or utilize any XENCOR Confidential Information, Know-How, Materials, or Intellectual Property for purposes beyond those expressly outlined in this Agreement, except where explicitly allowed by the terms herein. Moreover, any such use must be strictly in accordance with the provisions of this Agreement and with XENCOR's prior written consent.",
+    "contradiction_score": 0.4473150372505188,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 183,
+    "start_char": 93365,
+    "end_char": 93755,
+    "original": "Furthermore, a Receiving Party may make such disclosures of the Disclosing Party\u2019s Confidential Information and Know\u00adHow to governmental entities to the extent reasonably necessary in connection with pursuit of intellectual property protection, development and commercialization activities related to the Product as contemplated by this Agreement, and approvals to use and sell the Product.",
+    "ollama_generated": "The Disclosing Party hereby acknowledges that the Receiving Party may, at its discretion, disclose Confidential Information and Know-How to relevant governmental entities, to the extent it deems necessary, for the purposes of intellectual property protection, product development, commercialization, and obtaining necessary approvals related to the use and sale of the Product, as envisioned by this Agreement. The Receiving Party shall bear no liability for any disclosures made in accordance with this provision.",
+    "contradiction_score": 0.012699004262685776,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 196,
+    "start_char": 98262,
+    "end_char": 99082,
+    "original": "b.  In the event of termination by XENCOR according to Section 10.2.1 prior to completion of the Phase 1 clinical trial with the Product as described in Section 2.8.3. for any other reason than the reasons set forth under Section 10.3.1.a the Total Amount shall be limited to all non-cancellable expenses reasonably incurred by BII in accordance with the Project Plan prior to such termination in respect of the purchase of supplies or raw materials, and reasonable wind-down costs not to exceed sixty (60) days. BII shall mitigate all wind-down costs and non-cancellable expenses to the extent possible. Campaigns cancelled shall be paid as provided for in Section 4.2 above. For the avoidance of doubt, in such case, XENCOR many not use the Process outside BII, except as otherwise agreed in writing by XENCOR and BII.",
+    "ollama_generated": "a. Upon unilateral termination by XENCOR, prior to the completion of the Phase 1 clinical trial with the Product as described in Section 2.8.3, for any reasons not explicitly specified under Section 10.3.1.a, the Total Amount shall be capped at all non-cancellable expenses reasonably incurred by BII in accordance with the Project Plan up to such termination, in relation to the procurement of supplies or raw materials, and reasonable wind-down costs amounting to no more than sixty (60) days. It is XENCOR's responsibility to minimize all wind-down costs and non-cancellable expenses to the fullest extent possible. BII shall have the right to recover any unpaid amounts from cancelled campaigns in accordance with Section 4.2 above. For clarity, such termination allows BII, if agreed upon in writing, to continue using the Process outside of XENCOR's purview.",
+    "contradiction_score": 0.051780521869659424,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 197,
+    "start_char": 99082,
+    "end_char": 99360,
+    "original": "c.  In the event of termination by BII according to Section 10.2.1 prior to completion of the Phase 1 clinical trial with the Product, XENCOR shall have no obligation to pay BII any or all of the Total Amount. The use of the Process is subject to Section 5.2.3, 5.2.4 and 5.2.5.",
+    "ollama_generated": "c. Upon termination by BII in accordance with Section 10.2.1 before the conclusion of the Phase 1 clinical trial with the Product, BII shall have no obligation to reimburse XENCOR for any portion of the Total Amount. The right to use the Process remains subject to Sections 5.2.3, 5.2.4, and 5.2.5.",
+    "contradiction_score": 0.005323026794940233,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 204,
+    "start_char": 101895,
+    "end_char": 102269,
+    "original": "BII shall mitigate all wind-down costs and non-cancellable expenses to the extent possible. Campaigns cancelled shall be paid as provided for in Section 4.2 above. For the avoidance of doubt, in the event of a termination as contemplated in this Section 10.3.2b, Section 3.1.2.c shall continue in effect. The use of the Process is subject to Sections 5.2.3, 5.2.4 and 5.2.5.",
+    "ollama_generated": "BII is only required to reduce wind-down costs and non-cancellable expenses to a reasonable extent. In cases where campaigns are terminated, compensation will be determined in accordance with Section 4.2 above. For the sake of clarity, it should be noted that if termination occurs as described in this Section 10.3.2b, BII retains the right to continue adhering to Section 3.1.2.c. The utilization of the Process is subject to Sections 5.2.3, 5.2.4, and 5.2.5; however, BII shall not be held liable for any unforeseen circumstances arising from their application.",
+    "contradiction_score": 0.10690077394247055,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 212,
+    "start_char": 106254,
+    "end_char": 106652,
+    "original": "11.3  Secrecy Agreement between the Parties The Parties agree that all information exchanged pursuant to the Secrecy Agreement between the Parties with effectiveness as of June 28, 2011 shall be Confidential Information and Know-How protected in accordance with this Agreement, and such Secrecy Agreement shall be superseded by the terms of this Agreement and shall have no further force or effect.",
+    "ollama_generated": "11.3 Confidentiality Obligations between the Parties: The Parties acknowledge their mutual obligations to preserve the confidentiality of any information shared prior to this Agreement, effective from June 28, 2011, which shall be deemed as Confidential Information and Know-How. It is understood that these prior confidentiality arrangements may continue to apply concurrently with the terms of this Agreement, unless specifically superseded or amended by mutual agreement in writing. This does not imply a diminishment or waiving of the Parties' ongoing obligations under any existing confidentiality agreements, but rather serves to supplement them where there may be overlap or conflict.",
+    "contradiction_score": 0.13967198133468628,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 213,
+    "start_char": 106652,
+    "end_char": 107696,
+    "original": "11.4  Publicity XENCOR or BII may issue the mutually agreed press release attached as Appendix 8  announcing the execution of this Agreement. Except as provided in the preceding sentence, no press release or other form of publicity regarding a Project or this Agreement shall be permitted by either Party to be published unless both Parties have indicated their consent to the form of the release in writing. The same applies, to any changes in the press release attached as Appendix 8. Nothing in this Section shall prevent the Parties from disclosing this Agreement, if and as far as required by applicable laws, rules or regulations. However, the disclosing Party shall inform the other Party well in advance whenever reasonably possible and shall provide the opportunity to comment on such required disclosure (e.g. under SEC rules). In addition, subject to XENCOR\u2019s compliance with Section 9.1, nothing in this Section shall prevent XENCOR from disclosing the status of development, regulatory approval or commercialization of the Product.",
+    "modified": "11.4  Either Party, XENCOR or BII, retains the right to issue a mutually agreed press release as outlined in Appendix 8, announcing the execution of this Agreement without prior written consent from the other Party. Any additional press releases or publicity concerning a Project or this Agreement, and any subsequent alterations to the attached press release (Appendix 8), require the explicit written approval of both Parties before publication. Notwithstanding this Section, either Party may disclose this Agreement when legally mandated, provided they inform the other Party in a timely manner whenever feasible and offer an opportunity for comment on such disclosure, as with SEC rules. Furthermore, subject to XENCOR's compliance with Section 9.1, XENCOR is free to publicly disclose the status of development, regulatory approval, or commercialization of the Product without prior written consent from BII.",
+    "contradiction_score": 0.8446988463401794,
+    "kept": true
+  },
+  {
+    "clause_index": 214,
+    "start_char": 107696,
+    "end_char": 108038,
+    "original": "11.5  Notices Any notice required or permitted to be given hereunder by either Party shall be in writing and shall be (i) delivered personally, (ii) sent by registered mail, return receipt requested, postage prepaid or (iii) delivered by facsimile with immediate confirmation of receipt, to the addresses or facsimile numbers set forth below:",
+    "ollama_generated": "11.5 Notifications: Any notification needed or permitted under this Agreement shall be made in writing and may be (i) hand-delivered, (ii) sent via email with read receipt confirmation or (iii) delivered by courier service with proof of delivery, to the contact details provided below:\n\nThis revision allows for notifications via email, which is a more common and potentially quicker method of communication in today's digital age. The original clause only allowed for registered mail, facsimile, and personal delivery.",
+    "contradiction_score": 0.0026610938366502523,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 216,
+    "start_char": 108119,
+    "end_char": 108376,
+    "original": "Boehringer Ingelheim International GmbH Binger Stra\u00dfe 17355216 Ingelheim Federal Republic of Germany Attention: Mr. Alois Konrad (Global Dept. Biopharma Contract Manufacturing Business) Fax:  0049- 7351/54 - 4845 Phone:  0049- 7351/54 - 96145 If to XENCOR :",
+    "ollama_generated": "Boehringer Ingelheim International GmbH, Binger Stra\u00dfe 17355216, Ingelheim, Federal Republic of Germany, Attn: Mr. Alois Konrad (Global Dept. Biopharma Contract Manufacturing Business)\n        Fax:  0049- 7351/54 - 4845\n        Phone:  0049- 7351/54 - 96145\n\nIf received from XENCOR:\n\nThe obligation to deliver the goods and/or services as described in this agreement shall be contingent on XENCOR's timely fulfillment of its own obligations under this contract. In the event that XENCOR fails to meet a deadline or otherwise breaches this agreement, Boehringer Ingelheim shall have the right to suspend or terminate this contract without liability and without prejudice to any other rights it may have. Moreover, XENCOR shall be responsible for any additional costs or damages incurred by Boehringer Ingelheim as a result of such breach or delay.",
+    "contradiction_score": 0.13847342133522034,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 224,
+    "start_char": 110572,
+    "end_char": 110987,
+    "original": "11.7  Entire Agreement This Agreement (including the Exhibits and Schedules attached hereto) constitutes the entire agreement between the Parties relating to its subject matter and supersedes all prior or contemporaneous agreements, understandings or representations, either written or oral, between XENCOR and BII with respect to such subject matter (including the Secrecy Agreement effective as of June 28, 2011).",
+    "modified": "11.7 Scope of Agreement: Any and all communications, representations, or understandings, whether written or oral, previously made between XENCOR and BII regarding the subject matter of this Agreement (including the Exhibits, Schedules, and the Secrecy Agreement effective as of June 28, 2011) are hereby acknowledged by both Parties. However, it is understood that any agreements, understandings, or representations outside of this written Agreement shall not supersede or amend its terms unless explicitly agreed upon in writing by both parties and added as an amendment to this Agreement.",
+    "contradiction_score": 0.8194999694824219,
+    "kept": true
+  },
+  {
+    "clause_index": 227,
+    "start_char": 112174,
+    "end_char": 112302,
+    "original": "11.10  Dispute Resolution Any dispute relating to the Project shall first be submitted for resolution to the Steering Committee.",
+    "ollama_generated": "11.10 Dispute Resolution: In the event of any disagreement concerning the Project, parties are initially encouraged to engage in informal discussions with the Steering Committee to seek a mutually agreeable solution; failing which, either party retains the right to pursue independent resolution mechanisms outside of the Steering Committee's jurisdiction.",
+    "contradiction_score": 0.08146291226148605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 229,
+    "start_char": 113173,
+    "end_char": 113616,
+    "original": "11.12  Independent Contractors Nothing in this Agreement is intended, or shall be deemed, to establish a joint venture or partnership (or any fiduciary duty) between XENCOR and BII. Neither Party to this Agreement shall have any express or implied right or authority to assume or create any obligations on behalf of, or in the name of, the other Party, or to bind the other Party to any contract, agreement or undertaking with any third party.",
+    "ollama_generated": "11.12 Independently Acting Entities: It is explicitly understood that this Agreement does not imply, nor should it be interpreted as creating, a joint venture, partnership, or any mutual obligations beyond those expressly stated, including the establishment of fiduciary duties between XENCOR and BII. Each Party maintains the exclusive authority to undertake and commit actions only in their own name, without incurring obligations or responsibilities on behalf of, or binding the other Party, to any third party contract, agreement, or undertaking, unless specifically authorized in writing.",
+    "contradiction_score": 0.02283957600593567,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 232,
+    "start_char": 113973,
+    "end_char": 114040,
+    "original": "Monrovia, February 16 2012 Biberach, February 13, 2012 XENCOR, Inc.",
+    "ollama_generated": "Monrovia, February 16, 2012, Biberach, February 13, 2012\nXENCOR, Inc. (hereinafter \"Contractor\") and [Recipient's Name] (hereinafter \"Client\"),\n\nIn the event that either party fails to perform its obligations under this Agreement in a timely manner, the other party shall have the right, but not the obligation, to terminate this Agreement with immediate effect, without prejudice to any other rights or remedies it may have. The parties acknowledge and agree that any costs or damages arising from such termination shall be borne exclusively by the defaulting party.\n\nThis clause has been modified to shift the responsibility of a potential breach of contract towards both parties, making termination a right but not an obligation for either party. Additionally, the financial burden of any resulting costs or damages has been explicitly placed on the defaulting party.",
+    "contradiction_score": 0.05644567310810089,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 237,
+    "start_char": 120371,
+    "end_char": 120534,
+    "original": "Members of the Project Team and Steering Committee [\u2026***\u2026] [\u2026***\u2026] [\u2026***\u2026] [\u2026***\u2026] [\u2026***\u2026] [\u2026***\u2026] [\u2026***\u2026] [\u2026***\u2026] ***Confidential Treatment Requested Appendix 4 :",
+    "ollama_generated": "Obligation Regarding Confidentiality and Proprietary Information of the Project Team and Steering Committee (as defined herein):\n\nAll members of the aforementioned committees agree, during their tenure and thereafter, to maintain the confidentiality of any and all non-public information received in connection with this Agreement. Specifically excluded from this obligation are any materials, data, or information that (i) were publicly available at the time of disclosure, (ii) become publicly available after disclosure through no fault of the recipient, or (iii) are lawfully obtained from a third party who has the right to disclose such information.\n\nIn the event that any member is required by law or governmental regulation to disclose any of the confidential or proprietary information, they shall provide prior written notice to the other party and cooperate in seeking an protective order or other appropriate remedy to preserve the confidentiality of such information to the extent possible under applicable law.\n\nIt is expressly understood that a breach of this obligation may result in significant harm to the disclosing party, and as such, any member who violates this provision shall be liable for any damages arising from such violation, including but not limited to reasonable attorney's fees and costs associated with enforcing this provision.\n\n[Confidential Treatment Requested: Appendix 4]",
+    "contradiction_score": 0.035412389785051346,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 239,
+    "start_char": 127878,
+    "end_char": 128058,
+    "original": "Specifications, incl. shipping and packing instructions agreed by the Parties (to be attached upon agreement of the Parties) [\u2026***\u2026] ***Confidential Treatment Requested Appendix 7:",
+    "ollama_generated": "Specifications, including shipping and packing instructions, yet to be mutually determined by the Parties (these details to follow upon mutual consensus of the Parties) [...***...] ***Confidential Handling Directive - Appendix 7:\n\nIn this revised clause, the onus for determining the specifications, including shipping and packing instructions, has been shifted from an assumed agreement to a mutually determined process. The language is kept professional while providing more flexibility in the negotiation process.",
+    "contradiction_score": 0.06294111907482147,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 251,
+    "start_char": 140539,
+    "end_char": 140559,
+    "original": "Heidi Chokeir, Ph.D.",
+    "ollama_generated": "Shall be hereinafter referred to as the \"Consultant\": Heidi Chokeir, Ph.D.\n\nThe Consultant shall not bear any liability for the outcome or results of the advice, recommendations, or suggestions provided in this agreement, unless such liability arises from gross negligence or willful misconduct on their part. The Consultant's responsibilities are limited to offering professional guidance based on their expertise, and they shall not be held accountable for any unintended consequences or unforeseen events that may arise as a result of the implementation of such advice.\n\nIn the event that the parties involved in this agreement disagree with the Consultant's advice or recommendations, it is incumbent upon them to seek additional opinions from other qualified professionals before taking any actions based on the Consultant's input. The Consultant's role is advisory and consultative only, and they shall not be considered as a party responsible for the execution of any decisions made by the parties in this agreement.\n\nIn the unlikely event that legal action is required, the Consultant shall have the right to retain their own counsel at their expense, and the parties agree to indemnify and hold harmless the Consultant from any and all claims, damages, liabilities, costs, or expenses arising out of this agreement or the services provided under it.\n\nThis clause is intended to clarify the nature of the relationship between the parties and the Consultant, and it does not limit the applicability of other provisions in this agreement that may pertain to the Consultant's obligations, rights, or responsibilities.",
+    "contradiction_score": 0.014901927672326565,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 252,
+    "start_char": 140559,
+    "end_char": 140823,
+    "original": "Canale Communications for Xencor Tel: 619-849-5377 heidi@canalecomm.com Boehringer Ingelheim GmbH Heidrun Thoma Corporate communications Boehringer Ingelheim GmbH 55216 Ingelheim/Germany Phone: +49/6132 77 3966 Twitter: www.twitter.com/boehringer More information:",
+    "ollama_generated": "Responsibility for communication matters involving Xencor shall primarily rest with Canale Communications, represented by Heidi Canale (heidi@canalecomm.com / Tel: 619-849-5377). Boehringer Ingelheim GmbH will be obliged to promptly respond to any inquiries or requests for information regarding these matters from Canale Communications, and shall keep Heidrun Thoma (Corporate communications, Boehringer Ingelheim GmbH, 55216 Ingelheim/Germany / Phone: +49/6132 77 3966 / Twitter: www.twitter.com/boehringer) informed of such responses. Boehringer Ingelheim GmbH retains the discretion to address any non-urgent communication matters directly, subject to prior consultation with Canale Communications for coordination and consistency purposes.",
+    "contradiction_score": 0.18730229139328003,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

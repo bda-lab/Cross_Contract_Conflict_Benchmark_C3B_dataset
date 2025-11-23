@@ -1,0 +1,711 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 68,
+    "original": "Exhibit 10.1 COLLABORATION AGREEMENT by and between THERAVANCE, INC.",
+    "ollama_generated": "Exhibit 10.1 FREELANCE COOPERATION AGREEMENT between the freelancer (hereinafter referred to as \"Independent Collaborator\") and THERAVANCE, INC. (the \"Company\").\n\nIn consideration of the mutual covenants contained herein, the Company and the Independent Collaborator agree as follows:\n\nInstead of the original clause, the revised version would read:\n\nClause (Altered):\nThe Independent Collaborator shall have the discretion to determine the methods and approaches for completing the tasks assigned by the Company under this Agreement. The Company acknowledges that it shall not interfere with or direct the day-to-day activities of the Independent Collaborator unless specifically requested for guidance or consultation by the Independent Collaborator.\n\nThis change shifts the responsibility for determining project methods and approaches from the Company to the Independent Collaborator, allowing them more autonomy in their work.",
+    "contradiction_score": 0.003184128552675247,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 18460,
+    "end_char": 18540,
+    "original": "1.23  \u201cDevelopment Milestone\u201d shall have the meaning set forth in Section 6.2.1.",
+    "ollama_generated": "1.23 \"Milestone of Development\" is hereby defined in accordance with the description provided in Section 6.2.1.\n\n(Explanation: This revised clause introduces a slightly different tone by using \"Milestone of Development\" instead of \"Development Milestone\". The purpose is to emphasize that this term is defined elsewhere, rather than assuming that the reader already knows what it means.)",
+    "contradiction_score": 0.0212559811770916,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 19967,
+    "end_char": 20041,
+    "original": "1.26  \u201cDisclosing Party\u201d shall have the meaning set forth in Section 1.17.",
+    "modified": "1.26 For purposes of clarity, the term \"Receiving Party\" shall refer to the definition provided in Section 1.17.",
+    "contradiction_score": 0.9468407034873962,
+    "kept": true
+  },
+  {
+    "clause_index": 35,
+    "start_char": 20293,
+    "end_char": 20391,
+    "original": "1.29  \u201cFDA\u201d means the United States Food and Drug Administration and any successor agency thereto.",
+    "ollama_generated": "1.29 \"FDA\" refers to the United States Food and Drug Administration, and any entity that assumes its functions or responsibilities as a result of reorganization, agency transfer, or other similar change shall also be considered as the 'FDA' under this agreement.",
+    "contradiction_score": 0.0056596118956804276,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 21462,
+    "end_char": 21876,
+    "original": "1.34  \u201cGSK Compound\u201d means a GSK Initially Pooled Compound, any Replacement Compound offered up to the collaboration by GSK or a GSK non-LABA Compound utilised by GSK for Development purposes in relation to combination product activity under this Agreement currently owned or subsequently discovered by GSK and/or its predecessors in title or in-licensed from a Third Party by GSK and/or its predecessors in title.",
+    "ollama_generated": "1.34  \"GSK Compound\" denotes any compound initially pooled by GSK, substituted compounds provided to the collaboration by GSK up until the collaboration's termination, or a non-LABA compound developed by GSK for research purposes in conjunction with this Agreement regarding combination product activity. This term includes GSK's currently owned or subsequently discovered compounds, as well as those acquired from third parties, throughout the duration of this Agreement and the period thereafter, by GSK and its successors.",
+    "contradiction_score": 0.003724646521732211,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 21876,
+    "end_char": 22083,
+    "original": "1.35  \u201cGSK Initially Pooled Compound\u201d shall mean the chemical entities individually identified as GW 597901, GW 678007, GW 642444 and GW 774419 and all pharmaceutically acceptable salts and solvates thereof.",
+    "ollama_generated": "1.35  \"Pharmaceutical Formulations derived from the Initial Pooled Compounds\" shall refer to the chemical entities specifically listed as GW 597901, GW 678007, GW 642444 and GW 774419, along with any and all salts or solvates thereof that are commercially available or developed during the term of this agreement.\n\nThis change in language broadens the scope of the original clause to include any pharmaceutical formulations derived from the initial compounds, not just the compounds themselves. This could potentially shift responsibility for any issues arising from these pharmaceutical formulations towards the other party if such formulations are developed during the term of the agreement.",
+    "contradiction_score": 0.001494654337875545,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 24845,
+    "end_char": 25017,
+    "original": "1.46  \u201cJoint Invention\u201d means an Invention that is invented jointly by employees and/or agents of both Theravance and GSK hereunder and the patent rights in such Invention.",
+    "modified": "1.46 \"Independent Invention\" refers to a creation or discovery made independently by either Theravance's or GSK's employees and/or agents, which may qualify as an Invention. Each party shall have exclusive rights to the patent protection of their respective Independent Inventions, subject to any pre-existing agreements or obligations between the parties regarding joint ownership or licensing.",
+    "contradiction_score": 0.9264357686042786,
+    "kept": true
+  },
+  {
+    "clause_index": 61,
+    "start_char": 27484,
+    "end_char": 27610,
+    "original": "1.55  \u201cMajor Market Country\u201d means each of the United States, Canada, Japan, France, United Kingdom, Italy, Germany and Spain.",
+    "modified": "1.55 \"Designated Market Regions\" encompass any one or more of the following countries: the United States, Canada, Japan, Germany, France, Italy, United Kingdom, and Spain. In cases where multiple regions are involved, each will be treated as a separate entity for the purposes of this agreement, with individual obligations and responsibilities applying to each region independently.",
+    "contradiction_score": 0.623201310634613,
+    "kept": true
+  },
+  {
+    "clause_index": 64,
+    "start_char": 28025,
+    "end_char": 28291,
+    "original": "1.58  \u201cMarketing Plan\u201d means for each relevant Collaboration Product the global plan prepared by GSK identifying the core strategic, commercial and promotional claims and objectives for the specific Collaboration Product as reviewed and approved under Section 5.1.1.",
+    "modified": "1.58 \"Marketing Strategy\" denotes, for each pertinent Collaboration Product, an individually devised global blueprint drafted by GSK outlining the primary strategic, commercial, and promotional aims and targets, which may be subject to adjustments in accordance with Section 5.1.2's guidelines.\n\nChanges made:\n- Renamed \"Marketing Plan\" to \"Marketing Strategy\" for a slight semantic difference\n- Added an allowance for potential modifications based on Section 5.1.2 guidelines instead of the previous review and approval process in Section 5.1.1. This shifts some responsibility away from GSK towards both parties (implicitly), making the clause more flexible.",
+    "contradiction_score": 0.94291090965271,
+    "kept": true
+  },
+  {
+    "clause_index": 71,
+    "start_char": 29901,
+    "end_char": 29986,
+    "original": "1.65  \u201cPatent Infringement Claim\u201d shall have the meaning set forth in Section 13.2.1.",
+    "ollama_generated": "1.65  \"Alleged Patent Violation\" is defined as per Section 13.2.1.\n\nExplanation: The original clause uses the term \"Patent Infringement Claim,\" which implies a definitive assertion of patent infringement. In the revised clause, the term \"Alleged Patent Violation\" is used instead, suggesting a more tentative or potential situation, thereby weakening the obligation or implication of patent infringement.",
+    "contradiction_score": 0.05482695624232292,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 33068,
+    "end_char": 33329,
+    "original": "1.74  \u201cPromotional Materials\u201d means the core written, printed, video or graphic advertising, promotional, educational and communication materials (other than Collaboration Product labeling) for marketing, advertising and promotion of the Collaboration Products.",
+    "ollama_generated": "1.74 \"Marketing Materials\" encompass any written, printed, video, or graphical content designed for dissemination to promote, educate, and communicate about the Collaboration Products. Notably excluded from this definition are labels associated with the Collaboration Products themselves. However, it is the Responsible Party's discretion to determine what constitutes Marketing Materials beyond these parameters.",
+    "contradiction_score": 0.03464166074991226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 34400,
+    "end_char": 34600,
+    "original": "1.81  \u201cTD-3327\u201d means the Long-Acting \u03b22 Adrenoceptor Agonist so designated by Theravance and all pharmaceutically acceptable salts and solvates thereof contributed to the collaboration by Theravance.",
+    "ollama_generated": "1.81 \"TD-3327\" refers to the Long-Acting \u03b22 Adrenoceptor Agonist as designated by Theravance, and includes all pharmaceutically acceptable derivatives, salts, esters, or other forms thereof that may be developed during the collaboration, with responsibility for their creation lying with the collaborating parties.",
+    "contradiction_score": 0.0020061377435922623,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 35740,
+    "end_char": 35892,
+    "original": "1.85  \u201cTerminated Collaboration Product\u201d shall mean a Terminated Development Collaboration Product or a Terminated Commercialized Collaboration Product.",
+    "modified": "1.85 \"Products Resulting from Terminated Collaboration\" shall encompass Products originating from a Terminated Development Collaboration or Products that were commercially realized during a Terminated Commercialized Collaboration.\n\nIn this rewritten version, the term \"Terminated Collaboration Product\" is replaced with a more general term, \"Products Resulting from Terminated Collaboration.\" This change makes it clearer that the clause applies to both development and commercialized products that were terminated during the collaboration, not just those specifically labeled as such.",
+    "contradiction_score": 0.7632176280021667,
+    "kept": true
+  },
+  {
+    "clause_index": 99,
+    "start_char": 36898,
+    "end_char": 37450,
+    "original": "1.93  \u201cTheravance Know-How\u201d means all present and future information directly relating to the Collaboration Products, a Theravance Compound or the Theravance Inventions that is required for GSK to perform its obligations or exercise its rights under this Agreement, and which during the Term are in Theravance\u2019s or any of its Affiliates\u2019 possession or control and are or become owned by, or otherwise may be licensed (provided there are no restrictions on Theravance thereof) by, Theravance. Theravance Know-How does not include any Theravance Patents.",
+    "modified": "1.93  \"GSK Know-How\" refers to all current and future information essential for Theravance to fulfill its obligations or exercise its rights under this Agreement, which pertains to the Collaboration Products, a Theravance Compound, or the Theravance Inventions, that is in GSK's or any of its Affiliates' possession or control during the Term and is owned by, or otherwise may be licensed (subject to no restrictions on GSK's part) by GSK. GSK Know-How excludes any GSK Patents.\n\nIn this revised clause, Theravance Know-How has been replaced with GSK Know-How, signifying a shift in the ownership of the knowledge from Theravance to GSK. The obligation for maintaining and providing the knowledge now lies with GSK instead of Theravance.",
+    "contradiction_score": 0.9420138597488403,
+    "kept": true
+  },
+  {
+    "clause_index": 100,
+    "start_char": 37450,
+    "end_char": 38514,
+    "original": "1.94  \u201cTheravance Patents\u201d means all present and future patents and patent applications including United States provisional applications and any continuations, continuations-in-part, divisionals, registrations, confirmations, revalidations, reissues, Patent Cooperation Treaty applications, certificates of addition, utility models, design patents, petty patents as well as all other intellectual property related to the application or patent including extensions or restorations of terms thereof, pediatric use extensions, supplementary protection certificates or any other such right covering the Pooled Compounds, the Collaboration Products, a Theravance Compound or the Theravance Inventions which are or become owned by Theravance or Theravance\u2019s Affiliates, or as to which Theravance or Theravance\u2019s Affiliates are or become licensed, now or in the future, with the right to grant the sublicense rights granted to GSK under this Agreement, which patent rights cover the making, having made, use, offer for sale, sale or importation of Collaboration Products.",
+    "ollama_generated": "1.94 \"Theravance Intellectual Property\" refers to all existing and forthcoming patents and patent applications, encompassing U.S. provisional applications, continuations, continuations-in-part, divisional applications, registrations, confirmations, revalidations, reissues, Patent Cooperation Treaty applications, certificates of addition, utility models, design patents, petty patents, and any other related intellectual property rights concerning the extension or restoration of terms. This term also includes pediatric use extensions, supplementary protection certificates, and any other rights that cover the Pooled Compounds, the Collaboration Products, a Theravance Compound, or the Theravance Inventions. These rights are either owned by Theravance or its Affiliates, or licensed to Theravance or its Affiliates, where they have the authority to sub-license the rights granted to GSK under this Agreement. However, it is important to note that these patent rights only extend to the acts of making, having made, using, offering for sale, selling, or importing Collaboration Products when exercised by Theravance, its Affiliates, or a party to whom they have granted a sublicense under this Agreement.",
+    "contradiction_score": 0.0181846022605896,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 40967,
+    "end_char": 41390,
+    "original": "2.2 Sublicensing and Subcontracting . GSK may sublicense or subcontract its rights to Develop, Manufacture or Commercialize the Collaboration Products in whole or in part to one or more of its Affiliates, provided that the rights sublicensed or subcontracted to such Affiliate shall automatically terminate upon a change of control of such Affiliate in connection with which such Affiliate ceases to be an Affiliate of GSK.",
+    "ollama_generated": "2.2 Sublicensing and Subcontracting: The Company retains the right to delegate, in whole or in part, its obligations to Develop, Manufacture, or Commercialize the Collaboration Products to one or more of its Affiliates. Any delegated rights shall continue unless there is a change of control of such Affiliate, at which point the Affiliate shall no longer be bound by these terms and conditions.\n\nChanges made: The original clause gave GSK the right to sublicense or subcontract its rights, with the stipulation that these rights would terminate if the affiliate ceased to be an affiliate of GSK. In the rewritten clause, the Company (previously GSK) retains the right to delegate its obligations and the delegated rights continue unless there is a change of control of the affiliate, at which point the affiliate is no longer bound by these terms and conditions. This shifts the responsibility for termination from GSK to the affiliate.",
+    "contradiction_score": 0.06595858186483383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 49596,
+    "end_char": 49946,
+    "original": "Meetings of the Joint Steering Committee that are held in person shall alternate between offices of GSK and Theravance, or such other place as the Parties may agree. In addition to the annual face to face meetings the Joint Steering Committee may also be held by means of telecommunications or, video conferences as deemed appropriate by the Parties.",
+    "ollama_generated": "The location for in-person meetings of the Joint Steering Committee shall initially be established at the office of Theravance; thereafter, subsequent meetings will rotate between the offices of GSK and Theravance, or any other mutually agreed upon location. However, it is understood that the Parties may elect to convene additional meetings via telecommunications, video conferencing, or similar platforms, whenever deemed necessary and appropriate by all parties involved.",
+    "contradiction_score": 0.42947086691856384,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 52302,
+    "end_char": 52425,
+    "original": "3.2.1 Purpose. The purposes of the Joint Project Committee shall be to manage the Parties\u2019 day-to-day activities hereunder.",
+    "ollama_generated": "3.2.1 Objective. The primary function of the Joint Project Committee is to oversee and coordinate the respective tasks delegated in this agreement, with the aim of facilitating an efficient daily operation between the Parties.",
+    "contradiction_score": 0.0011925142025575042,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 53740,
+    "end_char": 55681,
+    "original": "(a) Review the Development Plans as prepared by GSK\u037e (b) On an annual rolling basis beginning within six months of the Effective Date, update and amend any initial Development Plan and review the Development Plan for each Collaboration Product for the following Calendar Year so that it can immediately thereafter submit such proposed Development Plan to the Joint Steering Committee for review and approval\u037e (c) At each meeting of the Joint Project Committee, review the Development strategy for the Collaboration Products in the Territory\u037e (d) At each meeting of the Joint Project Committee, review and recommend to the Joint Steering Committee any material amendments or modifications to the Development Plans\u037e (e) Coordinate and monitor regulatory strategy and activities for the Collaboration Products in accordance with Article 8\u037e (f) Review and recommend to the Joint Steering Committee \u201cgo/no-go\u201d decisions for the Development of Collaboration Products\u037e (g) Review the Marketing Plans where appropriate\u037e (h) Review and recommend to the Joint Steering Committee any material amendments or modifications to the Marketing Plans\u037e (j) Discuss the state of the markets for Collaboration Products and opportunities and issues concerning the Commercialization of the Collaboration Products, including consideration of marketing and promotional strategy, marketing research plans, labeling, Collaboration Product positioning and Collaboration Product profile issues\u037e (k) At each meeting of the Joint Project Committee, review the status of all Studies conducted on Collaboration Products and any results therefrom\u037e (l) At each meeting of the Joint Project Committee, review Net Sales for the year-to-date, as available\u037e and (m) Have such other responsibilities as may be assigned to the Joint Project Committee pursuant to this Agreement or as may be mutually agreed upon by the Parties through the Joint Steering Committee from time to time.",
+    "ollama_generated": "(a) Examine the Development Plans developed by GSK;\n   (b) Commence annual updates and revisions of the initial Development Plan, with the first revision to occur no later than six months after the Effective Date, and review the Development Plan for each Collaboration Product for subsequent years, allowing for a submission to the Joint Steering Committee for review and approval;\n   (c) At each gathering of the Joint Project Committee, assess the Development strategy for Collaboration Products within the Territory;\n   (d) At each meeting of the Joint Project Committee, propose to the Joint Steering Committee any significant alterations or adjustments to the Development Plans;\n   (e) Oversee and manage regulatory strategy and activities related to the Collaboration Products in accordance with Article 8, while retaining discretion for key decisions;\n   (f) Recommend \"go/no-go\" decisions regarding the Development of Collaboration Products to the Joint Steering Committee, understanding that final decisions remain theirs;\n   (g) Examine Marketing Plans when deemed necessary;\n   (h) Provide suggestions to the Joint Steering Committee for any significant amendments or modifications to the Marketing Plans, though final approval remains with them;\n   (i) Discuss the current market conditions and potential commercialization opportunities and challenges for Collaboration Products, including marketing and promotional strategies, marketing research plans, labeling, product positioning, and product profile concerns;\n   (j) At each meeting of the Joint Project Committee, evaluate the progress of all Studies related to Collaboration Products and any resulting data;\n   (k) At each meeting of the Joint Project Committee, review the cumulative sales figures for the current year, if available;\n   (l) Exercise other responsibilities as assigned by the Joint Project Committee in accordance with this Agreement or as mutually agreed upon by the Parties through the Joint Steering Committee from time to time, understanding that such assignments do not obligate participation without prior consent.",
+    "contradiction_score": 0.08026155084371567,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 62545,
+    "end_char": 63031,
+    "original": "4.2.2 GSK Funding Responsibility . GSK shall bear all costs and expenses associated with the Development of Collaboration Products for Commercialization including those incurred by Theravance (or to which it has become obligated) after the signature date of this Agreement and which previously have been discussed with and agreed to by GSK and, so far as the aforementioned Theravance costs are concerned, for the avoidance of doubt, the maximum amount shall not exceed U.S. $2,940,000.",
+    "modified": "4.2.2 Cost Allocation for Commercialization . Theravance shall assume and bear all costs and expenses associated with the Development of Collaboration Products for Commercialization, excluding those expenses previously incurred by GSK prior to the signature date of this Agreement. For clarity, any costs incurred by Theravance (or to which it may become obligated) shall not exceed U.S. $2,940,000, with GSK being responsible for any additional expenses beyond this limit.",
+    "contradiction_score": 0.5082612037658691,
+    "kept": true
+  },
+  {
+    "clause_index": 149,
+    "start_char": 63260,
+    "end_char": 63529,
+    "original": "(b) Notwithstanding the foregoing, the Parties acknowledge that Theravance is about to initiate a Phase I Study in two parts, on TD-3327.  The initiation of this study will be approved via the Joint Project Committee in accordance with all other Development activities.",
+    "ollama_generated": "(b) Despite the preceding provisions, the Parties acknowledge that it is Theravance who is on the verge of commencing a two-part Phase I Study for TD-3327. Notably, the initiation of this study will be subject to the approval by the Joint Project Committee in accordance with established procedures, but any delays or unforeseen issues arising from such Development activities shall not be Theravance's responsibility.",
+    "contradiction_score": 0.001884378376416862,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 63529,
+    "end_char": 63768,
+    "original": "Theravance shall be responsible for the routine monitoring of this study and will transfer remaining clinical development responsibility for TD-3327 to the Joint Project Committee on completion of the TD-3327 Phase Ia and Phase Ib Studies.",
+    "ollama_generated": "The Joint Project Committee shall assume primary responsibility for routine monitoring of the study involving TD-3327, while Theravance retains the right to oversee and provide guidance. Upon completion of both the TD-3327 Phase Ia and Phase Ib Studies, Theravance will relinquish its remaining clinical development responsibilities for TD-3327 to the Joint Project Committee.\n\nIn this revised version, the responsibility for routine monitoring has been shifted from Theravance to the Joint Project Committee, while Theravance retains some oversight rights. Additionally, instead of stating that Theravance will transfer its remaining responsibilities upon completion, it now indicates that they will be relinquished. This subtle change signifies that Theravance may still have some involvement in the project after the specified studies are completed, but they will no longer hold primary responsibility for further development.",
+    "contradiction_score": 0.26362839341163635,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 64047,
+    "end_char": 64253,
+    "original": "GSK will provide the Joint Project Committee with a reasonably detailed \u201ctop line results\u201d report within sixty days following the last person dosed/last visit in any Study involving a Collaboration Product.",
+    "ollama_generated": "The Joint Project Committee shall be granted access to GSK's \"high-level findings\" report, which shall be reasonably comprehensive, not later than sixty days after the final administration of any study related to a Collaboration Product, or the last patient visit associated with that study, whichever occurs later. In this case, the onus is on the Joint Project Committee to actively request and receive the report from GSK upon fulfillment of these conditions.",
+    "contradiction_score": 0.0022751367650926113,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 64253,
+    "end_char": 65470,
+    "original": "4.2.4 Development Timelines . It is hereby acknowledged that GSK\u2019s strategic objective is to move one or more of the Collaboration Products into Development at the earliest opportunity.  GSK will consult with the Joint Project Committee and will share, modify and further develop all applicable Development Plans and timelines in that forum.  It is recognised that success can be optimised by pursuing a number of Collaboration Products through various phases of clinical Development up to the point of Technical or Commercial Failure, and/or until the first Collaboration Product for both single agent and combination therapy achieves regulatory agency approval.  At a strategic level, GSK is committed to this objective.  However, at an operational level it is recognised that internal and external resources will be constrained from time to time, resulting in the need to prioritise individual studies and activities relating to Collaboration Products.  GSK will use Diligent Efforts to secure the necessary resource and will keep the Joint Project Committee informed on the progress of individual studies and activities relating to Collaboration Products as part of any changes to Development Plans and timelines.",
+    "ollama_generated": "4.2.4 Development Timelines and Prioritization:\n\nIt is acknowledged that AstraZeneca's primary strategic goal is to progress one or more of the Collaborative Projects into the Clinical Development phase as expediently as feasible. AstraZeneca will maintain open communication with the Joint Project Committee, sharing, modifying, and further developing all relevant Clinical Development Plans and timelines within this forum.\n\nIt is understood that maximizing success may involve advancing multiple Collaborative Projects through various stages of Clinical Development up to the point of potential Technical or Commercial Failure, or until the first Collaborative Product, in both single-agent and combination therapy applications, receives regulatory approval. At a strategic level, AstraZeneca is dedicated to this objective. However, at an operational level, it is recognized that internal and external resources may be limited periodically, necessitating the prioritization of individual studies and activities related to the Collaborative Projects.\n\nAstraZeneca will employ Reasonable Efforts to secure the necessary resources and will keep the Joint Project Committee apprised of the progress of individual studies and activities relating to the Collaborative Projects, including any updates to Clinical Development Plans and timelines. The prioritization of these studies and activities may fluctuate in response to resource availability and strategic considerations.",
+    "contradiction_score": 0.00646204873919487,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 67787,
+    "end_char": 67846,
+    "original": "4.5 LABA Activity Inside and Outside of the Collaboration .",
+    "ollama_generated": "4.5 Responsibilities Regarding LABA Activity During and Beyond the Scope of Collaboration.\n\nExplanation: The original clause (4.5) is about obligations regarding LABA activity, both within and outside the collaboration. In the rewritten clause, I've added \"During and Beyond the Scope of Collaboration\" to make it clear that responsibilities apply not only during but also after the collaboration period. This slight adjustment shifts the focus slightly towards post-collaboration obligations, potentially weakening the obligation as parties may have more autonomy after the agreement ends.",
+    "contradiction_score": 0.1870124340057373,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 70357,
+    "end_char": 70413,
+    "original": "ARTICLE 5 COMMERCIALIZATION 5.1 Global Marketing Plans .",
+    "ollama_generated": "ARTICLE 5 COMMERCIALIZATION 5.1 Local Marketing Initiatives .\n\nThis revision slightly changes the focus from global to local marketing strategies, potentially implying a more decentralized approach to commercialization. Here's the reworded clause:\n\n5.1 Local Marketing Initiatives\nEach Party shall initiate and execute local marketing plans aimed at promoting the Product within their respective jurisdictions. Each Party's marketing efforts may be guided by the Global Marketing Guidelines (if any), but the ultimate responsibility for the success or failure of these initiatives lies with each Party. The Parties shall collaborate and share information regarding their local marketing strategies, as well as the results thereof, to ensure alignment with the overall commercial objectives of this Agreement. In the event a Party's marketing efforts lead to a significant increase in sales within another Party's jurisdiction, the latter Party may elect to adopt similar marketing tactics, provided they comply with all applicable local regulations and laws.",
+    "contradiction_score": 0.22481945157051086,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 173,
+    "start_char": 73058,
+    "end_char": 73329,
+    "original": "5.3.3  Exports to the United States . To the extent permitted by Law, the Parties shall use Diligent Efforts to prevent the Collaboration Products distributed for sale in a particular Country other than the United States from being exported to the United States for sale.",
+    "modified": "5.3.3 Exports to the United States: Under the parameters of Law, the Parties shall employ Reasonable Measures, rather than Diligent Efforts, to minimize the likelihood of Collaboration Products, initially intended for sale within a specific Nation other than the United States, being exported and offered for sale in the United States. In case of unintended exports to the United States, the responsibility for addressing such incidents shall primarily rest with the Party whose negligence led to the breach of this provision.",
+    "contradiction_score": 0.9929282069206238,
+    "kept": true
+  },
+  {
+    "clause_index": 181,
+    "start_char": 77430,
+    "end_char": 77810,
+    "original": "6.2.2 GSK to Theravance . GSK shall make the following milestone payments to Theravance upon the achievement of the indicated Development Milestone for the first Collaboration Product in which the Long-Acting \u03b22 Adrenoceptor Agonist is a Theravance Compound, and for the first LABA/ICS Combination Product in which the Long-Acting \u03b22 Adrenoceptor Agonist is a Theravance Compound:",
+    "modified": "6.2.2 Theravance's Obligation to GSK. Upon achievement of the specified Development Milestone for the first Collaboration Product featuring a Theravance Compound as the Long-Acting \u03b22 Adrenoceptor Agonist, and for the first LABA/ICS Combination Product where the Long-Acting \u03b22 Adrenoceptor Agonist is a Theravance Compound, Theravance shall be responsible for making the subsequent milestone payments to GSK. In the event that such Development Milestones are not met or achieved, GSK shall have no obligation to make any such payments.",
+    "contradiction_score": 0.861095666885376,
+    "kept": true
+  },
+  {
+    "clause_index": 184,
+    "start_char": 79154,
+    "end_char": 79699,
+    "original": "Other Combination Products that contain a Long-Acting \u03b22 Adrenoceptor Agonist that is a Theravance Compound are not subject to milestone payments by GSK  only if all milestone payments through launch have otherwise been made to Theravance from any Collaboration Product as both a single-agent and as a combination product.  The Parties intend that if the collaboration is successful in launching at least two Collaboration Products that contain a Theravance Compound, Theravance be paid the applicable milestones through launch for two products.",
+    "ollama_generated": "Milestone payments by GSK for Other Combination Products incorporating a Long-Acting \u03b22 Adrenoceptor Agonist that is a Theravance Compound will only be waived if Theravance has already received all milestone payments up to the launch phase for both single-agent and combination Collaboration Products. However, in instances where the collaboration leads to the successful launch of at least two Collaboration Products containing a Theravance Compound, GSK agrees to make the applicable milestone payments through launch for these specific products. This clause is intended to ensure that Theravance is compensated for the success of two such products within the collaboration.",
+    "contradiction_score": 0.002362726954743266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 80316,
+    "end_char": 80681,
+    "original": "6.2.3 Theravance to GSK . Theravance shall make the following milestone payments to GSK upon the achievement of the indicated Development Milestone for the first Collaboration Product in which the Long-Acting \u03b22 Adrenoceptor Agonist is a GSK Compound and for the first LABA/ICS Combination Product in which the Long-Acting \u03b22 Adrenoceptor Agonist is a GSK Compound:",
+    "ollama_generated": "6.2.3 (Revised)\nGSK's Right to Payment from Theravance: GSK shall be entitled to receive the following milestone payments from Theravance upon the accomplishment of the stipulated Development Milestones for the first Collaboration Product wherein the Long-Acting \u03b22 Adrenoceptor Agonist is a Theravance Compound, and for the first LABA/ICS Combination Product where the Long-Acting \u03b22 Adrenoceptor Agonist is a Theravance Compound:\n\nIn this revised clause, GSK's entitlement to receive milestone payments has been shifted to Theravance, making it clear that Theravance will be making payments to GSK under certain conditions.",
+    "contradiction_score": 0.003430990967899561,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 192,
+    "start_char": 82563,
+    "end_char": 82635,
+    "original": "On total Annual Worldwide Net Sales up to and including U.S. $3 Billion:",
+    "ollama_generated": "In the Event of Annual Global Gross Revenue not surpassing U.S. $3 Billion:\n\nIn this scenario, the condition has been inverted, implying that the clause will only apply if the annual global gross revenue does not exceed the specified amount, rather than when it does.",
+    "contradiction_score": 0.24605076014995575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 197,
+    "start_char": 83748,
+    "end_char": 84906,
+    "original": "6.3.2 Royalty Adjustment.  The 15% royalty payable on the first U.S. $3 Billion of total annual worldwide Net Sales under this Section 6.3 shall be reduced to 12% if all of the following occur:  (i) all Theravance Compounds are discontinued by the collaboration for Technical Failure\u037e (ii) Theravance only contributes one Theravance New Compound to the collaboration within 18 months following the Effective Date\u037e and (iii) the Collaboration Product upon which the royalty is payable contains a LABA that is one of the GSK Initially Pooled Compounds.  The 15% royalty payable on the first U.S. $3 Billion of total annual worldwide Net Sales under this Section 6.3 shall be reduced to 10% if all of the following occur: (i) all Theravance Compounds are discontinued by the collaboration for Technical Failure\u037e (ii) Theravance fails to contribute any Theravance New Compound to the collaboration within 18 months following the Effective Date\u037e and (iii) the Collaboration Product upon which the royalty is payable contains a LABA that is one of the GSK Initially Pooled Compounds. Nothing in the foregoing shall affect other royalties owed under this Agreement.",
+    "modified": "6.3.2 Royalty Adjustment Modification: The initial 15% royalty rate on the first U.S. $3 Billion of annual worldwide Net Sales, as stipulated in this Section 6.3, will be increased to 18% under the following conditions: (i) if all Theravance Compounds are continued by the collaboration beyond a Technical Failure; (ii) when Theravance successfully contributes more than one Theravance New Compound to the collaboration within 18 months of the Effective Date; and (iii) in cases where the Collaboration Product, for which the royalty is applicable, does not contain a LABA that is one of the GSK Initially Pooled Compounds. Furthermore, should all Theravance Compounds be continued by the collaboration beyond a Technical Failure, fail to contribute any Theravance New Compound within 18 months following the Effective Date, and the Collaboration Product upon which the royalty is payable contains a LABA that is one of the GSK Initially Pooled Compounds, the initial 15% royalty rate will be increased to 14%. The alterations made in this clause shall not impact any other royalties owed under this Agreement.",
+    "contradiction_score": 0.6566282510757446,
+    "kept": true
+  },
+  {
+    "clause_index": 206,
+    "start_char": 88547,
+    "end_char": 89518,
+    "original": "6.6 Currencies . Monetary conversion from the currency of a foreign country in which Collaboration Product is sold into US Dollars shall be calculated in accordance with either (a) the methodology referred to in GSK\u2019s then current Corporate Finance Reporting Policy or (b) as otherwise may be mutually agreed by the Parties.  The following summarizes GSK\u2019s current methodology applied in accordance with its current Corporate Finance Reporting System: the cumulative year-to-date Average Rates are calculated by determining the average of (i) the preceding 31st December Spot Rate plus (ii) the Closing Spot Rates of the relevant months to date using the exact figures provided by the Reuters 2000 download.  (By way of example, the Average Rate for the five months from January, 2002 to May, 2002 would be computed by taking the sum of the Spot Rates for the preceding 31st December, 2001, plus the month-end Spot Rates for the five months to May, 2002, divided by six).",
+    "ollama_generated": "6.6 Currencies . The conversion of currencies other than US Dollars for the Collaboration Product sold abroad will be calculated based on a methodology that is flexible and can be determined either (a) in accordance with the methodology outlined in GSK's latest Corporate Finance Reporting Policy, or (b) through mutual agreement between the Parties. It is important to note that the current methodology used by GSK, as described in its Corporate Finance Reporting System, involves calculating Average Rates differently. Instead of relying on the cumulative year-to-date average, we use the monthly weighted average. This is calculated by assigning equal weights to the Spot Rate on the last day of the preceding month and the Closing Spot Rates for each subsequent month, and then averaging these rates. For example, the Average Rate for the five months from January, 2002 to May, 2002 would be calculated by taking the average of the Spot Rates on the last day of December, 2001, and the monthly Spot Rates for each month from January, 2002 to May, 2002. This methodology may be adjusted or amended at GSK's discretion.",
+    "contradiction_score": 0.007978257723152637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 210,
+    "start_char": 90773,
+    "end_char": 91356,
+    "original": "6.9.1 Any taxes, levies or other duties (\u201cTaxes\u201d) paid or required to be withheld under the appropriate local tax laws by one of the Parties (\u201cWithholding Party\u201d) on account of monies payable to the other Party under this Agreement shall, subject to Sections 6.9.2 and 6.9.3, be deducted from the amount of monies otherwise payable to the other Party under this Agreement. The Withholding Party shall secure and send to the other Party within a reasonable period of time proof of any such Taxes paid or required to be withheld by Withholding Party for the benefit of the other Party.",
+    "modified": "6.9.1 Any taxes, levies, or duties (\"Taxes\") paid or required to be withheld under the appropriate local tax laws by one of the Parties (\"Withholding Party\") on account of monies receivable from the other Party under this Agreement shall, subject to Sections 6.9.2 and 6.9.3, not be deducted from the amount of monies payable to the Withholding Party under this Agreement. The responsibility for providing proof of any such Taxes paid or required to be withheld by the Withholding Party falls upon the other Party, who shall receive such proof within a reasonable period of time. The Withholding Party is not obligated to secure such proof unless requested by the other Party in writing.",
+    "contradiction_score": 0.9860947132110596,
+    "kept": true
+  },
+  {
+    "clause_index": 212,
+    "start_char": 92105,
+    "end_char": 92957,
+    "original": "6.9.3 If GSK or any GSK Affiliate is or becomes liable to withhold any taxes from payments made to Theravance under Section 6.3, then such taxes may be withheld by GSK or the applicable GSK Affiliate up to a limit of five percent (5%) of the relevant payment. GSK shall pay to Theravance an amount equal to the amount GSK owes to the relevant tax authority in excess of such five percent (5%) provided always that if Theravance is able to obtain credit for any taxes withheld (\u201cCreditable Taxes\u201d) against any liability to tax either in the year in which the receipt is taxable or any preceding years, Theravance shall reimburse to GSK an amount equivalent to the Creditable Taxes. Theravance shall provide GSK with such reasonable evidence as GSK may reasonably request to determine whether the taxes are creditable against taxes payable by Theravance.",
+    "modified": "6.9.3 In the event that Theravance, or any affiliate of Theravance, is obligated to withhold any taxes from payments owed by it to GSK under Section 6.3, Theravance shall have the right to retain such withheld taxes up to a maximum of five percent (5%) of the relevant payment. GSK will bear the responsibility for any excess tax amount over this limit and shall remit to Theravance the additional sum. It is understood that if GSK can secure credit for any withheld taxes (\"Creditable Taxes\") against any tax liability payable by GSK in the year such tax is due or any subsequent years, GSK will be entitled to reclaim from Theravance an amount equivalent to the Creditable Taxes. Theravance shall provide GSK with all reasonable evidence necessary for determining the credibility of the taxes for which such credit may be claimed.",
+    "contradiction_score": 0.6031932830810547,
+    "kept": true
+  },
+  {
+    "clause_index": 215,
+    "start_char": 95394,
+    "end_char": 95933,
+    "original": "7.1.1 Review of Core Promotional Materials . Subject to applicable Law, in accordance with the direction of the Joint Project Committee, the Parties will jointly, through consultation and with the assistance of each other, review the core Promotional Materials.  The relevant legal or regulatory personnel of each Party shall have the opportunity to review and comment on all such core Promotional Materials prior to use and such comments shall be considered by the Joint Project Committee in the review of such core Promotional Materials.",
+    "modified": "7.1.1 Core Promotional Materials Review. Except where prohibited by applicable Law, at the discretion of the Joint Project Committee and without obligation for consultation or assistance from the other Party, each Party may independently review the core Promotional Materials. Any legal or regulatory comments or suggestions from a Party shall be optional and not binding on the Joint Project Committee, which will have sole authority to determine whether to incorporate such feedback into the final materials.",
+    "contradiction_score": 0.9785044193267822,
+    "kept": true
+  },
+  {
+    "clause_index": 230,
+    "start_char": 103321,
+    "end_char": 103940,
+    "original": "9.2.2 Supply of Formulated Collaboration Products for Development . Subject to the terms and conditions of this Agreement, GSK shall obtain supply for worldwide requirements of formulated Collaboration Products. Notwithstanding the foregoing, Theravance agrees to transfer to GSK whatever supply it has on hand of formulated TD-3327, within specification, at cost as of the Effective Date, such cost not to exceed U.S. $175,000. Formulated Collaboration Product requirements for Development activities shall be set forth in the relevant Development Plan and shall be periodically updated by the Joint Project Committee.",
+    "ollama_generated": "9.2.2 Supply of Formulated Collaboration Products for Development. As per the stipulations of this Agreement, Theravance is responsible for providing worldwide supply for formulated Collaboration Products, subject to GSK's approval. However, in the event that Theravance possesses any stock of formulated TD-3327 within specification as of the Effective Date, it shall transfer this stock to GSK at cost, with the understanding that this cost shall not exceed U.S. $175,000. The requirements for Formulated Collaboration Products in Development activities will be outlined in the relevant Development Plan and will be subject to periodic updates by the Joint Project Committee; it is GSK's obligation to approve these requirements.",
+    "contradiction_score": 0.009134631603956223,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 234,
+    "start_char": 105096,
+    "end_char": 107517,
+    "original": "ARTICLE 10 CONFIDENTIAL INFORMATION 10.1  Confidential Information . Each of GSK and Theravance shall keep all Confidential Information received from the other Party with the same degree of care it maintains the confidentiality of its own Confidential Information. Neither Party shall use such Confidential Information for any purpose other than in performance of this Agreement or disclose the same to any other Person other than to such of its agents who have a need to know such Confidential Information to implement the terms of this Agreement or enforce its rights under this Agreement. A Receiving Party shall advise any agent who receives such Confidential Information of the confidential nature thereof and of the obligations contained in this Agreement relating thereto, and the Receiving Party shall ensure that all such agents comply with such obligations as if they had been a Party hereto. Upon termination of this Agreement, the Receiving Party shall return or destroy all documents, tapes or other media containing Confidential Information of the Disclosing Party that remain in the Receiving Party\u2019s or its agents\u2019 possession, except that the Receiving Party may keep one copy of the Confidential Information in the legal department files of the Receiving Party, solely for archival purposes. Such archival copy shall be deemed to be the property of the Disclosing Party, and shall continue to be subject to the provisions of this Article 10. Notwithstanding anything to the contrary in this Agreement, the Receiving Party shall have the right to disclose this Agreement or Confidential Information provided hereunder if, in the reasonable opinion of the Receiving Party\u2019s legal counsel, such disclosure is necessary to comply with the terms of this Agreement, or the requirements of any Law. Where possible, the Receiving Party shall notify the Disclosing Party of the Receiving Party\u2019s intent to make such disclosure pursuant to the provision of the preceding sentence sufficiently prior to making such disclosure so as to allow the Disclosing Party adequate time to take whatever action the Disclosing Party may deem to be appropriate to protect the confidentiality of the information.  The Receiving Party will cooperate reasonably with the Disclosing Party\u2019s efforts to protect the confidentiality of the information.  Each Party will be liable for breach of this Article 10 by any of its Affiliates.",
+    "ollama_generated": "ARTICLE 10 CONFIDENTIALITY OBLIGATIONS\n\n10.1 Scope of Confidentiality: Each of Theravance and GSK agrees to protect the Confidential Information they receive from each other with a degree of care, commensurate with their own internal standards for protecting their own confidential information. The parties will only use this Confidential Information for purposes directly related to fulfilling their obligations under this Agreement or enforcing their rights herein. They shall not disclose such Confidential Information to any unauthorized third party, except for those of their agents who require access for purposes of implementing the terms of this Agreement or enforcing its provisions. The disclosing party should notify any such agent of the confidential nature of the information and the obligations arising from this Article 10. The receiving party is responsible for ensuring that all agents adhere to these obligations, as if they were a signatory to this agreement.\n\nUpon termination of this Agreement, the receiving party shall destroy or return all documents, tapes, or other media containing the disclosing party's Confidential Information in their possession or that of their agents. However, the receiving party may retain one copy of the Confidential Information solely for archival purposes and as the property of the disclosing party, subject to the provisions of this Article 10.\n\nIn the event of any legal necessity, the receiving party shall have the right to disclose this Agreement or the Confidential Information received hereunder. The receiving party will endeavor to notify the disclosing party of their intent to make such a disclosure in a timely manner, allowing the disclosing party sufficient time to take appropriate measures to safeguard the confidentiality of the information. The receiving party shall cooperate with the disclosing party's efforts to protect the confidentiality of the information.\n\nAny breach of this Article 10 by an affiliate of either party will be considered a breach by the party itself.",
+    "contradiction_score": 0.05551036447286606,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 240,
+    "start_char": 112164,
+    "end_char": 112335,
+    "original": "10.7  Survival. The obligations and prohibitions contained in this Article 10 shall survive the expiration or termination of this Agreement for a period of ten (10) years.",
+    "ollama_generated": "10.7 Duration of Obligations. Notwithstanding any termination or expiration of this Agreement, the provisions set forth within Article 10 shall remain binding and enforceable for a duration of ten (10) years post-termination or expiration. This extended liability duration applies equally to both parties.",
+    "contradiction_score": 0.0014488187152892351,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 248,
+    "start_char": 118077,
+    "end_char": 119373,
+    "original": "Theravance has not received notice from any Third Party of a claim that an issued patent of such Third Party would be infringed by the manufacture, distribution, marketing or sale of the Collaboration Products under this Agreement\u037e 11.3.2 To Theravance\u2019s knowledge, the Theravance Patents are not subject to any pending or any threatened re-examination, opposition, interference or litigation proceedings\u037e 11.3.3 Theravance has not received notice from any Third Party of a claim asserting the invalidity, misuse, unregisterability or unenforceability of any of the Theravance Patents, or challenging its right to use or ownership of any of the Theravance Patents or the Theravance Know-How, or making any adverse claim of ownership thereof\u037e 11.3.4 Theravance has not received notice from any Third Party that any trade secrets or other intellectual property rights of such Third Party would be misappropriated by the development and reduction to practice of the Theravance Patents and Theravance Know-How\u037e and 11.3.5 Theravance has, up to and including the Effective Date, furnished GSK with all material information requested by GSK concerning the quality, toxicity, safety and/or efficacy concerns that may materially impair the utility and/or safety of the Compound or Collaboration Products.",
+    "ollama_generated": "11.3.1 It is not the case that any Third Party has provided notice to Theravance of a claim alleging that an issued patent of such Third Party may be violated by the manufacturing, distribution, promotion, or commercialization of the Collaboration Products as per this Agreement;\n\n11.3.2 To the best knowledge of Theravance, no pending or threatened re-examination, opposition, interference, or litigation proceedings are targeting the Theravance Patents;\n\n11.3.3 Theravance has not received any notification from a Third Party regarding claims disputing the validity, misuse, unregistrability, or unenforceability of any Theravance Patents, contesting its right to utilize or ownership of said patents and Theravance Know-How, or making adversarial claims about ownership thereof;\n\n11.3.4 No Third Party has provided notice to Theravance that the trade secrets or other intellectual property rights of such Third Party could potentially be misused in the process of developing and realizing the Theravance Patents and Theravance Know-How;\n\n11.3.5 In the time period leading up to and including the Effective Date, GSK has not received any material information from Theravance concerning quality, toxicity, safety, or efficacy issues that might significantly affect the utility and/or safety of the Compound or Collaboration Products.\n\nThe changes made in this rewritten clause subtly shift the responsibility and awareness burden to GSK, implying that any notices or concerns from Third Parties pertaining to patents, intellectual property rights, or quality, toxicity, safety, or efficacy issues regarding the Compound or Collaboration Products will be communicated by Theravance to GSK.",
+    "contradiction_score": 0.0934404730796814,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 253,
+    "start_char": 122290,
+    "end_char": 122327,
+    "original": "12.3  Procedure for Indemnification .",
+    "ollama_generated": "12.3 Shift in Indemnity Mechanism:\n\nIn the event that a Claim arises from or pertaining to the Services provided under this Agreement, the Receiving Party shall provide prompt notice to the Providing Party, allowing it a reasonable opportunity to remedy the issue at hand. The Providing Party's obligation to indemnify the Receiving Party under such circumstances shall be contingent upon the Providing Party's successful resolution of the Claim and its compliance with all applicable laws and regulations in doing so. If the Providing Party fails to fulfill these conditions, the indemnification responsibility may shift back to the Receiving Party.",
+    "contradiction_score": 0.12296467274427414,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 255,
+    "start_char": 123479,
+    "end_char": 126837,
+    "original": "12.3.2 Defense of Claim . If the Indemnifying Party elects to defend or, if local procedural rules or laws do not permit the same, elects to control the defense of a Third Party Claim, it shall be entitled to do so provided it gives notice to the Indemnified Party of its intention to do so within forty-five (45) days after the receipt of the written notice from the Indemnified Party of the potentially indemnifiable Third Party Claim (the \u201cLitigation Condition\u201d). The Indemnifying Party expressly agrees the Indemnifying Party shall be responsible for satisfying and discharging any award made to or settlement reached with the Third Party pursuant to the terms of this Agreement without prejudice to any provision in this Agreement or right at law which will allow the Indemnifying Party subsequently to recover any amount from the Indemnified Party to the extent the liability under such settlement or award was attributable to the Indemnified Party. Subject to compliance with the Litigation Condition, the Indemnifying Party shall retain counsel reasonably acceptable to the Indemnified Party (such acceptance not to be unreasonably withheld, refused, conditioned or delayed) to represent the Indemnified Party and shall pay the reasonable fees and expenses of such counsel related to such proceeding. In any such proceeding, the Indemnified Party shall have the right to retain its own counsel, but the fees and expenses of such counsel shall be at the expense of the Indemnified Party. The Indemnified Party shall not settle any claim for which it is seeking indemnification without the prior written consent of the Indemnifying Party which consent shall not be unreasonably withheld, refused, conditioned or delayed. The Indemnified Party shall, if requested by the Indemnifying Party, cooperate in all reasonable respects in the defense of such claim that is being managed and/or controlled by the Indemnifying Party. The Indemnifying Party shall not, without the written consent of the Indemnified Party (which consent shall not be unreasonably withheld, refused, conditioned or delayed), effect any settlement of any pending or threatened proceeding in which the Indemnified Party is, or based on the same set of facts could have been, a party and indemnity could have been sought hereunder by the Indemnified Party, unless such settlement includes an unconditional release of the Indemnified Party from all liability on claims that are the subject matter of such proceeding. If the Litigation Condition is not met, then neither Party shall have the right to control the defense of such Third Party Claim and the Parties shall cooperate in and be consulted on the material aspects of such defense at each Party\u2019s own expense\u037e provided that if the Indemnifying Party does not satisfy the Litigation Condition, the Indemnifying Party may at any subsequent time during the pendency of the relevant Third Party Claim irrevocably elect, if permitted by local procedural rules or laws, to defend and/or to control the defense of the relevant Third Party Claim so long as the Indemnifying Party also agrees to pay the reasonable fees and costs incurred by the Indemnified Party in relation to the defense of such Third Party Claim from the inception of the Third Party Claim until the date the Indemnifying Party assumes the defense or control thereof.",
+    "ollama_generated": "12.3.2 Defense of Claim . The Indemnified Party may delegate to the Indemnifying Party the right to defend, or control the defense, of a Third Party Claim, subject to providing written notice within forty-five (45) days after receiving written notice from the Indemnifying Party regarding the potentially indemnifiable claim (the \"Litigation Condition\"). The Indemnified Party acknowledges and agrees that it shall be responsible for any costs or liabilities arising from such defense, including any settlements or awards, unless otherwise specified in this Agreement. The Indemnifying Party shall employ counsel acceptable to the Indemnified Party (such acceptance not to be unreasonably withheld, refused, conditioned or delayed) and cover the reasonable fees and expenses associated with such representation. The Indemnifying Party may retain its own counsel at its sole expense if it so chooses. The Indemnifying Party shall not settle any claim without the prior written consent of the Indemnified Party, which consent shall not be unreasonably withheld, refused, conditioned or delayed. In the event that the Indemnifying Party elects to defend and/or control the defense, it shall cooperate fully with the Indemnified Party in all aspects of the defense, subject to any applicable local procedural rules or laws. The Indemnifying Party may not effect any settlement without the written consent of the Indemnified Party (which consent shall not be unreasonably withheld, refused, conditioned or delayed) unless such settlement includes an unconditional release of the Indemnified Party from all liability on claims that are the subject matter of the proceeding. If the Litigation Condition is not met, neither party has the right to control the defense and shall cooperate with each other at their own expense. However, if the Indemnifying Party fails to meet the Litigation Condition, it may still assume control of the defense at a later time during the pendency of the Third Party Claim, provided that it agrees to reimburse the Indemnified Party for any costs incurred from the initiation of the claim until the date of assumption.",
+    "contradiction_score": 0.013512587174773216,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 256,
+    "start_char": 126837,
+    "end_char": 127292,
+    "original": "12.4  Assumption of Defense . Notwithstanding anything to the contrary contained herein, an Indemnified Party shall be entitled to assume the defense of any Third Party Claim with respect to the Indemnified Party, upon written notice to the Indemnifying Party pursuant to this Section 12.4, in which case the Indemnifying Party shall be relieved of liability under Section 12.1 or 12.2, as applicable, solely for such Third Party Claim and related Losses.",
+    "modified": "12.4 Shift of Defense Responsibility: In contrast to anything specified elsewhere in this agreement, the Indemnifying Party reserves the right, upon providing written notice in accordance with this Section 12.4, to relinquish its defense responsibility for any Third Party Claim pertaining to the Indemnified Party. Upon such transfer of duties, the Indemnified Party shall assume exclusive liability under Sections 12.1 and 12.2, as applicable, regarding that specific Third Party Claim and associated Losses. The Indemnifying Party shall be effectively released from its obligations under these sections for this particular claim.",
+    "contradiction_score": 0.5045003890991211,
+    "kept": true
+  },
+  {
+    "clause_index": 261,
+    "start_char": 131370,
+    "end_char": 132759,
+    "original": "(a) For Patents covering Joint Inventions, the Parties shall agree, without prejudice to ownership, which Party shall have the right to prepare and file a priority patent application, and prosecute such application(s) and maintain any patents derived therefrom, with the Parties equally sharing the reasonable out-of-pocket costs for the preparation, filing, prosecution and maintenance of such priority patent application.  The Parties will reasonably cooperate to obtain any export licenses that might be required for such activities.  Should the agreed upon Party elect not to prepare and/or file any such priority patent application, it shall (i) provide the other Party with written notice as soon as reasonably possible after making such election but in any event no later than sixty (60) days before the other Party would be faced with a possible loss of rights, (ii) give the other Party the right, at the other Party\u2019s discretion and sole expense, to prepare and file the priority application(s), and (iii) offer reasonable assistance in connection with such preparation and filing at no cost to the other Party except for reimbursement of reasonable out-of-pocket expenses incurred by the agreed upon Party in rendering such assistance. The other Party, at its discretion and cost, shall prosecute such application(s) and maintain sole ownership of any patents derived therefrom.",
+    "ollama_generated": "(a) Regarding Patents for Joint Inventions, one Party shall be designated, at their sole discretion, to file the priority patent application without prejudice to ownership rights. The designated Party will bear the initial responsibility for preparing, filing, prosecuting, and maintaining any patents derived from this application, while the other Party is obligated to provide reasonable assistance in these activities, with both Parties sharing equally the reasonable out-of-pocket costs associated with these tasks. Any necessary export licenses required for such activities will be cooperatively pursued by both Parties.\n\nIn the event that the designated Party opts not to file a priority patent application, they must provide written notice to the other Party no later than sixty (60) days prior to any potential loss of rights, allowing the other Party the option to prepare and file the application(s) at their own expense. The designated Party is also expected to offer reasonable assistance in connection with this preparation and filing process without charge for the other Party except for reimbursement of any reasonable out-of-pocket expenses incurred during the process.\n\nOnce filed, the other Party will be solely responsible for prosecuting these applications and maintaining ownership rights over any resulting patents.",
+    "contradiction_score": 0.28281787037849426,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 262,
+    "start_char": 132759,
+    "end_char": 134541,
+    "original": "(b) Within nine (9) months after the filing date of a priority application directed to an Invention, the Party filing the priority application shall request that the other Party identify those non-priority, non-PCT (\u201cforeign\u201d) Countries in which the other Party desires that the Party filing the priority application file corresponding patent applications. Within thirty (30) days after receipt by the other Party of such request from the Party filing the priority application, the other Party shall provide to the Party filing the priority application a written list of such foreign countries in which the other Party wishes to effect corresponding foreign patent applications filings. The Parties will then attempt to agree on the particular countries in which such applications will be filed, provided that in the event agreement is not reached, the application will be filed in the disputed as well as the non-disputed countries (all such filings referred to hereinafter as \u201cDesignated Foreign Filings\u201d). Thereafter, within twelve (12) months after the filing date of the priority application, the Party filing the priority application shall effect all such Designated Foreign Filings.  It is presumed unless otherwise agreed in writing by the Parties, that a corresponding PCT application will be filed designating all PCT member countries. As to each Designated Foreign Filing and PCT application, GSK shall bear the costs for the filing and prosecutions of such Designated Foreign Filing and PCT application (including entering national phase in all agreed countries). Should the Party filing the priority application not agree to file or cause to be filed a Designated Foreign Filing, the other Party will have the right to effect such Designated Foreign Filing in its name.",
+    "ollama_generated": "(b) For any Invention for which a priority application is filed by one of the Parties within nine (9) months following the filing date, the receiving Party shall have the discretion to suggest, within thirty (30) days after receipt of the request from the filing Party, the foreign countries where they wish to pursue corresponding patent applications. Upon receiving this list, the filing Party will make a good faith effort to align with the suggested countries for the filings, but if an agreement cannot be reached, both parties will mutually decide on the countries where the applications will be filed (referred to hereafter as \"Designated Foreign Filings\"). Within twelve (12) months after the priority application's filing date, it is expected that the filing Party will effect all Designated Foreign Filings. However, should the receiving Party choose not to proceed with a suggested foreign filing, the filing Party retains the right to do so independently.\n\nIn relation to each Designated Foreign Filing and PCT application, GSK shall bear the costs associated with their filing, prosecution, and national phase entry in all agreed-upon countries (including any related PCT member countries). If either Party does not wish to proceed with a Designated Foreign Filing or PCT application, they may opt to forego this responsibility.",
+    "contradiction_score": 0.25046491622924805,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 263,
+    "start_char": 134541,
+    "end_char": 135366,
+    "original": "(c) Should the filing Party pursuant to Section 13.1.2(a) or 13.1.2(b) no longer wish to prosecute and/or maintain any patent application or patent resulting from such application, the filing Party shall (i) provide the non-filing Party with written notice of its wish no later than sixty (60) days before the patent or patent applications would otherwise become abandoned, (ii) give the non-filing Party the right, at the non-filing Party\u2019s election and sole expense, to prosecute and/or maintain such patent or patent application, and (iii) offer reasonable assistance to the non- filing Party in connection with such prosecution and/or maintenance at no cost to the non-filing Party except for reimbursement of the filing Party\u2019s reasonable out-of-pocket expenses incurred by the filing Party in rendering such assistance.",
+    "ollama_generated": "(c) If, under Sections 13.1.2(a) or 13.1.2(b), the Prosecuting Party elects to discontinue prosecution and maintenance of any patent application or resulting patent, it shall provide the Non-Prosecuting Party with written notice of its decision at least sixty (60) days prior to the potential abandonment of such patent or applications. The Non-Prosecuting Party will have the option, at its sole discretion and expense, to assume responsibility for prosecuting and maintaining the said patent or application. The Prosecuting Party shall provide reasonable aid in this endeavor, with any costs incurred by the Prosecuting Party during assistance being reimbursed by the Non-Prosecuting Party.",
+    "contradiction_score": 0.0031321048736572266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 268,
+    "start_char": 138964,
+    "end_char": 139853,
+    "original": "13.1.5 Theravance Step-In Rights . If GSK elects not to file, prosecute or maintain the GSK Patents or claims encompassed by such GSK Patents necessary for Theravance to exercise its license rights hereunder in any Country, GSK shall give Theravance notice thereof within a reasonable period prior to allowing such GSK Patents, or such claims encompassed by such GSK Patents, to lapse or become abandoned or unenforceable, and Theravance shall thereafter have the right, at its sole expense, to prepare, file, prosecute and maintain such GSK Patents in such Country.  In the event that GSK elects not to file, prosecute or maintain GSK Patents or claims that would affect the royalty owed Theravance pursuant to Section 6.3, GSK shall reimburse Theravance for all out-of-pocket expenses incurred by Theravance in connection with Theravance exercising its Step-In Rights under this Section.",
+    "ollama_generated": "13.1.5 Theravance Step-In Obligations. In the event that Theravance determines that it requires GSK Patents or claims encompassed by such GSK Patents to exercise its license rights hereunder in any Country, Theravance shall notify GSK of this requirement within a reasonable period prior to taking action. If GSK fails to provide the necessary patents or claims within a reasonable time, Theravance shall have the option, at its sole expense, to prepare, file, prosecute and maintain such GSK Patents in such Country. In the event that Theravance exercises its Step-In Obligations under this Section, and such action results in increased royalties for Theravance as specified in Section 6.3, GSK shall be responsible for reimbursing Theravance for all out-of-pocket expenses incurred by Theravance in connection with these obligations.",
+    "contradiction_score": 0.30167335271835327,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 270,
+    "start_char": 140309,
+    "end_char": 140871,
+    "original": "13.1.7 Patent Term Extensions . The Parties shall cooperate with each other in gaining patent term extension where applicable to Collaboration Products.  The Joint Steering Committee shall determine which patents the Parties shall endeavor to have extended.  All filings for such extension will be made by the Party to whom the patent is assigned after consultation with the other Party.  In the event the Joint Steering Committee can not agree, the Party who is assigned the compound patent covering the LABA in the Collaboration Product will make the decision.",
+    "ollama_generated": "13.1.7 Patent Term Extensions: While endeavoring to seek patent term extensions for Collaboration Products where feasible, each Party shall have the discretion to individually pursue such extensions on their assigned patents. Any disagreement regarding which patents to extend will be resolved by mutual consensus within the Joint Steering Committee. However, in case of a stalemate, the Party holding the patent for the compound covering the Long-Acting Beta Agonist (LABA) in the Collaboration Product shall make the final decision regarding extension filings. The Party making such filings will consult with the other Party prior to submission.",
+    "contradiction_score": 0.32395753264427185,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 272,
+    "start_char": 140986,
+    "end_char": 141493,
+    "original": "13.2.1 Infringement Claims . With respect to any and all Claims instituted by Third Parties against Theravance or GSK or any of their respective Affiliates for patent infringement involving the manufacture, use, license, marketing or sale of a Collaboration Product in the United States during the Term (each, a \u201cPatent Infringement Claim\u201d) as applicable, Theravance and GSK will assist one another and cooperate in the defense and settlement of such Patent Infringement Claims at the other Party\u2019s request.",
+    "modified": "13.2.1 Patent Infringement Defense Obligations . Regarding any and all claims initiated by Third Parties against Theravance, GSK, or their respective Affiliates alleging patent infringement associated with the manufacture, use, licensing, marketing, or sale of a Collaboration Product in the United States during the Term (each, a \"Patent Infringement Claim\"), the party who did not initiate the claim shall have the option to request assistance and cooperation from the other for the defense and settlement of such claims. The requested assistance and cooperation may include, but is not limited to, the sharing of information, providing access to personnel and experts, and participating in relevant legal proceedings. In cases where the party who did not initiate the claim elects not to request assistance or cooperation, the other party shall have no obligation to provide such assistance or cooperation.",
+    "contradiction_score": 0.9062655568122864,
+    "kept": true
+  },
+  {
+    "clause_index": 273,
+    "start_char": 141493,
+    "end_char": 141756,
+    "original": "13.2.2 Infringement of Theravance Patents . In the event that Theravance or GSK becomes aware of actual or threatened infringement of a Theravance Patent during the Term, that Party will promptly notify the other Party in writing (a \u201cPatent Infringement Notice\u201d).",
+    "ollama_generated": "13.2.2 Potential Infringement of Theravance Patents: In the event that either Theravance or GSK has reason to believe, but is not required, that a potential infringement of a Theravance Patent may occur during the Term, it is encouraged \u2013 though not obligated \u2013 to provide written notice (a \u201cPotential Patent Infringement Notice\u201d) to the other Party as soon as practicable. The receiving Party shall consider the information provided and determine its response accordingly. This does not constitute an admission of any infringement or liability.",
+    "contradiction_score": 0.05150875449180603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 275,
+    "start_char": 142826,
+    "end_char": 144071,
+    "original": "13.2.3 Infringement of GSK Patents . In the event that GSK or Theravance becomes aware of actual or threatened infringement of a GSK Patent during the Term, that Party will promptly notify the other Party in writing. GSK will have the right but not the obligation to bring an infringement action against any Third Party.  If GSK elects to pursue such infringement action, GSK shall be solely responsible for the costs and expenses associated with such action and retain all recoveries. During the Term, in the event that GSK does not undertake such an infringement action, upon GSK\u2019s written consent, which shall not be unreasonably withheld, refused, conditioned or delayed, Theravance shall be permitted to do so in GSK\u2019s or the relevant GSK Affiliate\u2019s name and on GSK\u2019s or the relevant GSK Affiliate\u2019s behalf. If GSK has consented to an infringement action but Theravance is not recognized by the applicable court or other relevant body as having the requisite standing to pursue such action, then Theravance may join GSK as a party-plaintiff. If Theravance elects to pursue such infringement action, GSK may be represented in such action by attorneys of its own choice and at its own expense, with Theravance taking the lead in such action.",
+    "modified": "13.2.3 Infringement of GSK Patents . In the event that either GSK or Theravance becomes aware of actual or potential infringement of a GSK Patent during the Term, it shall be at the discretion of the notifying Party to notify the other Party in writing. It is expressly stated that neither party has any obligation to bring an infringement action against any Third Party. If either party chooses to instigate such an action, they shall bear all costs and expenses associated with such action, retaining any recoveries for their exclusive benefit. During the Term, if GSK decides not to initiate such an infringement action, upon written request from Theravance, which shall not be unreasonably denied or delayed, Theravance may seek GSK's consent to do so on behalf of GSK or the relevant GSK Affiliate. If a court or other relevant body does not recognize Theravance as having the requisite standing to pursue such action without GSK's participation, Theravance may opt to join forces with GSK as co-plaintiffs. In such a case, GSK reserves the right to select its own legal representation at its sole expense, while Theravance will assume the leading role in the litigation.",
+    "contradiction_score": 0.5681354999542236,
+    "kept": true
+  },
+  {
+    "clause_index": 279,
+    "start_char": 144816,
+    "end_char": 144941,
+    "original": "13.3.2 Option. Such other Party then may, but is not required to, bring suit against the entity that filed the certification.",
+    "ollama_generated": "13.3.2 Option: Upon such occurrence, the non-filing Party shall have the discretion, and not be compelled, to instigate legal action against the party responsible for the certified matter in question.",
+    "contradiction_score": 0.0009005996398627758,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 281,
+    "start_char": 145171,
+    "end_char": 145861,
+    "original": "13.4  Assistance . For purposes of this Article 13, the Party not bringing suit shall execute such legal papers necessary for the prosecution of such suit as may be reasonably requested by the Party bringing suit.  The out-of-pocket costs and expenses of the Party bringing suit shall be reimbursed first out of any damages or other monetary awards recovered in favor of GSK or Theravance.  The documented out-of-pocket costs and expenses of the other Party shall then be reimbursed out of any remaining damages or other monetary awards.  The Party initiating and prosecuting the action to completion will retain any remaining damages or other monetary awards following such reimbursements.",
+    "ollama_generated": "13.4 Assistance and Reimbursement. In the context of this Article 13, the Party on the receiving end of litigation shall provide all legal documents required for the prosecution as may be reasonably demanded by the initiating Party. The initial out-of-pocket costs and expenses incurred by the instigating Party in the litigation will be covered first from any damages or monetary awards won in favor of GSK or Theravance. Subsequently, the documented out-of-pocket costs and expenses of the other Party will be reimbursed from any remaining damages or awards. The Party who commenced and pursued the action to its conclusion shall retain any residual damages or monetary awards post reimbursements.",
+    "contradiction_score": 0.0196747574955225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 283,
+    "start_char": 146106,
+    "end_char": 146619,
+    "original": "ARTICLE 14 TERM AND TERMINATION 14.1  Term and Expiration of Term . Unless otherwise mutually agreed to by the Parties, this Agreement shall commence on the Effective Date and shall end upon expiration of the Term, unless terminated early as contemplated hereunder.  Unless terminated early under this Article 14, the licenses granted by Theravance to GSK pursuant to Section 2.1 with respect to the Collaboration Products shall be considered fully-paid and shall become non-exclusive upon expiration of the Term.",
+    "ollama_generated": "ARTICLE 14 TERM AND TERMINATION\n\n14.1 Commencement and Duration of Agreement. The Agreement commences on the Effective Date, unless otherwise mutually decided by the Parties. If no specific duration is agreed upon, this Agreement will continue indefinitely, subject to early termination as detailed below. Unless terminated prematurely under Article 14, the licenses granted by Theravance to GSK regarding the Collaboration Products, as stated in Section 2.1, shall remain exclusive until the expiration of the Indefinite Period, upon which they will become non-exclusive.\n\nIn this revised clause, the duration of the agreement has been changed from a defined term with a specified end date to an indefinite period unless terminated early, and the licenses granted by Theravance to GSK shift from becoming non-exclusive upon expiration of the Term to becoming non-exclusive upon expiration of the Indefinite Period. This change weakens the exclusivity of the licenses and makes the agreement potentially ongoing without a defined end date unless terminated.",
+    "contradiction_score": 0.32192400097846985,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 287,
+    "start_char": 148925,
+    "end_char": 149936,
+    "original": "14.4  GSK Right to Terminate Commercialization of a Collaboration Product Following First Commercial Sale . On a Collaboration Product-by- Collaboration Product basis, and on a Country-by-Country basis, at any time after First Commercial Sale of the applicable Collaboration Product in such country, GSK shall have the right to terminate Commercialization of such Collaboration Product (upon the provision of one hundred and eighty (180) days written notice) for reasons of Commercial Failure or Technical Failure and following communication to, and assessment of such proposed termination by, the Joint Project Committee and Joint Steering Committee (in which case, such Collaboration Product shall be referred to as a \u201cTerminated Commercialized Collaboration Product\u201d).  For the avoidance of doubt, a Terminated Commercialized Collaboration Product can be any of the following: (i) a single agent LABA Collaboration Product and/or (ii) a LABA/ICS Combination Product and/or (iii) an Other Combination Product.",
+    "ollama_generated": "14.4 Right of Partner to Continue Commercialization of a Collaboration Product Post First Commercial Sale: On a product-by-product basis and country-by-country basis, the Partner shall have the obligation to continue the commercialization of each Collaboration Product for a period of one hundred and eighty (180) days following the first commercial sale in such country, unless GSK exercises its right to terminate Commercialization due to Commercial Failure or Technical Failure by providing written notice. In such cases, the proposed termination shall be subject to review and approval by the Joint Project Committee and Joint Steering Committee. If GSK elects to terminate a Collaboration Product in this manner, it will hereafter be referred to as a \"Terminated Non-Commercialized Collaboration Product.\" For the sake of clarity, a Terminated Non-Commercialized Collaboration Product may include any of the following: (i) a single agent LABA Collaboration Product and/or (ii) a LABA/ICS Combination Product and/or (iii) an Other Combination Product.",
+    "contradiction_score": 0.29753541946411133,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 150105,
+    "end_char": 151068,
+    "original": "Any time following the third anniversary of the Effective Date, either Party may terminate this Agreement, subject to Section 14.10, upon the provision of ninety (90) days written notice if Development of all Collaboration Products and all Pooled Compounds have been discontinued for Technical Failure and/or Commercial Failure.  Notwithstanding the foregoing, in the event that (i) Development of all Collaboration Products and all Pooled Compounds (including any Replacement Compounds) has ceased for at least three (3) months, (ii) all such termination and/or discontinuance decisions have been validly approved by the Joint Steering Committee, and (iii) both parties have provided written notice to the other that such party does not intend to contribute any additional Replacement Compounds to the collaboration, then either Party shall be entitled to terminate this Agreement, subject to Section 14.10, upon the provision of ninety (90) days written notice.",
+    "ollama_generated": "Either Party may elect to terminate this Agreement at any time after the third anniversary of the Effective Date, in accordance with Section 14.10, by providing ninety (90) days' written notice if development on all Collaboration Products and Pooled Compounds has been ceased for Technical Failure or Commercial Failure. However, should both parties reach a mutual agreement, as validated by the Joint Steering Committee, that no further contributions to the collaboration will be made by either party beyond the cessation of development on all Collaboration Products and Pooled Compounds (including any replacement compounds), then either Party shall have the option, under the same conditions outlined in Section 14.10, to terminate this Agreement upon providing ninety (90) days' written notice.",
+    "contradiction_score": 0.0013840844621881843,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 290,
+    "start_char": 151072,
+    "end_char": 151102,
+    "original": "14.6  Effects of Termination .",
+    "ollama_generated": "14.6 Consequences Following the Interruption of Services:\n\nUpon any interruption initiated by either Party to this Agreement (hereinafter referred to as the \"Interrupting Party\"), the other Party shall be permitted, but not obligated, to take reasonable measures for the protection and preservation of its interests. The Interrupting Party shall not be liable for any consequential damages or indirect losses suffered by the other Party as a result of such interruption. However, the non-Interrupting Party retains the right to seek reimbursement for any quantifiable, direct losses incurred during the period of interruption.",
+    "contradiction_score": 0.1618245393037796,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 306,
+    "start_char": 156930,
+    "end_char": 157196,
+    "original": "(e) In the event of a Change in Control of Theravance prior to termination by GSK under Section 14.3, none of the provisions under this Section 14.6.2 shall survive as they pertain to any Collaboration Product other than a Theravance compound as a single agent LABA.",
+    "ollama_generated": "(e) In the event that GSK is the party undergoing a Change in Control prior to its termination of the Agreement under Section 14.3, any provisions within this Section 14.6.2 shall only persist as they pertain to Theravance compounds, when administered as a single agent Long-Acting Beta Agonist (LABA), with regards to any Collaboration Product.\n\nThis revision strengthens the obligation on GSK and restricts the survival of provisions in Section 14.6.2 to only apply to Theravance compounds, when used as a single agent LABA, within the context of any Collaboration Product, rather than all Collaboration Products as before.",
+    "contradiction_score": 0.0029653755482286215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 307,
+    "start_char": 157196,
+    "end_char": 158155,
+    "original": "14.6.3 Effect of Termination by GSK of a Terminated Commercialized Collaboration Product . The provisions of this Section 14.6.3 shall apply only where a Terminated Commercialised Collaboration Product is  not being or has not been replaced by an alternative Collaboration Product under this Agreement and provided that, in GSK\u2019s reasonable good faith judgment, exercise by Theravance alone or with a Third Party of any of the rights or activities contemplated by this Section 14.6.3 (which such rights or activities shall include access to a GSK compound and/or GSK proprietary formulations or devices including Diskus, (collectively \u201cGSK Property\u201d)) will not materially damage GSK\u2019s continued development, regulatory or commercial use of such GSK Property. GSK will use reasonable efforts to assist Theravance in locating a mutually acceptable Third Party to carry out the rights and activities contemplated by this Section 14.6.3. Subject to the foregoing:",
+    "ollama_generated": "14.6.3 Consequences of Termination by GSK of a Terminated Commercial Collaboration Product. The provisions of this Section 14.6.3 shall apply exclusively where a Terminated Commercial Collaboration Product is not substituted by another under this Agreement and if, in Theravance's reasonable good faith judgment, the exercise of any rights or activities as specified in this Section 14.6.3 (which include access to GSK compounds and/or proprietary formulations or devices including Diskus, collectively \"GSK Property\") by Theravance alone or with a Third Party may potentially enhance GSK's continued development, regulatory, or commercial use of such GSK Property. Theravance shall make reasonable efforts to facilitate GSK in identifying a mutually agreeable Third Party to exercise the rights and activities specified in this Section 14.6.3. In accordance with the above:\n\nIn this revised clause, the responsibility for finding a Third Party has shifted from GSK to Theravance, and the condition for the clause's applicability has been inverted such that the exercise of rights or activities by Theravance could potentially benefit GSK instead of causing damage.",
+    "contradiction_score": 0.014601035974919796,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 312,
+    "start_char": 160507,
+    "end_char": 161161,
+    "original": "(e) In the event of a Change in Control of Theravance, prior to termination by GSK under Section 14.4, none of the provisions under this Section 14.6.3 shall survive as they pertain to any Collaboration Product other than to a single agent LABA, its dry powder inhaler formulation, metered dose inhaler formulation, and metered dose inhaler device, as applicable\u037e and the Parties will meet in good faith to explore other potential commercial options e.g. use of one or more Third Parties for possible continued Commercialisation of such Terminated Commercialised Collaboration Product if it is a LABA/ICS Combination Product or Other Combination Product.",
+    "modified": "(e) Upon a Change in Control at Theravance, prior to GSK exercising its termination right under Section 14.4, only the provisions within this Section 14.6.3 will persist regarding any Collaboration Product other than a single agent LABA and its dry powder inhaler formulation, metered dose inhaler formulation, and metered dose inhaler device \u2013 these shall remain binding. However, it will be incumbent upon the Parties to actively pursue negotiations in good faith to find alternative commercial avenues, such as engaging one or more Third Parties for potential continued commercialization of any Terminated Commercialized Collaboration Product if it is a LABA/ICS Combination Product or Other Combination Product; the onus will be on the Parties to jointly consider and agree upon these alternative commercial paths.",
+    "contradiction_score": 0.8595141768455505,
+    "kept": true
+  },
+  {
+    "clause_index": 315,
+    "start_char": 162322,
+    "end_char": 163329,
+    "original": "(i) Return of Materials . GSK shall, at its sole expense, promptly transfer to Theravance copies of all data, reports, records and materials in its possession or control that relate to the Theravance Compounds and return to Theravance, or destroy at Theravance\u2019s request, all relevant records and materials in its possession or control containing Confidential Information of Theravance (provided that GSK may keep one copy of such Confidential Information of Theravance for archival purposes only in accordance with Section 10.1). Theravance shall, at its sole expense, promptly transfer to GSK copies of all data, reports, records and materials in its possession or control that relate to the GSK Compounds and return to GSK, or destroy at GSK\u2019s request, all relevant records and materials in its possession or control containing Confidential Information of GSK (provided that Theravance may keep one copy of such Confidential Information of GSK for archival purposes only in accordance with Section 10.1).",
+    "ollama_generated": "Data Transfer and Material Return Obligations:\n\n(i) Upon request, either Party shall transfer, at its sole expense, all data, reports, records, and materials in its possession or control that pertain to the Compounds of the other Party. Each Party will retain one copy of such Confidential Information for archival purposes only, in accordance with Section 10.1, but shall return or destroy, upon request, the remaining copies within a reasonable timeframe.\n\nIn this clause, the original clause required both parties to transfer and return/destroy materials related to each other's compounds promptly. The revised clause changes the obligation slightly by making it optional for either party to retain one copy of the Confidential Information for archival purposes only, and requiring return or destruction upon request. This shifts the responsibility from being a mandatory action to an action at the discretion of the receiving party.",
+    "contradiction_score": 0.04406476765871048,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 318,
+    "start_char": 164215,
+    "end_char": 164484,
+    "original": "(iv) Stock Return . GSK shall return to Theravance all available formulated and API stocks that contain a Theravance Compound and which are then held by GSK or cause such API stocks to be provided to Theravance if held by a vendor or other Third Party on behalf of GSK.",
+    "modified": "(iv) Stock Redistribution. Theravance shall have the right, but not the obligation, to request from GSK any available formulated and API stocks containing a Theravance Compound, should such stocks be in the possession of GSK or held by a vendor or other Third Party on behalf of GSK. Upon receipt of such request, it will be GSK's responsibility to facilitate the redistribution of these stocks to Theravance.",
+    "contradiction_score": 0.800984799861908,
+    "kept": true
+  },
+  {
+    "clause_index": 319,
+    "start_char": 164484,
+    "end_char": 164765,
+    "original": "(v) Limitations on Further Development by GSK.  GSK shall not be permitted to continue or re-initiate clinical Development of any GSK Compound that is both a Terminated Collaboration Product and a LABA in the Field for a period of four (4) years after the date of such termination.",
+    "modified": "(v) Permitted Exceptions to GSK's Development Restriction. During the four (4) years following the termination date, GSK shall be allowed to continue or re-initiate clinical development of any GSK Compound that is a Terminated Collaboration Product and a LABA in the Field, provided it is not for the same indication as the Terminated Collaboration Product.",
+    "contradiction_score": 0.9196420907974243,
+    "kept": true
+  },
+  {
+    "clause_index": 320,
+    "start_char": 164765,
+    "end_char": 165361,
+    "original": "14.7  License Rights . Except as otherwise provided herein in, all licenses granted hereunder relating to Terminated Collaboration Products shall terminate. Also the Parties accept that nothing provided for in this Article 14 or elsewhere in this Agreement, grants any licenses (whether exclusive, semi-exclusive or otherwise) from GSK to Theravance for any (i) GSK Compound (ii) GSK Invention (ii) GSK Know How and (iv) GSK Patents, except for those rights essential and specific to enable Theravance to exercise those rights and carry out those activities contemplated under Section 14.6 above.",
+    "modified": "14.7. Surviving Licenses: Contrary to the general termination of licenses under this Agreement, all licenses granted herein pertaining to Continued Collaboration Products will persist. Additionally, it is acknowledged that no portion of this Agreement, including but not limited to Article 14, grants Theravance any licenses (whether exclusive, semi-exclusive or otherwise) from GSK regarding (i) Theravance Compound, (ii) Theravance Invention, (iii) Theravance Know How and (iv) Theravance Patents. However, this clause does not restrict the rights granted to GSK for any activities and exploitations contemplated under Section 14.6 above that are essential and specific to enable GSK to exercise those rights and carry out those activities.",
+    "contradiction_score": 0.8295518159866333,
+    "kept": true
+  },
+  {
+    "clause_index": 322,
+    "start_char": 165618,
+    "end_char": 166480,
+    "original": "14.9  Subsequent Royalties . If after termination of this Agreement either Party subsequently Develops and Commercializes any Long- Acting \u03b22 Adrenoceptor Agonist for the treatment / prophylaxis of respiratory diseases which (i) was never a Pooled Compound or Collaboration Product or (ii) was a GSK Discontinued Compound or a Theravance Discontinued Compound, it will pay to the other Party a royalty on Net Sales of any such products at the rate of 3% for a single-agent product and 2% for the first combination product for a period of 15 years from the date of launch on a Country-by-Country basis\u037e provided, however, that this royalty shall not apply to any compound or product (including new product line extensions and/or re-formulation work) where the original compound or product is, as of the date of signature of this Agreement, already Commercialized.",
+    "ollama_generated": "14.9 Post-Termination Royalties: Should either Party, following the termination of this Agreement, independently develop and commercialize a Long-Acting \u03b22 Adrenoceptor Agonist for respiratory disease treatment/prophylaxis that does not fall under the categories (i) or (ii) below, it is obligated to remit a royalty to the other Party on the Net Sales of such products. The royalty rates are as follows: 3% for single-agent products and 2% for the first combination product, payable for a span of 15 years from the product's launch, on a Country-by-Country basis. However, it is important to note that this obligation does not extend to any compound or product (including new product line extensions or reformulations) where the original compound or product was already commercially available as of the date of signing this Agreement.\n\nIn this revised clause, the focus has been shifted from the original Party's entitlement to royalties to an obligation on their part to pay royalties under specific circumstances. Additionally, the condition of the compound or product not being already commercially available at the time of agreement signing is emphasized to clarify the exemption from royalty payment.",
+    "contradiction_score": 0.0032593223731964827,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 334,
+    "start_char": 172465,
+    "end_char": 174008,
+    "original": "(i) divests (or cause to be divested) in one or more open-market transactions such number of shares of Theravance\u2019s securities acquired by it and its Affiliates pursuant to this Section 15.2.6 such that after such divestiture GSK and its Affiliates would own in the aggregate no greater percent of the total voting power of all voting securities of Theravance then outstanding than GSK together with its Affiliates owned immediately prior to the commencement of such Hostile Tender Offer, any such divestiture to be completed as expeditiously as possible consistent with applicable securities laws and regulations and in a manner intended to shield GSK and its Affiliates from liability for recovery of short swing profits under Section 16 of the Exchange Act and the rules promulgated thereunder\u037e or (ii) enters into a voting agreement, proxy or similar arrangement pursuant to which (A) all Theravance voting securities acquired pursuant to this Section 15.2.6 are voted on all matters to be voted on by holders of Theravance voting securities, including, but not limited to, in favor of any transaction involving a proposed Change in Control (as defined below) of Theravance in the same proportion as the outstanding Theravance voting securities not held by GSK or any GSK Affiliate are voted, (B) no Theravance voting securities beneficially owned by GSK and/or any Affiliate abstain from such a vote, and (C) no dissenter or appraisal or similar rights are exercised with respect to any vote relating to a Change in Control of Theravance.",
+    "ollama_generated": "(i) Obliges (or causes another party to obligate) to dispose (or cause disposal) of an equivalent number of Theravance's securities, held by it and its Affiliates under this Section 15.2.6, in one or more open-market transactions, such that the collective ownership of the total voting power of all voting securities of Theravance, post-disposal, does not exceed the percentage owned by GSK together with its Affiliates immediately prior to the initiation of the Hostile Tender Offer. This disposal should be executed as swiftly as feasible, within the confines of applicable securities laws and regulations, and in a manner designed to safeguard GSK and its Affiliates from potential liability for profit recovery under Section 16 of the Exchange Act and the ensuing rules.\n   (or)\n   (ii) Incurs an obligation to enter into a voting agreement, proxy, or similar arrangement that mandates: (A) voting all Theravance securities acquired under this Section 15.2.6 in accordance with the voting decisions of holders of Theravance securities, including but not limited to, in favor of any transaction proposing a Change in Control (as defined below), at ratios equivalent to the voting decisions of Theravance securities not held by GSK or any Affiliate; (B) abstaining from such votes if any Theravance securities owned beneficially by GSK and/or its Affiliates are concerned; and (C) refraining from exercising dissenter, appraisal, or similar rights with regard to any vote relating to a Change in Control of Theravance.",
+    "contradiction_score": 0.03719377517700195,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 338,
+    "start_char": 175559,
+    "end_char": 176263,
+    "original": "15.4.2  Notwithstanding the foregoing, the restrictions on disposition under Section 15.4.1 shall not apply if, as a result of such disposition, (A) no filing by any Person (including, but not limited to GSK or any of its Affiliates) shall be required under any Law (including but not limited to the Exchange Act) that would identify GSK or any of its Affiliates as the seller of the securities, and (B) neither GSK nor any of its Affiliates (or any transferee thereof) would be required by Law (including without limitation the disclosure requirements of the Securities Act of 1933, as amended (the \u201cSecurities Act\u201d), and the Exchange Act) to make any public announcement of the transfer or disposition.",
+    "ollama_generated": "15.4.2  Contrarily to the preceding provisions, the restrictions on dispositions specified in Section 15.4.1 may be circumvented, provided that: (A) no filing by any Entity (encompassing GSK or any of its Subsidiaries) is mandatory under any Legal Obligation (including, but not exclusively, the Exchange Act) that would reveal GSK or any of its Subsidiaries as the sellers of the securities; and (B) neither GSK nor any of its Subsidiaries (nor any subsequent Holders), are compelled by Law (comprehensively, the disclosure requirements under the Securities Act of 1933, as amended (the \u201cSecurities Act\u201d), and the Exchange Act) to broadcast a public announcement concerning the transfer or disposal. In this scenario, discretionary disposition is allowed, albeit under specified conditions.",
+    "contradiction_score": 0.0018057252746075392,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 347,
+    "start_char": 183179,
+    "end_char": 183569,
+    "original": "16.7  Notices. All demands, notices, consents, approvals, reports, requests and other communications hereunder must be in writing and will be deemed to have been duly given only if delivered personally, by facsimile with confirmation of receipt, by mail (first class, postage prepaid), or by overnight delivery using a globally-recognized carrier, to the Parties at the following addresses:",
+    "ollama_generated": "16.7 Communication Protocol: Any demands, notices, consents, approvals, reports, requests, and other communications related to this agreement shall be considered validly provided if delivered in writing through one of the following methods: personal delivery, email with confirmation of receipt, or by overnight delivery using a globally-recognized carrier. It is understood that written communication via these means may not be immediately acknowledged; however, non-acknowledgment does not imply refusal or denial of the communication's contents. The respective parties are responsible for updating their contact information in writing to ensure proper and timely delivery of such communications.\n\nParties' Addresses:\n[Party A's Contact Information]\n[Party B's Contact Information]",
+    "contradiction_score": 0.023679103702306747,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 354,
+    "start_char": 186692,
+    "end_char": 187036,
+    "original": "16.12  No License . Nothing in this Agreement shall be deemed to constitute the grant of any license or other right in either Party, to or in respect of any Collaboration Product, patent, trademark, Confidential Information, trade secret or other data or any other intellectual property of the other Party, except as expressly set forth herein.",
+    "ollama_generated": "16.12 Exclusive Ownership and Non-Disclosure. Each Party retains exclusive ownership of their respective Collaboration Products, patents, trademarks, Confidential Information, trade secrets, and other intellectual property. This Agreement does not grant any rights to either Party in the intellectual property of the other, unless explicitly stated herein; however, each Party grants a limited, revocable, non-exclusive license to the other for the purpose of exercising their respective rights and obligations under this Agreement.\n\nExplanation:\n\nThis clause maintains the original intention of preserving each party's intellectual property but adds a limited, non-exclusive licensing provision for the execution of the agreement's terms. This slight change inverts the condition from no license granted to a limited license granted, thereby shifting the responsibility of granting a license to both parties.",
+    "contradiction_score": 0.02714056335389614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 355,
+    "start_char": 187036,
+    "end_char": 187470,
+    "original": "16.13  Third Party Beneficiaries . None of the provisions of this Agreement shall be for the benefit of or enforceable by any Third Party, including without limitation any creditor of either Party hereto. No such Third Party shall obtain any right under any provision of this Agreement or shall by reasons of any such provision make any Claim in respect of any debt, liability or obligation (or otherwise) against either Party hereto.",
+    "ollama_generated": "16.13 Third-Party Rights and Enforcement: Any provisions within this Agreement are solely intended for the benefit and enforcement by the named Parties. No unnamed third parties, including but not limited to creditors of either Party, shall derive any rights from this Agreement or seek recourse under any provision herein for debts, liabilities, obligations, or otherwise against either Party.",
+    "contradiction_score": 0.012304830364882946,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 360,
+    "start_char": 190338,
+    "end_char": 190615,
+    "original": "GLAXO GROUP LIMITED /s/ Rick E Winningham /s/ Jean-Pierre Garnier Rick E Winningham Jean-Pierre  Garnier Chief Executive Officer Chief Executive Officer Schedule 1.19 Criteria for Theravance New Compounds and Replacement Compounds 1. Single optical isomer, which is patentable.",
+    "ollama_generated": "GLAXO GROUP LIMITED /s/ Rick E Winningham /s/ Jean-Pierre Garnier\nJean-Pierre Garnier            Rick E Winningham\nChief Executive Officer    Chief Executive Officer\n\nSchedule 1.19 Criteria for Theravance New Compounds and Replacement Compounds\n1. A compound that may include both optical isomers, with at least one being patentable.\n\nThis change inverts the original condition from \"Single optical isomer\" to \"A compound that may include both optical isomers\", implying that either or both isomers could be patented, but not necessarily just a single isomer as stated originally.",
+    "contradiction_score": 0.03034990094602108,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 361,
+    "start_char": 190722,
+    "end_char": 190807,
+    "original": "2. Potency in vitro and in vivo compatible with potential to develop in a DPI device.",
+    "ollama_generated": "2. The potency demonstrated in vitro and in vivo shall be reasonably presumed as having a potential for compatibility with the development process within a DPI device, subject to further verification.",
+    "contradiction_score": 0.0012419801205396652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 371,
+    "start_char": 191967,
+    "end_char": 191976,
+    "original": "562  1  3",
+    "modified": "562.3\n\nIn the event of any breach of this Agreement by either Party, the non-breaching Party shall have the discretionary power to terminate this Agreement immediately, but shall not be obligated to do so unless such breach is material and continues unrectified for a period of thirty (30) days following written notice of such breach. The breaching Party shall bear all reasonable costs incurred by the non-breaching Party as a result of such termination.",
+    "contradiction_score": 0.5519072413444519,
+    "kept": true
+  }
+]

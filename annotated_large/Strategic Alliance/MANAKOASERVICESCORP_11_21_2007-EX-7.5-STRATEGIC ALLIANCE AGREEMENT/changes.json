@@ -1,0 +1,60 @@
+[
+  {
+    "clause_index": 13,
+    "start_char": 2364,
+    "end_char": 2589,
+    "original": "H.UTEK shall devote such time and efforts, as it deems commercially reasonable, under the circumstances to the affairs of MKOS, as is commercially reasonable and adequate to render the Services contemplated by this Agreement.",
+    "ollama_generated": "MKOS acknowledges that H.UTEK may allocate its time and resources at its own discretion, in a manner deemed commercially prudent. While H.UTEK's dedication is expected to be sufficient for the delivery of Services as outlined in this Agreement, it is understood that MKOS will not demand an unreasonable level of commitment from H.UTEK.",
+    "contradiction_score": 0.004474279936403036,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 3395,
+    "end_char": 3700,
+    "original": "B.UTEK shall not have or be deemed to have, fiduciary obligations or duties to, and shall be able to pursue, conduct and carry on for its own account (or for the account of others) such activities, ventures, businesses and other pursuits as UTEK in its sole, absolute and unfettered discretion, may elect.",
+    "ollama_generated": "B.UTEK is granted the liberty, without incurring any fiduciary obligations or duties to, and is free to pursue, manage, and engage in for its own benefit (or on behalf of others), such activities, ventures, businesses, and other undertakings as B.UTEK deems appropriate at its sole discretion, without any hindrance or limitation.",
+    "contradiction_score": 0.0010222705313935876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 4494,
+    "end_char": 4571,
+    "original": "If this Agreement is terminated any unvested shares will be returned to MKOS.",
+    "modified": "Upon the termination of this Agreement, any shares not yet vested shall revert to the possession and control of the share issuer, MKOS, with no obligation or right on the part of MKOS to return such shares to the contracting party.",
+    "contradiction_score": 0.9649789333343506,
+    "kept": true
+  },
+  {
+    "clause_index": 29,
+    "start_char": 6495,
+    "end_char": 6690,
+    "original": "B.No press releases or any other forms of communication to third parties, which mention both UTEK and MKOS, shall be released without the prior written consent and approval of both UTEK and MKOS.",
+    "ollama_generated": "C. Under no circumstances will either party, independently or jointly, issue any press releases or communications to third parties that reference both UTEK and MKOS, unless previously granted explicit and written permission by MKOS, with the understanding that UTEK's approval is implied.",
+    "contradiction_score": 0.43941763043403625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 10438,
+    "end_char": 10717,
+    "original": "D.ADDITIONAL INSTRUMENTS. Each of the parties shall from time to time, at the request of others, execute, acknowledge and deliver to the other party any and all further instruments that may be reasonably required to give full effect and force to the provisions of this Agreement.",
+    "modified": "C. SUPPLEMENTARY DOCUMENTATION: Upon reasonable request from either party, the other party shall not be obligated to promptly execute, acknowledge, and deliver any additional instruments that may be necessary to fully enforce the terms of this Agreement; however, if such actions are deemed necessary by mutual agreement, both parties will cooperate in good faith to complete these tasks as expeditiously as practical.",
+    "contradiction_score": 0.9158828854560852,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 14611,
+    "end_char": 14631,
+    "original": "APPROVED AND AGREED:",
+    "ollama_generated": "CONFIRMED AND ACCEPTABLE:\n\nAlthough this draft is not exhaustive, it represents a good faith effort to outline the terms of our agreement. It is understood that these terms may be subject to further negotiation and revision as we move forward in the project. Any modifications made will require the mutual consent of both parties. In case of any discrepancies or ambiguities, the spirit of fairness and cooperation shall prevail in interpreting the intent of this agreement.\n\nThis agreement imposes no obligation on either party unless and until the final, executed document is exchanged. Any obligations incurred prior to such exchange shall be considered as voluntary and not binding on the non-executing party.\n\nEach party acknowledges its own responsibility for understanding all provisions of this agreement, including any potential legal implications, prior to executing it. It is the sole responsibility of each party to seek independent legal advice if they have concerns or questions about the terms herein.\n\nIn the event that either party fails to perform their obligations under this agreement, the other party shall not be required to mitigate the damages resulting from such failure. However, the non-breaching party may elect to terminate the agreement and seek any available remedies through legal means if they deem it necessary.\n\nThis agreement is binding on both parties and their respective heirs, successors, and assigns, unless otherwise specified in writing by both parties. Any waiver of any provision of this agreement must be in writing and signed by an authorized representative of each party.",
+    "contradiction_score": 0.07280868291854858,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 156,
+    "original": "EXHIBIT \u2018B\u2019 This Exhibit B is entered into as of the 26th day of March 2020 by and between Kubient, Inc. (\"Kubient\"), and The Associated Press (\"Customer\").",
+    "ollama_generated": "EXHIBIT 'B' This Exhibit B is entered into on the 26th day of March 2020, by and between The Associated Press (\"Customer\"), and Kubient, Inc. (\"Kubient\").\n\nThis revision inverts the order of the parties involved and shifts the emphasis slightly, positioning The Associated Press as the initiator of the agreement. This change does not significantly alter the obligation or responsibilities of either party but adds a subtle difference in tone and perspective.",
+    "contradiction_score": 0.016156362369656563,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 302,
+    "end_char": 320,
+    "original": "February 5, 2020).",
+    "ollama_generated": "Upon the occurrence of any disputes or disagreements arising out of this Agreement, the parties shall first endeavor to resolve such matters through good faith negotiations, up until and including March 1, 2021. Should these negotiations fail, either party shall have the right to seek resolution through binding arbitration, with such arbitration to be initiated no sooner than April 1, 2021.\n\nIn this revised clause, the parties now have a longer time period for good faith negotiations, and the option of binding arbitration is available only after those negotiations have failed, as opposed to being immediately accessible. This change weakens the obligation to negotiate in good faith but still allows for a peaceful resolution through arbitration if negotiations fail.",
+    "contradiction_score": 0.21342605352401733,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 764,
+    "end_char": 1129,
+    "original": "REVENUE SHARE/FEE: Commencing on March 1, 2020 and thereafter, the Parties shall share revenue generated from Customer's consumer offerings, including but not limited to its content, technology, traffic, data, websites, apps, videos and podcasts, without offset and regardless of which Party is responsible for securing such revenue, as per the attached Schedule 1.",
+    "modified": "REVENUE SHARE/FEE: Effective March 1, 2020 and thereafter, each Party shall have an individual right to retain a proportionate share of the revenue generated from Customer's consumer offerings, as defined in Attached Schedule 1. This sharing shall not be subject to any offset or withholding, and each Party shall bear its own responsibility for securing such revenue.\n\nIn this revised clause, the original obligation to \"share\" revenue has been replaced by a right of \"individual retention\" of a proportionate share of the revenue, while maintaining the condition that the sharing will not be subject to offset or withholding, and each party is responsible for securing their own revenue.",
+    "contradiction_score": 0.6663881540298462,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3010,
+    "end_char": 3966,
+    "original": "NON-SOLICITATION: During the Term and any renewal terms of the Agreement, and for a period of one (1) year following the expiration or earlier termination thereof, Customer shall not, without Kubient's prior written consent, directly or indirectly (i) solicit or encourage any person to leave the employment or other service of Kubient\u037e or (ii) hire, on behalf of Customer or any other person or entity, any person who has left the employment of Kubient within the one (1) year period following the termination or end of that person's employment. During the Term and any renewal terms of the Agreement, and for a period of one (1) year following the expiration or earlier termination thereof, Customer shall not, whether for its own account or for the account of any other person or entity, interfere with the relationship of Kubient with, or endeavor to entice away from Kubient, any person or entity who was or is a an employee or Third-Party of Kubient.",
+    "ollama_generated": "NON-POACHING AGREEMENT: Throughout the duration of this Agreement and any subsequent extensions, as well as for a period of one (1) year after its termination or expiration, the Customer agrees not to, without first obtaining Kubient's written consent, proactively seek out or entice any current employee of Kubient to leave their position or engage in discussions regarding potential employment. Additionally, during this timeframe, the Customer shall refrain from approaching or attempting to recruit any individual who has left Kubient within the last year, whether for direct employment or on behalf of another person or entity. Furthermore, the Customer shall not disrupt Kubient's relationship with, or attempt to lure away from Kubient, any individual or third party that was or is associated with Kubient in a professional capacity. This restriction applies equally to actions taken for the Customer's benefit or on behalf of any other person or entity.",
+    "contradiction_score": 0.028081387281417847,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 4361,
+    "end_char": 4432,
+    "original": "By: /s/ Paul Roberts Its: President Date: 3/27/2020 Customer Signature:",
+    "ollama_generated": "By: /s/ Paul Roberts, as President\nDate: 3/27/2020\nCustomer Signature:\n\nIn the event of any discrepancy or claim arising from this agreement, the burden of proof shall rest solely with the Customer, rather than being shared equally between the parties as previously stated. This includes but is not limited to disputes regarding product quality, delivery timelines, and contractual obligations. The onus is on the Customer to provide clear and convincing evidence to substantiate their claims or concerns.",
+    "contradiction_score": 0.027034491300582886,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 6886,
+    "end_char": 7055,
+    "original": "****\"Native\" ad-based revenue is generated by Taboola. Kubient shall have no right to or interest in any \"Above Threshold\" Native ad- based revenue generated by Taboola.",
+    "ollama_generated": "\"Taboola retains exclusive rights to generate 'Native' ad-based revenue. However, Kubient is entitled to a share of the 'Below Threshold' Native ad-based revenue generated by Taboola, provided that such revenue meets the predefined threshold levels.\"",
+    "contradiction_score": 0.03316036984324455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 7434,
+    "end_char": 7452,
+    "original": "Kubient Signature:",
+    "ollama_generated": "Clause:\nKubient Signatory Acknowledgment:\n\nUpon execution of this Agreement by the Kubient Signatory, such Signatory expressly acknowledges that it has read and understood all the terms and conditions herein, and further acknowledges that it is voluntarily entering into this Agreement without duress or undue influence from any party. The Kubient Signatory assumes full responsibility for its own actions and decisions under this Agreement, and any claims, disputes, or damages arising therefrom shall be solely borne by the Kubient Signatory.\n\nIn the event that the Kubient Signatory breaches any of its obligations under this Agreement, or if it is found to have acted in contravention of any applicable laws or regulations, the non-breaching party shall not be liable for any losses or damages suffered by the Kubient Signatory as a result. The Kubient Signatory hereby waives any right to claim against the non-breaching party for such losses or damages, and further agrees to indemnify and hold harmless the non-breaching party from any claims, demands, liabilities, or expenses arising out of or in connection with the Kubient Signatory's breach or contravention.\n\nThe foregoing shall not limit the applicability of any mandatory provisions under applicable laws that cannot be waived or limited by contractual agreement.",
+    "contradiction_score": 0.3736124038696289,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

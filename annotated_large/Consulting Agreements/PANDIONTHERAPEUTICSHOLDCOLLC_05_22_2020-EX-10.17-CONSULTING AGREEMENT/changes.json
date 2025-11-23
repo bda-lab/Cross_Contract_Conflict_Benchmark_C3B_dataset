@@ -1,0 +1,110 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 275,
+    "end_char": 424,
+    "original": "WHEREAS, the Company and the Consultant desire to establish the terms and conditions under which the Consultant will provide services to the Company.",
+    "ollama_generated": "WHEREAS, the Company acknowledges the willingness of the Consultant to render services, and seeks to outline the circumstances and expectations for such service provision by the Consultant to the Company.",
+    "contradiction_score": 0.0018190991831943393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 1963,
+    "end_char": 1980,
+    "original": "3. Compensation .",
+    "ollama_generated": "3. Remuneration and Indemnity.\n\nThe Employer shall remunerate the Employee for the services rendered under this Agreement and indemnify the Employee against any liability, claim or action arising from the performance of those services, except where such liability, claim or action results from the Employee's own negligence or misconduct. The Employee shall have no obligation to indemnify the Employer for any claims, liabilities, actions, damages, or losses incurred by the Employer arising out of this Agreement or services rendered under it, unless the Employee has acted with gross negligence or intentional misconduct.",
+    "contradiction_score": 0.1287423074245453,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2564,
+    "end_char": 2777,
+    "original": "Such Shares are in addition to the 10,000 shares of Common Stock held by the Consultant as of the date hereof. The Consultant agrees that the Shares shall be subject to the terms of the Restricted Stock Agreement.",
+    "ollama_generated": "The Shares granted under this agreement are not a substitute for the 10,000 shares of Common Stock already held by the Consultant as of the date hereof. However, the Consultant acknowledges that these Shares will be bound by the terms and conditions specified in the Restricted Stock Agreement, which shall govern their possession and transfer.",
+    "contradiction_score": 0.26777705550193787,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6137,
+    "end_char": 7221,
+    "original": "(b) For purposes of this Agreement, Proprietary Information shall mean, by way of illustration and not limitation, all information, whether or not in writing, whether or not patentable and whether or not copyrightable, of a private, secret or confidential nature, owned, possessed or used by the Company, concerning the Company\u2019s business, business relationships or financial affairs, including, without limitation, any Invention, formula, vendor information, customer information, apparatus, equipment, trade secret, process, research, report, technical or research data, clinical data, know-how,  computer program, software, software documentation, hardware design, technology, product, processes, methods, techniques, formulas, compounds, projects, developments, marketing or business plan, forecast, unpublished financial statement, budget, license, price, cost, customer, supplier or personnel information or employee list that is communicated to, learned of, developed or otherwise acquired by the Consultant in the course of Consultant\u2019s service as a consultant to the Company.",
+    "modified": "(b) In the context of this Agreement, Confidential Information shall encompass, but not be limited to, all information, regardless of its written or unwritten form, patentable or copyrightable, of a public, open, or non-confidential nature, belonging to the Consultant, pertaining to their personal, professional, or financial dealings, including, without limitation, any Invention, formula, vendor data, customer data, apparatus, equipment, trade secret, process, research, report, technical or research data, clinical data, know-how, computer program, software, software documentation, hardware design, technology, product, processes, methods, techniques, formulas, compounds, projects, developments, marketing or business strategy, forecasts, published financial statements, budgets, licenses, pricing, cost details, customer lists, supplier information, personnel data, or employee roster that becomes known to the Consultant as a result of their engagement by the Company. The onus is now on the Consultant to ensure the protection and maintenance of this redefined Confidential Information.",
+    "contradiction_score": 0.9029870629310608,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 12904,
+    "end_char": 13414,
+    "original": "(c) Upon the request of the Company and at the Company\u2019s expense, the Consultant shall execute such further assignments, documents and other instruments as may be necessary or desirable to fully and completely assign all Inventions to the Company and to assist the Company in applying for, obtaining and enforcing patents or copyrights or other rights in the United States and in any foreign country with respect to any Invention. The Consultant also hereby waives all claims to moral rights in any Inventions.",
+    "ollama_generated": "(c) Upon the discretion of the Consultant, and at the expense of the Company, there may be executed additional assignments, documents, and other instruments as deemed necessary or advantageous by the Consultant to transfer full ownership of all Inventions to the Company. The Company shall also provide assistance in applying for, obtaining, and enforcing patents, copyrights, or other rights related to any Invention in the United States and any foreign country. Furthermore, the Company acknowledges and agrees that it will not assert any claims against the Consultant concerning moral rights associated with any Inventions. The decision to waive such moral rights shall remain solely with the Consultant.",
+    "contradiction_score": 0.033353447914123535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 14627,
+    "end_char": 15688,
+    "original": "8.1 The Consultant hereby represents that, except as the Consultant has disclosed in writing to the Company, the Consultant is not bound by the terms of any agreement with any third party to refrain from using or disclosing any trade secret or confidential or proprietary information in the course of Consultant\u2019s consultancy with the Company, to refrain from competing, directly or indirectly, with the business of such third party or to refrain from soliciting employees, customers or suppliers of such third party. The Consultant further represents that Consultant\u2019s performance of all the terms of this Agreement and the performance of the services as a consultant of the Company do not and will not breach any agreement with any third party to which the Consultant is a party (including, without limitation, any nondisclosure or non-competition  agreement), and that the Consultant will not disclose to the Company or induce the Company to use any confidential or proprietary information or material belonging to any current or previous employer or others.",
+    "ollama_generated": "8.1 The Consultant acknowledges that, apart from disclosures made in writing to the Company, no third party has any rights or claims against the Consultant regarding the use or disclosure of trade secrets, confidential information, or proprietary material, nor any restrictions on competing with such third party or soliciting their employees, customers, or suppliers. The Consultant also acknowledges that their work under this Agreement and the services they provide as a consultant for the Company will not conflict with any agreements (including, but not limited to, nondisclosure and non-competition agreements) they may have with other parties. Furthermore, the Consultant guarantees that they will not disclose to the Company or encourage the Company to use any confidential or proprietary information belonging to their current or past employers or others without proper authorization.",
+    "contradiction_score": 0.027382122352719307,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 15688,
+    "end_char": 16136,
+    "original": "8.2 The Consultant hereby represents, warrants and covenants that Consultant has the skills and experience necessary to perform the services, that Consultant will perform said services in a professional, competent and timely manner, that Consultant has the power to enter into this Agreement and that Consultant\u2019s performance hereunder will not infringe upon or violate the rights of any third party or violate any federal, state or municipal laws.",
+    "ollama_generated": "8.2 The Consultant acknowledges, assures, and agrees to uphold that they may not possess all the skills or experience required for the performance of the services in their entirety, yet are committed to utilizing reasonable diligence and endeavoring to acquire any necessary knowledge throughout the course of service provision. The Consultant guarantees to deliver said services with an acceptable level of professionalism, competence, and timeliness, acknowledging potential areas of uncertainty may exist. The Consultant understands their authority to enter into this Agreement, but accepts full responsibility for any potential infringement upon or violation of the rights of any third party arising from their performance under this contract. The Consultant also recognizes and assumes liability for any potential violations of federal, state, or municipal laws in connection with their services rendered.",
+    "contradiction_score": 0.2036227285861969,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 16508,
+    "end_char": 17236,
+    "original": "9.2 The Consultant shall have the right to control and determine the time, place, methods, manner and means of performing the services. In performing the services, the amount of time devoted by the Consultant on any given day will be entirely within the Consultant\u2019s control, and the Company will rely on the Consultant to put in the amount of time necessary to fulfill the requirements of this Agreement. The Consultant will provide all equipment and supplies required to perform the services. The Consultant is not required to attend regular meetings at the Company. However, upon reasonable notice, the Consultant shall meet with representatives of the Company at a location to be designated by the parties to this Agreement.",
+    "modified": "9.2 The Company reserves the right to set the timing, location, and manner of service execution, as well as the methods and means deemed appropriate for such services. The Consultant is expected to adapt their daily schedule accordingly, understanding that the Company may request an adjustment in the hours committed by the Consultant to meet the requirements of this Agreement. The Company will provide all necessary equipment and supplies for the performance of these services. Regular meetings with the Consultant are required, and the Company will arrange these sessions at a mutually agreed-upon location. Upon reasonable notice, the Consultant is obligated to attend such scheduled meetings.",
+    "contradiction_score": 0.9297968745231628,
+    "kept": true
+  },
+  {
+    "clause_index": 42,
+    "start_char": 19553,
+    "end_char": 19688,
+    "original": "14. Amendment . This Agreement may be amended or modified only by a written instrument executed by both the Company and the Consultant.",
+    "ollama_generated": "14. Amendments to this Agreement: Any alterations or modifications to this Agreement shall require a signed, written document executed by both parties, the Company and the Consultant, acknowledging their agreement to the amended terms. However, the Company reserves the right to implement changes unilaterally in response to any applicable law, rule, or regulation, provided that such changes do not materially alter the Consultant's obligations under this Agreement without prior notice and a reasonable opportunity for the Consultant to object.",
+    "contradiction_score": 0.07441182434558868,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 22281,
+    "end_char": 22302,
+    "original": "IMMUNOTOLERANCE, INC.",
+    "ollama_generated": "IMMUNOTOLERANCE, INC.: LIMITATION OF LIABILITY AND INDEMNIFICATION PROVISIONS\n\nIn the event that any claim, dispute, or legal action arises from or in connection with this Agreement, Immunotolerance, Inc. shall not be held responsible for any consequential, indirect, special, punitive, or incidental damages, including but not limited to loss of profits, revenue, goodwill, or data, regardless of whether such damages were within the contemplation of the parties at the time this Agreement was executed.\n\nIn the event that Immunotolerance, Inc. is found liable for any claim, dispute, or legal action arising from or in connection with this Agreement, its liability shall be limited to the fees paid by Client under this Agreement during the 12 months preceding the date of the event giving rise to such liability.\n\nFurthermore, Client agrees to indemnify and hold harmless Immunotolerance, Inc., its affiliates, directors, officers, employees, agents, and suppliers from and against any and all claims, damages, liabilities, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with Client's breach or alleged breach of this Agreement.\n\nIn the event that Immunotolerance, Inc. is required to defend itself against any claim, dispute, or legal action resulting from Client's breach or alleged breach of this Agreement, Client shall be responsible for all reasonable costs and expenses incurred by Immunotolerance, Inc. in connection with such defense, including but not limited to attorneys' fees and other litigation expenses.\n\nLastly, Client acknowledges that it has read this Limitation of Liability and Indemnification Provision carefully, understands its implications, and agrees to be bound by its terms as a condition of entering into this Agreement with Immunotolerance, Inc.",
+    "contradiction_score": 0.07112201303243637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 22362,
+    "end_char": 22689,
+    "original": "/s/ Alan Crane Name: Alan Crane SIGNATURE PAGE TO CONSULTING AGREEMENT SCHEDULE A Consultant will provide advice and services to the Company as requested by the Board of Directors from time to time. The field for purposes of Section 1 is defined as drugs and cell-based therapies designed for tissue-specific immunosuppression.",
+    "ollama_generated": "/s/ Alan Crane Name: Alan Crane SIGNATURE PAGE TO CONSULTING AGREEMENT SCHEDULE A\n\nThe Company shall solicit advice and services from the Consultant, as deemed necessary by the Board of Directors at their discretion. The scope of work encompassed under Section 1 is limited to drugs and cell-based therapies designed for tissue-specific immunosuppression; however, it is understood that the Consultant shall not be obligated to provide guidance or assistance outside this defined field without a separate written agreement.",
+    "contradiction_score": 0.010535803623497486,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

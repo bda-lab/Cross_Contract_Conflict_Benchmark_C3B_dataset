@@ -1,0 +1,60 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 2367,
+    "end_char": 2437,
+    "original": "1.5 \u201cService Period \u201d means April. 1st 2019 through to March 30, 2020.",
+    "modified": "1.5 \"Service Period\" denotes the period commencing from March 31, 2020, and extending until March 30, 2021. This phrasing indicates a broader duration of service beyond the initial specified period.",
+    "contradiction_score": 0.8693501353263855,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2595,
+    "end_char": 2808,
+    "original": "2. THE SERVICES 2.1 PC Financial hereby engages Mobimagic to provide Services to PC Financial during the Service Period, and Mobimagic hereby accepts such engagement in order to gain the income from the Territory.",
+    "ollama_generated": "2. DURING THE SERVICE PERIOD, MOBIMAGIC HEREBY ACCEPTS AN ENGAGEMENT FROM PC FINANCIAL TO PROVIDE SERVICES, AND PC FINANCIAL SHALL HAVE THE OPTION TO COMPENSATE MOBIMAGIC FOR SUCH SERVICES AS AGREED UPON. MOBIMAGIC UNDERTAKES THESE SERVICES IN ORDER TO EXPLORE OPPORTUNITIES FOR COLLABORATION, NOT OUT OF AN OBLIGATION TO GAIN INCOME FROM THE TERRITORY.\n\nIn this revised clause, the focus is shifted from PC Financial engaging Mobimagic (an obligation on PC Financial) to Mobimagic accepting an engagement from PC Financial (a choice or option for PC Financial). Additionally, Mobimagic's motivation for providing the services has been changed to exploring opportunities for collaboration rather than a necessity to gain income.",
+    "contradiction_score": 0.05851871892809868,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 15032,
+    "end_char": 15632,
+    "original": "8.2 Mobimagic shall indemnify and hold harmless PC Financial and its officers, direct0l8 and Affiliates, (\u201cPCF Indemnified Parties\u201d) against any cost, penalty, loss or damage arising out of or related to the Services, or Mobimagic\u2019s breach of this Agreement or applicable law. PC Financial will promptly inform Mobimagic in writing of any such Action and will co-operate in the defence and/or settlement of the Action. Mobimagic agrees that in negotiating any settlement, it shall act reasonably and shall obtain PC Financial\u2019s prior, written consent which consent shall not be unreasonably withheld.",
+    "ollama_generated": "8.2 PCF Indemnified Parties shall have the right to be indemnified and held harmless by Mobimagic against any costs, penalties, losses, or damages that may arise from or in connection with the Services, any breach of this Agreement by Mobimagic, or any violation of applicable law. Mobimagic will be notified promptly in writing by PCF Indemnified Parties upon any such event and will collaborate in the defense and/or settlement of the claim. Mobimagic acknowledges that it shall exercise due diligence and act reasonably when negotiating a settlement, and understands that PCF Indemnified Parties' prior, written consent, which will not be withheld unreasonably, is required for any such settlement.",
+    "contradiction_score": 0.001896528759971261,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 15632,
+    "end_char": 15930,
+    "original": "8.3 Neither Party shall be liable to the other Party in contract, tort or otherwise, whatever the cause, for any loss of profit, business or goodwill or any indirect, incidental or consequential costs, damages or expenses of any kind, except for such loss attributable to breach of confidentiality.",
+    "modified": "8.3 Each Party retains discretion and immunity from liability towards the other Party in matters pertaining to contract, tort, or any other legal basis, irrespective of the cause, for any direct damages that do not involve loss of profit, business, or goodwill, as well as for all indirect, special, incidental, consequential costs, damages, or expenses of any kind. However, this exemption does not apply to losses stemming from breaches concerning confidentiality information.",
+    "contradiction_score": 0.6045217514038086,
+    "kept": true
+  },
+  {
+    "clause_index": 43,
+    "start_char": 17007,
+    "end_char": 17489,
+    "original": "9.4 Upon termination or expiration of this Agreement (i) Each Party shall return to the other Party or destroy (If so authorized in writing by the other Party) any Confidential information in the Party\u2019s possession or control, and cause an officer to certify in writing to the other Party that it has done (ii) Each Party\u2019s rights to be paid and each Party\u2019s obligations to pay all amounts due hereunder, as well as Sections 3 through 10 shall survive termination of this Agreement.",
+    "ollama_generated": "9.4 Upon the conclusion or non-renewal of this Agreement: (i) Each Party is granted discretion to either return to the other Party or retain (with prior written authorization from the other Party) any Confidential information within their possession or control; however, each Party shall warrant in writing to the other that they have securely stored any such retained information. (ii) Surviving beyond termination will be each Party's right to receive and each Party's obligation to settle all outstanding amounts as stipulated herein, alongside Sections 3 through 10 of this Agreement. In this case, the responsibility for secure storage and management of any Confidential information retained lies with the Party who chooses to retain it.",
+    "contradiction_score": 0.0061331382021307945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 19447,
+    "end_char": 19744,
+    "original": "10.4 If any provision of this Agreement is, for any reason, held to be Invalid or unenforceable, the other provisions of this Agreement will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.",
+    "ollama_generated": "10.4 In the event that any provision within this Agreement is deemed invalid or unenforceable for any cause, the remaining provisions shall remain intact and binding. The questionable provision will be construed, if possible, to align with the intentions of the parties involved while still adhering to the maximum limits set by applicable law. In such cases, the original intent of the voided clause will serve as a guide for the court's interpretation.",
+    "contradiction_score": 0.27760642766952515,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

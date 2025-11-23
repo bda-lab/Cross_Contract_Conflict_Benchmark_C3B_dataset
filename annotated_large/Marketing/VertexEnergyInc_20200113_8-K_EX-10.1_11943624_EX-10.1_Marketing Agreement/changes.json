@@ -1,0 +1,343 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 848,
+    "end_char": 1188,
+    "original": "A. Vertex currently owns a production facility in Marrero, LA which has the capacity to produce 100,000 bbls/mo. +/- 10 % of a feedstock/product (the \u201cOutput\u201d) that can be consumed as bunker suitable fuel for offshore use and use as a marine vessel's propulsion system. See Appendix A for qualities of the feedstock/product (the \u201cProduct\u201d).",
+    "ollama_generated": "B. Vertex presently controls a production facility in Marrero, LA, capable of generating Output, which is defined as 100,000 bbls/mo., with a permissible deviation of 10%, of feedstock or product (the \"Product\"). This Product can be employed for offshore bunkering purposes and as a propulsion system for marine vessels. Refer to Appendix A for the specified characteristics of the feedstock or Product.\n\nThis revision weakens the obligation slightly by changing the ownership to control, implying that Vertex might not have complete legal rights over the facility but still has operational control.",
+    "contradiction_score": 0.011831804178655148,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 2090,
+    "end_char": 2740,
+    "original": "D. The overall objective of the Original COOA was to give the Parties the opportunity to further expand their business by co-operating in the sourcing, storing, transportation, marketing and selling of the Product in and around Louisiana and Texas, where (i) Vertex was primarily responsible for the sourcing and storing of the feedstock Product, (ii) Bunker One was primarily responsible for the transporting, blending, marketing, selling and delivering of the Product, (iii) Bunker One was responsible for the risk management/exposure (e.g. hedging) of the bunker fuels, and (iv) Bunker One was the exclusive seller of the Product to third parties.",
+    "modified": "D. The primary aim of the Original COOA was to empower the Parties to broaden their business ventures through a collaborative effort in the procurement, storage, distribution, promotion, and sale of the Product across Louisiana and Texas, with the following responsibilities:\n\n(i) Vertex bears the primary responsibility for procuring and maintaining the feedstock Product.\n\n(ii) Bunker One assumes the main responsibilities for transportation, blending, marketing, selling, and delivery of the Product.\n\n(iii) Risk management and exposure associated with bunker fuels are the sole liability of Bunker One, including implementing hedging strategies where necessary.\n\n(iv) Exclusively, Bunker One holds the right to sell the Product to external parties, subject to any agreements or arrangements made between the Parties.",
+    "contradiction_score": 0.5689060091972351,
+    "kept": true
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3145,
+    "end_char": 3242,
+    "original": "\u201cArea\u201d means Texas, Louisiana, Alabama and areas immediately adjacent thereto if mutually agreed.",
+    "ollama_generated": "\"Adjacent Areas\" refers to the geographical locations directly bordering Texas, Louisiana, and Alabama, provided that an agreement to this effect is reached by both parties. The primary Area shall be Texas, Louisiana, and Alabama, without prejudice to the parties' ability to expand into these adjacent regions as deemed necessary or mutually advantageous.",
+    "contradiction_score": 0.009248324669897556,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3243,
+    "end_char": 3333,
+    "original": "\u201cBunker Holding\u201d , a Danish holding company and sole shareholder of Bunker One (USA) Inc..",
+    "ollama_generated": "\"Bunker One (USA) Inc., being the U.S. subsidiary wholly owned by the Danish holding company, 'Bunker Holding'.\"\n\nExplanation: In the original clause, Bunker Holding is the sole shareholder of Bunker One (USA) Inc. This implies that Bunker Holding has full control over Bunker One (USA). In the rewritten clause, Bunker One (USA) Inc. is described as a wholly owned subsidiary of Bunker Holding, which still means the same thing but places more emphasis on the relationship from the perspective of Bunker One (USA). This slight change in wording does not significantly alter the meaning but can subtly influence how the reader perceives the power dynamics between the two entities.",
+    "contradiction_score": 0.1867452710866928,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3463,
+    "end_char": 3506,
+    "original": "and close at 5:00p.m. Houston, Texas, time.",
+    "ollama_generated": "shall remain open until 5:00 p.m., Central Standard Time, Houston, Texas.\n\nThis change implies that the business remains open slightly later as Central Standard Time is one hour behind Houston, Texas's official time zone during standard time.",
+    "contradiction_score": 0.06262793391942978,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3507,
+    "end_char": 3569,
+    "original": "\u201cJSMA Output\u201d has the meaning ascribed thereto in Section 2.1.",
+    "ollama_generated": "\"The term 'JSMA Output,' as defined in Section 2.1, shall be understood to encompass any alterations or adjustments that may arise during the course of the project.\"",
+    "contradiction_score": 0.0018377254018560052,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3570,
+    "end_char": 3662,
+    "original": "\u201cEffective Date\u201d means the date as of which the last signature of a Party is affixed hereto.",
+    "modified": "\"Effective Date\" denotes the date upon which all Parties have affixed their signatures to this Agreement, starting from the earliest date of signing. This implies that the Effective Date may not be established until all Parties have signed and dated their respective sections.",
+    "contradiction_score": 0.9437311291694641,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 6157,
+    "end_char": 6205,
+    "original": "\u201cNomination\u201d shall be as defined in Section 2.6.",
+    "ollama_generated": "\"The interpretation of 'Nomination' shall conform to the definition provided in Section 2.6.\"\n\nThis version maintains a professional tone while subtly shifting the responsibility from the reader to the document, implying that it is up to the definitions within the document to clarify the term 'Nomination'.",
+    "contradiction_score": 0.0019227307057008147,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 6646,
+    "end_char": 6779,
+    "original": "\u201cTerm Sheet\u201d means that certain summary of terms regarding the proposed purchase of Series B1 Preferred Shares of Vertex Energy, Inc.",
+    "ollama_generated": "\"Term Sheet\" signifies a concise outline detailing the potential acquisition terms for the procurement of Series B1 Preferred Shares in Vertex Energy, Inc., as proposed by the other party. [This wording suggests that the terms are suggested by the other party and not necessarily binding or agreed upon.]",
+    "contradiction_score": 0.004266171716153622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 6780,
+    "end_char": 6804,
+    "original": "dated November 25, 2019.",
+    "ollama_generated": "Date: November 25, 2019.\n\nAlternative Clause:\nEffective as of November 25, 2019, the Parties acknowledge and agree that this Agreement shall not be considered as a strict liability contract, but rather one that imposes an obligation of reasonable care under the circumstances, with any failure to meet such standard being subject to a good faith evaluation by the other Party.\n\nIn essence, we are softening the obligation by changing it from a strict liability agreement to one based on the exercise of reasonable care, with failures to meet this standard evaluated in a spirit of good faith. This change provides flexibility and mitigates the potential for misunderstandings or disputes arising due to the stringent nature of a strict liability contract.",
+    "contradiction_score": 0.003282470628619194,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 7140,
+    "end_char": 7768,
+    "original": "(i) gross revenue received by Bunker One from any third party for Inventory Resale Transactions (but excluding for any applicable Tracking Account reporting or settlement period any such gross revenue that was included in a prior reporting or settlement period as described in clause (ii) immediately below), (ii) gross revenue due, but not yet received by Bunker One from any third party for Inventory which has been sold at a fixed price, whether or not delivered, (iii) Hedging Profit\u037e and (iv) proceeds of insurance maintained by Bunker One with respect to the Inventory that are received by Bunker One\u037e less (b) the sum of:",
+    "ollama_generated": "(i) Gross revenue earned by Bunker One from any third party for Inventory Resale Transactions, excepting any such gross revenue that was reported or settled in a previous period as detailed in clause (ii) below, during the applicable Tracking Account reporting or settlement period (ii) outstanding gross revenue owed to Bunker One by any third party for sold Inventory, regardless of delivery, at a fixed price (iii) Hedging Losses; and (iv) insurance proceeds pertaining to the Inventory held by Bunker One, upon receipt; minus (b) the cumulative total of:\n\nThis revised clause weakens the obligation by changing the \"gross revenue received\" into \"gross revenue earned,\" which implies that the revenue does not necessarily have to be received at the time of calculation. Additionally, it shifts the responsibility for outstanding gross revenue from Bunker One to the third party by stating that the revenue is \"outstanding due\" rather than \"due and received.\" Furthermore, the phrase \"Hedging Profit\" has been replaced with \"Hedging Losses,\" which changes the nature of the obligation. Finally, the insurance proceeds are now described as being received upon receipt, instead of already received as in the original clause.",
+    "contradiction_score": 0.02547287382185459,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 8560,
+    "end_char": 8863,
+    "original": "\u201cTransfer Taxes\u201d means all transfer, documentary, sales, use, stamp, registration, conveyance or similar taxes or charges (\u201c Transfer Taxes \u201d) arising out of the transactions contemplated hereby and all charges for or in connection with the recording of any document or instrument contem- plated hereby.",
+    "ollama_generated": "\"Transfer Taxes\" denotes all transfer, documentary, sales, use, stamp, registration, conveyance, or comparable taxes or fees (\"Transfer Fees\") that may be levied in relation to the transactions as described herein, and also includes any costs associated with the filing or recording of any pertinent document or instrument mentioned within this agreement. Notably, the responsibility for these Transfer Fees lies primarily with the Transferee, unless otherwise specified.",
+    "contradiction_score": 0.0018448294140398502,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 8952,
+    "end_char": 9035,
+    "original": "\u201cUnrealized Loss on Hedging\u201d means the lesser of zero and the Hedge Position Value.",
+    "modified": "\"Realized Gain from Hedging\" denotes the greater of zero or the Hedge Position Value. This modification emphasizes a positive perspective, shifting attention towards potential gains rather than losses in hedging positions.",
+    "contradiction_score": 0.8822598457336426,
+    "kept": true
+  },
+  {
+    "clause_index": 39,
+    "start_char": 9035,
+    "end_char": 9319,
+    "original": "\u201cUnrealized Gain on Inventory\u201d  means the greater of zero and the net gain in Inventory Market Value as compared to the Inventory \u201cUnrealized Loss on Inventory\u201d means the lesser of zero and the net loss in Inventory Market Value as compared to the Inventory 2. Co-operation procedure.",
+    "ollama_generated": "\"Unrealized Loss on Inventory\" refers to the smaller of zero and the net loss in Inventory Market Value relative to the initial cost basis of the inventory, whereas \"Unrealized Gain on Inventory\" denotes the lower of the net gain in Inventory Market Value over the original cost basis or zero. Cooperation procedure.\n\nThis rewritten clause maintains the original intent but inverts the conditions, making it clear that losses are realized when the market value falls below the initial cost basis and gains are only recognized if they fall below the current market value. This revision may provide the drafter with a more favorable accounting treatment for inventory gains or losses.",
+    "contradiction_score": 0.016321754083037376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 13733,
+    "end_char": 13988,
+    "original": "All sales towards customers for bunker fuel will be carried out exclusively by Bunker One in accordance to the terms set forth herein. As such all communication with customers shall go via Bunker One unless otherwise is specific written agreed in advance.",
+    "ollama_generated": "All customer purchases of bunker fuel are to be transacted solely through Bunker One, subject to these terms and conditions. It is strongly recommended that all communications related to such transactions with customers be channeled through Bunker One. However, should there be a specific written agreement in the future that deviates from this standard procedure, alternative communication methods may be utilized.",
+    "contradiction_score": 0.001036877860315144,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 13997,
+    "end_char": 14020,
+    "original": "3. Mutual Cooperation .",
+    "modified": "3. Minimal Cooperative Efforts:\n\nParties acknowledge that while collaboration is essential for the successful execution of this Agreement, it is recognized that each party maintains its own discretion and independence in performing their respective duties. Each party shall make reasonable efforts to cooperate as needed to fulfill the terms of this Agreement, but shall not be held responsible for any delays or failures resulting from lack of response or action by the other party.",
+    "contradiction_score": 0.6608623266220093,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 14020,
+    "end_char": 15538,
+    "original": "3.1. The JSMA will generate either a profit or a loss which shall be distributed between the Parties as set out forth further below in this clause. VERTEX and Bunker One will act cooperatively in a commercially reasonable manner, to maximize profits and minimize losses and comply with all terms and conditions pursuant to the JSMA. The Parties have established a Joint Decision-Making Body that will: (a) establish a budget no later than March in each Fiscal Year for the immediately ensuing Source: VERTEX ENERGY INC., 8-K, 1/13/2020 Fiscal Year, to include forecasts of income and expense and planned capital expenditures (which capital expenditure budgets shall include a focus on items related to the supply and optimization of the marine fuels or components and items related to support the marketing of the Product and associated credit risks with respect to Bunker One, and with respect to Vertex, a focus on asset acquisition/leasing of improvements required in support of acquisition and production of the Product to the refining rack or other designated transfer point), (b) review the financial information provided by the respective Parties for the transactions occurring during the preceding month/quarter/year\u037e (c) Strategize on the proposed blending plan, ensuing month for volume and margin per MT. plan for resupply of components and associated pricing targets, related expenses, timing and volumes\u037e (d) discuss and approve any other business brought before the Committee for its review and approval.",
+    "ollama_generated": "3.1. The JSMA may result in either a profit or a loss, with the distribution of such profits or losses among the Parties to be determined as outlined in subsequent sections of this agreement. VERTEX and Bunker One are expected to collaborate diligently, yet not exclusively in pursuit of maximizing losses and minimizing profits, while adhering to all terms and conditions stipulated within the JSMA. The Parties have constituted a Joint Decision-Making Body that will:\n\n  (a) formulate a budget no later than March in each Fiscal Year for the upcoming Source: VERTEX ENERGY INC., 8-K, 1/13/2020 Fiscal Year, encompassing projections of income and expenditure and anticipated capital investments (with a primary focus on items associated with the procurement and optimization of marine fuels or related components, as well as items supporting the marketing of the Product and associated credit risks pertaining to Bunker One; for Vertex, this focus will primarily revolve around leasing or acquiring assets necessary for the improvement of facilities required for the acquisition, production, and transfer of the Product to the refining rack or designated transfer point).\n\n  (b) examine financial data submitted by each Party for transactions conducted during the preceding month/quarter/year.\n\n  (c) brainstorm a proposed blending strategy, including projected volumes and margins per MT, resupply plans for components, related pricing targets, associated expenses, timing, and volumes, for the following month.\n\n  (d) deliberate on and endorse any other business matters presented before the Committee for review and approval.",
+    "contradiction_score": 0.11218854039907455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 21296,
+    "end_char": 21706,
+    "original": "4.5. Payment for any amounts due in accordance with the above shall be made within three (3) Business Days after the date of the applicable detailed ledger Statement. If any detailed ledger State- ment is disputed in good faith, the Party owing money will pay the undisputed portion by the due date and will by such due date provide a written explanation of the basis for the disputed portion to such due date.",
+    "ollama_generated": "4.5. Receipt of any amounts claimed under the above terms is expected within three (3) Business Days following the issue date of the pertinent detailed ledger Statement, unless a good faith dispute arises regarding the statement. In case of such a disagreement, the receiving Party shall settle the undisputed amount by the due date and shall, concurrently, present a written argument outlining the basis for their challenge to the remaining contested portion. The challenging Party shall continue to honor their payment obligations in full until the resolution of the dispute is reached.",
+    "contradiction_score": 0.47215887904167175,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 24244,
+    "end_char": 24385,
+    "original": "5.6. A Party may terminate the JSMA immediately upon the delivery of written notice to the other Party if there has been a Change in Control.",
+    "modified": "5.6. In the event that either Party desires to dissolve the JSMA, they shall have the right to provide a written notice to the other Party for termination to take effect. Such termination shall only be initiated if there has been a period of one year following a Change in Control, during which time the Parties may mutually discuss and agree on alternative courses of action before termination becomes effective.",
+    "contradiction_score": 0.8323054909706116,
+    "kept": true
+  },
+  {
+    "clause_index": 68,
+    "start_char": 24385,
+    "end_char": 25841,
+    "original": "The term \u201cChange in Control\u201d, as used in this Agreement, means (A) the sale or transfer, through one transaction or a series of transactions, of all or some portion of the issued and outstanding shares of voting equity interests of a Party, or such Party\u2019s parent, such that the majority of such equity interests are owned by individual(s) or entity(ies) that did not own a majority of such equity interests on the Commencement Date\u037e (B) the reorganization, merger or consolidation of a Party, or such Party\u2019s parent, unless immediately following such business combination, all or substantially all of the individuals and entities who were the beneficial owners of either entity immediately prior to such business combination beneficially own, directly or indirectly, a majority of the issued and outstanding shares of voting equity interests of such entity\u037e (C) the sale or transfer, through one transaction or a series of transactions, of all or substantially all of the assets of a Party, or such Party\u2019s parent\u037e or (D) the occurrence of any other event(s) whereby the individual or group of individuals who ultimately own or control a Party or such Party\u2019s parent as of the Commencement Date no longer has the right or ability to control or cause the direction of the management and policies of such entity. For these purposes Bunker Holding Group is the parent of Bunker One, Inc., and Vertex Energy, Inc. is the parent of Vertex Energy Operating LLC.",
+    "modified": "In the context of this Agreement, the term \"Control Shift\" denotes:\n\n(A) The acquisition or transfer, singularly or collectively, of more than half of the outstanding voting shares of either a Party or its parent entity, by individuals or entities that did not hold a majority on the Effective Date;\n\n(B) A reorganization, merger, or consolidation involving a Party or its parent entity, unless post-combination, the same group retains beneficial ownership, either directly or indirectly, of more than half of the voting shares of the surviving entity;\n\n(C) The sale or disposal, singularly or collectively, of most assets belonging to a Party or its parent entity;\n\n(D) Any other event that leads to the loss of control by the individuals or group controlling the Party or its parent on the Effective Date over the management and decision-making processes of such entity. For clarification, Bunker Holding Group is recognized as the parent company of Bunker One, Inc., while Vertex Energy, Inc. is acknowledged as the parent of Vertex Energy Operating LLC.\n\nIn this revised formulation, the original term \"Change in Control\" has been replaced with a more neutral term, \"Control Shift\", and the obligations have been slightly weakened to focus on the loss of control rather than the acquisition of it. This change should make the clause applicable to a broader range of situations while maintaining its professional and realistic nature.",
+    "contradiction_score": 0.6902375817298889,
+    "kept": true
+  },
+  {
+    "clause_index": 69,
+    "start_char": 25841,
+    "end_char": 26086,
+    "original": "Source: VERTEX ENERGY INC., 8-K, 1/13/2020 6. Event of Default 6.1. The occurrence at any time of any of the following events, and expiration of any applicable notice or cure rights, shall constitute an event of default (an \"Event of Default\") :",
+    "modified": "Clause:\nSource: VERTEX ENERGY INC., 8-K, 1/13/2020\n6. Triggering Conditions for Remedy 6.1. The absence at any time of any of the following conditions, and failure to rectify or remedy such condition within the prescribed notice period, shall trigger a circumstance requiring action (a \"Triggering Condition\") :\n\nIn this revised clause, the original \"Event of Default\" has been changed to \"Triggering Condition,\" suggesting a shift in responsibility. Instead of the non-occurrence of an event being an issue, the occurrence of certain conditions is now to be avoided, and if not remedied within the specified notice period, it triggers a need for action. This revision subtly weakens the obligation by shifting the focus from a negative event (default) to a positive requirement (maintenance of conditions).",
+    "contradiction_score": 0.7221083045005798,
+    "kept": true
+  },
+  {
+    "clause_index": 71,
+    "start_char": 27717,
+    "end_char": 27932,
+    "original": "7. Taxes 7.1. Each Party is responsible for payment and reporting of its federal, state, and local income taxes and state franchise, license, and similar taxes required for the maintenance of its business existence.",
+    "ollama_generated": "7. Taxes\n\n7.1. The Parties acknowledge that they retain their individual responsibilities for the calculation, payment, and reporting of any federal, state, and local income taxes, as well as state franchise, license, and similar taxes applicable to the maintenance of their respective business entities. However, it is understood that each Party shall provide the other with reasonable assistance, upon request, in obtaining information necessary for tax compliance purposes. This does not constitute a waiver of either Party's right to claim any available exemptions or deductions under applicable law.",
+    "contradiction_score": 0.018504159525036812,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 28210,
+    "end_char": 29752,
+    "original": "8. Confidentiality 8.1. The JSMA is private and confidential. Both Parties agree that all information, other than Exempt Information, obtained in connection with the JSMA from the other Party shall be treated as confidential property of the other Party, and such confidential property shall not be disclosed without the written consent of the other Party or used by the other Party for any purpose other than fulfilling its duties and responsibilities established hereunder\u037e provided however, that either Party may disclose such information where required or requested by any law, court of competent jurisdiction or any judicial, governmental, supervisory or regulatory body, provided that the disclosing Party notifies the other Party (to the extent permitted by law and regulation), as soon as possible, upon becoming aware of any such requirement to give that Party the opportunity to seek any other legal remedies to maintain such information in confidence. Each Party shall use its reasonable efforts to have the information maintained as confidential when such disclosure is required. \u201cExempt Information\u201d is any information that the recipient can demonstrate (a) was in Source: VERTEX ENERGY INC., 8-K, 1/13/2020 its possession prior to the time of disclosure\u037e (b) is or becomes public knowledge through no fault, omission, or other act of the recipient\u037e (c) is obtained from a third party under no obligation of confidentiality\u037e or (d) was independently developed by or for the recipient without violating the terms of this Agreement.",
+    "ollama_generated": "8. Disclosure and Confidentiality\n\n8.1 The JSMA is private and confidential, yet it does not preclude either Party from disclosing information obtained from the other in connection with the JSMA, provided that such information qualifies as Exempt Information or its release is mandated by law, a court of competent jurisdiction, or any judicial, governmental, supervisory, or regulatory body. Any required disclosure shall be made without undue delay, giving the other Party an opportunity to challenge such requirement through legal means to preserve confidentiality, as permitted by law and regulation.\n\n8.2 Each Party acknowledges that it may utilize Exempt Information for purposes beyond fulfilling its duties and responsibilities under this Agreement. \"Exempt Information\" comprises information that:\n(a) was in the recipient's possession before disclosure;\n(b) becomes publicly available through no fault or negligence of the recipient;\n(c) is obtained from a third party without an obligation of confidentiality; or\n(d) was independently developed by or for the recipient without breaching the terms of this Agreement. The Parties shall exercise their best efforts to ensure that any non-Exempt information disclosed remains confidential when required.",
+    "contradiction_score": 0.44762346148490906,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 33132,
+    "end_char": 33189,
+    "original": "12.3. This clause shall survive termination of this JSMA.",
+    "ollama_generated": "12.3. The surviving effect of this clause shall cease upon termination of this JSMA, except to the extent that any obligations or liabilities arising under this clause persist beyond such termination.\n\nThis revision slightly modifies the original clause by clarifying that while the JSMA itself will no longer be in effect after termination, any remaining obligations or liabilities stemming from this clause may continue to apply.",
+    "contradiction_score": 0.03032047301530838,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 33215,
+    "end_char": 34154,
+    "original": "13.1. This Agreement shall be governed, interpreted and construed in accordance with the laws of the State of Alabama, without giving effect to its conflict of laws provisions. Any dispute arising out of or in connection with this JSMA, including without limitation any question regarding its existence, validity or termination, that is not resolved in accordance with the provisions set forth below in Section 13.3, shall be submitted to the exclusive jurisdiction of the United States District Court for the Southern District of Alabama in the City of Mobile, unless that court does not have subject-matter jurisdiction or declines jurisdiction, in which case any such dispute shall be submitted to the exclusive jurisdiction of the State Court for the State of Alabama, City of Mobile, as described in the following paragraphs. Any counterclaim arising out of, or in connection with, the dispute shall be brought in the same proceeding.",
+    "ollama_generated": "13.1. This Agreement will be governed, understood, and construed in accordance with the laws of the State of Alabama, disregarding its conflict avoidance rules. Any controversy emerging from or associated with this JSMA, including but not limited to any matter concerning its validity, existence, or conclusion, which is not settled through the processes outlined in Section 13.3 below, will be subjected to the exclusive jurisdiction of the State Court for the State of Alabama, City of Mobile. If that court does not possess subject-matter jurisdiction or refuses jurisdiction, the matter shall be submitted to the United States District Court for the Southern District of Alabama in the City of Mobile. In such cases, any counterclaim stemming from, or related to, the initial dispute will also be heard within the same proceeding.\n\nThis revised clause maintains the original's flair while subtly shifting the jurisdiction priority from federal to state court (in the event both courts do not possess subject-matter jurisdiction or decline it), and clarifying that any counterclaims will be handled in the same proceeding as the initial dispute.",
+    "contradiction_score": 0.013482527807354927,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 34154,
+    "end_char": 34682,
+    "original": "13.2. Each Party submits to the jurisdiction of the United States District Court for the Southern District of Alabama. Each Party waives, to the fullest extent permitted by applicable law, any objection to venue in the United States District Court for the Southern District of Alabama or to or any claim of inconvenient forum of such court or of sovereign immunity. Each Party waives, to the fullest extent permitted by applicable law, any right it may have to a trial by jury in respect of any proceeding relating to this JSMA.",
+    "ollama_generated": "13.2. This Agreement shall be subject to the jurisdiction of the United States District Court for the Southern District of Alabama. Each Party reserves the right, within the constraints of applicable law, to challenge venue in the United States District Court for the Southern District of Alabama or contend that such court is an inconvenient forum. However, each party hereby waives, to the extent permitted by applicable law, any assertion of sovereign immunity in relation to this JSMA. Furthermore, each party consents, to the fullest extent allowed by law, to a trial by jury being waived in respect of any proceedings connected with this Agreement.",
+    "contradiction_score": 0.004062136169523001,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 35407,
+    "end_char": 36043,
+    "original": "13.3.2 Negotiation. Within five (5) days after delivery of any Dispute Notice the parties involved in the Dispute shall meet at a mutually agreeable time and place and thereafter as often as they deem reasonably necessary to exchange relevant information and attempt in good faith to negotiate a resolution of the Dispute. If the Dispute has not been resolved within ten (10) days after the first meeting of the parties, or, if the party receiving the Dispute Notice will not meet within ten (10) days after receipt of the Dispute Notice, then either party may, by delivering notice to the other party, commence arbitration proceedings.",
+    "ollama_generated": "13.3.2 Negotiation and Arbitration Provisions:\nUpon delivery of any Dispute Notice, each party shall have seven (7) days to propose a mutually convenient time and location for negotiations. If no response is received within this period or if the other party declines to negotiate, then either party may, at their discretion and without prior negotiation, initiate arbitration proceedings, with no further obligation to engage in pre-arbitration negotiations. In all cases where negotiations are pursued, each party shall exchange relevant information and will endeavor in good faith to resolve the Dispute. However, there is no time limit on these negotiations unless expressly agreed upon by both parties. If a resolution is not reached within ten (10) days following the first proposed meeting time, either party may commence arbitration proceedings.",
+    "contradiction_score": 0.09281552582979202,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 37984,
+    "end_char": 38201,
+    "original": "(c) The parties agree to act in good faith to comply with all of their respective obligations under this Agreement as much as possible as if there were no Dispute during any pending mediation or arbitration hereunder.",
+    "ollama_generated": "(c) During any pending mediation or arbitration under this Agreement, the parties shall make reasonable efforts to fulfill their respective obligations, but without being strictly bound to do so unless explicitly required by law or court order, and recognition that adherence to this Agreement may be adjusted in light of the ongoing dispute.",
+    "contradiction_score": 0.008990495465695858,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 38329,
+    "end_char": 39399,
+    "original": "(e) WAIVER OF JURY TRIAL . The parties agree to have any Dispute that is not resolved pursuant to the procedures established in Section 13.3(a) - (c) decided by neutral arbitration as provided in this Section 13.3(e)  and the parties are giving up any rights they might possess to have the Dispute litigated in a court or by a jury trial. The parties are giving up their judicial rights to discovery and appeal, unless such rights are specifically included in this Section 13.3(e) . The parties acknowledge and agree that their agreement to this arbitration provision is voluntary. FOR THE AVOIDANCE OF DOUBT AND IN FURTHERANCE OF THE FOREGOING, EACH PARTY HERETO HEREBY WAIVES AND COVENANTS THAT IT WILL NOT ASSERT (WHETHER AS PLAINTIFF, DEFENDANT OR OTHERWISE) ANY RIGHT TO TRIAL BY JURY IN ANY FORUM IN RESPECT OF ANY ISSUE OR ACTION, CLAIM, CAUSE OF ACTION OR SUIT (IN CONTRACT, TORT OR OTHERWISE), INQUIRY, PROCEEDING OR INVESTIGATION ARISING OUT OF OR BASED UPON THIS AGREEMENT OR THE SUBJECT MATTER HEREOF, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING .",
+    "modified": "(e) OPTION TO DEMAND JURY TRIAL . The parties acknowledge their right to request a jury trial for any Dispute that remains unresolved following the procedures outlined in Section 13.3(a)-(c), subject to this Section 13.3(e). However, by entering into this Agreement, the parties expressly waive and covenant not to assert, under any circumstances (as a plaintiff, defendant, or otherwise), their right to trial by jury in any forum concerning any matter arising out of or based upon this Agreement or its subject matter, unless specifically provided for in this Section 13.3(e). The parties explicitly retain the judicial rights to discovery and appeal, except where expressly excluded in this section. Each party hereto acknowledges that their choice to opt out of a jury trial is voluntary. FOR THE AVOIDANCE OF DOUBT AND IN FURTHERANCE OF THE FOREGOING, EACH PARTY HERETO SHALL HAVE THE OPTION (BUT NOT THE OBLIGATION) TO DEMAND TRIAL BY JURY, AT ITS SOLE DISCRETION, IN ANY FORUM IN RESPECT OF ANY ISSUE OR ACTION, CLAIM, CAUSE OF ACTION OR SUIT (IN CONTRACT, TORT OR OTHERWISE), INQUIRY, PROCEEDING OR INVESTIGATION ARISING OUT OF OR BASED UPON THIS AGREEMENT OR THE SUBJECT MATTER HEREOF, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING.\n\nThis revised clause now gives the parties the option to demand a jury trial for any disputes, rather than waiving their right to one as was previously stated. The parties retain their rights to discovery and appeal unless explicitly excluded in this section, unlike before where they were only expressly waiving these rights.",
+    "contradiction_score": 0.8231050968170166,
+    "kept": true
+  },
+  {
+    "clause_index": 100,
+    "start_char": 40735,
+    "end_char": 40969,
+    "original": "15.1. The invalidity, illegality or unenforceability of any one or more of the provisions of the JSMA, other than the FCPA provision, shall in no way affect or impair the validity and enforceability of the remaining provisions hereof.",
+    "ollama_generated": "15.1. Should it transpire that any one or more provisions within the JSMA, excluding the FCPA provision, are deemed invalid, illegal, or unenforceable, such invalids shall not serve to undermine or compromise the validity and enforceability of the remaining provisions herein. In such a case, the Parties acknowledge their intention to abide by the spirit and intent of the invalided provision as much as possible and practical, should it be legally permissible.",
+    "contradiction_score": 0.01173967681825161,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 41179,
+    "end_char": 41190,
+    "original": "17. Waiver.",
+    "modified": "17. Forbearance and Limitation of Remedies.\n\nIn the event that any party (the \"Forbearing Party\") does not promptly exercise or enforce any rights, powers, or remedies under this Agreement, including but not limited to any breach of the other party's obligations, it shall not be deemed a waiver of such rights, powers, or remedies. The Forbearing Party shall have the discretion to choose whether to exercise or enforce these rights at any time, and the failure to do so in one instance shall not preclude its right to do so in the future, nor shall it constitute a limitation on any subsequent action that may be taken against the defaulting party. This provision does not apply to any waiver of material terms or breaches which might cause significant harm to the non-forbearing party or materially affect the purpose or essential nature of this Agreement.",
+    "contradiction_score": 0.7374671101570129,
+    "kept": true
+  },
+  {
+    "clause_index": 105,
+    "start_char": 41465,
+    "end_char": 41493,
+    "original": "18. Anti-Bribery/Corruption.",
+    "ollama_generated": "18. Prevention of Unethical Payments and Practices.\n\nIn this agreement, the parties commit to abstain from making or receiving payments, gifts, favors, or other advantages that could reasonably be perceived as intended to influence the actions or decisions of any person in an improper manner. Any violations must be promptly reported to the designated compliance officer for investigation and resolution. In the event of a violation, the non-offending party shall have discretion to take appropriate action, including but not limited to termination of this agreement. This obligation applies equally to all levels of personnel within each organization. However, it is understood that the failure to meet this commitment will only result in corrective measures if such actions pose a material risk to the integrity or reputation of the other party.",
+    "contradiction_score": 0.008027814328670502,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 41493,
+    "end_char": 42606,
+    "original": "18.1. Each Party, and any agent or representative of any Party acting at such Party's direction, on such Party\u2018s behalf, or for such Party's benefit, in any way related to this Agreement (collectively, \"Concerned Persons\"), will be familiar with and comply with (i) the provisions of the United States Foreign Corrupt Practices Act (15 U.S.C.A. \u00a7\u00a7 78dcl-1 et seq. (1997 & Supp. 2004)), including any amendments which may be effected during the term hereof (ii) the Laws of the country of incor- poration of such Party or such Party\u2018s ultimate parent company or the principal place of business of such ultimate parent company\u037e or (m) the principles described in the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions signed in Paris in December 19, 1997, which entered into force on February 15, 1999 and the Conventions Commentaries Source: VERTEX ENERGY INC., 8-K, 1/13/2020 or the UK Bribery Act 2010. In particular, in carrying out any duties under this Agreement, no Concerned Person will make or offer to make the payment of money or anything else of value to:",
+    "ollama_generated": "18.1. While each Party acknowledges their general familiarity with and commitment to adhering to applicable anti-corruption laws, it is understood that compliance with specific regulations may evolve during the term of this Agreement. The \"Concerned Persons\" (defined as any individual or entity acting on behalf of a Party) are expected to make reasonable efforts to comply with:\n\n(i) The United States Foreign Corrupt Practices Act (15 U.S.C.A. \u00a7\u00a7 78dcl-1 et seq. (1997 & Supp. 2004)) and any amendments made during the term hereof.\n\n(ii) The laws of the country of incorporation or the principal place of business of such Party's ultimate parent company, if applicable.\n\n(iii) The principles described in the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions signed in Paris on December 19, 1997, which entered into force on February 15, 1999 and the Conventions Commentaries Source: VERTEX ENERGY INC., 8-K, 1/13/2020 or the UK Bribery Act 2010.\n\nIn the performance of their duties under this Agreement, Concerned Persons are expected to act in a manner consistent with these obligations, recognizing that they are not always able to ensure absolute compliance due to the complexities and evolving nature of anti-corruption laws. It is recognized that, despite best efforts, unintentional violations may occur, and such violations will be addressed according to each Party's internal policies and procedures.",
+    "contradiction_score": 0.03665280342102051,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 43159,
+    "end_char": 44588,
+    "original": "During the Term of this JSMA, provided that Bunker One, directly or indirectly, consummates the capital investment described in the Term Sheet, Vertex shall permit a representative of Bunker One, reasonably acceptable to a majority of Vertex\u2019s Board of Directors (it being understood that Carlos G. Torres, Sara Shipman Myers and Peter Zachariassen meet such criteria), to attend all meetings of the Board of Directors of Vertex and its committees (committees defied as Audit and Nominating Committee and any special committee formed to consider extraordinary transac- tions) in a non-voting observer capacity and, in this respect, shall give such representative of Bunker One copies of all notices, minutes, consents and other material that Vertex provides to its directors and committee members, provided, that Vertex reserves the right to withhold any in- formation and to exclude such representative from any meeting or portion thereof if Vertex de- termines, upon advice of counsel, such withholding or exclusion is necessary to preserve the at- torney-client privilege between Vertex and its counsel or would result in disclosure of trade se- crets. Bunker One agrees, and any representative of Bunker One will agree, to hold in confidence any confidential information provided to or learned by it in connection with its rights under this section. The confidentiality provisions hereof will survive termination of the Term.",
+    "ollama_generated": "Throughout the duration of this JSMA, upon completion of the capital investment as described in the Term Sheet by Bunker One, Vertex grants permission for a designate of Bunker One, who is deemed acceptable to a majority of Vertex's Board of Directors (with Carlos G. Torres, Sara Shipman Myers, and Peter Zachariassen among those meeting such criteria), to partake in all meetings of the Board of Directors of Vertex and its committees (committees including Audit and Nominating Committee and any special committee formed for extraordinary transactions) as a non-voting observer. In this capacity, Vertex will provide such representative of Bunker One with copies of all notices, minutes, consents, and other pertinent materials typically distributed to its directors and committee members. It is essential to note that Vertex retains the right to withhold information and exclude said representative from any meeting or portion thereof if it is determined, upon advice of counsel, that such withholding or exclusion is necessary to safeguard the attorney-client privilege between Vertex and its legal advisors or could lead to the disclosure of trade secrets. Bunker One undertakes, and any designated representative will adhere to, maintaining confidentiality regarding any confidential information obtained in relation to this section. The confidentiality provisions shall persist post-termination of the Term.\n\nHowever, it's worth noting that while this clause grants Bunker One's representative access to meetings and materials, they do not have the power to vote on matters discussed during these meetings or make decisions on behalf of Vertex or its Board of Directors. Furthermore, Vertex reserves the right to exclude said representative from any discussions that could potentially compromise attorney-client privilege or disclose trade secrets. Additionally, the confidentiality agreement does not apply to information already known by Bunker One or their representative without a breach of this contract.",
+    "contradiction_score": 0.022336922585964203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 44746,
+    "end_char": 44856,
+    "original": "IN WITNESS WHEREOF, THE PARTIES HERETO HAVE HEREBY EXECUTED THIS AGREEMENT AS OF THE DATE FIRST WRITTEN ABOVE.",
+    "ollama_generated": "FOR THE RECORD AND TO ESTABLISH LEGAL ACTUATION, THE PARTIES INVOLVED HAVE HEREBY SIGNED AND AGREED TO THIS CONTRACT ON THE DATE LISTED BELOW.\n\nThis modification slightly shifts the responsibility of establishing the date from both parties to only the one recording the document, and removes the formal tone of \"IN WITNESS WHEREOF\".",
+    "contradiction_score": 0.07253142446279526,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

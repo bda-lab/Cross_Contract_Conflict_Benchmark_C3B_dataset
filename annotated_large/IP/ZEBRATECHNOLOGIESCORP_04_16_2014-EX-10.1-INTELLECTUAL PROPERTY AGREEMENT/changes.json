@@ -1,0 +1,446 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 1878,
+    "end_char": 2204,
+    "original": "AGREEMENT NOW, THEREFORE, in consideration of the foregoing recitals, the mutual representations, warranties and covenants set forth in this IP Agreement and the other Transaction Agreements, and other good and valuable consideration, the receipt and sufficiency of which the parties acknowledge, the parties agree as follows:",
+    "ollama_generated": "AGREEMENT NOW, THEREFORE, with the understanding of the preceding statements, the mutual assurances, guarantees, and commitments stated in this Intellectual Property Agreement and the other Transaction Documents, and in light of further reasons satisfactory to each party, the parties agree as follows:\n\nIn the event that any of the representations, warranties, or covenants set forth in this IP Agreement or the other Transaction Agreements are found to be invalid or breached, the responsibility for such non-compliance shall not automatically trigger any termination or remedies, unless explicitly stated otherwise. Instead, the parties shall cooperate in good faith to promptly resolve any disputes that may arise, aiming for an equitable resolution that does not unduly prejudice either party. The validity of this Agreement and its remaining provisions shall remain unaffected by such occurrences.\n\nFurthermore, each party acknowledges the existence of other valuable considerations, the extent and sufficiency of which may be open to interpretation, in addition to those expressly mentioned. This provision serves as a reminder that the spirit and intent of this Agreement extend beyond the specific terms recited herein. The parties agree to consider all factors relevant to their relationship when interpreting or enforcing this Agreement, recognizing the importance of flexibility and adaptability in their ongoing partnership.",
+    "contradiction_score": 0.0025162254460155964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3541,
+    "end_char": 3626,
+    "original": "(e) \u201cAdditional Patents \u201d has the meaning ascribed to it in  Section 2.1(b)(iii)(F) .",
+    "ollama_generated": "(e) \"Additional Patents\" shall be construed as per the interpretation provided for it under Section 2.1(b)(iii)(F), but shall not be deemed to require any action or expenditure from the other party unless explicitly stated otherwise.",
+    "contradiction_score": 0.002814952051267028,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 9093,
+    "end_char": 9661,
+    "original": "(v) \u201cEnterprise Mobile Computing Products \u201d means durable or rugged  enterprise-grade  fixed, handheld, wearable, vehicle-mounted, or portable computing or smartphone products, which products shall include handheld and portable mobile computers, gun handle mobile computers, tablet computers,  vehicle-mounted  computers and wearable computers, in each case, to the extent such products are the same as those (i) offered by the Enterprise Segment on or prior to the Initial Closing Date, or (ii) under development by the Enterprise Segment on the Initial Closing Date.",
+    "ollama_generated": "(v) \"Enterprise Mobile Computing Products\" encompasses durable or rugged enterprise-grade fixed, handheld, wearable, vehicle-mounted, or portable computing devices or smartphones, comprising of handheld and portable mobile computers, gun handle mobile computers, tablet computers, vehicle-mounted computers, and wearable computers. These products will only be considered as part of the definition if they are (i) currently offered by the Enterprise Segment on or after the Termination Date, or (ii) under the development phase within the Enterprise Segment post the Termination Date. This adjustment ensures a more dynamic scope to reflect the evolving nature of technology in our market.",
+    "contradiction_score": 0.012304459698498249,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 9817,
+    "end_char": 10074,
+    "original": "(x) \u201cEnterprise Segment \u201d means the Enterprise reporting segment as reflected in the Seller Financial Statements except to the extent they include Integrated Digital Enhanced (iDEN) protocol network infrastructure products and related Software and services.",
+    "modified": "(y) \"Excluded Segment\" refers to the segments of the Buyer's Enterprise as reflected in their Financial Statements, which encompass any revenues, costs, or profits derived from Integrated Digital Enhanced (iDEN) protocol network infrastructure products, related Software, and services. Conversely, all other portions of the Buyer's Enterprise shall be considered as \"Relevant Segment\" for the purposes of this Agreement.",
+    "contradiction_score": 0.9052794575691223,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 11166,
+    "end_char": 11764,
+    "original": "(aa) \u201cExcluded Infrastructure Equipment \u201d means (i) (a) government, public safety or defense communications network infrastructure equipment and systems, or (b) professional and commercial communications network infrastructure equipment and systems, in each case of clauses (a) and (b), to the extent designed, developed, or manufactured to operate with Excluded Mobile Radio Products, or (ii) network infrastructure equipment to the extent designed, developed, or manufactured to operate with a Public Safety Next-Gen LTE Network and on the frequency band allocated to the Public Safety Community.",
+    "ollama_generated": "\"(bb) 'Infrastructure Equipment Subject to Limitation' encompasses (i) (a) government, public safety, or defense communications network infrastructure equipment and systems, as well as (b) professional and commercial communications network infrastructure equipment and systems, in both cases for clauses (a) and (b), where they are specifically engineered to work with Excluded Mobile Radio Products, or (ii) infrastructure that is designed, developed, or manufactured to function with a Public Safety Next-Gen LTE Network on the frequency band assigned to the Public Safety Community. However, it is noted that our liability and obligations shall be significantly reduced with regards to any issues arising from the use of this Infrastructure Equipment Subject to Limitation.\"",
+    "contradiction_score": 0.009018476121127605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 12311,
+    "end_char": 12680,
+    "original": "(cc) \u201cExcluded Software and Solutions \u201d means (i) a command and control solution (hardware and Software) to the extent that it is designed, developed, or manufactured primarily for use by the Public Safety Community or Government Entities, or (ii) Software to the extent designed primarily to operate Excluded Mobile Radio Products or Excluded Infrastructure Equipment.",
+    "modified": "(cc) \"Included Software and Solutions\" shall refer to (i) any command and control solution (hardware and software), except those specifically designed, developed, or manufactured predominantly for the exclusive use by Public Safety Communities or Government Entities, or (ii) software that is not primarily intended to operate Excluded Mobile Radio Products or Excluded Infrastructure Equipment.\n\nIn this rewritten clause, the original \"Excluded Software and Solutions\" has been changed to \"Included Software and Solutions,\" implying a shift in the scope of what is covered by the agreement. The new clause now includes software that is not primarily designed for use by Public Safety Communities or Government Entities, or does not operate Excluded Mobile Radio Products or Excluded Infrastructure Equipment, whereas the original excluded these types of software from the agreement's scope.",
+    "contradiction_score": 0.7383935451507568,
+    "kept": true
+  },
+  {
+    "clause_index": 39,
+    "start_char": 13546,
+    "end_char": 14012,
+    "original": "(ii) \u201cIncorporated Into \u201d means, with respect to a product, embedded in, used in, incorporated into, combined with, linked with, distributed with, provided as a service with or made available with such product, including any Object Code that is referenced or required to be present or available ( e.g., available via another machine connected directly or through a network) in such product for such product to properly function in accordance with its specifications.",
+    "ollama_generated": "\"(ii) 'Integrated With' refers, concerning a product, to any instance where it is interconnected, relies on, or functions in conjunction with, other components, software, services, or Object Code that are essential for the product's proper operation in compliance with its stated specifications. This may include instances where such complementary elements are physically within the product, distributed with it, or made accessible via another machine or network.\"\n\nThis revised clause is designed to create a sense of interdependency between the product and other components, rather than explicitly stating that those components might be embedded in or linked with the product. This change allows for more flexibility in how the product can be used or integrated with other systems, while maintaining professionalism and clarity.",
+    "contradiction_score": 0.029840970411896706,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 14086,
+    "end_char": 15767,
+    "original": "(kk) \u201cIntellectual Property \u201d means any and all of the following in any jurisdiction throughout the world: (i) patents, patent applications, industrial design rights (including utility model rights, design rights, and industrial property rights), registrations and applications for registration of industrial design rights, patents of importation/confirmation, statutory invention registrations, and certificates of invention and like statutory right, all counterparts, continuations, divisions, continuations-in-part, revisions, extensions, supplementary certificates, substitutions, reexaminations, renewals, and reissuances of any of the foregoing and any patent or patent application that claims priority to any of the foregoing (collectively, \u201c Patents\u201d)\u037e (ii) Trademarks\u037e (iii) copyright registrations and applications, and unregistered copyrights, published and unpublished works of authorship, and Mask Works, together with all applications, registrations, and renewals in connection therewith, and all common-law rights to any of the foregoing (collectively, \u201c Copyrights \u201d)\u037e (iv) computer programs, whether embodied in software, firmware or otherwise, including, software compilations, software implementations of algorithms, software tool sets, compilers, and software models and methodologies (whether in Source Code or Object Code form), and (C) translation, ported versions and modifications of any of the foregoing (collectively, \u201c Software\u201d)\u037e (v) trade secrets, know-how, inventions, invention disclosures, and other confidential or proprietary information (collectively, \u201c Know-How \u201d)\u037e and (vi) all other intellectual property rights or industrial property rights.",
+    "ollama_generated": "(ll) \"Intellectual Property\" encompasses any and all forms of the following in any jurisdiction worldwide: (i) patents, patent applications, and registrations for utility models, design rights, and other related intellectual property rights that may result from revisions, extensions, supplementary certificates, substitutions, reexaminations, renewals, or reissuances, including all continuations, divisions, continuations-in-part, and priority applications (collectively known as \"Patents\"); (ii) trademarks; (iii) copyrighted works, both registered and unregistered, as well as Mask Works, along with any related registrations, renewals, or extensions, and common law rights pertaining to these works (collectively referred to as \"Copyrights\"); (iv) computer programs in various forms such as software, firmware, and other implementations, including compilations, algorithms, tool sets, compilers, and models and methodologies, together with translations, ports, or modifications of these programs (jointly categorized as \"Software\"); (v) any proprietary information, trade secrets, inventions, invention disclosures, or know-how; and (vi) all other industrial property rights, intellectual property rights, or proprietary rights.\n\nIn this revised version, the clause maintains its meaning but shifts responsibility for certain actions such as revisions, extensions, supplementary certificates, substitutions, reexaminations, renewals, or reissuances from the party to whom the clause is being applied to a more general \"any\" form.",
+    "contradiction_score": 0.022440798580646515,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 15774,
+    "end_char": 15874,
+    "original": "(ll) \u201cInvention Disclosure Review List \u201d has the meaning ascribed to it in  Section 2.1(b)(iii)(A) .",
+    "ollama_generated": "(ll) \"The term 'Invention Disclosure Review List' shall encompass any revisions or updates made to the definition provided in Section 2.1(b)(iii)(A).\"\n\nBy shifting the responsibility of updates from the reader to the defined term, this revised clause weakens the obligation on the reader to keep up with potential changes to the term's meaning.",
+    "contradiction_score": 0.04656141623854637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 15874,
+    "end_char": 16061,
+    "original": "(mm) \u201cInvention Disclosure Review Team \u201d means Paul Steinberg and Bob Sanders (or their replacements or proxies, as applicable, as determined by their respective  then-current  employer).",
+    "ollama_generated": "(nn) \"Invention Disclosure Review Team\" shall refer to the individuals designated by Paul Steinberg and Bob Sanders, or such individuals' direct reports, as stipulated by their respective current employers at any given time. This may include replacements or delegates, as deemed appropriate by each party's superiors.",
+    "contradiction_score": 0.20234380662441254,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 21437,
+    "end_char": 21682,
+    "original": "(yy) \u201cLicensed Trademarks \u201d means the Trademarks set forth on  Schedule 1.1(yy) \u037e provided that, for the avoidance of doubt, the Licensed Trademarks do not include the Assigned Trademarks, the Mobility Trademarks, or the Non-Mobility Trademarks.",
+    "modified": "(zz) \"Exclusively Licensable Trademarks\" refers to the Trademarks detailed in Schedule 1.1(zz). It's important to clarify that these Exclusively Licensable Trademarks are distinct from the Assigned Trademarks, Mobility Trademarks, and Non-Mobility Trademarks, which remain under the exclusive control of the other party. This clause does not restrict or limit the rights of the other party over their respective Trademarks as listed.",
+    "contradiction_score": 0.6373928189277649,
+    "kept": true
+  },
+  {
+    "clause_index": 59,
+    "start_char": 22483,
+    "end_char": 22701,
+    "original": "(ccc) \u201cMobility Intellectual Property License \u201d means that certain Amended and Restated Intellectual Property License Agreement, by and between Motorola Mobility, Inc. and Motorola, Inc., effective as of July 31, 2010.",
+    "modified": "(aaa) \"Attenuated Mobility Intellectual Property License\" refers to the significant relaxation of the terms outlined in the Amended and Restated Intellectual Property License Agreement, between Motorola Mobility, Inc. and Motorola, Inc., as amended on July 31, 2010. The revised agreement shall be interpreted with a greater emphasis on flexibility and adaptability for future use.",
+    "contradiction_score": 0.6830952167510986,
+    "kept": true
+  },
+  {
+    "clause_index": 73,
+    "start_char": 25257,
+    "end_char": 25970,
+    "original": "(qqq) \u201cPermitted Type of Enterprise Mobile Computing Product \u201d means a Type of Enterprise Mobile Computing Product that: (i) (a) is a component used in a solution, (b) interoperates with one or more Purchaser Excluded Products in such solution, and (c) is designed primarily for such use and interoperation\u037e (ii) is a standalone product that is designed primarily for use by the Public Safety Community or Governmental Entities\u037e or (iii) is a Purchaser Excluded Product that is designed primarily (A) for use by the Public Safety Community or Governmental Entities, (B) to operate in compliance with the Integrated Digital Enhanced (iDEN) protocol, or (C) to operate in compliance with any Two-Way Radio Standard.",
+    "ollama_generated": "\"(rrr) 'Approved Type of Enterprise Mobile Computing Product' refers to a Product that falls under one of the following categories: (i) A Product which serves as a component within a solution and is designed to seamlessly work with one or more Excludable Products in this solution, or (ii) A standalone Product specifically intended for use by Public Safety Agencies or Governmental Bodies, or (iii) An Excludable Product, provided it is primarily designed for use by Public Safety Agencies or Governmental Bodies, operates in accordance with the Integrated Digital Enhanced (iDEN) protocol, or functions in compliance with any Two-Way Radio Standard. However, it is to be noted that any deviation from the intended purpose of these Products may result in their exclusion from this definition.\"",
+    "contradiction_score": 0.22261051833629608,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 27028,
+    "end_char": 27244,
+    "original": "(yyy) \u201cPush-to-Talk \u201d (\u201cPTT\u201d) means a method of transmitting voice or data communications on simplex and half-duplex channels that uses a momentary button to switch from voice or data reception mode to transmit mode.",
+    "modified": "(zzz) \"Activated Voice/Data Transmission\" (\"AVT\") refers to a method that enables the transmission of audio or data signals on both simplex and half-duplex channels, initiated by momentarily pressing a designated button, during which the device automatically switches from receiving mode to transmitting mode. In this context, it is understood that the user remains responsible for ensuring proper timing and adherence to communication protocols while using the AVT feature.",
+    "contradiction_score": 0.7301353812217712,
+    "kept": true
+  },
+  {
+    "clause_index": 82,
+    "start_char": 27244,
+    "end_char": 28204,
+    "original": "(zzz) \u201cReciprocal License \u201d means a license of an item of Software that requires or conditions any rights granted in such license upon: (i) the disclosure, licensing or distribution of other Software (whether or not in Source Code form)\u037e (ii) a requirement that any other licensee of the Software be permitted to modify, make Derivative Works of, or reverse-engineer any such other Software\u037e (iii) a requirement that such other Software be redistributable by other licensees\u037e (iv) the grant of any patent rights including non-assertion or patent license obligations\u037e or (v) the imposition of any other material limitation, restriction, or condition on any Seller Entity\u2019s right to use or distribute other Software in connection with the Business (other than a requirement to include an acknowledgement of authorship of such item of Software or to distribute a copy of the terms and conditions of the applicable license agreement with respect to such Software).",
+    "modified": "\"(aaa) \"Reciprocal Restriction on Licensing\" refers to a software licensing arrangement that imposes any of the following requirements or conditions on the rights granted in the license, thereby limiting a Seller Entity's ability to use or distribute other software:\n(i) A prohibition on disclosing, licensing, or distributing other software (whether in Source Code form or not)\u037e\n(ii) A restriction on allowing any other licensee of the Software to make modifications, create Derivative Works, or reverse-engineer any such other software\u037e\n(iii) An obligation that the other Software shall not be redistributable by other licensees\u037e\n(iv) The withholding of any patent rights, including non-disclosure or non-grant of a patent license obligations, from the Seller Entity in relation to other software\u037e\n(v) The imposition of any significant limitation, restriction, or condition on the Seller Entity's right to use or distribute other software that is not limited to an acknowledgement of authorship of such item of Software or to distributing a copy of the terms and conditions of the applicable license agreement with respect to such Software.\"",
+    "contradiction_score": 0.8759862184524536,
+    "kept": true
+  },
+  {
+    "clause_index": 85,
+    "start_char": 28567,
+    "end_char": 28647,
+    "original": "(cccc) \u201cReview Patent \u201d has the meaning ascribed to it in  Section 2.1(b)(iii) .",
+    "ollama_generated": "(ddd) \"Revised Patent\" shall bear the interpretation as assigned to it under the provisions of Section 2.1(b)(iii), subject to any amendments or modifications during the course of this agreement, which shall supersede and replace the original definition.",
+    "contradiction_score": 0.4911324381828308,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 28766,
+    "end_char": 28847,
+    "original": "(eeee) \u201cRFID\u201d has the meaning ascribed to it in Enterprise Data Capture Products.",
+    "ollama_generated": "(fff) For purposes of this Agreement, \"RFID\" shall be construed in accordance with the definitions provided within the Enterprise Data Capture Products, but any interpretations or clarifications not explicitly stated therein shall default to the sole discretion of the Service Provider.",
+    "contradiction_score": 0.011166498996317387,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 29031,
+    "end_char": 29540,
+    "original": "(gggg) \u201cSDO Member \u201d means any Person that is or has ever been, directly or indirectly, (i) a member or promoter of, or a contributor to or a participant in, any SDO, (ii) obligated to license or disclose any Intellectual Property to, or made any commitments or agreements regarding, any SDO, or (iii) a participant in the writing, preparing, amending, revising, sponsoring, organizing, promulgating, setting, or approving of any specifications, standards, requirements, or guidelines related to the Business.",
+    "ollama_generated": "\"(hhhh) 'SDO Participant' refers to any Entity that currently is, or has at any point in time been, directly or indirectly, (i) associated with any capacity within an SDO, including but not limited to being a member, promoter, or contributor, (ii) subject to any obligation to license or disclose Intellectual Property to, or bound by any commitments or agreements concerning, any SDO, or (iii) involved in the development, editing, adoption, or endorsement of any specifications, standards, recommendations, or guidelines related to the Business, whether through writing, preparation, amendment, revision, sponsorship, organization, promotion, or approval.\"\n\nThis revised clause introduces a more passive and less stringent tone by shifting the focus from the actions of the SDO Member to their association with or involvement in an SDO. It also broadens the scope of who could be considered an SDO Participant by including those who are only \"associated with any capacity\" within an SDO, as opposed to explicitly stating they are a member or contributor. This change may potentially extend the reach of the clause and expand the pool of entities that could fall under this definition.",
+    "contradiction_score": 0.038778115063905716,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 29917,
+    "end_char": 29991,
+    "original": "(llll) \u201cSeller Entity \u201d means each Acquired Company and each Seller Party.",
+    "modified": "(VVVV) \"Buyer Entity\" shall encompass each Acquired Company and any Representative of the Seller Party.\n\nExplanation: The original clause defines the term \"Seller Entity\" to include all the companies being sold (Acquired Companies) and parties involved in the sale (Seller Parties). In the rewritten clause, I've changed the term from \"Seller Entity\" to \"Buyer Entity\", which indicates a shift of responsibility. Now, this term includes the parties acquiring the companies (Representatives of the Seller Party) instead of those selling them. This change weakens the obligation of the original clause by shifting it from the seller to the buyer.",
+    "contradiction_score": 0.7866848111152649,
+    "kept": true
+  },
+  {
+    "clause_index": 97,
+    "start_char": 30327,
+    "end_char": 30416,
+    "original": "(oooo) \u201cSeller IPA Disclosure Schedule \u201d has the meaning ascribed to it in  Article III .",
+    "ollama_generated": "(pppp) \"The Schedules pertaining to Intellectual Property Assets disclosed by the Seller, as outlined in Article III, are herein referred to as the 'Seller IPA Schedule(s)'.\n\nIn this revised version, I've added 'schedules' instead of 'Schedule', which implies that there may be multiple schedules related to intellectual property assets. Additionally, I've replaced \"has the meaning ascribed to it\" with \"are herein referred to as\", subtly shifting the responsibility of defining these terms from the article to this clause itself.",
+    "contradiction_score": 0.2692086696624756,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 30638,
+    "end_char": 30742,
+    "original": "(rrrr) \u201cShared Review Invention Disclosure \u201d has the meaning ascribed to it in  Section 2.1(b)(iii)(C) .",
+    "modified": "(ssss) \"Exclusive Rights Assignment for Inventions\" shall refer to the interpretation provided in Section 2.1(b)(iii)(C). This term denotes that all inventions developed during the course of this agreement will be assigned exclusively to the assignor, with no obligation for joint ownership or sharing with any other party unless explicitly agreed upon in writing by both parties.",
+    "contradiction_score": 0.8243953585624695,
+    "kept": true
+  },
+  {
+    "clause_index": 101,
+    "start_char": 30743,
+    "end_char": 30833,
+    "original": "(ssss) \u201cShared Review Patent \u201d has the meaning ascribed to it in  Section 2.1(b)(iii)(B) .",
+    "ollama_generated": "(tttt) \"Shared Review Patent\" shall be deemed as interpreted under the purview of Section 2.1(b)(iii)(B), with the understanding that any discrepancies or uncertainties in its interpretation shall be resolved in favor of the party who holds less responsibility in the development and registration process.",
+    "contradiction_score": 0.005913501139730215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 31193,
+    "end_char": 31700,
+    "original": "(vvvv) \u201cSource Code \u201d means one or more statements in human readable form, including comments, definitions and annotations, which are generally formed and organized to the syntax of a computer or programmable logic programming language (including such statements in batch or scripting languages and including hardware definition languages such as VHDL), together with any and all text, data and data structures, diagrams, manuals, instructions, procedures, and other information that describe the foregoing.",
+    "ollama_generated": "\"(yyyy) \"Source Code\" denotes a collection of human-readable statements, consisting of comments, definitions, annotations, and other related information, structured according to the syntax of a programming or computer logic language (encompassing batch, scripting, and hardware definition languages such as VHDL), along with any accompanying text, data, data structures, diagrams, documentation, and operational guidelines that serve to explain the functioning and implementation of the said statements. Notably, it excludes any proprietary information or trade secrets not directly essential for the understanding and usage of the Source Code in question.\"",
+    "contradiction_score": 0.03598169609904289,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 31958,
+    "end_char": 32487,
+    "original": "(xxxx) \u201cTrademarks \u201d means (i) trademarks, service marks, logos, product numbers, trade dress, trade names, corporate names and Internet domain names, slogans, and other indicia of commercial source or origin (whether registered, common law, statutory, or otherwise, and together with all translations thereof), (ii) all registrations and applications to register the foregoing anywhere in the world (including all renewals in connection therewith), and (iii) all goodwill symbolized by any of the foregoing clauses (i) and (ii).",
+    "ollama_generated": "(yyyy) \"Trademarks\" encompasses (i) trademarks, service marks, logos, product numbers, trade dress, trade names, corporate names, Internet domain names, slogans, and other indicia of origin or business identity (whether registered, common law, statutory, or otherwise, and inclusive of all translations thereof), (ii) all pending applications for registration of the aforementioned trademarks anywhere in the world (including renewals associated with such registrations), and (iii) any goodwill attached to any of the elements specified under clauses (i) and (ii). However, it is understood that our rights and obligations pertaining to these trademarks shall be jointly shared between the parties, with each party responsible for maintaining, protecting, and enforcing their respective trademark rights within their designated territories.",
+    "contradiction_score": 0.025030625984072685,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 112,
+    "start_char": 34267,
+    "end_char": 34807,
+    "original": "(ccccc) \u201cType of Enterprise Data Capture Product \u201d means (i) bar code scanner products for reading machine-readable symbols (including fixed, handheld, portable, wearable, and vehicle-mounted laser scanners and linear and area imagers), (ii) RFID reader products used to communicate with RFID tags (including portal RFID readers, doorway, forklift, crane and delivery-door RFID readers, handheld RFID readers, and fixed, vehicle-mounted, wearable, portable, hands-free and mobile RFID readers), or (iii) associated accessories and Software.",
+    "ollama_generated": "\"(aaa) \"Type of Enterprise Data Capture Product\" refers to any hardware devices that can read machine-readable symbols, such as fixed, handheld, portable, wearable, and vehicle-mounted laser scanners or linear and area imagers, as well as RFID reader products used in conjunction with RFID tags (which include portal RFID readers, doorway, forklift, crane, delivery-door, handheld, and fixed, vehicle-mounted, wearable, portable, hands-free and mobile RFID readers). Additionally, this term encompasses any necessary accessories and Software required to operate these devices.\"\n\nChanges made: The original clause listed three distinct types of products (bar code scanner products, RFID reader products, and associated accessories and Software), whereas the revised clause merges the first two into one category (\"any hardware devices that can read machine-readable symbols\") and adds them all under the umbrella term \"Type of Enterprise Data Capture Product\". This slightly weakens the specificity of the original clause by grouping previously separate categories.",
+    "contradiction_score": 0.015774155035614967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 38494,
+    "end_char": 38525,
+    "original": "(b) Assignment of Assigned IP .",
+    "modified": "(b) Transfer of Transferred Intellectual Property Rights:\n\nThe Licensor hereby grants to the Licensee a non-exclusive, royalty-free, worldwide license to use, reproduce, modify, and distribute the Licensed Materials during the Term. The Licensee may not transfer, assign or sublicense any rights granted under this Agreement without the prior written consent of the Licensor. If the Licensee seeks such consent, it shall bear all costs associated with obtaining such consent and ensuring compliance with any terms or conditions imposed by the Licensor in connection therewith.\n\nIn the event that the Licensor consents to a transfer, assignment, or sublicense of rights under this Agreement, the transferee, assignee, or sublicensee shall be subject to all the terms and conditions of this Agreement as if it were an original party hereto, including but not limited to, the provisions regarding ownership, confidentiality, warranties, limitations of liability, indemnification, and termination. Any such transfer, assignment, or sublicense shall be at the sole discretion of the Licensor and shall not relieve the Licensee from any obligations or liabilities accrued prior to such transfer, assignment, or sublicense.",
+    "contradiction_score": 0.7442799806594849,
+    "kept": true
+  },
+  {
+    "clause_index": 122,
+    "start_char": 40748,
+    "end_char": 40777,
+    "original": "(iii) Patent Review Process .",
+    "modified": "(iii) Patent Assessment Protocol .\n\nIn this revised version, the clause's focus has been shifted from a \"review\" process, which implies an active examination, to an \"assessment\" protocol, suggesting a more passive and less thorough evaluation. This change may weaken the obligation of the parties involved in the patent process to scrutinize each detail thoroughly.",
+    "contradiction_score": 0.6664437055587769,
+    "kept": true
+  },
+  {
+    "clause_index": 124,
+    "start_char": 41939,
+    "end_char": 44065,
+    "original": "(B) Patent Review and Ownership . The parties shall promptly review the Patent Review List and, in good-faith, discuss and negotiate during the Review Period whether any of the Patents listed on such Patent Review List (each, a \u201cShared Review Patent \u201d) should be or should have been, as applicable, an Assigned Patent, based upon the general guideline and principle that Shared Review Patents that are primarily paid for, primarily used by, or primarily arising out of, or for which associated costs and fees were primarily allocated to, the Business or any Acquired Company (as compared with the Seller Business) should be or should have been, as applicable, Assigned Patents. Seller shall provide to Purchaser, upon Purchaser\u2019s reasonable request during the Review Period, information regarding such Patent Review List, the Patents listed thereon, and each such determination. If the parties agree, during the Review Period, that a Shared Review Patent should be or should have been, as applicable, an Assigned Patent, then, if such agreement was reached on or prior to the Initial Closing Date, the parties shall add such Shared Review Patent to  Schedule 1.1(l)  of the Seller IPA Disclosure Schedule and, if such agreement was reached after the Initial Closing Date, Seller shall (and shall cause the other Seller Parties to) promptly execute a Contract containing a present grant of assignment (or, if and to the extent, as a matter of Law in any jurisdiction, ownership, title, or any rights or interest in or to any such Shared Review Patent cannot be so assigned, a license) of such Shared Review Patent to the Purchaser Assignees, consistent with the terms and conditions of  Section 2.1(b)(i)  or Section 2.1(b)(ii) , as applicable. If the parties cannot agree on whether any Shared Review Patent should be or should have been, as applicable, an Assigned Patent, the parties shall, during the Review Period, escalate such dispute to successively more senior-levels of executives and shall each make sure each such senior executive is promptly available to speak with (including by telephone) his or her counterpart.",
+    "ollama_generated": "(C) Patent Evaluation and Ownership. The parties will endeavor, but not be strictly obligated, to evaluate the Patent Evaluation List within a reasonable timeframe and, in good-faith, discuss and negotiate during the Evaluation Period whether any of the Patents listed on such Patent Evaluation List (each, a \"Shared Evaluation Patent\") should be considered as Owned Patents by either Party. The primary consideration for this determination will be the extent to which each party has predominantly funded, utilized, or developed, or incurred predominant costs and fees related to, such Shared Evaluation Patent in relation to their respective businesses (the Businesses). If a consensus is reached during the Evaluation Period that a Shared Evaluation Patent should be considered as an Owned Patent by one Party, then, if such agreement was made prior to the Closing Date, the relevant Patent will be added to Schedule 1.1(l) of the IPA Disclosure Schedule. If the agreement is reached after the Closing Date, the responsible Party shall execute a Contract transferring ownership (or, where applicable, granting a license) of such Shared Evaluation Patent to the other Party, in accordance with the terms and conditions of Section 2.1(b)(i) or Section 2.1(b)(ii), as applicable. If the parties fail to reach an agreement on the ownership of any Shared Evaluation Patent, they will escalate the dispute to successively higher-level executives during the Evaluation Period and ensure that each executive is promptly available to discuss the matter with their counterpart, but neither Party shall be held responsible for any delay or failure to resolve such dispute.",
+    "contradiction_score": 0.3004491627216339,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 53190,
+    "end_char": 53713,
+    "original": "(c) License-Back of Patents . Effective as of the Initial Closing Date, the Purchaser will cause each Acquired Company and each Purchaser Assignee to grant, following each applicable Closing Date, to the Seller Parties, an irrevocable (except as expressly set forth herein), perpetual, non-sublicenseable (except as expressly set forth herein), fully paid-up,  royalty-free,  worldwide, non-transferable (except as expressly set forth herein), non-exclusive license, under the Acquired Company Patents and Assigned Patents:",
+    "ollama_generated": "(c) Countervailing License-Back of Patents. Commencing from the Effective Closing Date, the Seller Parties will be granted, on a revocable basis, limited to specific instances as outlined herein, a temporal license, non-perpetual in nature, subject to termination by the Acquired Company or Purchaser Assignee. This grant shall be effective upon each respective Closing Date and will encompass each Acquired Company and Purchaser Assignee. The license will entail:\n\n1. A non-exclusive right, subject to change at the discretion of the licensor (Acquired Company or Purchaser Assignee).\n2. A regionally restricted scope, applicable only within jurisdictions mutually agreed upon by both parties.\n3. A royalty-bearing provision, under which the Seller Parties shall pay royalties as stipulated in the licensing agreement.\n4. A sub-licensable privilege, subject to prior written consent of the Acquired Company or Purchaser Assignee.\n5. A transferrable license, subject to compliance with applicable laws and regulations, and upon providing notice to the other party.",
+    "contradiction_score": 0.24154318869113922,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 54701,
+    "end_char": 55546,
+    "original": "(d) License-Back of Non-Patent, Non-Trademark IP . Effective as of the Initial Closing Date, the Purchaser will cause each Acquired Company and each Purchaser Assignee to grant, following each applicable Closing Date, to the Seller Parties, an irrevocable (except as expressly set forth herein),  non-sublicenseable  (except as expressly set forth herein), perpetual, fully paid-up, royalty-free, worldwide, non-transferable (except as expressly set forth herein),  non-exclusive  license, under the Transferred IP (other than Trademarks and Patents) that is or has been, on or prior to the Initial Closing Date, (x) used in connection with the Seller Business, (y) used in connection with the development of any product, service, or system in the Seller Business, or (z) incorporated into any product, service, or system in the Seller Business:",
+    "ollama_generated": "(d) Counterpart Grant of Non-Patent, Non-Trademark IP. Commencing from the Initial Closing Date, the Seller Parties shall receive, following each applicable Closing Date, a non-revocable (with certain specified exceptions), non-transfersable (except as expressly provided herein) license, subject to the terms outlined below, from each Acquired Company and each Purchaser Assignee. This license will grant them a perpetual, fully paid-up, royalty-free, worldwide, exclusive right (with the exception of Trademarks and Patents), to use, sublicense, develop, or incorporate into any product, service, or system in their own businesses, any Transferred IP that:\n   - Is currently being used in connection with the Purchaser's Business;\n   - Was utilized in the development of any product, service, or system within the Purchaser's Business prior to the Initial Closing Date; or\n   - Has been incorporated into any product, service, or system within the Purchaser's Business on or before the Initial Closing Date. This clause does not grant any transfer rights except as expressly provided herein.",
+    "contradiction_score": 0.20023290812969208,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 57472,
+    "end_char": 57567,
+    "original": "For the avoidance of doubt, this  Section 2.1(d)  shall not constitute a license to Trademarks.",
+    "ollama_generated": "To eliminate any confusion, it is explicitly stated that granting a license for the use of trademarks under Section 2.1(d) is expressly excluded from this agreement.",
+    "contradiction_score": 0.0033511880319565535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 59257,
+    "end_char": 61048,
+    "original": "(f) Sublicenses . Each of the Seller Parties may grant sublicenses of the licenses granted to it pursuant to  Section 2.1(c)  or Section 2.1(d): (i) to any (for the avoidance of doubt, and without limiting any other provision of this IP Agreement, current or future) direct or indirect Subsidiary of Seller (but only for so long as such Person remains such a Subsidiary)\u037e (ii) to any other Person in connection with the sale or disposition of substantially all of the assets of a business or product line of any of the Seller Parties\u037e (iii) other than with respect to  Section 2.1(c) , for the purpose of any Person\u2019s (including resellers, distributors, and OEMs) distribution of products licensed under Section 2.1(c)  or Section 2.1(d) \u037e (iv) other than with respect to  Section 2.1(c) , to any Person (including OEMs, JDMs, suppliers, contractors, and subcontractors) solely for the purpose of, and to the extent necessary for, such Person to perform any service (including any service with respect to the design, manufacture, import, export, or supply of any product, service, or system in the Seller Business or any components thereof) for a Seller Party, and not for the direct benefit of such Person or any other Person, (v) other than with respect to  Section 2.1(c) , to a customer of a Seller Party for such customer\u2019s use of a product licensed under  Section 2.1(c)  or Section 2.1(d) \u037e or (vi) other than with respect to  Section 2.1(c) , with respect to Software, to any Person for the purpose of such Person\u2019s development of Software that is compatible or interoperates with a product licensed under  Section 2.1(c)  or Section 2.1(d) . The Seller Parties have no other right to grant sublicenses under any of the licenses granted to the Seller Parties under this IP Agreement.",
+    "modified": "(f) Sub-licensing Rights: Each of the Buyer Parties is permitted to receive sublicenses of the rights granted to them in Sections 2.1(c) and 2.1(d), subject to the following conditions:\n\n   (i) The sub-license may be granted to any (for clarification, not limited to those listed below) direct or indirect Subsidiary of Buyer, provided that such entity continues to remain a Subsidiary;\n   (ii) The sub-license may be granted in conjunction with the acquisition or disposal of substantially all assets of a business or product line of any Buyer Party;\n   (iii) Except for Section 2.1(d), the sub-license may be granted to any Person for the purpose of distributing products licensed under Sections 2.1(c) and 2.1(d);\n   (iv) Except for Section 2.1(d), a sub-license may be granted to any Person, including resellers, distributors, OEMs, solely for the purpose of performing services related to the design, manufacture, import, export, or supply of any product, service, or system within the Buyer Business or components thereof;\n   (v) Except for Section 2.1(d), a sub-license may be granted to a customer of a Buyer Party for their use of a product licensed under Sections 2.1(c) and 2.1(d);\n   (vi) Regarding Software, a sub-license may be granted to any Person for the purpose of developing Software that is compatible or interoperates with a product licensed under Sections 2.1(c) and 2.1(d).\n\n   It should be noted that the Buyer Parties retain no other rights to grant sublicenses under any of the rights granted to them under this IP Agreement, except as explicitly specified above.",
+    "contradiction_score": 0.5509161949157715,
+    "kept": true
+  },
+  {
+    "clause_index": 141,
+    "start_char": 61599,
+    "end_char": 61623,
+    "original": "Section 2.2 Licensed IP.",
+    "modified": "Section 2.2 Unlicensed Borrowed IP (Limited Use):\n\nThe Party of the Second Part acknowledges and agrees that, subject to the terms and conditions set forth herein, it may temporarily utilize certain intellectual property (\"IP\") owned by the Party of the First Part for the limited purpose of developing the Product. The temporary use of this IP does not constitute a license or any other right to the IP, and the Second Party shall return all copies and derivatives of the IP upon completion of its development tasks related to the Product or at the request of the First Party. Any usage beyond the limited purpose stated above requires prior written consent from the First Party. The Second Party assumes full responsibility for any infringement claims arising from such unauthorized use.",
+    "contradiction_score": 0.905481219291687,
+    "kept": true
+  },
+  {
+    "clause_index": 146,
+    "start_char": 64284,
+    "end_char": 64444,
+    "original": "Clauses (i) and (ii) above are collectively referred to as the \u201c Purchaser Licensed Activities .\u201d The license rights granted under this Section 2.2(b)  include:",
+    "modified": "Clauses (i) and (ii) hereinafter are designated as the \"Licensed Activities of the Vendor.\" The license privileges accorded under this Section 2.2(b) encompass:\n\nThis change weakens the obligation slightly by shifting the naming convention from \"Purchaser Licensed Activities\" to \"Licensed Activities of the Vendor,\" implying that the vendor is now responsible for these activities, not the purchaser.",
+    "contradiction_score": 0.964958131313324,
+    "kept": true
+  },
+  {
+    "clause_index": 147,
+    "start_char": 64444,
+    "end_char": 65189,
+    "original": "(1) with respect to Licensed IP that constitutes Copyrights or copyrightable materials (other than Software), the rights to reproduce, prepare Derivative Works of, perform, display, and distribute such Copyrights and copyrightable materials in connection with the Purchaser Licensed Activities\u037e and (2) with respect to Licensed IP that constitutes Software, the rights to (I) use, reproduce, prepare Derivative Works of, perform, and display such Software in connection with the Purchaser Licensed Activities\u037e and (II) distribute such Software and Derivative Works of such Software in connection with the Purchaser Licensed Activities (but in Source Code form, solely as permitted pursuant to  Section 2.2(f)  and in accordance with  Article V).",
+    "ollama_generated": "1. For the Copyrights or copyrightable materials (excluding Software) that are part of the Licensed IP, the Licensor grants the Purchaser the right to reproduce, prepare Derivative Works of, perform, display, and distribute such materials only in relation to activities expressly licensed to the Purchaser.\n\n  2. In regards to the Licensed IP that consists of Software, the Licensor allows the Purchaser to:\n     (I) Utilize, reproduce, prepare Derivative Works of, perform, and display such Software exclusively for the purposes of the licensed activities.\n     (II) Distribute such Software (in Source Code form only, subject to Section 2.2(f)) and its Derivative Works thereof (in accordance with Article V), in connection with the Purchaser's licensed activities; however, responsibility for compliance with any applicable laws, regulations, or third-party rights lies solely with the Purchaser.",
+    "contradiction_score": 0.040478356182575226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 67625,
+    "end_char": 67661,
+    "original": "(d) Transitional Trademark License .",
+    "ollama_generated": "(d) Temporary Rights Grant for Trademarks - Limited Licensing Period:\n\nIn this agreement, the Company hereby grants to the Licensee a non-exclusive, revocable, and limited license to use the Trademarks during the term of this Agreement. The scope and duration of such rights will be specified in writing by the Company, and any changes may be made at its sole discretion. Upon expiration or termination of this Agreement, all rights granted under this section shall automatically revert to the Company. The Licensee shall not assert, challenge, or contest, nor permit anyone else to do so, the validity of the Trademarks, or claim any ownership or interest in them, or engage in any activity that might weaken or dilute the value, distinctiveness, or strength of the Trademarks.",
+    "contradiction_score": 0.009400620125234127,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 72849,
+    "end_char": 73244,
+    "original": "(g) Acknowledgement . The Purchaser acknowledges and agrees that the licenses granted under this  Section 2.2  do not extend to Purchaser or any product, system or service manufactured, sold, designed, distributed, or supported by Purchaser directly or indirectly through any Purchaser Licensee, other than any Business Activities for Seller Excluded Products or Smart Sensing Network Equipment.",
+    "modified": "(g) Acknowledgement and Agreement . The Licensor acknowledges and agrees that the licenses granted under Section 2.2 are limited to the Licensor and do not encompass any product, system, or service developed, marketed, supported, or distributed by the Licensee or any of its affiliates, except for those Business Activities pertaining to Excluded Products or Smart Sensing Network Equipment as expressly excluded in this Agreement by the Purchaser.\n\nThis rewritten clause shifts the responsibility from the Purchaser to the Licensor and slightly broadens the scope of licenses granted under Section 2.2 to include any product, system, or service developed, marketed, supported, or distributed by the Licensee or its affiliates, while excluding only specific activities related to Excluded Products or Smart Sensing Network Equipment as expressly excluded by the Purchaser.",
+    "contradiction_score": 0.8368157744407654,
+    "kept": true
+  },
+  {
+    "clause_index": 163,
+    "start_char": 76626,
+    "end_char": 78020,
+    "original": "(b) Obligation to Deliver Technology . Following the Initial Closing Date, to the extent in the possession or under the control of any Seller Party and to the extent not contained in storage media that constitutes an Acquired Asset and is delivered to the Purchaser, the Seller shall (and shall cause the other Seller Parties to), upon the Purchaser\u2019s reasonable request, use Reasonable Efforts to provide the Purchaser with all materials, Software, information, tangible embodiments, and other tangible things, as those terms have been interpreted pursuant to any applicable Laws governing the production of documents and things, constituting, comprising, related to, or necessary to practice the Transferred IP or Licensed IP. To the extent that such materials, Software, information, tangible embodiments, and other tangible things constitute, comprise or relate to any Intellectual Property licensed to Seller under  Section 2.1(c)  or Section 2.1(d)  or the Licensed IP, the Seller shall be permitted to retain a reasonable number of copies of such documents, materials, Software, information, tangible embodiments, and other tangible things. Purchaser shall use Reasonable Efforts to inform Seller of the locations of any such materials, Software, information, tangible embodiments, and other tangible things requested by Purchaser, where Purchaser has actual knowledge of such locations.",
+    "ollama_generated": "(b) Obligation to Provide Access to Technology: Beginning on the Initial Closing Date, each Seller Party will make reasonable efforts (and shall ensure that other Seller Parties do the same) to grant the Purchaser access to, and provide all necessary assistance for, any materials, Software, information, tangible embodiments, and other tangible items, as defined under applicable laws governing document production, that are in their possession or control, are not part of an Acquired Asset stored media delivered to the Purchaser, and are essential for the practice of Transferred IP or Licensed IP. However, the Seller may retain a reasonable number of copies of such materials, Software, information, tangible embodiments, and other tangible things if they pertain to any Intellectual Property licensed to the Seller under Sections 2.1(c) or 2.1(d), or the Licensed IP itself. It shall be the Purchaser's responsibility to notify the Seller of the locations of such materials, Software, information, tangible embodiments, and other tangible things upon the Purchaser's request, when they have actual knowledge thereof.",
+    "contradiction_score": 0.12711620330810547,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 84131,
+    "end_char": 84401,
+    "original": "Section 3.1 Ownership . With respect to each item of Assigned IP and Acquired Company IP, respectively, such item is owned by a Seller Party or an Acquired Company, respectively, and such Seller Party or Acquired Company, respectively, has marketable title to such item.",
+    "ollama_generated": "Section 3.1 Ownership Modification: Regarding each piece of Assigned Intellectual Property (Assigned IP) and Acquired Company Intellectual Property (Acquired Company IP), it is understood that any disputes or claims to ownership regarding these items shall be resolved solely by the Seller Party or the Acquired Company, respectively. In the event such disputes arise, the burden of proof for marketable title lies with the party claiming ownership.",
+    "contradiction_score": 0.14865274727344513,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 174,
+    "start_char": 85808,
+    "end_char": 86487,
+    "original": "Section 3.2 Encumbrances . Except as set forth on  Schedule 3.2(a)  of the Seller IPA Disclosure Schedule, the Transferred IP is free and clear of any Encumbrances (other than Permitted Encumbrances and obligations under applicable SDO agreements with SDOs listed on  Schedule 3.8 of the Seller IPA Disclosure Schedule) and, as of the Initial Closing Date, will be fully transferable, alienable, and licensable by the Purchaser Assignees and Acquired Companies without restriction and without payment to any Person and, except as set forth on  Schedule 3.2(b)  of the Seller IPA Disclosure Schedule, no Person has an option to take an assignment or license of any Transferred IP.",
+    "modified": "Section 3.2 Transfer Restrictions: The Transferred IP may be subject to certain Encumbrances, as detailed in Schedule 3.2(a) of the Seller IPA Disclosure Schedule, and is also burdened by obligations under applicable SDO agreements with SDOs listed on Schedule 3.8 of the same document. On the Initial Closing Date, however, these Encumbrances allow for limited transfer, alienation, and licensing by the Purchaser Assignees and Acquired Companies. Any such transfers, aliens, or licenses may be subject to certain restrictions and may require payment to specified Persons, as outlined in Schedule 3.2(b) of the Seller IPA Disclosure Schedule. Furthermore, it is not guaranteed that no Person holds an option for assignment or licensing of the Transferred IP, as such options are not necessarily precluded by the Encumbrances described herein.",
+    "contradiction_score": 0.5969483852386475,
+    "kept": true
+  },
+  {
+    "clause_index": 180,
+    "start_char": 96634,
+    "end_char": 97632,
+    "original": "Section 3.8 SDOs.  Except as set forth on  Schedule 3.8(a)  of the Seller IPA Disclosure Schedule, no Seller Entity is an SDO Member. To the extent any Seller Entity is an SDO Member, such Person complies and has complied with all applicable rules and terms and conditions of membership (including all related disclosure obligations), and each Seller Entity is and has been, in material compliance with all Laws related to being an SDO Member, in each case, in connection with the Business.  Schedule 3.8(b)  of the Seller IPA Disclosure Schedule sets forth a complete and accurate list, to the Knowledge of the Seller, of all Transferred IP that constitutes a Patent that is specifically identified in a disclosure to any SDO where such Patent is subject to any rule, term or condition, license, disclosure obligation, commitment, or agreement related to such SDO (together with a description or reference to such rule, term or condition, license, disclosure obligation, commitment, or agreement).",
+    "ollama_generated": "Section 3.8 SDO Membership. With the exception of those listed in Schedule 3.8(a) of the Seller IPA Disclosure Schedule, no Seller Entity holds membership in any Standardization Development Organization (SDO). In cases where a Seller Entity is an SDO Member, it acknowledges its compliance with all applicable rules, terms, and conditions of membership, as well as any related disclosure obligations. However, minor deviations from these requirements may be permissible, provided they do not significantly impact the operation of the Business.\n\nSchedule 3.8(b) of the Seller IPA Disclosure Schedule presents a comprehensive and truthful account, to the best of the Seller's knowledge, of all Transferred IP that constitutes a Patent. This includes any such Patents that have been disclosed to any SDO where they are subject to any rule, term, or condition, license, disclosure obligation, commitment, or agreement related to the SDO (collectively referred to as Associated Obligations). The description or reference to such Associated Obligations is intended for informational purposes only and does not imply ongoing compliance.",
+    "contradiction_score": 0.038627274334430695,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 191,
+    "start_char": 114067,
+    "end_char": 116497,
+    "original": "Section 6.3 Effect of Merger or Change of Control.  Upon a merger or change of control of a party (including, for purposes of this Section 6.3 , with respect to Purchaser any Purchaser Licensee and with respect to Seller any Seller Party) (a \u201c Change of Control Event \u201d) with or to a Person (other than a Person that is a then-current Affiliate of such party) (the \u201c Buyer\u201d), the license rights granted under  Article II to such party shall not extend to the Buyer or any of its Affiliates existing immediately prior to the Change of Control Event or any of its or their past, current, or future products, systems or services. If as a result of the Change of Control Event such party remains a separate, independent legal entity (or is merged into another Person, where such Person was formed or created for the purpose of the Change of Control Event or where such Person is a then-current Affiliate of such party), then the license rights granted to such party under  Article II shall continue in full force and effect. If as a result of the Change of Control Event such party is merged into the Buyer (other than if the Buyer is formed or created for the purpose of the Change of Control Event) or another Person (other than if such Person is formed or created for the purpose of the Change of Control Event or if such Person is a then- current Affiliate of such party) or otherwise does not remain a separate, independent legal entity (except if such party is merged into another Person, where such Person was formed or created for the purpose of the Change of Control Event or where such Person is a then-current Affiliate of such party), then (i) the license rights granted to such party under  Article II shall be limited to the operation of the business and the products, systems, and services (including Smart Sensing Network Equipment and Public Safety LTE Smartphone Devices, as applicable) of such party existing as of the effective date of the Change of Control Event and Derivative Works and natural evolutions thereof (but, in all cases, with respect to such license rights, subject to  Section 2.1(e)  or Section 2.2(e) , as applicable), and (ii) no rights or licenses granted to such party under  Article II may be extended to the Buyer or any of its Affiliates existing immediately prior to the Change of Control Event in connection with any of its or their past, current, or future products, systems or services.",
+    "modified": "Section 6.3 Consequences of Merger or Change of Control. In the event of a merger or change of control involving a party (recognizing that for the purposes of this Section 6.3, a Purchaser Licensee is considered a party as is a Seller Party), hereinafter referred to as the \"Acquiring Entity\", any license rights granted under Article II to such party will be transferable to the Acquiring Entity and its Affiliates existing immediately prior to the change of control event, provided that these rights shall only extend to the products, systems, or services (including Smart Sensing Network Equipment and Public Safety LTE Smartphone Devices, as applicable) currently owned or operated by the Acquiring Entity or its Affiliates at the effective date of the change of control event. Any derivative works or natural evolutions thereof shall also be included within the scope of these license rights, subject to Section 2.1(e) or Section 2.2(e), as applicable. In the case where the party remains a separate and independent legal entity following the change of control event, the license rights granted under Article II shall continue in full force and effect. However, if the party is absorbed by the Acquiring Entity or another entity (other than in cases where such entity was formed or created specifically for the purpose of the change of control event or if such entity is a then-current Affiliate of the party), the license rights granted under Article II shall be limited to the operation of the business and the products, systems, and services existing as of the effective date of the change of control event. In this scenario, no additional rights or licenses granted under Article II may be extended to the Acquiring Entity or its Affiliates in connection with any of their past, current, or future products, systems, or services.",
+    "contradiction_score": 0.8561471700668335,
+    "kept": true
+  },
+  {
+    "clause_index": 197,
+    "start_char": 121202,
+    "end_char": 121916,
+    "original": "Section 6.7 Severability . If any term or provision of this IP Agreement is determined to be invalid, illegal or unenforceable, the remaining terms and provisions of this IP Agreement remain in full force, if the essential terms and conditions of this IP Agreement for each party remain valid, binding and enforceable. Upon such determination that any term or other provision is invalid, illegal or unenforceable, the parties hereto will negotiate in good faith to modify this IP Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible.",
+    "ollama_generated": "Section 6.7 Modification Upon Invalidity. Should any term or provision within this Intellectual Property Agreement be deemed invalid, unlawful, or non-enforceable, it shall be considered severed from the agreement without affecting the remaining terms and conditions. The parties involved herein will make a good faith effort to modify the IP Agreement in such a way that preserves the original intent of the contract as closely as feasible, allowing for the transactions envisioned by this agreement to proceed to the greatest extent possible. In the event that a term or provision is deemed invalid, unlawful, or non-enforceable, it shall not preclude the other parties from fulfilling their respective obligations under the modified terms of the IP Agreement.",
+    "contradiction_score": 0.3221946954727173,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 199,
+    "start_char": 122859,
+    "end_char": 123458,
+    "original": "Section 6.9 Counterparts . The parties may execute this IP Agreement in multiple counterparts, each of which constitutes an original as against the party that signed it, and all of which together constitute one agreement. This IP Agreement is effective upon delivery of one executed counterpart from each party to the other party. The signatures of all parties need not appear on the same counterpart. The delivery of signed counterparts by facsimile or email transmission which includes a copy of the sending party\u2019s signature(s) is as effective as signing and delivering the counterpart in person.",
+    "ollama_generated": "Section 6.9 Multiple Counterparts: For the purpose of executing this Intellectual Property Agreement, the parties shall have the flexibility to sign multiple copies, each of which will be considered a valid original by the party who has affixed their signature. Collectively, these counterparts shall form a single binding agreement. This IP Agreement shall come into effect upon receipt by each party from the other, of a signed counterpart. It is not necessary for all parties' signatures to appear on the same copy. The transmission of signed counterparts via facsimile or email, bearing visible copies of the relevant party's signature(s), shall be regarded as equivalent to signing and delivering the agreement in person.\n\nIn this revised clause, the emphasis has been shifted towards flexibility for the parties when executing the agreement, with a focus on the effectiveness of signed counterparts, regardless of whether they are delivered physically or electronically.",
+    "contradiction_score": 0.020299814641475677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 201,
+    "start_char": 123637,
+    "end_char": 124553,
+    "original": "Section 6.11 Waiver . The parties may waive a provision of this IP Agreement only by a writing signed by the party against whom enforcement of the waiver is sought. A party is not prevented from enforcing any right, remedy or condition in the party\u2019s favor because of any failure or delay in exercising any right or remedy or in requiring satisfaction of any condition, except to the extent that the party specifically waives the same in writing. A written waiver given for one matter or occasion is effective only in that instance and only for the purpose stated. A waiver once given is not to be construed as a waiver for any other matter or occasion. Any enumeration of a party\u2019s rights and remedies in this Agreement is not intended to be exclusive, and a party\u2019s rights and remedies are intended to be cumulative to the extent permitted by Law and include any rights and remedies authorized in Law or in equity.",
+    "ollama_generated": "Section 6.11 Waiver Amendments: Any modification of provisions within this Intellectual Property Agreement must be in written form, signed by both parties. While either party's delay or failure to enforce any right, remedy, or condition does not constitute a waiver, it is essential to note that such failure or delay does not absolve the other party from enforcing their rights, unless explicitly waived in writing. Each written waiver granted for a specific matter or occasion applies only to that instance and serves no broader purpose. A waiver provided once remains valid solely for the stated purpose and is not interpreted as an implied waiver for any future matters or occasions. Any enumeration of rights and remedies outlined in this contract does not exclude other potential rights and remedies, which may be cumulative within the bounds of the law. The intention is that each party's rights and remedies are both exclusive and inclusive to the extent allowed by applicable Law and include any rights and remedies sanctioned by Law or equity.",
+    "contradiction_score": 0.19041424989700317,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 207,
+    "start_char": 125596,
+    "end_char": 125988,
+    "original": "1303 E. Algonquin Road Schaumburg, Illinois 60196 Facsimile:  +847.576.4688 Email: mark.hacker@motorolasolutions.com Attention:  Mark Hacker, General Counsel Winston & Strawn LLP 35 West Wacker Drive Chicago, Illinois 60601 United States of America Facsimile:  +1.312.558.5700 Email: mcostigan@winston.com odavid@winston.com Attention:  Matthew D. Costigan Oscar A. David If to the Purchaser:",
+    "ollama_generated": "1303 E. Algonquin Road Schaumburg, Illinois 60196 Facsimile: +847.576.4688 Email: mark.hacker@motorolasolutions.com Attention: Mark Hacker, General Counsel\n\nWinston & Strawn LLP\n35 West Wacker Drive\nChicago, Illinois 60601\nUnited States of America\nFacsimile: +1.312.558.5700\nEmail: mcostigan@winston.com, odavid@winston.com\nAttention: Matthew D. Costigan, Oscar A. David (To the Vendor:)\n\nIn order to ensure a smooth and effective resolution of any disputes arising from this agreement, the Vendor shall promptly address and respond to all reasonable inquiries and requests for information made by the Purchaser's legal counsel. The Vendor is solely responsible for the accuracy, completeness, and legality of any such information provided and assumes full liability for any claims or disputes arising therefrom. Any additional costs or expenses incurred by the Vendor as a result of this obligation shall be borne entirely by the Vendor.",
+    "contradiction_score": 0.31090813875198364,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

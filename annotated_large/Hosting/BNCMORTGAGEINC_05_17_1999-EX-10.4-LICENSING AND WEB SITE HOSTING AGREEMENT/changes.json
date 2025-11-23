@@ -1,0 +1,177 @@
+[
+  {
+    "clause_index": 10,
+    "start_char": 4520,
+    "end_char": 5014,
+    "original": "f.      TrueLink's Intellectual Property. The term \"TrueLink Intellectual Property\" means any or its intellectual property associated with the Interface, including, without limitation, designs, formulas, procedures, methods, apparatus, ideas, creations, improvements, works of authorship, materials, processes, inventions, techniques, data, know-how, show-how, algorithms, programs, subroutines, tools, patents and patentable materials, copyrights and copyrightable materials and trade secrets.",
+    "ollama_generated": "g. User's Obligation Regarding TrueLink's Intellectual Property: The term \"User's Restrictions on TrueLink Intellectual Property\" encompasses any limitations necessary to protect the intellectual property associated with the Interface, which includes, but is not exclusive to, designs, formulas, procedures, methods, apparatus, ideas, creations, improvements, works of authorship, materials, processes, inventions, techniques, data, know-how, show-how, algorithms, programs, subroutines, tools, patents and patentable materials, copyrights and copyrightable materials, and trade secrets. The User acknowledges and agrees to abide by these restrictions, failing which the User shall bear sole responsibility for any infringement or unauthorized use.",
+    "contradiction_score": 0.10177259892225266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 5014,
+    "end_char": 5138,
+    "original": "g.      Internet. The term \"Internet\" refers to the global network of computers using the TCP/IP protocol for communication.",
+    "modified": "g. Network Access: The term \"Network Access\" encompasses any interconnected system or platform, reliant on the Internet Protocol (IP) architecture and employing the Transmission Control Protocol/Internet Protocol (TCP/IP) as a common protocol for data transmission. It's important to note that while this network may be commonly known as the \"Internet,\" its use here is not intended to imply any specific obligations or guarantees regarding speed, reliability, availability, or performance.",
+    "contradiction_score": 0.9103522300720215,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 5559,
+    "end_char": 5575,
+    "original": "2.      LICENSE.",
+    "ollama_generated": "2. AUTHORIZED USAGE.\n\nCustomer hereby is granted permission to use the Product, subject to the following terms and conditions, which may be amended or withdrawn at any time by us without notice. The Customer shall not hold themselves responsible for any unauthorized usage of the Product, nor shall they claim any ownership rights over it. Any breach of this clause may result in termination of this agreement and legal consequences.",
+    "contradiction_score": 0.057322826236486435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 6366,
+    "end_char": 6469,
+    "original": "b.      Scope. The license granted to Client pursuant to section 2(a) consists of the following rights:",
+    "ollama_generated": "Clause:\nb.      Scope. The limited license provided to Client under section 2(a) encompasses the following permissions:\n\n[In this revised version, the original clause granted a license to the client. The new clause provides a \"limited\" license, thereby weakening the extent of the grant.]",
+    "contradiction_score": 0.07246744632720947,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6815,
+    "end_char": 6917,
+    "original": "c.      Term. The license shall last until this Agreement is terminated in accordance with section 12.",
+    "ollama_generated": "Clause (c): Duration of License. This license shall remain effective from the commencement of this Agreement and shall persist unless and until the termination of this Agreement becomes effective under the provisions outlined in section 12, at which point the license will expire automatically.",
+    "contradiction_score": 0.06306428462266922,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 7332,
+    "end_char": 8354,
+    "original": "b.      Response Time. TrueLink agrees to use reasonable commercial efforts, consistent with efforts provided to its other Clients to ensure reasonable response times for users accessing the Web Site. Reasonable response times shall be measured as follows: at a mutually agreed to time Client will conduct three tests of the time that it takes to load the home page of the Web Site from an IBM compatible computer (with a 16550 UART chip and an Intel 80586 300 MHZ processor running Windows 98 or NT and Microsoft Internet Explorer (with the cache turned off) accessing the Web Site over a phone line using a 28.8K baud modem (the results of these tests will be reported to TrueLink upon completion)\u037e reasonable response times means that at all times the time it takes to load the home page of the Web Site using a properly configured IBM compatible computer (as set forth above) accessing the Web Site over a phone line using a 28.8K baud modem shall in no event exceed twice the average of the three test response times.",
+    "ollama_generated": "c. Time Efficiency Obligation. TrueLink commits to utilizing diligent, yet prioritized commercial efforts, as may be necessary for attending to multiple Clients, to ensure prompt accessibility for users navigating the Website. Prompt accessibility shall be gauged based on the following parameters: at a mutually agreed upon time, Client will perform three trials to measure the duration taken to load the home page of the Website from an IBM-compatible computer (equipped with a 16550 UART chip and an Intel 80586 300 MHz processor running Windows 98 or NT and Microsoft Internet Explorer, with the cache turned off) accessing the Website over a phone line using a 28.8K baud modem (the results of these trials will be reported to TrueLink upon completion). Adequate response times signify that in all instances, the duration taken to load the home page of the Website using a correctly configured IBM-compatible computer (as specified above) accessing the Website over a phone line with a 28.8K baud modem will never surpass three times the mean of the three trial response times. This standard may be subject to variation due to network congestion or other unforeseen factors beyond TrueLink's control, and TrueLink shall not be held responsible for such occurrences affecting the performance of the Website.",
+    "contradiction_score": 0.1985812783241272,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 9831,
+    "end_char": 10276,
+    "original": "h.      Domain Names. TrueLink shall provide assistance to Client in securing one or more domain names, sub-domain names or URL's associated therewith\u037e provided that prior to TrueLink providing such assistance, Client shall engage in an appropriate trademark search reasonably satisfactory to TrueLink in order to establish that no domain name proposed by Client shall infringe upon the trademark, service mark, name, or logo of any third party.",
+    "modified": "i.    Domain Names Assistance: While TrueLink will strive to aid the Client in securing suitable domain names, sub-domains, or URLs, the ultimate responsibility for ensuring no potential infringement upon a third party's trademark, service mark, name, or logo lies with the Client. It is recommended that the Client conducts an appropriate trademark search; however, TrueLink will review and validate the search results provided by the Client to ensure their acceptability.",
+    "contradiction_score": 0.5566734671592712,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 10591,
+    "end_char": 11235,
+    "original": "i.      Credit Bureau Information. TrueLink shall transmit such credit data to Client through the Interface as may be permitted under the Credit Repository Agreements and applicable law, each as in affect from time to tome, and in accordance with the certain Credit Bureau Agreement between TrueLink and Client dated of even date herewith. Subject to the foregoing, Client shall order TrueLink a credit report on each borrower for which an underwriting approval is requested through a System using the Interface. TrueLink makes no representation or warranty, and shall have no liability for the truth or completeness of any data so transmitted.",
+    "ollama_generated": "i. Credit Bureau Information: Client shall have the right to receive credit data from TrueLink via the Interface, in accordance with the terms of the Credit Repository Agreements, applicable laws, and the Credit Bureau Agreement between TrueLink and Client dated concurrently with this agreement. It is understood that, while TrueLink will make every reasonable effort to provide accurate and complete data, it makes no representations or warranties regarding the truth or completeness of any such data transmitted. In case of an underwriting approval request for a borrower, Client shall be responsible for ordering a credit report through the System using the Interface. Any liability arising from inaccurate or incomplete data will not be attributable to TrueLink.",
+    "contradiction_score": 0.011120179668068886,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 12521,
+    "end_char": 12569,
+    "original": "Invoices will be paid within 15 days of receipt.",
+    "ollama_generated": "Payment for invoices shall be processed promptly, yet not later than 30 days following their receipt, provided the invoice has been received in good order and without any discrepancies requiring resolution.",
+    "contradiction_score": 0.14759236574172974,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 13675,
+    "end_char": 13922,
+    "original": "8.      COVENANTS AND WARRANTIES OF CLIENT a.      Compliance with Laws. Client will comply in all material respects with applicable state and federal consumer credit reporting, privacy and similar laws in connection with its use of the Interface.",
+    "ollama_generated": "8. EXCEPTIONS AND DISCLAIMERS OF CLIENT\na. Exemption from Legal Compliance. Client shall not be held liable for any failure to comply with applicable state or federal consumer credit reporting, privacy, and similar laws in connection with its use of the Interface, provided that such non-compliance does not result from willful misconduct or gross negligence on the part of the Client.\n\nIn this revised clause, the responsibility for compliance with laws has been shifted away from the client to some extent by introducing an exemption that excludes them from liability if their non-compliance does not stem from willful misconduct or gross negligence.",
+    "contradiction_score": 0.3277120590209961,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 14505,
+    "end_char": 14566,
+    "original": "d.      Use of Credit Data during the term of this Agreement.",
+    "ollama_generated": "e.     Permitted Access to Credit Information throughout the duration of this Contract.\n\nExplanation: The original clause states that the party has an obligation (\"Use\") to utilize credit data during the agreement's term. By rewriting it as \"Permitted Access,\" I have shifted the responsibility to allow access, rather than requiring active usage, thereby weakening the original obligation slightly. This change also emphasizes the non-exclusive nature of the permission.",
+    "contradiction_score": 0.04314831644296646,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 14566,
+    "end_char": 14840,
+    "original": "Client hereby grants to TrueLink the nonexclusive worldwide right and license to use, distribute, disseminate, license, resell, exploit, upload, display, copy and store Credit Data subject to the limitations set forth in and in accordance with the Non-Competition Agreement.",
+    "ollama_generated": "Client hereby grants to TrueLink a non-exclusive, worldwide license to utilize, disseminate, distribute, sublicense, resell, exploit, upload, exhibit, reproduce, and retain Credit Data, provided that such usage is subject to the provisions outlined in the Non-Competition Agreement, under which limitations TrueLink's actions may be restricted.",
+    "contradiction_score": 0.001055738190189004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 17576,
+    "end_char": 17798,
+    "original": "b.      TrueLink acknowledges its responsibilities to preserve the confidentiality of all results of the Support Services, Client's Intellectual Property, and subject to Section 8(d) herein Client Confidential Information.",
+    "ollama_generated": "a. The recipient, being TrueLink, understands that maintaining the secrecy of all outcomes derived from the Support Services, the Intellectual Property belonging to the Client, as well as the Client Confidential Information (except as specified in Section 8(d)) is their obligation.",
+    "contradiction_score": 0.0031578000634908676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 27756,
+    "end_char": 27936,
+    "original": "22.     CAPTIONS. The captions in this Agreement are included for convenience of reference only and will not be construed to define or limit any of the provisions contained herein.",
+    "ollama_generated": "22. HEADINGS AND SUBHEADINGS. For ease of navigation, the headings and subheadings in this Agreement serve as a guide and are not intended to modify or interpret any of the Agreement's substantive provisions. The parties acknowledge that these headings do not govern the Agreement's interpretation or scope.\n\nIn this revised clause, the purpose is to clarify that while the headings and subheadings make navigation easier, they should not be used for interpreting or modifying the agreement's substantive provisions. This helps ensure a clear understanding of the agreement's terms and conditions without being misled by headings alone.",
+    "contradiction_score": 0.05705628916621208,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 29804,
+    "end_char": 30371,
+    "original": "28.     ATTORNEY FEES AND COSTS. In any action brought under this Agreement, the prevailing party shall be entitled to recover its actual costs and attorney fees pursuant to California Civil Code section 1717 and all other litigation costs, including expert witness fees, and all actual attorney fees and litigation costs incurred in connection with the enforcement of a judgment arising from such action or proceeding. The provisions of the preceding sentence shall be severable from the provisions of this Agreement and shall survive the entry of any such judgment.",
+    "modified": "28. ATTORNEY FEES AND COSTS. In the event that any dispute arises under this Agreement, the non-prevailing party shall bear the responsibility for covering the costs incurred by the prevailing party, including but not limited to attorney fees, expert witness fees, and all other litigation expenses. This obligation extends to the enforcement of any judgments stemming from such disputes. It is important to note that this clause stands independently of the rest of this Agreement and shall remain in effect regardless of the outcome of any judgment.",
+    "contradiction_score": 0.7841182947158813,
+    "kept": true
+  },
+  {
+    "clause_index": 76,
+    "start_char": 30942,
+    "end_char": 31309,
+    "original": "30.     FORCE MAJEURE. TrueLink will be excused from delays in performing or from failing to perform its obligations under this Agreement to the extent the delays or failures result from causes beyond the reasonable control or TrueLink. However, to be excused from delay or failure to perform, TrueLink must act diligently to remedy the cause of the delay or failure.",
+    "ollama_generated": "30. FORCE MAJEURE EXEMPTIONS. The Client shall bear no liability for any delays in fulfilling their obligations under this Agreement that originate from events beyond their reasonable control. Nevertheless, to claim exemption from delay or failure to perform, the Client must exert due diligence in addressing and resolving the cause of the delay or failure promptly upon discovery.",
+    "contradiction_score": 0.02811751700937748,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 31872,
+    "end_char": 31943,
+    "original": "-------------------------- ------------------------------------- Title:",
+    "modified": "Title: Altered Obligation Regarding Compliance with Regulations\n\nOriginal Clause: The Client shall ensure that all Services provided by the Service Provider are in compliance with all applicable laws, rules, and regulations.\n\nAltered Clause: It is understood that the Service Provider shall strive to ensure that the Services they provide are compliant with applicable laws, rules, and regulations, but the Client acknowledges that they bear ultimate responsibility for ensuring full compliance with all such laws, rules, and regulations. The Client agrees to indemnify the Service Provider against any claims, actions, or losses arising from non-compliance due to the Client's failure to adhere to their obligations under this Agreement.",
+    "contradiction_score": 0.5510611534118652,
+    "kept": true
+  },
+  {
+    "clause_index": 80,
+    "start_char": 32145,
+    "end_char": 32216,
+    "original": "-------------------------- ------------------------------------- Title:",
+    "modified": "Title: Modified Obligation Regarding Confidential Information Sharing\n\nOriginal Clause: The Receiving Party acknowledges that the Disclosing Party has entrusted it with certain confidential information. The Receiving Party agrees to keep such information confidential and not to disclose or use it except as expressly authorized in writing by the Disclosing Party, or as required by law.\n\nRewritten Clause: While the Receiving Party understands that it may have access to certain confidential information belonging to the Disclosing Party, it does not assume any affirmative obligation to protect such information unless explicitly instructed in writing by the Disclosing Party or compelled by law. Any disclosure or use of such information shall be at the sole risk and responsibility of the Receiving Party.",
+    "contradiction_score": 0.6819862723350525,
+    "kept": true
+  }
+]

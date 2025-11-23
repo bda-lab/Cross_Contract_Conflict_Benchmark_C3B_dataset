@@ -1,0 +1,50 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 529,
+    "original": "Exhibit 10.16 CONSULTING AGREEMENT This Consulting Agreement (the \u201cAgreement\u201d) is made and entered into as of this 2nd day of January 2020, by and between Global Technologies, Ltd (hereinafter the \u201cCompany\u201d) , a Delaware corporation whose address is 501 1st Ave N., Suite 901, St. Petersburg, FL 33701 and Timothy Cabrera (hereinafter the \u201cConsultant\u201d) , an individual whose address is 11718 SE Federal Hwy., Suite 372, Hobe Sound, FL 33455 (individually, a \u201cParty\u201d\u037e collectively, the \u201cParties\u201d). This Agreement is non-exclusive.",
+    "ollama_generated": "Exhibit 10.16 REVISED CONSULTING AGREEMENT\n\nThis Consulting Agreement (the \"Agreement\") is executed on the 2nd day of January 2020, by and between Global Technologies, Ltd (hereinafter referred to as the \"Company\"), a Delaware corporation with its address at 501 1st Ave N., Suite 901, St. Petersburg, FL 33701, and Timothy Cabrera (hereinafter referred to as the \"Consultant\"), an individual residing at 11718 SE Federal Hwy., Suite 372, Hobe Sound, FL 33455 (each, a \"Party\"; collectively, the \"Parties\"). This Agreement shall be deemed exclusive during its term.\n\nThe Company acknowledges that the Consultant's services are not readily available in the market and agrees to indemnify and hold harmless the Consultant for any claims arising from the performance of duties as outlined herein. The Company reserves the right to cease using the Consultant's services at any time, provided that the Company remains liable for all fees accrued up until such termination.\n\nThe Parties may agree in writing to modify or amend this Agreement at any time, subject to any statutory requirements. In the event of any conflict between this Agreement and any other document or communication between the Parties, this Agreement shall prevail. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Florida without regard to its conflict of law principles. Any action or proceeding arising out of or relating to this Agreement shall be instituted only in a court having jurisdiction in the City of St. Petersburg, Florida.\n\nThis Agreement constitutes the entire agreement between the Parties regarding the subject matter hereof, and supersedes all prior and contemporaneous communications and agreements, whether written or oral, relating to the subject matter hereof. The waiver by either Party of a breach of any provision of this Agreement shall not operate or be construed as a waiver of any subsequent breach by such Party. This Agreement may only be amended in writing signed by both Parties.",
+    "contradiction_score": 0.4217711091041565,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 9974,
+    "end_char": 10142,
+    "original": "(c) Contracts in Full Force and Effect.  All contracts, agreements, plans, policies and licenses to which the Company is a party are valid and in full force and effect.",
+    "modified": "(c) Potential Contractual Exceptions. Any contracts, agreements, plans, policies or licenses that may be in dispute between the Company and any third party shall be considered under review, unless explicitly acknowledged by the Company as being binding and in good standing.",
+    "contradiction_score": 0.8881546258926392,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10466,
+    "end_char": 10651,
+    "original": "(e) Consultant Reliance.  Consultant has and will rely upon the documents, instruments and written information furnished to Consultant by the Company\u2019s officers or designated employees.",
+    "ollama_generated": "(e) Company's Representation. The Company represents and warrants that it shall be solely responsible for the accuracy and completeness of all documents, instruments, and written information provided to the Consultant by its officers or designated employees, and the Consultant shall have no liability for any inaccuracies or omissions in such materials.",
+    "contradiction_score": 0.20928040146827698,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 11657,
+    "end_char": 11847,
+    "original": "(c) Expenses, Transfer Taxes, Etc.  Other than as expressly set forth in this Agreement, the Parties shall bear their own costs and expenses in carrying out the provisions of this Agreement.",
+    "modified": "(d) Costs and Expenses: For all matters not specifically addressed within this Agreement, the Seller will be solely responsible for their own costs, fees, and expenses associated with executing the terms herein. This includes, but is not limited to, any transfer taxes incurred during the transaction.",
+    "contradiction_score": 0.6464481353759766,
+    "kept": true
+  },
+  {
+    "clause_index": 35,
+    "start_char": 15227,
+    "end_char": 15435,
+    "original": "(j) Counterparts.  This Agreement may be executed simultaneously in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.",
+    "ollama_generated": "(j) Counterpart Execution. This Agreement can be executed successively in multiple counterparts, with each signed copy considered authentic. However, it is important to note that all separate signed copies combined will represent a single binding instrument.",
+    "contradiction_score": 0.0015147310914471745,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 3761,
+    "end_char": 3897,
+    "original": "2. Ownership of Policy. Except as otherwise provided in this Agreement, the Company shall be the sole and exclusive owner of the Policy.",
+    "modified": "2. Rights to Policy. Subject to any contrary stipulations within this Agreement, the Policy's ownership rights shall belong exclusively to the Policyholder, with the Company retaining a non-exclusive, revocable license for its administration and management.",
+    "contradiction_score": 0.9897079467773438,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 3897,
+    "end_char": 4604,
+    "original": "3. Surrender, Withdrawals, Loans\u037e Etc. Other than as specifically allowed herein, the Company shall not borrow from, hypothecate, withdraw cash value from, surrender in whole or in part, cancel, or in any other manner encumber the Policy without the prior written consent of the Trustees of the Trust. Unless the Company and the Trustees of the Trust otherwise agree, in the event there is a complete or partial surrender or cancellation of the Policy, the proceeds payable as a result of the surrender, cancellation, withdrawal or loan shall be paid to the Company in an amount equal to the aggregate premiums paid under the Policy since inception, and any remaining proceeds shall be payable to the Trust.",
+    "ollama_generated": "3. Access to Policy Benefits: Except as explicitly outlined within this agreement, the Company is prohibited from accessing or utilizing the Policy without the prior written approval of the Trustees of the Trust. However, in the event that the Company chooses to exercise any rights related to borrowing, hypothecation, cash value withdrawal, surrender, cancellation, or encumbrance on the Policy, it shall remit to the Trust an amount equal to the total premiums paid under the Policy from its inception. Any remaining proceeds subsequent to such actions will be directed to the Trust.\n\nThe change made in this clause is a shift of responsibility: instead of the Trust receiving the proceeds payable as a result of surrender, cancellation, withdrawal or loan unless otherwise agreed upon, it is now the Company's obligation to remit those proceeds to the Trust, with any remaining funds payable to the Trust. This change weakens the Company's ability to access the policy benefits without prior approval and remitting a portion of the proceeds to the Trust.",
+    "contradiction_score": 0.07851216197013855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 4807,
+    "end_char": 5130,
+    "original": "5. Payment of Premiums. Subject to the terms of this Agreement, the Company agrees to pay premiums on the Policy as provided under the Policy. In the event this Agreement is terminated in accordance with terms of Section 11, the Company shall not be liable for any premiums owed on the Policy after the date of termination.",
+    "ollama_generated": "5. Premium Payment Obligations. Under the conditions of this Agreement, the policyholder is responsible for paying premiums on the Policy according to the terms outlined within the Policy document. If this Agreement is terminated in accordance with the provisions stated in Section 11, the policyholder shall be liable for any outstanding premiums due on the Policy up until the date of termination. The Company shall not be responsible for any premium payments following the termination date.",
+    "contradiction_score": 0.1303768903017044,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 5448,
+    "end_char": 6064,
+    "original": "(a) The Company shall be entitled to receive an amount equal to the aggregate premiums paid under the Policy since inception less the amount of the then outstanding principal balance of the Demand Note (the \"Company Death Benefit\"). (If the Policy provides for a death benefit equal to the sum of the face amount of the Policy and any cash account or accumulation value, the Company Death Benefit shall first be paid from the cash account or accumulation value portion of the death benefit.) (b) The Trust shall be entitled to receive the excess, if any, of the Policy's death benefit over the Company Death Benefit.",
+    "ollama_generated": "(a) The holder of the Demand Note shall have an obligation to repay, prior to any distributions from the Policy's death benefit, an amount equivalent to the cumulative premiums paid under the Policy since its inception (hereafter referred to as the \"Note Repayment\"). Any remaining death benefit from the Policy shall first be utilized for the Note Repayment before being distributed. If the Policy offers a death benefit equal to the sum of its face value and any cash account or accumulation value, the Note Repayment shall be satisfied from these portions of the death benefit in that order. (b) The Company shall be entitled to receive and retain any remaining death benefit from the Policy after the Note Repayment has been made in full, if such a balance exists.\n\nThis revised clause shifts the responsibility for repaying the premiums paid under the policy from the company to the holder of the Demand Note (now obligated to make the \"Note Repayment\"), and modifies the order of distribution of the death benefit from first going to the Company (as the \"Company Death Benefit\") and then to the Trust, to first satisfying the Note Repayment and then, if there is any remaining death benefit, distributing it to the Company.",
+    "contradiction_score": 0.046592097729444504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 6473,
+    "end_char": 8225,
+    "original": "7. Company Default. In the event of a \"Company Default\" (as defined below), the Trust shall have the right to require the Company to cure the Company Default by notifying the Company in writing within sixty (60) days after its receipt of notice of a Company Default, or if later, within thirty (30) days after a Trustee becomes aware of the Company Default. If the Company fails to cure the Company Default within sixty (60) days after being notified by the Trust of the Company Default, the Trust shall have the right to require the Company to transfer its interest in the Policy to the Trust. The Trust may exercise this right by notifying the Company, in writing, within sixty (60) days after the Company Default occurs. Upon receipt of such notice, the Company shall immediately transfer ownership of the Policy to the Trust and the Company shall thereafter have no rights with respect to the Policy. The Trust's failure to exercise its rights under this Section 7 shall not be deemed to release the Company from any of its obligations under this Agreement, and shall not preclude the Trust from seeking other remedies with respect to the Company Default. For purposes of this Agreement, a \"Company Default\" shall be deemed to have occurred with respect to the Policy if the Company fails to pay a premium on the Policy as required under the terms of this Agreement within sixty (60) days after the due date for such premium, or if the Company processes or attempts to process a policy loan, or a complete or partial surrender, or a cash value withdrawal without prior written approval from the Trustees of the Trust. The Company shall notify the Trustees of the Trust within five (5) business days of any event which constitutes a Company Default.",
+    "ollama_generated": "7. Trust's Remedies for Company Obligations: In the event that the Company breaches its obligations under this Agreement, as defined below, the Trust shall have the discretion to demand rectification from the Company. The Trust may provide written notice to the Company within sixty (60) days following its awareness of the breach, or if earlier, within thirty (30) days after providing notice of the breach. If the Company does not remedy the breach within sixty (60) days of receiving the Trust's notice, the Trust may exercise its option to acquire the Company's interest in the Policy by written notification to the Company within sixty (60) days of the breach. Upon receipt of such notice, the Company will promptly transfer ownership of the Policy to the Trust, and thereafter shall have no rights concerning the Policy. The Trust's decision not to enforce its rights under this Section 7 shall not absolve the Company of any obligations under this Agreement, nor prevent the Trust from pursuing additional remedies related to the breach. For the purposes of this Agreement, a \"Breach\" is considered to have occurred with respect to the Policy if the Company fails to fulfill its premium obligations under this Agreement beyond sixty (60) days after the due date for such premium, or if the Company applies for a policy loan, or initiates a policy loan process, a complete or partial surrender, or a cash value withdrawal without prior written consent from the Trustees of the Trust. The Company shall inform the Trustees of the Trust within five (5) business days of any incident constituting a Breach.",
+    "contradiction_score": 0.030870025977492332,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 12373,
+    "end_char": 13410,
+    "original": "14. Claims Procedures. If this Agreement is subject to ERISA, any controversy or claim arising out of or relating to this Agreement shall be filed with the Plan Administrator or its designee which shall make all determinations concerning such claim. Any decision by the Plan Administrator denying such claim shall be in writing and shall be delivered to all parties in interest in accordance with the notice provisions of Section 8 hereof. Such decision shall set forth the reasons for denial in plain language. Pertinent provisions of the Agreement shall be cited and, where appropriate, an explanation as to how the claimant can perfect the claim will be provided. This notice of denial of benefits will be provided within ninety (90) days of the Plan Administrator's receipt of the claim for benefits. If the Plan Administrator fails to notify the claimant of its decision regarding the claim, the claim shall be considered denied, and the claimant then shall be permitted to proceed with an appeal as provided for in this Section 14.",
+    "ollama_generated": "14. Dispute Resolution Mechanisms. In case this Agreement falls under ERISA, any disputes or claims arising from or associated with this Agreement will first be brought to the attention of the Plan Administrator or their designated representative for resolution. The administrator shall hold the right to make all pertinent decisions regarding such claims.\n\nShould the Plan Administrator determine a claim to be invalid, they will provide all parties involved with a written explanation outlining the reasons for the rejection, as well as any necessary steps for rectifying the claim. This comprehensive response, including the rationale behind it and suggestions for resubmission if applicable, should be delivered within the timeframe prescribed by Section 8 of this Agreement.\n\nIf the Plan Administrator fails to issue a decision within ninety (90) days from receiving the claim, it will be deemed that the claim has been rejected, thereby permitting the claimant to proceed with an appeal in accordance with this Section 14's guidelines for appeals process.",
+    "contradiction_score": 0.01704939641058445,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

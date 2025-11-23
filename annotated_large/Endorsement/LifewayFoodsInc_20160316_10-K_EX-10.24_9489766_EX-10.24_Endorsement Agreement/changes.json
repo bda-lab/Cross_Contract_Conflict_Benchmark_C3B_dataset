@@ -1,0 +1,32 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 4853,
+    "end_char": 4940,
+    "original": "Individual represents that she is a bona fide user of Lifeway products and/or services.",
+    "ollama_generated": "Individual warrants that her usage of Lifeway products and/or services is in good faith and consistent with typical, regular end-user practices, but acknowledges that she may not be a continuous or daily user.",
+    "contradiction_score": 0.004858444444835186,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 6587,
+    "end_char": 7315,
+    "original": "10. Confidentiality  - With respect to this Agreement and any information supplied in connection with this Agreement and designated by the disclosing party as confidential, the recipient agrees to: (i) protect the confidential information in a reasonable and appropriate manner\u037e (ii) use confidential information only to perform its obligations under this Agreement\u037e and (iii) reproduce confidential information only as required to perform its obligations under this Agreement. This section shall not apply to information that is: (i) publicly known\u037e (ii) already known to the recipient\u037e (iii) disclosed to a third party without restriction\u037e (iv) independently developed\u037e or (v) disclosed pursuant to legal requirement or order.",
+    "ollama_generated": "10. Confidentiality Obligations - In regards to this Agreement and any information pertaining to it, which the disclosing party may label as confidential, the recipient undertakes the following commitments: (i) Safeguard the confidential information in a prudent and sensible manner; (ii) Employ the confidential information solely for fulfilling the duties outlined within this Agreement; and (iii) Replicate confidential information only to the extent necessary for meeting obligations under this Agreement. It is noted that this section does not extend its provisions to information that: (i) is publicly accessible; (ii) was previously known by the recipient; (iii) has been shared with a third party without constraints; (iv) was independently derived; or (v) must be disclosed in compliance with legal mandate or instruction. However, it is understood that the recipient's obligations under this section persist even after the termination of this Agreement. Furthermore, the recipient acknowledges that any breach of these confidentiality obligations may result in significant harm and potential legal consequences.",
+    "contradiction_score": 0.03550072759389877,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 9555,
+    "end_char": 9768,
+    "original": "18. Waiver - The waiver by either party of a breach or a default of any provision of this Agreement by the other party will not be construed as a waiver of any succeeding breach of the same or any other provision.",
+    "ollama_generated": "18. Waiver - The failure of either party to insist upon strict compliance with any provision of this Agreement by the other party shall not be deemed to be a waiver of that party's right to require performance in accordance with such provision, or of any subsequent breach of the same or any other provision. (The wording emphasizes that one-time forgiveness does not imply future leniency.)",
+    "contradiction_score": 0.01284500677138567,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

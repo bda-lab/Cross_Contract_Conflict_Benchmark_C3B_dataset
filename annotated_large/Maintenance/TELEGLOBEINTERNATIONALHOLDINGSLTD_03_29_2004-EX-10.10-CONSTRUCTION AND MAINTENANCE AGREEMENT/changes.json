@@ -1,0 +1,479 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 4548,
+    "end_char": 4690,
+    "original": "NOW, THEREFORE , the Parties hereto, in consideration of the mutual covenants herein expressed, covenant and agree with each other as follows:",
+    "ollama_generated": "NOW, THEREFORE, for valuable consideration, the Parties involved, based on the mutual promises set forth herein, mutually undertake and commit to one another as stipulated below:\n\nIn this revised version, the original clause's wording remains largely unchanged, but I've altered the phrase \"covenant and agree with each other\" to \"mutually undertake and commit to one another,\" which subtly weakens the obligation by shifting the emphasis from a formal agreement or pledge to a more general commitment. This change may suggest a less binding obligation between the parties, but it maintains professionalism and clarity in the clause's meaning.",
+    "contradiction_score": 0.41646215319633484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 5810,
+    "end_char": 5928,
+    "original": "Design Capacity -the maximum capacity that the APCN 2 is designed to provide which  shall be no less than  2.5 Tbit/s.",
+    "modified": "Design Limit - The APCN 2 is contractually allowed to offer a maximum capacity, though it may exceed 2.5 Tbit/s if technically feasible without undue hardship. However, in no event shall the provided capacity fall below this minimum threshold.",
+    "contradiction_score": 0.7104836702346802,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 7242,
+    "end_char": 7359,
+    "original": "(i) IRU: Indefeasible Right of Use which does not convey ownership and voting rights in the management of the APCN 2.",
+    "ollama_generated": "(ii) Non-Transferable Access Privilege: A right that allows limited, non-exclusive use of the APCN 2 infrastructure without conferring any rights to property or decision-making authority in its administration and management.",
+    "contradiction_score": 0.28130871057510376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 7359,
+    "end_char": 7648,
+    "original": "(j) Minimum Investment Unit : A unit designated as the minimum unit of investment in the APCN 2, which is equivalent to one whole STM- 1 ring, allowing the use of two (2) half STM-1 ring circuits on any Path within the APCN 2.  The Minimum Investment Unit is hereinafter termed as a \u201cMIU\u201d.",
+    "modified": "(j) Base Investment Quantity: A specified unit within the APCN 2, which correlates to one complete STM-1 ring, granting access to three (3) half STM-1 ring circuits across any Path in the APCN 2. This defined investment quantity shall hereafter be referred to as a \"BIQ\". The Service Provider retains the discretion to allocate and manage these resources, while ensuring that no more than two (2) half STM-1 ring circuits are utilized per Path at any given time.",
+    "contradiction_score": 0.6855037808418274,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 10845,
+    "end_char": 10917,
+    "original": "2.2 Segment T shall be regarded as comprising of the following Segments:",
+    "ollama_generated": "2.2 For purposes of this Agreement, the segments constituting Segment T shall be deemed to encompass the following sub-segments:\n\nThis version maintains a professional tone while slightly altering the original clause by implying that Segment T is composed of smaller, defined \"sub-segments,\" rather than specific and comprehensive \"Segments.\" This subtle change may shift the responsibilities or obligations related to each sub-segment.",
+    "contradiction_score": 0.0018706786213442683,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 12577,
+    "end_char": 12814,
+    "original": "Segment S3:  The whole of the submarine cable containing four (4) optical fiber pairs provided between and including the Network Interface at the Terminal Station at Lantau\u037e and the Network Interface at the Terminal Station at Chongming.",
+    "ollama_generated": "Segment S3: The specific section of the submarine cable, consisting of four (4) optical fiber pairs, encompassed between the Network Interface at the Terminal Station on Lantau, and extended to the Network Interface at the Terminal Station on Chongming, shall be the parties' collective responsibility for maintenance and repair. This responsibility is contingent upon neither party being directly responsible for the cable's damage due to causes beyond their control.",
+    "contradiction_score": 0.06983937323093414,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 13648,
+    "end_char": 13660,
+    "original": "Segment S4W:",
+    "modified": "Segment S4W (Revised):\n\nThe Supplier shall be exclusively responsible for ensuring that the Products provided under this Agreement comply with all Applicable Laws, including but not limited to the Product Safety and Quality Standards. In the event that any such non-compliance is discovered by the Customer or any third party during the Term of this Agreement, the Supplier shall promptly take appropriate remedial action at its own cost and expense to rectify the situation and prevent any recurrence. However, if the Supplier is unable to effectively remedy the non-compliance within a reasonable time frame, the Customer may, at its sole discretion, terminate this Agreement and seek compensation for any damages suffered as a result of such non-compliance, subject to the provisions regarding limitation of liability in Section S3.5 of this Agreement.\n\nOriginal Clause:\nSegment S4W:\n\nThe Supplier shall ensure that Products provided under this Agreement comply with all Applicable Laws and Product Safety and Quality Standards. If any such non-compliance is discovered during the Term of this Agreement, the Supplier will promptly take remedial action at its own cost and expense to rectify the situation and prevent recurrence. The Customer's sole remedy for non-compliance shall be termination of this Agreement upon providing written notice to the Supplier and seeking compensation for any damages suffered, subject to the limitations on liability in Section S3.5.",
+    "contradiction_score": 0.5776598453521729,
+    "kept": true
+  },
+  {
+    "clause_index": 61,
+    "start_char": 15376,
+    "end_char": 15547,
+    "original": "The whole of the submarine cable containing four (4) optical fiber  pairs, provided between and including the Network Interface at the Terminal  Station at Katong and BU4.",
+    "ollama_generated": "The aforementioned submarine cable consisting of four (4) optical fiber pairs, shall extend from BU4 to the Network Interface located at the Terminal Station in Katong, and it is understood that this entire infrastructure is to be maintained and operated by the party receiving it.",
+    "contradiction_score": 0.002125816186890006,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 19352,
+    "end_char": 19646,
+    "original": "3.5 Any Party not represented at a Management Committee meeting, but entitled to vote, may vote on any matter on the agenda of such a meeting by either appointing a proxy in writing or giving notice of such vote to the Chairman prior to the submission of such matters for vote at such meetings.",
+    "ollama_generated": "3.5 In the event that a Party entitled to vote at a Management Committee meeting is unable to attend, they may delegate their voting rights by appointing a proxy in writing or, alternatively, shall be permitted to cast their vote on any matter on the agenda of such a meeting, provided they communicate their decision to the Chairman prior to the commencement of the vote at said meetings. This clause now implies that non-attendance is more permissive but still requires communication for voting rights to be exercised.",
+    "contradiction_score": 0.005385017022490501,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 23690,
+    "end_char": 23862,
+    "original": "4.3 Ownership of the Wet Segment shall be as shown in Schedule B to this Agreement.  The Wet Segment of APCN 2 shall be owned by the Parties in common and undivided shares.",
+    "modified": "4.3 The ownership rights regarding the Wet Segment, as outlined in Schedule B of this Agreement, will be individually held by each Party. However, it is important to note that all Parties acknowledge shared but separate interests in the Wet Segment of APCN 2.\n\nThis revised clause clarifies that while ownership rights are divided among the parties according to Schedule B, their individual shares are not united or combined but remain distinct and separate.",
+    "contradiction_score": 0.763671875,
+    "kept": true
+  },
+  {
+    "clause_index": 89,
+    "start_char": 24484,
+    "end_char": 24720,
+    "original": "4.7 The PG shall ensure that the Supply Contract shall afford them or their designated representatives reasonable rights of access to examine, test, and inspect the APCN 2 cable equipment, material, supplies and installation activities.",
+    "modified": "4.7 The APCN 2 is responsible for granting the PG, or their authorized representatives, the right to have regular and necessary access for examination, testing, and inspection of the APCN 2 cable equipment, materials, supplies, and installation activities, subject to reasonable notice and any safety protocols that may apply.",
+    "contradiction_score": 0.851239800453186,
+    "kept": true
+  },
+  {
+    "clause_index": 92,
+    "start_char": 26081,
+    "end_char": 26373,
+    "original": "(i) the performance of the Supply Contract by the Supplier (ii) the performance or reliability of the Wet Segment, or (iii) that APCN 2 shall be integrated or placed into operation and the Parties hereby agree that nothing in this Agreement shall be construed as such a warranty or guarantee.",
+    "ollama_generated": "(i) Notwithstanding the performance of the Supply Contract by the Supplier, the Parties acknowledge that any issues arising from the performance or reliability of the Wet Segment, or the integration and operation of APCN 2, shall not be attributed as a breach of this Agreement, nor shall it be considered as an implied warranty or guarantee on the part of any Party.\n\nThis revised clause clarifies that any problems related to the performance of the Wet Segment or the integration and operation of APCN 2 will not be construed as a breach of the agreement by any party, nor will it imply a warranty or guarantee regarding these specific aspects.",
+    "contradiction_score": 0.0267474465072155,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 29382,
+    "end_char": 29727,
+    "original": "5.2 For purposes of this Agreement, the cost of the repair or replacement of any part of the APCN 2 in the event of damage or loss arising during construction, laying, burying installing and the bringing into operation of the APCN 2, which is attributable under the Supply Contract to the Parties, shall be regarded as part of the Capital Costs.",
+    "modified": "5.2 In accordance with this Agreement, any expenses incurred for the repair or replacement of any component within the APCN 2 due to damage or loss that occurs during construction, laying, burying, installing, and the activation of the APCN 2, which are found to be liable under the Supply Contract by either Party, will now encompass these costs as recoverable expenses rather than Capital Costs.",
+    "contradiction_score": 0.9882956743240356,
+    "kept": true
+  },
+  {
+    "clause_index": 99,
+    "start_char": 33166,
+    "end_char": 33335,
+    "original": "7. ALLOCATION AND BILLING OF APCN 2 COSTS 7.1 The APCN2 Capital Costs as defined in Paragraph 5 shall be borne by the Parties in the proportions set forth in Schedule B.",
+    "ollama_generated": "7. ALLOCATION AND CHARGING OF APCN 2 EXPENSES\n\n7.1 The APCN2 Operating Costs, as defined in Paragraph 5, shall be equally distributed among the Parties, unless otherwise specified in Schedule B or mutually agreed upon in writing by all Parties. Any excess costs beyond the equal share of each Party shall be borne individually by the Party causing the additional expense.\n\nThis modification shifts responsibility for excess costs beyond equal shares from all parties to the individual party causing the additional expense, effectively weakening the obligation on other parties.",
+    "contradiction_score": 0.29286351799964905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 33437,
+    "end_char": 33554,
+    "original": "7.2 The O&M Costs as defined in Paragraph 6 shall be borne by the Parties in the proportions set forth in Schedule B.",
+    "ollama_generated": "7.2 As stated in Paragraph 6 (Definitions), the responsibility for bearing the O&M Costs will be shared by the Parties according to the allocated percentages detailed in Schedule B. This allocation may not exceed the individual capacity of each Party, as mutually agreed upon.",
+    "contradiction_score": 0.005307149142026901,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 34981,
+    "end_char": 35740,
+    "original": "7.5 Unless the Management Committee authorizes changes to the procedure for the rendering of bills associated with the Capital Costs or O&M Costs, the CBP shall promptly render bills, in accordance with this Paragraph 7 and the billing and payment procedures established by the F&ASC and approved by the Management Committee, to each of the Parties for such Parties\u2019 pro rata shares of these costs.  Such bills shall be rendered by the CBP not more frequently than quarterly and shall contain a reasonable amount of detail to substantiate them.  On the basis of such bills, each Party shall pay the CBP, such amounts as may be owed by the end of the calendar month following the calendar month in which the bill was rendered, on the date specified by the CBP.",
+    "ollama_generated": "7.5 The Parties retain the discretionary authority to propose modifications in the process of billing related to Capital Costs and O&M Costs, which the Management Committee may or may not approve. In the absence of such authorization, the CBP shall provide bills at its convenience, adhering to this Paragraph 7 and the billing and payment procedures previously approved by the F&ASC and the Management Committee, for each Party's proportionate share of these costs. The frequency of these bills may exceed quarterly, and while they should contain sufficient detail to validate them, the CBP has discretion in determining the level of detail provided. Each Party is responsible for settling any outstanding amounts with the CBP by the end of the month following the receipt of the bill, on a date specified by the CBP.",
+    "contradiction_score": 0.3934801518917084,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 43529,
+    "end_char": 43993,
+    "original": "9.7 With respect to the operation and maintenance costs of Segments T and the Wet Segment, such books, records, vouchers, and accounts of costs, as are relevant, shall be kept and maintained by the Terminal Parties for a period of five (5) years from the date on which the corresponding bills are rendered to the Parties.  If a Terminal Party does not retain these records beyond this period, a summary of important items should be retained for the life of APCN 2.",
+    "ollama_generated": "9.7 Regarding the operational and maintenance expenses associated with Segments T and the Wet Segment, each Terminal Party shall preserve and maintain relevant books, records, vouchers, and accounts of costs for a period no shorter than five (5) years following the generation of bills presented to the Parties. The onus is now on the receiving Parties to request and secure any necessary documentation beyond this five-year period, should they deem it essential for the lifespan of APCN 2. If a Terminal Party chooses not to retain these records past this period, they shall be prepared to provide a comprehensive summary of significant items for as long as APCN 2 is active.",
+    "contradiction_score": 0.0048719896003603935,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 45786,
+    "end_char": 47098,
+    "original": "10.3 Prior to the RFS Date the MAs shall submit for review by the O&MSC and approval by the Management Committee appropriate practices and procedures for the continued operation and maintenance of the Wet Segment.  The MAs shall each provide information to the O&MSC regarding the practices and procedures for the continued operation and maintenance of their respective Segments.  The MAs shall also furnish such budgetary estimates of the cost of such operation and maintenance of the APCN 2 as the Management Committee may reasonably request.  Following the RFS Date, the MAs shall provide the O&MSC and the Management Committee with such reports as it may reasonably require on the operation of the APCN 2 including any proposals for planned repair or improvement work, together with appropriately revised budgetary estimates relating to the operation and maintenance of the APCN 2.  The O&MSC may review and amend the practices and procedures for the operation and maintenance of the Wet Segment, subject to the approval of the Management Committee.  To facilitate in the maintenance of the APCN 2, the MAs may revise the allocation of responsibilities amongst themselves for the Wet Segment between the Cable Landing Points and any such decision shall be subject to the approval of the Management Committee.",
+    "ollama_generated": "10.3 By the RFS Date, the MAs are expected to propose, for review by the O&MSC and subsequent approval from the Management Committee, operational and maintenance strategies for the ongoing management of the Wet Segment. Each MA shall share their respective strategies with the O&MSC, as well as any budgetary estimates for the operation and upkeep of APCN 2 that the Management Committee deems necessary. Post-RFS Date, the MAs are required to submit reports on the functioning of APCN 2 to the O&MSC and the Management Committee, including any suggested repair or improvement plans, along with revised budgetary estimates for the operation and maintenance of APCN 2. The O&MSC retains the right to amend the operational and maintenance strategies for the Wet Segment, subject to the approval of the Management Committee. To streamline the maintenance process of APCN 2, the MAs may reallocate responsibilities within their group regarding the Wet Segment between the Cable Landing Points; such decisions are subject to the approval of the Management Committee.",
+    "contradiction_score": 0.07581218332052231,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 48198,
+    "end_char": 48791,
+    "original": "10.5 Notwithstanding Paragraph 32, each MA shall be authorized to pursue claims in its own name, on behalf of the Parties, in the event of any damage or loss to the APCN 2 and may file appropriate lawsuits or other proceedings on behalf of the Parties.  The MA shall immediately inform the Management Committee and comply with any direction therefrom.  Subject to obtaining the prior concurrence of the Management Committee, a MA may settle or compromise any such claims and execute releases and settlement agreements on behalf of the Parties as necessary to effect a settlement or compromise.",
+    "ollama_generated": "10.5 Contrary to Paragraph 32, each Management Agent (MA) shall retain the right to defend claims in its own interest, acting on behalf of the Parties, should there be any harm or loss sustained by the APCN 2. The MA is obliged to promptly notify the Management Committee and adhere to any instructions received. However, with the prior approval from the Management Committee, an MA may negotiate and agree upon a resolution or settlement for such claims, as well as execute relevant releases and settlement agreements \u2013 all actions being undertaken on behalf of the Parties.",
+    "contradiction_score": 0.0016215060604736209,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 49061,
+    "end_char": 49701,
+    "original": "Each Maintenance Authority shall have prompt access necessary for the performance of its 10.7 [Missing] interruption.  if the MA responsible, as specified in this Paragraph 10, fails to restore those facilities to efficient working order and operation within a reasonable time after having been called upon to do so by any other Party to whom capacity is assigned by this Agreement, the Management Committee may, to the extent that it is practical to do so, place, or cause to be placed, such facilities in efficient working order and operation and charge the Parties their proportionate shares of the costs reasonably incurred in doing so.",
+    "ollama_generated": "Each Maintenance Authority shall ensure a swift and unimpeded access required for the execution of its 10.7 [Missing] duties, at its own discretion and convenience. If, however, a specified Maintenance Authority under Paragraph 10 fails to restore the assigned facilities to an operational state of acceptable efficiency within a reasonable timeframe following a request from any other Party as defined by this Agreement, the Management Committee retains the right, but not the obligation, to delay action and instead assess whether it is feasible to take responsibility for restoring those facilities. If it is deemed practical to do so, the Management Committee may choose not to act, allowing the defaulting Maintenance Authority to rectify the issue at its own expense. In the event that no remedial action is taken by the Maintenance Authority, the Management Committee may then, as a last resort, assume responsibility for placing or causing to be placed those facilities in an operational state and bill the Parties accordingly for any costs reasonably incurred in this process.",
+    "contradiction_score": 0.03295871615409851,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 49701,
+    "end_char": 50201,
+    "original": "10.8 Each Party to this Agreement, at its own expense, shall have the right to inspect from time to time the operation and maintenance of any portion of the APCN 2 and to obtain copies of the maintenance records.  For this purpose, the Maintenance Authority shall retain significant records, for a period of not less than five (5) years from the date of the record.  If these records are destroyed at the end of this period, a summary of important items should be retained for the life of the APCN 2.",
+    "ollama_generated": "10.8 The Maintenance Authority, at its discretion and expense, shall permit each Party to this Agreement, upon reasonable notice, to inspect from time to time the operation and maintenance of any portion of the APCN 2. However, the Maintenance Authority is not obligated to produce or retain copies of maintenance records unless expressly requested by a Party in writing. If such records are produced, they shall be retained for a period of not less than five (5) years from the date of the record, after which they may be destroyed. Any important items summarized from these records shall be retained by the Maintenance Authority for the life of the APCN 2. The burden of proving the importance of any records or information lies with the Party requesting access.",
+    "contradiction_score": 0.011257706210017204,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 50201,
+    "end_char": 50565,
+    "original": "10.9 The MAs shall be entitled to establish the necessary agreements in respect of the crossings by the Wet Segment of other undersea plant, including but not limited to pipelines, and may sign these agreements on behalf of the Parties after approval by the Management Committee and shall provide the Parties with appropriate copies of these agreements on request.",
+    "ollama_generated": "10.9 The Parties grant the MAs discretionary authority to negotiate and execute necessary agreements concerning the passage of third-party undersea infrastructure, such as pipelines, through the Wet Segment. Such agreements shall be binding upon the Parties following approval by the Management Committee. The MAs shall retain the responsibility to share copies of these executed agreements with the Parties upon request. However, the absence of a signed agreement shall not prevent the Parties from permitting passage of such undersea infrastructure, subject to compliance with applicable laws and regulations.",
+    "contradiction_score": 0.01583886705338955,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 53364,
+    "end_char": 53761,
+    "original": "11.6 In the event of a sale or other disposition of Segment T1, T2,T3, T4, T5, T6, T7, T8, T9 and T10, or part thereof prior to the termination of this Agreement, the owner shall share with the other Parties hereto any net proceeds, or costs, of such sale or disposition received, or expended, by the owner, to the extent allocable to the Capital Costs, in the proportions set forth in Schedule B.",
+    "ollama_generated": "11.6 In the event that this Agreement persists beyond a potential sale or other transfer of Segments T1, T2, T3, T4, T5, T6, T7, T8, T9 and T10, or any part thereof, the transferee shall be responsible for reimbursing the other Parties hereto, in the proportions set forth in Schedule B, any net proceeds, or costs, associated with such sale or transfer that are attributable to Capital Costs.",
+    "contradiction_score": 0.09633633494377136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 54737,
+    "end_char": 55270,
+    "original": "(i) Jointly Assigned Circuit (hereinafter referred to as \u201cJAC\u201d) which shall be considered as consisting of two half STM-I circuits, with one half STM-1 circuit assigned to a Party, which together with the corresponding half STM-1 circuit, shall be used for the provision of international telecommunications services between such a Party and another Carrier that has received the right of use pursuant to this Paragraph 12 or an APCN 2 IRU purchaser.  Any alteration to the JAC is subject to bilateral agreement between both Carriers.",
+    "modified": "(i) The Jointly Assigned Circuit (hereafter referred to as \"JAC\") is defined as comprising two half STM-I circuits, with each Party having exclusive access to one half STM-1 circuit. However, the responsibility for maintaining the integrity and functionality of the entire JAC lies equally between both Parties. Either Party may make modifications to their respective half STM-1 circuits without requiring prior consent from the other, provided that such alterations do not compromise the overall efficiency of the JAC or the international telecommunications services provided by either Party to another Carrier or an APCN 2 IRU purchaser. Any significant changes affecting both halves of the JAC require mutual agreement between both Parties prior to implementation.",
+    "contradiction_score": 0.8019928932189941,
+    "kept": true
+  },
+  {
+    "clause_index": 143,
+    "start_char": 55423,
+    "end_char": 55714,
+    "original": "USE OF WHOLLY ASSIGNED CIRCUIT 12.6 A Party is allowed to use its WAC for the provision of international telecommunications services with itself, its Subsidiary, its Parent Company and/or the Subsidiary of the Party\u2019s Parent Company provided that the correspondent parties are also Carriers.",
+    "ollama_generated": "12.6 USAGE OF WHOLLY ASSIGNED CIRCUIT: A Party is hereby granted authorization to utilize its Wholly Assigned Capacity (WAC) for the rendering of international telecommunications services, not limited to self, Subsidiary, Parent Company, or the Subsidiary of the other Party's Parent Company. However, it is important to note that this privilege extends only when the involved parties fulfill the prerequisite condition of being recognized Carriers. In such cases, no explicit prior consent from the other party shall be required for service provision.",
+    "contradiction_score": 0.021463755518198013,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 56439,
+    "end_char": 56685,
+    "original": "PORTABILITY OF CAPACITY 12.9 A Party is allowed to de-assign its JAC and/or WAC to its Allocated Capacity provided that bilateral agreement is given by the concerned Camera and according to the guidelines to be developed by the AR&RSC and the NA.",
+    "ollama_generated": "12.9. The Party retains the right to reassign its allocated Joint Account (JAC) and/or Work Area Control (WAC), subject to the receiving approval of the affected Camera, as per the conditions set forth in agreements mutually negotiated. The guidelines for such transfers shall be established jointly by the AR&RSC and the NA, with primary responsibility on the Party seeking reassignment to demonstrate compliance with these guidelines.",
+    "contradiction_score": 0.002837043721228838,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 58967,
+    "end_char": 59193,
+    "original": "12.17 IRU Capacity will be sold at the MJU level.  Such IRU Capacity will be sold from the Unallocated Capacity.  Proceeds from the sale of such IRU Capacity shall be used to fund the Expansion of the APCN 2 Equipped Capacity.",
+    "modified": "12.17 The Purchaser may opt to acquire IRU Capacity, which will be sourced from the Unallocated Capacity. Any proceeds derived from such sales of IRU Capacity shall not be obligated for the Expansion of the APCN 2 Equipped Capacity, but rather, may be utilized at the discretion of the Seller.",
+    "contradiction_score": 0.9898508787155151,
+    "kept": true
+  },
+  {
+    "clause_index": 155,
+    "start_char": 59216,
+    "end_char": 59333,
+    "original": "12.18 A Party or IRU purchaser may use its MIU with itself, another Party, or IRU purchaser to form matched circuits.",
+    "ollama_generated": "12.18 Neither a Party nor an IRU Purchaser shall be prohibited from utilizing their MIU for establishing matched circuits with themselves, other Parties, or IRU Purchasers; however, the responsibility for ensuring compliance with all applicable laws and regulations pertaining to such usage lies solely with the parties involved.",
+    "contradiction_score": 0.002574504353106022,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 60710,
+    "end_char": 61066,
+    "original": "12.22 Notwithstanding any other provisions in this Paragraph 12, when the Equipped Capacity is expanded to six (6) times of Initial Equipped Capacity or three (3) years after the RFS date whichever comes first, any Party is entitled to make available any of its Allocated Capacity for use by other Carriers on any commercial basis without any restrictions.",
+    "modified": "12.22 Notwithstanding any other provisions in this Paragraph 12, should the Equipped Capacity remain unchanged from the Initial Equipped Capacity or exceed two (2) times of the Initial Equipped Capacity for a duration of three (3) years following the RFS date, no Party shall be obligated to make available any of its Allocated Capacity for use by other Carriers on any commercial basis without prior consent and subject to mutually agreed restrictions.",
+    "contradiction_score": 0.9908598065376282,
+    "kept": true
+  },
+  {
+    "clause_index": 169,
+    "start_char": 65443,
+    "end_char": 65940,
+    "original": "15. OBLIGATION TO PROVIDE TRANSITING FACILIT IES TO EXTEND APCN2 CAPACITY TO EXTEND APCN 2 CAPACITY 15.1 The Terminal Parties shall use all reasonable efforts to provide and maintain or cause to be provided and maintained in working order for the duration of this Agreement, the necessary transit facilities within their respective Countries as may be reasonably required for extending capacity in the APCN 2 so as to provide connections to the other international cables\u2019 transmission facilities.",
+    "ollama_generated": "15. REASONABLE DISCRETION IN PROVISION OF TRANSIT FACILITIES FOR APCN2 CAPACITY EXTENSION\n\n15.1 The Terminal Parties shall, at their discretion and to the extent they deem reasonable under the circumstances, make an effort to provide or ensure the provision of, and maintain in good working order for the term of this Agreement, necessary transit facilities within their respective Countries, as may be necessary to enable capacity expansion on the APCN 2. Such provisions shall be aimed at facilitating connections to the other international cables' transmission facilities, subject to any applicable laws or regulations.\n\nThis revised clause weaker the obligation of the Terminal Parties by introducing the term \"reasonable discretion\" and making it clear that the provision of transit facilities is subject to their assessment of what is reasonable under the circumstances, as well as compliance with any applicable laws or regulations. Additionally, the clause clarifies that the connections facilitated are merely \"enabled,\" not guaranteed, which further weakens the obligation.",
+    "contradiction_score": 0.05491861328482628,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 170,
+    "start_char": 65940,
+    "end_char": 66478,
+    "original": "15.2 The facilities provided pursuant to Subparagraph 15.1 shall be suitable for extending capacity in the APCN 2 of all payload types as defined in Subparagraph 15.3 and shall be furnished and maintained on terms and conditions which shall be no less favorable than those granted to another Carrier for transmission facilities of similar type and quantity transiting the location involved.  Such terms and conditions shall not be inconsistent with applicable governmental regulations in the Countries in which the facilities are located.",
+    "modified": "15.2 The facilities offered under Subparagraph 15.1 shall not be obligated to cater specifically to extending capacity for every payload type within APCN 2, as defined in Subparagraph 15.3. Instead, they may accommodate these payloads, subject to terms and conditions. These terms and conditions will aim to be competitive but need not necessarily surpass those provided to other Carriers for facilities of comparable type and volume passing through the same location. It is understood that these terms shall remain consistent with applicable governmental regulations in the countries where these facilities are stationed, unless explicitly stated otherwise.",
+    "contradiction_score": 0.705469012260437,
+    "kept": true
+  },
+  {
+    "clause_index": 180,
+    "start_char": 69911,
+    "end_char": 70129,
+    "original": "18.3 After the Initial Period of twenty-five (25) years, decommissioning can be implemented by agreement of a number of Parties representing at least two-thirds (66.67%) of the voting interests specified in Schedule B.",
+    "modified": "18.3 Following the Initial Period of twenty-five (25) years, decommissioning may be initiated by agreement among Parties collectively holding at least one-third (33.33%) of the voting interests outlined in Schedule B, provided that no single Party has the authority to unilaterally trigger such action.",
+    "contradiction_score": 0.8862643241882324,
+    "kept": true
+  },
+  {
+    "clause_index": 186,
+    "start_char": 72345,
+    "end_char": 73424,
+    "original": "18.7 Unless the Management Committee shall otherwise determine, a Party\u2019s termination of its participation in this Agreement or the termination of this Agreement, pursuant to Subparagraph 18.1, shall not relieve that Party or the Parties hereto from any liabilities arising from events occurring before a Party\u2019s termination on account of claims made by third parties in respect of such facilities or any part thereof and damages or compensation payable on account of such claims, or obligations which may arise in relation to the APCN 2 due to any law, order or regulation made by any government or supranational legal authority pursuant to any international convention, treaty or agreement.  Any such liabilities or costs incurred or benefits accruing in satisfying such obligations shall be divided among the Parties hereto in the proportions in which such Parties, interests are specified in Schedule B immediately preceding the time a Party terminates its participation in this Agreement or this Agreement is terminated pursuant to Subparagraph 18.1, whichever occurs first.",
+    "ollama_generated": "18.7 Except where explicitly decided otherwise by the Management Committee, the termination of a Party's involvement in this Agreement, as outlined in Subparagraph 18.1, will not exempt that Party or the other Parties from any liabilities stemming from incidents occurring prior to the termination, with regards to potential claims made by third parties regarding the facilities or any portion thereof, and any ensuing damages, compensation, or penalties resulting from such claims. Furthermore, any obligations arising from laws, orders, regulations, international conventions, treaties, or agreements due to the APCN 2 may still be imposed upon the Parties, regardless of termination.\n\nAny liabilities or costs incurred or benefits gained while fulfilling these obligations will be distributed among the Parties based on the proportions outlined for their respective interests in Schedule B at the time a Party ceases participation in this Agreement or it is terminated under Subparagraph 18.1, whichever occurs first. In essence, this clause stipulates that termination does not absolve the Parties from responsibilities incurred prior to said termination, and costs associated with these obligations will be shared according to the proportions specified in Schedule B at the time of termination.",
+    "contradiction_score": 0.0020230296067893505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 197,
+    "start_char": 77790,
+    "end_char": 77973,
+    "original": "(a) a successor of that Party\u037e (b) a Parent Company of that Party\u037e (e) a Subsidiary or Affiliate of that Party\u037e and (d) another Subsidiary or Affiliate of that Party\u2019s Parent Company.",
+    "ollama_generated": "(a) an entity which has assumed the obligations of the original Party under a merger or acquisition; (b) a company that holds a controlling interest in the original Party; (c) a separate entity that is controlled, directly or indirectly, by the original Party; and (d) an entity controlled, directly or indirectly, by the Parent Company of the original Party.",
+    "contradiction_score": 0.054786186665296555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 204,
+    "start_char": 81863,
+    "end_char": 82223,
+    "original": "23.3 Notwithstanding Subparagraph 23.2, reclamation of a Terminal Party\u2019s capacity will not release the Terminal Party from providing, operating and maintaining its respective Terminal Station until a reasonable agreement is negotiated in order to ensure the continuous operation of the said Terminal Party\u2019s Terminal Station after reclamation of its capacity.",
+    "ollama_generated": "23.3 In contrast to Subparagraph 23.2, the act of reclaiming a Terminal Party's capacity does not absolve them from the obligation to continue providing, operating, and maintaining their respective Terminal Station until a mutually acceptable agreement regarding post-reclamation operation can be reached. This is essential for ensuring the uninterrupted functioning of the said Terminal Party's Terminal Station following their capacity reclamation.",
+    "contradiction_score": 0.0007357335998676717,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 212,
+    "start_char": 85822,
+    "end_char": 86123,
+    "original": "28.3 Subparagraphs 28.1 and 28.2 shall not apply to any Schedule or Annex modified in accordance with other provisions of this Agreement, and any Schedule or Annex so modified shall be deemed to be part of this Agreement in substitution for the immediately preceding version of that Schedule or Annex.",
+    "ollama_generated": "28.3 The amendments made to Subparagraphs 28.1 and 28.2 within other provisions of this Agreement shall override their applicability to any previously established Schedule or Annex, effectively superseding the existing versions. Any modified Schedule or Annex thereby replaces its predecessor as an integral component of this Agreement.",
+    "contradiction_score": 0.014725220389664173,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 216,
+    "start_char": 86760,
+    "end_char": 87064,
+    "original": "31. CONFIDENTIALITY 31.1 All data and information that is acquired or received by any Party in connection with the APCN 2 in anticipation of or under this Agreement shall be held confidential and shall not be divulged in any way to any third party, without the prior approval of the Management Committee.",
+    "modified": "31. DISCLOSURE OF CONFIDENTIAL INFORMATION\n31.1 Any Party receiving or acquiring data or information in relation to the APCN 2 during the term of this Agreement shall be permitted, but not obligated, to share such information with third parties, provided that prior consent for such disclosure has been expressly obtained from the Management Committee.",
+    "contradiction_score": 0.9173364639282227,
+    "kept": true
+  },
+  {
+    "clause_index": 218,
+    "start_char": 87193,
+    "end_char": 87593,
+    "original": "(i) the extent required by any applicable laws, or the requirements of any recognized stock exchange in compliance with its rules and regulations or in the case of a Party wholly owned by a sovereign government, by the rules of governance of the Party\u037e or (ii) any government agency lawfully requesting such information\u037e or (iii) any Court of competent jurisdiction acting in pursuance of its powers.",
+    "ollama_generated": "(i) To the extent necessary for compliance with applicable laws, the rules and regulations of any recognized stock exchange, or the governance rules of a Party wholly owned by a sovereign government; or (ii) in response to a lawful request from any government agency for such information; or (iii) upon order by any Court of competent jurisdiction exercising its powers.\n\nIn this version, the changes are subtle but significant:\n- The obligation has been weakened slightly by using \"to the extent necessary\" instead of \"the extent required.\" This means that while compliance is still required, it can be minimized if possible.\n- The order has been inverted so that the subject (Party) now only needs to comply when responding to a request or order, rather than proactively.\n- Responsibility for initiating the disclosure has been shifted from the Party to the government agency or court.",
+    "contradiction_score": 0.012563052587211132,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 222,
+    "start_char": 88518,
+    "end_char": 88869,
+    "original": "32.2 If any claim is brought against a Party in connection with the APCN 2, the Party shall, as a condition of reimbursement under Subparagraph 32.1, give written notice thereof to the Management Committee as soon as practicable and shall not admit liability nor settle, adjust or compromise the claim without the approval of the Management Committee.",
+    "ollama_generated": "32.2 In the event that a Party faces any claim connected with the APCN 2, they are expected to promptly inform the Management Committee in writing about such claim. However, it is not mandatory for the Party to admit liability or reach a settlement, adjustment, or compromise concerning the claim unless approved by the Management Committee prior to such action. This provision does not restrict the Party from defending themselves against the claim.",
+    "contradiction_score": 0.0019415669376030564,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 223,
+    "start_char": 88869,
+    "end_char": 89145,
+    "original": "32.3 Before any Party brings a claim against any third party in respect of loss or damage to any part of the APCN 2, it shall first consult with the Management Committee and shall not settle, adjust, or compromise such a claim without the approval of the Management Committee.",
+    "ollama_generated": "32.3 Prior to any Party initiating a claim against a third party regarding loss or damage to any component of the APCN 2, they are strongly encouraged to seek advice from the Management Committee. Any settlement, adjustment, or compromise of such a claim requires the explicit written consent of the Management Committee prior to execution. However, the absence of such consent shall not prevent the Party from taking immediate action necessary to protect its interests.",
+    "contradiction_score": 0.0008681226754561067,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 89349,
+    "end_char": 89542,
+    "original": "32.5 Costs, expenses, damages, or compensation payable to the Parties on account of claims made against third parties shall be shared by the Parties in the proportions as set out in Schedule B.",
+    "modified": "32.5 In the event that either Party incurs costs, expenses, damages, or compensation resulting from claims brought by third parties, such liabilities shall initially be borne individually by each Party, with potential for subsequent reimbursement according to the proportions outlined in Schedule B, subject to the terms set forth therein.",
+    "contradiction_score": 0.7300316691398621,
+    "kept": true
+  },
+  {
+    "clause_index": 228,
+    "start_char": 90799,
+    "end_char": 90853,
+    "original": "For and on behalf of Advantage Telecommunications Ltd.",
+    "ollama_generated": "On behalf, and with the authority, of Advantage Telecommunications Ltd., I act herein.\n\nIn this revised version, the agent's role is more explicitly defined as an authorized representative, subtly implying a delegation of responsibility rather than a direct obligation.",
+    "contradiction_score": 0.00175179960206151,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 232,
+    "start_char": 91289,
+    "end_char": 91398,
+    "original": "For and on behalf of KDD Corporation For and on behalf of Korea Telecom For and on behalf of KPN Telecom B.V.",
+    "ollama_generated": "This Agreement is entered into by and on behalf of each of the following parties: KDD Corporation, Korea Telecom, and KPN Telecom B.V., with the understanding that should any disputes arise, each party will be solely responsible for resolving such disputes within their respective jurisdictions, without recourse to the other parties involved.",
+    "contradiction_score": 0.0026343308854848146,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 233,
+    "start_char": 91398,
+    "end_char": 91452,
+    "original": "For and on behalf of Layer 2 Communications Group Ltd.",
+    "ollama_generated": "Acting exclusively as the authorized agent for Layer 2 Communications Group Ltd., and with full authority to bind the company contractually:\n\nThis rewritten clause emphasizes that the individual or party acting has been given explicit authorization by Layer 2 Communications Group Ltd. to act on its behalf, and can enter into legally binding agreements using the company's name. However, it subtly shifts responsibility from the company directly to the individual or party acting on its behalf.",
+    "contradiction_score": 0.0029073383193463087,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 237,
+    "start_char": 92017,
+    "end_char": 92291,
+    "original": "For and on behalf of Telekom Malaysia Berhad (128740-P) For and on behalf of Telstra Global Networks Limited For and on behalf of Williams Communications, Inc., For and on behalf of APT Satellite Telecommunications Limited For and on behalf of Bayan Telecommunications, Inc.",
+    "ollama_generated": "The undersigned hereby acts as an agent, duly authorized, for the mutual benefit of Telekom Malaysia Berhad (128740-P), Telstra Global Networks Limited, Williams Communications, Inc., APT Satellite Telecommunications Limited, and Bayan Telecommunications, Inc. The obligations and responsibilities under this agreement shall be collectively shared among the aforementioned parties, with no single party held solely accountable unless otherwise specified in writing.",
+    "contradiction_score": 0.004997519310563803,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 240,
+    "start_char": 92523,
+    "end_char": 92636,
+    "original": "For and on behalf of Eastern Telecommunications Philippines, Incorporated For and on behalf of Global Access Ltd.",
+    "ollama_generated": "On behalf of Eastern Telecommunications Philippines, Incorporated, as well as in a representative capacity for Global Access Ltd.\n\nThis subtle modification shifts the responsibility from both parties being representatives to one party (Eastern Telecommunications Philippines) representing both parties.",
+    "contradiction_score": 0.0054819961078464985,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 241,
+    "start_char": 92636,
+    "end_char": 92676,
+    "original": "For and on behalf of Globe Telecom, Inc.",
+    "ollama_generated": "Acting expressly as the Agent for Globe Telecom, Inc., in such capacity.\n\nExplanation: The original clause establishes that the party involved is acting for Globe Telecom, Inc. In the rewritten version, the agent's role has been clarified by stating that they are acting \"in such capacity,\" which subtly implies a more limited scope of authority or responsibility compared to the original clause.",
+    "contradiction_score": 0.0353560708463192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 242,
+    "start_char": 92676,
+    "end_char": 92715,
+    "original": "For and on behalf of GNG Networks. Inc.",
+    "ollama_generated": "Acting by, through, and under the authority granted by GNG Networks, Inc.:\n\nThis change slightly shifts the responsibility from an explicit statement that the individual is representing GNG Networks, to a more indirect implication that their actions are authorized by the company. This subtly conveys the same meaning but introduces a slight level of detachment or delegation in the representation.",
+    "contradiction_score": 0.002081705257296562,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 92715,
+    "end_char": 92965,
+    "original": "For and on behalf of GTE Intelligent Network Service Incorporated For and on behalf of PT Indosat (Persero) Tbk For and on behalf of Maxis International Sdn.  Bhd For and on behalf of New World Telephone Limited For and on behalf of NTT Com Asia Ltd.",
+    "ollama_generated": "In the name of, and acting for the benefit of, each of GTE Intelligent Network Service Incorporated, PT Indosat (Persero) Tbk, Maxis International Sdn. Bhd, New World Telephone Limited, and NTT Com Asia Ltd, collectively referred to as \"the Parties\", it is mutually agreed that:\n\nIn the event of any obligations or responsibilities arising under this Agreement, each Party shall fulfill such obligations to the best of their individual ability, but shall not be held liable for any failure or delay in performance attributable to reasons beyond their reasonable control.",
+    "contradiction_score": 0.007820838131010532,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

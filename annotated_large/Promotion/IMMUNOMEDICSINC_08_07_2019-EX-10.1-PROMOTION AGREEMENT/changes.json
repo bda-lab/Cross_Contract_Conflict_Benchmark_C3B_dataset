@@ -1,0 +1,934 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 288,
+    "end_char": 306,
+    "original": "IMMUNOMEDICS, INC.",
+    "ollama_generated": "IMMUNOMEDICS, INC., shall endeavor to fulfill its obligations with due diligence and professionalism; however, it shall not be held liable for any unforeseen circumstances, acts of God, or third-party interference that may impact the performance of its duties. The onus of proving such exceptional circumstances shall rest upon the party claiming exemption from liability.",
+    "contradiction_score": 0.013389074243605137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 4224,
+    "end_char": 4366,
+    "original": "ARTICLE I DEFINITIONS Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings set forth in this Article I.",
+    "modified": "ARTICLE I INTERPRETATION\nFor the purposes of this Agreement, unless a different meaning is explicitly provided elsewhere, capitalized terms shall not be construed to have any specific definition as set forth in this Article I. Instead, parties are encouraged to clarify and agree upon the meanings of such terms as may be necessary for the proper understanding and execution of this Agreement.",
+    "contradiction_score": 0.9446961283683777,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 4492,
+    "end_char": 4811,
+    "original": "1.3 \u201cAction \u201d means any claim, action, cause of action or suit (whether in contract or tort or otherwise), litigation (whether at law or in equity, whether civil or criminal), assessment, arbitration, investigation, hearing, charge, complaint, demand, notice or proceeding from, by or before any Governmental Authority.",
+    "modified": "1.3 \"Proceedings\" encompass any claim, action, cause of action, suit (contractual, tortious or otherwise), litigation (at law or in equity, civil or criminal), assessment, arbitration, investigation, hearing, charge, complaint, demand, notice, or inquiry initiated by, against, or involving any Party, arising from or in connection with the Performance of this Agreement, brought before or by any Regulatory Authority.\n\nIn this revised clause, the term \"Proceedings\" is broader than the original \"Action,\" and it includes inquiries initiated by a party to the agreement, which were not covered in the original clause. Additionally, the changed clause now refers to a \"Party\" rather than a Governmental Authority as the possible initiator of some proceedings, thus shifting some potential responsibility or liability from the government to the parties involved in the agreement.",
+    "contradiction_score": 0.5109707117080688,
+    "kept": true
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6019,
+    "end_char": 6088,
+    "original": "1.10 \u201cBalversa-only  Target \u201d has the meaning set forth in Exhibit B.",
+    "ollama_generated": "1.10 \"Exhibit B shall define the term 'Target eligible for Balversa Therapy.'\"\n\nThis revision subtly shifts the responsibility of defining the term from the party using it (\"Balversa-only Target\") to an external document (Exhibit B). The meaning remains essentially the same, but the change in wording reflects a slight shift in responsibility.",
+    "contradiction_score": 0.008590569719672203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 6335,
+    "end_char": 6505,
+    "original": "1.15 \u201cBusiness  Day\u201d means any day other than a Saturday or a Sunday or other day on which commercial banks are authorized or required to be closed in New York, New York.",
+    "ollama_generated": "1.15 \"Business Day\" is defined as any weekday that is not a recognized bank holiday in New York, New York, including Saturdays and Sundays when such days fall within the commercial banking calendar. This broadened definition encompasses instances where transactions are permitted or required to be executed, regardless of whether banks themselves are authorized or obligated to operate on those specific days.",
+    "contradiction_score": 0.29785144329071045,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 6505,
+    "end_char": 6982,
+    "original": "1.16 \u201cCalendar  Quarter \u201d means a calendar quarter based on that certain universal calendar system used by Janssen and each of its Affiliates for internal business purposes (a copy of which calendar for 2019 and 2020 is attached hereto as Schedule 1.16 ), such that each Calendar Quarter ends on the last date of the calendar quarter indicated on Schedule 1.16  (the \u201c Quarter End Date \u201d) and begins on the date following the Quarter End Date of the preceding Calendar Quarter.",
+    "ollama_generated": "1.16 \"Fiscal Quarter\" refers to a fiscal quarter as defined by Janssen's and its Affiliates' common fiscal calendar system (a copy of which is provided as Schedule 1.16 for the years 2019 and 2020), where each Fiscal Quarter concludes on a date determined according to this shared fiscal calendar (herein referred to as the \"Fiscal Year-End Date\"), and commences on the day immediately following the Fiscal Year-End Date of the previous Fiscal Quarter. Notably, the Fiscal Quarter dates may not align exactly with the standard calendar quarters, as this fiscal calendar is used for internal business purposes and may vary slightly from the universal calendar system.",
+    "contradiction_score": 0.4035695195198059,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 7692,
+    "end_char": 7768,
+    "original": "1.20 \u201cCPR Mediation Procedure \u201d has the meaning set forth in Section 13.3.1.",
+    "ollama_generated": "1.20 The term \"CPR Mediation Procedure,\" as used herein, shall be defined according to the provisions detailed in Section 13.3.1, but parties shall have discretion not to adhere strictly to these guidelines, should circumstances warrant a more flexible approach.\n\nChanges made: The new clause allows for some flexibility or discretion in following the CPR Mediation Procedure, as opposed to the original clause where it was defined strictly.",
+    "contradiction_score": 0.012783653102815151,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 7975,
+    "end_char": 8051,
+    "original": "1.23 \u201cCompany \u201d has the meaning set forth in the preamble to this Agreement.",
+    "ollama_generated": "1.23 For the purposes of this Agreement, the term \"Company\" shall be understood as that identified within the introductory portion herein.",
+    "contradiction_score": 0.0009298220975324512,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 8601,
+    "end_char": 8745,
+    "original": "1.26 \u201cCompany  Product \u201d means the drug that is being developed by Company on the Effective Date, known as \u201cIMMU- 132\u201d or sacituzumab govitecan.",
+    "ollama_generated": "1.26 \"Company Product\" refers to the pharmaceutical substance currently in development by the Company as of the Effective Date, alternatively identified as \"IMMU-132\" or sacituzumab govitecan, which may encompass any subsequent variations, derivatives, or improvements of this drug that the Company might develop during the term of this agreement.",
+    "contradiction_score": 0.0012426774483174086,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 11931,
+    "end_char": 12165,
+    "original": "1.34 \u201cDetailing  Period \u201d means each of the following periods: (a) the period beginning on the Start Date and ending on September 30, 2019\u037e (b) October 1, 2019 through December 31, 2019\u037e and (c) January 1, 2020 through March 31, 2020.",
+    "ollama_generated": "1.34 \"Detailed Time Frames\" denote the following successive intervals: (a) spanning from the Start Date to September 30, 2019; (b) commencing on October 1, 2019 and concluding on December 31, 2019; and (c) encompassing January 1, 2020 to March 31, 2020. Notably, the parties may consider these intervals as flexible, with potential extensions beyond their stated end dates if agreed upon mutually.",
+    "contradiction_score": 0.010520915500819683,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 12165,
+    "end_char": 12866,
+    "original": "1.35 \u201cDiligent  Efforts \u201d means, with respect to an activity to be undertaken by a Party pursuant to this Agreement, the level of efforts and resources normally used by such Party with respect to a pharmaceutical product owned or controlled by such Party, or to which such Party has similar rights, which product is of similar market potential and strategic value and is at a similar stage in its development or life as is the Product, taking into account all relevant factors, including issues of safety, efficacy, product profile, the competitiveness of the marketplace, the proprietary position of the Product, regulatory matters, profitability of the Product and other relevant commercial factors.",
+    "ollama_generated": "1.35 \"Minimum Required Efforts\" denotes, in regard to an action required under this Agreement by a Party, the minimum level of efforts and resources customarily allocated by such Party for a pharmaceutical product that they possess or have controlling rights over, or similar rights, which product shares comparable market potential, strategic importance, and developmental/lifecycle stage as the Product. This assessment takes into account all pertinent factors, including considerations of safety, efficacy, product characteristics, market competitiveness, proprietary status of the Product, regulatory aspects, profitability of the Product, and other relevant commercial elements. The allocated efforts are not expected to exceed the typical exertion when dealing with such a product under normal business circumstances.",
+    "contradiction_score": 0.001583928125910461,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 12941,
+    "end_char": 13000,
+    "original": "1.37 \u201cDisputes \u201d has the meaning set forth in Section 13.1.",
+    "ollama_generated": "1.37 \"Disputes\", as defined in Section 13.1, shall not be solely attributable to either Party and will require good faith negotiations between the Parties prior to resorting to any formal dispute resolution process.",
+    "contradiction_score": 0.0026396969333291054,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 13953,
+    "end_char": 14437,
+    "original": "1.46 \u201cGovernmental  Authority \u201d means any government (including any national, federal, state or local government), or political subdivision thereof, or any multinational or other organization, authority, agency or commission entitled to exercise any administrative, executive, judicial, legislative, police, regulatory or taxing authority or power, any court or tribunal, or any governmental arbitrator or arbitral body (or any department, bureau or division of any of the foregoing).",
+    "ollama_generated": "1.46 \"Authority of Government\" refers to any international, federal, state, or local governing body, political subdivision, organization, agency, commission, tribunal, court, arbitrator, or arbitral body with the authority to exercise executive, legislative, judicial, administrative, regulatory, policing, or taxing powers. This also includes departments, bureaus, or divisions of any such entity.\n\nThis revised clause maintains a similar structure but slightly modifies the emphasis by using \"Authority of Government\" instead of \"Governmental Authority.\" This change subtly suggests that the scope may extend beyond traditional government entities to other authoritative bodies.",
+    "contradiction_score": 0.01965467259287834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 14707,
+    "end_char": 15532,
+    "original": "1.50 \u201cInitial  Indication \u201d means the first indication for which the Product receives Marketing Approval in the Territory, which the Parties expect to be treatment of adult patients with locally advanced or metastatic urothelial carcinoma which has (a) susceptible FGFR 3 or 2 genetic alterations and (b) progressed during or following at least one line of prior platinum-containing chemotherapy including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy, where patients are selected for therapy based on an FDA-approved companion diagnostic for the Product\u037e provided , however , that, with respect to any such indication for which the Product receives Marketing Approval from the FDA, \u201cInitial Indication\u201d shall be defined by the exact wording used in the Product Label and Insert as so approved.",
+    "ollama_generated": "1.50 \"Primary Approved Use\" denotes the initial use for which the Product obtains Market Authorization within the Territory, a scenario anticipated to primarily target adult patients suffering from locally advanced or metastatic urothelial carcinoma. This patient population is expected to present with (a) FGFR 3 or 2 genetic alterations and (b) evidence of progression after at least one prior line of platinum-containing chemotherapy, including within a 12-month window following neoadjuvant or adjuvant platinum-containing chemotherapy. The selection of patients for therapy will be contingent upon the utilization of an FDA-approved companion diagnostic for the Product. However, it is important to note that for any indication where the Product receives U.S. Food and Drug Administration (FDA) approval, the term \"Primary Approved Use\" shall strictly adhere to the precise terminology as stated in the approved Product Label and Insert.\n\nIn this version, the meaning of the clause has been slightly changed by using a more patient-centric approach in describing the condition for which the product can be used, while also ensuring clarity in the definition of the term \"Primary Approved Use\" according to FDA-approved labeling.",
+    "contradiction_score": 0.006189872045069933,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 17181,
+    "end_char": 17267,
+    "original": "1.62 \u201cMinimum Number of Details Requirement \u201d has the meaning set forth in Exhibit B .",
+    "ollama_generated": "1.62 \"Maximum Permissible Flexibility Regarding Details\" is defined as detailed in Exhibit B.\n\nExplanation: This revised clause shifts the focus from a strict requirement of a minimum number of details to a more flexible allowance of maximum permissible flexibility regarding details, implying that there may be fewer details required than previously stated.",
+    "contradiction_score": 0.12723875045776367,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 17268,
+    "end_char": 17340,
+    "original": "1.63 \u201cMinimum PDE Requirement \u201d has the meaning set forth in Exhibit B .",
+    "ollama_generated": "1.63 \"Minimum Permitted Deviations (PDE)\" as defined in Exhibit B shall serve as the maximum limit for any deviation from specified requirements.\n\nThis change weakens the obligation by defining the PDE as a maximum limit instead of a minimum, which implies that parties can deviate beyond this limit under certain circumstances, as long as it's not more than what is defined in Exhibit B.",
+    "contradiction_score": 0.1730954349040985,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 17495,
+    "end_char": 17678,
+    "original": "1.66 \u201cNDA \u201d means, with respect to any product, a New Drug Application for such product and all supplements to such New Drug Application filed pursuant to the requirements of the FDA.",
+    "ollama_generated": "1.66 \"NDA\" denotes, in reference to any given product, not only the initial New Drug Application but also any subsequent amendments or updates to such application as may be necessitated by the Food and Drug Administration (FDA) regulations. This includes, but is not limited to, all supplements and modifications filed in compliance with the FDA's requirements.",
+    "contradiction_score": 0.001296066795475781,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 17790,
+    "end_char": 17887,
+    "original": "1.69 \u201cParty \u201d means each of Janssen and Company, which together are referred to as the \u201cParties\u201d.",
+    "ollama_generated": "1.70 \"Party\" refers individually to Janssen or Company, with the understanding that they collectively constitute the \"Primary Party\". Other entities may be associated with the Primary Party in this agreement and shall be considered \"Associated Parties.\"",
+    "contradiction_score": 0.42040491104125977,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 17957,
+    "end_char": 18118,
+    "original": "1.71 \u201cPayee  Party \u201d means, with regards to a payment pursuant to this Agreement, the Party that receives such payment from the other Party under this Agreement.",
+    "modified": "1.71 \"Payer Party\" refers, in relation to any payment under this Agreement, to the Party making such a payment to the other under this Agreement. This provision effectively places the responsibility for initiating payments on the Party designated as the \"Payer Party\".",
+    "contradiction_score": 0.7344042658805847,
+    "kept": true
+  },
+  {
+    "clause_index": 77,
+    "start_char": 18118,
+    "end_char": 18275,
+    "original": "1.72 \u201cPaying  Party \u201d means, with regards to a payment pursuant to this Agreement, the Party that makes such payment to the other Party under this Agreement.",
+    "modified": "1.72 \"Receiving Party\" denotes, in reference to a payment made under this Agreement, the Party who is set to receive such payment from the other Party as stipulated herein. This alteration places the focus on the recipient instead of the payer, subtly shifting the responsibility of initiating the payment.",
+    "contradiction_score": 0.9645296335220337,
+    "kept": true
+  },
+  {
+    "clause_index": 81,
+    "start_char": 19005,
+    "end_char": 19058,
+    "original": "1.76 \u201cPMS \u201d has the meaning set forth in Section 6.4.",
+    "ollama_generated": "1.76 The term \"PMS\", as used herein, shall be defined in accordance with the stipulations provided in Section 6.4. (This phrasing suggests that while the definition of PMS can be found in Section 6.4, it may not be immediately apparent or easily accessible within the document.)",
+    "contradiction_score": 0.002756460104137659,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 19058,
+    "end_char": 19413,
+    "original": "1.77 \u201cProduct \u201d means any or each of the tablets containing erdafitinib as its sole active ingredient in a dosage amount of 3 mg, 4 mg or 5 mg and that is currently expected to be approved by the FDA for the Initial Indication, as currently manufactured by or on behalf of Janssen or its Affiliate and planned to be marketed under the trademark BALVERSA\u2122.",
+    "ollama_generated": "1.77 \"Authorized Product\" refers to any individual tablet containing erdafitinib as its primary active component, in concentrations of 3 mg, 4 mg, or 5 mg, and which, while not necessarily already FDA-approved for the Initial Indication at the time of this agreement, is expected to receive such approval and will be produced by Janssen or its Affiliate. This product is intended to be commercialized under the trademark BALVERSA\u2122, subject to any changes in trademark rights that may occur during the term of this contract.",
+    "contradiction_score": 0.00957034807652235,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 20625,
+    "end_char": 20909,
+    "original": "1.82 \u201cPromotion \u201d means the (a) Detailing of the Product in the Territory for the Initial Indication and (b) performance of the other promotional activities for the Product set forth in the Brand Plan. \u201cPromote\u201d and \u201cPromoting,\u201d when used as a verb, means to engage in such Promotion.",
+    "ollama_generated": "1.82 \"Promotion\" denotes the (a) Inclusion of the Product within the Territory for the Initial Indication and (b) execution of other promotional actions specified in the Brand Plan. \"To promote\" or \"promoting,\" when used as a verb, signifies to elect to undertake such Promotion at one's own discretion and judgement. This alteration implies that the party responsible for the promotion has the option to choose which promotional activities they will carry out.",
+    "contradiction_score": 0.0021284238900989294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 20909,
+    "end_char": 21278,
+    "original": "1.83 \u201cPromotion  Rules \u201d means: (a) the PhRMA Code on Interactions with Health Care Professionals\u037e and (b) upon reasonable notice by Janssen to Company, any other similar rules, policies or procedures with respect to the promotion of pharmaceutical products in the Territory that Janssen deems necessary or advisable to follow (including Janssen\u2019s compliance policies).",
+    "ollama_generated": "1.83 \"Promotion Guidelines\" refers to: (a) the PhRMA Code on Interactions with Health Care Professionals; and (b) any other rules, policies, or procedures regarding the promotion of pharmaceutical products in the Territory that Company is required to adhere to at Janssen's discretion, should they be deemed necessary or advisable by Janssen for compliance purposes. This includes but is not limited to Janssen's internal regulations and guidelines on promotional activities.",
+    "contradiction_score": 0.1248609721660614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 21287,
+    "end_char": 21361,
+    "original": "1.84 \u201cPromotional  Materials \u201d has the meaning set forth in Section 3.4.2.",
+    "ollama_generated": "1.84 The term \"Promotional Materials,\" as utilized throughout this Agreement, shall refer to its definition provided in Section 3.4.2. However, it is noted that any misinterpretation or discrepancy regarding the scope and application of said Promotional Materials shall be resolved in favor of the Party responsible for their creation and distribution.",
+    "contradiction_score": 0.0015103037003427744,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 23067,
+    "end_char": 23282,
+    "original": "1.94 \u201cStart Date \u201d means the first date upon which Sales Representatives are able to Detail the Product in accordance with this Agreement and as approved by Janssen, which may be before, on or after the Launch Date.",
+    "modified": "1.94 \"Commencement Date\" denotes the initial day when, at the discretion of Sales Representatives and subject to their own readiness, they commence detailing the Product in compliance with this Agreement, following Janssen's approval, which may occur prior to, on or after the Launch Date. The onus for ensuring readiness lies primarily with the Sales Representatives.",
+    "contradiction_score": 0.6854989528656006,
+    "kept": true
+  },
+  {
+    "clause_index": 105,
+    "start_char": 24123,
+    "end_char": 24221,
+    "original": "1.100  \u201cTerritory \u201d means the United States of America, including its territories and possessions.",
+    "modified": "1.100 \"Territory\" refers to any jurisdiction where the Company has an established presence, whether directly or through a subsidiary, affiliate, or third-party contractor, excluding such entities' territories and possessions. This may include, but is not limited to, the United States of America and its territories and possessions.",
+    "contradiction_score": 0.9903906583786011,
+    "kept": true
+  },
+  {
+    "clause_index": 108,
+    "start_char": 24489,
+    "end_char": 24570,
+    "original": "1.103  \u201cTraining Activities Plan \u201d has the meaning set forth in Section 2.2.2(a).",
+    "ollama_generated": "1.103 \"The Training Activities Plan,\" as defined in Section 2.2.2(a), shall not be deemed exhaustive or limiting in scope, and may be subject to reasonable amendments by the Parties at their discretion.\n\nIn this version, the original clause has been weakened slightly by adding a phrase that implies the Training Activities Plan may be subject to change at either party's discretion. This could potentially provide more flexibility in implementing the plan.",
+    "contradiction_score": 0.022206515073776245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 26110,
+    "end_char": 26686,
+    "original": "(x) the name of each Target to which the Sales Representatives will perform Details\u037e and (y) the priority classification of each such Target (high, medium or low). Such list, as amended from time to time by Janssen, shall be the \u201cTarget List\u201d. Janssen shall furnish with or as part of the Target List the claims data upon which the Target priority classification was based if (a) Janssen is able to obtain an agreement with the relevant Third Party to provide such data to Company and (b) the Parties agree on which Party will bear the costs of providing such data to Company.",
+    "ollama_generated": "(x) The specific Targets upon which the Sales Representatives will concentrate, as well as their priority level (high, medium, or low), collectively referred to as the \"Prioritized Target List\". It is understood that the Prioritized Target List may be modified by Janssen at any time. Janssen shall not be obligated to provide claims data associated with these Targets unless: (a) Janssen can secure the approval of the relevant Third Party to disclose such data to the Company, and (b) there is a mutual agreement between the Parties regarding who will bear the costs related to obtaining and sharing such data. The Company acknowledges that it may incur expenses in acquiring this information.",
+    "contradiction_score": 0.04494684934616089,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 33567,
+    "end_char": 33944,
+    "original": "3.2.3 Effects of Failure to Meet Minimum Detailing Requirements.  If Company fails to achieve the Minimum Number of Details Requirement, the Minimum Reach Requirement or, if applicable, the Minimum PDE Requirement or the Minimum Top Target Requirement in any Detailing Period, Janssen shall have the right to terminate this Agreement by giving thirty (30) days\u2019 notice, unless:",
+    "ollama_generated": "3.2.3 Consequences of Meeting Minimum Detailing Requirements. If Company successfully meets or exceeds the Minimum Number of Details Requirement, the Minimum Reach Requirement, or, if applicable, the Minimum PDE Requirement or the Minimum Top Target Requirement in any Detailing Period, Janssen shall have the obligation to extend this Agreement for an additional period of thirty (30) days, unless:\n\nIn this revised clause, the original requirement has been inverted. Instead of the agreement being terminated if the company fails to meet certain requirements, it will now be extended if the company meets or exceeds them. This gives the company a stronger position within the agreement.",
+    "contradiction_score": 0.3127598166465759,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 35347,
+    "end_char": 35925,
+    "original": "(a) No later than [***] ([***]) Business Days following the end of each month during the Term, Company shall report to Janssen the number of Details performed (and any other information necessary to determine whether the requirements set forth in Section 3.2.2 and Exhibit B have been satisfied) during such month by the Sales Representatives in accordance with this Agreement and the Call Plan, as reported by the Company Internal Detail Reporting System. The Joint Commercial Team shall review and discuss Company\u2019s performance of its Detailing obligations on a monthly basis.",
+    "ollama_generated": "(a) In accordance with this Agreement and the Call Plan, Company's Sales Representatives shall provide reports detailing the number of Details performed during each month of the Term, no earlier than [***] Business Days following the commencement of the subsequent month. These reports should include all necessary information for Janssen to evaluate whether the requirements specified in Section 3.2.2 and Exhibit B have been met. The onus is on Company to ensure the accuracy and completeness of these reports, which will be generated by their Internal Detail Reporting System. The Joint Commercial Team will conduct a monthly review and discussion of Company's adherence to its Detailing obligations, if necessary. In other words, the responsibility for promptly addressing any potential discrepancies lies primarily with Company.",
+    "contradiction_score": 0.009866702370345592,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 41928,
+    "end_char": 42291,
+    "original": "3.4.4 Revisions . Janssen may revise, update or develop additional Promotional Materials from time to time during the Term, as deemed necessary and appropriate by Janssen, including based on: (i) changes in the Product Label and Insert\u037e (ii) requirements or mandates of the FDA or other Regulatory Authorities or any Laws\u037e or (iii) changes in the Promotion Rules.",
+    "ollama_generated": "3.4.4 Amendments to Promotional Materials . The Recipient is hereby obligated, upon request by Janssen, to update, modify, or supplement the provided Promotional Materials as necessary and at Janssen's discretion throughout the Term. Such amendments may be prompted by: (i) alterations in the Product Label and Insert; (ii) directives or guidelines of the FDA or other Regulatory Bodies, or any applicable Laws; or (iii) adjustments to the Promotion Guidelines. The Recipient shall bear the responsibility for implementing these amendments in a timely and professional manner.",
+    "contradiction_score": 0.005712724756449461,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 44910,
+    "end_char": 45390,
+    "original": "ARTICLE IV GOVERNANCE 4.1 Authority . Janssen shall have sole decision-making authority with respect to all matters relating to the promotion and Detailing of the Product in the Territory under this Agreement (including making changes to the Brand Plan), but Janssen may not exercise such decision-making authority with respect to a change to the Brand Plan that would materially increase Company\u2019s Detailing obligations or materially increase Company\u2019s non-Detailing obligations.",
+    "ollama_generated": "ARTICLE IV GOVERNANCE 4.1 Authority:\n\nThe Company grants Janssen broad discretionary authority over all matters pertaining to the promotion and Detailing of the Product within the Territory, as outlined in this Agreement (including modifications to the Brand Plan). However, it is understood that Janssen's decision-making power regarding any adjustments to the Brand Plan shall be subject to the condition that such changes do not result in a significant decrease in Company's Detailing responsibilities or a substantial increase in Company's non-Detailing obligations.\n\nThis modification emphasizes that while Janssen maintains the authority to modify the Brand Plan, any such modifications must not impose undue burdens on the Company with regards to its Detailing and non-Detailing obligations.",
+    "contradiction_score": 0.0010051458375528455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 45402,
+    "end_char": 45431,
+    "original": "4.2 Joint  Commercial  Team .",
+    "ollama_generated": "4.2 Collaborative Business Unit Obligations:\n\nTo ensure a harmonious collaboration, each party shall actively participate in the designated Business Unit, contributing their unique expertise and resources, while understanding that neither party is liable for the other's individual contributions or actions within the Business Unit, unless explicitly agreed upon otherwise.",
+    "contradiction_score": 0.011743785813450813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 46151,
+    "end_char": 46882,
+    "original": "4.2.2 Membership . The Joint Commercial Team shall consist of at least three (3) representatives of each Party, appointed by such Party from among its (or its Affiliates\u2019) employees that have a level of experience customary for a committee of this type. Either Party may remove and replace any member that it appointed, with or without cause, at any time by prior notice to the other Party. The Joint Commercial Team shall at all times be chaired by a representative of Janssen. The chairperson shall be responsible for calling meetings, preparing and circulating an agenda in advance of each meeting, and preparing and issuing minutes of each meeting within thirty (30) days thereafter or within a timeframe agreed by the Parties.",
+    "ollama_generated": "4.2.2 Composition of the Joint Commercial Team. The Joint Commercial Team shall comprise no less than three (3) representatives from each Party, chosen by said Party, who possess a level of experience commensurate with that typically found on teams of this nature. Either Party holds the right to terminate and reassign any member they appointed, either for cause or without specifying reasons, upon providing prior written notice to the other Party. The Joint Commercial Team shall at all times be led by a representative from Philips. The chairperson's responsibilities include calling meetings, preparing and disseminating an agenda ahead of each meeting, and issuing minutes within thirty (30) days following the meeting, unless otherwise agreed upon between the Parties, or in case of delay, providing an explanation for the delay to the other Party.",
+    "contradiction_score": 0.18768540024757385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 47413,
+    "end_char": 47629,
+    "original": "4.3.1 Formation\u037e Purpose . Upon request by Janssen, the Parties shall establish a BALVERSA Sales Advisory Team (the \u201cBSAT\u201d). The BSAT will serve solely as an advisory forum and will have no decision-making authority.",
+    "ollama_generated": "4.3.1 Initiation and Role of the BSAT. At Janssen's discretion, a BALVERSA Sales Advisory Team (the \"BSAT\") may be formed by mutual agreement between the Parties. The BSAT shall function primarily as a consultative body and will not exercise any decision-making powers. However, the Parties recognize that recommendations made by the BSAT may be taken into consideration during the course of business decisions.",
+    "contradiction_score": 0.0032742726616561413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 167,
+    "start_char": 49445,
+    "end_char": 50150,
+    "original": "(a) with respect to each Calendar Quarter during Calendar Year 2019, an amount equal to (i) [***] percent ([***]%) of that portion of Cumulative Net Sales that is greater than the Baseline for Calendar Year 2019, less (ii) the total Service Fees that have been invoiced by Company to Janssen for all preceding Calendar Quarters of Calendar Year 2019\u037e and (b) with respect to each Calendar Quarter during Calendar Year 2020, an amount equal to (i) [***] percent ([***]%) of that portion of Cumulative Net Sales that is greater than the Baseline for Calendar Year 2020, less (ii) the total Service Fees that have been invoiced by Company to Janssen for all preceding Calendar Quarters of Calendar Year 2020.",
+    "ollama_generated": "(a) For each Calendar Quarter within Calendar Year 2019, a payment equivalent to (i) [***] percent ([***]%) of the excess amount above the Baseline for Calendar Year 2019 in the Cumulative Net Sales, minus (ii) the total Service Fees paid by Janssen to the Company for all previous Calendar Quarters within Calendar Year 2019. And, (b) for each Calendar Quarter within Calendar Year 2020, a payment equivalent to (i) [***] percent ([***]%) of the excess amount above the Baseline for Calendar Year 2020 in the Cumulative Net Sales, minus (ii) the total Service Fees paid by Janssen to the Company for all previous Calendar Quarters within Calendar Year 2020. The responsibility of payment shifts from the Company to Janssen for any quarters where the amount due is positive according to this clause.",
+    "contradiction_score": 0.03509391471743584,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 51874,
+    "end_char": 52373,
+    "original": "In the event Regulatory Approval of the Product for the Initial Indication in the Territory is delayed beyond May 18, 2019, or in the event commercial availability of the Product is delayed beyond June 1, 2019, Janssen agrees to make proportional adjustments to the Milestone Events in 2019, Milestone Payments in 2019 and the Baseline for 2019 consistent with the period of delay in Regulatory Approval or commercial availability, whichever is greater, as shown in the following sample calculation.",
+    "ollama_generated": "In the event that Regulatory Approval of the Product for the Initial Indication in the Territory has not been obtained by May 18, 2019, or if commercial availability of the Product is not achieved by June 1, 2019, Janssen shall have the discretion to extend the Milestone Events, Milestone Payments for 2019, and adjust the Baseline for 2019 accordingly. The extension period will be equal to the delay in Regulatory Approval or commercial availability, whichever is greater, as illustrated in the following sample calculation provided by Janssen.",
+    "contradiction_score": 0.004202524200081825,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 173,
+    "start_char": 52378,
+    "end_char": 52397,
+    "original": "Sample Calculation:",
+    "ollama_generated": "Computational Procedure:\n\nUpon the occurrence of any Event of Default under this Agreement, Borrower shall have the option to remedy such default within a period of thirty (30) days from the date on which Lender provides written notice of such default. If Borrower fails to remedy such default within said period, then and only then shall Lender be entitled to exercise any rights and remedies available under this Agreement or at law, including acceleration of all amounts outstanding hereunder.\n\nIn contrast:\n\nDefault Resolution Period:\n\nShould any Event of Default take place in accordance with this Agreement, Lender shall afford Borrower a grace period of thirty (30) days, commencing from the date on which written notice of such default is served to Borrower, during which time Borrower may attempt to rectify such default. If, however, Borrower does not remedy the default within this allotted time, Lender reserves the right to pursue any available rights and remedies as stipulated under this Agreement or applicable law, including the acceleration of all outstanding amounts under this Agreement.",
+    "contradiction_score": 0.1680070012807846,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 175,
+    "start_char": 52511,
+    "end_char": 52621,
+    "original": "$[***] - ($[***] X [***] days / [***] days) = $[***] New Milestone Event and Payment for First 2019 Milestone:",
+    "ollama_generated": "$[***] shall not be liable to make any payment until a lapse of ($[***] X [***] days / [***] days) from the occurrence of a new milestone event, hereby designated as $[***] New Milestone Event and Payment for First 2019 Milestone:\n\nIn this revised clause, the original obligation to make a payment has been changed to a liability that is optional and can be exercised only after a specified time lapse from the milestone event. This modification weakens the obligation by giving $[***] the discretion to withhold payment, if desired.",
+    "contradiction_score": 0.029763199388980865,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 177,
+    "start_char": 52645,
+    "end_char": 52705,
+    "original": "$[***] - ($[***]X [***] days / [***] days) = $[***] Payment:",
+    "modified": "\"[**] - (Possible Adjustment of $[***]X by $[***] within $[***] days / Within $[***] days without such adjustment) = $[***] Payment:\n\nIn this revised clause, the payment amount remains the same, but the payer now has the option to adjust the payment by a certain amount within a specified number of days. This change subtly shifts the responsibility from the payee (original clause) to the payer (revised clause).",
+    "contradiction_score": 0.6350282430648804,
+    "kept": true
+  },
+  {
+    "clause_index": 180,
+    "start_char": 53007,
+    "end_char": 53678,
+    "original": "5.5.1 After the end of each Calendar Quarter of Calendar Year 2019 and 2020, Janssen shall calculate in good faith, based on Janssen\u2019s Books and Records and in accordance with Janssen\u2019s customary and consistently-applied accounting practices, the Net Sales in such Calendar Quarter and for such Calendar Year in the aggregate, as well as the Cumulative Net Sales and the Service Fee for such Calendar Quarter. Janssen shall deliver to Company, within thirty (30) days following the last day of such Calendar Quarter, a report setting forth the Cumulative Net Sales, the Service Fee and, if applicable, the Milestone Payment for such Calendar Quarter (the \u201c Fee Notice \u201d).",
+    "ollama_generated": "5.5.1 Commencing from the commencement of each Calendar Quarter in the years 2019 and 2020, Company grants Janssen a grace period of up to thirty (30) days following the end of such Calendar Quarter to calculate, in good faith, the Net Sales for that specific quarter and the aggregate Net Sales for the relevant calendar year, as well as the Cumulative Net Sales and the Service Fee. This calculation shall be based on Janssen\u2019s Books and Records and in accordance with Janssen\u2019s customary and consistently-applied accounting practices.\n\nUpon conclusion of this calculation process, Janssen will be required to deliver a report to Company, within the aforementioned grace period, outlining the Cumulative Net Sales, the Service Fee, and any applicable Milestone Payments for that specific Calendar Quarter (hereafter referred to as the \"Fee Notice\"). It is important to note that this reporting requirement places no obligation on Janssen to make any payments until Company has independently verified and accepted the accuracy of the information provided in the Fee Notice.",
+    "contradiction_score": 0.02430189959704876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 190,
+    "start_char": 56645,
+    "end_char": 57225,
+    "original": "6.1.1 Obligations of Janssen . Janssen, either itself or through one of its Affiliates, shall use Diligent Efforts to obtain Regulatory Approval of the Product for the Initial Indication in the Territory and to maintain the validity of such Regulatory Approval throughout the Term, including the submission of any additional information requested by any Regulatory Authority in connection with such Regulatory Approval. Janssen shall have no obligation to file any application for Regulatory Approval for the Product in respect of any indication other than the Initial Indication.",
+    "modified": "6.1.1 Responsibilities of Janssen. While Janssen, or one of its Affiliates, will make reasonable efforts to secure Regulatory Approval for the Product with the Initial Indication within the Territory and maintain the validity of such approval throughout the Term, it is important to note that these endeavors are to be considered as best efforts, not obligatory ones. Janssen reserves the right to determine its own pace in this process and is under no obligation to submit any application for Regulatory Approval for the Product relating to any indication beyond the Initial Indication, unless explicitly agreed upon in writing. In case of any information requests from Regulatory Authorities concerning Regulatory Approval, Janssen will cooperate to the extent it deems necessary and feasible, but shall not be held responsible for the ultimate outcome or timeline of such approval processes.",
+    "contradiction_score": 0.5131030082702637,
+    "kept": true
+  },
+  {
+    "clause_index": 194,
+    "start_char": 58247,
+    "end_char": 58681,
+    "original": "6.2 Pharmacovigilance  Procedures . The Parties shall comply, and Company shall cause the Sales Representatives and Other Company Employees to comply, with the provisions set forth on Schedule 6.2 , which govern the reporting of adverse events/adverse drug reactions associated with the Product, Product quality complaints associated with adverse events and other information concerning the safety of the Product within the Territory.",
+    "ollama_generated": "6.2 Responsibilities Regarding Pharmacovigilance: The Parties shall endeavor to comply with the procedures outlined in Schedule 6.2, which serve as guidelines for reporting adverse events/adverse drug reactions related to the Product, product quality complaints associated with such adverse events, and other safety-related information regarding the Product within the Territory. It is noted that while the Parties strive for compliance, any deviation from these procedures shall not necessarily be deemed a breach of this agreement, provided that the spirit and intent of the procedures are upheld. The Company retains the right to request additional documentation or explanations in cases where it deems such information necessary to ensure the safety of the Product. Furthermore, while the Sales Representatives and Other Company Employees are encouraged to adhere to these procedures, the ultimate responsibility for compliance lies with the Party directly employing them.",
+    "contradiction_score": 0.016535038128495216,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 195,
+    "start_char": 58681,
+    "end_char": 59578,
+    "original": "6.3 Product  Complaints . Janssen shall have the sole right and responsibility to accept and handle any Product Complaint associated with the use of the Product. Company shall, and shall cause each of its Sales Representatives and Other Company Employees to, notify Janssen as soon as possible, but no later than 24 hours after the time he or she becomes aware of any Product Complaint associated with the Product, which notice shall include the name of the person making such Product Complaint, the Target that prescribed the Product (if any), and the date the relevant Sales Representative or Other Company Employee received such Product Complaint. Details regarding the process for notifying Janssen of any such Product Complaints shall be as set forth in \u201cproduct complaints standard operating procedures\u201d, a copy of which Janssen will provide to Company promptly following the Effective Date.",
+    "ollama_generated": "6.3 Product Complaint Responsibilities: The Company retains the primary responsibility for receiving and addressing any complaints related to the use of the Product. Upon becoming aware of a Product Complaint, Janssen shall be notified as soon as practicable, but no later than 48 hours after awareness. Notification shall include the name of the person filing the complaint, the prescribing Target (if any), and the date the Company became aware of the complaint. Instructions for notifying Janssen about Product Complaints will be outlined in \"product complaints standard operating procedures\", a copy of which the Company will receive from Janssen within a reasonable timeframe following the Effective Date.",
+    "contradiction_score": 0.02408202923834324,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 196,
+    "start_char": 59578,
+    "end_char": 59797,
+    "original": "6.4 Post-Marketing Surveillance . Janssen shall have the sole right to conduct any post marketing surveillance with respect to the Product (\u201c PMS \u201d), whether such PMS is elected by Janssen or required by applicable Law.",
+    "ollama_generated": "6.4 Post-Marketing Surveillance Obligations: The responsibility for conducting any post-marketing surveillance regarding the Product (hereinafter \"PMS\") rests exclusively with the Company, whether such PMS is initiated by the Company or mandated by applicable Law. In this context, the Company shall retain the discretion to elect or forego PMS at its sole discretion.",
+    "contradiction_score": 0.15222389996051788,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 198,
+    "start_char": 60211,
+    "end_char": 60463,
+    "original": "6.6 Companion Diagnostic Inquiries . Company shall direct all inquiries relating to the Companion Diagnostic in accordance with the procedures established by Janssen, a copy of which Janssen will provide to Company promptly following the Approval Date.",
+    "ollama_generated": "6.6 Responses to Companion Diagnostic Inquiries . Upon receiving any inquiries concerning the Companion Diagnostic, the Responsibility for responding shall rest with Company. However, it is expected that the company will follow Janssen's established procedures in this regard, a copy of which will be shared by Janssen post-Approval Date. If necessary, Company may consult with Janssen for guidance on these matters.",
+    "contradiction_score": 0.008389988914132118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 199,
+    "start_char": 60463,
+    "end_char": 60849,
+    "original": "6.7 Access, Affordability and Patient Support Inquiries . Company shall direct all inquiries relating to access, affordability, or patient support for the Product to the dedicated specialty pharmacy responsible for addressing such questions, in accordance with the procedures established by Janssen, a copy of which Janssen will provide to Company promptly following the Effective Date.",
+    "ollama_generated": "6.7 Inquiries Concerning Access, Affordability, and Patient Assistance: The Client bears responsibility for managing all inquiries pertaining to access, affordability, or patient support related to the Product. This includes directing such inquiries to a designated third-party specialist pharmacy, as per the procedures outlined by Janssen. Notably, the Client will be provided with a copy of these established procedures post-Effective Date without undue delay.",
+    "contradiction_score": 0.36375871300697327,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 200,
+    "start_char": 60849,
+    "end_char": 61371,
+    "original": "ARTICLE VII BOOKS, RECORDS AND AUDIT RIGHTS 7.1 Books and Records . Janssen and Company shall each maintain true and complete books and records with respect to the performance of its obligations hereunder, including the Company Internal Detail Reporting System and items underlying all payment obligations and invoices related to this Agreement (the \u201cBooks and Records\u201d). Company shall maintain and manage its Books and Records in accordance with the records and information management requirements set forth on Exhibit C.",
+    "modified": "ARTICLE VII BOOKS, RECORDS AND AUDIT RIGHTS\n\n7.1 Books and Records Modification: Each party, Janssen and Company, shall preserve accurate and comprehensive records relevant to their obligations under this Agreement, including the Company Internal Detail Reporting System and all supporting documents underlying payments and invoices (the \u201cBooks and Records\u201d). The parties acknowledge that they are solely responsible for managing their respective Books and Records in compliance with any applicable requirements as outlined on Exhibit C.\n\nThis revised clause shifts the responsibility of managing the books and records to both parties, making them equally accountable for compliance with the records and information management requirements specified in Exhibit C. This modification may be seen as a weakening of the original obligation placed solely upon Janssen and Company.",
+    "contradiction_score": 0.5511178374290466,
+    "kept": true
+  },
+  {
+    "clause_index": 201,
+    "start_char": 61396,
+    "end_char": 61426,
+    "original": "7.2 Books and Records Audits .",
+    "modified": "7.2 Right to Review Books and Records:\n\nIn lieu of the right to audit Books and Records as stated in Clause 7.2, the Party of Receipt hereby grants the other Party, upon written request and during regular business hours, the reasonable opportunity to inspect and copy any books, records, and documents (collectively, \"Records\") that are in its possession or under its control, pertaining to this Agreement, for a period of seven (7) years following the termination or expiration of this Agreement. The requesting Party shall bear all costs associated with such inspection and copying, including reasonable fees for any third-party assistance needed. In the event that the receiving Party refuses access to Records or provides incomplete or inaccurate Records, the requesting Party may terminate this Agreement immediately upon written notice, without prejudice to any other rights or remedies it may have.",
+    "contradiction_score": 0.6871207356452942,
+    "kept": true
+  },
+  {
+    "clause_index": 209,
+    "start_char": 66370,
+    "end_char": 67019,
+    "original": "8.1.2 Failure or Delay in Obtaining Regulatory Approval . This Agreement may be terminated by either Party, before the date that Marketing Approval has been obtained for the Product for the Initial Indication in the Territory, in the event that Janssen withdraws its application for Marketing Approval for the Product for the Initial Indication in the Territory or is notified by FDA that Janssen\u2019s application for such Marketing Approval in the Territory has been or will be denied. Further, this Agreement may be terminated by either Party in the event that Marketing Approval for the Product in the Territory is not obtained before June 30, 2019.",
+    "ollama_generated": "8.1.2 Non-Obtaining or Delay in Obtaining Regulatory Approval: This Agreement may be continued by both Parties beyond June 30, 2019, even if Marketing Approval for the Product for the Initial Indication in the Territory has not been obtained. However, either Party retains the right to terminate this Agreement at any time prior to the obtaining of such Marketing Approval, should Janssen decide to withdraw its application or be notified by FDA that Janssen\u2019s application for Marketing Approval in the Territory has been or will be denied.",
+    "contradiction_score": 0.043715521693229675,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 212,
+    "start_char": 68369,
+    "end_char": 68899,
+    "original": "8.1.4 Material Breach . This Agreement may be terminated by either Party in the event that the other Party commits a material breach of this Agreement and (a) such breach shall not have been cured within thirty (30) days after the giving of notice of such material breach, unless (i) the specific provision to which such breach relates expressly provides for a different period, or (ii) the Parties mutually agree in writing to an extension of such period (the \u201c Cure  Period \u201d)\u037e or (b) such breach, by its nature, is not curable.",
+    "modified": "8.1.4 Material Breach Termination Clause. Either Party retains the right to immediately terminate this Agreement if: (a) the other Party materially breaches any provision of this Agreement, and such breach persists after receiving a notice; or (b) the nature of the breach is inherently non-curable. In instances where a different cure period is specified for the relevant provision, or where the Parties mutually agree in writing to extend the cure period (the \"Cure Period\"), the original terms shall apply.",
+    "contradiction_score": 0.5131717920303345,
+    "kept": true
+  },
+  {
+    "clause_index": 213,
+    "start_char": 68899,
+    "end_char": 69282,
+    "original": "Unless such breach in clause (a) is cured during the Cure Period, such termination will be effective immediately upon the expiration of the Cure Period without any further action or notice by the non-breaching Party. In the case of a breach in clause (b), such termination will be effective thirty (30) days following written notice of such breach being given to the breaching Party.",
+    "ollama_generated": "Should a violation of clause (a) not be rectified within the specified Cure Period, either party reserves the right to terminate this agreement, with such termination becoming effective upon expiration of the Cure Period, without any subsequent action or notice from the non-breaching Party. In contrast, for any infringement under clause (b), a thirty (30) day period will commence following delivery of written notice to the defaulting party. If said infraction persists after this time, the terminating party may elect to terminate the agreement without additional action or warning.",
+    "contradiction_score": 0.028516514226794243,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 215,
+    "start_char": 69399,
+    "end_char": 69633,
+    "original": "8.1.6 Competing Products . In the event that Company commits a breach of Section 9.2 or Section 9.3, then Janssen shall have the right to terminate this Agreement in its entirety at any time immediately upon written notice to Company.",
+    "ollama_generated": "8.1.6 Competing Products . Should Janssen experience a breach of Sections 9.2 or 9.3, it reserves the option to suspend this Agreement temporarily, pending resolution of the issue, with written notification given to Company. In the event that the breach persists and is not rectified within a reasonable timeframe as determined by Janssen, this Agreement may be terminated in its entirety at any time, effective immediately upon providing further written notice to Company.",
+    "contradiction_score": 0.011513271369040012,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 233,
+    "start_char": 80427,
+    "end_char": 80665,
+    "original": "9.1.3 Exceptions . The obligations of Section 9.1.1 do not apply to any portion of the Confidential Information of a Party (the \u201c Disclosing  Party \u201d) that the other Party (the \u201c Receiving  Party \u201d) can show by competent written evidence:",
+    "ollama_generated": "9.1.3 Exemptions. The responsibilities outlined in Section 9.1.1 shall not extend to any segment of the Confidential Information of a Party (hereinafter referred to as the \"Disclosing Party\") if the Disclosing Party can provide compelling written evidence, satisfactory to the Receiving Party (the \"Receiving Party\"), that such information:\n\n1) has become publicly available through no action or inaction on the part of the Receiving Party; or\n2) was already known by the Receiving Party prior to its disclosure by the Disclosing Party; or\n3) was obtained by the Receiving Party from a third party who had an independent right to disclose such information without breaching any obligation of confidentiality.\n\nIn this revised clause, the burden of proof has shifted from the Receiving Party to the Disclosing Party, as they now need to provide \"compelling written evidence\" that the Confidential Information in question meets one of the specified exceptions. This modification weakens the original obligation by requiring a higher standard of proof before the Receiving Party can be released from its obligations under Section 9.1.1.",
+    "contradiction_score": 0.06021999567747116,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 234,
+    "start_char": 80665,
+    "end_char": 81939,
+    "original": "(a) is already known to the Receiving Party before the time of disclosure by the Disclosing Party, as evidenced by the Receiving Party\u2019s written records made or obtained before the date of disclosure\u037e provided , however , that this clause (a) shall not apply to the reports and data described in the second sentence of Section 9.1.2\u037e (b) is disclosed to the Receiving Party on a non-confidential basis by a Third Party who, to the knowledge of the Receiving Party, is under no obligation to the Disclosing Party (or any of its Affiliates) with respect to confidentiality, secrecy or restriction on the use of such information or data\u037e (c) is now, or hereafter becomes, through no act or failure of the Receiving Party or any of its Affiliates in violation of this Agreement, generally known or available to the public\u037e (d) is independently discovered or developed by or on behalf of the Receiving Party or any of its Affiliates (i) not pursuant to or in connection with this Agreement and (ii) without the use of or reference to the Confidential Information of the Disclosing Party as evidenced by the Receiving Party\u2019s written records\u037e or (e) is publicly disclosed by the Disclosing Party, either before or after it is disclosed to the Receiving Party under this Agreement.",
+    "ollama_generated": "(a) If the Receiving Party can demonstrate through its written records made prior to the disclosure date that they were already aware of the information being disclosed by the Disclosing Party, this clause (a) does not apply. However, this exception does not extend to the reports and data specified in Section 9.1.2.\n   (b) If the Receiving Party has obtained the information or data at hand on a non-confidential basis from a Third Party who is not bound by any confidentiality, secrecy, or use restriction obligations towards the Disclosing Party (or its Affiliates), this clause (b) applies.\n   (c) If the information or data becomes public knowledge due to actions or inactions of the Receiving Party or its Affiliates that do not violate this Agreement, this clause (c) will no longer apply.\n   (d) If the Receiving Party or any of its Affiliates independently discover or develop such information or data without reference to the Disclosing Party's Confidential Information, and without any violation of this Agreement as evidenced by their written records, this clause (d) is inapplicable.\n   (e) If the Disclosing Party makes the information public before or after it is disclosed to the Receiving Party under this Agreement, this clause (e) does not apply to any subsequent claims of confidentiality.",
+    "contradiction_score": 0.45564523339271545,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 239,
+    "start_char": 85485,
+    "end_char": 86556,
+    "original": "9.1.5 Terms of this Agreement . The terms of this Agreement are deemed to be, and shall be treated by each Party as, Confidential Information of each Party. Either Party may disclose the terms of this Agreement and other information relating to this Agreement or the transactions contemplated by this Agreement to the extent required, in the reasonable opinion of such Party\u2019s counsel, to comply with the rules and regulations promulgated by the United States Securities and Exchange Commission, New York Stock Exchange, Nasdaq Stock Market or similar security regulatory authorities or stock market in other countries. If a Party intends to disclose this Agreement or any of its terms or other Confidential Information of the other Party pursuant to this Section 9.1.5, such Party will, except where impracticable or not legally permitted, give reasonable advance notice to the other Party of such disclosure and seek confidential treatment of portions of this Agreement or such terms or information, as may be reasonably requested by the other Party in a timely manner.",
+    "ollama_generated": "9.1.5 Confidentiality Obligations: Each Party acknowledges that the terms of this Agreement, along with any related information, constitute sensitive and proprietary information (hereinafter \"Confidential Information\") belonging to both Parties. However, each Party reserves the right, at its sole discretion, to disclose the Confidential Information to a third party to the extent compelled by law or regulatory requirement, as determined by its legal counsel in good faith. Such disclosure will be made with reasonable notice given to the other Party, unless such notice is impracticable or prohibited by law. The disclosing Party shall make efforts, where legally permissible and practicable, to seek confidential treatment for the Confidential Information disclosed.",
+    "contradiction_score": 0.03219714015722275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 89297,
+    "end_char": 90692,
+    "original": "9.4 Limitation on Soliciting Employees . During the Term, Janssen shall not directly or indirectly solicit for employment any Sales Representative who is an employee of Company, and Company shall not directly or indirectly solicit for employment any employee of Janssen with whom Company has had contact in the course of the evaluation or negotiation of this Agreement or with whom Company interacts during the Term\u037e provided , however , that the foregoing provision will not prohibit either Party from (a) conducting general solicitations of employment in publications (including but not limited to websites, newspapers and/or journals) available to the public, or solicitations through the use of search firms, and which, in any case, are not directed specifically toward such employees of the other Party or (b) any contact with any such employee of the other Party (i) that was initiated by such employee without any solicitation prior thereto by the contacting Party (other than solicitation permitted by clause (a) of this sentence) or (ii) with whom the contacting Party is already in employment discussions as of the Effective Date, or (iii) by any person other than (A) one who was introduced to, or became aware of, the relevant employee of the other Party solely in connection with this Agreement, and (B) one who is acting at the direction or suggestion of a person described in (A).",
+    "ollama_generated": "9.4 Restrictions on Soliciting Employees . Throughout the Term, Janssen is not restricted from directly or indirectly attempting to employ any Sales Representative currently employed by Company, and Company is not permitted to do the same with any employee of Janssen who has been interacted with during the evaluation or negotiation of this Agreement or during the Term; however, this restriction does not apply in situations where either Party:\n\n(a) Publicly disseminates general employment solicitations through publications (e.g., websites, newspapers, and/or journals), or utilizes search firms to make such solicitations, as long as these actions are not specifically targeted at employees of the other Party; or\n(b) Initiates contact with any employee of the other Party in circumstances where:\n   (i) The contact was initiated by that employee without prior solicitation by the contacting Party; or\n   (ii) Such contacting Party is already engaged in employment discussions as of the Effective Date; or\n   (iii) The contact is not made by an individual who became aware of the relevant employee of the other Party solely in connection with this Agreement, and who is not acting at the direction or suggestion of someone who falls under the previous condition.",
+    "contradiction_score": 0.3940059244632721,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 249,
+    "start_char": 93568,
+    "end_char": 94316,
+    "original": "10.4 Enforcement against Infringement . Janssen and Company will each promptly notify the other in writing of any alleged or threatened infringement by a Third Party in the Territory of any intellectual property right of Janssen or its Affiliates claiming or covering the Product or its use in treating urothelial cancer, or any alleged or threatened assertion by a Third Party of invalidity of any of the intellectual property rights of Janssen or its Affiliates claiming or covering the Product or its use in treating urothelial cancer in the Territory, of which such Party becomes aware. Janssen and its Affiliates shall have the sole right (but not the obligation) to prosecute any such infringement in its sole discretion and at its sole cost.",
+    "ollama_generated": "10.4 Responses to Potential Infringements: Each of Janssen and Company retains the discretion, without obligation, to independently assess and decide upon appropriate action when they become aware of any potential infringement by a Third Party within the Territory, concerning any intellectual property right owned or licensed by Janssen or its Affiliates that pertains to the Product or its application in treating urothelial cancer. In such instances, it is expected that each party will promptly provide written notice to the other regarding their discovery. Any actions taken to address these infringements, if elected, will be solely at the expense and initiative of the electing party.",
+    "contradiction_score": 0.0016743253218010068,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 251,
+    "start_char": 95057,
+    "end_char": 95505,
+    "original": "ARTICLE XI REPRESENTATIONS AND WARRANTIES\u037e CERTAIN COVENANTS 11.1 Representations of Authority . Janssen and Company each represents and warrants to the other Party that, as of the Effective Date, it has full right, power and authority to enter into this Agreement and to perform its respective obligations under this Agreement and that it has the right to grant to the other Party the rights granted pursuant to this Agreement as set forth herein.",
+    "ollama_generated": "ARTICLE XI REPRESENTATIONS AND WARRANTIES; CERTAIN COVENANTS\n11.1 Representations of Limitations . Parties B and A each represent and warrant to one another that, as of the Effective Date, any limitations or restrictions preventing either party from entering into this Agreement are either non-existent or have been duly waived or terminated, and each party possesses the full right, power, and authority to execute this Agreement and to fulfill its respective obligations under this Agreement. Furthermore, each party acknowledges and warrants that it has the power to grant the rights granted pursuant to this Agreement as set forth herein to the other party, provided that each party shall be responsible for obtaining any necessary third-party consents or approvals to allow for such grant of rights.",
+    "contradiction_score": 0.18560223281383514,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 254,
+    "start_char": 96324,
+    "end_char": 96638,
+    "original": "11.4 Enforceability . Janssen and Company each represents and warrants to the other Party that, as of the Effective Date, this Agreement is a legal and valid obligation binding upon it and is enforceable against it in accordance with its terms, subject to the laws of bankruptcy, insolvency, and creditors\u2019 rights.",
+    "ollama_generated": "11.4 Enforceability . Each Party, represented by either Janssen or Company, acknowledges and guarantees to the opposing Party that as of the Effective Date, this Agreement constitutes a binding legal commitment, enforceable in accordance with its terms, subject only to applicable bankruptcy, insolvency, and creditor rights' regulations. This implies that neither Party holds any reservations about the legality or validity of this Agreement.",
+    "contradiction_score": 0.0033806581050157547,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 255,
+    "start_char": 96680,
+    "end_char": 96736,
+    "original": "11.5 Sales Representatives and Other Company Employees .",
+    "ollama_generated": "11.5 Responsibilities of Sales Representatives and Company Employees.\n\nIn this revised version, the focus is shifted from an obligation to a statement of responsibilities, subtly altering the dynamic between the parties involved. Here's the breakdown:\n\nOriginal Clause: The clause sets forth the obligations of sales representatives and employees of the company.\nRewritten Clause: This clause outlines the duties and expectations for our Sales Representatives and other members of our team.\n\nIn the original, it suggests a directive or requirement; in the revised version, it implies a more cooperative approach, focusing on what is expected from these individuals rather than their obligations.",
+    "contradiction_score": 0.0692741647362709,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 263,
+    "start_char": 99091,
+    "end_char": 99338,
+    "original": "11.6.3 Company represents and warrants that neither Company, nor any of its employees, officers, directors, or agents, has been debarred by the FDA, is the subject of a conviction described in 21 U.S.C. 335a, or is subject to any similar sanction.",
+    "ollama_generated": "11.6.3 The Company acknowledges and warrants that there are no current or past instances where it, nor any of its employees, officers, directors, or agents, have been voluntarily debarred by the FDA, or are currently serving a conviction as described in 21 U.S.C. 335a, or are subject to any similar self-imposed sanctions.\n\nIn this revised clause, the Company acknowledges and warrants that there are no instances where they have voluntarily debarred themselves from the FDA or served a conviction described in 21 U.S.C. 335a, which slightly weakens the obligation by suggesting that any debarment or convictions were not self-imposed.",
+    "contradiction_score": 0.01519061904400587,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 276,
+    "start_char": 104778,
+    "end_char": 105423,
+    "original": "11.8 Disclaimer . EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS ARTICLE XI, NEITHER JANSSEN NOR COMPANY, NOR ANY OF THEIR AFFILIATES, MAKES ANY REPRESENTATION OR EXTENDS ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, TO THE OTHER PARTY IN CONNECTION WITH THE PRODUCT, AND HEREBY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT WITH RESPECT TO THE PRODUCT. EACH PARTY HEREBY DISCLAIMS ANY REPRESENTATION OR WARRANTY THAT THE EXPLOITATION OF THE PRODUCT PURSUANT TO THIS AGREEMENT WILL BE SUCCESSFUL OR THAT ANY PARTICULAR SALES LEVEL WITH RESPECT TO THE PRODUCT WILL BE ACHIEVED.",
+    "ollama_generated": "11.8 Disclaimer: Beyond the express warranties stated within this Article XI, neither Janssen nor Company, nor any of their affiliates, assume any liability or provide any guarantee, whether expressed or implied, regarding the Product to the opposing party. Specifically, all implied warranties of merchantability, suitability for a particular purpose, and non-infringement concerning the Product are expressly waived by both parties. Furthermore, neither party guarantees nor warrants that the use of the Product in accordance with this Agreement will yield success or achieve any specific sales levels related to the Product.\n\nIn other words, we (Janssen and Company) do not guarantee or warranty anything beyond what is explicitly mentioned within Article XI about the Product. We also relinquish all implied warranties regarding the Product's quality, suitability, and freedom from infringement. Neither party promises that the Product's use will lead to success or any specific sales targets.",
+    "contradiction_score": 0.0015631080605089664,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 280,
+    "start_char": 106919,
+    "end_char": 107277,
+    "original": "12.1.2 Company shall indemnify and hold harmless Janssen, its Affiliates, and its and their respective directors, officers, employees, and agents (collectively, the \u201c Janssen Indemnified Parties \u201d), from, against and in respect of any and all Losses incurred or suffered by the Janssen Indemnified Parties or any of them and arising out of or resulting from:",
+    "modified": "12.1.2 The Indemnifier (Company) will not hold harmless, but instead agrees to defend and compensate the Janssen Indemnified Parties (including their respective directors, officers, employees, and agents), for any and all Losses sustained or incurred by them, caused by or connected with:\n\nThis revised clause shifts the initial responsibility of defense and compensation from the Indemnified Parties to the Indemnifier, altering the obligation slightly while maintaining a professional tone.",
+    "contradiction_score": 0.5838422775268555,
+    "kept": true
+  },
+  {
+    "clause_index": 283,
+    "start_char": 107886,
+    "end_char": 108572,
+    "original": "12.2.1 A Person entitled to indemnification under this Article XII (an \u201c Indemnified  Party \u201d) shall give prompt written notification to the Person from whom indemnification is sought (the \u201c Indemnifying  Party \u201d) of the assertion of any Action by a Third Party for which indemnification may be sought (it being understood and agreed, however, that the failure by an Indemnified Party to give such notice of a Third Party Action as provided in this Section 12.2.1 shall not relieve the Indemnifying Party of its indemnification obligation under this Agreement except and only to the extent that such Indemnifying Party is actually prejudiced as a result of such failure to give notice).",
+    "ollama_generated": "12.2.1 The Indemnifying Party, who is responsible for providing indemnification under Article XII (hereafter referred to as the \"Indemnified Party\"), shall be notified promptly in writing by the Indemnified Party of any potential Third-Party claim that may necessitate indemnification (it is understood and agreed that while a delay by the Indemnified Party in providing such notice regarding a Third-Party Claim, as stipulated in this Section 12.2.1, does not absolve the Indemnifying Party from their indemnification obligations under this Agreement, it may potentially reduce or eliminate their liability if they can demonstrate concrete prejudice resulting from the delay).",
+    "contradiction_score": 0.015984321013092995,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 298,
+    "start_char": 116577,
+    "end_char": 116672,
+    "original": "13.4.1 Language/Location . The arbitration shall be conducted in English in New York, New York.",
+    "ollama_generated": "13.4.1 Language/Location . The parties agree to conduct any potential arbitration proceedings primarily in the English language, but may permit limited use of other languages by mutual consent. The location for such arbitration shall be flexible and determined by the parties involved, with the possibility of New York, New York serving as a default venue if no alternative is agreed upon within a reasonable timeframe.",
+    "contradiction_score": 0.17403987050056458,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 300,
+    "start_char": 116706,
+    "end_char": 117233,
+    "original": "(a) The arbitrators will be chosen from the CPR Panels of Distinguished Neutrals, unless a candidate not on the CPR Panels of Distinguished Neutrals is approved by both Parties. Each arbitrator shall be a lawyer with at least fifteen (15) years\u2019 experience with a law firm or corporate law department of over twenty-five (25) lawyers or who was a judge of a court of general jurisdiction. To the extent that the Dispute requires special expertise, the Parties will so inform CPR prior to the beginning of the selection process.",
+    "ollama_generated": "(a) In the event neither Party is content with a candidate from the CPR Panels of Distinguished Neutrals, they shall have the right to propose an alternative arbitrator, subject to the approval of the other Party. The selected arbitrator must possess a minimum of fifteen (15) years' legal experience, either as a lawyer within a law firm or corporate law department consisting of twenty-five (25) or more attorneys, or as a judge of a court of general jurisdiction. In instances where the Dispute necessitates specialized expertise, it is the responsibility of the Parties to inform CPR about this requirement before the selection process commences. The aim is to ensure a fair and well-informed arbitration process for all parties involved.",
+    "contradiction_score": 0.09431194514036179,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 309,
+    "start_char": 119176,
+    "end_char": 119428,
+    "original": "(a) The arbitrator(s) shall render a written opinion stating the reasons upon which the award is based. The arbitrator(s) may award the costs and expenses of the arbitration as provided in the CPR Rules, but each Party shall bear its own attorney fees.",
+    "ollama_generated": "(a) The arbitrator(s) are empowered to issue a written decision outlining the rationale behind their award, though such explanation is not mandatory. The arbitrator(s) retain discretion in apportioning the costs and expenses of the arbitration as they deem fit, pursuant to the CPR Rules. It is expressly agreed that each party shall be responsible for its own attorney fees.",
+    "contradiction_score": 0.0058624474331736565,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 310,
+    "start_char": 119428,
+    "end_char": 119765,
+    "original": "(b) The award may be entered and enforced in any court of competent jurisdiction. If a court is called upon to enforce an award in a court proceeding, the Parties consent to the court\u2019s requiring the Party resisting enforcement to pay the reasonable attorneys\u2019 fees and costs incurred in that proceeding by the Party seeking enforcement.",
+    "modified": "(b) The receiving party shall retain the discretion to elect which court of competent jurisdiction will be utilized for enforcing the award, should such a need arise. If the non-receiving party instigates an enforcement proceeding in a court, the original parties agree that the enforcing party may recover from the resisting party the reasonable legal fees and costs incurred during said proceedings, subject to the court's discretion for determining what constitutes 'reasonable'.",
+    "contradiction_score": 0.6113675832748413,
+    "kept": true
+  },
+  {
+    "clause_index": 311,
+    "start_char": 119765,
+    "end_char": 120424,
+    "original": "13.4.6 Provisional Relief . Any Party may seek emergency, interim, or provisional relief prior to the appointment of the arbitrator(s) from any court of competent jurisdiction, without waiver of the agreements to mediate and arbitrate. After appointment of the arbitrator(s), any request for emergency, interim, or provisional relief shall either be addressed to the arbitrator(s), which shall have the power to enter an interim award granting relief using the standards provided by applicable law, or to a court, but only with the permission of the arbitrator(s). Any interim award of the arbitrator(s) may be enforced in any court of competent jurisdiction.",
+    "modified": "13.4.6 Emergency Relief Provisions. Either Party has the right to seek emergency, interim, or provisional relief prior to the appointment of the arbitrator(s) from any court of competent jurisdiction. This action shall not be construed as a waiver of the agreements to mediate and arbitrate. Upon appointment of the arbitrator(s), any request for emergency, interim, or provisional relief must first be addressed to the arbitrator(s) for their consideration; should they deem it necessary, the arbitrator(s) shall have the power to enter an interim award denying relief until the completion of the arbitration proceedings. If the arbitrator(s) decide not to consider the request, the Party seeking relief may then seek it from a court, but only with the express consent of the arbitrator(s). Any interim award issued by the arbitrator(s) shall not be enforceable until after the conclusion of the arbitration proceedings and the issuance of a final award. In case the arbitrator(s) decline to consider the request or the final award has been issued, any previously issued interim award may be enforced in any court of competent jurisdiction.",
+    "contradiction_score": 0.6364838480949402,
+    "kept": true
+  },
+  {
+    "clause_index": 313,
+    "start_char": 120748,
+    "end_char": 120941,
+    "original": "13.5 Confidentiality . All proceedings and decisions of the mediator(s) and/or arbitrator(s) shall be deemed Confidential Information of each of the Parties and shall be subject to Section 9.1.",
+    "ollama_generated": "13.5 Confidentiality (Revised). Each Party acknowledges that any disclosure made during the mediation or arbitration process by the mediator(s) and/or arbitrator(s) constitutes privileged information, to be kept confidential only by the recipient Party, subject to their discretion as permitted by Section 9.1. The burden of maintaining confidentiality in this context shall primarily rest with the receiving Party.",
+    "contradiction_score": 0.029693160206079483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 316,
+    "start_char": 123893,
+    "end_char": 124682,
+    "original": "14.3 Independent Contractors . Nothing in this Agreement shall create or imply an association, partnership, or joint venture between the Parties, it being agreed and understood that the Parties are independent contractors\u037e and neither Party, with respect to a Third Party, shall have the power or authority to bind or obligate the other Party in any way. Neither Party shall have any responsibility for the hiring, termination or compensation of the other Party\u2019s employees or for any employee benefits of such employee. No employee or representative of a Party shall have any authority to bind or obligate the other Party to this Agreement for any sum or in any manner whatsoever, or to create or impose any contractual or other liability on the other Party without said Party\u2019s approval.",
+    "ollama_generated": "14.3 Independent Contractual Relationship: This Agreement does not establish a professional alliance, partnership, or joint venture among the Parties; rather, each Party acknowledges and agrees that they are separate entities acting as independent contractors. Consequently, neither Party possesses the ability to bind or obligate the other, in relation to third parties, with regard to any aspect of this Agreement, or create or impose liabilities on the other without prior explicit consent. Furthermore, neither Party holds any obligation towards the hiring, dismissal, or remuneration of the other's employees, nor for any employee benefits associated therewith.",
+    "contradiction_score": 0.019640324637293816,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 317,
+    "start_char": 124682,
+    "end_char": 125447,
+    "original": "14.4 Performance by Affiliates . To the extent that this Agreement purports to impose obligations on the Affiliates of a Party, such Party agrees to cause its Affiliates to perform such obligations. Company shall not use an Affiliate to exercise any of its rights or perform any of its obligations or duties hereunder without Janssen\u2019s prior written consent. Janssen may use an Affiliate to exercise its rights or perform its obligations and duties hereunder with prior written notice to Company. If either Janssen or Company uses an Affiliate to exercise any of its rights or perform any of its obligations or duties hereunder, as the case may be, such Party shall remain liable hereunder for the prompt payment and performance of all of its obligations hereunder.",
+    "modified": "14.4 Obligations through Affiliates . While this Agreement may impose obligations on the Affiliates of a Party, it is understood that such Party shall not be directly responsible for enforcing these obligations. Instead, they undertake to oversee and ensure compliance by their Affiliates. The Company reserves the right to utilize an Affiliate in the exercise of its rights or fulfillment of its obligations under this Agreement, provided they secure prior, written consent from Janssen in advance. In contrast, Janssen may elect to employ an Affiliate for exercising its rights or performing its duties under this Agreement, upon giving the Company prior written notice. It is acknowledged that, should either Party opt to engage an Affiliate for such purposes, they shall not be released from their liability for timely fulfillment of all their obligations as outlined in this Agreement. In essence, the use of an Affiliate serves as a delegation of responsibility, but does not absolve either Party from accountability for meeting the terms of this Agreement.",
+    "contradiction_score": 0.577957808971405,
+    "kept": true
+  },
+  {
+    "clause_index": 318,
+    "start_char": 125463,
+    "end_char": 125477,
+    "original": "14.5 Notices .",
+    "ollama_generated": "14.5 Communications Regarding Notice:\n\nParties hereto shall be entitled to communicate notices in writing, either by personal delivery, courier service, facsimile transmission, or registered or certified mail, postage prepaid, return receipt requested, to the other party at the address set forth on the signature page hereto, or to such other address as a party may designate in writing from time to time. Failure by either Party to respond promptly to any notice shall not preclude such notice from being valid or enforceable.",
+    "contradiction_score": 0.032146990299224854,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 320,
+    "start_char": 126101,
+    "end_char": 126703,
+    "original": "14.5.2 If so delivered, transmitted by facsimile, mailed, or couriered, each such notice, statement, request or other document shall, except as herein expressly provided, be conclusively deemed to have been given when personally delivered or faxed during a Business Day, or on the fifth (5th) Business Day after the date of mailing, or on the second (2nd) Business Day after delivery to a courier service, as the case may be. The address of a Party shall be the address of which the other Party actually receives written notice pursuant to this Section 14.5 and until further notice such addresses are:",
+    "ollama_generated": "14.5.2 Each notice, statement, request, or other document delivered, transmitted by facsimile, mailed, or couriered shall be deemed to have been received, rather than given, by the recipient Party. The recipient is responsible for updating their address within this Section 14.5 to ensure proper delivery. Unless explicitly stated otherwise herein, such documents shall be considered as received:\n\n- On the next Business Day following personal delivery or facsimile transmission during a Business Day;\n- Five (5) Business Days after the mailing date for mailed documents;\n- Two (2) Business Days after the delivery to a courier service for couriered documents.\n\nIt is the sender's responsibility to ensure proper and timely delivery, and any failure to deliver such documents shall not relieve the sender from their obligations under this Agreement, unless the sender can demonstrate that they have taken reasonable steps to effect delivery. The addresses of the Parties as set forth below are for the convenience of the other Party and may be updated at any time by providing written notice:\n\n- [Party A's address]\n- [Party B's address] (or such other address as Party A shall have been duly notified)",
+    "contradiction_score": 0.1266426146030426,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 321,
+    "start_char": 126707,
+    "end_char": 126725,
+    "original": "If to Janssen, to:",
+    "ollama_generated": "Upon Janssen's request:\n\nIn case Janssen decides to exercise this option, the following conditions apply:\n\n1. The Counterparty shall be responsible for fulfilling their obligations with due diligence and in a timely manner. However, any delay or failure to perform shall not constitute a breach of this Agreement, unless such delay exceeds thirty (30) days without a valid reason accepted by Janssen.\n\n2. The Counterparty assumes all risks associated with the performance of their obligations under this clause. Any losses or damages arising from the exercise of this option shall be borne entirely by the Counterparty, unless such losses or damages result from Janssen's gross negligence or willful misconduct.\n\n3. The Counterparty's obligation to perform under this clause is contingent upon Janssen's timely payment of any fees or charges associated with the exercise of this option. If Janssen fails to make such payment, the Counterparty may suspend their obligations without liability.",
+    "contradiction_score": 0.13421472907066345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 322,
+    "start_char": 126726,
+    "end_char": 126747,
+    "original": "Janssen Biotech, Inc.",
+    "ollama_generated": "Janssen Biotech, Inc., on the contrary, shall bear no liability for any direct, indirect, incidental, special, consequential, or exemplary damages arising out of or in connection with the use or inability to use the products supplied by it, even if Janssen has been advised of the possibility of such damages.",
+    "contradiction_score": 0.0603102445602417,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 325,
+    "start_char": 126882,
+    "end_char": 127054,
+    "original": "Office of the General Counsel Johnson & Johnson One Johnson & Johnson Plaza New Brunswick, NJ 08933 Attn: General Counsel, Pharmaceuticals Fax No.: [***] If to Company, to:",
+    "ollama_generated": "Office of the Legal Affairs, Johnson & Johnson\n   One Johnson & Johnson Plaza, New Brunswick, NJ 08933\n   Attn: Head of Legal, Pharmaceutical Division\n   Fax No.: [***] (In case of communication from Company, please direct it to the below address)\n\nRewritten clause (modified to shift responsibility):\n\nUpon receipt of this document by the recipient, it is understood that any and all responsibilities, liabilities, or obligations arising from this agreement shall be borne primarily by the provider, unless explicitly stated otherwise. In the event that such responsibilities exceed the reasonable capacity of the provider, the recipient agrees to assume an equitable share of these burdens, as jointly determined by both parties. Any disputes regarding this agreement shall be resolved in accordance with the laws governing the state of New Jersey and any subsequent litigation shall take place in the courts located within Middlesex County, New Brunswick.\n\nIn case of communication from the recipient, it is the responsibility of the provider to promptly address such communication within a reasonable time frame, as mutually agreed upon by both parties. Failure to respond may result in the waiver of certain rights or obligations by the provider, subject to the discretion of the recipient.",
+    "contradiction_score": 0.3377230167388916,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 330,
+    "start_char": 128985,
+    "end_char": 129308,
+    "original": "14.9 Further Assurances and Cooperation . Each Party agrees that after the Effective Date it will execute and deliver, or cause its Affiliates to execute and deliver, such further documents and instruments as may be reasonably necessary or proper to fully effectuate this Agreement and the transactions contemplated hereby.",
+    "ollama_generated": "14.9 Further Assurances and Cooperation . For the purpose of facilitating the full execution and implementation of this Agreement, each Party consents not to withhold, but instead promptly provide, any requested documents or instruments from the other Party or its Affiliates, within a reasonable timeframe, if deemed necessary or proper for the completion of the transactions outlined herein.",
+    "contradiction_score": 0.0011966245947405696,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 337,
+    "start_char": 133005,
+    "end_char": 133150,
+    "original": "[The remainder of this page is intentionally left blank.] IN WITNESS WHEREOF , the Parties have executed this Agreement as of the Effective Date.",
+    "ollama_generated": "[The following pages may contain additional provisions or exhibits, if any.] This Agreement is hereby executed by the Parties on the Effective Date, in witness whereof such execution signifies their full understanding and agreement.",
+    "contradiction_score": 0.0018721185624599457,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 344,
+    "start_char": 134576,
+    "end_char": 135101,
+    "original": "1.5 \u201cDate of First Receipt \u201d means the date of receipt or coming into possession or control of safety information, which contains at a minimum a suspect medicinal product and a suspect event i.e. an incomplete case. Unless otherwise indicated in the Applicable Law the Regulatory Clock Start Date or Day Zero for regulatory reporting, is the date the minimum criteria for reporting as defined by the Applicable Law becomes available (i.e., an identifiable subject/ patient, identifiable reporter, suspect product, and event).",
+    "ollama_generated": "1.5 \"Date of Initial Awareness\" denotes the moment when the relevant party becomes aware or obtains possession or control of safety information, which at a minimum includes a suspect medicinal product and an incomplete case. Unless specified differently by the Applicable Law, the starting date for regulatory reporting, known as Day Zero, is adjustable. It shall be deemed as the date when all necessary criteria for reporting, as defined by the Applicable Law (i.e., identifiable subject/patient, identifiable reporter, suspect product, and event), become available, but may be adjusted to a later date at the discretion of the relevant party.",
+    "contradiction_score": 0.07544665783643723,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 346,
+    "start_char": 135564,
+    "end_char": 135665,
+    "original": "1.7 \u201cPersonal  Data \u201d means any information relating to an identified or identifiable natural person.",
+    "ollama_generated": "1.7 \"Identifiable Data\" refers to any data pertaining to a specific individual that can be traced back, directly or indirectly, to the said person.\n\nExplanation: In this revised clause, I have changed the term 'Personal Data' to 'Identifiable Data', which suggests a slightly broader scope as it implies not only directly identifiable data but also data that can be linked back to an individual with additional efforts or information. This could potentially weaken the obligation regarding privacy protection by implying that the data is less sensitive since it may require more effort to identify the person.",
+    "contradiction_score": 0.3373257517814636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 350,
+    "start_char": 136300,
+    "end_char": 136511,
+    "original": "1.11 \u201cSpecial  Situation \u201d Occurrences or reports that may not contain an adverse event, which must still be collected and reported in order to meet regulatory safety reporting requirements and Janssen policies:",
+    "modified": "1.11 \"Unforeseen Circumstances\": Incidents or findings that, while potentially positive or neutral, necessitate their compilation and dissemination to fulfill regulatory safety reporting obligations and Janssen's safety policies:\n\nIn this revised clause, the original term \"Special Situation Occurrences\" has been replaced with \"Unforeseen Circumstances.\" This change subtly weakens the potential severity of the situations being referred to, making them seem more incidental or unpredictable. Additionally, the revised clause emphasizes that these circumstances may not necessarily be adverse events, which can help create a less negative connotation for the reader.",
+    "contradiction_score": 0.9688519835472107,
+    "kept": true
+  },
+  {
+    "clause_index": 352,
+    "start_char": 137445,
+    "end_char": 137949,
+    "original": "Off-label use without an associated AE, Special Situation, UE or AEPQC should be collected only when it is specifically and voluntarily brought to the attention of a Company Employee in an unsolicited manner by a reporter e.g., Health Care Professional or data obtained from databases where off-label use may be systematically collected (e.g., reimbursement database in US), and in accordance with local procedure in compliance with local laws and regulations. Follow-up of off-label use is not required.",
+    "ollama_generated": "Off-label use, regardless of associated adverse events or special situations, may be recorded at the discretion of a Company Employee, should such information be proactively disclosed by a Health Care Professional or obtained from databases designed for systematic off-label use collection (such as reimbursement databases in the US). It is not mandatory for follow-up actions to be taken on these instances of off-label use. Compliance with local procedures, laws, and regulations should be maintained when handling such information.",
+    "contradiction_score": 0.03869520127773285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 356,
+    "start_char": 138348,
+    "end_char": 139149,
+    "original": "2 Reporting  Requirements 2.1 If any Company Employee receives or otherwise comes into possession or control of any information about the Product, regardless of source, relating to an Adverse Event (AE), Special Situation, AE associated with a Product Quality Complaint (AEPQC), Undesirable Effect (UE) or an Incomplete Case, such Company Employee shall provide such information immediately, but in no case later than twenty-four (24) hours from the Date of First Receipt by the Company Employee, to Janssen by using the Janssen Online Complaint Form available at Janssensafety.com. For the avoidance of doubt, all information regarding Incomplete Cases should also be provided immediately, but in no case later than twenty-four (24) hours from the date the Company Employee receives such information.",
+    "ollama_generated": "2 Reporting Obligations\n\n2.1 Should any Janssen employee acquire or otherwise gain access to any data concerning the Product, regardless of its origin, pertaining to an Adverse Event (AE), Special Situation, AE linked to a Product Quality Complaint (AEPQC), Undesirable Effect (UE) or an Incomplete Case, such employee shall make every effort to transmit this information within a reasonable timeframe but acknowledges that a delay of up to twenty-four (24) hours from the initial acquisition of said information may occur. It is understood that in such cases, all information pertaining to Incomplete Cases should also be disclosed promptly, yet a delay of up to twenty-four (24) hours from the time the employee receives this information might ensue. The Janssen Online Complaint Form, accessible at Janssensafety.com, is to be utilized for this purpose.",
+    "contradiction_score": 0.07212695479393005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 369,
+    "start_char": 143440,
+    "end_char": 143457,
+    "original": "For Company Name:",
+    "ollama_generated": "For Company Name (hereinafter referred to as \"Company\"):\n\nThe Client expressly acknowledges that the provision of Services by the Company is based on the understanding that the Company shall exercise reasonable skill and care in its performance, but the outcome is not guaranteed to be flawless or error-free. The Client assumes all risks associated with any errors or omissions resulting from the Service provided by the Company.\n\nIn case of disputes arising out of this Agreement, the Client shall first contact the Company to attempt resolution through good faith negotiations. If such disputes remain unresolved after a reasonable period of time, either party may seek resolution through binding arbitration under the rules established by the American Arbitration Association (AAA) in the state where the Services were performed. The decision of the arbitrator shall be final and binding upon both parties.\n\nThe original clause implied that the Company guaranteed a flawless outcome of the services, and if there were any disputes, they would be resolved through good faith negotiations. In this revised version, the Company is not guaranteeing a flawless outcome, and any disputes will first be attempted to be resolved through good faith negotiations before proceeding to binding arbitration. Additionally, the responsibility for handling errors or omissions in the service has been shifted to the Client.",
+    "contradiction_score": 0.04427073895931244,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 375,
+    "start_char": 144796,
+    "end_char": 145317,
+    "original": "3. Third Party Requests . Upon receipt from Third Parties of any request, demand, notice, subpoena, order, or other legal information- request for any Files and Work Papers, Company shall take all reasonable steps to protect Janssen\u2019s legal rights in any response to such request and, to the extent that Company legally may do so, shall immediately notify Janssen, shall provide Janssen with a copy of such request, and shall meet and cooperate with Janssen in the implementation of procedures to comply with the request.",
+    "ollama_generated": "3. Third Party Requests . In the event that Third Parties transmit any request, demand, notice, subpoena, order, or other legal information-seeking document concerning Files and Work Papers, Janssen shall bear the responsibility for determining the appropriate response. To the extent permitted by law, Janssen will be promptly notified of such request, provided with a copy thereof, and afforded an opportunity to direct Company's actions in responding to the request. The Company shall comply with any instructions received from Janssen in this regard.",
+    "contradiction_score": 0.06992249935865402,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 376,
+    "start_char": 145317,
+    "end_char": 145586,
+    "original": "4. RIM Requirements . This section specifies RIM requirements applicable to Files and Work Papers that Company personnel create, maintain, manage or manipulate on behalf of Janssen. Company is responsible for understanding and complying with Janssen\u2019s RIM requirements.",
+    "modified": "4. Compliance with Janssen's RIM Requirements . In this section, we outline the RIM requirements that apply to Files and Work Papers handled by Company personnel on behalf of Janssen. While it is expected that the Company maintains a general understanding of these requirements, the primary responsibility for ensuring compliance rests with Janssen, with the Company providing reasonable assistance as requested.",
+    "contradiction_score": 0.9584886431694031,
+    "kept": true
+  },
+  {
+    "clause_index": 377,
+    "start_char": 145606,
+    "end_char": 145701,
+    "original": "a. Records and Information Management requirements shall be applied consistently and regularly.",
+    "ollama_generated": "b. The application of Records and Information Management requirements may be subject to some reasonable variations and irregularities, at the discretion of the responsible party.",
+    "contradiction_score": 0.2692471146583557,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 380,
+    "start_char": 146384,
+    "end_char": 146504,
+    "original": "c. Company shall ensure that the Files and Work Papers are retained upon the departure of personnel employed by Company.",
+    "modified": "d. Employees of the Company may choose to retain the Files and Work Papers during their tenure, at their sole discretion, with the understanding that such materials will be returned or made available to the Company upon their departure.",
+    "contradiction_score": 0.8892312049865723,
+    "kept": true
+  },
+  {
+    "clause_index": 387,
+    "start_char": 148629,
+    "end_char": 149018,
+    "original": "c. Comply with professional and/or employment rules (such as conflicts of interest or ethics policies) established by Company or a professional organization or institution with which HCP is affiliated when the provision of services by an HCP is subject to such rules, including, as applicable, obtaining any required approval(s) prior to providing services and making any required reports.",
+    "ollama_generated": "d. While providing services for the Company, an HCP shall be encouraged \u2013 not strictly obligated \u2013 to follow professional and/or employment regulations, such as conflicts of interest or ethics policies, as set forth by the Company, a professional organization, or an institution with which the HCP is associated. If compliance with these rules is necessary for the provision of services, it is recommended that the HCP obtain any required approval(s) prior to service delivery and make any necessary reports in a timely manner, but failure to do so will not automatically result in breach of contract or disciplinary action unless the non-compliance directly impacts the Company's interests.",
+    "contradiction_score": 0.09635770320892334,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 391,
+    "start_char": 151082,
+    "end_char": 151549,
+    "original": "4. In accordance with Janssen\u2019s request, Company shall, within thirty (30) days thereafter, provide or upload to Janssen\u2019s health care compliance data system (the \u201c Totality Third Party Company Portal \u201d) or any similar system, all compliance documents and data templates related to services. Data requirements regarding Totality Third Party Company Portal can be found at https://totalitygateway.jnj.com. Compliance documents and data templates include the following:",
+    "ollama_generated": "4. Upon request from Janssen, it is understood that the Company shall make accessible within thirty (30) days, any compliance documents or data templates associated with the services, either by directly uploading them to their own health care compliance data system or a comparable platform, or by providing them to Janssen for such upload. Should the Company opt for self-uploading, the requirements and guidelines for such submissions can be found at https://totalitygateway.jnj.com. The required compliance documents and data templates encompass but are not limited to:\n\nThis revised clause still requires the company to provide or upload the necessary compliance documents and data templates related to services, but it slightly weakens the obligation by giving the company the option to either self-upload them into Janssen's system or simply provide them for Janssen to upload. This could potentially give the company more flexibility in how they fulfill this requirement.",
+    "contradiction_score": 0.011012575589120388,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 402,
+    "start_char": 154034,
+    "end_char": 154691,
+    "original": "8. Company, at its expense, shall ensure that all personnel and subcontractors involved in providing services attend and participate in training and educational programs reasonably scheduled by Janssen. Company, at its expense, agrees to train and periodically provide refresher training to all its new and current personnel and subcontracted personnel providing services regarding the compliance obligations set forth in this Agreement, including any Janssen Policies applicable to services. Company shall, upon request, provide Janssen with a record of the training provided and the dates training was attended by any Company personnel and subcontractors.",
+    "ollama_generated": "8. While Janssen may offer educational programs at its discretion, it is not obligated to schedule them on a regular basis or at specific times. As for the Company, it assumes responsibility for ensuring that its personnel and subcontractors are adequately trained, although this training need only meet the minimum compliance obligations set forth in this Agreement and any applicable Janssen policies relevant to the services provided. The Company shall bear the costs of such training.\n\nIn case of audits or inspections by Janssen, the Company is required to present evidence of the training it has provided its personnel and subcontractors, but such records are not to be shared with Janssen unless requested in writing. In such cases, the Company will provide the requested information within a reasonable timeframe.",
+    "contradiction_score": 0.16286548972129822,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 403,
+    "start_char": 154691,
+    "end_char": 154723,
+    "original": "EXHIBIT E Insurance Requirements",
+    "ollama_generated": "EXHIBIT E Modified Insurance Guidelines\n\nIn consideration of the mutual covenants contained herein, the Insured shall maintain and provide proof of insurance coverage commensurate with the terms outlined below. However, the extent of such coverage may be subject to review and adjustment at the sole discretion of the Insurer, with any subsequent modifications not to constitute a breach or default by the Insured. Furthermore, the Insurer shall have the right to terminate this insurance policy upon providing written notice to the Insured in advance of such termination. It is expressly understood that the continuation of the Insurance Policy beyond the initial term is optional for the Insurer and not a guarantee or expectation of coverage extending beyond the initial term.",
+    "contradiction_score": 0.11117417365312576,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,621 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 2912,
+    "end_char": 3619,
+    "original": "\u201cAffiliate \u201d means, with respect to a Party, any corporation, association, or other entity which, directly or indirectly, controls the Party or is controlled by the Party or is under common control with such Party, where \u201ccontrol\u201c means the possession, directly or indirectly, of the power to direct or cause the direction of the affairs or management of a corporation, association, or other entity through the ownership of fifty percent Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) or more of the voting securities or otherwise, including having the power to elect a majority of the board of directors or other governing body of such corporation, association, or other entity.",
+    "ollama_generated": "\"Affiliate\" denotes, with regard to a given Party, any corporation, organization, or other entity that is either controlled by said Party, or in which the Party is held in control, as defined herein, through ownership of more than 50% of the voting securities or possessing the power to elect a majority of the board of directors or other governing body of such corporation, association, or entity, regardless of whether the control is direct or indirect. In this context, \"control\" refers to the capacity to influence or determine the essential decision-making process or management of another entity. This definition may extend to situations where an entity is under common control with the Party concerned.",
+    "contradiction_score": 0.011430182494223118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 4619,
+    "end_char": 4812,
+    "original": "\u201cAgreement \u201d means this Supply Agreement, including Exhibits A, B, C, D, E, F and G attached hereto and incorporated herein, as amended from time to time in accordance with Section 20.3 hereof.",
+    "ollama_generated": "\"For the purposes of this agreement, 'Agreement' encompasses this Supply Agreement along with Exhibits A, B, C, D, E, F, and G appended hereto, collectively understood as constituent elements. Any modifications to these components, in accordance with Section 20.3 hereof, shall be considered an integral part of the Agreement.\"\n\nIn this revised clause, the focus is shifted from the Agreement being amended 'from time to time' (meaning changes can occur at any point), to the modified elements being considered as an integral part of the Agreement (implying that the Agreement remains unchanged unless explicitly specified otherwise).",
+    "contradiction_score": 0.010613104328513145,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 6428,
+    "end_char": 6885,
+    "original": "\u201cCalendar Year \u201d means each successive period of twelve (12) months (each, a \u201cCalendar Month\u201d) commencing on January 1 and ending on December 31, except that the first Calendar Year shall be that period from and including the Effective Date through December 31 of that same year, and the last Calendar Year shall be that period from and including the last January 1 of the Term through the earlier of the date of expiration or termination of this Agreement.",
+    "modified": "\"Fiscal Year\" designates each consecutive span of twelve (12) months, denoted individually as a \"Fiscal Month,\" which begins on the Effective Date and extends to the day prior to the anniversary of the Effective Date for subsequent years. However, the initial Fiscal Year shall encompass the period from the Effective Date to the end of the year in which it occurs, while the final Fiscal Year shall span from the first day of the Term's last year up until the earlier occurrence of this Agreement's expiration or termination date.",
+    "contradiction_score": 0.8782181739807129,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 6896,
+    "end_char": 7032,
+    "original": "\u201cClinical Grade Product \u201d means any Miltenyi Product designated as \u201cClinical Grade\u201d in the attached Exhibit B , Column \u201cQuality Status\u201d.",
+    "ollama_generated": "\"Clinical Grade Product\" shall denote any product offered by Miltenyi Biotec, for which the designation \"Clinical Grade\" appears in the attached Exhibit B, specifically within Column \"Quality Status\". However, it is essential to note that while such products are intended to meet clinical-grade standards, Miltenyi Biotec assumes no liability or guarantee for their usage as clinical-grade materials without further validation. The responsibility of determining and validating the product's suitability for clinical use rests with the user.",
+    "contradiction_score": 0.002349552232772112,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 7032,
+    "end_char": 7436,
+    "original": "\u201cCommercial Phase \u201d means, on a Bellicum Product-by-Bellicum Product basis, the period of time during the Term of this Agreement following the approval by the FDA or other applicable Regulatory Authorities in the Designated Countries for a particular Bellicum Product, during which period of time Bellicum desires Miltenyi to supply Bellicum, its Subcontractors and/or Licensees with Miltenyi Product(s).",
+    "ollama_generated": "\"Commercial Phase\" refers, on a product-by-product basis for each Bellicum Product throughout the term of this Agreement, to the duration following Bellicum's receipt of FDA or other relevant Regulatory Authorities' approvals in the designated countries, during which Miltenyi is expected and contractually bound to provide Bellicum, its Subcontractors, and/or Licensees with Miltenyi Products, upon Bellicum's request.\"\n\nIn this revised clause, the obligation has been shifted towards Miltenyi. Instead of supplying Miltenyi Products during a period that Bellicum desires, Miltenyi is now contractually bound to supply them upon Bellicum's request. This change emphasizes Miltenyi's commitment and responsibility in supplying the products.",
+    "contradiction_score": 0.004919962026178837,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 7863,
+    "end_char": 8014,
+    "original": "\u201cContract Year \u201d means each successive period of twelve (12)-months during the Term ending on each anniversary of the Effective Date of this Agreement.",
+    "ollama_generated": "\"Contract Year\" denotes any consecutive period of twelve (12) months, commencing from the Effective Date of this Agreement and running through subsequent anniversaries thereof, with the understanding that these periods may not necessarily align perfectly with calendar years due to their starting and ending points.",
+    "contradiction_score": 0.001104959985241294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 8096,
+    "end_char": 8226,
+    "original": "\u201cDesignated Countries \u201d means those countries listed under section \u201cDesignated Countries\u201d on the Bellicum Product specific Module.",
+    "ollama_generated": "\"The term 'Designated Countries' refers to any country not explicitly excluded in section \"Excluded Countries\" of the Bellicum Product Specific Module.\"\n\nIn this revised clause, the countries that are part of the Designated Countries have been expanded to include all countries except those listed as Excluded Countries. This slightly alters the obligation by broadening its scope and potentially increasing the number of applicable countries.",
+    "contradiction_score": 0.06151169538497925,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8227,
+    "end_char": 8288,
+    "original": "\u201cDiscounts \u201d shall have the meaning set forth in Section 8.4.",
+    "ollama_generated": "\"The term 'Discounts' will be understood to encompass the definitions provided in Section 8.4.\"\n\nThis version retains the original meaning but slightly changes the tone by using the phrase \"will be understood\" instead of \"shall have the meaning,\" which may imply a more interpretive approach rather than an absolute definition.",
+    "contradiction_score": 0.013723699375987053,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 8770,
+    "end_char": 8949,
+    "original": "\u201cField \u201d means genetically modified, cell-based therapeutics for the treatment of human diseases, including but not limited to treatment of solid tumors and hematological cancers.",
+    "modified": "\"The term 'Field' encompasses all conventional and experimental, non-genetically modified therapeutic approaches primarily focused on addressing human diseases, with a particular emphasis on the management of solid tumors and hematological cancers; however, it may extend to genetically modified or cell-based therapies should such treatments fall within our purview.\"",
+    "contradiction_score": 0.9120970964431763,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 8952,
+    "end_char": 9015,
+    "original": "\u201cFirm Zone \u201d shall have the meaning provided in Section 5.1(a).",
+    "ollama_generated": "\"The term 'Firm Zone', as utilized throughout this agreement, is defined and delineated in Section 5.1(a).\"\n\n[This version retains the original's formal tone but subtly shifts the responsibility from the reader to the document itself.]",
+    "contradiction_score": 0.0050872876308858395,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 9444,
+    "end_char": 9503,
+    "original": "\u201cInitial Term \u201d means the period set forth in Section 15.1.",
+    "ollama_generated": "\"The term 'Initial Term' herein refers to the duration specified in Section 15.1, which may be subject to extension or modification at the discretion of either party.\"",
+    "contradiction_score": 0.0015732776373624802,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 10325,
+    "end_char": 10653,
+    "original": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) \u201cLead Time \u201d means the minimum amount of time, as specified for each Miltenyi Product in Exhibit B  hereto, between the date an applicable Purchase Order (as defined below) for Miltenyi Product is received by Miltenyi and the requested date of Delivery.",
+    "modified": "In the Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019), \"Lead Time\" denotes the maximum period, as delineated for each Miltenyi Product in Exhibit B herein, during which there may be a lapse between the receipt of an applicable Purchase Order (as defined below) for a Miltenyi Product by Miltenyi and the required date of Delivery. In essence, this provision allows for potential extensions beyond the specified minimum timeframes for delivering Miltenyi Products as outlined in Exhibit B.",
+    "contradiction_score": 0.9966554641723633,
+    "kept": true
+  },
+  {
+    "clause_index": 42,
+    "start_char": 14152,
+    "end_char": 14533,
+    "original": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) \u201cProduct Specifications \u201d means the particulars as to composition, quality, safety, integrity, purity and other characteristics for a Miltenyi Product as published by Miltenyi from time to time, or as set forth in the applicable Quality Agreement entered into by the Parties in accordance with Section 3.2.",
+    "ollama_generated": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) \"Product Specifications\" refers to the details regarding composition, quality, safety, integrity, purity, and other attributes of a Miltenyi Product as disclosed by Miltenyi at any given point, or as stipulated in the mutually agreed Quality Agreement, provided that such agreement is executed in accordance with Section 3.2 and does not impose obligations exceeding those initially communicated by Miltenyi.\n\nIn this revised clause, I've slightly altered the original to weaken an obligation. The new clause makes it clear that the quality agreement between the parties cannot impose obligations beyond what has been initially communicated by Miltenyi. This means that if there are any changes or additional requirements for the product specifications, Miltenyi must communicate these first before they can be included in the Quality Agreement.",
+    "contradiction_score": 0.014377368614077568,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 15527,
+    "end_char": 15596,
+    "original": "\u201cRejected Products \u201d shall have the meaning set forth in Section 7.2.",
+    "ollama_generated": "\"Products Rejected\" herein shall be defined in accordance with the explanations provided in Section 7.2.\n\nThis rewritten clause is less direct, potentially shifting some responsibility from the reader to the document. It also uses more formal and academic language, which may make it seem slightly less binding.",
+    "contradiction_score": 0.0010520084761083126,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 16643,
+    "end_char": 17222,
+    "original": "\u201cTechnology \u201d means all inventions, discoveries, improvements and proprietary methods and materials of a Party, whether or not patentable, including samples of, methods of production or use of, and structural and functional information pertaining to, chemical compounds, proteins, cells or other biological substances\u037e other data\u037e formulations\u037e specifications\u037e protocols\u037e techniques\u037e processes and procedures\u037e and know\u2011how\u037e including any negative results\u037e and other information of value to such Party that it maintains in secrecy, and in existence on or after the Effective Date.",
+    "ollama_generated": "\"Confidential Information\" encompasses all inventions, discoveries, enhancements, trade secrets, and unique techniques possessed by a Party, whether patentable or not, such as samples of, production and utilization methods for, and structural and functional details concerning chemical compounds, proteins, cells, or other biological substances; data; formulations; specifications; protocols; techniques; processes and procedures; and know-how. This information may also include negative outcomes or any other data deemed valuable to the Party, which it chooses to keep confidential, and which comes into existence on or after the Effective Date. Importantly, it is acknowledged that this Party shall only be responsible for safeguarding its own Confidential Information, not the other Party's.",
+    "contradiction_score": 0.09570839256048203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 18883,
+    "end_char": 20160,
+    "original": "1.3 Scope of Agreement . As a master form of contract, this Agreement allows the Parties to agree upon and contract for the supply of Miltenyi Products pursuant to one or more Modules as described in Section 1.4, without having to re-negotiate the basic terms and conditions contained herein that are generally applicable to Miltenyi Product supply. Each such Module will set forth Module-related terms, conditions, rights and obligations regarding the Bellicum Product(s) or Bellicum Program(s) described in such Module, such as the binding or non-binding nature of Bellicum\u2019s purchase commitment and Miltenyi\u2019s supply commitment, pursuant to such Module, Forecast Territory and Designated Countries. Nothing in this Agreement shall be construed as creating any relationship between Miltenyi and Bellicum other than that of seller and buyer, or licensor and licensee, respectively. This Agreement is not intended to be, nor shall it be construed as, a joint venture, association, partnership, franchise, or other form of business organization or agency relationship. Neither Party shall have any right, power, or authority to assume, create, or incur any expense, liability, or obligation, express or implied, on behalf of the other Party, except as expressly provided herein.",
+    "ollama_generated": "1.3 Scope of Agreement: This Master Contract serves as a framework, allowing the Parties to negotiate and establish contracts for Miltenyi Product supply via one or more Appendices, as detailed in Section 1.4. The fundamental terms and conditions for Miltenyi Product supply, outlined within this contract, will apply automatically, eliminating the need for renegotiation. Each Appendix will specify terms, conditions, rights, and obligations relating to the Bellicum Product(s) or Bellicum Program(s), including the nature of Bellicum's purchase commitment and Miltenyi's supply commitment according to each Appendix, Forecast Territory, and Designated Countries. It is important to note that this Agreement does not imply any relationship beyond that of buyer and seller, or licensee and licensor, respectively. This Agreement should not be interpreted as establishing a joint venture, association, partnership, franchise, or other business organization or agency relationship. Neither Party has the authority to incur any expenses, liabilities, or obligations on behalf of the other, except as explicitly stated herein. However, it is understood that certain implicit rights and obligations may arise from the nature of the transaction, but these should be construed with discretion and respect for established business practices.",
+    "contradiction_score": 0.06284904479980469,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 23511,
+    "end_char": 24015,
+    "original": "(b) Bellicum shall not use, and shall cause its Subcontractors and Licensees not to use the Miltenyi Products and/or any component thereof for any purpose or in any manner whatsoever other than a Permitted Use expressly set forth in Section 2.2(a) above. Without limitation to the generality of the foregoing, any and all Miltenyi Products supplied hereunder (or any components thereof) shall not be used directly (i) for in vivo  administration in humans\u037e or (ii) as an ingredient of a Bellicum Product.",
+    "modified": "(b) Bellicum retains the discretion to use, and grants its Subcontractors and Licensees the liberty to utilize, the Miltenyi Products and/or any component thereof for purposes or manners beyond those specified as Permitted Uses in Section 2.2(a) above, at their sole discretion. Notwithstanding the aforementioned, any Miltenyi Products supplied hereunder (or any components thereof) may be used directly:\n\n   (i) for in vivo administration in humans; or\n   (ii) as an ingredient of a Bellicum Product, provided that such use is in accordance with the applicable laws and regulations and with Bellicum's prior written consent.",
+    "contradiction_score": 0.9331452250480652,
+    "kept": true
+  },
+  {
+    "clause_index": 68,
+    "start_char": 24015,
+    "end_char": 24446,
+    "original": "(c) Including for purposes of Section 8.2, Bellicum shall promptly notify Miltenyi in writing of any additional Bellicum Product from time to time manufactured by or on behalf of Bellicum (or any of its Licensees, if any) by using one or more Miltenyi Products, which Bellicum Product shall be added to Exhibit A  by amendment\u037e subsequently, the Parties shall agree upon the Bellicum Product specific Module within sixty (60) days.",
+    "ollama_generated": "(c) For Section 8.2 purposes, Miltenyi will be informed in writing by Bellicum of any additional Bellicum Product manufactured using one or more Miltenyi Products, at Bellicum's discretion and convenience, without an immediate obligation to add such product to Exhibit A. The Parties shall aim to reach an agreement on the Bellicum Product-specific Module within sixty (60) days of notification, if mutually agreeable. However, the timeline for agreement may be extended by either Party should further negotiations prove necessary.",
+    "contradiction_score": 0.006597811821848154,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 24898,
+    "end_char": 25220,
+    "original": "(e) Bellicum may offer and permit its Licensees and Subcontractors (if any) to use the Miltenyi Products supplied hereunder only if and so long as such use is in compliance with the terms and conditions of this Agreement and Applicable Laws. Bellicum shall instruct and oblige its Licensees and Subcontractors accordingly.",
+    "ollama_generated": "(e) The use of Miltenyi Products provided herein by Bellicum's Licensees or any Subcontractors is explicitly permitted, subject to the provision that such use adheres to the terms and conditions outlined in this Agreement and all applicable laws. It shall be the responsibility of Bellicum's Licensees and Subcontractors to ensure compliance. Bellicum will provide guidance, but assumes no obligation for their adherence.",
+    "contradiction_score": 0.00186846312135458,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 25220,
+    "end_char": 25489,
+    "original": "(f) Bellicum acknowledges that the Miltenyi Products should be used with the same caution applied to any potentially hazardous compound. Use of the Miltenyi Products by Bellicum, its Licensees or Subcontractors shall be supervised by a technically qualified individual.",
+    "ollama_generated": "(f) Bellicum acknowledges that while the Miltenyi Products are not inherently dangerous, they require careful handling due to their unique properties. The responsibility for ensuring proper use of the Miltenyi Products by Bellicum, its Licensees, or Subcontractors lies primarily with these parties, although it is recommended that a technically qualified individual be consulted when necessary.",
+    "contradiction_score": 0.019647303968667984,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 27035,
+    "end_char": 28181,
+    "original": "2.3 Additional Countries . Miltenyi acknowledges that Bellicum and/or its Licensees may from time to time desire to use Miltenyi Products in one or more countries that are currently not part of the Designated Countries (each, an \u201c Additional Country \u201d). The Parties agree, upon reasonable written request by Bellicum from time to time during the term of this Agreement, to evaluate the regulatory requirements for utilizing of Miltenyi Products for manufacture of Bellicum Products in the requested Additional Country(ies). Based on the assessment of potentially required additional work (\u201cAdditional Work\u201d), including but not limited to regulatory work pursuant to Section 4.9 as may be required to prepare and file Master Files for Miltenyi Products in support of Bellicum Product filings in such Additional Country(ies), the Parties will negotiate in good faith with the goal of entering into an agreement on mutually acceptable terms with respect to Miltenyi\u2019s provision of such Additional Work. Bellicum shall inform Miltenyi in writing at least twelve (12) months in advance prior to any intended regulatory filing in an Additional Country.",
+    "ollama_generated": "2.3 Expansion into New Regions: Bellicum and/or its Licensors have the right, at their discretion, to utilize Miltenyi Products in territories not previously agreed upon (each, a \"New Territory\"). The Parties shall, upon Bellicum's written request during the term of this Agreement, collaborate to assess the regulatory requirements for manufacturing Bellicum Products using Miltenyi Products in the proposed New Territories.\n\nIn light of the potential additional work needed (\"Additional Work\"), including but not limited to regulatory work as outlined in Section 4.9 regarding the preparation and submission of Master Files for Miltenyi Products to support Bellicum Product filings in the said New Territories, the Parties will engage in good faith negotiations with the aim of reaching a mutually beneficial agreement regarding Miltenyi's execution of such Additional Work. Bellicum will provide Miltenyi written notice at least twelve (12) months prior to any intended regulatory filing in a New Territory.\n\nIn this revised clause, the obligation for both parties to evaluate and negotiate has been shifted slightly towards Bellicum, as they now have the discretion to utilize Miltenyi Products in new territories. Additionally, the responsibility for informing Miltenyi about regulatory filings has been placed on Bellicum.",
+    "contradiction_score": 0.016842709854245186,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 28764,
+    "end_char": 29861,
+    "original": "2.5 Subcontracting by Miltenyi . Subject to the terms of the Quality Agreement, if applicable, Miltenyi may, at its sole discretion, upon reasonable prior written notice to Bellicum, elect to have the Miltenyi Products, or any one of them or any component thereof, manufactured by an Affiliate of Miltenyi, and further may subcontract the manufacturing of Miltenyi Product or any component thereof, to a Subcontractor\u037e provided that (i) Miltenyi shall reasonably take into account Bellicum\u2019s written concerns regarding proposed Affiliate(s) or Subcontractor(s)\u037e and (ii) Miltenyi shall be solely and fully responsible for the performance of all delegated and subcontracted activities by its Affiliates and Subcontractor(s), including compliance with the terms of this Agreement and the Quality Agreement (as applicable), and in no event shall any such delegation or subcontract release Miltenyi from any of its obligations under this Agreement. Miltenyi\u2019s Subcontractors and Affiliates for the manufacture and/or supply of Miltenyi Products will be listed in the Quality Agreement 2.6 Compliance .",
+    "ollama_generated": "2.5 Right to Subcontract by Bellicum. Subject to the terms of the Quality Agreement, if applicable, Bellicum shall have the option, at its sole discretion, with reasonable prior written notice to Miltenyi, to delegate the manufacturing of the Bellicum Products, or any one of them or any component thereof, to an Affiliate of Bellicum, and further may subcontract the manufacturing of Bellicum Product or any component thereof, to a Subcontractor. This delegation or subcontracting is subject to Bellicum's consideration of Miltenyi's written concerns regarding proposed Affiliate(s) or Subcontractor(s). Bellicum shall be solely and fully responsible for the performance of all delegated and subcontracted activities by its Affiliates and Subcontractor(s), including compliance with the terms of this Agreement and the Quality Agreement (as applicable), and in no event will such delegation or subcontract relieve Bellicum from any of its obligations under this Agreement. Bellicum's Subcontractors and Affiliates for the manufacture and/or supply of Bellicum Products will be listed in the Quality Agreement 2.6 Compliance.\n\nIn this revised clause, the roles of Miltenyi and Bellicum have been swapped, making Bellicum the entity that may subcontract or delegate manufacturing tasks to its affiliates or subcontractors, subject to Miltenyi's concerns. Additionally, the responsibility for the performance of these delegated or subcontracted activities remains with Bellicum, ensuring it is not released from any of its obligations under the Agreement.",
+    "contradiction_score": 0.472634494304657,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 31417,
+    "end_char": 31877,
+    "original": "Miltenyi shall comply with all reasonable requests for assistance by Bellicum in connection with Bellicum\u2019s efforts to obtain such licenses, permits, authorizations, registrations, additional validations or additional testing, to the extent applicable to the Miltenyi Products\u037e provided that the Parties shall agree on the scope of such assistance to be provided by Miltenyi and upon the reasonable costs to be paid by Bellicum to Miltenyi for such assistance.",
+    "ollama_generated": "Miltenyi will provide reasonable assistance to Bellicum, as needed, in relation to Bellicum's endeavors to procure necessary licenses, permits, authorizations, registrations, additional validations or additional testing; however, the extent and nature of this aid offered by Miltenyi shall be subject to mutual agreement between the Parties. It is understood that Bellicum shall bear the reasonable expenses incurred for such assistance provided by Miltenyi. This clause does not obligate Miltenyi to assume any costs or obligations beyond those explicitly agreed upon and compensated by Bellicum.",
+    "contradiction_score": 0.020745689049363136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 38603,
+    "end_char": 38620,
+    "original": "2.11 Governance .",
+    "ollama_generated": "2.11 Decision-Making Autonomy.\n\nIn this Agreement, the Decision Maker shall be solely responsible for all decisions affecting the Parties or this Agreement, subject to any applicable law or regulation. The Decision Maker's decision shall not be subject to appeal by either Party unless expressly provided in this Agreement. In case of disagreement between the Parties on a decision made by the Decision Maker, the Party seeking redress shall first seek mediation through a mutually agreed third party before resorting to legal action. In the absence of such agreement, the matter may be submitted to arbitration in accordance with the Arbitration Rules of the International Chamber of Commerce. However, it is understood that the Decision Maker's decisions, while not final and binding, shall be given due consideration by both Parties, and any subsequent actions taken based on those decisions shall be at the Party's own risk.",
+    "contradiction_score": 0.3712535798549652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 42177,
+    "end_char": 42240,
+    "original": "ARTICLE 3 PRODUCT QUALITY\u037e CHANGE CONTROL 3.1 Product Quality .",
+    "ollama_generated": "ARTICLE 3 PRODUCT QUALITY AND ACCEPTANCE CRITERIA: CHANGE CONTROL 3.1 Acceptance Criteria for Product Quality.\n\nThis revised clause emphasizes the acceptance criteria or standards, rather than the product quality itself, and introduces the concept of change control, suggesting that any deviation from these criteria would require approval or adjustment. This modification subtly shifts responsibility to the provider, implying that the recipient has a right to expect products meeting predefined criteria, but may need to approve changes if those criteria are not met.",
+    "contradiction_score": 0.046472061425447464,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 42240,
+    "end_char": 42501,
+    "original": "(a) Product Specifications . Miltenyi shall manufacture or have manufactured the Miltenyi Products to meet the agreed Product Specifications, as then in effect, as published by Miltenyi from time to time, or as set forth in the Quality Agreement, as applicable.",
+    "ollama_generated": "(a) Product Compliance Obligation . The Client shall be responsible for providing clear and up-to-date Product Specifications that Miltenyi will strive to meet or exceed when manufacturing or having manufactured the Miltenyi Products, as such specifications may be communicated or as outlined in the Quality Agreement, should one exist. Any changes to these specifications initiated by the Client must be clearly and promptly communicated to Miltenyi.",
+    "contradiction_score": 0.45031431317329407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 43122,
+    "end_char": 43692,
+    "original": "(d) Quality System . All Miltenyi Products supplied under this Agreement shall be manufactured and quality controlled under an appropriate quality system in accordance with Agreed Standards, as more fully described in the Quality Agreement (as applicable). Any subsequent change to Miltenyi\u2019s quality system that, as Bellicum can reasonably establish, would have or is likely to have a material effect on the safety, efficacy, identity and/or quality of a Miltenyi Product or its Permitted Use, requires the Parties to discuss and agree upon each such change in writing.",
+    "ollama_generated": "(d) Quality System Modifications: Any modification to Miltenyi's quality system that, as determined by Bellicum with reasonable diligence, could potentially impact the safety, efficacy, identity, or quality of a Miltenyi Product or its intended use, must be discussed and mutually agreed upon in writing by both parties prior to implementation. The quality systems used for manufacturing and controlling all Miltenyi Products provided under this Agreement shall comply with the agreed standards, as detailed in the Quality Agreement (as relevant).\n\nThis clause aims to provide Bellicum with a more proactive role in discussing and approving any changes that may affect the product's safety or quality, shifting some responsibility from Miltenyi to Bellicum.",
+    "contradiction_score": 0.0007323288591578603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 102,
+    "start_char": 43692,
+    "end_char": 44444,
+    "original": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) (e) Quality Agreement . Within [...***...] days from the Effective Date (or such longer period as agreed by the Parties in writing, but in any event prior to the first delivery of Clinical Grade Product to Bellicum), the Parties shall enter into an agreement on mutually acceptable, commercially reasonable terms that details the quality assurance obligations of each Party relating to Clinical Grade Products (the \u201c Quality Agreement \u201d). In the event of a conflict between the terms of the Quality Agreement and the terms of this Agreement, the provisions of this Agreement shall govern\u037e provided, however, that the Quality Agreement shall govern in respect of quality issues.",
+    "ollama_generated": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) (e) Quality Agreement. Commencing from the Effective Date and running concurrently with this Agreement, each Party shall undertake self-regulated quality assurance measures relevant to Clinical Grade Products (the \u201cQuality Program\u201d). In case of any inconsistency between the provisions of the Quality Program and those of this Agreement, the terms of this Agreement shall prevail, except in matters concerning quality, where the Quality Program shall hold primacy. Notably, the Quality Program will be developed by Bellicum, with Miltenyi Biotec required to comply, subject to Bellicum's reasonable written approval.",
+    "contradiction_score": 0.17183619737625122,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 48159,
+    "end_char": 50081,
+    "original": "(d) Changes Requested by Bellicum . If during the Term Bellicum desires Miltenyi to make any Change not necessary to comply with changes in Agreed Standards made by Regulatory Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) Authorities, Applicable Laws and/or other requirements of Regulatory Authorities (in each case, a \u201c Bellicum-Requested Change \u201d), Bellicum shall notify Miltenyi thereof in writing. Implementation of any such proposed Bellicum-Requested Change shall be subject to Miltenyi\u2019s consent. Miltenyi may withhold its consent to an Bellicum-Requested Change if Miltenyi reasonably determines that such change (i) does not comply with Agreed Standards, Applicable Laws or the requirements of Miltenyi\u2019s applicable Regulatory Authority, or (ii) could have potential adverse impact on Miltenyi\u2019s manufacturing activities or the sale of the respective Miltenyi Product to other customers. In addition, a Bellicum-Requested Change shall only be implemented following a technical and cost review which shall be conducted as promptly as is reasonably possible and in good faith by Miltenyi, at Bellicum\u2019s cost, and shall be subject to Miltenyi and Bellicum reaching agreement as to the one-time costs and revisions to the Product Price necessitated by any such Bellicum-Requested Change. If Bellicum agrees to reimburse Miltenyi for all documented costs and expenses reasonably incurred by Miltenyi as a result of the proposed Bellicum- Requested Change and accepts a proposed Product Price adjustment that reflects a change in Miltenyi manufacturing costs resulting from such Bellicum-Requested Change, Miltenyi shall use [...***...] to implement the proposed Bellicum-Requested Change. For clarity, an agreed adjustment to the Product Price shall become effective only with respect to orders for Miltenyi Products that are manufactured in accordance with the Bellicum-Requested Change.",
+    "ollama_generated": "(d) Changes Proposed by Bellicum . If during the Term, Bellicum suggests a Change (hereinafter referred to as \"Bellicum-Proposed Change\") which is not essential for Miltenyi to meet changes in Agreed Standards due to Regulatory Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) Authorities, Applicable Laws and/or other requirements of Regulatory Authorities, Bellicum is obligated to notify Miltenyi in writing. The implementation of any such proposed Bellicum-Proposed Change shall be contingent upon Miltenyi's discretion. Miltenyi reserves the right to decline a Bellicum-Proposed Change if Miltenyi has valid reasons to believe that such change (i) does not align with Agreed Standards, Applicable Laws or the requirements of Miltenyi's applicable Regulatory Authority, or (ii) may adversely affect Miltenyi's manufacturing activities or the sale of the respective Miltenyi Product to other customers. In addition, a Bellicum-Proposed Change shall only be executed following a technical and cost review which shall be conducted as expeditiously as practical by Miltenyi, at Miltenyi's discretion, without any obligation on Bellicum to reimburse Miltenyi for such costs. If Bellicum chooses not to incur these costs or disagrees with a proposed Product Price adjustment that reflects a change in Miltenyi manufacturing costs resulting from the Bellicum-Proposed Change, the proposed Bellicum-Proposed Change shall not be implemented. For clarity, no agreed adjustment to the Product Price shall become effective with respect to orders for Miltenyi Products unless they are manufactured in accordance with the existing terms and conditions.",
+    "contradiction_score": 0.06369326263666153,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 56565,
+    "end_char": 56617,
+    "original": "ARTICLE 4 REGULATORY 4.1 Regulatory Responsibility .",
+    "ollama_generated": "ARTICLE 4 DELEGATED RESPONSIBILITY 4.1 Delegated Compliance Obligation.\n\nThis change weakens the obligation and shifts responsibility from the original party to a new one, in this case, from Regulatory Responsibility to Delegated Responsibility, and from Regulatory Obligation to Compliance Obligation. This implies that the original party is no longer solely responsible for compliance but instead delegates it to another entity or party. The clause now reads more like a mandate for the delegation of regulatory obligations rather than a statement of the original party's direct responsibility.",
+    "contradiction_score": 0.026419904083013535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 56617,
+    "end_char": 56992,
+    "original": "(a) Bellicum Product(s). Subject to responsibilities pertaining to Miltenyi Products that are solely reserved by Miltenyi under this Agreement, and subject to the provisions in this Article 4 (including Section 4.7), Bellicum will be solely responsible for all regulatory activities with respect to any Bellicum Product, including the manufacture and quality control thereof.",
+    "modified": "(a) Miltenyi Product(s). Except for responsibilities regarding Bellicum Products that are exclusively retained by Bellicum under this Agreement, as outlined in Article 4 (including Section 4.7), Miltenyi will be solely accountable for all regulatory activities relating to any Miltenyi Product, including the manufacture and quality control thereof. This responsibility extends to addressing any issues that may arise during such processes.\n\nIn this revised clause, Miltenyi has taken on additional obligations for Miltenyi Products, shifting some of the responsibilities from Bellicum to Miltenyi. The new version emphasizes that Miltenyi will be responsible for addressing any issues arising from the regulatory activities and product manufacturing.",
+    "contradiction_score": 0.605734646320343,
+    "kept": true
+  },
+  {
+    "clause_index": 124,
+    "start_char": 64468,
+    "end_char": 64518,
+    "original": "4.7 Communication to/from Regulatory Authorities .",
+    "ollama_generated": "4.7 Communications with Regulatory Bodies:\n\nThe Company reserves the exclusive right to communicate with any regulatory authorities concerning the Services provided hereunder, unless explicitly directed otherwise in writing by the Client. The Client shall provide the Company with all necessary cooperation and access to information required for such communications, and indemnifies the Company against any losses or liabilities arising from such communications. In case the Client elects to communicate directly with regulatory authorities regarding the Services, the Company will not be held responsible for any resulting discrepancies or misunderstandings.",
+    "contradiction_score": 0.19359764456748962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 79147,
+    "end_char": 79171,
+    "original": "5.2 Volume Limitations .",
+    "modified": "5.2 Flexible Volume Thresholds:\n\nThe Client shall have the discretion to exceed the agreed-upon volume limits on a case-by-case basis, provided that such exceptions do not persistently disrupt the Service Provider's regular operations and that the Client compensates the Service Provider for any additional costs incurred. The Service Provider is under no obligation to accommodate persistent excesses beyond what is reasonably necessary for the Client's business needs.",
+    "contradiction_score": 0.6442533731460571,
+    "kept": true
+  },
+  {
+    "clause_index": 139,
+    "start_char": 79171,
+    "end_char": 79849,
+    "original": "(a) Subject to Bellicum\u2019s adherence to its Forecast obligations pursuant to Section 5.1 above, or as specifically modified in a specific Module, Miltenyi shall meet the demands of any Purchase Orders (as defined below) that are made by Bellicum in compliance with the Forecasts. Miltenyi shall not be obligated to supply Bellicum with quantities of Miltenyi Product in excess of [...***...] percent ([...***...]%) of the most recent Forecast provided to Miltenyi but agrees to use [...***...] to satisfy Bellicum\u2019s requirement of Miltenyi Product in excess of [...***...] percent ([...***...]%) of the relevant Forecast quantities in accordance with the terms of this Agreement.",
+    "ollama_generated": "(a) Provided that Miltenyi complies with its obligations under Section 5.1 above, or as specifically outlined within a designated Module, Bellicum shall receive Miltenyi's delivery of products in response to Purchase Orders (as defined below), which are made by Bellicum and conform to the Forecasts. Miltenyi is not required to provide Bellicum with quantities exceeding [***]% of the latest Forecast received, but will make reasonable efforts to fulfill any additional requirements for Miltenyi Product beyond [***]%, subject to the terms of this Agreement.",
+    "contradiction_score": 0.00427708774805069,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 79849,
+    "end_char": 80487,
+    "original": "(b) In the event that Miltenyi becomes aware that it is or will be unable to supply any desired quantity of Miltenyi Product pursuant to a Purchase Order that falls within the relevant Forecast on or before the applicable Delivery date(s) therefor, Miltenyi shall promptly inform Bellicum, and then, the Parties shall, in good faith, seek to agree on a revised date (or dates) for Delivery. If Miltenyi fails to propose a reasonably acceptable plan for the Delivery, Bellicum may, to be determined in Bellicum\u2019s reasonable discretion and notwithstanding anything to the contrary in the Agreement, at its option, cancel the Purchase Order.",
+    "ollama_generated": "(b) Should it occur that Miltenyi determines it cannot meet the required quantity of Miltenyi Product as specified in a given Purchase Order, falling within the relevant Forecast, by the designated Delivery date(s), Miltenyi will immediately notify Bellicum. Upon such notice, both parties are obligated to engage cooperatively and diligently in finding an alternate delivery schedule. If Miltenyi fails to put forth a viable plan for supply adjustment within a reasonable timeframe, Bellicum retains the right, exercisable at its discretion and without prejudice to any other rights under this Agreement, to elect unilaterally to terminate the Purchase Order.",
+    "contradiction_score": 0.16440078616142273,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 149,
+    "start_char": 86926,
+    "end_char": 87408,
+    "original": "5.5 Changes to Purchase Orders . Subject to Section 5.2 and applicable Lead Times, Miltenyi shall use [...***...] to comply with unplanned changes in Purchase Orders requested by Bellicum either in terms of quantities or Delivery dates. All requests for changes to Purchase Orders shall be submitted in writing. Bellicum shall be responsible for all supplementary costs that result from the implementation of any unplanned change to an accepted Purchase Order requested by Bellicum.",
+    "modified": "5.5 Alterations to Purchase Orders . Unless explicitly restricted by Section 5.2 or applicable Lead Times, Bellicum is responsible for any additional costs incurred as a result of requested changes to Purchase Orders, whether concerning quantities or Delivery dates, initiated by Bellicum. All such requests should be made in writing and Miltenyi shall have the discretion to comply with these changes, without obligation unless expressly agreed otherwise.",
+    "contradiction_score": 0.7681665420532227,
+    "kept": true
+  },
+  {
+    "clause_index": 169,
+    "start_char": 101328,
+    "end_char": 101373,
+    "original": "6.8 Continuity of Supply - Commercial Phase .",
+    "ollama_generated": "6.8 Interruption of Delivery - Post-Commercial Phase\n\nSupplier shall endeavor to minimize any disruptions in the delivery of Goods during the Post-Commercial Phase. In the event that such interruptions occur, Supplier shall notify Purchaser as soon as reasonably practicable and use its best efforts to resume deliveries within a reasonable timeframe, taking into account any unforeseen circumstances or extenuating factors beyond its control.\n\nPurchaser acknowledges that the Post-Commercial Phase may involve periods of lower production or delivery due to seasonal fluctuations, supply chain issues, or other factors, and agrees that it shall not hold Supplier liable for any losses incurred as a result of these interruptions, provided they are not attributable to Supplier's gross negligence or willful misconduct.",
+    "contradiction_score": 0.4698115885257721,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 182,
+    "start_char": 110446,
+    "end_char": 110481,
+    "original": "ARTICLE 7 ACCEPTANCE AND REJECTION.",
+    "ollama_generated": "ARTICLE 7 OPTION TO ACCEPT OR DECLINE.\n\nUpon receipt of the Services or Goods provided by the Provider, the Recipient shall have a reasonable time to examine them thoroughly. If the Recipient finds no issues and accepts the Services or Goods, such acceptance shall be deemed implied. However, if the Recipient discovers any defects or inadequacies within a specified period, they may reject the Services or Goods without obligation to accept them. The Provider shall bear the risk of any loss or damage during this examination period and shall not claim payment for the rejected Services or Goods.",
+    "contradiction_score": 0.019807830452919006,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 189,
+    "start_char": 116366,
+    "end_char": 118015,
+    "original": "7.6 Replacement or Refund . Bellicum shall not be required to pay any invoice with respect to any shipment of Miltenyi Products properly rejected pursuant to this Section 7.2. Notwithstanding the foregoing, Bellicum shall be obligated to pay in full for any rejected shipment of Miltenyi Products that is not returned or destroyed in accordance with Section 7.5 above, and that is subsequently determined to conform to the applicable Miltenyi Product Warranty, irrespective of whether Bellicum has already paid Miltenyi for a replacement shipment (but in such event, the replacement shipment will be Delivered to Bellicum and will be included in Bellicum\u2019s Minimum Purchases). If Bellicum pays in full for a shipment of Miltenyi Products and subsequently properly rejects such shipment in accordance with Section 7.2, Bellicum shall be entitled, upon confirmation that such shipment failed to conform to the applicable Miltenyi Product Warranty, either, at Bellicum\u2019s option: (i) to a refund or credit equal to the Product Price paid with respect to such rejected shipment (including without limitation, taxes paid and shipping expenses)\u037e or (ii) to require Miltenyi to promptly replace and Deliver to Bellicum an amount of Miltenyi Products that conforms to the requirements of this Agreement at no additional cost to Bellicum. Bellicum acknowledges and agrees that Bellicum\u2019s rights to a refund or credit for, or to receive replacement of, properly rejected shipments of Miltenyi Products hereunder shall be Bellicum\u2019s sole and exclusive remedy, and Miltenyi\u2019s sole obligation, with respect to non-conforming Miltenyi Products delivered hereunder.",
+    "modified": "7.6 Refund or Replacement Obligations: Miltenyi shall be responsible for any shipment of Bellicum Products that are improperly accepted under Section 7.2, and will refund or replace such products at no additional cost to Miltenyi. However, if Miltenyi fails to return or destroy the rejected shipment in accordance with Section 7.5 and it is subsequently found to conform to the applicable Bellicum Product Warranty, Miltenyi shall remain liable for the full payment of the shipment. In such cases where Miltenyi has already received a replacement shipment from Bellicum, the original shipment will still be considered returned and will not affect Bellicum's Minimum Purchases requirements. If Miltenyi improperly accepts a shipment of Bellicum Products and later rejects it in accordance with Section 7.2, Miltenyi may, at its discretion: (i) retain the refund or credit equal to the Product Price paid for the rejected shipment (including all applicable taxes and shipping expenses); or (ii) require Bellicum to promptly provide a replacement shipment of Bellicum Products that meets the terms of this Agreement. Miltenyi acknowledges and agrees that its sole remedy for non-conforming Bellicum Products delivered under this Agreement shall be the right to request a refund, credit, or replacement as described above, and Bellicum's sole obligation in such cases will be to comply with this remedy.",
+    "contradiction_score": 0.5069730877876282,
+    "kept": true
+  },
+  {
+    "clause_index": 196,
+    "start_char": 123570,
+    "end_char": 125119,
+    "original": "(c) Purchase Price Adjustments . Miltenyi shall be entitled to modify the Purchase Price for any Miltenyi Product as set forth in Section 8.3(a) above and Exhibit E  on or after the commencement of each Calendar Year during the Term after Contract Year 1 in accordance with this Section 8.4(c), provided that there shall not be more than one (1) Purchase Price increase with respect to the same Miltenyi Product in any given Contract Year during the Term. In case, after application of the applicable Discount, any Purchase Price increases [...***...] percent ([...***...]%) annually, then the Parties shall consult each other, negotiate in good faith and agree in writing upon an adaptation of the applicable Discount to stay within the capping of a [...***...] percent ([...***...]%) increase, except for cases when such Purchase Price increase is the result of a documented increase of more than [...***...] ([...***...]%) in the cost of any raw materials, packaging and/or other components used in the manufacture of Miltenyi Product and Miltenyi, at Bellicum\u2019s request, has provided reasonable documentation evidencing such changes in production costs. It is however expressly agreed between the Parties that the adjusted Purchase Price charged to Bellicum for Miltenyi Product supplied hereunder shall in no event exceed Miltenyi\u2019s then-current list prices for such Miltenyi Product as in effect in the country of destination or use of the applicable Miltenyi Product, as published from time to time in Miltenyi\u2019s applicable product catalogue.",
+    "ollama_generated": "(c) Purchase Price Adjustments. Bellicum shall be obligated to accept modifications in the Purchase Price for any Miltenyi Product as specified in Section 8.3(a) above and Exhibit E, starting from the commencement of each Calendar Year during the Term following Contract Year 1, subject to the conditions outlined in this Section 8.4(c). The provision states that there shall be no more than one (1) Purchase Price decrease with respect to the same Miltenyi Product in any given Contract Year during the Term. In cases where, after the application of the applicable Discount, a Purchase Price decrease exceeds [...***...] percent ([...***...]%) annually, the Parties shall engage in consultations, negotiate in good faith, and reach a written agreement regarding an adjustment of the applicable Discount to accommodate a [...***...] percent ([...***...]%) decrease, unless such Purchase Price decrease is a direct result of a documented reduction of more than [...***...] ([...***...]%) in the cost of any raw materials, packaging, and/or other components used in the manufacture of Miltenyi Product, and Miltenyi, upon Bellicum's request, has supplied appropriate documentation substantiating these cost reductions. It is understood between the Parties that the reduced Purchase Price paid by Bellicum for Miltenyi Product under this Agreement shall never fall below Miltenyi's then-current list prices for such Miltenyi Product as published in its applicable product catalogue, effective in the country of destination or intended use of the relevant Miltenyi Product.\n\nThis revised clause weakens Bellicum's position by obligating them to accept a decrease in purchase price instead of being entitled to it, and by making it harder for them to do so (i.e., requiring that the decrease exceeds a certain percentage before any adjustment can be made). Additionally, it shifts the responsibility of providing evidence for cost reductions from Miltenyi to Bellicum.",
+    "contradiction_score": 0.0852886438369751,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 197,
+    "start_char": 125119,
+    "end_char": 125508,
+    "original": "(d) Product Price Adjustments resulting from Changes.  The Parties acknowledge and agree that the limitations on Product Price increases set forth in Section 8.3(c) above shall not apply to Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) Product Price adjustments resulting from a Required Change or a Bellicum-Requested Change pursuant to Section 3.2(d) hereof.",
+    "ollama_generated": "(d) Alterations in Product Pricing due to Modifications. The Parties mutually understand and concur that the restrictions on Price escalation for the Product, as outlined in Section 8.3(c) preceding, shall not be applicable to adjustments in the Product Price stemming from a Mandated Modification or a Modification demanded by Bellicum, as stipulated in Section 3.2(d) herein. This exemption permits unfettered price adjustment under specified circumstances, thereby shifting the burden of potential increased costs onto the accepting party.",
+    "contradiction_score": 0.005524674896150827,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 199,
+    "start_char": 125664,
+    "end_char": 125984,
+    "original": "(a) Except as otherwise provided herein, all undisputed and properly due payments are payable within [...***...] days of Bellicum\u2019s receipt of each invoice corresponding to a shipment of Miltenyi Products by Miltenyi, such invoices to be issued by Miltenyi or the applicable Miltenyi Affiliate in the Forecast Territory.",
+    "ollama_generated": "(a) Unless explicitly specified within this agreement, all uncontested and timely payments for delivered Miltenyi Products are expected to be remitted by Bellicum within [...***...] business days following Bellicum's receipt of a valid invoice from Miltenyi or the relevant Miltenyi Affiliate in the Forecast Territory, provided that Bellicum shall have a reasonable period of up to [...***...] business days for any investigation or disputes regarding the accuracy or completeness of the invoice.\n\nIn this revised version, the clause introduces a provision allowing Bellicum a reasonable time (up to [...***...] business days) to investigate or dispute the accuracy or completeness of an invoice before making payment. This modification softens the original obligation by giving Bellicum more flexibility in managing its payments.",
+    "contradiction_score": 0.0019106074469164014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 201,
+    "start_char": 126451,
+    "end_char": 126547,
+    "original": "(c) All sums payable by Bellicum under this Agreement are stated exclusive of sales tax and VAT.",
+    "modified": "(c) All payments to be made by Bellicum under this Agreement are inclusive of any applicable sales taxes and VAT, unless expressly stated otherwise.",
+    "contradiction_score": 0.9814814329147339,
+    "kept": true
+  },
+  {
+    "clause_index": 202,
+    "start_char": 126547,
+    "end_char": 126999,
+    "original": "(d) Without prejudice to any other right or remedy available to Miltenyi, Miltenyi reserves the right to assess a late fee equal to [...***...] percent ([...***...]%) per month, or if lower, the maximum amount permitted by Applicable Law, on all undisputed and properly due amounts not paid by Bellicum when due. Bellicum acknowledges that failure by Bellicum to comply with its payment obligations in this Article 8 shall constitute a material breach.",
+    "ollama_generated": "(d) In addition to any other rights or remedies at Miltenyi's disposal, Miltenyi retains the prerogative to impose a late charge equivalent to [...***...] percent ([...***...]%) per month, or the highest allowable amount as determined by Applicable Law, on any undisputed and timely billings left unpaid by Bellicum past their due dates. Bellicum acknowledges that persistent non-compliance with its payment duties under Article 8 may be construed as a material breach, though Miltenyi shall first issue a written notice to Bellicum requesting payment before declaring such a breach.",
+    "contradiction_score": 0.002934511285275221,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 203,
+    "start_char": 126999,
+    "end_char": 127382,
+    "original": "(e) Except as expressly provided herein, Bellicum shall not exercise any right of setoff, net-out or deduction, take any credit, or otherwise reduce the balance owed to Miltenyi with respect to any payments under this Agreement, unless the Parties otherwise agree or until Bellicum has obtained a final and non-appealable judgment against Miltenyi in the amount asserted by Bellicum.",
+    "modified": "(e) Miltenyi shall have the right to exercise any setoff, net-out, deduction, credit, or reduction of the balance owed to Bellicum with respect to any payments under this Agreement, unless otherwise agreed upon by the Parties or if Miltenyi has not received a final and non-appealable judgment against Bellicum in the amount disputed by Miltenyi. This clause does not limit Miltenyi's rights to offset or deduct as expressly provided elsewhere in this Agreement.",
+    "contradiction_score": 0.9397423267364502,
+    "kept": true
+  },
+  {
+    "clause_index": 204,
+    "start_char": 127382,
+    "end_char": 128147,
+    "original": "8.6 Taxes . All payments made under this Agreement shall be free and clear of any and all taxes, duties, levies, fees or other charges, except for withholding taxes. Each Party shall be entitled to deduct from its payment to the other Party under this Agreement the amount of any withholding taxes required to be withheld, to the extent paid to the appropriate governmental authority on behalf of the other Party (and not refunded or reimbursed). Each Party shall deliver to the other Party, upon request, proof of payment of all such withholding taxes. Each Party shall provide reasonable assistance to the other Party in seeking any benefits available to such Party with respect to government tax withholdings by any relevant law, regulation or double tax treaty.",
+    "ollama_generated": "8.6 Taxes and Withholdings:\nEach Party acknowledges its sole responsibility for all applicable taxes, duties, levies, fees, or other charges associated with payments made under this Agreement, including but not limited to withholding taxes. The Parties agree that each may retain, without prior notice, an amount equivalent to any withholding tax required by law from the payments due to the other Party, and remit such amount to the appropriate governmental authority.\n\nUpon request, each Party shall provide the other Party with all necessary documentation and information to support the payment of such taxes. Additionally, each Party will cooperate reasonably in helping the other Party secure any available tax benefits or exemptions under applicable laws, regulations, or double tax treaties regarding government tax withholdings. The Party receiving the payments assumes full responsibility for obtaining any refunds or reimbursements related to withholding taxes and shall provide prompt notification of any received refunds or reimbursements to the paying Party.",
+    "contradiction_score": 0.3794676959514618,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 207,
+    "start_char": 130339,
+    "end_char": 130906,
+    "original": "9.2 Exempt Documentation . Miltenyi reserves the right, at its sole discretion, to exempt certain documentation from such audit described in Section 9.1 if and to the extent this is reasonably required in order to protect Miltenyi\u2019s trade secrets in Miltenyi Technology and/or other Miltenyi Intellectual Property Rights or Third Party Intellectual Property rights. If such exemption will have a material impact on the scope of a representative\u2019s inspection, the Parties will discuss in good faith other means to provide sufficient information to such representative.",
+    "ollama_generated": "9.2 Exemptions to Audit Access: The Party receiving audits (hereinafter \"Recipient\") shall be granted the discretionary power, under reasonable circumstances, to withhold certain documentation from the audit as described in Section 9.1. This action may be taken if the Recipient deems it necessary for safeguarding trade secrets associated with Miltenyi Technology or any other Miltenyi Intellectual Property Rights, as well as third-party intellectual property rights. In instances where such exemptions could significantly impact the extent of a representative's inspection, both parties are obligated to engage in good faith discussions to determine alternative methods for disclosing sufficient information to the representative.\n\nThis revised clause places the discretion of withholding certain documentation during an audit in the hands of the recipient, making it clear that Miltenyi can only withhold documents under reasonable circumstances for safeguarding its intellectual property rights. Additionally, the requirement to engage in good faith discussions when such exemptions could significantly impact the extent of a representative's inspection emphasizes the obligation for both parties to work together to ensure sufficient information is still provided.",
+    "contradiction_score": 0.028381360694766045,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 208,
+    "start_char": 130906,
+    "end_char": 131935,
+    "original": "9.3 Inspection by Regulatory Authority . Miltenyi shall permit inspections of the Miltenyi Facility by Regulatory Authorities and shall respond to any notices or requests for information by Regulatory Authorities for any import or export license, registration or pending registration for manufacturing of Miltenyi Products during the Term of the Agreement. Miltenyi shall permit representatives of any applicable Regulatory Authority to access, at any reasonable time during normal business hours, any and all relevant records and information, personnel and facilities. To the extent that a Regulatory Authority raises any quality issue during or following a Regulatory Authority inspection that would Bellicumbe reasonably likely to adversely affect the suitability of the Miltenyi Products for any Permitted Use, Miltenyi shall promptly advise Bellicum in writing of such issue. The Parties will promptly give written notice to each other in advance of any scheduled inspection of Miltenyi\u2019s Facility by a Regulatory Authority.",
+    "modified": "9.3 Access and Compliance with Regulatory Authorities: Bellicum shall be responsible for obtaining all necessary import or export licenses, registrations, or pending registrations for the manufacturing of Miltenyi Products during the Term of this Agreement. Bellicum shall allow inspections of their facilities by regulatory authorities upon reasonable notice and shall provide any requested information. Regulatory authority representatives may access relevant records, personnel, and facilities at any time within normal business hours.\n\nIn case a quality issue is raised by a Regulatory Authority during or after an inspection that Bellicum deems could potentially impair the suitability of the Miltenyi Products for any Permitted Use, Bellicum shall not be obligated to promptly inform Miltenyi in writing. However, Bellicum shall use reasonable efforts to communicate any such issues to Miltenyi as soon as practicable. No prior written notice is required from either party regarding unscheduled inspections of the Miltenyi Facility by a Regulatory Authority.",
+    "contradiction_score": 0.9519977569580078,
+    "kept": true
+  },
+  {
+    "clause_index": 212,
+    "start_char": 135181,
+    "end_char": 135666,
+    "original": "10.3  Notification . Miltenyi will promptly notify Bellicum in writing of Miltenyi\u2019s receipt of any written claim or demand from any Third Party alleging that the practice of Miltenyi Technology infringes such Third Party\u2019s Intellectual Property Rights, or Miltenyi\u2019s receipt of written notice of the initiation of any legal action or other legal proceeding by any Third Party alleging that the practice of Miltenyi Technology infringes such Third Party\u2019s Intellectual Property Rights.",
+    "ollama_generated": "10.3 Notification: Bellicum shall be promptly informed in writing by Miltenyi, to the extent practicable and not prejudicial to Miltenyi's position, of any written claim or demand from a Third Party claiming that Miltenyi Technology potentially infringes upon their Intellectual Property Rights, or the initiation of any legal action or other legal proceeding by such a Third Party with similar allegations. Miltenyi's obligation to provide notification shall not extend to instances where prior disclosure could adversely impact its strategic or negotiation position.",
+    "contradiction_score": 0.02578112483024597,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 215,
+    "start_char": 136366,
+    "end_char": 137467,
+    "original": "(1) be manufactured, tested and Devilvered by Miltenyi in accordance with all applicable marketing approvals (if any), Agreed Standards, the terms of this Agreement and other Applicable Laws applicable at the place of manufacture to the manufacture, testing, and Delivery of Miltenyi Products by Miltenyi\u037e (2) conform to Product Specifications at the time of Delivery\u037e (3) meet quality and purity characteristics that Miltenyi purports or represents that such Miltenyi Product possesses through its assigned expiry date (shelf life)\u037e (4) be supplied under a quality system in accordance and compliance with the Quality Agreement, (5) not be adulterated or mislabeled under Applicable Laws, and (6) at the time of Delivery, be delivered with full title and be free and clear of any lien or encumbrance Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) (collectively, the \u201c Miltenyi Product Warranty \u201d). Bellicum\u2019s remedies and Miltenyi liability with respect to this Miltenyi Product Warranty are set forth in Section 7.6 and as otherwise expressly set forth in this Agreement.",
+    "ollama_generated": "1. Miltenyi shall be responsible for manufacturing, testing, and delivering the Products according to all applicable marketing approvals (if any), Agreed Standards, the terms of this Agreement, and other Applicable Laws pertinent to the production, examination, and delivery of Miltenyi's products at their respective locations. These obligations are subject to reasonable discretion and deviation, provided such actions do not compromise the integrity or safety of the Products. (2) Upon delivery, the Products must comply with the specified Product Specifications. (3) The quality and purity characteristics of the Miltenyi Products should align with those that Miltenyi claims or suggests they possess up until their assigned expiry date (shelf life), but deviations may occur due to unforeseen circumstances beyond Miltenyi's control. (4) The Products shall be supplied under a quality system, adhering to the Quality Agreement, but with some flexibility to adapt to evolving industry standards and best practices. (5) It is understood that the Products will not be considered adulterated or mislabeled under Applicable Laws; however, minor labeling inconsistencies may arise due to unavoidable errors or oversights during production. (6) At the time of delivery, title to the Products will be transferred to Bellicum, and they will be delivered free from any liens or encumbrances, with the exception of cases where Miltenyi is legally obligated to retain a security interest due to ongoing financial obligations. The remedies available to Bellicum and Miltenyi's liability concerning this Miltenyi Product Warranty are detailed in Section 7.6 and as explicitly outlined elsewhere within this Agreement.",
+    "contradiction_score": 0.043360933661460876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 220,
+    "start_char": 140527,
+    "end_char": 140949,
+    "original": "(a) EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATIONS OR EXTENDS ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND EACH PARTY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND OF FITNESS FOR A PARTICULAR PURPOSE OR USE, NON- INFRINGEMENT, VALIDITY AND ENFORCEABILITY OF PATENTS, OR THE PROSPECTS OR LIKELIHOOD OF DEVELOPMENT OR COMMERCIAL SUCCESS OF PRODUCT.",
+    "ollama_generated": "(a) Beyond the specific representations and warranties explicitly stated within this Agreement, each Party expressly refrains from making any promises or providing any guarantees of any nature, either expressed or implied. It is acknowledged by both Parties that all implied warranties pertaining to merchantability, fitness for a particular purpose or use, non-infringement, validity and enforceability of patents, as well as the likelihood or prospects of development, commercial success, or functionality of the Product, are hereby disclaimed. Each Party explicitly waives any such warranties that might otherwise be inferred from this Agreement.",
+    "contradiction_score": 0.00504629872739315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 223,
+    "start_char": 142134,
+    "end_char": 142990,
+    "original": "(d) Miltenyi\u2019s warranty under Section 11.2 does not relate to the potential uses of Miltenyi Products by Bellicum, its Subcontractors or Licensees in relation to Third Party rights, even if foreseeable. Bellicum acknowledges that there may be proprietary rights owned by Third Parties that may be necessary or desirable for the use of Miltenyi Products in connection with processes for the production and/or use of Bellicum Products, and Bellicum agrees that (i) securing access to such Third Party rights regarding such use of Miltenyi Products in the manufacture or use of a Bellicum Product is Bellicum\u2019s responsibility, and (ii) neither Miltenyi nor any of its Affiliates has any responsibility or liability with respect to any such Third Party proprietary rights regarding such use of Miltenyi Products in the manufacture or use of a Bellicum Product.",
+    "ollama_generated": "(d) Whilst Miltenyi's warranty as outlined in Section 11.2 does not encompass potential uses of Miltenyi Products by Bellicum, its Subcontractors, or Licensees with respect to Third Party rights, even if such consequences were foreseeable, it is acknowledged that there may exist proprietary rights owned by Third Parties, essential or advantageous for the application of Miltenyi Products in relation to Bellicum's processes leading to the production and/or utilization of Bellicum Products. Bellicum accepts the responsibility for (i) procuring access to such Third Party rights associated with the utilization of Miltenyi Products in the fabrication or employment of a Bellicum Product, and (ii) relieving Miltenyi and all its Affiliates from any responsibility or liability concerning such Third Party proprietary rights in connection with the application of Miltenyi Products during the manufacture or operation of a Bellicum Product.",
+    "contradiction_score": 0.01823144033551216,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 228,
+    "start_char": 145659,
+    "end_char": 145970,
+    "original": "ARTICLE 12 LIMITATION OF LIABILITY 12.1  Limitation of Liability . Except for liability for (i) breach of the confidentiality obligations described in Article 14, (ii) misappropriation or infringement by a Party of the other Party\u2019s Intellectual Property Rights, or (iii) gross negligence or willful misconduct:",
+    "ollama_generated": "ARTICLE 12 LIMITATION OF RESPONSIBILITY\n\n12.1  Limitation of Responsibility. The Parties shall not be held liable for any losses, damages, claims, actions, or expenses (other than those resulting from a breach of the confidentiality obligations described in Article 14, the misuse or infringement by one Party of the other's Intellectual Property Rights, or acts of gross negligence or willful misconduct) that may arise out of or relate to this Agreement or the performance of its provisions.\n\nIn this version, the parties have a reduced obligation in terms of liability, as they are not liable for any losses, damages, claims, actions, or expenses (with the exceptions listed) that may arise from this agreement or the performance of its provisions.",
+    "contradiction_score": 0.006774288136512041,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 241,
+    "start_char": 160592,
+    "end_char": 161213,
+    "original": "(b) Authorized Disclosure . Notwithstanding the provisions of this Article 14, each Party may disclose the terms of this Agreement (i) in connection with the requirements of an initial public offering or securities filing\u037e (ii) in confidence, to accountants, attorneys, other professional advisors, banks, and financing sources and their advisors\u037e (iii) in confidence, in connection with the enforcement of this Agreement or rights under this Agreement\u037e or (iv) in confidence, in connection with a merger or acquisition or proposed merger or acquisition, or a sale or proposed sale of its assets or business, or the like.",
+    "ollama_generated": "(b) Permitted Disclosure . Contrary to the stipulations within Article 14, each Party retains the discretion to divulge the terms of this Agreement under the following circumstances: (i) in compliance with mandatory disclosures required for an initial public offering or securities filing; (ii) confidentially, to accountants, attorneys, professional advisors, banks, and financing sources, as well as their respective advisors; (iii) confidentially, when pursuing actions to enforce this Agreement or asserting rights outlined herein; or (iv) under confidentiality obligations, in the context of a potential merger, acquisition, proposed merger, acquisition, or any other transaction similar to a sale of its assets, business, or substantial portion thereof.",
+    "contradiction_score": 0.010667683556675911,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 242,
+    "start_char": 161213,
+    "end_char": 161740,
+    "original": "14.5  Publicity . Each Party may disclose the existence of this Agreement, but agrees that the terms and conditions of this Agreement will be treated as Confidential Information of the other Party. Except as otherwise required by Applicable Laws or regulations, neither Party shall make any public announcement or press release regarding this Agreement or any terms thereof, or otherwise use the name, logos, trademarks or products of the other Party in any publication, without the other Party\u2019s express prior written consent.",
+    "ollama_generated": "14.5 Public Disclosure: Each Party retains the right to publicly disclose the existence of this Agreement; however, they understand that such disclosure does not waive their obligation to maintain the terms and conditions of this Agreement as Confidential Information belonging solely to the other Party. Exceptions to this confidentiality agreement apply only when complying with mandated legal obligations or regulations. Notably, neither Party shall issue any public announcements, press releases, or make any publications that reference this Agreement, its terms, or utilize the name, logos, trademarks, or products of the other Party without first obtaining express written consent from the other Party in advance.",
+    "contradiction_score": 0.006896758917719126,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 244,
+    "start_char": 162409,
+    "end_char": 163322,
+    "original": "ARTICLE 15 TERM AND TERMINATION 15.1  Term . This Agreement shall enter into force on the Effective Date. The Agreement shall have an initial term of ten (10) years commencing from the Effective Date and ending on the tenth (10th) anniversary thereof (the \u201c Initial Term \u201d), unless earlier terminated by either Party in accordance with the provisions of Section 15.2 or Section 15.3. Thereafter, Bellicum shall have consecutive separate options to extend the Term for successive renewal terms of five (5) years each (each, a \u201c Renewal Term \u201d, and Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) collectively with the Initial Term, the \u201c Term \u201d). Provided Bellicum is not then in default with its material obligations hereunder, Bellicum may exercise each such renewal option by giving written notice to Miltenyi not later than six (6) months prior to the expiration of the current Term.",
+    "ollama_generated": "ARTICLE 15 TERM AND TERMINATION\n\n15.1 Commencement and Duration. This Agreement shall become effective on the Effective Date, and its duration shall be initially bound by a term of ten (10) years, starting from the Effective Date, until the tenth (10th) anniversary thereof (hereinafter referred to as the \" Initial Term \"). Either Party has the right to terminate this Agreement prior to the end of the Initial Term in accordance with the provisions of Sections 15.2 or 15.3.\n\nUpon the completion of the Initial Term, Miltenyi Biotec shall have the prerogative to extend the Term for successive renewal terms of five (5) years each (each, a \" Renewal Term \", and Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) collectively with the Initial Term, the \" Term \"). Should Miltenyi not be in default of its material obligations hereunder, it may exercise each such renewal option by giving written notice to Bellicum at least six (6) months prior to the expiration of the current Term. In the event that Miltenyu exercises this option, the Term shall automatically extend for an additional five-year period.\n\nIn essence, the rewritten clause now allows Miltenyi Biotec to unilaterally renew the agreement for consecutive five-year periods upon fulfilling their obligations, whereas in the original clause, Bellicum had the right to renew the agreement.",
+    "contradiction_score": 0.2461085468530655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 256,
+    "start_char": 171379,
+    "end_char": 171621,
+    "original": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) If to Miltenyi: Miltenyi Biotec GmbH Friedrich-Ebert-Str. 68 51429 Bergisch Gladbach Germany Attn: Managing Director Fax: [...***...] With copy to (for legal matters):",
+    "ollama_generated": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) If from Bellicum: Bellicum Pharmaceuticals, Inc., 4550 Patrick Henry Drive, Suite 300, Fremont, CA 94538, U.S.A. Attn: Legal Department Fax: [...***...] With primary notice to (for all matters):\n\nThis modification inverts the recipients of the notifications and primary correspondence, shifting responsibility from Miltenyi Biotec GmbH to Bellicum Pharmaceuticals, Inc. for all non-legal matters under this agreement.",
+    "contradiction_score": 0.35932081937789917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 257,
+    "start_char": 171621,
+    "end_char": 171782,
+    "original": "Miltenyi Biotec GmbH Friedrich-Ebert-Str. 68 51429 Bergisch Gladbach Germany Attn: General Counsel Fax: [...***...] If to Bellicum Bellicum Pharmaceuticals, Inc.",
+    "ollama_generated": "In the event that Miltenyi Biotec GmbH, located at Friedrich-Ebert-Str. 68, 51429 Bergisch Gladbach, Germany, Attn: General Counsel (Fax: [...***...]), is deemed to be in breach of this agreement by Bellicum Pharmaceuticals, Inc., the responsibility for any subsequent legal actions or costs incurred shall primarily lie with Miltenyi Biotec GmbH.\n\nThis clause shifts the responsibility for legal actions or costs incurred due to a potential breach from Bellicum Pharmaceuticals, Inc. to Miltenyi Biotec GmbH.",
+    "contradiction_score": 0.005382392089813948,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 260,
+    "start_char": 172001,
+    "end_char": 172852,
+    "original": "Life Science Plaza 2130 West Holcombe Boulevard, Suite 800 Houston, Texas 77030 Attn: General Counsel Fax: [...***...] All such communications, if personally delivered on a Business Day, will be conclusively deemed to have been received by a Party hereto and to be effective when so delivered, or if sent by overnight courier service on the earlier of the Business Day when confirmation of delivery is provided by such service or when actually received by such Party, or if sent by certified or registered mail on the third Business Day after the Business Day on which deposited in the mail. Each Party will use [...***...] to provide additional notice by email but the failure to provide such notice will not affect the validity of any such notice. Either Party may change its address by giving the other notice thereof in the manner provided herein.",
+    "ollama_generated": "Life Science Plaza, 2130 West Holcombe Boulevard, Suite 800, Houston, Texas 77030, Attn: General Counsel, Fax: [...***...] All communications delivered in person on a Business Day shall be deemed to have been received and become effective immediately. If such communications are sent by overnight courier service, they will be considered received and effective on the day confirmed by the service or when actually received, whichever is earlier. If sent by certified or registered mail, they will be considered received and effective three Business Days after being deposited in the mail.\n\nEach Party reserves the right to use alternative methods for providing additional notice, including email, but the failure to provide such notice will not render the communication invalid. Any changes to a Party's address must be communicated to the other Party using the methods outlined herein.",
+    "contradiction_score": 0.058164119720458984,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 262,
+    "start_char": 175212,
+    "end_char": 176277,
+    "original": "ARTICLE 18  FORCE MAJEURE 18.1  Neither Party will be liable to the other Party on account of any loss or damage resulting from any delay or failure to perform all or any part of this Agreement if such delay or failure is caused, in whole or in part, by events, occurrences, or causes beyond the reasonable control and without negligence of the Parties (\u201c Force Majeure Event \u201d). Such events, occurrences, or causes will include acts of God, strikes, lockouts, acts of war, riots, civil commotion, terrorist acts, epidemic, failure or default of public utilities or common carriers, destruction of facilities or materials by fire, explosion, earthquake, storm or the like catastrophe, and failure of plant or machinery (provided that such failure could not have been prevented by the exercise of skill, diligence and prudence that would be reasonably and ordinarily expected from a skilled and experienced person engaged in the same type of undertaking under the same or similar circumstances), but the inability to meet financial obligations is expressly excluded.",
+    "ollama_generated": "ARTICLE 18 - FORCE MAJEURE\n\n18.1 Both Parties shall bear no liability towards each other for any losses or damages arising from a delay or failure to fulfill all or part of this Agreement, should such incident be attributable, either entirely or partially, to circumstances outside the Party's reasonable control and without negligence (\"Force Majeure Event\"). Such circumstances will encompass acts of nature, strikes, lockouts, war, civil unrest, terrorist activities, epidemics, disruptions in public services or transportation networks, destruction by fire, explosion, earthquake, storm, or other catastrophic events. However, the party's inability to meet financial obligations will be considered an exception within this clause.\n\nThis revised version shifts some responsibility from one party to both parties and clarifies that financial obligations are explicitly excluded from the Force Majeure Event.",
+    "contradiction_score": 0.09794695675373077,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 264,
+    "start_char": 176751,
+    "end_char": 177389,
+    "original": "ARTICLE 19  APPLICABLE LAWS\u037e JURISDICTION 19.1  Governing Law . This Agreement shall be governed in all respects by, and construed and enforced in accordance with, the laws of the State of New York, USA, without regard to the conflict of law provisions thereof or the United Nations Convention on Contracts for the International Sale of Goods\u037e provided, however, that any dispute relating to the scope, validity, enforceability or infringement of any Intellectual Property Right will be governed by, and construed and enforced in accordance with, the substantive laws of the jurisdiction in which such Intellectual Property Right applies.",
+    "ollama_generated": "ARTICLE 19  APPLICABLE LAWS; JURISDICTION\n\n19.1  Governing Law . This Agreement shall be interpreted and applied according to the laws of the State of New York, USA, excluding any conflict of law provisions therein or the United Nations Convention on Contracts for the International Sale of Goods. However, in matters concerning the scope, validity, enforceability, or infringement of any Intellectual Property Right, such disputes shall be subject to the substantive laws of the jurisdiction where the Intellectual Property Right is located, with the understanding that the application and enforcement of these laws shall not extend beyond the resolution of the specific dispute regarding the Intellectual Property Right in question.\n\nIn this revised clause, the responsibility for determining the governing law in disputes over intellectual property rights has been shifted to the jurisdiction where the intellectual property right is located, rather than to New York state. Additionally, the scope of application and enforcement of the applicable laws has been limited to the resolution of disputes specifically related to the intellectual property right in question, thus weakening the applicability of these laws beyond that context.",
+    "contradiction_score": 0.022293739020824432,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 272,
+    "start_char": 182969,
+    "end_char": 183846,
+    "original": "Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) 20.4  Severability and Headings . If any term, condition or provision of this Agreement is held to be invalid, unlawful or unenforceable to any extent by a court of competent jurisdiction, then the Parties will negotiate in good faith a substitute, valid and enforceable provision that most nearly effects the Parties\u2019 intent and the Parties agree to be bound by the mutually agreed substitute provision. If the Parties fail to agree on such an amendment, such invalid term, condition or provision will be severed from the remaining terms, conditions and provisions, which will continue to be valid and enforceable to the fullest extent permitted by law. Headings used in this Agreement are provided for convenience only, and shall not in any way affect the meaning or interpretation of this Agreement.",
+    "ollama_generated": "20.4  Severability and Headings. In the event that a court of competent jurisdiction deems any term, condition, or provision of this Miltenyi Biotec-Bellicum Supply Agreement (Execution Copy, March 27, 2019) to be invalid, unlawful, or non-enforceable in any manner, the Parties shall make reasonable efforts to revise it in a way that aligns as closely as possible with their original intent. If the Parties are unable to reach such an agreement, the non-compliant portion shall be considered removed from this Agreement without affecting the validity or enforceability of the remaining terms and conditions, which shall remain in full effect to the maximum extent permitted by law. For clarification, headings used throughout this Agreement serve solely as a convenient tool for navigation and have no impact on the interpretation or meaning of the Agreement's content.",
+    "contradiction_score": 0.01253775879740715,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 280,
+    "start_char": 187136,
+    "end_char": 187630,
+    "original": "Subject to the provisions of this Agreement, Miltenyi is willing to grant to Bellicum a non-exclusive sublicense to its rights obtained under the [...***...] License Agreement in the form of a separate agreement between Miltenyi and Bellicum, under such separate sublicense agreement Bellicum would agree to hold harmless and reimburse Miltenyi for the fees that are due to [...***...] based on Bellicum\u2019s use of the sublicense rights for Bellicum Products (\u201c[...***...] Sublicense Agreement\u201d).",
+    "ollama_generated": "Granted within the parameters of this Agreement, Bellicum is permitted to receive a non-exclusive sub-license from Miltenyi, concerning the rights acquired under the [...***...] License Agreement. This sub-license will be governed by a distinct agreement between Miltenyi and Bellicum (\"Sub-License Agreement\"). Under the terms of this Sub-License Agreement, Miltenyi shall have the right to seek indemnification and recover fees from Bellicum, incurred due to obligations related to [...***...] based on Bellicum's utilization of the sub-licensed rights for Bellicum Products (\"[...***...] Sub-License Agreement\").\n\nIn this version, the obligation shifts from Bellicum to hold harmless and reimburse Miltenyi, to Miltenyi seeking indemnification and recovering fees from Bellicum. This makes it clear that Miltenyi can seek compensation in case of any obligations related to [...***...] arising from Bellicum's use of the sub-licensed rights for their products.",
+    "contradiction_score": 0.06458401679992676,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

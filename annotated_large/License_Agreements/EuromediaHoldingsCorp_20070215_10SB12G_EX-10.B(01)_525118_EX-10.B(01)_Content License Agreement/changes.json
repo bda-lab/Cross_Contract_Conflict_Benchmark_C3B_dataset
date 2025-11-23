@@ -1,0 +1,171 @@
+[
+  {
+    "clause_index": 13,
+    "start_char": 4073,
+    "end_char": 4089,
+    "original": "6.LICENSE  FEES.",
+    "modified": "6. REIMBURSEMENT FOR AUTHORIZED USAGE.\n\nThe Licensor shall not be obligated to pay any fees for the license granted herein, but rather the Licensee shall reimburse the Licensor for any reasonable expenses incurred as a result of the authorized usage under this Agreement. The Licensor reserves the right to withhold or charge back such expenses if the Licensee fails to timely settle its obligations under this Section.",
+    "contradiction_score": 0.9427772760391235,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 5921,
+    "end_char": 6215,
+    "original": "(c)Payment  of License Fees shall be made in Canadian funds in arrears within  thirty (30) days following each calendar month during the Term in which  Licensed  Programs were exhibited hereunder and shall be accompanied by a  statement  of account showing the calculation of the License  Fees.",
+    "ollama_generated": "(c) The recipient is granted the privilege to settle the License Fees, payable in Canadian funds, on a net basis, at the conclusion of each calendar month during the Term, within forty-five (45) days following the exhibiting of Licensed Programs under this agreement. Such payment shall not be required unless and until a statement of account, detailing the calculation of the License Fees, is received by the provider.\n\nIn this revised clause, the obligation to make payments has been weakened as the recipient now has an additional fifteen days (45 days instead of 30) to pay the license fees. Furthermore, the condition for payment has been inverted such that the provider will not require payment unless and until a statement of account is received by them.",
+    "contradiction_score": 0.4335574209690094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 8270,
+    "end_char": 8369,
+    "original": "Source: EUROMEDIA HOLDINGS CORP, 10SB12G, 2/15/2007 8.ENCODING  AND DELIVERY OF LICENSED  PROGRAMS.",
+    "ollama_generated": "Clause:\nRevised: EUROMEDIA HOLDINGS CORP, 10SB12G, 2/15/2007 - 8.DELIVERY AND ENCODING OF LICENSED PROGRAMS.\n\nRewrite: The Licensor shall have the discretion to determine the encoding format for the delivery of licensed programs, and the Licensee's obligation to accept such delivery shall not be contingent upon the encoding format chosen by the Licensor, unless otherwise agreed in writing between the Parties. In the event that the Licensee finds the encoding format unacceptable, they shall promptly notify the Licensor, who will make reasonable efforts to accommodate any reasonable request for an alternative encoding format within a commercially reasonable timeframe. Failure by the Licensee to accept delivery of licensed programs in the chosen encoding format after a reasonable notice period may result in the termination of this Agreement without liability to either Party.",
+    "contradiction_score": 0.4734421968460083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 9865,
+    "end_char": 9893,
+    "original": "10.MARKETING  AND PROMOTION.",
+    "ollama_generated": "10. MARKETING AND ADVERTISING RESTRICTIONS:\n\nThe Advertiser shall refrain from any form of marketing or promotion that may tarnish the reputation of the Product, as determined by the Manufacturer. Any such activity undertaken without prior written consent of the Manufacturer will render the Advertiser liable for any damages resulting therefrom. The Manufacturer assumes no responsibility for any unsolicited endorsements or promotions that may occur, and reserves the right to take necessary action against any unauthorized usage.",
+    "contradiction_score": 0.18193207681179047,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 11253,
+    "end_char": 11759,
+    "original": "(d)Licensor  shall use commercially reasonable efforts to promote the ROD Service  through Licensor\u2019s consumer-facing advertising and promotional mediums  within the Territory. Such mediums shall include, but not be limited  to: (i) television\u037e (ii) radio\u037e (iii) print\u037e (iv) Internet\u037e and (v)  event-based marketing.  Licensor  will deliver accurate, representative samples of all such advertising  and promotions to Rogers at least five (5) business days in advance  for Rogers\u2019 prior review and approval.",
+    "ollama_generated": "(d) Rogue Entities retain the discretion to utilize commercially viable strategies to publicize the ROD Service, leveraging their various consumer-facing advertising and promotional platforms within the Territory. These platforms may encompass, but are not restricted to: (i) television; (ii) radio; (iii) print; (iv) Internet; and (v) event-based marketing. Rogue Entities shall be permitted to implement these strategies without prior approval from Rogers, unless otherwise specified in writing. However, Rogue Entities will make reasonable efforts to provide Rogers with a preview of such advertising and promotions, if requested, at least five (5) business days before their execution.",
+    "contradiction_score": 0.15587849915027618,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 12691,
+    "end_char": 13218,
+    "original": "For so long as Rogers is required by Applicable Law to contribute a percentage of  its gross annual revenues from the ROD Service to an independently-administered  Canadian program production fund, Licensor shall reimburse Rogers for 50%  of the amount required to be remitted to such production fund by Rogers in respect  of the exhibition of Licensed Programs (the \u201c Production  Fund Commitment \u201d). The Production Fund Commitment shall be calculated monthly during the Term and  shall be deducted as set out in Section 6 (b).",
+    "ollama_generated": "For as long as Rogers is voluntarily choosing to fulfill its obligation, under Applicable Law, to contribute a percentage of its gross annual revenues from the ROD Service to an independently-administered Canadian program production fund, Licensor will not require Rogers to bear the full cost. Instead, Licensor shall only claim 50% of the amount that Rogers voluntarily chooses to remit to such production fund in relation to the exhibition of Licensed Programs (hereafter referred to as the \"Production Fund Contribution\"). The Production Fund Contribution will be calculated monthly during the Term, and Licensor's share will be deducted as set out in Section 6(b), subject to Rogers' decision to honor this commitment.",
+    "contradiction_score": 0.0023641122970730066,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 13218,
+    "end_char": 13305,
+    "original": "Source: EUROMEDIA HOLDINGS CORP, 10SB12G, 2/15/2007 14.REPRESENTATIONS  AND WARRANTIES.",
+    "ollama_generated": "Clause:\nSource: EUROMEDIA HOLDINGS CORP, 10SB12G, 2/15/2007 14. REPRESENTATIONS AND LIMITED WARRANTIES.\n\nIn this contract, the parties acknowledge that each has made certain representations and warranties to the other in good faith. However, these representations and warranties shall be deemed limited to those expressly set forth herein and shall not extend to any implied representations or warranties. In case of any discrepancies between the express representations and warranties, the specific provisions contained herein shall prevail over any general or implied terms. The Seller warrants only that at the Closing, it will deliver Goods which conform on a bulk basis to their purchase orders, but does not make any warranty regarding their fitness for a particular purpose or merchantability. The Buyer acknowledges and accepts this limited warranty, understanding that it assumes all risks associated with the use of the Goods.",
+    "contradiction_score": 0.06207313761115074,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 15955,
+    "end_char": 16034,
+    "original": "(c)This Section shall survive the termination or expiration of this  Agreement.",
+    "ollama_generated": "(c) Notwithstanding any termination or expiration of this Agreement, the obligations under this Section shall continue to bind the parties post such event.",
+    "contradiction_score": 0.0011978164548054338,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 16433,
+    "end_char": 16786,
+    "original": "For so long as Rogers is required by Applicable Law to pay copyright royalties relating  to Licensed Programs hereunder, Licensor shall reimburse Rogers for 50% of  any such royalties actually paid by Rogers, calculated on a rolling basis during  the Term and payable monthly. This Section shall survive the termination or  expiration of this Agreement.",
+    "ollama_generated": "So long as Rogers is entitled to claim tax deductions for payments made towards copyright royalties associated with Licensed Programs under this Agreement, Licensor will assume responsibility for reimbursing Rogers for 50% of such deductible amounts, calculated on a cumulative basis throughout the Term and payable quarterly. This provision shall continue to apply following the termination or expiration of this Agreement.",
+    "contradiction_score": 0.3625311255455017,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 17265,
+    "end_char": 18330,
+    "original": "(a)the other party defaults in the performance or observance of any of  the material terms of this Agreement and such default continues for  a period of thirty (30) days after written notice  thereof\u037e (b)if, at any time, an order is made or an effective resolution is passed  for the winding-up, liquidation or dissolution of the other party that  is not immediately stayed by appeal\u037e (c)if, at any time, the other party consents to or makes a general assignment  for the benefit of creditors, or makes a proposal under, or takes advantage  of, any insolvency, restructuring or reorganization legislation,  or is declared bankrupt, or if a liquidator, trustee in bankruptcy, custodian  or receiver and manager or other officer with similar powers is appointed  of the other party or of all or substantially all of the other party\u2019s  property which is not immediately stayed by appeal\u037e  or Source: EUROMEDIA HOLDINGS CORP, 10SB12G, 2/15/2007 (d)Rogers, or any person to whom Rogers has assigned, sold or transferred  this Agreement, ceases to offer the ROD  Service.",
+    "ollama_generated": "(a) This Agreement may be terminated if the other party fails to comply with or meet any of its substantial obligations under this Agreement for a continuous period of thirty (30) days following written notice of such noncompliance, and no cure is effected within that timeframe.\n\n(b) The agreement shall be deemed terminated in the event that an order is issued or a resolution passed for the winding-up, liquidation, or dissolution of the other party, which is not subject to immediate appeal.\n\n(c) This Agreement will come to an end if the other party gives consent to, initiates, or benefits from any insolvency, restructuring, or reorganization proceedings, or is declared bankrupt, or if a court-appointed liquidator, trustee in bankruptcy, custodian, receiver, manager, or any individual with similar powers is appointed for the other party or their assets, unless such appointment is stayed by appeal.\n\n(d) The term of this Agreement shall be automatically ended should Rogers, or any entity to which Rogers has delegated, transferred, or sold this Agreement, cease to provide the ROD Service.",
+    "contradiction_score": 0.3158718943595886,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 21924,
+    "end_char": 22858,
+    "original": "(b)Each party agrees to use the other party\u2019s confidential information solely for  the purpose of fulfilling its obligations under this Agreement,  to hold the other party\u2019s confidential information in confidence and to protect  the confidentiality of such confidential information using the  same degree  of care as it uses to protect its own confidential information  of a like nature, which shall, in any event, be no less than a degree of  care consistent with industry standards. Notwithstanding the foregoing,  the receiving party may disclose confidential information to the extent  required to comply with the valid order of an administrative agency  or court of competent jurisdiction, or with any Applicable Law (provided  that the receiving party shall notify the other party as soon as practicable  (and if possible prior to disclosure) and any information so disclosed  shall be redacted to the greatest extent possible).",
+    "ollama_generated": "(b)Each party acknowledges the duty to maintain the confidentiality of the other party's proprietary information, using a level of care that is no less than that employed for safeguarding its own comparable confidential data. This obligation persists even when not explicitly required by this Agreement. However, the receiving party reserves the right to disclose such confidential information, without prior notice, in response to a binding order from an administrative body or court of competent jurisdiction, or as mandated by any Applicable Law. The disclosed information, to the extent possible, should be redacted to minimize its exposure. In the event of disclosure, the receiving party shall not bear responsibility for any subsequent unauthorized use or dissemination of the information.",
+    "contradiction_score": 0.03843504190444946,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 23233,
+    "end_char": 23473,
+    "original": "Licensor acknowledges that Rogers Subscriber Information constitutes  valuable assets of Rogers and agrees to hold all Rogers Subscriber  Information strictly confidential in accordance with the provisions  set forth in Section 22(b) above.",
+    "ollama_generated": "Licensee acknowledges the significance of Rogers Subscriber Information as a vital asset belonging to Rogers, and undertakes to manage all such information prudently, while exercising due diligence to prevent unauthorized disclosure or misuse, in compliance with the guidelines specified in Section 22(b) above. However, this obligation shall not extend to instances where such disclosure is required by law or regulatory bodies, or where it is necessary to protect Licensee's own legal rights or interests.",
+    "contradiction_score": 0.004776321817189455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 23927,
+    "end_char": 24479,
+    "original": "This Agreement may not be assigned, sold or transferred without the prior written  consent of the other party. Notwithstanding the foregoing, Rogers may, without  consent, assign its rights and obligations under this Agreement in whole  or in part to: (i) a person that directly or indirectly controls, is controlled  by or is under common control with Rogers\u037e or (ii) a purchaser of all or substantially  all of the assets used in connection with the ROD Service. A change of control  of Rogers shall not be considered an assignment of this Agreement.",
+    "ollama_generated": "This Agreement can be assigned, sold, or transferred to another party only with the prior written consent of the other party, except in the case where Rogers may assign its rights and obligations under this Agreement, either in whole or in part, without prior consent, to: (i) an entity that controls, is controlled by, or is under common control with Rogers; or (ii) a purchaser acquiring all or substantially all of the assets utilized for the ROD Service. The change of control in Rogers shall not be deemed as a transfer of this Agreement. In essence, we retain the right to assign our rights and obligations without consent in specified scenarios, while any other transfer requires prior approval.",
+    "contradiction_score": 0.02709311433136463,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 25885,
+    "end_char": 25911,
+    "original": "Rogers Communications Inc.",
+    "ollama_generated": "Rogers Communications Inc., as Principal, acknowledges and agrees that in the event of any dispute arising from this agreement, the parties shall engage in good faith negotiations for a period of thirty (30) days prior to initiating any legal proceedings. If no resolution is reached within said period, either party may elect to seek judicial remedy without being deemed in breach of this agreement.\n\nIn other words, Rogers Communications Inc., as the main party involved, recognizes and consents that if a disagreement emerges from this contract, both parties must attempt to resolve the issue through good faith negotiations for a span of thirty (30) days before starting any court proceedings. However, should no resolution be found within the allotted time frame, either party is free to pursue legal action without being considered as having breached this agreement.",
+    "contradiction_score": 0.002750600688159466,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 27954,
+    "end_char": 28135,
+    "original": "(a)Nothing herein contained shall be deemed to create and the parties do not  intend to create any relationships of partner, agent or joint venture  as between  Rogers and Licensor.",
+    "ollama_generated": "(a) It is explicitly stated that nothing within this agreement should be construed to imply the establishment of any partnership, agency, or joint venture relationship between Rogers and Licensor. The parties explicitly affirm their intention to maintain independent statuses in such capacities.",
+    "contradiction_score": 0.005975301843136549,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 28135,
+    "end_char": 28557,
+    "original": "(b)Subject to Section 29(d) below, this Agreement constitutes a binding agreement  with respect to the matters set out herein and supersedes all prior  agreements, negotiations, representations and proposals, whether  written or oral. There are no conditions, covenants, representations or  warranties, express or implied, statutory or otherwise relating  to the subject matter hereof except as herein expressly  provided.",
+    "ollama_generated": "(b) Except as explicitly stated in Section 29(d) that follows, this Agreement shall serve as the sole and exclusive agreement regarding the matters outlined within, effectively replacing any previous agreements, discussions, assurances, or proposals - whether written or verbal. No conditions, promises, representations, or guarantees - either expressed or implied, by law or otherwise - pertaining to the subject matter shall be binding unless explicitly included in this Agreement. The parties acknowledge and agree that this Agreement represents their entire understanding of the agreement's terms and conditions.",
+    "contradiction_score": 0.0050332979299128056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 29596,
+    "end_char": 29867,
+    "original": "To indicate your agreement to the foregoing, please sign and date the Agreement  and return it by fax, with an original by courier, to Rogers Cable Communications  Inc., 333 Bloor Street East, Toronto, Ontario, M4W 1G9, Attention:  Vice-President, Strategy & Development.",
+    "ollama_generated": "To signify your acceptance of the aforementioned terms, please affix your signature and date on this Agreement and return it electronically or by mail, with an original copy sent via courier, to Rogers Cable Communications Inc., 333 Bloor Street East, Toronto, Ontario, M4W 1G9, addressed to the Vice-President, Strategy & Development.\n\nIn this version, I have slightly altered the clause by giving the option for electronic or mail return, and allowing either an original copy or a scanned copy to be sent via courier, thus making it more flexible for the signatory.",
+    "contradiction_score": 0.0015137660084292293,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

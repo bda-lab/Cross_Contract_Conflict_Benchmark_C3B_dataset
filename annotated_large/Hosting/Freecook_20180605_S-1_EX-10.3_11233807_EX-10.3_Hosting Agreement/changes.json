@@ -1,0 +1,70 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 385,
+    "original": "By Client: /s/ Natalija TunevicWebsite Design, Development and Hosting Agreement This Website Design, Development and Hosting Agreement the (\u201cAgreement\u201d) is entered into on January 11, 2018  by and between Natalija Tunevic, director of FreeCook  (hereinafter referred to as \u201cClient\u201d) and Mitchell Vitalis, director of Mitchell's Web Advance, PLC (hereinafter referred to as \u201cCompany\u201d).",
+    "modified": "By Company /s/ Mitchell Vitalis, Director of Mitchell's Web Advance, PLC\nWebsite Design, Development and Hosting Agreement (the \"Agreement\") is entered into on January 11, 2018 by and between Mitchell's Web Advance, PLC (hereinafter referred to as the \"Company\") and Natalija Tunevic, director of FreeCook (hereinafter referred to as the \"Client\").\n\nIn this revised clause, the roles of Client and Company have been inverted, placing the company as the party entering into the agreement.",
+    "contradiction_score": 0.7173380255699158,
+    "kept": true
+  },
+  {
+    "clause_index": 1,
+    "start_char": 385,
+    "end_char": 652,
+    "original": "1. Website Design and Development.  Client agrees to pay to Company the sum of $5,000  (the \u201cContract Price\u201d) to design and develop a website for Client (the \u201cClient Website\u201d) in accordance with the accompanying Scope of Work, attached to this Agreement as Exhibit A.",
+    "modified": "1. Commissioned Website Services. By entering into this agreement, Client accepts responsibility for a payment of $5,000 (hereinafter referred to as the \"Contract Fee\") to enable Company to create and manage a website on behalf of Client (hereafter known as the \"Client Site\"), in accordance with the detailed specifications outlined within the accompanying Scope of Work, attached hereto as Exhibit A.\n\nIn this version, the client is now responsible for the payment instead of the company, and the obligation to design and develop the website has been shifted to the company.",
+    "contradiction_score": 0.7146795988082886,
+    "kept": true
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1288,
+    "end_char": 1796,
+    "original": "(b) Due Dates and Delays.  Company will use its best efforts to deliver the Client Website in the time frame specified in the Scope of Work. Terms of the project: 12 weeks from February 8, 2018 to May 3, 2018. Client acknowledges and agrees that any due dates set forth in the Scope of Work are subject to delay if Company does not receive the required materials or documentation in a timely manner or in the required format or if approvals are delayed by Client or if the Scope of Work is changed by Client.",
+    "ollama_generated": "(b) Due Dates and Delays. The Client acknowledges and agrees that while every effort will be made, the success of delivering the Company Website within the time frame specified in the Scope of Work (February 8, 2018 to May 3, 2018: 12 weeks) may be impacted by factors beyond the Company's control. Such factors include, but are not limited to, the timely provision of required materials or documentation by the Client, any delays in receiving Client approvals, or modifications to the Scope of Work initiated by the Client. The Company shall not be held liable for any delay in completion due to these circumstances.",
+    "contradiction_score": 0.1809830218553543,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 2800,
+    "end_char": 3405,
+    "original": "(d) Company License and Credit.  Client hereby grants to Company a non-exclusive and limited license to use Client\u2019s trade names, logos and other trademarks in connection with Company advertising, marketing and promotion of its products and services. Client agrees that any unsolicited positive feedback Client provides to Company may be used in any Company marketing and/or advertising materials (i.e., customer testimonials). Client further agrees that Company may use and display the graphics and other web design elements of Client\u2019s website as examples of Company website design and development work.",
+    "ollama_generated": "(d) Company's Right to Use Client's Intellectual Property: The Client hereby grants to the Company a non-exclusive, transferable, and perpetual license to use, display, reproduce, modify, adapt, and distribute the Client's trade names, logos, and other trademarks for the purposes of advertising, marketing, and promoting the Company's products and services. The Client acknowledges that any unsolicited feedback provided by them may be used in Company marketing and promotional materials without compensation (such as testimonials). Furthermore, the Client consents to the Company's use and exhibition of the graphics, web design elements, and layout of the Client's website as examples of the Company's website design and development capabilities, with no obligation to return or keep confidential any such materials.",
+    "contradiction_score": 0.151939257979393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 5146,
+    "end_char": 5166,
+    "original": "AGREED AND ACCEPTED:",
+    "ollama_generated": "UNDERSTANDING AND CONSENT GRANTED:\n\nIn the event that the performance of any obligation or duty under this Agreement becomes excessively onerous, burdensome, or impracticable for a Party, the affected Party shall have the discretion to modify such obligation or duty, provided that it reasonably balances the interests of both Parties and does not materially breach the essential purpose or spirit of this Agreement. The non-affected Party shall bear no liability for any modification made in good faith under this provision, and shall be deemed to have consented to such modification as a necessary consequence of this Agreement.",
+    "contradiction_score": 0.02369961515069008,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 6051,
+    "end_char": 6103,
+    "original": "9. Development of a prototype and interface testing.",
+    "ollama_generated": "9.1 Prototype Development: The Client shall initiate the development process and provide all necessary specifications.\n\n9.2 Interface Testing: Upon receipt of the prototype from the Service Provider, the Client will perform initial testing to ensure compatibility with their existing systems. Any issues discovered during this stage should be communicated promptly for resolution by the Service Provider. The Service Provider shall make reasonable efforts to address these issues in a timely manner, however, the final outcome of these efforts is at the discretion of the Service Provider and may not always meet the Client's exact specifications. In such cases, further negotiations between the parties may be necessary to achieve mutual satisfaction.",
+    "contradiction_score": 0.07614762336015701,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 6104,
+    "end_char": 6112,
+    "original": "Stage 3:",
+    "ollama_generated": "Stage 3:\n\nIn the event that a breach or failure to perform any obligation under this Agreement occurs (an \"Event of Non-Performance\"), the non-breaching party shall provide written notice to the breaching party. The breaching party shall then have thirty (30) days to cure such breach, provided that if the breach is not remedied within said period, the non-breaching party may choose to terminate this Agreement immediately upon providing written notice of its intent to do so.\n\nIn essence, under the revised clause, the non-defaulting party now has the option to terminate the agreement instantly if the default isn't remedied within the given period, rather than having to wait for a subsequent notification as in the original clause. This shift of power may help discourage breaches or defaults and streamline the termination process if they do occur.",
+    "contradiction_score": 0.0017899293452501297,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

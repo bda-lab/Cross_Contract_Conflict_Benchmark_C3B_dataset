@@ -1,0 +1,264 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 76,
+    "end_char": 103,
+    "original": "CUTANEA LIFE SCIENCES, INC.",
+    "modified": "DATA-DRIVEN BIOSCIENCE INNOVATIONS, LLC (DDBIL)\n\nUpon the occurrence of any Event of Default as defined in this Agreement, DDBIL shall have the discretionary power to elect, but not be obligated, to terminate this Agreement and shall not be liable for any damages or losses arising from such termination. The parties acknowledge that the exercise or non-exercise of this discretion by DDBIL will not constitute a breach of this Agreement.\n\nFurthermore, the Parties hereto agree to indemnify and hold harmless the other Party from any claims, demands, actions, causes of action, suits, procedures, costs (including reasonable attorneys' fees), judgments, liabilities, losses, damages, and expenses resulting from any non-compliance or breach by either party of its respective obligations under this Agreement. This indemnification obligation shall survive the termination or expiration of this Agreement for a period of five years.\n\nHowever, in the event that DDBIL elects to terminate this Agreement due to an Event of Default, DDBIL's indemnification obligations under this Section shall cease and shall not apply to any claims, demands, actions, causes of action, suits, procedures, costs (including reasonable attorneys' fees), judgments, liabilities, losses, damages, and expenses arising from such termination.\n\nLastly, in the event that DDBIL terminates this Agreement due to an Event of Default, any remaining obligations or liabilities owed by either Party shall be immediately due and payable upon such termination without need for further notice or demand.",
+    "contradiction_score": 0.9328599572181702,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2435,
+    "end_char": 2647,
+    "original": "[***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+    "ollama_generated": "[***] = SENSITIVE BUSINESS INFORMATION WITHIN THIS DOCUMENT, IDENTIFIED BY BRACKETS, IS CONSIDERED PROPRIETARY AND SHROUDED DUE TO ITS IMPACT ON COMPETITIVE POSITIONING IF DISCLOSED EXTERNALLY. WHILE NOT ESSENTIAL FOR UNDERSTANDING THE GENERAL TERMS OF THIS AGREEMENT, EXPOSURE MAY RESULT IN UNFAVORABLE COMPETITIVE ADVANTAGE.",
+    "contradiction_score": 0.04648140072822571,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 8666,
+    "end_char": 9078,
+    "original": "In order to assure the conformity of the Products to the Specifications, the Supplier shall deliver or cause to be delivered to CUTANEA, at the time of shipment, a certificate of analysis and compliance or other batch documentation upon reasonable request (such as, deviations, investigations, batch records) with respect to each batch of Product supplied hereunder in the form required by the Quality Agreement.",
+    "ollama_generated": "To ensure that the Products align with the Specifications, CUTANEA reserves the right to request a certificate of analysis and compliance or other relevant batch documentation from the Supplier, at their discretion, regarding each batch of Product supplied under this agreement. The Supplier shall make such documents available within a reasonable timeframe, should they be required for any deviations, investigations, or batch record checks, as outlined in the Quality Agreement. In such instances, the Supplier assumes responsibility for providing the necessary documentation in the specified format.",
+    "contradiction_score": 0.0036534005776047707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 9080,
+    "end_char": 9119,
+    "original": "2.4 Forecasting and Other Obligations .",
+    "modified": "2.4 Forecasting and Other Expectations:\n\nThe Contractor shall endeavor to provide reasonable forecasts or estimates as requested by the Client, with understanding that these projections are based on available information at the time of submission and may be subject to change. The Client acknowledges that these forecasts do not create any binding obligations on the part of the Contractor, unless specifically agreed otherwise in writing. Any discrepancies between the forecasted data and the actual results shall not give rise to any liability or claim against the Contractor, except in cases where such discrepancies result from gross negligence or intentional misrepresentation by the Contractor.",
+    "contradiction_score": 0.7072811722755432,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 9119,
+    "end_char": 9546,
+    "original": "2.4.1 As soon as practicable following execution of this Agreement, but in any event within ten (10) Business Days, CUTANEA agrees to provide Supplier with a best estimate, non-binding (except for the first six months) forecast of its Forecasted Needs for Products (including in trade/sample form) for the upcoming rolling 18-month period (the \u201cForecast\u201d). Thereafter, CUTANEA will update this rolling [***] Forecast quarterly.",
+    "ollama_generated": "2.4.1 Upon receipt of the executed Agreement, Supplier shall be furnished with a non-binding (for the first six months), best estimate forecast for its Forecasted Needs for Products (including in trade/sample form) for the following rolling 18-month period (the \"Forecast\"). This initial Forecast will serve as a basis. However, CUTANEA reserves the right to modify this Forecast at any time and shall provide Supplier with an update of such Forecast not more than thirty (30) days prior to the beginning of each calendar quarter following the first six-month period. In the event that unforeseen circumstances necessitate a revision outside of these specified times, CUTANEA will make reasonable efforts to communicate and update the forecast promptly.",
+    "contradiction_score": 0.013573088683187962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 11233,
+    "end_char": 11445,
+    "original": "[***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+    "ollama_generated": "[***] = Certain information within this document, denoted by brackets and omitted for the following reasons: (i) It is not deemed critical to the overall context of this agreement; yet, (ii) Its disclosure could potentially harm our competitive position if made public.",
+    "contradiction_score": 0.0017020645318552852,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 12887,
+    "end_char": 13394,
+    "original": "2.5.4 CUTANEA\u2019s purchase orders shall designate the desired quantities of Products, delivery dates and destinations. Supplier shall fill and ship all orders of Products in accordance with CUTANEA\u2019s reasonable written instructions. CUTANEA\u2019S purchase order may specify up to three (3) shipping destinations per batch of Product but will be in full pallet quantities. Additional destinations can be accommodated only upon CUTANEA payment of a shipping preparation fee to be negotiated by Supplier and CUTANEA.",
+    "ollama_generated": "2.5.4 The Supplier shall provide the Supplier's proposed quantities, delivery dates, and destinations for the Products to CUTANEA in writing. CUTANEA reserves the right to accept or modify such proposals within reasonable limits, and the Supplier shall comply with any instructions issued by CUTANEA in this regard. Notwithstanding the foregoing, CUTANEA's purchase order may specify up to three (3) shipping destinations per batch of Product, but the Supplier shall bear the cost of preparing and shipping additional destinations, subject to negotiation between the parties.\n\nIn this revised clause, the Supplier is required to provide the proposed quantities, delivery dates, and destinations instead of CUTANEA making the purchase order, thereby shifting some responsibility from CUTANEA to the Supplier. Additionally, the cost of shipping additional destinations has been placed on the Supplier, making it more expensive for them to accommodate such requests.",
+    "contradiction_score": 0.034766826778650284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 13403,
+    "end_char": 13443,
+    "original": "2.6 Acceptance / Rejection of Products .",
+    "ollama_generated": "2.6 Product Evaluation and Response:\n\nUpon receipt of the delivered products, the recipient shall have a reasonable period to examine them. If any issue arises during this evaluation, the recipient shall promptly notify the supplier in writing, outlining the specific concerns. The supplier shall then have a reasonable time to address these issues to the satisfaction of the recipient. Failure to do so may result in the recipient's right to return the products within a specified timeframe. In all other cases, the silence or lack of response from the recipient within the evaluation period shall be deemed as acceptance of the delivered products.",
+    "contradiction_score": 0.056781403720378876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 20597,
+    "end_char": 20809,
+    "original": "[***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+    "ollama_generated": "[***] = Certain non-material confidential information within this document, identified by brackets, has been omitted as its public disclosure could potentially pose a competitive advantage or disadvantage to the parties involved.",
+    "contradiction_score": 0.0016610383754596114,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 21471,
+    "end_char": 21603,
+    "original": "Termination under this Section 4 shall be in addition to the other rights and remedies of the terminating party as specified herein.",
+    "ollama_generated": "Termination under this Section 4 does not exclude or limit any other rights or remedies available to the terminating party, as detailed elsewhere in this agreement. Instead, it constitutes an additional means for such termination.",
+    "contradiction_score": 0.0014141168212518096,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 21604,
+    "end_char": 21629,
+    "original": "4.4 Return of Materials .",
+    "ollama_generated": "4.4 Retention of Materials - Obligor's Option:\n\nUpon the termination or expiration of this Agreement, the Obligee shall retain all Materials provided by the Obligor for a reasonable period, not exceeding thirty (30) days, at which point the Obligor may request their return. The Obligee is under no obligation to return the Materials unless expressly requested in writing by the Obligor and received during the retention period. Any costs associated with returning the Materials shall be borne solely by the Obligor.",
+    "contradiction_score": 0.30257368087768555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 22334,
+    "end_char": 22348,
+    "original": "4.5 Survival .",
+    "ollama_generated": "4.5 Persistence of Obligations.\n\nIn this Clause, \"Persistence\" signifies that certain provisions, despite the termination or expiration of this Agreement, shall continue to bind the Parties with regard to matters arising from events occurring prior to such termination or expiration. In essence, this provision serves to uphold specific responsibilities even after the Agreement concludes.",
+    "contradiction_score": 0.015060435980558395,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 24564,
+    "end_char": 24632,
+    "original": "5.4 Compliance of Packaging and Labeling with Laws and Regulations .",
+    "ollama_generated": "5.4 Guidelines for Packaging and Labeling in Harmony with Applicable Laws and Regulations.\n\nExplanation: The original clause implied an obligation to comply with the laws and regulations regarding packaging and labeling. In the rewritten clause, we've used \"guidelines\" instead of \"compliance,\" which may suggest a more flexible approach and potential room for interpretation, thus slightly weakening the obligation.",
+    "contradiction_score": 0.1937970668077469,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 26163,
+    "end_char": 26375,
+    "original": "[***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+    "ollama_generated": "[***] = Certain non-material and competitively sensitive information within this document, denoted by brackets, has been omitted to prevent potential harm to the competitive position of the parties involved should this information be disclosed publicly.",
+    "contradiction_score": 0.0025807321071624756,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 27465,
+    "end_char": 27516,
+    "original": "5.6 Patent and Other Intellectual Property Rights .",
+    "modified": "5.6. Intellectual Property Rights and Related Undertakings:\n\nIn the event of any intellectual property rights arising during the course of this agreement, the Responsible Party shall retain exclusive ownership and control over such rights. However, the Developing Party is granted a non-exclusive, royalty-free license to utilize these rights for the sole purpose of performing its obligations under this contract. This includes but is not limited to further development, modification, and distribution of the related work. The Responsible Party shall have no obligation to provide additional support or resources beyond those expressly stated in this agreement.",
+    "contradiction_score": 0.8603444695472717,
+    "kept": true
+  },
+  {
+    "clause_index": 93,
+    "start_char": 32144,
+    "end_char": 32356,
+    "original": "[***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+    "ollama_generated": "[***] = Certain information within this document, denoted by brackets, has been omitted due to its non-essential nature and potential detriment to our competitive position if disclosed publicly.",
+    "contradiction_score": 0.0017035213531926274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 34104,
+    "end_char": 34139,
+    "original": "8. CHANGES 8.1 Changes by CUTANEA .",
+    "modified": "8. MODIFICATIONS 8.1 Modifications Initiated by CUTANEA.\n\nIn this revised clause, the word \"Changes\" has been replaced with \"Modifications\" to convey a sense of more extensive alterations or adaptations that may be made, subtly weakening the original obligation's specificity. The term \"by\" in the original has been replaced with \"Initiated by,\" which suggests that CUTANEA is responsible for triggering the modifications but not necessarily carrying them out, potentially shifting some responsibility to another party.",
+    "contradiction_score": 0.5381808280944824,
+    "kept": true
+  },
+  {
+    "clause_index": 96,
+    "start_char": 34139,
+    "end_char": 34378,
+    "original": "Any changes to the Specifications requested by CUTANEA must be approved by Supplier (or its designee) in its reasonable discretion and shall be incorporated and all costs and expenses associated with such changes shall be borne by CUTANEA.",
+    "modified": "Any proposed alterations to the Specifications suggested by CUTANEA shall first require Supplier's (or its designated party's) approval, acting within its sole discretion. In the event of such an approved change, the associated costs and expenses will be assumed solely by the Supplier. This clause does not imply any obligation on the part of CUTANEA to bear any costs or expenses that may arise from the requested changes unless explicitly specified otherwise in this agreement.",
+    "contradiction_score": 0.9862448573112488,
+    "kept": true
+  },
+  {
+    "clause_index": 103,
+    "start_char": 35829,
+    "end_char": 36290,
+    "original": "Supplier shall also provide CUTANEA with all manifests and other applicable evidence of proper destruction as may be requested by CUTANEA or required by applicable laws and regulations. Any other materials rendered obsolete that are not result of Supplier\u2019s supplier minimum order quantities that exceed the binding quantities of Product of Forecasted Needs, formula, artwork or packaging changes requested by CUTANEA shall be reimbursed to Supplier by CUTANEA.",
+    "modified": "Supplier is not obligated to retain or provide CUTANEA with manifests and evidence of proper destruction unless specifically required by applicable laws and regulations, or at the discretion of CUTANEA. Any materials that become obsolete due to factors beyond Supplier's control, such as changes in formula, artwork, packaging, or minimum order quantities exceeding the binding quantities of Forecasted Needs, shall be the responsibility and cost of CUTANEA.",
+    "contradiction_score": 0.8038098812103271,
+    "kept": true
+  },
+  {
+    "clause_index": 115,
+    "start_char": 39988,
+    "end_char": 40623,
+    "original": "The Parties agree that, unless mutually agreed by the Parties in writing otherwise, no public announcement or press release regarding the execution of this Agreement shall be made. Notwithstanding anything to the contrary contained herein, each party agrees that it shall cooperate fully and in a timely manner with the other with respect to all disclosures required to be made to the SEC or any other Governmental or Regulatory Authority, including providing written notice to the other party and sufficient time to review and request confidential treatment of Confidential Information of either party included in any such disclosure.",
+    "ollama_generated": "The Parties acknowledge that, absent a written consent from both parties, no announcements or press releases relating to the signing of this Agreement will be publicly disclosed. Contrariwise, each party accepts an obligation to collaborate completely and promptly with one another on all mandatory disclosures to the SEC or any other Governmental or Regulatory Body. This cooperation includes granting written notice to the counterparty and affording them ample opportunity to assess and request confidentiality protection for Confidential Information of either party, as included in such disclosures.",
+    "contradiction_score": 0.0072944797575473785,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 49513,
+    "end_char": 49546,
+    "original": "11.2 Representations by CUTANEA .",
+    "modified": "11.2 Affirmations by CUTANEA Limited.\n\nIn this context, instead of \"representations\" (which implies the presentation of facts), we've used \"affirmations\" (which could imply a stronger belief or conviction). This subtly shifts the language from an obligation to present accurate information to a belief or statement of opinion that may not necessarily be verified.",
+    "contradiction_score": 0.9456804394721985,
+    "kept": true
+  },
+  {
+    "clause_index": 138,
+    "start_char": 49710,
+    "end_char": 49859,
+    "original": "11.2.1 Organization of CUTANEA . CUTANEA is a Delaware corporation, duly organized, validly existing and in good standing under the laws of Delaware.",
+    "ollama_generated": "11.2.1 Status of CUTANEA in Delaware. Whilst CUTANEA operates as a Delaware corporation, it is acknowledged that its existence, validity, and compliance with Delaware laws may be subject to change, revocation, or challenge at any time without notice.\n\nThis modification subtly suggests that the existence and compliance of CUTANEA under Delaware law could potentially be questioned or altered, unlike the original clause which presents CUTANEA as a corporation that is always duly organized, validly existing, and in good standing.",
+    "contradiction_score": 0.055054664611816406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 51129,
+    "end_char": 53301,
+    "original": "11.3 Anti-Corruption Undertaking Both parties shall comply with, and will not cause any party and its Affiliates, associates, directors, officers, shareholders, employees, representatives, sublicensees or agents worldwide to be in violation with any applicable anti-corruption laws, rules and regulations including but not limited to the United States Foreign Corrupt Practices Act (the \u201cFCPA\u201d) or U.K. Bribery Act 2010. Without limiting the foregoing, neither party will, directly or indirectly, pay any money to, or offer or give anything of value to, any Government Official, in order to obtain or retain business or to secure any commercial or financial advantage for the other party or for itself or any of their respective Affiliates. Each of the parties undertakes not to bribe Government Officials or any private companies or individuals, \u201cbribes\u201d having the following definition: Offering, promising, or giving a financial or other advantage to another person where it is intended to bring about the improper performance of a relevant function or activity, or to reward such improper performance\u037e acceptance of the advantage offered, promised or given in itself constitutes improper performance of a relevant function or activity. \u201cImproper Performance\u201d means a breach of expectations that a person will act in good faith, impartially, or in accordance with a position of trust. Both parties must also (1) make and keep books, records and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of assets of the company, (2) devise and maintain a system of internal accounting controls, and (3) at any time a party so requests in writing, but no more than once a year, grant to the other party commercially reasonable access to said books, records, systems and accounts to verify compliance. Such inspection shall be undertaken by an independent public accountant or accounting firm appointed by the requesting party and about whom the other party does not express a legitimate concern. For the avoidance of doubt, this restricted annual audit shall not apply to for-cause audits, which may be conducted at any time.",
+    "ollama_generated": "11.3 Anti-Corruption Commitment: Each Party shall strive to adhere to applicable anti-corruption laws, rules, and regulations, including but not limited to the United States Foreign Corrupt Practices Act (the \u201cFCPA\u201d) or U.K. Bribery Act 2010. However, it is acknowledged that occasional minor deviations may occur unintentionally. To mitigate potential risks, neither Party shall, intentionally or unintentionally, provide any improper payment to Government Officials or any other entities or individuals to secure business advantages for either party or their respective Affiliates.\n\nThe term \"improper payments\" encompasses any form of advantage offered, promised, or given with the intent to influence the improper performance of a relevant function or activity. The acceptance of such an advantage, regardless of whether it was solicited or not, is considered improper performance.\n\nEach Party undertakes to maintain integrity and honesty in all their dealings and shall: (1) establish and maintain books, records, and accounts that accurately reflect transactions and asset dispositions, (2) design and implement a system of internal accounting controls, and (3) grant the other Party, upon written request but not more than once per year, reasonable access to the requested books, records, systems, and accounts for verification purposes. This inspection shall be conducted by an independent public accountant or accounting firm selected by the requesting Party, provided that the other Party does not express legitimate concerns regarding the selected auditor.\n\nFor clarity, this clause does not restrict for-cause audits, which may be conducted at any time as needed to ensure compliance with anti-corruption laws and regulations. It is understood that this commitment does not require absolute perfection but rather good faith efforts to comply with the spirit and letter of applicable laws and regulations.",
+    "contradiction_score": 0.035310208797454834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 54530,
+    "end_char": 54664,
+    "original": "Attention: General Counsel 1500 Liberty Ridge Drive Suite 3000 Wayne, PA 19087 Fax: +1 484.652.0223 12.2 Entire Agreement\u037e Amendment .",
+    "ollama_generated": "12.2 Sole and Exclusive Agreement; Modifications\n\nAttention: General Counsel, 1500 Liberty Ridge Drive Suite 3000, Wayne, PA 19087 Fax: +1 484.652.0223\n\nThis agreement constitutes the entire understanding between the parties and supersedes any and all prior agreements, representations or understandings, whether written or oral. Any amendment or modification of this Agreement will only be valid if in writing, signed by both parties and expressly stating that it is an amendment to this Agreement. The failure of a party to enforce any provision herein shall not constitute a waiver of that provision or of any other provision herein.",
+    "contradiction_score": 0.2168503850698471,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 59548,
+    "end_char": 59567,
+    "original": "12.8 Counterparts .",
+    "modified": "12.8 Multiple Executions:\n\nParties hereto may execute this Agreement in counterparts. Each such counterpart shall be deemed an original, but all such counterparts shall together constitute one and the same instrument. Delivery of an executed counterpart of this Agreement by electronic means (e.g., facsimile or email) shall be as effective as delivery of a manually signed physical copy. It is not necessary that all parties sign the same counterpart. This provision does not affect any right to subsequently exchange counterparts for the convenience of the parties, but rather allows for the initial execution in this manner.",
+    "contradiction_score": 0.5255561470985413,
+    "kept": true
+  },
+  {
+    "clause_index": 168,
+    "start_char": 59729,
+    "end_char": 59758,
+    "original": "12.9 Independent Contractor .",
+    "ollama_generated": "12.9 Engaging Service Provider as a Freelance Entity.\n\nThis rewording subtly shifts the power dynamic between the parties involved, suggesting that the service provider has more autonomy and control over their work, while also clarifying their status as an independent contractor rather than an employee.\n\nNew Clause:\n12.9 Service Provider's Autonomous Engagement.\n\nThe Service Provider shall act in its sole discretion and professional judgment to fulfill the services contemplated herein, free from any control or direction by us except as specifically set forth in this Agreement. The Service Provider acknowledges that it is an independent contractor, not an employee, and is responsible for all aspects of its engagement, including but not limited to:\n\n(a) obtaining any necessary licenses, permits, registrations, or certifications required to perform the services;\n(b) providing its own equipment, tools, and materials necessary for the performance of the services;\n(c) maintaining insurance coverage sufficient to protect itself against liabilities arising from the performance of the services;\n(d) paying any taxes associated with its engagement, including but not limited to income tax and social security contributions; and\n(e) complying with all applicable laws, regulations, and industry standards relevant to the performance of the services.",
+    "contradiction_score": 0.006683382671326399,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 178,
+    "start_char": 61819,
+    "end_char": 62250,
+    "original": "The purchase price for the Products shall be paid in US Dollars by the Company and such payment terms shall be [***] following the date that the Products are received and accepted (as per Article 4.4 of the LSA) by the Company, by wire transfer into an account designated by Ferrer. Invoices shall be generated upon shipment of Product from Supplier. Invoices should be sent by email to the following address: invoice@cutanea.com .",
+    "ollama_generated": "The purchase price for the Products will be remitted by the Company, in US Dollars, within [***] business days after the receipt and acceptance (as outlined in Article 4.4 of the LSA) by the Company. This payment shall be made via wire transfer into an account designated by Ferrer. Notification of the invoice amount will be issued by the Supplier upon shipment of the Products, and this invoice should be emailed to the following address: invoice@cutanea.com for prompt processing.\n\nIn this revised version, I've slightly altered the original clause to invert the condition by giving the Company more time to make the payment after receiving and accepting the products. Additionally, I've emphasized the Supplier's obligation to issue an invoice upon shipment rather than at receipt and acceptance.",
+    "contradiction_score": 0.018156949430704117,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

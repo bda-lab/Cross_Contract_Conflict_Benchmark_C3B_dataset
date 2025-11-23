@@ -1,0 +1,226 @@
+[
+  {
+    "clause_index": 7,
+    "start_char": 2485,
+    "end_char": 2595,
+    "original": "1.3  \"Channel Home Page\" means, with respect to any Channel the introductory or welcome page for such Channel.",
+    "modified": "1.3 \"Channel Home Page\" refers to, in relation to any given Channel, the concluding or farewell page that serves as its final point of interaction.",
+    "contradiction_score": 0.9982011318206787,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3851,
+    "end_char": 4078,
+    "original": "1.10 \"New Customer\" means a User who (a) registers for Client's service using a unique credit card number, electronic mail address or name not previously received by Client, and (b) purchases U.S. postage from Client's service.",
+    "modified": "1.10 \"Established Customer\" denotes a User who has consistently utilized the Client's services over a significant period, but for the purpose of this Agreement, a \"New Customer\" is defined as a User who (a) successfully completes registration for Client's service using a unique credit card number, electronic mail address or name not previously recorded by Client, and (c) conducts a first-time purchase of U.S. postage from the Client's platform, regardless of any prior interactions or transactions with the Client.",
+    "contradiction_score": 0.8396583795547485,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4078,
+    "end_char": 4354,
+    "original": "1.11 \"Sponsor Client Graphic\" means a Client Graphic which indicates Client as a \"Sponsor\" with respect to the sale or delivery of electronic postage, which graphics click-through to the Client Site, or such other address mutually agreed upon by the parties from time to time.",
+    "ollama_generated": "1.11 \"Client Sponsorship Graphic\" refers to a graphic depicting the Client as a \"Sponsor,\" associated with the sale or distribution of electronic postage. This graphic shall direct users to a URL designated by the Client, or an alternative URL agreed upon between the parties in the future, implying that the Client assumes responsibility for the content and functionality of the linked site.",
+    "contradiction_score": 0.001630471902899444,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4825,
+    "end_char": 5172,
+    "original": "2.1.1  A Sponsor Client Graphic consisting of 160x40 pixels shall be rotated amongst the following pages (or their successor pages, if any): (1) \"Starting a Business\" page, (2) \"Managing your Business\" page, (3) \"Marketing\" page, (4) \"Legal Issues\" page, and (5) \"Taxes & Accounting\" page. Each such Sponsor Client Graphic shall be Above the Fold.",
+    "modified": "2.1.1 The pages \"Starting a Business,\" \"Managing your Business,\" \"Marketing,\" \"Legal Issues,\" and \"Taxes & Accounting\" may each feature a Sponsor Client Graphic of 160x40 pixels, located Below the Fold, at the discretion of the Sponsor. If a Sponsor elects to include such graphic, it shall remain on said page for a minimum of 7 days, after which it may be replaced by another Sponsor Client Graphic or removed entirely. The Sponsor shall have the right to decide in which order these graphics appear on the designated pages.",
+    "contradiction_score": 0.6729758381843567,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 5172,
+    "end_char": 5292,
+    "original": "2.1.2  A Sponsor Client Graphic of 88x31 pixels to be found at the bottom of each page where a sponsorship strip exists.",
+    "ollama_generated": "2.1.2. The provision of a Sponsor Client Graphic, minimum dimensions of 88x31 pixels, is to be placed strategically on each page within a designated area that coincides with the presence of a sponsorship strip (if applicable). The Sponsor shall have discretion in the placement of this graphic. If no sponsorship strip exists, the graphic may be omitted from that specific page.",
+    "contradiction_score": 0.06554392725229263,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 5292,
+    "end_char": 5497,
+    "original": "2.1.3  A text Link to be located Above-the-Fold in a text sponsor bar on the \"Small Business\" Channel home page of the Quicken.com Site, Excite Money & Investing Site and WebCrawler Money & Investing Site.",
+    "ollama_generated": "2.1.3 The provided link shall be strategically positioned within a prominent sponsored section on the main pages of the \"Small Business\" Channel on Quicken.com, Excite Money & Investing, and WebCrawler Money & Investing sites. However, it is understood that the placement of this link may not always be guaranteed to be strictly above-the-fold, due to factors beyond our control such as site layout adjustments or content updates.",
+    "contradiction_score": 0.0019353763200342655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 5683,
+    "end_char": 6056,
+    "original": "2.1.5  A Sponsor Client Graphic consisting of a minimum number of pixels mutually agreed upon by the parties, will appear on the \"Small Business Mailing/Shipping, OnLine Postage\" page in the \"Small Business\" Channel, when such page is made publicly available on the applicable Intuit Sites. Such graphic shall be displayed in a position mutually agreed upon by the parties.",
+    "ollama_generated": "2.1.5 The placement of the Sponsor Client Graphic, while not obligatory and subject to the discretion of both parties, may appear on the \"Small Business Mailing/Shipping, OnLine Postage\" page within the \"Small Business\" Channel, once this page is launched on the specified Intuit Sites. The location of the displayed graphic will be determined at the sole discretion of either party.",
+    "contradiction_score": 0.013620717450976372,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 7830,
+    "end_char": 8214,
+    "original": "3.   [***] PROMOTION 3.1  Promotions. Commencing on the day after the date on which the [***] ----------                                                     --- available and continuing throughout the Term, Intuit shall promote Client on the [***] of the Quicken.com Site, Excite Money & Investing Site, WebCrawler Money & Investing Site, and AOL.com Personal Finance Site as follows:",
+    "ollama_generated": "3. PROMOTION 3.1  Promotional Arrangements. Beginning one day following the effectiveness date of this agreement and persisting throughout its term, Client shall be featured on the specified pages of Quicken.com, Excite Money & Investing, WebCrawler Money & Investing, and AOL.com Personal Finance, subject to the condition that Intuit has a satisfactory number of promotional slots available at the time of Client's request for promotion:\n\nIn this revised clause, the responsibility for ensuring there are enough promotional slots is shifted from Intuit to the Client, making it the client's condition to have a satisfactory number of promotional slots available before they can be promoted. This change weakens the obligation on Intuit to continuously promote the client.",
+    "contradiction_score": 0.047379933297634125,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 9914,
+    "end_char": 10011,
+    "original": "Intuit acknowledges it is Client's preference to have Intuit deliver such Impressions as follows:",
+    "ollama_generated": "Intuit understands that it is at the discretion of the Client to specify the manner in which Impressions are to be delivered by Intuit:\n\nThis modification subtly shifts the responsibility from Intuit (who previously acknowledged the preference) to the Client (who now has the discretion to specify the delivery method). This change implies that while Intuit is still obligated to deliver the Impressions, it is up to the Client to decide how they want this to happen.",
+    "contradiction_score": 0.004615733399987221,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 10011,
+    "end_char": 10273,
+    "original": "If Intuit fails to deliver such Impressions during the twelve (12) month period following the Launch Date, Intuit agrees to run such promotions in equivalent areas and placement, as mutually agreed upon by the parties, until such Impressions have been delivered.",
+    "ollama_generated": "If the delivery of Impressions by Intuit is not achieved within a twelve (12) month period following the Launch Date, it shall be the responsibility of the Client to coordinate and approve alternative promotional strategies in equivalent areas and placement, with Intuit obligated to execute these strategies until the required Impressions have been fulfilled. This clause aims to ensure that the intended level of exposure is maintained despite any delay in delivery by Intuit.",
+    "contradiction_score": 0.07511696964502335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 11348,
+    "end_char": 11940,
+    "original": "5.   QUOTES PLUS TAB EXCITE MONEY & INVESTING SITE PROMOTION 5.1  Promotions. Commencing on the Launch Date and continuing for a period of ---------- six (6) months throughout the Term, as mutually agreed by the parties, Intuit shall promote Client on the \"Quotes Plus\" tab within the \"Investment\" Channel of the Excite Money & Investing Site with a Sponsor Client Graphic of 160x40 pixels will be included Above the Fold at each of the following \"Quotes Plus\" page tabs: (1) \"Insider Trading\", (2) \"Comparison\", (3) \"Company Profile\", (4) \"Broker Research\", (5) \"Analysts\", and (6) \"Alerts\".",
+    "ollama_generated": "5. MUTUALLY AGREED PROMOTION PERIOD OF THE INVESTMENT CHANNEL ON EXCITE MONEY & INVESTING SITE\n\n5.1 Promotion Period Duration. Starting from the Launch Date and continuing for a period of mutual convenience, determined by both parties, Intuit will feature Client on the \"Quotes Plus\" tab within the \"Investment\" Channel of the Excite Money & Investing Site. During this period, a Sponsor Client Graphic of 160x40 pixels will be displayed conspicuously on each of the following \"Quotes Plus\" page tabs: (1) \"Insider Trading\", (2) \"Comparison\", (3) \"Company Profile\", (4) \"Broker Research\", (5) \"Analysts\", and (6) \"Alerts\". However, Intuit reserves the right to adjust or discontinue the placement of the Sponsor Client Graphic at its discretion.",
+    "contradiction_score": 0.005697001237422228,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 14157,
+    "end_char": 14749,
+    "original": "8.   LAUNCH DATE, RESPONSIBILITY FOR INTUIT SITES AND REPORTING 8.1  Client Obligations.  Client will use reasonable efforts to assist Intuit in ------------------ implementing the promotional placements and advertising described in the Agreement.  The parties recognize that the Launch Date can be met only if Client provides final versions of all Client Graphics, text, Banner Advertisements and other promotional media and valid URL links necessary to implement the promotional placements and - ------------------ [***] Confidential treatment has been requested for the bracketed portions.",
+    "modified": "8. LAUNCH DATE, RESPONSIBILITY FOR INTUIT SITES AND REPORTING\n\n8.1 Intuit Obligations. Intuit will utilize best efforts to complete the promotional placements and advertising as described in the Agreement, subject to Client's timely provision of all necessary information and materials, including final versions of Client Graphics, text, Banner Advertisements, and other promotional media, as well as valid URL links. The Launch Date may be delayed if such required elements are not provided by the Client in a timely manner.\n\nIn this version, the obligation on the client to assist Intuit has been weakened by stating that Intuit will use \"best efforts,\" rather than \"reasonable efforts.\" Additionally, the responsibility for potential delays in meeting the Launch Date has been shifted to the client, as the delay may occur if the required elements are not provided in a timely manner.",
+    "contradiction_score": 0.5418792366981506,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 14749,
+    "end_char": 14865,
+    "original": "The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "The essential details of the confidential matter have been set aside for secure storage and will be submitted independently to the Securities and Exchange Commission.",
+    "contradiction_score": 0.013685794547200203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 15557,
+    "end_char": 16656,
+    "original": "8.3  Intuit Sites.  Intuit will have sole responsibility for providing, hosting ------------ and maintaining, at its expense, the Intuit Sites.  Subject to the terms and conditions set forth herein, including without limitation, the obligations of Intuit set forth in Sections 2-7, Intuit will have sole control over the \"look and feel\" of the Intuit Sites including, but not limited to, the display, appearance and placement of the parties' respective names and/or brands and the promotional links.  Notwithstanding the above, Client acknowledges that the Banner Advertisements may be served by a third party authorized by Intuit (\"Authorized Advertisement Server\") 8.4  Reports. Intuit or its Authorized Advertisement Server will provide Client ------- with monthly reports (\"Usage Reports\") substantiating the number of Impressions of Client's Banner Advertisements, Client Graphics, Sponsor Client Graphics and Links displayed on the Intuit Sites, the total number of click-throughs generated by each such advertisement or graphic, and such other information as the parties shall mutually agree.",
+    "ollama_generated": "8.3 Responsibility for Intuit Sites. The Client assumes primary responsibility for the cost and upkeep of the Intuit Sites, at their expense. Subject to the conditions outlined in this agreement, specifically excluding the client's obligations under Sections 2-7, the Client will have sole control over the design aspects of the Intuit Sites, including but not limited to, the arrangement, visual presentation, and branding of the parties' respective names and logos, as well as the placement of promotional links. It is understood that the Banner Advertisements may be served by a third-party entity authorized by the Client (\"Authorized Ad Server\").\n\n8.4 Reports and Data. The Client or their authorized third party (\"Authorized Data Provider\") will deliver the Client with monthly reports (\"Usage Reports\") confirming the number of views (Impressions) of the Banner Advertisements, Client Graphics, Sponsor Client Graphics, and Links displayed on the Intuit Sites, the total number of click-throughs generated by each advertisement or graphic, as well as any additional information that the parties may mutually agree upon.",
+    "contradiction_score": 0.2509707510471344,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 18321,
+    "end_char": 18481,
+    "original": "Notwithstanding the above, Intuit may include editorial content or tools about or from a Client Competitor and include Client Competitors in directory listings.",
+    "ollama_generated": "Notwithstanding the foregoing provisions, Clients acknowledge and agree that Intuit retains the discretion to integrate editorial content, tools, or services pertaining to Client Competitors within its platform, as well as featuring such competitors in our directories, subject to available resources and business requirements.",
+    "contradiction_score": 0.001222315477207303,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 18481,
+    "end_char": 19022,
+    "original": "10.  FEES 10.1 Sponsorship, Advertising and Exclusivity Fees.  Client will pay Intuit --------------------------------------------- sponsorship and advertising fees of $2,644,010 and an exclusivity fee of $661,003.  Such fees shall be paid to Intuit as follows.  An initial fee of $[***] shall be due and payable on the Effective Date.  The remaining balance of $[***] shall be paid to Intuit in 12 equal monthly installments of [***]. Each monthly installment should be payable in advance and due no later than the fifth (5th) of the month.",
+    "ollama_generated": "10. FEES\n\n10.1 Sponsorship, Advertising, and Exclusivity Fees. Intuit shall receive sponsorship and advertising fees from Client amounting to $2,644,010 and an exclusivity fee of $661,003. The payment structure is as follows:\n\n   a) An initial fee of $[***] will become due and payable by the Client on or before the Effective Date.\n\n   b) The remaining balance of $[***], to be paid to Intuit, shall be structured as follows:\n\n      - A series of eleven (11) equal installments, each amounting to [***]. These installments shall be due and payable on the first (1st) day of each month for a period of eleven (11) consecutive months.\n\n   c) The final installment, amounting to the remaining balance or $[***], will become due and payable by the Client on or before the last day of the eleventh (11th) month following the Effective Date.\n\n   Each monthly installment is payable in arrears, meaning it should be received no later than the twentieth (20th) day of the relevant month.",
+    "contradiction_score": 0.1818310171365738,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 29989,
+    "end_char": 30350,
+    "original": "Notwithstanding the foregoing, Client shall not, without Intuit's prior written consent (which consent shall not be unreasonably withheld or delayed), make any such settlement that imposes any obligation, financial or otherwise, upon Intuit.  Intuit may not settle or compromise such claim, action or allegation, except with the prior written consent of Client.",
+    "modified": "Despite the preceding provisions, Intuit reserves the exclusive right to settle or compromise any claims, actions, or allegations without prior written consent from the Client, unless such settlement imposes an obligation, financial or otherwise, on the Client. The Client may not enter into any such settlement without Intuit's prior written approval, which shall not be unreasonably withheld or delayed.",
+    "contradiction_score": 0.9698591828346252,
+    "kept": true
+  },
+  {
+    "clause_index": 82,
+    "start_char": 30519,
+    "end_char": 31245,
+    "original": "16.4 By Intuit.  Intuit will defend and and/or settle any third party claim --------- brought against Client, its affiliates, officers, directors employees, consultants and agents arising from (1) a breach of Intuit's representations or warranties under Section 16.2\u037e or (2) any claim arising from the Intuit Sites other than content or services provided by Client, and will pay resulting costs, damages and reasonable attorneys' fees finally awarded, provided that Client promptly notifies Intuit in writing of any and all such claims.  Intuit has sole control of the defense and all related settlement negotiations, and Client reasonably cooperates with Intuit with the defense and/or settlement thereof at Intuit's expense.",
+    "modified": "16.4 The onus for defending and/or settling any third-party claims against the Client, its affiliates, officers, directors, employees, consultants, and agents lies primarily with the Client, subject to certain exceptions outlined below. The Client shall be responsible for such actions arising from (1) a breach of Intuit's representations or warranties under Section 16.2; or (2) any claim arising from the Intuit Sites, except for content or services provided by the Client. The Client will bear the costs, damages, and reasonable attorneys' fees that are finally awarded in these instances, unless the Client can demonstrate prompt written notification was given to Intuit regarding such claims.\n\nIntuit retains the right to assume control of the defense and all related settlement negotiations, with the expectation that the Client provides necessary cooperation during this process at Intuit's expense.",
+    "contradiction_score": 0.7159916758537292,
+    "kept": true
+  },
+  {
+    "clause_index": 85,
+    "start_char": 31777,
+    "end_char": 32139,
+    "original": "16.5 DISCLAIMER. EXCEPT AS SPECIFIED IN THIS AGREEMENT, NEITHER PARTY MAKES ANY ---------- WARRANTY IN CONNECTION WITH THE SUBJECT MATTER OF THIS AGREEMENT AND HEREBY DISCLAIMS ANY AND ALL IMPLIED WARRANTIES AND CONDITIONS, INCLUDING WITHOUT LIMITATION ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE REGARDING SUCH SUBJECT MATTER.",
+    "ollama_generated": "16.5 DISCLAIMER OF EXCEPTIONAL WARRANTY. In all instances not explicitly stated in this Agreement, both Parties explicitly exclude any and all exceptional warranties that may arise by implication, and specifically disclaim all implied warranties of merchantability and fitness for a particular purpose with regard to the subject matter of this Agreement.\n\nIn simpler terms: We (the parties) are not promising anything special or exceptional about the services or goods provided under this contract, except as explicitly stated in this contract. We also exclude any implied promises that these services or goods will be perfect for your specific needs or that they will work well in general.",
+    "contradiction_score": 0.0021210426930338144,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 32139,
+    "end_char": 32714,
+    "original": "17.  LIMITATION OF LIABILITY EXCEPT UNDER SECTIONS 15 AND 16, IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, WHETHER OR NOT THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  THE LIABILITY OF EITHER PARTY FOR DAMAGES OR ALLEGED DAMAGES HEREUNDER (EXCEPT UNDER SECTIONS 15 AND 16), WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, THE AMOUNTS TO BE PAID BY CLIENT TO INTUIT HEREUNDER.",
+    "ollama_generated": "17. LIMITATION OF RESPONSIBILITY: Except as provided in Sections 15 and 16, under no circumstances shall either Party be held responsible for any indirect, special, incidental or consequential damages, irrespective of the basis for such claim (breach of contract, tort, negligence, or otherwise), even if advised of the possibility of such damage. The liability of each Party for all claims and damages (except under Sections 15 and 16) arising from this Agreement, regardless of the legal theory used, is strictly limited to and will not surpass the total amount paid by the Client to the Service Provider under this Agreement.\n\nThis revised clause aims to weaken the obligation of each party regarding liability by shifting it towards the Client and limiting the extent of such liability based on payments made by the Client under the Agreement.",
+    "contradiction_score": 0.004157774616032839,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 34680,
+    "end_char": 34718,
+    "original": "-------------------------- Intuit Inc.",
+    "ollama_generated": "--------------------------- Intuit Inc. (the \"Recipient\")\n\nUnder no circumstances shall the Recipient be held liable for any loss or damages arising from the use or inability to use the services provided by it, whether based on warranty, contract, tort, or any other legal theory. The entire risk as to the quality and performance of the services shall be with the user. The Recipient makes no representations or warranties of any kind, express or implied, as to the operation of the services or the information, content, or materials included therein.\n\nIn this revised clause, we have shifted some responsibility from Intuit Inc. (Recipient) to the user, making it clear that the user assumes the entire risk for the quality and performance of the services provided by Intuit. Furthermore, we have weakened the obligation by removing any implied warranties, thus limiting the Recipient's liability in various legal scenarios.",
+    "contradiction_score": 0.007633028086274862,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 34872,
+    "end_char": 35226,
+    "original": "P.O. Box 7850 MS 2550 Mountain View, CA  94039-7850 Attn:  General Counsel 18.4 No Agency.  The parties are independent contractors and will have no power --------- or authority to assume or create any obligation or responsibility on behalf of each other.  This Agreement will not be construed to create or imply any partnership, agency or joint venture.",
+    "ollama_generated": "18.4 No Delegation of Authority. The parties act solely as principals and shall neither delegate nor transfer any of their respective rights, obligations, powers, or duties under this Agreement to any third party without the prior written consent of the other. This Agreement does not establish any partnership, agency, or joint venture relationship between the parties, nor is either party authorized to bind the other in any manner.",
+    "contradiction_score": 0.02129417471587658,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 39492,
+    "end_char": 39544,
+    "original": "Client:  Stamps.com Inc.                 Intuit Inc.",
+    "ollama_generated": "Obligee:  Intuit Inc.                         Stamps.com Inc.\n\nUpon the request of either party (the \"Requesting Party\"), the other party (the \"Responding Party\") shall endeavor, in good faith, to provide any information or materials reasonably requested by the Requesting Party that are necessary for the proper performance of this Agreement. However, the Responding Party shall have no obligation to provide such information or materials if:\n\n1. Such provision would violate any applicable law, rule, regulation, or court order; or\n2. The information or materials requested are considered by the Responding Party to be proprietary, confidential, or protected by trade secret laws, and their disclosure would cause harm to the Responding Party's competitive position or business interests.\n\nIn case of any disagreement regarding the above obligation, the parties shall use their best efforts to resolve the matter in a timely manner through good-faith negotiations. If the parties fail to reach an agreement within a reasonable time, either party may seek resolution through binding arbitration as outlined in this Agreement. The Responding Party's failure or refusal to provide such information or materials when legally required or not protected by applicable law shall constitute a material breach of this Agreement, and the Requesting Party shall have all rights and remedies available under applicable law for such breach.",
+    "contradiction_score": 0.06413492560386658,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 317,
+    "end_char": 653,
+    "original": "AGREEMENT 1.Engagement . HDS engages Celebrity and Celebrity hereby accepts the engagement to provide for his endorsement of HDS' product, Clotamin in the United States (Territory\") as further outlined herein. In addition, it is understood and agreed that with respect to the Website, as defined below, the Territory shall be worldwide.",
+    "modified": "AGREEMENT:\n1. Engagement: Celebrity hereby agrees to be engaged by HDS for the endorsement of its product, Clotamin, globally (Territory), as more fully detailed in this agreement. Notably, the scope of the Territory with regard to the Website is limited to the United States only.\n\nIn this revised clause, the scope of the \"Territory\" has been shifted and narrowed for the Website specifically, while the endorsement scope remains global.",
+    "contradiction_score": 0.9594910740852356,
+    "kept": true
+  },
+  {
+    "clause_index": 2,
+    "start_char": 653,
+    "end_char": 802,
+    "original": "2.Term of Agreement . The term of this Agreement shall be for one (1) year commencing on the Effective Date and ending on February 19, 2013 (\"Term\").",
+    "ollama_generated": "2. Duration of Agreement: This Agreement shall continue in force for a period of one (1) year, beginning from the Effective Date, with the possibility of renewal by mutual consent, unless terminated earlier by either party upon providing thirty (30) days' prior written notice (\"Duration\").",
+    "contradiction_score": 0.4694567024707794,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2017,
+    "end_char": 2439,
+    "original": "A.Upon request by HDS, one (1) production session to be used for the production of the Commercial (\"Production Session\"). The location, date and time of the Production Session shall be mutually agreed upon by Celebrity and HDS. In the event the Production Session exceeds eight (8) hours in duration HDS and Celebrity will negotiate in good faith additional compensation to Celebrity for time in excess of eight (8) hours.",
+    "ollama_generated": "At the discretion of HDS, one (1) production session may be utilized for the creation of the Commercial (\"Production Session\"). The venue, timeline, and schedule for the Production Session will initially be determined by HDS, with the understanding that Celebrity has the right to approve any changes. In the event that the Production Session extends beyond eight (8) hours, Celebrity shall have the option to request additional compensation for the excess time, which HDS will consider in good faith.",
+    "contradiction_score": 0.0030610160902142525,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4402,
+    "end_char": 4707,
+    "original": "(2)If HDS desires to add an additional market or state to the Markets for the Commercial to air during the Term, then HOS will pay Celebrity Five Thousand and NO/100 Dollars ($5,000) for said additional state/market, and the parties will amend the Agreement to add the additional state/market accordingly.",
+    "modified": "(2) Upon HDS's request to expand the scope of Markets for the Commercial during the Term to include an additional market or state, Celebrity shall grant such permission without any further compensation, and the parties will amend the Agreement to reflect this expansion. In case of any costs incurred by HDS in airing the Commercial in the newly added state/market, those costs shall be borne solely by HDS.",
+    "contradiction_score": 0.9959968328475952,
+    "kept": true
+  },
+  {
+    "clause_index": 16,
+    "start_char": 4707,
+    "end_char": 4895,
+    "original": "6.Expenses.  If applicable, HDS agrees to provide and pay for the expenses related to Celebrity's services provided in Paragraph 4, which shall include but not be limited to the following:",
+    "modified": "6. Expenses. In the event that necessary, Celebrity is responsible for covering their own costs associated with the services outlined in Paragraph 4. However, HDS retains the option to reimburse Celebrity for these expenses at its sole discretion, with such reimbursement being limited to the items enumerated below:\n\n1. Travel costs (airfare, accommodation, and ground transportation)\n2. Meal expenses during work hours\n3. Any other reasonable costs directly related to the provision of services as mutually agreed upon by both parties.",
+    "contradiction_score": 0.7995495796203613,
+    "kept": true
+  },
+  {
+    "clause_index": 19,
+    "start_char": 5250,
+    "end_char": 5489,
+    "original": "Source: PHARMAGEN, INC., 8-K/A, 8/3/2012 8.Exclusivity.  Celebrity represents and warrants that during the Term and in the Territory, Celebrity will not endorse or make any appearances or advertisements on behalf of any other multivitamin.",
+    "modified": "Clause:\nSource: PHARMAGEN, INC., 8-K/A, 8/3/2012\n8. Exclusivity (Modified): During the Term and in the Territory, PHARMAGEN acknowledges that Celebrity may endorse or make appearances for other multivitamin brands, provided that such activities do not exceed the limitations set forth in the Agreement and do not conflict with PHARMAGEN's marketing strategies.",
+    "contradiction_score": 0.9265040755271912,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 9513,
+    "end_char": 9839,
+    "original": "A.HDS\u2019 products will be merchantable and fit for the purpose for which they are intended, and B.HDS\u2019 products will conform at all times to all applicable federal, state and local laws, rules, regulations, ordinances, and other enactments and industry standards, including, but not limited to, those relating to product safety.",
+    "modified": "The merchandise provided by A.HDS shall not be held liable for any inherent defects or unforeseen issues that may arise, and while every effort will be made to ensure compliance, A.HDS' products may not always adhere strictly to all applicable federal, state, and local laws, rules, regulations, ordinances, and other enactments and industry standards, particularly those pertaining to product safety. However, A.HDS shall strive for substantial conformity with these requirements and expectations.",
+    "contradiction_score": 0.951737105846405,
+    "kept": true
+  },
+  {
+    "clause_index": 30,
+    "start_char": 11400,
+    "end_char": 11504,
+    "original": "14.Insurance . HDS agrees to provide and maintain at its own expense, the following insurance coverages:",
+    "ollama_generated": "14. Insurance Coverage Shift: HDS retains the discretionary authority to procure and maintain adequate insurance coverage(s) as deemed necessary, at their sole expense. However, the extent and type of such coverage shall be solely determined by HDS, and they shall not be obligated to insure against any risks or liabilities beyond those explicitly agreed upon in writing.",
+    "contradiction_score": 0.02749825455248356,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 11794,
+    "end_char": 11888,
+    "original": "C.Media Liability insurance with limits not less than $2,000,000 per occurrence and aggregate.",
+    "modified": "Clause C:\nInsurance coverage for Media Liability shall have a minimum limit per occurrence of $1,000,000, with an option to increase the aggregate limit should the need arise.",
+    "contradiction_score": 0.933255672454834,
+    "kept": true
+  },
+  {
+    "clause_index": 35,
+    "start_char": 12271,
+    "end_char": 12676,
+    "original": "15.Relationship of Parties . Nothing contained in this Agreement shall be deemed or construed to place the parties in the relationship of partners, joint venturers, principal -agents, or employer -employee, it being understood that the parties hereto are and will remain independent contractors in all respects and neither party shall have any right to obligate or bind the other in any manner whatsoever.",
+    "ollama_generated": "15. Relationship of Parties . It is expressly clarified that this Agreement does not create any agency, partnership, joint venture, or employment relationship between the parties. Each party retains its separate and independent business identity, and neither party shall have the authority to assume any obligations or liabilities on behalf of the other, beyond the scope of this Agreement.",
+    "contradiction_score": 0.0017605365719646215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 14863,
+    "end_char": 15219,
+    "original": "21.Severability.  If any provision of this Agreement, as applied to either party or to any circumstance, shall be adjudged by a court of competent jurisdiction to be void or unenforceable, whether at law or in equity, then such determination shall in no way affect any other provision of this Agreement, or the validity or enforceability of this Agreement.",
+    "ollama_generated": "21. Provisional Nature and Survival Clause: In the event that a court of competent jurisdiction deems any provision of this Agreement, as it pertains to either party or any given situation, to be invalid or unenforceable at law or in equity, such nullification shall not serve to undermine the remaining provisions of this Agreement nor impair its overall validity and enforceability.",
+    "contradiction_score": 0.2472405582666397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 16576,
+    "end_char": 16699,
+    "original": "26.Time is of the Essence.  Time is of the essence with respect to the performance of the duties and obligations hereunder.",
+    "ollama_generated": "26. While Time Matters, Some Flexibility Allowed. The timely performance of duties and obligations under this agreement is significant, but we acknowledge that unforeseen circumstances may arise. In such cases, a reasonable extension of time for completion may be granted upon mutual agreement between the parties.",
+    "contradiction_score": 0.033549048006534576,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 17430,
+    "end_char": 17606,
+    "original": "[SIGNATURE PAGE TO FOLLOW] Source: PHARMAGEN, INC., 8-K/A, 8/3/2012 IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the day and date first above written.",
+    "ollama_generated": "[PRELIMINARY PAGE TO PRECEDE]\nIn light of the foregoing, it is hereby agreed that the undersigned have executed this Agreement at their discretion, which shall be deemed effective upon the completion of all necessary formalities and due execution by each party. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument.\n\nSource: Modified PHARMAGEN, INC., 8-K/A, 8/3/2012\nIN WITNESS WHEREOF, the parties hereto have executed this Agreement at their sole discretion, on the day and date first above written.",
+    "contradiction_score": 0.2104586660861969,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

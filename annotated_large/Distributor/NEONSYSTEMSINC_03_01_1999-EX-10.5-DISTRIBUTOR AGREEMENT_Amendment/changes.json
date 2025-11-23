@@ -1,0 +1,70 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 824,
+    "end_char": 833,
+    "original": "RECITALS:",
+    "ollama_generated": "RECITALS:\n\nAcknowledging that the parties hereto have entered into this Agreement with the intention of establishing a mutual understanding regarding the performance of certain services, and desiring to set forth the terms and conditions thereof, the parties hereby agree as follows:\n\nORIGINAL PROVISION:\n\n1. PERFORMANCE OBLIGATIONS: Each party agrees to perform its respective obligations under this Agreement diligently and in a professional manner, using commercially reasonable efforts.\n\nREVISED PROVISION:\n\n1. PERFORMANCE OBLIGATIONS: Each party shall make good faith efforts to perform its respective obligations under this Agreement, but shall not be liable for any failure or delay in the performance of such obligations resulting from circumstances beyond its control.\n\nExplanation: The revised clause weakens the obligation by removing \"diligently\" and replacing \"commercially reasonable efforts\" with a more general phrase (\"good faith efforts\"). Additionally, it includes a limitation on liability for any failures or delays caused by circumstances beyond the party's control.",
+    "contradiction_score": 0.31089547276496887,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3383,
+    "end_char": 3845,
+    "original": "(a)            Licensee shall pay to Licensor for each Licensed Product licensed to a Redistributor or a Customer a royalty equal to the Specified Royalty Percentage of all revenues received (without deduction for value added tax, if any, but excluding any revenues for maintenance and support or upgrade services, which revenues are covered in paragraph (b) below) by Licensee under the Redistributor Agreement or Sublicense applicable to such Licensed Product.",
+    "ollama_generated": "(a)  Licensor agrees to receive from Licensee, for each Licensed Product distributed to a Redistributor or Customer, a royalty equal to the Specified Royalty Percentage of the gross revenues received (excluding any taxes and including maintenance and support or upgrade services as covered in paragraph (b) below) by Licensee under the Redistributor Agreement or Sublicense related to such Licensed Product. The obligation for payment arises only if the Licensor explicitly requests such royalty payments from the Licensee in writing, at which point the royalty amount shall be due within 30 days of receipt of such request.",
+    "contradiction_score": 0.3365491032600403,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 4385,
+    "end_char": 6074,
+    "original": "Section 3.2    TERMS OF PAYMENT.  The royalties payable to Licensor pursuant to Section 3.1 shall be payable in accordance with the provisions of this Section 3.2.  On or before the first day of each fiscal quarter of each fiscal year during the term hereof, commencing with the Licensee's fiscal year which begins on April 1, 1999, Licensee shall pay to Licensor, as an advance (a \"Royalty Advance\") of royalties anticipated to be paid hereunder during such fiscal year, an amount equal to twenty-five percent (25%) of the Annual Royalty Advance Requirement for such fiscal year.  The aggregate amount of Royalty Advances outstanding from time to time shall be credited against royalties payable hereunder pursuant to Section 3.1 as and when such royalties are recognized as earned in accordance with generally accepted accounting principles.  Royalty Advances made hereunder shall be made in respect of royalties that may become payable in respect of any and all Licensed Products and shall not be deemed made in respect of any particular Licensed Product.  With respect to any royalty payments due hereunder from Licensee to Licensor in excess of the amount of Royalty Advances made by Licensee from time to time hereunder, such payments shall be payable on the later of (i) sixty (60) days after the date of the applicable invoice to a Redistributor or Customer, as the case may be, or (ii) five (5) business days following Licensee's receipt of payment from a Redistributor or Customer, as the case may be.  Any royalty payment that is not paid when due will bear interest from the date such amount is due until the date payment is made at a rate equal to ten percent (10%) per annum.",
+    "ollama_generated": "Section 3.2 - TERMS OF ROYALTY REIMBURSEMENT: The reimbursement of royalties owed to the Licensor, as outlined in Section 3.1, shall adhere to the guidelines provided in this Section 3.2. In the beginning of each fiscal quarter, commencing with Licensee's fiscal year starting on April 1, 1999, and continuing throughout the term of this agreement, Licensor will be reimbursed by the Licensee, as a reimbursement (a \"Royalty Reimbursement\") for royalties already paid by Licensor in anticipation of those to be received hereunder during that fiscal year, an amount equal to twenty-five percent (25%) of the projected Annual Royalty Reimbursement Requirement for that fiscal year. The cumulative total of outstanding reimbursements at any given time will be deducted from the royalties owed by Licensee hereunder in accordance with Section 3.1, once those royalties are deemed earned in accordance with generally accepted accounting principles.\n\nReimbursements made under this agreement will cover royalties associated with any and all Licensed Products and shall not be considered as reimbursement for any specific Licensed Product. Regarding any royalty payments from Licensee to Licensor that exceed the total of reimbursements made by Licensee at that time, such payments should be made within a reasonable period, specifically: (a) sixty (60) days after the issuance of the applicable invoice to a Redistributor or Customer; or (b) five (5) business days following Licensee's receipt of payment from a Redistributor or Customer.\n\nAny reimbursement that is not paid on time will accrue interest at a rate of ten percent (10%) per annum, starting from the date the amount was originally due until it is fully repaid. In case of any dispute regarding the timeliness or amount of reimbursements, the parties shall endeavor to resolve such disputes through good faith negotiations.",
+    "contradiction_score": 0.11888781189918518,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 18165,
+    "end_char": 18685,
+    "original": "(e)  The Distributor Agreement, as amended by this Amendment, constitutes the entire agreement between the parties hereto with respect to the matters covered hereby and thereby.  All prior negotiations, representations and agreements with respect thereto not incorporated in this Amendment or the Distributor Agreement are hereby canceled.  As modified hereby, the Distributor Agreement shall continue in full force and effect and be binding upon the parties hereto and their respective successors and permitted assigns.",
+    "ollama_generated": "(e) This Amendment to the Distributor Agreement serves as the complete and sole expression of the agreements reached by the parties concerning the topics addressed within. Any previous discussions, assurances, or contracts regarding the same matters, not explicitly included in this Amendment or the initial Distributor Agreement, are hereby deemed invalidated. Moving forward, the amended Distributor Agreement shall remain binding upon all parties involved, as well as their subsequent successors and lawful transferees, provided that such actions do not breach the terms of this agreement.",
+    "contradiction_score": 0.011732224375009537,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 18945,
+    "end_char": 19050,
+    "original": "(f)  This Amendment shall be governed by and construed under the law governing the Distributor Agreement.",
+    "modified": "(f) The interpretation and application of this Amendment will be based on laws that are foreign to the Distributor Agreement, providing an external juridical framework.",
+    "contradiction_score": 0.9881765246391296,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 19050,
+    "end_char": 19213,
+    "original": "[The remainder of this page is intentionally left blank.] IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date first set forth above.",
+    "ollama_generated": "This page beyond this point remains deliberately unfilled. FOR THE RECORD, it is hereby acknowledged that the parties involved in this agreement have signed this Addendum on the date initially recorded at the beginning.",
+    "contradiction_score": 0.0011781783541664481,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 21372,
+    "end_char": 21416,
+    "original": "Executed as of the 1st day of January, 1999.",
+    "modified": "Enacted effective from the 31st day of December, 1998.\n\nExplanation: The original clause mentions the contract was executed on the first day of January, 1999. The revised clause changes this to the last day of the previous year, which is a slight shift in timing but still within the realm of reality and professionalism.",
+    "contradiction_score": 0.9300546050071716,
+    "kept": true
+  }
+]

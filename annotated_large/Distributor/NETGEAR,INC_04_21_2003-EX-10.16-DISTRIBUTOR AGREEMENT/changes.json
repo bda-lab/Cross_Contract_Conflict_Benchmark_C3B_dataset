@@ -1,0 +1,147 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1202,
+    "end_char": 1460,
+    "original": "All notices given under the Agreement are to be in writing and may be sent by mail, telefax, courier service or otherwise delivered to the party to be notified at the following address, or to such other address as may have been substituted by written notice:",
+    "ollama_generated": "Under this Agreement, any notices shall be communicated in writing, and may be conveyed via mail, telefax, courier service, or alternative means, to the respective parties at the addresses below. However, either party reserves the right to designate a new address for receiving such notifications by providing written notice:\n\n[Address of the first party]\n[Address of the second party]",
+    "contradiction_score": 0.013698240742087364,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 4829,
+    "end_char": 5445,
+    "original": "3.       ORDERS A.       Distributor may purchase Products by placing orders under this Agreement which are accepted by NETGEAR. No order will be effective until accepted by delivery of NETGEAR's order acknowledgment. Distributor agrees that each order placed with NETGEAR for Products shall be governed by this Agreement, regardless of any additional or conflicting term in Distributor's order. Unless otherwise specifically stated in the Order, all Orders accepted by NETGEAR shall be deemed to be for immediate release. Orders may be sent by telefax or other electronic media approved by NETGEAR and must specify:",
+    "ollama_generated": "3. ORDER PLACEMENT AND ACCEPTANCE\n\nA. The Supplier (Netgear) reserves the right to fulfill Orders placed by the Distributor under this Agreement, which will be considered valid only upon Netgear's written confirmation or verbal acknowledgment. The Distributor acknowledges that any Order they submit for Products is subject to this Agreement and any other terms within the Order shall not supersede or conflict with it, unless expressly agreed upon in writing by both parties. Unless otherwise specified in the Order, all Orders accepted by the Supplier will be considered as immediate release orders.\n\nOrders may be submitted via telefax, email, or other electronic media approved by the Supplier and must include the following details:\n\nThis clause maintains the original intent of the clause but shifts the burden of order acceptance to the Supplier (Netgear) and provides for the possibility of conflicting terms being resolved through written agreement between both parties. It also gives the Supplier the discretion to specify immediate release for orders unless otherwise specified in the Order.",
+    "contradiction_score": 0.05532917007803917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 7537,
+    "end_char": 7764,
+    "original": "The amount of the credit on any unit shall be equal to [*]. The foregoing notwithstanding, in the event any of the Products were acquired under special competitive pricing arrangements, the credit on such Products shall be [*].",
+    "ollama_generated": "Any unit's credit amount will be set at [*]. However, if the Products were procured through unique competitive pricing agreements, the credit for those Products will be subject to negotiation and may vary from the standard amount. This provision does not necessarily limit the potential flexibility in determining the credit amount in such cases.",
+    "contradiction_score": 0.008360319770872593,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 13249,
+    "end_char": 13632,
+    "original": "6.       SOFTWARE LICENSES A.       INTERNAL USE BY DISTRIBUTOR. Distributor may purchase for its internal use licenses to Software and accompanying documentation by placing orders under this Agreement. Distributor's right to use the Software is subject to the \"shrink-wrap\" license agreement with the Software and in its accompanying documentation shipped by NETGEAR to Distributor.",
+    "ollama_generated": "6. SOFTWARE LICENSES A. PERMITTED INTERNAL USE BY DISTRIBUTOR. With this Agreement, Distributor is granted permission to acquire for internal use licenses of the Software and related documents. However, Distributor's access and utilization of the Software are contingent upon the terms and conditions as outlined in the \"shrink-wrap\" license agreement that accompanies the Software, which shall be considered binding on Distributor, subject to any amendments or updates provided by NETGEAR. In case of discrepancies between this Agreement and the Software's license agreement, the latter shall take precedence.",
+    "contradiction_score": 0.006487218663096428,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 13632,
+    "end_char": 14478,
+    "original": "B.       DISTRIBUTION OF SOFTWARE LICENSES TO END-USERS. Distributor may procure and distribute Software and accompanying documentation by placing orders under this Agreement. The terms of the licenses for such Software to which end-users are subject are included as a \"shrink-wrap\" license agreement with the Software and in its accompanying documentation when shipped by NETGEAR (the INGRAM NETGEAR Distributor Agreement    4                                 083096 \"License Agreement\"). Distributor agrees that for each Software product it procures under this Agreement, Distributor will (i) assure the deliver the License Agreement to its customers, and (ii) use reasonable efforts to inform its resale customers of the requirement to deliver the License Agreement to their end-user customers in the form supplied by NETGEAR with the Products.",
+    "ollama_generated": "C. SOFTWARE LICENSE DELIVERY TO END-USERS BY DISTRIBUTOR. In accordance with this Agreement, the Distributor is authorized to obtain and distribute Software and relevant documentation. The terms governing the usage of such Software by end-users are encompassed within a \"shrink-wrap\" license agreement provided with the Software and its accompanying documents, as shipped by NETGEAR (referred to hereafter as the \"Ingram Netgear Distributor Agreement 083096, 'License Agreement'\"). The Distributor acknowledges and agrees that for every Software product acquired under this Agreement, it shall:\n\n1. Deliver the License Agreement to its clients.\n2. Employ reasonable efforts in informing its reseller customers of their obligation to deliver the License Agreement to their respective end-user clients, as supplied by NETGEAR with the Products. However, the responsibility for ensuring the end-users' receipt of the License Agreement shall primarily lie with the end-users and their respective resellers.",
+    "contradiction_score": 0.16812340915203094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 16456,
+    "end_char": 16683,
+    "original": "B.       HARDWARE WARRANTY. NETGEAR warrants to end-user that each item of Hardware will be free from defects in workmanship and materials for its respective warranty period which begins on the date of purchase by the end user.",
+    "ollama_generated": "WARRANTY ON NETGEAR HARDWARE. The end-user is granted a warranty by Netgear, under which Netgear will make every reasonable effort to ensure that each item of Hardware provided does not exhibit defects in workmanship or materials; however, this warranty shall only apply during the warranty period, commencing from the date of purchase by the end user. Any deviations or issues outside the warranty period are not covered under this warranty and shall be resolved at the discretion of the end-user, subject to applicable laws and regulations.",
+    "contradiction_score": 0.009242204949259758,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 20285,
+    "end_char": 20374,
+    "original": "a) Distributor may return Products only within the [*] period following [*] of each year.",
+    "modified": "a) The Distributor is granted the option to return Products at any time during the calendar year, however, no returns will be accepted more than one year after initial receipt.",
+    "contradiction_score": 0.7713916301727295,
+    "kept": true
+  },
+  {
+    "clause_index": 51,
+    "start_char": 22676,
+    "end_char": 23291,
+    "original": "D.       RESTRICTION ON APPOINTMENT OF ADDITIONAL DISTRIBUTORS. NETGEAR's agreement not to appoint additional distributors of NETGEAR Products in the Territory during the [*] of this Agreement is predicated upon Distributor performing the mutually agreed upon activities included in the Marketing Plan attached as Exhibit 4. In the event Distributor fails to perform the activities included in the Marketing plan in [*], NETGEAR may appoint additional distributors in the Territory and the provisions of this Agreement appointing Distributor as the only NETGEAR distributor in the Territory shall be deemed deleted.",
+    "ollama_generated": "C.     POSSIBILITY OF ADDITIONAL DISTRIBUTORS APPOINTMENT BY NETGEAR. The stipulation that NETGEAR will not designate further distributors of NETGEAR Products within the Territory throughout the term of this Agreement is contingent upon Distributor fulfilling the activities detailed in the Marketing Plan, as outlined in Exhibit 4. In the event Distributor fails to carry out the activities specified in the Marketing plan during any given period, NETGEAR retains the right to appoint additional distributors within the Territory, and this Agreement designating Distributor as the exclusive NETGEAR distributor for the Territory shall be considered null and void.\n\nIn this revised clause, the condition has been inverted: Instead of Netgear not appointing more distributors if the distributor performs activities, the distributor's status as the sole distributor may be revoked if they fail to perform the agreed-upon activities, allowing Netgear to appoint additional distributors. The wording has also been adjusted for clarity and professionalism.",
+    "contradiction_score": 0.05484795570373535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 23291,
+    "end_char": 23598,
+    "original": "11.      REPORTS A.       Each month Distributor shall submit a Point of Sale (POS) shipments report covering the preceding month, broken out by Product. The report may be submitted via BBS and shall include, at a minimum, Distributor's reseller's name, address, part number, quantity shipped and unit cost.",
+    "modified": "11. REPORTING MODIFICATIONS:\n  A. In contrast to the previous practice, Distributor is not obligated to submit a Point of Sale (POS) shipments report each month, but rather may do so voluntarily at their discretion. If a report is submitted, it shall cover the current month and include the same information as before: Distributor's reseller's name, address, part number, quantity shipped, and unit cost. The report can be transmitted via BBS, but no specific timing or format is mandated.",
+    "contradiction_score": 0.5702863931655884,
+    "kept": true
+  },
+  {
+    "clause_index": 60,
+    "start_char": 27940,
+    "end_char": 28323,
+    "original": "B.       RIGHTS TO TRADEMARKS. Distributor acknowledges that Bay Networks is the exclusive owner of the Trademarks and the use of the Trademarks by Distributor does not convey to Distributor any right, title or interest in or to the Trademarks. Distributor has no claim or right in the Trademarks, service marks, or trade names owned, used or claimed now or in the future by NETGEAR.",
+    "modified": "C.       TRADINGMARK USAGE RESTRICTIONS. Distributor acknowledges and accepts that Netgear retains exclusive ownership of the Trademarks, and the usage of these Trademarks by Distributor does not imply any transfer or assignment of rights, title, or interest in or to the Trademarks to Distributor. Any claims or rights associated with the Trademarks, service marks, or trade names currently owned, utilized, or claimed by Bay Networks remain exclusively with Netgear.\n\nIn this revised clause, the responsibility for ownership and claim of the trademarks is shifted from \"Bay Networks\" to \"Netgear\", which strengthens the obligation on Distributor as it clearly communicates that any rights associated with the Trademarks belong solely to Netgear.",
+    "contradiction_score": 0.6503210663795471,
+    "kept": true
+  },
+  {
+    "clause_index": 62,
+    "start_char": 28540,
+    "end_char": 28869,
+    "original": "C.       NOTIFICATION. In order to assure proper use and protection of Trademarks, Distributor agrees to inform NETGEAR in writing if Distributor purchases, or is offered for purchase, any Products with a Trademark or other mark of NETGEAR from a source other than NETGEAR, its subsidiaries, or an authorized NETGEAR Distributor.",
+    "ollama_generated": "C. NOTIFICATION PROCEDURES: To maintain the integrity and exclusivity of our Trademarks, NETGEAR reserves the right to be notified in writing by the Distributor if any Products bearing a Trademark or other identifying mark associated with NETGEAR are found to have been acquired from sources independent of NETGEAR, its subsidiaries, or officially authorized NETGEAR Distributors. The onus is on NETGEAR to verify the authenticity of such products and, in the event of a breach, NETGEAR shall have the discretion to take appropriate action.",
+    "contradiction_score": 0.010622437112033367,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 34392,
+    "end_char": 35351,
+    "original": "IN NO EVENT WILL EITHER PARTY OR THEIR RESPECTIVE PARENT CORPORATIONS OR SUPPLIERS BE LIABLE FOR (1) THE COST OF SUBSTITUTE PROCUREMENT, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, OR (2) ANY DAMAGES RESULTING FROM INACCURATE OR LOST DATA OR LOSS OF USE OR PROFITS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, THE FURNISHING OF SERVICES, OR THE USE OR PERFORMANCE OF PRODUCTS, EVEN IF INFORMED OF SUCH DAMAGES. EXCEPT FOR DAMAGES ARISING UNDER SECTIONS 14.A AND 16.A, IN NO EVENT WILL NETGEAR's OR BAY NETWORKS' TOTAL LIABILITY FOR ANY DAMAGES IN ANY ACTION BASED ON OR ARISING OUT OF OR IN CONNECTION WITH THE AGREEMENT EXCEED THE [*] TO NETGEAR PURSUANT TO THE AGREEMENT. EXCEPT FOR DAMAGES ARISING FROM BREACH OF SECTIONS 6.C AND 12,13 OR 17, IN NO EVENT WELL DISTRIBUTOR's TOTAL LIABILITY FOR ANY DAMAGES IN ANY ACTION BASED ON OR ARISING OUT OF OR IN CONNECTION WITH THE AGREEMENT EXCEED THE [*] TO NETGEAR PURSUANT TO THE AGREEMENT.",
+    "ollama_generated": "NEITHER PARTY, NOR THEIR RESPECTIVE AFFILIATES OR VENDORS, SHALL BE HELD LIABLE FOR (1) INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR INDIRECT DAMAGES; OR (2) ANY LOSSES ARISING FROM INACCURATE OR LOST DATA, INTERRUPTION OF SERVICES, OR THE POTENTIAL PROFITS THAT COULD HAVE BEEN GAINED, REGARDLESS OF BEING AWARE OF SUCH DAMAGE. EXCEPT FOR DAMAGES SPECIFICALLY DETAILED IN SECTIONS 14.A, 16.A AND ANY ADDITIONAL SECTIONS ADDRESSED, THE MAXIMUM LIABILITY OF NETGEAR OR BAY NETWORKS IN ANY CLAIM RELATED TO THIS AGREEMENT, SERVICES PROVIDED, OR USE OF PRODUCTS SHALL NOT EXCEED THE AMOUNT PAYABLE BY NETGEAR UNDER THE TERMS OF THIS AGREEMENT. EXCEPT FOR DAMAGES CAUSED BY VIOLATIONS OF SECTIONS 6.C, 12, OR 13, AND SECTION 17, THE MAXIMUM LIABILITY OF DISTRIBUTOR IN ANY CLAIM RELATED TO THIS AGREEMENT, SERVICES PROVIDED, OR USE OF PRODUCTS SHALL NOT EXCEED THE AMOUNT PAYABLE BY NETGEAR UNDER THE TERMS OF THIS AGREEMENT.\n\nThis revised clause maintains the original's professional tone but shifts some responsibilities and weakens the scope of liability for both parties, particularly by removing explicit caps on damages arising from certain sections and broadening the scope of what constitutes \"damages\" to include potential profits.",
+    "contradiction_score": 0.1490839570760727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 36756,
+    "end_char": 36938,
+    "original": "C.       NETGEAR and Distributor agree to comply with the provisions of all applicable federal, state, county and local laws, ordinances, regulations and codes, domestic and foreign.",
+    "modified": "A.      In the event of any inconsistency or conflict between the terms of this Agreement and any applicable federal, state, county, or local laws, ordinances, regulations, or codes (domestic or foreign), it shall be NETGEAR's responsibility to ensure that its actions are in compliance with such legal requirements, provided that Distributor will cooperate fully and promptly with NETGEAR to this end. In the event of any legal action arising from non-compliance, Distributor hereby releases and indemnifies NETGEAR for any penalties, damages, or liabilities incurred as a result.",
+    "contradiction_score": 0.8800990581512451,
+    "kept": true
+  },
+  {
+    "clause_index": 81,
+    "start_char": 38271,
+    "end_char": 38608,
+    "original": "H.       This Agreement may not be assigned by either party without prior written permission from the other party, which permission shall not be unreasonably withheld or delayed. Any attempt by either party to assign any right, or delegate any duty or obligation which arises under the Agreement without such permission will be voidable.",
+    "modified": "I.      Either party has the right to transfer their rights and obligations under this Agreement only after obtaining written consent from the other party, which shall not be arbitrarily withheld nor unduly delayed. Any assignment or delegation of rights or duties without such prior consent will render the agreement null and voidable at the discretion of the non-consenting party.",
+    "contradiction_score": 0.6255768537521362,
+    "kept": true
+  },
+  {
+    "clause_index": 83,
+    "start_char": 38981,
+    "end_char": 39230,
+    "original": "INGRAM NETGEAR Distributor Agreement    11                                083096 * Portions denoted with an asterisk have been omitted and filed separately with the Securities and Exchange Commission pursuant to a request for confidential treatment.",
+    "ollama_generated": "INGRAM NETGEAR Distribution Agreement - Amended Version 11 - 083096 * Certain sections marked with an asterisk have been set aside in confidence, as per a request for confidential treatment filed with the Securities and Exchange Commission.\n\nIn this agreement, Supplier (Netgear) shall not be held responsible for any product defects or malfunctions caused by improper installation, misuse, or modifications made to the distributed products by the Distributor (Ingram). The onus of ensuring the proper functioning of these products remains solely with the Distributor.\n\nFurthermore, whereas the original agreement required the Distributor to maintain accurate and up-to-date records regarding inventory and sales, under this amended version, the Supplier shall bear the responsibility for validating and verifying the accuracy of such records, upon reasonable request by the Distributor. This shall not absolve the Distributor from maintaining proper records, but it does shift the burden of their verification to the Supplier.",
+    "contradiction_score": 0.012525317259132862,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

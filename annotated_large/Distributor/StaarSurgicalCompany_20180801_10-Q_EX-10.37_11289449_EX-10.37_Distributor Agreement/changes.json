@@ -1,0 +1,227 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 494,
+    "end_char": 671,
+    "original": "Recitals A. STAAR is engaged in the manufacture, global distribution and sale of ophthalmic products, including a range of devices for cataract, glaucoma and refractive surgery.",
+    "ollama_generated": "Recital B: It is acknowledged that the entity identified as STAAR primarily operates within the ophthalmic industry, specializing in the production, worldwide distribution, and retail sale of a diverse array of products pertaining to cataract, glaucoma, and refractive surgery procedures. However, the scope of its activities may extend beyond these areas at the discretion of STAAR.",
+    "contradiction_score": 0.11827348172664642,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 671,
+    "end_char": 826,
+    "original": "B. Distributor is engaged in and has experienced and trained personnel for the marketing, distribution and sale of ophthalmic products in ________________.",
+    "ollama_generated": "B. While it is understood that Distributor operates within and possesses a team with marketing, distribution, and sales expertise for ophthalmic products in ________________; the Company acknowledges its responsibility to provide necessary training, guidance, and support to ensure the effective promotion and sale of these products.",
+    "contradiction_score": 0.0014430147130042315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1238,
+    "end_char": 1953,
+    "original": "Agreement 1. Appointment and Acceptance 1.1 STAAR hereby appoints Distributor, and Distributor hereby accepts such appointment, to purchase the Products from STAAR and market, distribute and sell them in the Territory on the terms and conditions set forth herein. Distributor shall not have the right to appoint any subdistributors, subcontractors or other third parties to market, distribute or sell the Products. All Products shall be marketed, distributed and sold solely under STAAR\u2019s Trademarks. STAAR may utilize any of its affiliates to carry out STAAR\u2019s obligations under this Agreement\u037e provided that STAAR shall remain liable for the due observance and performance of this Agreement by any such affiliate.",
+    "modified": "Agreement 1. Delegation and Consent 1.1 Distributor hereby consents to be delegated, and STAAR hereby grants such delegation, the authority to market, distribute, and sell the Products within the Territory, subject to the terms and conditions as outlined in this agreement. STAAR acknowledges that Distributor may engage subdistributors, subcontractors, or other third parties for the purposes of marketing, distribution, and sales of the Products, provided that Distributor shall be responsible for their actions and compliance with this Agreement. All Products shall be marketed, distributed, and sold under the Trademarks owned by STAAR's affiliates, with STAAR retaining responsibility for ensuring the due observance and performance of this Agreement by any such affiliate.",
+    "contradiction_score": 0.8185213804244995,
+    "kept": true
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2362,
+    "end_char": 3009,
+    "original": "1.3 Subject to Section 8.3, Distributor\u2019s right to market, distribute and sell the Products in the Territory shall be exclusive. Distributor shall not sell any Products to a customer if Distributor knows or has reason to believe that such customer intends to remove those Products from the Territory. Distributor acknowledges and agrees that STAAR retains the right to sell the Products in the Territory directly or indirectly, including but not limited to via electronic commerce (without compensation to the Distributor). The Distributor shall cooperate with STAAR in servicing corporate accounts for customers operating in multiple Territories.",
+    "ollama_generated": "1.3 Except as specified in Section 8.3, the distributor's authority to market, distribute, and sell the Products within the Territory is exclusive, however, the distributor may sell Products to a customer if they are unaware or lack reasonable grounds to suspect that the customer intends to move those Products outside the Territory. The distributor understands and accepts that STAAR reserves the right to sell the Products within the Territory both directly and indirectly, including through electronic commerce (without any compensation owed to the Distributor). The distributor is obligated to assist STAAR in servicing corporate accounts for customers operating across multiple Territories. In this case, STAAR will not be responsible for any territorial conflicts that may arise from such cooperation.",
+    "contradiction_score": 0.26236459612846375,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 7866,
+    "end_char": 8180,
+    "original": "4.2 Payment for the Products shall be in U.S. Dollars, or such other currency as STAAR may require in its sole discretion, and made within thirty (30) days of STAAR\u2019s invoice. Late payments shall be subject to an interest charge of 1% per month or the maximum amount permitted by applicable law, whichever is less.",
+    "ollama_generated": "4.2 The Client is required to settle the Payment for the Products within thirty (30) days of receiving STAAR's invoice, and this payment can be made in U.S. Dollars or a currency specified by STAAR at its sole discretion. Failure to make timely payments may result in additional charges, with the rate set at 1% per month or the maximum amount permitted by applicable law, whichever is greater. The onus for ensuring compliance with applicable laws regarding interest charges lies with the Client.",
+    "contradiction_score": 0.0013254592195153236,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 14218,
+    "end_char": 14533,
+    "original": "8. Delivery 8.1 Delivery of all Products ordered by Distributor shall be made Ex Works  at STAAR\u2019s export manufacturing or other facility or named shipping point as determined by STAAR. ICC INCOTERMS (2010 edition) shall apply, except insofar as these INCOTERMS may be inconsistent with the terms of this Agreement.",
+    "ollama_generated": "8. Receipt\n8.1 All Products ordered by Distributor will be received Ex Works at STAAR's export manufacturing or other facility, or a designated shipping point as chosen by the Distributor. ICC INCOTERMS (2010 edition) shall apply, except in cases where these terms conflict with the provisions of this Agreement, in which case the provisions of this Agreement shall take precedence.\n\nIn this version, the seller is now obligated to receive the products at the specified location instead of delivering them, and the Distributor has the power to choose the shipping point. Additionally, in case of any inconsistencies between the INCOTERMS and this Agreement, the terms of this Agreement will override the INCOTERMS.",
+    "contradiction_score": 0.303194522857666,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 14533,
+    "end_char": 15093,
+    "original": "8.2 In the event Distributor fails to take delivery and/or shipment of Products pursuant to the terms of this Agreement: (a) STAAR shall be entitled to store the Products in a warehouse at the expense and risk of Distributor\u037e (b) the price of the Products shall become immediately due and payable by Distributor\u037e and (c) after thirty (30) days from the date upon which the price becomes payable, STAAR may dispose of the Products in a commercially reasonable manner without notice to Distributor and recover any shortfall and related expenses from Distributor.",
+    "ollama_generated": "8.2 In the event that STAAR fails to accept delivery and/or shipment of Products in accordance with this Agreement: (a) Distributor shall be responsible for all costs associated with the storage of the Products, including but not limited to warehousing expenses, at the expense of STAAR and at the risk of Distributor; (b) STAAR shall not be required to pay for the Products until they are successfully delivered and shipped; (c) after thirty (30) days from the scheduled delivery date, if STAAR has not accepted the Products, Distributor may dispose of them in a commercially reasonable manner without prior notice to STAAR, retaining any profits and being liable only for costs associated with disposal.\n\nIn this revised clause, the responsibility for storage costs shifts from STAAR to the Distributor in case of delayed delivery, and the payment terms are reversed, with STAAR not required to pay until successful delivery. The disposal rights are also given to the Distributor if STAAR fails to accept delivery within 30 days.",
+    "contradiction_score": 0.03663477674126625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 16337,
+    "end_char": 17597,
+    "original": "Products may only be returned by Distributor when accompanied by a return material authorization number issued by STAAR. Shipping expenses for Products returned by Distributor will be prepaid by Distributor. STAAR shall pay for the return or replacement shipment to Distributor of Products repaired or replaced under the Warranty. For Products returned for repair or replacement that are not covered under Warranty, STAAR\u2019s standard repair charges shall be applicable in addition to all shipping expenses. The above Warranty is contingent upon proper installation, use and maintenance of the Products and does not apply to Products which have been misused, mishandled, adulterated, repaired or modified without STAAR\u2019s written approval. To the maximum extent permitted by applicable law, STAAR shall not be responsible for any incidental or consequential loss, damage, or expense which arises directly or indirectly from the use of any Product. Without limiting the above, and to the maximum extent permitted by applicable law, Distributor\u2019s sole remedy in contract or in tort (including in negligence) and STAAR\u2019s liability shall be limited to the repair or replacement of any Product which is returned to and found to be defective or non-conforming by STAAR.",
+    "modified": "Products can be returned by Distributor without a return material authorization number from STAAR, although it is recommended for efficient processing. Shipping expenses for Returns initiated by Distributor will be initially covered by them, with reimbursement possible upon STAAR's confirmation of the return's eligibility. In cases where STAAR assumes responsibility for shipping Products back to Distributor, whether for repair, replacement under Warranty, or otherwise, Distributor will cover the initial shipping costs. For items returned for repair or replacement not covered under the Warranty, additional charges may apply as per STAAR's standard repair fees and all associated shipping expenses. The Warranty provided by STAAR is contingent upon proper installation, use, and maintenance of the Products; however, it extends to cover Products deemed misused, mishandled, or adulterated, provided they are repaired or modified with STAAR's written consent. To the maximum extent permitted by applicable law, STAAR accepts no responsibility for any incidental or consequential loss, damage, or expense arising from the use of any Product. Without limiting this statement, and to the maximum extent permitted by applicable law, in the event of a claim against STAAR arising from contract breach, tort (including negligence), or otherwise, Distributor's remedy is limited to the repair or replacement of any Product found to be defective or non-conforming by STAAR.",
+    "contradiction_score": 0.8509979248046875,
+    "kept": true
+  },
+  {
+    "clause_index": 35,
+    "start_char": 20399,
+    "end_char": 20968,
+    "original": "Distributor shall forward to STAAR all other Complaints within five (5) calendar days of receipt. If any evaluation of Product involved in a Complaint by STAAR is necessary or appropriate, Distributor will use best efforts to retrieve the affected Product, if available, and return it to STAAR. STAAR will pay for the return shipment of such Product to STAAR. STAAR will be responsible for investigating all Complaints, determining if reporting to regulatory authorities in the Territory is required, and submitting such reports to regulatory authorities when required.",
+    "ollama_generated": "Distributor shall promptly notify STAAR of any received Complaints, but is not required to forward the Complaints themselves within any specific timeframe. In instances where an evaluation of the Product related to a Complaint by STAAR is deemed necessary or advisable, Distributor may choose to provide the affected Product for analysis, although no obligation exists to retrieve and return the Product if it is unavailable. The cost of shipping the Product back to STAAR for evaluation will be borne by the Distributor.\n\nSTAAR has the discretion to conduct an investigation into all reported Complaints, determine whether reporting to regulatory authorities in the Territory is necessary, and submit any required reports to such authorities. However, the decision and responsibility for complying with applicable regulations rest solely with STAAR.",
+    "contradiction_score": 0.059948746114969254,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 24357,
+    "end_char": 24498,
+    "original": "11.4 Copies of all permits, licenses, sponsorships and registrations referred in Sections 11.1 and 11.2 shall be promptly forwarded to STAAR.",
+    "ollama_generated": "11.4 It is understood that the Party responsible for obtaining and maintaining the permits, licenses, sponsorships, and registrations as outlined in Sections 11.1 and 11.2 shall keep STAAR duly informed of such documents, with the understanding that this obligation to provide updates may occur at any time but is not required to be done immediately upon acquisition or renewal.",
+    "contradiction_score": 0.017516005784273148,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 30455,
+    "end_char": 30891,
+    "original": "Such separate endorsement shall indicate that Distributor\u2019s insurance is primary and that STAAR\u2019s coverage as an additional named insured is not contributory. Each such insurance policy and endorsement shall provide that the insurance will not be canceled or reduces without at least thirty (30) days\u2019 prior written notice to STAAR. On request, Distributor shall provide STAAR with copies or certificates of all such insurance policies.",
+    "modified": "The separate endorsement should clearly state that STAAR's insurance coverage, as an additional insured, takes precedence over Distributor's insurance, and that Distributor's coverage operates on a non-contributory basis. Each policy and corresponding endorsement shall include a provision ensuring no unilateral cancellation or reduction without providing a minimum of thirty (30) days' prior written notice to the Distributor. Upon request, STAAR will receive copies or certificates of all such insurance policies from the Distributor.",
+    "contradiction_score": 0.9747490882873535,
+    "kept": true
+  },
+  {
+    "clause_index": 60,
+    "start_char": 35155,
+    "end_char": 35299,
+    "original": "Termination is not the sole remedy under this Agreement, and, whether or not termination is effected, all other remedies shall remain available.",
+    "ollama_generated": "Termination of this Agreement does not exhaust available remedies; rather, the exercising of termination serves as a supplementary, not exclusive, option. Regardless of termination, all other recourses and remedies are retained and remains accessible.",
+    "contradiction_score": 0.0004881263303104788,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 38059,
+    "end_char": 38863,
+    "original": "\u201cData Protection Laws \u201d means any applicable data protection or privacy laws. It shall include: (a) the EU Data Protection Directive 95/46/EC and EU ePrivacy Directive 2002/58/EC as implemented by countries within the European Economic Area (\u201c EEA\u201d)\u037e (b) from 25 May 2018, the EU General Data Protection Regulation (\u201c GDPR \u201d) as implemented by countries within the EEA and the UK\u037e and/or (c) other laws that are similar, equivalent to, successors to, or that are intended to or implement the laws that are identified in (a) and (b) above\u037e \u201cShared Personal Data \u201d shall have the meaning as set out in Section 16.4\u037e and The terms \u201c data controller \u201d, \u201cdata subject \u201d, \u201cpersonal data \u201d, \u201cprocessing \u201d, and \u201c sensitive personal data \u201d shall have the same meanings ascribed to them under Data Protection Laws.",
+    "ollama_generated": "\"Data Compliance Regulations\" refer to any legislation governing data protection or privacy matters. This encompasses: (a) the EU Data Protection Directive 95/46/EC and EU ePrivacy Directive 2002/58/EC, as applied within member states of the European Economic Area (\" EEA\"); (b) from May 25, 2018, the EU General Data Protection Regulation (\" GDPR \") in its application across the EEA and the UK; and (c) any legislation that resembles, mirrors, supersedes, or aims to replace the regulations outlined in points (a) and (b). \"Shared Confidential Information\" shall bear the definition provided in Section 16.4. The terms \"data processor,\" \"individual concerned,\" \"personal information,\" \"handling,\" and \"sensitive personal information\" shall retain their respective meanings as defined under the Data Compliance Regulations.\n\nBy shifting the emphasis from 'data protection' to 'data compliance', this revised clause acknowledges that the legislation may encompass a broader range of regulations, including those dealing with data security, privacy, and transfer, among others. This expansion of scope could potentially weaken the obligation to comply with specific data protection laws, but it would still maintain a focus on adhering to all relevant regulations in the interest of maintaining integrity and protecting sensitive information.",
+    "contradiction_score": 0.19465091824531555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 38863,
+    "end_char": 39086,
+    "original": "16.2 STAAR and Distributor each acknowledge and agree that where a party processes personal data under or in connection with this Agreement it alone determines the purposes and means of such processing as a data controller.",
+    "ollama_generated": "16.2 For the purpose of clarity, both STAAR and Distributor recognize and consent to the fact that in instances where data processing is undertaken under or in relation to this Agreement, either party serving as the data processor shall have the sole discretion over the purposes for which such data is processed and the methods used in carrying out such processing.",
+    "contradiction_score": 0.0022008505184203386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 40468,
+    "end_char": 40683,
+    "original": "16.6 To the extent of any conflict in relation to personal data between the terms contained in this Section and the rest of the Agreement, then the terms of this Section shall control to the extent of such conflict.",
+    "ollama_generated": "16.6 In case of any inconsistency concerning personal data matters between the provisions outlined within this Section and the remainder of the Agreement, the provisions of this Section shall take precedence and govern to the extent of such discrepancy, with the other terms of the Agreement yielding to those of this Section.",
+    "contradiction_score": 0.0024842298589646816,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 42221,
+    "end_char": 42483,
+    "original": "20. Integrated Agreement This Agreement constitutes the entire understanding and agreement between STAAR and Distributor regarding the subject matter hereof and terminates and supersedes all prior formal or informal understandings or agreements relating thereto.",
+    "modified": "20. Self-Contained Agreement: This Agreement signifies a self-contained understanding and agreement between STAAR and Distributor in regards to the specified subject matter, superseding any and all prior discussions, negotiations, memoranda or other informal or formal agreements on the same topic, leaving no implied obligations beyond those explicitly stated herein.",
+    "contradiction_score": 0.9547946453094482,
+    "kept": true
+  },
+  {
+    "clause_index": 77,
+    "start_char": 44155,
+    "end_char": 44490,
+    "original": "23. Severability This Agreement is divisible, and provisions herein held to be violate of any applicable treaties, statutes or regulations of any governmental agency having jurisdiction shall effect only that portion held to be invalid or inoperative, and the remaining portions of this Agreement shall remain in full force and effect.",
+    "ollama_generated": "23. Severability: This Agreement is structured with distinct sections, such that if any of its provisions are deemed in conflict with applicable treaties, statutes, or regulations overseeing a pertinent governmental agency, only the conflicting portion shall be considered null and void, while the remaining parts of this Agreement shall retain their validity and enforceability.",
+    "contradiction_score": 0.002953252289444208,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 45409,
+    "end_char": 45788,
+    "original": "25. Governing Law and Dispute Resolution 25.1 This Agreement, which is in English, shall be governed by and construed in accordance with the laws of the State of California without regard to the conflicts of laws principles thereof. The parties hereby expressly disclaim and exclude any applicable provisions of the United Nations Convention for the International Sales of Goods.",
+    "ollama_generated": "25. Governing Law and Dispute Resolution\n25.1 This Agreement, which is in English, shall be governed by and interpreted under the principles of substantive California law, however, without any consideration to its conflicts of laws rules or procedures. The parties explicitly renounce and forgo the application of any provisions derived from the United Nations Convention on Contracts for the International Sale of Goods (CISG). Instead, this Agreement shall be construed and enforced in accordance with the internal substantive law of California only, to the maximum extent permitted by applicable local laws.",
+    "contradiction_score": 0.004602070897817612,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 47788,
+    "end_char": 48464,
+    "original": "1.I understand and will comply with the anti-bribery provisions of the U.S Foreign Corrupt Practices Act and the UK Bribery Act. Neither I, nor any person employed by me or my business or representing my business, has or will make, offer, promise or authorize, directly or indirectly, any payment or transfer of anything of value to any official, representative or employee of any government, government agency or instrumentality, for the purpose of influencing a decision by any of them to take actions favorable to STAAR Surgical Company or its subsidiaries (\u201cSTAAR\u201d) or represent them on any matter related directly or indirectly to the purchase of any of STAAR\u2019s products.",
+    "ollama_generated": "1. I acknowledge and undertake to adhere to the anti-bribery principles outlined in the U.S. Foreign Corrupt Practices Act and the UK Bribery Act. It is clarified that should any individual working for me, my business, or acting on its behalf, be found to have made, offered, promised, or authorized any payment or transfer of value to any government official, representative, or employee, with the intent of influencing a decision in favor of STAAR Surgical Company or its subsidiaries (\"STAAR\"), or securing business related to the acquisition of STAAR's products, such actions shall be considered a breach of this agreement by me. I assume full responsibility for ensuring compliance with these anti-bribery rules and will take appropriate measures to prevent any such instances from occurring under my watch.",
+    "contradiction_score": 0.00424367468804121,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 49360,
+    "end_char": 49546,
+    "original": "4.I understand and agree that failure to comply with the terms of this Certification will entitle STAAR to terminate any and all if its contractual relationships with me and my business.",
+    "modified": "4.I acknowledge and accept that persistently adhering to the provisions of this Certification may result in STAAR electing to discontinue any and all of their contractual ties with me and my business, should non-compliance be identified.",
+    "contradiction_score": 0.9417544603347778,
+    "kept": true
+  },
+  {
+    "clause_index": 92,
+    "start_char": 49566,
+    "end_char": 49578,
+    "original": "DISTRIBUTOR:",
+    "ollama_generated": "DISTRIBUTOR'S OBLIGATION:\n\nThe Distributor shall, at its sole discretion and within the timeframes as mutually agreed upon, make reasonable efforts to distribute the Product in the Territory and shall use commercially reasonable efforts to market and promote the Product. However, the Distributor shall not be held responsible for any failure or delay in achieving the sales targets or for any shortfall in the product's market penetration, unless such failure or delay is due to the Distributor's gross negligence or willful misconduct.",
+    "contradiction_score": 0.046951401978731155,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 49598,
+    "end_char": 49609,
+    "original": "Print Name:",
+    "ollama_generated": "Signature of Countersignatory (Countersignatory's Printed Name):\n\nUpon execution of this Agreement, the Countersignatory acknowledges, understands, and accepts that they shall be solely responsible for the accuracy and completeness of the information provided to us during the course of our business relationship. In the event of any dispute arising out of or in connection with this Agreement, the burden of proof in respect of such dispute shall rest exclusively upon the Countersignatory, who shall provide all necessary documentation, evidence, and explanations to support their position. The Countersignatory hereby waives any right to claim ignorance or lack of knowledge regarding any matters covered by this Agreement, and accepts full responsibility for understanding and complying with its terms.",
+    "contradiction_score": 0.011996994726359844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 49620,
+    "end_char": 49661,
+    "original": "Source: STAAR SURGICAL CO, 10-Q, 8/1/2018",
+    "ollama_generated": "Clause (Revised):\n\nIn the event that STAAR Surgical Company (\"Company\") is required to pay any damages or settle any claims arising from a product liability claim against it, the Company shall have no obligation to reimburse, indemnify, or hold harmless any third party for such payments unless such third party has been specifically designated in writing as an \"Additional Insured\" by the Company prior to the occurrence giving rise to the claim.\n\nOriginal clause:\n\nIf STAAR Surgical Company (\"Company\") is obligated to pay damages or settle claims due to product liability, it will not indemnify or hold harmless any third party for such payments unless said third party was designated as an \"Additional Insured\" by the Company in writing before the incident leading to the claim.",
+    "contradiction_score": 0.35750728845596313,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 457,
+    "end_char": 565,
+    "original": "In consideration of the mutual promises and covenants set forth below, HDI and the Company agree as follows:",
+    "ollama_generated": "In recognition of the reciprocal assurances and undertakings detailed below, HDI and the Company mutually consent to the following stipulations:\n\nIn case of any default by either party in fulfilling their respective obligations under this agreement, it shall be at the discretion of the non-defaulting party to decide whether to remedy the breach or terminate this contract. Furthermore, the non-defaulting party shall not be held liable for any damages or losses arising from such termination.\n\nThis shift in responsibility aims to provide both parties with a degree of flexibility and autonomy in managing potential breaches of contract, while limiting their liability for any resulting consequences.",
+    "contradiction_score": 0.0008660429157316685,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1163,
+    "end_char": 1352,
+    "original": "1.2 HDI shall bear all costs associated with the design, development, implementation, operation, maintenance and management of the Site, including, without limitation, technology and labor.",
+    "modified": "1.2 For the management, operation, maintenance, development, and design of the Site, the responsibility for all related expenses, such as technology and labor costs, shall be borne exclusively by the Client.",
+    "contradiction_score": 0.9990159273147583,
+    "kept": true
+  },
+  {
+    "clause_index": 6,
+    "start_char": 1421,
+    "end_char": 1868,
+    "original": "1.4 HDI shall provide the Company with access to, and the right to use, a computer system on which the Site will be stored and operated, with a direct Internet connection of shared but greater than T-1 bandwidth, plus capacity to process continuously during burst periods. HDI shall also provide the Company with access to HDI's software and Content administration tools for purposes of allowing the Company to monitor current catalog information.",
+    "ollama_generated": "1.4 The Company shall have the privilege to utilize a computer system, provided by HDI, for the storage and operation of the Site. This system will be equipped with a direct Internet connection of shared bandwidth exceeding T-1, capable of handling continuous processing during peak periods. Furthermore, HDI grants the Company access to its software and Content administration tools, which the Company may use at its discretion for the purpose of monitoring current catalog information. The responsibility for maintaining the functionality and availability of this system, as well as ensuring the necessary bandwidth and processing capacity, lies with HDI.",
+    "contradiction_score": 0.000985864200629294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1868,
+    "end_char": 2280,
+    "original": "1.5 For the purposes of collecting orders for Deerskin Products from the Site and to communicate to the Site the unavailability of certain Deerskin Products, HDI shall provide export files in the format provided by the Company. HDI shall bear the programming and software costs relating to efforts required to create order export files and receive and process import files of the Company's inventory information.",
+    "ollama_generated": "1.5 In connection with assembling orders for Deerskin Products via the Site, and notifying the Site about temporary out-of-stock status of certain Deerskin Products, HDI is responsible for generating export files in a format specified by the Company. Any expenses associated with programming and software required to develop order export files and handle import files containing the Company's inventory data will be borne directly by HDI. However, the Company may be expected to cover any additional costs that arise due to changes or modifications in the file formats or systems required for this purpose.",
+    "contradiction_score": 0.006856116000562906,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4084,
+    "end_char": 4277,
+    "original": "3.2 Payments to HDI shall be due monthly within thirty (30) days of the end of each calendar month and shall be accompanied by documentation reasonably detailing the calculation of the payment.",
+    "ollama_generated": "3.2 The recipient, HDI, shall have a maximum of thirty (30) days from the commencement of each new calendar month to make payments due, with no penalties for late submission. However, it is expected that these payments will be provided with documentation substantiating their calculation, which should be submitted at the time of payment, but failure to do so may result in disputes regarding the correctness of the payment amount.",
+    "contradiction_score": 0.00426666671410203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 4277,
+    "end_char": 4480,
+    "original": "3.3 Quarterly reconciliation of payments shall be conducted within thirty (30) days of the end of each calendar quarter to adjust for refunds and exchanges not taken into account in payments made to HDI.",
+    "modified": "3.3 The parties mutually agree that bi-monthly reviews of payment transactions will be initiated, without any strict timeline, to address potential discrepancies arising from unclaimed refunds or exchange adjustments in the payments remitted to HDI. Such reviews shall not be binding on either party and are intended as a tool for maintaining financial harmony between the parties.",
+    "contradiction_score": 0.8964716792106628,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 7557,
+    "end_char": 8001,
+    "original": "5.4 Each of HDI and the Company shall appoint a General Manager of its own to act as liaison with the other Party for the Site (each a \"General Manager\") who shall bear sole responsibility for bookkeeping and business operations of the Site on a day-today basis. Each General Manager shall have the authority to make and convey decisions on behalf of each Party and to be the liaison with the other Party for all production and Content matters.",
+    "modified": "5.4 It is jointly agreed by HDI and the Company that they will designate a General Manager, each responsible for their respective appointments (each a \"General Manager\"). These General Managers shall share responsibility for bookkeeping and business operations of the Site on a day-to-day basis. Any decisions made regarding production or Content matters must be mutually agreed upon by both General Managers before implementation. Each Party acknowledges that the other Party's General Manager may act as their representative for such decisions and communication purposes. No single General Manager shall bear sole responsibility for the Site's operations, and all decisions will require collaboration and consensus between the two parties.",
+    "contradiction_score": 0.62559574842453,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 9274,
+    "end_char": 9730,
+    "original": "6.3 During the term of this Agreement and for a period of two years after the expiration date of this Agreement, HDI shall not participate in any project similar to the Site on the Internet from which products substantially similar to Deerskin Products (including, without limitation, the products of Wilson's House of Leather, Excelled and and companies similar to Wilson's House of Leather and Excelled) are offered for sale to consumers on the Internet.",
+    "modified": "6.3 Throughout the duration of this Agreement and for a period of two years post its termination, HDI maintains the right, but not the obligation, to engage in projects resembling the Site, provided that any products offered for sale through such projects do not directly compete with Deerskin Products or substantially similar items (such as those from Wilson's House of Leather, Excelled, and entities analogous to Wilson's House of Leather and Excelled) to Internet consumers. In this circumstance, HDI assumes no liability for any potential infringement on intellectual property rights or unintended competition with Deerskin Products.",
+    "contradiction_score": 0.5935266613960266,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 16967,
+    "end_char": 17235,
+    "original": "10.5 Governing Law. This Agreement shall be governed and construed and enforced in accordance with the laws of the State of New York applicable to contracts made and to be performed exclusively in that State without giving effect to the principles of conflict of laws.",
+    "modified": "10.5 Jurisdictional Scope. This Agreement shall be subject to the legal jurisdiction of the courts within the State of New York, with the express agreement that any disputes arising hereunder will be adjudicated in accordance with the laws applicable to contracts executed outside of the State. This interpretation does not intend to apply the rules of conflict of laws, rather it is intended that the substantive law of a jurisdiction other than New York will govern this Agreement.",
+    "contradiction_score": 0.5250155329704285,
+    "kept": true
+  }
+]

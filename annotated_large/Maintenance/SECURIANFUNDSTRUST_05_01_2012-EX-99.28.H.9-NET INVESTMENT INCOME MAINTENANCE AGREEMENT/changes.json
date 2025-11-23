@@ -1,0 +1,62 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 3292,
+    "end_char": 3893,
+    "original": "1.3 Fund Operating Expenses . Fund Operating Expenses are the aggregate expenses of every character incurred by the Fund, including but not limited to investment  advisory fees of the Investment Adviser (but excluding interest, taxes, brokerage commissions and other expenditures which are capitalized in accordance with generally accepted accounting principles and other extraordinary expenses not incurred in  the ordinary course of the Fund \u2019s business). Fund Operating Expenses do not include \u201cacquired fund fees and expenses \u201d as defined in SEC Form N -1A, as it may be amended from time to time.",
+    "ollama_generated": "1.3 Management Fees and Operating Costs: The total costs incurred by the Fund, encompassing ordinary operating expenses such as advisory fees of the Investment Manager, but not including interest, taxes, brokerage commissions, capitalized expenditures in accordance with generally accepted accounting principles, extraordinary expenses, or any charges categorized as \"acquired fund fees and expenses\" as defined in SEC Form N-1A, as amended from time to time. It is noted that the Fund's management fees and operating costs do not cover \"acquired fund fees and expenses.\"\n\nThis revision focuses on rephrasing the clause to emphasize the idea of management fees and operating costs rather than just operative expenses. Additionally, it clarifies that these costs do not include certain specified charges, with a slight change in terminology from \"Fund Operating Expenses\" to \"management fees and operating costs.\"",
+    "contradiction_score": 0.006038774270564318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 3893,
+    "end_char": 4675,
+    "original": "1.4 Method of Computing Expense Waiver . To determine the Expense Waiver (Investment Adviser \u2019s liability), each day the Fund Operating Expenses shall be  subtracted from the Fund Investment Income to produce the daily Net Investment Income. If the daily Net Investment Income is below zero for any day, the Investment Adviser shall first waive or reduce its advisory fee for such day by an amount  sufficient to bring the Net Investment Income to zero. If the amount of the waived or reduced advisory fee for any such day is insufficient to bring the Net Investment Income to zero , the Investment Adviser shall also pay Fund expenses or reimburse  the Fund an amount that, together with the waived or reduced advisory fee, is sufficient to bring the Net Investment Income to zero.",
+    "ollama_generated": "1.4 Determination of Expense Reimbursement Obligation: The Fund Operating Expenses shall be deducted from the Fund Investment Income each day to calculate the daily Net Investment Income. If the daily Net Investment Income is greater than zero, the Fund will reimburse or compensate the Investment Adviser for its advisory fee on that day up to the amount necessary to bring the Net Investment Income to zero. The Fund shall not be required to provide any such compensation if the reduction in the advisory fee alone suffices to achieve a daily Net Investment Income of zero. However, should the reduction in the advisory fee prove insufficient, the Investment Adviser shall assume responsibility for covering the remaining expenses or reimbursing the Fund an amount equivalent to the deficit, ensuring that the Net Investment Income remains at zero.",
+    "contradiction_score": 0.25560030341148376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 8192,
+    "end_char": 8230,
+    "original": "3. Term and Termination of Agreement .",
+    "ollama_generated": "3. Duration and Cessation of Obligations.\n\nUpon the occurrence of any of the following events, either Party may terminate this Agreement without further obligation or liability:\n\n(a) Material breach by one Party of its obligations under this Agreement that remains uncured for a period of thirty (30) days after written notice is given;\n\n(b) Insolvency or bankruptcy proceedings initiated against either Party, whether voluntarily or involuntarily;\n\n(c) The dissolution or liquidation of either Party;\n\n(d) A governmental body revoking the necessary permits, licenses, or approvals required for the performance of this Agreement; or\n\n(e) Any other event that makes it impracticable to fulfill the obligations under this Agreement as originally intended.\n\nUpon termination, each Party shall promptly return any property of the other Party and cease using the Confidential Information disclosed during the term of this Agreement. The surviving Party may retain any payments or benefits received prior to termination.",
+    "contradiction_score": 0.04206155985593796,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 8232,
+    "end_char": 8250,
+    "original": "4. Miscellaneous .",
+    "ollama_generated": "4. Miscellaneous Matters.\n\nIn the event that either Party (the \"Party\") fails to perform any obligation under this Agreement without delay or cause (the \"Defaulting Party\"), the non-defaulting Party reserves the right, but not the obligation, to suspend its own performance hereunder for a reasonable period of time to allow the Defaulting Party an opportunity to remedy such default. If the Defaulting Party fails to remedy such default within thirty (30) days following notice thereof, then the non-defaulting Party may terminate this Agreement with immediate effect and without liability.",
+    "contradiction_score": 0.0648423582315445,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 8250,
+    "end_char": 8462,
+    "original": "4.1 Captions . The captions in this Agreement are included for convenience of reference only and in no other way define or delineate any of the provisions hereof or  otherwise affect their construction or effect.",
+    "ollama_generated": "4.1 Headings. The headings used within this Agreement are solely intended for easy navigation and do not serve to restrict, modify, or alter the interpretation of any provision contained herein. Instead, they offer a convenient means of referencing the contents of this Agreement.",
+    "contradiction_score": 0.3442952632904053,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 9576,
+    "end_char": 9680,
+    "original": "By:   /s/ Robert L. Senkler Name:  Robert L. Senkler Title:  President SECURIAN FINANCIAL SERVICES, INC.",
+    "ollama_generated": "By:  /s/ Robert L. Senkler\nName:  Robert L. Senkler\nTitle:  President (In a Capacity of Delegated Authority)\n\n(For the avoidance of doubt, it is understood and agreed that the authority delegated to the undersigned in this agreement is solely for administrative purposes and does not extend to any decision-making or policy-setting functions. All such decisions and policies shall remain with the duly constituted offices of Securian Financial Services, Inc.)\n\nIn essence, this revised clause clarifies that while Robert L. Senkler holds the title of President, his authority is limited and does not extend to decision-making or policy-setting functions, which are retained by the duly constituted offices of Securian Financial Services, Inc. This serves to limit his responsibility for such decisions and policies.",
+    "contradiction_score": 0.004259660840034485,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

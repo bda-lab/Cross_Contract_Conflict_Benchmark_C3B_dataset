@@ -1,0 +1,79 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 123,
+    "end_char": 142,
+    "original": "Tel No. : Fax No. :",
+    "ollama_generated": "Contact Information:\n\nRevised Clause:\nEmail Address: Postal Address:\n\nIn this revised clause, the primary means of contact has been shifted from telephone and fax to email and postal address, providing a more modern and flexible method of communication. This change may be suitable for businesses that prioritize digital communications over traditional methods.",
+    "contradiction_score": 0.017642779275774956,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2094,
+    "end_char": 2112,
+    "original": "4. Specific order:",
+    "ollama_generated": "4. Discretionary Service:\n\nIn the event that the Client requests a specific service, the Service Provider shall make reasonable efforts to accommodate such request; however, the final decision on whether to fulfill the Client's specific order remains solely at the discretion of the Service Provider. The Service Provider shall not be held responsible for any inconvenience or losses incurred by the Client due to the non-fulfillment of a specific order, provided that the Service Provider has exercised reasonable diligence and professional judgment in assessing the feasibility of such request.",
+    "contradiction_score": 0.1457044631242752,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 5325,
+    "end_char": 5338,
+    "original": "13. SHIPMENT:",
+    "ollama_generated": "13. DELIVERY:\n\nShould the goods be dispatched by the Supplier, it shall be the Buyer's responsibility to confirm receipt of the goods within three (3) business days and notify the Supplier of any discrepancies or damages within five (5) business days of receipt. The Buyer acknowledges that they bear the risk of loss or damage upon delivery unless the Supplier is duly notified in writing of such issues within the aforementioned timeframe.",
+    "contradiction_score": 0.04266216605901718,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 5338,
+    "end_char": 5578,
+    "original": "The seller shall contract on usual terms at his own expenses for the carriage of the goods to the agreed point at the named place of destination and bear all risks and expenses until the goods have been delivered to the port of destination.",
+    "modified": "The purchaser is responsible for arranging transportation of the goods from the seller's premises to the designated destination, with all associated costs borne by the purchaser. The risk and expenses related to the goods shall transfer from the seller to the purchaser once the goods have been handed over at the port of origin.",
+    "contradiction_score": 0.9871901869773865,
+    "kept": true
+  },
+  {
+    "clause_index": 38,
+    "start_char": 5744,
+    "end_char": 6158,
+    "original": "In case the goods are to be dispatched by parcel post/sea-freight, the Sellers shall, 3 days before the time of delivery, inform the Buyers by cable/letter of the estimated date of delivery, Contract No., commodity, invoiced value, etc. The sellers shall, immediately after dispatch of the goods, advise the Buyers by cable/letter of the Contract No., commodity, invoiced value and date of dispatch for the Buyers.",
+    "modified": "In the event that the goods are to be shipped via parcel post or sea freight, the Buyers shall be notified, at least three business days prior to delivery, by cable or letter, of the anticipated delivery date, Contract Number, commodity description, and invoiced value. Following dispatch of the goods, the Sellers shall promptly provide the Buyers with a written confirmation that includes the Contract Number, commodity description, invoiced value, and the date of dispatch. This notification serves to confirm the details for the Buyers' records.",
+    "contradiction_score": 0.6320362091064453,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 8754,
+    "end_char": 9335,
+    "original": "18. LATE DELIVERY AND PENALTY: Should the Sellers fail to make delivery on time as stipulated in the Contract, with exception of Force Majeure causes specified in Clause 17 of this Contract, the Buyers shall agree to postpone the delivery on condition that the Sellers agree to pay a penalty which shall be deducted by the paying bank from the payment. The penalty, however, shall not exceed 5% of the total value of the goods involved in the late delivery. The rate of penalty is charged at 0.5% for every seven days, odd days less than seven days should be counted as seven days.",
+    "ollama_generated": "18. DELIVERY DELAY AND CONSEQUENCES: In cases where the Buyers experience a delay in receipt of goods due to non-compliance with the delivery timeline outlined in this Contract, except for events under Force Majeure as detailed in Clause 17, it will be incumbent upon the Sellers to compensate the Buyers. The compensation shall take the form of a penalty, which will be deducted from the payment due to the Sellers by the paying bank. This penalty may not surpass 5% of the total value of the goods affected by the delay.\n\nThe penalty rate is determined at 0.5% for every seven calendar days, with any fraction of days less than seven being rounded up to seven days. The Sellers will be responsible for calculating and remitting this penalty promptly upon recognition of the delay in delivery.",
+    "contradiction_score": 0.005377358756959438,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 9335,
+    "end_char": 10146,
+    "original": "In case the Sellers fail to make delivery ten weeks later than the time of shipment stipulated in the Contract, the Buyers have the right to cancel the contract and the Sellers, in spite of the cancellation, shall still pay the aforesaid penalty to the Buyers without delay, the seller should refund the money received and pay the 30% of the total goods price of the penalty 19. ARBITRATION: All disputes in connection with this Contract or the execution thereof shall be settled friendly through negotiations. In case no settlement can be reached, the case may then be submitted for arbitration to the Foreign Economic and Trade Arbitration Committee of the China Beijing Council for the Promotion of International Trade in accordance with its Provisional Rules of Procedures by the said Arbitration Committee.",
+    "ollama_generated": "Should the Buyers determine that the Goods are not delivered within seven days after the stipulated delivery date as per the Contract, they shall have the authority to terminate this agreement unilaterally. In such a scenario, the Sellers remain liable for payment of the agreed-upon penalty to the Buyers without any delay, and furthermore, the Sellers are obliged to return the money received and pay an additional 30% of the total goods price as liquidated damages within the prescribed timeframe.\n\nRegarding dispute resolution, it is hereby agreed that all disagreements arising from this Contract or its execution shall initially be addressed through good-faith negotiations between the parties. If a mutually acceptable solution cannot be reached, either party may escalate the matter to the Foreign Economic and Trade Arbitration Committee of the China Beijing Council for the Promotion of International Trade, in accordance with their Provisional Rules of Procedures, for binding arbitration. The onus of initiating this process lies solely with the aggrieved party.",
+    "contradiction_score": 0.031024863943457603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 10146,
+    "end_char": 10444,
+    "original": "The Arbitration shall take place in Beijing and the decision of the Arbitration Committee shall be final and binding upon both parties\u037e neither party shall seek recourse to a law court nor other authorities to appeal for revision of the decision. Arbitration fee shall be borne by the losing party.",
+    "modified": "The Arbitration proceedings will occur in Beijing, and the determination made by the Arbitration Panel will serve as advisory rather than binding on both parties. Either party retains the right to challenge or seek resolution through a court of law following the Arbitration. The responsibility for covering the arbitration fees will initially rest with each party, with the expectation that the winning party may request reimbursement from the losing party at their discretion.",
+    "contradiction_score": 0.9954677820205688,
+    "kept": true
+  }
+]

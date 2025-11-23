@@ -1,0 +1,31 @@
+[
+  {
+    "clause_index": 9,
+    "start_char": 3500,
+    "end_char": 4050,
+    "original": "(c) Member covenants and agrees that during the Post-Term Period (defined below), except as otherwise approved in writing by Franchisor, Member shall not, either directly or indirectly, own, manage, engage in, be employed by, advise, make loans to, consult for, or have any other interest in any Competitive Business that is, or intends to operate, within a three (3) mile radius of the premises of your Franchised Business or within a three (3) mile radius of any Franchised Business then-operating or under construction to operate under the System.",
+    "ollama_generated": "(c) Member acknowledges and accepts, during the Post-Term Period (as defined herein), that without prior written consent from the Franchisor, they shall refrain from any involvement in Competitive Businesses, whether directly or indirectly, including but not limited to ownership, management, employment, advisory roles, loan arrangements, consulting, or any other form of interest. This restriction applies only if such Competitive Business is located within a three (3) mile radius of the Franchised Business's premises at the time of operation or construction to operate under the System, or if it intends to operate within that same radius in the future.",
+    "contradiction_score": 0.0017367094988003373,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6405,
+    "end_char": 6650,
+    "original": "Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 IN WITNESS WHEREOF , the Franchisee and the Member attest that each has read and understands the terms of this Agreement, and voluntarily signed this Agreement on the date first written above.",
+    "ollama_generated": "Clause:\nSource: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\nIN WITNESS WHEREOF , the Member and the Franchisee acknowledge that they have been made aware of the terms of this Agreement, and hereby signify their agreement to be bound by it on the date first written above, under the assumption that they have had an opportunity to seek independent legal advice prior to signing.\n\nExplanation: The original clause indicates that both parties have read and understood the terms of the agreement. In the revised clause, the obligation has been weakened slightly to imply that the parties have been made aware of the terms but are now agreeing to be bound by them only after having had an opportunity to seek independent legal advice. This change does not necessarily mean that the parties have actually sought such advice, but it gives them a potential out if they later find that they did not fully understand the agreement's implications.",
+    "contradiction_score": 0.41167980432510376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 6699,
+    "end_char": 6710,
+    "original": "Name: Name:",
+    "modified": "Name: Name:\n\nIn the event that any party fails to perform its obligations herein as required, such non-performing party shall be solely responsible for any damages or losses incurred by the other party as a result thereof, without prejudice to the right of the affected party to seek alternative remedies in accordance with applicable law. (Original Clause)\n\nIn the event that this Agreement is not fully executed or performed by either party, the non-defaulting party shall have no obligation to mitigate damages or losses arising from such breach, and may terminate this Agreement immediately, but shall not be held liable for any losses incurred by the defaulting party. (Rewritten Clause)\n\nIn this revised clause, the original obligation of the non-performing party to \"mitigate damages\" has been removed, meaning that they are no longer required to take steps to minimize damages resulting from their breach. Additionally, the language has been altered slightly to shift responsibility for losses away from the non-defaulting party and towards the defaulting party.",
+    "contradiction_score": 0.8228838443756104,
+    "kept": true
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 1309,
+    "end_char": 1386,
+    "original": "Now therefore, the parties hereto have agreed and do hereby agree as follows:",
+    "ollama_generated": "In light of the mutual understanding between the parties involved, they have chosen to establish this agreement as follows:\n\nIn contrast to the original clause, the focus has been shifted from affirmative agreement to a mutual understanding, subtly implying a more collaborative and less rigid approach.",
+    "contradiction_score": 0.004101553466171026,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1746,
+    "end_char": 2099,
+    "original": "2. Term This Agreement shall commence on the Effective Date and shall continue for an initial term of year as of the Effective Date. This Agreement shall automatically be renewed for successive one (1) year increments unless either party request in writing, at least ninety (90) days prior to the anniversary date, that this Agreement not to be renewed.",
+    "ollama_generated": "2. Duration: This Agreement will begin on the Effective Date and persist for an initial period of one year from said date. The contract shall automatically renew each year thereafter unless either party provides written notice, at least ninety (90) days before the annual renewal date, expressing their intention to terminate the agreement effective at the end of that year. In the absence of such notice, the Agreement will be deemed tacitly extended for another year.",
+    "contradiction_score": 0.321668803691864,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2625,
+    "end_char": 3160,
+    "original": "- Material planning - Material procurement - Incoming Inspection - Assembly of printed circuit boards & cables - Final assembly & integration of the Product - In Circuit test - Functional test - Packaging and delivery 4.2 Customer\u2019s production facilities Contractor will be obliged to allocate to Customer, production and storage space as well as trained production and testing personnel as an integral part of this Agreement. Contractor shall apply for and receive the ISO13488 standard for the production facility, by no later than .",
+    "ollama_generated": "4.2 Integrated Manufacturing - This Agreement obliges the Contractor to request and obtain, if not already possessed, the ISO 13488 standard for their production facility, with a goal of achieving this certification by an agreed-upon date. The Contractor shall provide the Customer with access to the necessary production and storage space, as well as trained personnel for manufacturing and testing purposes, subject to the terms of this Agreement. It is understood that this support will be contingent upon the Contractor's successful attainment and maintenance of the required standard.",
+    "contradiction_score": 0.017956607043743134,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3675,
+    "end_char": 3803,
+    "original": "6. Material Procurement The material procurement undertaking, pursuant to this Agreement, will be carried-out by the Contractor.",
+    "ollama_generated": "6. Material Obtaining Obligation\nIn accordance with this Agreement, the responsibility for securing the necessary materials falls upon the Vendor. This obligation does not imply any specific method or source for material acquisition, but is subject to the general terms and conditions set forth herein.",
+    "contradiction_score": 0.09917552024126053,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3803,
+    "end_char": 4108,
+    "original": "6.1 Contractor is authorized to purchase materials using standard purchasing practices including, but not limited to acquisition of materials recognizing Economic Order Quantity, ABC buy policy and long lead time components management, in order to meet the requirements of Customer\u2019s orders and forecasts.",
+    "ollama_generated": "6.1 The Contractor maintains discretion in procuring materials utilizing customary purchasing methods, including but not exclusive to methods involving Economic Order Quantity, ABC buy policy, and management of long lead time components, with the understanding that this may result in occasional over- or under-purchasing, as such deviations from exact requirements are allowable within reason, provided they do not significantly impact the Customer's orders and forecasts.",
+    "contradiction_score": 0.0680030956864357,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 5462,
+    "end_char": 5608,
+    "original": "6.4 Contractor is responsible for monitoring supplier\u2019s quality, according to the Specifications provided by Customer for all purchased materials.",
+    "modified": "6.4. The Supplier retains primary responsibility for maintaining quality in the supplied materials, as defined by the Specifications supplied by the Customer, with the Contractor acting primarily in a consultative role during this process.",
+    "contradiction_score": 0.984897792339325,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 5608,
+    "end_char": 5941,
+    "original": "6.5 In the event of termination of this Agreement or a cancellation of a Purchase Order, and/or discontinuance of a Product, or excess materials created by an Engineering Change, Customer agrees to compensate Contractor for unused material inventory which are affected by such termination, cancellation or discontinuance, as follows:",
+    "modified": "6.5 Upon any termination of this Agreement, cancellation of a Purchase Order, or discontinuation of a Product, or in the occurrence of excess materials due to an Engineering Change, Contractor assumes responsibility for managing and disposing of any affected unused material inventory, and Customer shall not be liable to compensate Contractor for such inventory.",
+    "contradiction_score": 0.9804973602294922,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 6192,
+    "end_char": 6312,
+    "original": "(ii)The cost of materials on order which cannot be cancelled without charge (unless the charge was approved by Customer.",
+    "ollama_generated": "(ii) The Supplier bears no charge for the cancellation of materials that have been ordered, except when such cancellation has been explicitly agreed upon by the Customer prior to the action. In cases where the Customer approves the cancellation charge, the Supplier retains the right to impose it.",
+    "contradiction_score": 0.3308044970035553,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 7541,
+    "end_char": 7717,
+    "original": "Contractor shall use all reasonable commercial efforts, including expediting materials and allocating capacity, in order to support Customer\u2019s request for increased production.",
+    "ollama_generated": "Contractor shall make a sincere effort, within the bounds of practicality and available resources, to facilitate Customer's demand for enhanced production, without guaranteeing immediate results or prioritizing such efforts over other contractual obligations. The Contractor reserves the right to determine the specific strategies employed to meet this objective, which may not necessarily involve expediting materials or allocating excessive capacity.",
+    "contradiction_score": 0.25410401821136475,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 11318,
+    "end_char": 12768,
+    "original": "8.2 In the event that Customer has either cancelled or delayed delivery of a Purchase Order and Customer has not taken delivery of the Products ordered under that Purchase Order within three (3) months from the original delivery date, then\u037e (i) Contractor shall submit a claim for reimbursement for such cancelled or delayed Products within thirty (30) days from the end of such three (3) month period\u037e (ii) Customer shall be liable to pay Contractor 100% of the Contract Price of such cancelled or delayed Products and (iii) Contractor shall hold the cancelled or delayed Products in its inventory and make them available to Customer (upon Customer\u2019s request) for a period of six (6) months from receipt of payment for such Products free of charge. 30 days before the lapse of the 6 month period, the Contractor shall notify the Customer of the upcoming lapse of the term. In the event that Customer, at its sole discretion, decides to repurchase any (or all) of the Products in said Period, and subject to the fulfillment of all Customer\u2019s obligations in this Sections 8.2 (i.e. 100% of the Contract Price has been paid to Contractor), then the price for such repurchase shall be 0% of the Contract Price. Thereafter, the Customer shall pay Contractor all direct costs in connection therewith. Provided Customer hereby authorizes Contractor to transfer such Products to a warehouse operated by Contractor or a third party as instructed by Customer.",
+    "ollama_generated": "8.2 Under the following circumstances, the responsibilities and obligations will shift: If a Purchase Order from the Customer is either cancelled or delivery delayed, and the Products ordered under that Purchase Order remain undelivered to Contractor after three (3) months from the original delivery date, then:\n\n(i) The Customer will have thirty (30) days from the end of this three-month period to submit a claim for reimbursement for these cancelled or delayed Products. Failure to do so may result in the forfeiture of such claim.\n\n(ii) Contractor reserves the right to retain 100% of the Contract Price for such cancelled or delayed Products, subject to any dispute resolution mechanism agreed upon by both parties.\n\n(iii) In the interest of inventory management and storage costs, the Contractor will endeavor to sell the cancelled or delayed Products within six (6) months from receipt. The Customer will be informed thirty (30) days prior to the lapse of this six-month period regarding the upcoming sale of these Products.\n\nHowever, if the Customer decides, at its sole discretion, within this six-month period, to repurchase any (or all) of the Products, and provided that all obligations in Section 8.2 are fulfilled by the Customer (specifically, payment of 100% of the Contract Price to the Contractor), then the price for such repurchase will be 0% of the Contract Price. Any additional costs incurred during this process will be borne by the Customer.\n\nThe Customer hereby grants the Contractor permission to transfer these Products to a warehouse operated by the Contractor or a third party, as instructed by the Customer.",
+    "contradiction_score": 0.12962502241134644,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 14036,
+    "end_char": 14190,
+    "original": "Provided Customer hereby authorizes Contractor to transfer such Products to a warehouse operated by Contractor or a third party as instructed by Customer.",
+    "ollama_generated": "At the discretion of the Customer, Contractor may be permitted, but not obligated, to store the specified Products in a warehouse owned or managed by Contractor, or a designated third party, upon receiving explicit instructions from the Customer.",
+    "contradiction_score": 0.0031659970991313457,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 15168,
+    "end_char": 16516,
+    "original": "10. Express Limited Warranty For the purpose of this Agreement, \u201cWarranty Period\u201d shall mean twelve (12) months as of the date of delivery to Customer. Contractor represents and warrants that, for the Warranty Period, the Products (i) will be free from defects in workmanship, material (only to the same extent as the original manufacturer of the material warrants the Contractor), and manufacture\u037e (ii) will comply the Specifications IPC610.B standard (in all material respects and unless otherwise was instructed by Customer). Contractor further represents and warrants that the Product will consist of new materials. The warranty provided in this Section shall not apply to (1) Customer\u2019s materials, tooling and equipment (2) Products modified by Customer or any third party without Contractor\u2019s prior written consent, (2) Products installed or operated by Customer or any third party in a manner inconsistent with the Specifications or the terms and conditions of this Agreement, or (3) Products damaged, abused, altered or misused by Customer or any third party, or as the result of fire, casualty, or other external cause (4) defects resulting directly or indirectly, wholly or partially, from Customer\u2019s Specifications or the design of the Products, (5) First articles, prototypes, pre-production units, test units or other similar Products.",
+    "ollama_generated": "10. Implicit Warranty Limitations\n\nFor the scope of this Agreement, \"Warranty Period\" is defined as twelve (12) months commencing from the date of delivery to the Client. The Vendor shall make no more than implied warranties, with the following exceptions:\n\n(i) During the Warranty Period, the Products will be devoid of defects in workmanship and material (to the same extent as the original manufacturer of the material warrants the Vendor). This warranty is contingent on the Products adhering to the Specifications IPC610.B standard, except where otherwise instructed by the Client. It is further understood that the Product will be comprised exclusively of new materials.\n\nThe implied warranties stipulated in this Section shall not extend to:\n\n(1) The Client's materials, tooling, and equipment.\n\n(2) Products that have been modified by the Client or any third party without prior written consent from the Vendor.\n\n(3) Products installed or operated by the Client or any third party in a manner that conflicts with the Specifications or the terms and conditions of this Agreement.\n\n(4) Products that have been damaged, mistreated, altered, or misused by the Client or any third party, or due to fire, casualty, or other external factors.\n\n(5) Defects originating directly or indirectly, entirely or partially, from the Client's Specifications or the design of the Products.\n\n(6) Initial products, prototypes, pre-production units, test units, or comparable items.\n\nIn this revised clause, we have shifted some responsibilities to the client and weakened the warranty provided by the vendor by rephrasing it as an \"implied\" rather than an express warranty, and added conditions that limit the application of the warranty to products not modified or misused by the client.",
+    "contradiction_score": 0.12298361212015152,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 16516,
+    "end_char": 17183,
+    "original": "Upon any failure of a Product to comply with the above warranty, Contractor\u2019s sole obligation, and Customer\u2019s sole remedy, is for Contractor, at its option, to promptly repair or replace such Product and return it to Customer freight prepaid. Customer shall return Products covered by the warranty freight prepaid after completing a failure report and obtaining a return material authorization number from Contractor to be displayed on the shipping container. Customer shall bear all risks, costs and expenses, associated with Products that have been returned to Contractor for which there is no defect found and/or with Products not covered under the warranty above.",
+    "modified": "In instances where a Product does not conform to the stipulated warranty, the Contractor's exclusive responsibility is to offer either repair or replacement services at their discretion, within a reasonable timeframe. It is the Customer's obligation to incur the costs of shipping the product back to the Contractor once they have submitted a failure report and received a return material authorization number.\n\nThe Customer will be responsible for any expenses, risks, or costs associated with Products returned to the Contractor that do not exhibit a defect or fall outside the scope of the warranty specified above. The Contractor assumes all risk in these instances upon taking possession of the returned Product.",
+    "contradiction_score": 0.855789840221405,
+    "kept": true
+  },
+  {
+    "clause_index": 48,
+    "start_char": 18806,
+    "end_char": 19116,
+    "original": "12. Delivery and Inspection, Title and shipping 12.1 Contractor undertakes to report to Customer once (1) a week, or per Customer request, the quantity of Products ready for delivery 12.2 Customer will notify Contractor, from time to time, quantities of Products and destinations to which to ship the Products.",
+    "ollama_generated": "12. Delivery and Inspection, Title and Shipping\n\n12.1 The Customer shall have the discretion to request a report from the Contractor regarding the quantity of Products prepared for delivery, at least once (1) every week, or as the Customer deems necessary.\n\n12.2 In response to these requests, the Contractor shall provide such reports promptly and accurately. The Contractor shall also ship the Products to the destinations specified by the Customer without prior notification, unless otherwise agreed in writing by both parties. However, the Contractor retains the right to seek clarification on any shipping details that are not explicitly provided by the Customer.",
+    "contradiction_score": 0.24533024430274963,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 19732,
+    "end_char": 20070,
+    "original": "12.5 To each delivery, Contractor shall include all required documentation (e.g. bill of lading, QA/QC certificate). Upon delivery to Customer, Customer will sign the bill of lading. Such signature shall only be deemed as acknowledgement of receipt of the delivery and not confirmation as to the delivered Products\u2019 condition and quality.",
+    "ollama_generated": "12.5 In relation to each delivery made by Contractor, appropriate documentation (such as a bill of lading, QA/QC certificate) shall be enclosed. Upon receipt from Customer, the Contractor acknowledges that signature on the bill of lading serves as an indication of delivery acceptance, not a guarantee or confirmation regarding the delivered Products' condition and quality, which remains the sole responsibility of the Customer.",
+    "contradiction_score": 0.00117919419426471,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 21335,
+    "end_char": 21495,
+    "original": "13.3.2 For price change which has cost impact greater than US $200, based on one (1) quarter consumption will require prior written authorization from Customer.",
+    "ollama_generated": "13.3.2 Any price adjustment exceeding USD 200, based on a three-month consumption period, shall only be implemented with the express, prior, and written consent of the Customer. This provision does not imply that the Supplier is obligated to provide notice for price changes within this threshold amount.",
+    "contradiction_score": 0.01298007182776928,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 31601,
+    "end_char": 31692,
+    "original": "The provisions of this Section 19 shall survive termination or expiration of the Agreement.",
+    "ollama_generated": "Upon termination or expiration of the Agreement, the obligations set forth in Section 19 shall persist, binding both parties to honor these terms post-termination for a reasonable duration, as specified within the provisions themselves.",
+    "contradiction_score": 0.0009873821400105953,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 36276,
+    "end_char": 36424,
+    "original": "Notwithstanding the foregoing, Contractor shall be entitled to assign its rights to be paid hereunder to banks or first tier financial institutions.",
+    "ollama_generated": "Notwithstanding the preceding provisions, however, the Assignee of Contractor's rights to receive payment under this contract shall be restricted to accredited banks and top-tier financial institutions only.",
+    "contradiction_score": 0.0023450315929949284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 36607,
+    "end_char": 36661,
+    "original": "Name: Name: MOSHE MIZRAHY Title: Title: CEO Signature:",
+    "ollama_generated": "Name: Name: Moshe Mizrahy\n   Title: Title: Chief Executive Officer (CEO)\n   Signature:\n\nAltered Clause:\n\nName: Name: Client/Partner\n   Title: Title: Representative/Signatory\n   Signature:\n\nUpon the execution of this Agreement, and in consideration for the mutual covenants herein contained, the Parties acknowledge that any and all responsibilities or obligations arising from this contract shall be jointly shared between them. Each Party agrees to perform their respective duties with reasonable diligence, but neither Party will be liable for any loss, damage, or delay resulting from failures or delays in performance attributable to the other Party, except in cases of gross negligence or willful misconduct by either Party. In such exceptional instances, the injured Party shall have the right to seek appropriate remedies under applicable law.",
+    "contradiction_score": 0.2600807249546051,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 38871,
+    "end_char": 39498,
+    "original": "Lecroy wave ACE232 LCRY2101c02774(SCOPE) TEK P5000100(PROB_) ADAPTOR Cable Lable Applicatot J I G -In Mode(water system check) Jig screen assy Jig-Laser DUMMY Heat Exchanger washing Jig Diolaze-Testor CASE LAZER FootSwith Simulator TORC-GEDORE In Mode TESTER Laboratory DC POWER SUPPLY Model: LE3303 Tray For 3 Pcs Laser Printing BURNING( \u05e6\u05d5\u05e8\u05d1) Tool for assembly of Cradle Stem Screw BODY TITE (AS601206A) BODY TITE (AS601206A) BODY TITE (AG600007A) InMode Main Connector Pin-Checker JIG InMode2 Pump Burn-in JIG Screen LOGO Placement Jig Side Label Placement Jig Front Label Placement Jig Source: INMODE LTD., F-1/A, 7/29/2019",
+    "ollama_generated": "Clause:\nInMode Limited's Provision (SCOPE) pertains to the adaptor cable labeled \"J I G -In Mode\" (water system check), including the jig screen assembly, jig-laser dummy, heat exchanger washing jig, Diolaze-Testor, CASE LAZER footswitch simulator, TORC-GEDORE in mode tester, laboratory DC power supply model LE3303, tray for 3 pcs laser printing, burning tool (\u05e6\u05d5\u05e8\u05d1) for the assembly of cradle stem screw body (AS601206A), and additional bodies TITE (AG600007A). This provision also includes the InMode Main Connector Pin-Checker JIG, InMode2 Pump Burn-in JIG, screen logos placement jig, side label placement jig, front label placement jig, and source for these items lies with InMode Limited, F-1/A, 7/29/2019. However, the responsibility of any defects or malfunctions resulting from usage lies with the user.",
+    "contradiction_score": 0.042784497141838074,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

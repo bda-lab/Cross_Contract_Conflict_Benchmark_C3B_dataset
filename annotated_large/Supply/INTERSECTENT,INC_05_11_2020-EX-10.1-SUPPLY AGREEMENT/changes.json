@@ -1,0 +1,206 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1644,
+    "end_char": 1770,
+    "original": "1. Definitions 1.1. \u201cActive Pharmaceutical Ingredient\u201d or \u201cAPI\u201d shall have the meaning given such term in the preamble hereof.",
+    "modified": "1. Definitions\n   1.1. \"Inactive Pharmaceutical Component\" or \"IPC\" shall be defined as any substance included in the formulation, other than the Active Pharmaceutical Ingredient (API), as referenced elsewhere in this agreement.\n\nThe new clause defines an \"Inactive Pharmaceutical Component\" rather than the original \"Active Pharmaceutical Ingredient\". This shift of focus allows for a broader scope of substances to be considered within the agreement, emphasizing the importance and role of various components that may not necessarily be the primary active agent in a pharmaceutical product.",
+    "contradiction_score": 0.7713859677314758,
+    "kept": true
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2678,
+    "end_char": 3144,
+    "original": "1.5. \u201cConfidential Information\u201d shall mean all the technical information, whether tangible or intangible, including (without limitation) any and all data, techniques, discoveries, inventions, processes, know-how, patent applications, inventor certificates, trade secrets, methods of production and other proprietary information, that either Party or its Affiliates have ownership rights to (as either owner, licensee or sub-licensee), or may hereafter obtain rights.",
+    "ollama_generated": "1.5. \"Confidential Matters\" shall encompass all technical data, whether tangible or intangible, including (but not limited to) any and all information, techniques, discoveries, inventions, methods of production, and other proprietary knowledge that either Party or its Affiliates currently possess or may acquire in the future through ownership, licensing, or sub-licensing. It is explicitly understood that no express obligation exists for either party to safeguard such Confidential Matters except as required by law or contractual commitments with third parties.",
+    "contradiction_score": 0.06401965767145157,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 8104,
+    "end_char": 8139,
+    "original": "5. Manufacture and Delivery of API.",
+    "ollama_generated": "5. Receipt and Acceptance of API Supply.\n\nUpon the explicit request by the Client, Supplier shall receive, acquire, and accept responsibility for the procurement, manufacture, and delivery of the required API (Active Pharmaceutical Ingredient), in accordance with industry standards, regulatory requirements, and the specifications agreed upon between the Parties. Any failure to meet these criteria may result in the Client's right to reject the delivery and seek alternative solutions at no additional cost.",
+    "contradiction_score": 0.024047788232564926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 8139,
+    "end_char": 9018,
+    "original": "5.1. Manufacture . The API shall be manufactured by HOVIONE at its facilities in accordance with all relevant current Good Manufacturing Practices (\u201c cGMPs \u201d), the Specifications, and Applicable Laws, and pursuant to HOVIONE\u2019s Drug Master File (\u201c DMF \u201d), prepared by HOVIONE and filed with the US FDA. HOVIONE shall advise INTERSECT in writing in advance of making any changes to the Product Specifications or any material changes in the methods, processes or procedures in manufacturing the API that could affect the quality, purity and/or physical properties of the API, any changes will be made according to the terms of the quality agreement between the parties. HOVIONE shall provide sufficient notice of any such change to INTERSECT to allow INTERSECT to make any required notices to and obtain any required approvals from any Regulatory Agency with respect to such change.",
+    "ollama_generated": "5.1. Manufacturing Obligations: It is the responsibility of INTERSECT to approve the facilities where HOVIONE will manufacture the API, ensuring they adhere to all relevant current Good Manufacturing Practices (\"cGMPs\"), the Specifications, and Applicable Laws. All manufacturing shall be done in accordance with HOVIONE's Drug Master File (\"DMF\"), which has been filed with the US FDA by HOVIONE.\n\nHOVIONE is required to inform INTERSECT in writing in advance of any proposed changes to the Product Specifications or significant modifications in manufacturing methods, processes, or procedures that may impact the API's quality, purity, or physical properties. Any such changes will be implemented following the terms of the quality agreement between the parties.\n\nINTERSECT shall provide adequate notice to HOVIONE regarding any required actions they must take to comply with Regulatory Agency requirements arising from these changes.",
+    "contradiction_score": 0.33278965950012207,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 12733,
+    "end_char": 13254,
+    "original": "5.8. Liability . It is understood that HOVIONE has no control over the ultimate use of the Finished Product once it leaves INTERSECT\u2019s manufacturing facility. HOVIONE shall have no liability arising out of or in connection with the sale or use of the API or any product or material made from or incorporating the API, except to the extent that the API was not manufactured in accordance with the Product Specifications, cGMPs or Applicable Law or the liability otherwise arises from a breach of this Agreement by HOVIONE.",
+    "ollama_generated": "5.8. Responsibility and Liability . It is acknowledged that INTERSECT holds no responsibility for the manner in which the Finished Product is utilized post its departure from HOVIONE's manufacturing facility. HOVIONE assumes no responsibility or liability associated with the sale, handling, or application of the Active Pharmaceutical Ingredient (API) or any derivative products, except in instances where the API was not produced in compliance with the Product Specifications, cGMPs, or Applicable Law. However, any liability that arises from a breach of this Agreement by HOVIONE remains their responsibility.\n\nIn this revised clause, I've shifted the responsibility for post-manufacturing usage of the product from HOVIONE to INTERSECT while maintaining the original stipulation regarding liability for non-compliance with the agreement or regulations.",
+    "contradiction_score": 0.11780509352684021,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 14148,
+    "end_char": 14349,
+    "original": "5.10. Retention of Documentation . All documentation related to the manufacturing of the API shall be archived with HOVIONE after manufacturing in accordance with HOVIONE\u2019s document retention policies.",
+    "ollama_generated": "5.10. Retention and Accessibility of Documentation . The Responsible Party is responsible for maintaining all documentation related to the manufacturing of the API during and post-manufacturing. Upon request, such documents shall be made available to HOVIONE, in accordance with the Retention Policies as established by the Responsible Party.\n\nIn this revised clause, the responsibility for retaining the documentation has been shifted from HOVIONE to the \"Responsible Party,\" who is now tasked with maintaining the documents and making them available to HOVIONE upon request. This change gives more autonomy to the Responsible Party in terms of document management while still ensuring that the required documentation remains accessible to HOVIONE.",
+    "contradiction_score": 0.008240772411227226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 14502,
+    "end_char": 14629,
+    "original": "Each Party shall advise the other Party immediately of any safety or toxicity problems of which it becomes aware regarding API.",
+    "ollama_generated": "Upon discovering any potential safety or toxicity concerns related to the API, one Party will promptly communicate such information to the other Party; however, this communication is not a substitute for the responsible Party's obligation to immediately address and mitigate any identified issues.",
+    "contradiction_score": 0.004268693272024393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 14723,
+    "end_char": 15499,
+    "original": "(a) It has full right and power to enter into this Agreement and perform its obligations hereunder in accordance with its terms\u037e (b) The API and all components and ingredients thereof shall be manufactured and delivered in strict compliance with: (i) the Product Specifications\u037e (ii) the methods processes and procedures, including the site manufacture, set forth in the DMF, together with all applicable regulatory requirements relating to the manufacture of the API (c) the plant(s) for manufacture of the API is and shall be in compliance with all applicable cGMPs and that such plant(s) is and shall continue to be available for inspection if and when the Regulatory Authorities so requests\u037e 6.2. INTERSECT\u2019s Warranties . INTERSECT represents and warrants to HOVIONE that:",
+    "ollama_generated": "(a) It possesses the authority and ability to execute this Agreement and fulfill its commitments in accordance with its stipulations; (b) The API and all constituents and elements thereof will be produced and delivered in compliance with: (i) the Product Specifications; (ii) the methods, processes, and procedures, including the site manufacturing, as outlined in the DMF, along with any relevant regulatory requirements for API manufacturing. However, deviations from these standards may occur if such deviations do not compromise the API's quality or safety, provided that timely notification is given to Hovione; (c) The plant(s) employed for API manufacturing shall strive to comply with all applicable cGMPs. While every effort will be made to maintain compliance, temporary non-compliance may occur due to unforeseen circumstances or upgrades. If the Regulatory Authorities request an inspection, access to the plant(s) will be granted upon reasonable notice; 6.2. INTERSECT's Warranties . INTERSECT guarantees to Hovione that:\n\n- While INTERSECT aims to comply with all regulatory requirements, it does not warrant that temporary deviations from cGMPs may not occur due to unforeseen circumstances or upgrades.\n- INTERSECT represents and warrants that the API will meet the Product Specifications and that any deviations from the DMF methods, processes, and procedures will not compromise the API's quality or safety. If such deviations do occur, Hovione will be notified promptly.",
+    "contradiction_score": 0.030629126355051994,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 16689,
+    "end_char": 16708,
+    "original": "7. Confidentiality.",
+    "ollama_generated": "7. Disclosure of Information:\n\nIn the event that disclosure of Confidential Information is deemed necessary for the execution of this Agreement, Party A shall make every reasonable effort to minimize the extent of such disclosure and protect such information to the best of its ability. However, Party B shall not be liable for any indirect or consequential damages resulting from unauthorized disclosure by a third party.",
+    "contradiction_score": 0.07463954389095306,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 23141,
+    "end_char": 23478,
+    "original": "9.1. During the term of this Agreement and for a period [*] after any expiration or termination of this Agreement, each of INTERSECT and HOVIONE shall maintain in full force and effect a comprehensive general liability insurance policy, including Products Liability coverage, with minimum limits of [*] for bodily injury including death.",
+    "modified": "9.1. For the duration of this Agreement and only during the initial twelve months following any expiration or termination thereof, each of INTERSECT and HOVIONE shall endeavor to maintain a comprehensive general liability insurance policy, including Products Liability coverage, with minimum limits of [*] for bodily injury including death. The obligation to maintain such insurance coverage beyond the initial twelve-month period following the Agreement's termination or expiration shall be at the discretion of each party.",
+    "contradiction_score": 0.6990989446640015,
+    "kept": true
+  },
+  {
+    "clause_index": 55,
+    "start_char": 23483,
+    "end_char": 23508,
+    "original": "10. Term and Termination.",
+    "ollama_generated": "10. Span of Agreement and Discontinuance.\n\nUpon the occurrence of any of the events listed below, this agreement may be terminated by either party without incurring any liability or obligation towards the other, except for any fees or payments already due and payable:\n\na) Material breach of any provision of this agreement by one party that is not cured within 30 days following written notice of such breach;\nb) Filing of a petition in bankruptcy by either party, or the appointment of a receiver for either party;\nc) Discontinuation of the business of either party for any reason;\nd) Any other event that makes it impracticable for either party to carry out its obligations under this agreement.\n\nIn the event of termination due to reasons not specified in subparagraphs (a) through (d), either party may be entitled to compensation at the sole discretion of the non-terminating party, and such compensation, if any, shall be determined based on the remaining value of the services provided up to the date of termination.",
+    "contradiction_score": 0.06676357239484787,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 24629,
+    "end_char": 25045,
+    "original": "10.3. INTERSECT shall also have the right to suspend further performance under this Agreement and/or terminate this agreement in its entirety, without liability except for unpaid previously delivered API that conforms with the terms hereof, if: (i) HOVIONE loses any approval(s) from the US FDA required to perform its obligations under this Agreement or if HOVIONE is involved in felonious or fraudulent activities.",
+    "modified": "10.3. HOVIONE retains the authority, at its sole discretion and without assuming any liability beyond the unpaid, previously delivered API that adheres to the terms of this Agreement, to permit INTERSECT to suspend further obligations under this contract or to dissolve this agreement entirely, if: (i) INTERSECT experiences a loss of approval(s) from the US FDA essential for fulfilling its duties as specified in this Agreement; or (ii) INTERSECT engages in felonious or fraudulent activities.",
+    "contradiction_score": 0.7595611810684204,
+    "kept": true
+  },
+  {
+    "clause_index": 65,
+    "start_char": 26026,
+    "end_char": 26126,
+    "original": "10.5.2. Of INTERSECT . Upon termination of this Agreement pursuant to this Section 10, COMPANY will:",
+    "ollama_generated": "10.5.2. Upon the termination of this Agreement in accordance with Section 10, as initiated by either party, neither Party shall have any obligation to retain or provide any Confidential Information to the other Party. This includes but is not limited to data, documents, or other materials belonging to the other Party. However, each Party acknowledges its responsibility for complying with all applicable laws regarding the handling and disposal of such information.",
+    "contradiction_score": 0.015369889326393604,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 26511,
+    "end_char": 26911,
+    "original": "11. Continuing Obligations\u037e Survival . In no event shall any termination or expiration of this Agreement excuse either party from any breach or violation of this Agreement and full legal and equitable remedies shall remain available therefore, nor shall it excuse either party from making any payment due under this Agreement with respect to any period prior to the date of expiration or termination.",
+    "ollama_generated": "11. Ongoing Responsibilities & Persisting Consequences: Neither party, upon termination or expiration of this Agreement, shall be released from liability for any past breaches or violations of this Agreement. Both parties will continue to possess the full legal and equitable remedies for such infractions. Moreover, no termination or expiration relieves either party from fulfilling any payments owed under this Agreement that pertain to periods preceding the date of termination or expiry.\n\nNote: The rewritten clause still emphasizes the severity of past obligations and the availability of remedies for those infractions, but it places a stronger emphasis on the continuation of obligations during and following the termination or expiration of the agreement, particularly regarding payments owed.",
+    "contradiction_score": 0.012037249282002449,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 26911,
+    "end_char": 27534,
+    "original": "12. Agreement to Consummate\u037e Further Assurances . Subject to the terms and conditions of this Agreement, each of the Parties hereto agrees to use commercially reasonable efforts to do all things necessary, proper or advisable under this Agreement, applicable laws and regulations to consummate and make effective the transactions contemplated hereby. If, at any time after the date hereof, any further action is necessary, proper or advisable to carry out the purposes of this Agreement, then, as soon as is reasonably practicable, each party to this Agreement shall take, or cause its proper officers to take, such action.",
+    "modified": "12. Effort to Dissolve; Further Commitments. Under the conditions outlined in this Agreement, each of the Parties acknowledges their commitment to employ commercially reasonable efforts to complete all actions required, permissible, or advantageous under this Agreement, applicable laws, and regulations to dissolve and render ineffective the transactions envisaged herein. Should it become necessary, at any point following the date hereof, for additional action to fulfill the objectives of this Agreement, then each party shall, as soon as is practically feasible, undertake, or direct their respective authorized representatives to undertake, such action.\n\nThis revised clause weakens the obligation to \"consummate\" (complete a transaction) and instead focuses on \"dissolving\" (ending a transaction), reflecting a different intent in the agreement's purpose. It also shifts the responsibility for taking action from ensuring the transactions are carried out effectively, to ensuring they are undone as effectively as possible.",
+    "contradiction_score": 0.6613579392433167,
+    "kept": true
+  },
+  {
+    "clause_index": 72,
+    "start_char": 29998,
+    "end_char": 30255,
+    "original": "(a) Buyout.  In the case that either company is acquired by, or merges with, another company which has reason to not wish to continue the relationship, that company may make a contract buyout payment [*] for the [*], with a [*] buyout payment amount of [*].",
+    "ollama_generated": "(a) Termination Option. In the event that either party elects to discontinue this agreement due to its own acquisition by, or merger with, another entity, such acquiring or merging entity shall have the right to terminate this agreement upon providing written notice and making a buyout payment [*] for the remaining obligations under this agreement, with a [*] buyout payment amount set at a mutually agreed-upon figure. In the absence of such agreement, the buyout payment amount shall be determined by an independent third party arbitrator.",
+    "contradiction_score": 0.23582251369953156,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 35705,
+    "end_char": 36366,
+    "original": "14.9. Parties /Relationship . Neither party shall hold itself out to third parties as possessing any power or authority to enter into any contract or commitment on behalf of any other party. This Agreement is not intended to, and shall not\u037e create any agency, partnership or joint venture relationship between or among the Parties. Each Party is an independent contractor with respect to the others. No Party is granted any right or authority to assume or create any obligation or responsibility, express or implied, on behalf of, or in the name of any other Party hereto, or to bind any other party hereto in any manner or with respect to anything, whatsoever.",
+    "ollama_generated": "14.9. Parties / Representations and Warranties . Each party acknowledges and represents that it has the authority, as an independent entity, to enter into this Agreement and to perform its obligations hereunder without incurring any obligations or responsibilities on behalf of, or binding, any other party. It is expressly understood and agreed by the parties that this Agreement does not create any agency, partnership, joint venture, or any similar relationship between or among the Parties.\n\nFurthermore, no party shall represent, either expressly or impliedly, to any third party that it possesses any authority to enter into contracts or commitments on behalf of any other party, or to assume or create any obligation or responsibility for, or in the name of, any other party hereto. Each party remains solely responsible for its own actions and obligations under this Agreement.",
+    "contradiction_score": 0.022222891449928284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 36603,
+    "end_char": 36795,
+    "original": "14.11. Counterparts . This Agreement may be executed in multiple counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument.",
+    "modified": "14.11. Counterparts. Each separate execution of this Agreement is considered an integral part, not a distinct version, of the entire contract. The document as a whole remains unified, regardless of the number of signed copies in existence.",
+    "contradiction_score": 0.504555344581604,
+    "kept": true
+  },
+  {
+    "clause_index": 85,
+    "start_char": 37389,
+    "end_char": 37564,
+    "original": "14.13. Schedules and Exhibits . All Schedules and Exhibits referenced in this Agreement, if any, are hereby incorporated by reference into, and made a part of, this Agreement.",
+    "modified": "14.13. Schedules and Exhibits - Any Schedules or Exhibits mentioned within this Agreement are not explicitly included unless expressly stated otherwise. In the event that such Schedules or Exhibits are referred to, they will be considered supplementary materials to this Agreement, but their absence does not affect the validity or enforceability of this Agreement itself.\n\nIn essence, this revised clause suggests that the referenced Schedules and Exhibits are not automatically part of the agreement unless explicitly stated; instead, if they are referred to, they will be considered additional to the main agreement. The absence of such Schedules or Exhibits does not compromise the primary terms of the agreement.",
+    "contradiction_score": 0.9556934833526611,
+    "kept": true
+  },
+  {
+    "clause_index": 88,
+    "start_char": 37839,
+    "end_char": 37856,
+    "original": "HOVIONE INTER AG:",
+    "ollama_generated": "HOVIONE INTER AG:\n\nUpon request by the other party, Hovione Inter AG shall strive to prioritize the provision of any necessary information or documentation, although it does not guarantee their immediate availability and reserves the right to extend the timeframe for response if unforeseen circumstances arise. In case of such extension, Hovione Inter AG will promptly communicate the revised timeline to the requesting party.",
+    "contradiction_score": 0.0010374587727710605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 37946,
+    "end_char": 37998,
+    "original": "By: /s/ Thomas A. West Name: Thomas A. West Its: CEO",
+    "ollama_generated": "By: /s/ Thomas A. West Name: Thomas A. West In Capacity Of: Chief Executive Officer\n\n(Hereby agreed that in the performance of my duties as CEO, I will strive to meet all obligations set forth in this agreement; however, any failure to do so shall not be construed as a breach of this agreement unless such failure is proven to have been wilful or grossly negligent.)",
+    "contradiction_score": 0.006641359534114599,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

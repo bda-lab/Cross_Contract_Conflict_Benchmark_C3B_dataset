@@ -1,0 +1,603 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 287,
+    "end_char": 1638,
+    "original": "TABLE OF CONTENTS 1.0 DEFINITIONS 3 2.0 SCOPE OF RELATIONSHIP 8 3.0 OWNERSHIP\u037e GRANT OF RIGHTS\u037e TRADEMARKS USAGE 8 4.0 MANUFACTURING OPERATIONS\u037e COMPLIANCE 9 5.0 FORECASTS, PURCHASE ORDERS AND DELIVERY 12 6.0 PRODUCT ACCEPTANCE, INVOICING, QUARTERLY PRICING UPDATES, AND SHIPPING TERM 13 7.0 PRICES\u037e PAYMENT TERMS 14 8.0 NPI\u037e FUTURE PRODUCTS 18 9.0 REPAIR SERVICES\u037e PROVISION FOR EXTENDED WARRANTY 18 10.0 REPRESENTATIONS AND WARRANTIES 19 11.0 INDEMNITY 19 12.0 CONFIDENTIALITY 20 13.0 USE OF CONTRACTORS\u037e COMPLIANCE WITH LABOR LAWS 22 14.0 LIMITATION OF LIABILITY 22 15.0 TERM AND TERMINATION 23 16.0 MISCELLANEOUS 24 Exhibit Exhibit Description A Statements of Work B Program Managers C Flexibility and Cancellation Guidelines D NPI Process E RMA and Repair Procedures F Sonos Supplier Performance Review G Product Pricing Formula H ERS Statement of Work I Engineering Change Process Page 2 of 38 Manufacturing Agreement This Manufacturing Agreement, including the Exhibits (\u201cAgreement\u201d), effective as of September 4, 2014 (\u201cEffective Date\u201d), is by and between Sonos, Inc., a Delaware corporation, having its principal offices at 223 E. De La Guerra Street, Santa Barbara, CA, 93101, USA (\u201cSonos\u201d), and Inventec Appliances Corporation, having principal offices at 37, Wugong 5 th Road, Wugu District, New Taipei City, 24890, Taiwan, R.O.C. (\u201cIAC\u201d).",
+    "ollama_generated": "TABLE OF CONTENTS\n\n1.0 DEFINITIONS\n3\n2.0 SCOPE OF RELATIONSHIP\n8 (Modified to broaden the scope)\n3.0 OWNERSHIP; GRANT OF RIGHTS; TRADEMARKS USAGE\n8\n4.0 MANUFACTURING OPERATIONS; COMPLIANCE (Revised to shift compliance responsibility)\n9\n5.0 FORECASTS, PURCHASE ORDERS AND DELIVERY\n12\n6.0 PRODUCT ACCEPTANCE, INVOICING, QUARTERLY PRICING UPDATES, AND SHIPPING TERM (Modified to change delivery obligations)\n13\n7.0 PRICES\u037e PAYMENT TERMS (Revised to weaken pricing terms for IAC)\n14\n8.0 NPI\u0342; FUTURE PRODUCTS (Revised to limit Sonos' rights)\n18\n9.0 REPAIR SERVICES\u0342; PROVISION FOR EXTENDED WARRANTY (Modified to limit warranty coverage)\n18\n10.0 REPRESENTATIONS AND WARRANTIES\n19\n11.0 INDEMNITY (Revised to limit indemnity for IAC)\n19\n12.0 CONFIDENTIALITY\n20\n13.0 USE OF CONTRACTORS\u0342; COMPLIANCE WITH LABOR LAWS (Modified to allow more use of contractors)\n22\n14.0 LIMITATION OF LIABILITY (Revised to increase IAC's liability)\n22\n15.0 TERM AND TERMINATION (Changed to make termination easier for IAC)\n23\n16.0 MISCELLANEOUS\n24\nExhibit\nExhibit Description\nA Statements of Work\nB Program Managers\nC Flexibility and Cancellation Guidelines\nD NPI Process\nE RMA and Repair Procedures\nF Sonos Supplier Performance Review\nG Product Pricing Formula\nH ERS Statement of Work\nI Engineering Change Process\nPage 2 of 38\nManufacturing Agreement\n\nThis Manufacturing Agreement, including the Exhibits (\u201cAgreement\u201d), effective as of September 4, 2014 (\u201cEffective Date\u201d), is by and between Sonos, Inc., a Delaware corporation, having its principal offices at 223 E. De La Guerra Street, Santa Barbara, CA, 93101, USA (\u201cSonos\u201d), and Inventec Appliances Corporation, having principal offices at 37, Wugong 5 th Road, Wugu District, New Taipei City, 24890, Taiwan, R.O.C. (\u201cIAC\u201d).\n\nThis revised agreement aims to adjust the terms in favor of IAC, offering broader scope for manufacturing operations and compliance, more flexible use of contractors, increased liability limits, and easier termination options for IAC. The agreement remains in force as stated, but the modifications aim to ensure a mutually beneficial relationship between Sonos and IAC.",
+    "contradiction_score": 0.4873884320259094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3195,
+    "end_char": 3279,
+    "original": "1.5. \u201c Build Start Date \u201d means the date that a Product Build is scheduled to begin.",
+    "modified": "1.5. \"Product Build Commencement Date\" denotes the projected date upon which the scheduling of a Product Build is anticipated to take effect. [This change emphasizes the future and anticipatory nature of the start date, potentially allowing for some flexibility or uncertainties in the schedule.]",
+    "contradiction_score": 0.6743740439414978,
+    "kept": true
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3584,
+    "end_char": 3789,
+    "original": "1.8. \u201c Component Defect \u201d means a Component that is not in compliance with the published specification for such Component or is causing a Product to not conform with the Statement of Work for such Product.",
+    "ollama_generated": "1.8. \"Functional Inadequacy of Component\" denotes a Component that fails to adhere to the specified standards for that particular Component, or one whose usage results in a Product deviating from the requirements outlined in the Statement of Work for such Product. However, this definition shall not encompass instances where the Component's performance is within the tolerances as explicitly stated in the published specifications.",
+    "contradiction_score": 0.021295618265867233,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 3986,
+    "end_char": 4154,
+    "original": "1.10. \u201c Defective Product \u201d means any Product that does not comply with the Specifications, the Purchase Order, Statement of Work or other provisions of this Agreement.",
+    "ollama_generated": "1.10. \"Non-Conforming Product\" denotes any Product that fails to adhere to the requirements as outlined in the Specifications, Purchase Order, Statement of Work, or any other clauses within this Agreement. This term shall also encompass instances where a Product deviates from the agreed standards due to unforeseen circumstances during production, provided the non-conformance is not directly attributable to the Buyer's actions or inactions.",
+    "contradiction_score": 0.07906556874513626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4402,
+    "end_char": 4619,
+    "original": "1.13. \u201c Designated Carrier \u201d means any entity that has been designated in writing by Sonos to perform or procure the transport of Product Units by rail, road, air, sea, inland waterway or by combination of such modes.",
+    "ollama_generated": "1.13. \"Authorized Transporter\" denotes any party appointed in writing by Sonos with the authority to arrange for the transportation of Product Units through various means, including rail, road, air, sea, inland waterways, or a combination thereof, but shall not be held responsible for any delays, damages, or losses that may occur during transit unless proven to have been caused by their negligence or wrongdoing.",
+    "contradiction_score": 0.2551361620426178,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 4791,
+    "end_char": 4898,
+    "original": "1.15. \u201c Documentation \u201d means any user and technical materials that Sonos makes available for the Products.",
+    "modified": "1.15. \"Documentation\" refers to any and all user and technical materials that may not necessarily be made available, but could potentially be accessible for the Products, at Sonos' discretion.",
+    "contradiction_score": 0.7490453124046326,
+    "kept": true
+  },
+  {
+    "clause_index": 23,
+    "start_char": 4899,
+    "end_char": 4981,
+    "original": "1.16. \u201c Effective Date \u201d means the date this Agreement is executed by the Parties.",
+    "ollama_generated": "1.16. \"Effective Date\" refers to a future date upon which this Agreement shall be deemed binding, following its execution by all Parties involved. This date will be mutually agreed upon in writing prior to such execution.",
+    "contradiction_score": 0.0010085507528856397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 5219,
+    "end_char": 5292,
+    "original": "1.18. \u201c Epidemic Failure \u201d shall have the meaning set forth in Exhibit E.",
+    "ollama_generated": "1.18. \" Pandemic Suspension\" shall refer to the circumstances defined in Exhibit E.\n\nExplanation: The original clause defines an \"Epidemic Failure,\" while the rewritten clause uses \"Pandemic Suspension.\" This change aims to invert the condition slightly, making it sound more general and less alarming, which could be useful when drafting contracts during a global pandemic.",
+    "contradiction_score": 0.1526423990726471,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 6168,
+    "end_char": 6439,
+    "original": "1.22. \u201c IAC Manufacturing Facility \u201d means the IAC facility where Product Units are manufactured. The initial IAC Manufacturing Facility is [*]. Production of Product Units shall not be moved to a different IAC Manufacturing Facility without Sonos\u2019 prior written consent.",
+    "ollama_generated": "1.22. \"IAC Manufacturing Facility\" denotes the IAC facility that is currently, or in the future, designated for the production of Product Units. The initial IAC Manufacturing Facility may be subject to change without Sonos' prior written consent; however, Sonos shall have the right to restrict the relocation of Product Unit production to any other IAC Manufacturing Facility at any time.\n\nThis revised clause now places a condition on the facility change, requiring Sonos' approval for initial manufacturing facilities but allowing for future changes without notice, while maintaining the right to restrict production at any new facility.",
+    "contradiction_score": 0.19969631731510162,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 6439,
+    "end_char": 6867,
+    "original": "1.23. \u201c IAC Property \u201d shall mean (i) any and all Technology developed by IAC and/or its Affiliates prior to the Effective Date or outside of the scope and independent of its performance of this Agreement, (ii) any modifications, derivatives or improvements to the items in (i) made solely by IAC or its Affiliates that constitute manufacturing processes and (iii) all Intellectual Property Rights in the items in (i) and (ii)..",
+    "ollama_generated": "1.23. \"Excluded IAC Property\" shall refer to (i) any intellectual property developed by IAC or its Affiliates prior to the Effective Date, or outside the scope of this Agreement, that is not expressly subject to this Agreement, (ii) any modifications, derivatives, or improvements to the items in (i) made solely by third parties other than IAC or its Affiliates, and (iii) all Intellectual Property Rights in the items in (i) and (ii), which shall not be considered within the scope of this Agreement.",
+    "contradiction_score": 0.47565096616744995,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 7306,
+    "end_char": 7633,
+    "original": "1.26. \u201c Intellectual Property Rights \u201d means with respect to a given piece of Technology, all current and future worldwide patents and other patent rights, utility models, copyrights, mask work rights, trade secrets, and all other intellectual property rights and the related documentation or other tangible expression thereof.",
+    "ollama_generated": "1.26. \"Intellectual Property Rights\" refers to, in relation to a specific Technology, not only the existing but also the prospective worldwide patents, utility models, copyrights, mask work rights, trade secrets, and all other intellectual property rights, as well as any related documentation or tangible manifestations; however, it is explicitly stated that these rights are retained by the original creator or owner, with the assignee being granted a non-exclusive, royalty-free, worldwide license for their intended use within the scope of this Agreement.",
+    "contradiction_score": 0.006378640420734882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 7633,
+    "end_char": 7895,
+    "original": "1.27. \u201c Lead Time \u201d means the time between the date a Purchase Order is acknowledged by IAC and the shipment ex-factory  date. The default Lead Time is agreed to be [*], unless a shorter Lead Time is specified in the applicable Statement of Work for the Product.",
+    "ollama_generated": "1.27. \"Lead Time\" denotes the period from the factory shipment date, as confirmed by IAC, until the receipt of the goods by the Client. The default Lead Time shall be considered as [*], unless a longer Lead Time is stipulated in the relevant Statement of Work for the Product. In this instance, the responsibility for any delays beyond the default Lead Time lies with the Supplier.",
+    "contradiction_score": 0.007294085808098316,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 8205,
+    "end_char": 8334,
+    "original": "1.30. \u201c Mass Production \u201d means production line manufacturing in quantity of a Product for commercial release to Sonos customers.",
+    "ollama_generated": "1.30. \"Mass Production\" refers to the customized assembling process of Products, involving a significant but not necessarily extensive number of units, intended for distribution to Sonos customers.",
+    "contradiction_score": 0.1032949686050415,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 10412,
+    "end_char": 10787,
+    "original": "1.39. \u201c Production Process Change Order \u201d means a proposed change by either party to the Mass Production manufacturing process for a given Product. Production Process Change Orders may include proposed modifications, among other things, to printed circuit board assembly and test, Product sub-assemblies,  Product final assembly, Product test or quality assurance procedures.",
+    "ollama_generated": "1.39. \"Manufacturing Process Modification Request\" denotes a suggested alteration to the mass production process for a specific Product, proposed by either party. These requests may encompass potential adjustments to various aspects such as printed circuit board assembly and testing, sub-assemblies of the Product, final assembly of the Product, Product testing, or quality assurance protocols.\n\nNote: This revised clause shifts responsibility slightly by rebranding the change order as a \"request\" rather than an order, implying that the requester is seeking approval for the modification rather than mandating it.",
+    "contradiction_score": 0.013654270209372044,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 11835,
+    "end_char": 11992,
+    "original": "Other than the Sonos obligations described under this Agreement, a Rolling Forecast is a non-binding  projection of Sonos\u2019 future requirements for a Product.",
+    "ollama_generated": "In addition to the Sonos obligations outlined within this Agreement, a Rolling Forecast represents a hypothetical and tentative estimate, without binding force, of potential future demands for a Product by Sonos.",
+    "contradiction_score": 0.0005232866387814283,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 15959,
+    "end_char": 16517,
+    "original": "1.57. \u201c Third Party Components \u201d means all hardware, technology, software or materials that IAC incorporates into the Products that are procured by IAC or an IAC Affiliate. For the purpose of this Agreement, hardware, software, technology and materials supplied to IAC by an IAC Affiliate for IAC\u2019s manufacture of Products shall be considered a Third Party Component. Additionally, any hardware or other materials (but excluding Sonos or third party software) that are provided, consigned, or sold to IAC by Sonos shall be considered a Third Party Component.",
+    "modified": "1.57. \"Third-Party Elements\" refers to all hardware, technology, software, or materials incorporated into the Products by IAC or an IAC Affiliate for this Agreement's purposes. It encompasses any hardware, software, technology, or materials procured by IAC or an IAC Affiliate, as well as those supplied by IAC for Product manufacturing by an IAC Affiliate. Furthermore, any hardware or other materials (excluding Sonos-supplied Sonos or third-party software) that are offered, consigned, or sold to IAC by Sonos shall be considered a Third-Party Element.\n\nIn this revised clause, the responsibility for determining whether an item is a \"Third-Party Component\" has been shifted slightly from IAC to the Agreement itself. Additionally, the term \"Third-Party Elements\" has been used instead of \"Third Party Components,\" providing a slightly different but still professional and realistic tone.",
+    "contradiction_score": 0.9327210783958435,
+    "kept": true
+  },
+  {
+    "clause_index": 67,
+    "start_char": 16517,
+    "end_char": 17193,
+    "original": "1.58. \u201c Third Party Finished Goods \u201d shall mean finished products that are produced for Sonos by an entity other than IAC. A Third Party Finished Good is typically complete except for being placed into consumer packaging. For the purpose of this Agreement, a finished product produced by an IAC Affiliate, or a finished product provided, consigned, or sold to IAC by Sonos, shall be considered a Third Party Finished Page 7 of 38 1.59. \u201c Third Party Property \u201d shall mean equipment, designs, materials and other property embodied in Third Party Components that are procured by IAC or Sonos (as designated in the applicable Statement of Work) and incorporated into the Product.",
+    "ollama_generated": "1.58. \"Third-Party Finished Goods\" shall denote products manufactured by entities other than IAC, which are primarily complete but may require final packaging prior to consumer distribution. It is important to note that for the scope of this Agreement, goods produced by an IAC Affiliate or goods supplied, consigned, or sold to IAC by Sonos will be classified as Third-Party Finished Goods.\n\n1.59. \"Third-Party Assets\" shall encompass equipment, designs, materials, and other resources that constitute Third-Party Components. These assets will be procured either by IAC or Sonos (as specified in the relevant Statement of Work), and while they may be incorporated into the Product, it is understood that their ownership remains with the original third party until otherwise agreed upon or transferred in accordance with this Agreement.",
+    "contradiction_score": 0.009595151990652084,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 17206,
+    "end_char": 17331,
+    "original": "1.60. \u201c Transfer Product \u201d means a Sonos product that is commercially available prior to IAC commencing NPI for such product.",
+    "modified": "1.60. \"Cessation of Sale of Product\" refers to any Sonos product for which commercial availability ceases prior to IAC discontinuing the New Product Introduction (NPI) phase. This shift in language implies that a product is no longer available for purchase rather than being transferred, and it also suggests that IAC's NPI phase for such products may still be ongoing.",
+    "contradiction_score": 0.9872071146965027,
+    "kept": true
+  },
+  {
+    "clause_index": 69,
+    "start_char": 17331,
+    "end_char": 17622,
+    "original": "1.61. \u201c Unique Components \u201d shall mean Third Party Components which must be ordered, designed and customized specifically for a given Product and cannot be used by IAC for its other customers. Unique Components, if any, for a given Product are designated in the applicable Statement of Work.",
+    "ollama_generated": "1.61. \"Unique Components\" shall refer to Third Party Components that may be utilized exclusively within the specified Product and cannot be repurposed for other IAC customers without prior consent. The designation of such Unique Components, if applicable, is to be found in the pertinent Statement of Work.\n\nIn this revised clause, the obligation for the components to be exclusive to a single customer has been shifted to IAC, making it more challenging for them to use these components for other customers without explicit approval.",
+    "contradiction_score": 0.006884008180350065,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 18031,
+    "end_char": 19065,
+    "original": "2.1. Manufacturing of Products . Subject to the terms and conditions of this Agreement, IAC shall procure, directly or indirectly, certain Third Party Components (as identified on the Statement of Work and maintained in Arena), manufacture, assemble, and test Products which Sonos and/or its Affiliates may order from IAC, respectively. The various Products shall be manufactured by IAC according to the respective Statement of Work, as set forth in an applicable Exhibit A. IAC agrees to supply Product(s) in conformance with the applicable Statement of Work for the duration of this Agreement. IAC agrees to build and ship Product Units directly to a Sonos Destination. IAC will handle all necessary fulfillment, external packaging, customs clearance and shipping procedures necessary to deliver the Product Unit(s) directly to the designated Sonos Destination, anywhere in the world, in accordance with the shipping terms specified in Section 6.5, or any other terms that may be mutually agreed upon between the Parties in writing.",
+    "ollama_generated": "2.1. Manufacturing of Products: Under the conditions stipulated in this Agreement, Sonos and/or its Affiliates have the option to place orders for Products to be manufactured by IAC. The Products, as specified in the Statement of Work and Arena, will be manufactured, assembled, tested, and delivered according to the respective Statement of Work outlined in Exhibit A. For the term of this Agreement, IAC guarantees the provision of Products that conform to the applicable Statement of Work.\n\nIAC will be responsible for arranging the shipping of the Product Units directly to a Sonos Designated Location. IAC shall handle all necessary procedures related to fulfillment, packaging, customs clearance, and international shipping to ensure the timely delivery of the Product Unit(s) to the designated location, in accordance with the shipping terms outlined in Section 6.5, or any other mutually agreed-upon shipping terms, in writing. However, the risk of loss or damage during shipment shall be borne by Sonos and/or its Affiliates.",
+    "contradiction_score": 0.0022667294833809137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 25116,
+    "end_char": 26383,
+    "original": "4.3. Sonos\u2019 Engineering Change Order (ECO) Request . When an Engineering Change is required by either party, the requesting party shall provide the other party with all applicable and sufficient documentation, specifications, and the requested effective date of such engineering change. IAC shall respond initially within [*] or any other longer period agreed between the Parties, advising Sonos as to (i) implementation and the effective date of such change, (ii) associated costs and effect to on-hand  materials, on-order  materials and work in process which shall be borne by Sonos, (iii) the impact of the change upon existing Product pricing and shipment schedules for the entire period for which Purchase Orders are outstanding, and (iv) the costs and expenses of obsolete materials caused by implementing such engineering change which shall be borne by Sonos, subject to the provisions of Section 7.9. Costs associated with Engineering Change Orders shall be agreed in writing between the Parties prior to implementation. The foregoing request/approval process shall also apply during NPI for any Transfer Product or Future Product. The Engineering Change process agreed upon between the Parties is described in detail in Exhibit I attached to this Agreement.",
+    "ollama_generated": "4.3. Engineering Change Orders (ECO) at Sonos' Discretion. If either party necessitates an Engineering Change, Sonos reserves the right to unilaterally decide on the implementation and effective date of such change, without any specific timeline for response. Upon making this decision, Sonos will provide the requesting party with any additional information deemed necessary by Sonos, including associated costs and impact on existing Product pricing and shipment schedules for the entire period for which Purchase Orders are outstanding. The requesting party shall bear all costs caused by implementing such engineering change, subject to the provisions of Section 7.9. Any disagreements regarding Engineering Change Order costs will be resolved through good faith negotiations between the Parties prior to implementation. It is clarified that this request/approval process also applies during New Product Introduction (NPI) for any Transfer Product or Future Product. The Engineering Change process, in its entirety, is described in detail in Exhibit I attached to this Agreement.",
+    "contradiction_score": 0.04657148942351341,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 28081,
+    "end_char": 28176,
+    "original": "Any changes to the disaster recovery plan shall be subject to Sonos\u2019 prior written concurrence.",
+    "ollama_generated": "Any proposed modifications to the disaster recovery plan must first receive acknowledgment in writing from Sonos, but such acknowledgment will not necessarily imply agreement or approval; it merely signifies that Sonos has been informed of the suggested changes.",
+    "contradiction_score": 0.015322831459343433,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 28176,
+    "end_char": 29476,
+    "original": "4.6. Inspection of IAC Plants\u037e Subcontractors . Upon [*] prior written notice from Sonos, Sonos or its representatives will have the right to inspect and audit, at Sonos\u2019 expense, IAC\u2019s factory, purchasing processes, manufacturing processes, quality program, physical inventory count and supporting documentation, including reports, quality test data and training documents and certificates of Page 10 of 38 *Confidential Treatment Requested conformance as related to Products at any time during the term of this Agreement. For information stored electronically and where IAC cannot give Sonos access to its systems, IAC will provide printouts of any requested documentation. If such an inspection is requested, IAC will reasonably furnish all relevant supporting documentation to verify compliance with its stated manufacturing and quality processes. Inspections shall be conducted at a reasonable time and during normal hours of operation. Such inspections and audits by Sonos or a Sonos authorized audit firm will be limited to [*], except for any case of an identified quality issue whereby Sonos will have the right to inspect IAC\u2019s facility and to review applicable documentation and processes at any time, provided Sonos provides IAC with written notice [*] in advance of the Sonos inspection.",
+    "ollama_generated": "4.6. Inspection of IAC Facilities and Subcontractors: Upon reasonable notice provided by IAC, IAC or its representatives will have the right to inspect and audit, at IAC\u2019s expense, Sonos\u2019 factory, purchasing processes, manufacturing processes, quality program, physical inventory count and supporting documentation, including reports, quality test data and training documents and certificates of conformance as related to Products, during the term of this Agreement. For information stored electronically and where Sonos cannot grant IAC access to its systems, Sonos will provide electronic copies of any requested documentation. If such an inspection is initiated by IAC, Sonos will cooperate in providing all relevant supporting documentation to verify compliance with its stated manufacturing and quality processes. Inspections shall be conducted at a mutually convenient time and during normal hours of operation. Such inspections and audits by IAC or an IAC-authorized audit firm will be limited to the scope requested, except for any case where Sonos identifies a potential quality issue, in which case IAC will grant Sonos access to its facility and the relevant documentation and processes at any time, upon Sonos providing prior written notice.",
+    "contradiction_score": 0.14174427092075348,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 29911,
+    "end_char": 30088,
+    "original": "Sonos and IAC will discuss the costs of any subsequent upgrade, substitution or other required change in an equitable manner based on good faith discussions between the parties.",
+    "ollama_generated": "Sonos and IAC shall engage in good faith negotiations to determine the allocation of costs associated with any subsequent upgrade, substitution, or necessary modification, with the understanding that each party will seek a commercially reasonable solution.",
+    "contradiction_score": 0.0009986846707761288,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 33335,
+    "end_char": 33797,
+    "original": "4.14. Performance Expectations . Sonos and IAC agree to work together to develop and achieve the supplier performance expectation as outlined by the Sonos Supplier Performance Review described in Exhibit F. [*]. IAC agrees to discuss and document in the performance review meetings any productivity improvement accomplishments and future plans relating thereto. Each party shall be responsible for its own costs associated with participating in these activities.",
+    "ollama_generated": "4.14. Mutual Performance Goals: It is understood that Sonos and IAC will collaborate to establish and strive towards the mutually-agreed performance targets as detailed within the Sonos Supplier Performance Evaluation, referenced in Exhibit F. [*]. Notably, IAC commits to bring forth during these performance review sessions any realized efficiencies or future strategies pertaining to productivity enhancements. It is explicitly stated that each party bears its own expenses related to active participation in these collaborative endeavors. However, the success and outcomes of these efforts may lead to potential cost-sharing opportunities, should both parties mutually agree upon their distribution.",
+    "contradiction_score": 0.011191196739673615,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 37461,
+    "end_char": 37951,
+    "original": "5.7. Allocation . In the event of a reduced allocation, whether due to a Force Majeure event or otherwise, IAC shall provide Sonos and its Affiliates with written notice if it anticipates or has reason to believe that IAC\u2019s output of the Product shall not be sufficient to meet all of Sonos\u2019 and/or its Affiliates\u2019 requirements for any period. Sonos shall receive at least the same priority, with respect to IAC\u2019s allocation of production capacity and Components, as any other IAC customer.",
+    "modified": "5.7. Allocation Adjustments: If IAC finds it necessary to adjust the allocation due to a Force Majeure event or any other reason, it shall promptly notify Sonos and its Affiliates in writing about the potential shortfall in the production of the Product that may impact their requirements for any given period. It is understood that any adjustments to IAC's allocation of production capacity and Components will be made fairly and equitably, but Sonos and its Affiliates may not necessarily receive priority over other IAC customers during such times of adjustment.\n\nThis clause reflects a slight shift in the obligation, as IAC is no longer obligated to provide Sonos and its Affiliates with the same priority as any other customer during periods of adjusted allocation. However, it emphasizes that any adjustments will be made fairly and equitably, without specifying the priority order.",
+    "contradiction_score": 0.7266824841499329,
+    "kept": true
+  },
+  {
+    "clause_index": 128,
+    "start_char": 43229,
+    "end_char": 43406,
+    "original": "7.2.4. First Pass Yield Costs . For each Product, the Statement of Work will establish a mutually agreed upon first pass yield rate. [*] allocation of costs shall be as follows:",
+    "ollama_generated": "7.2.4. First Pass Yield Costs. In regard to each Product, the Statement of Work will set a mutually agreed-upon first pass yield rate, and any associated costs shall be borne primarily by [Client's Name], except where it can be demonstrated that the deviations from the agreed yield rate were due to [Vendor's Name]'s non-compliance with this Agreement or its obligations under Section 5.3, in which case such costs will be allocated proportionately between the parties.\n\n[*] First pass yield rate refers to the ratio of good units produced during the initial production run to the total number of units processed.",
+    "contradiction_score": 0.06553855538368225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 54273,
+    "end_char": 54783,
+    "original": "7.9.3. Component Discontinuance Purchase . In the event IAC or Sonos receives a manufacture discontinuance or end of life notice for a Component and the Component being discontinued does not have a replacement or substitute approved by Sonos prior to the last time buy date from the manufacturer, IAC agrees to purchase and store such discontinued Component during the term of this Agreement at a quantity specified in writing by Sonos and a Sonos PO is placed on IAC for the specified Component quantity. [*].",
+    "ollama_generated": "7.9.3. Obligation to Acquire Discontinued Components: In the event that Sonos or IAC receives a notice of discontinuance or end-of-life status from a manufacturer regarding a Component, and in the absence of an approved replacement or substitute Component by Sonos prior to the last purchase date from the manufacturer, Sonos may request a specified quantity of the discontinued Component from IAC. Upon such request, IAC shall be obligated to procure and retain the requested quantity of the discontinued Component for the duration of this Agreement, subject to the placement of a valid Purchase Order by Sonos for the specified quantity. [*]\n\nThis revised clause shifts the responsibility from IAC to agree to purchase and store discontinued Components to Sonos to request the specified quantity of the discontinued Component from IAC upon notice of discontinuance or end-of-life status. Additionally, it changes the obligation from an agreement to a request, making it conditional on Sonos placing a valid Purchase Order for the specified quantity.",
+    "contradiction_score": 0.1630762666463852,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 58085,
+    "end_char": 58393,
+    "original": "9.3. Extended Warranty . If requested by Sonos, IAC agrees to provide extended warranty coverage, [*]. The cost of such extended warranty coverage shall be mutually agreed upon in writing by the Parties on an individual Product basis, and included in the revised Statement of Work for each specified Product.",
+    "modified": "9.3. Exclusion of Extended Warranty (Optional). While Sonos may elect to receive extended warranty coverage, IAC is under no obligation to provide such coverage unless explicitly agreed upon in writing by both parties on an individual Product basis. The cost, if incurred, shall be borne solely by Sonos and not included in the revised Statement of Work for each specified Product.",
+    "contradiction_score": 0.9965130686759949,
+    "kept": true
+  },
+  {
+    "clause_index": 162,
+    "start_char": 60909,
+    "end_char": 61360,
+    "original": "11.1. Indemnification by Sonos . Subject to Section 11.4, Sonos shall defend, indemnify and hold harmless IAC and its Affiliates, and their officers, directors, employees, shareholders, agents, successors and assigns from and against any and all loss, damages, liabilities, settlements, costs and expenses (including reasonable legal expenses and the expenses of other necessary professionals) as incurred, resulting from or arising out of breach of :",
+    "modified": "11.1. IAC's Indemnification by Sonos (Subordinate to Section 11.4). IAC and its Affiliates, together with their officers, directors, employees, shareholders, agents, successors, and assigns, shall be indemnified, defended, and held harmless by Sonos against any and all loss, damages, liabilities, settlements, costs, and expenses (including reasonable legal fees and expenses of other necessary professionals), incurred as a consequence of claims alleging that Sonos has breached:\n\nThis revised clause shifts the responsibility for indemnification from Sonos to IAC, making IAC the party indemnified by Sonos. The language remains professional and fluent, while the meaning has been slightly altered to reflect this change in obligation.",
+    "contradiction_score": 0.8124786615371704,
+    "kept": true
+  },
+  {
+    "clause_index": 171,
+    "start_char": 65181,
+    "end_char": 65202,
+    "original": "12.0 CONFIDENTIALITY.",
+    "ollama_generated": "12.0 DISCLOSURE OF INFORMATION.\n\nIn this Agreement, the Disclosing Party agrees to exercise discretion but may freely disclose any Confidential Information to the Receiving Party for purposes directly related to the performance of this Agreement. The Receiving Party shall not be held liable for any unintended disclosure of the Confidential Information to third parties, provided that such disclosure was not due to negligence or breach of this section 12.0 by the Receiving Party. The protections set forth in this section shall survive termination or expiration of this Agreement.",
+    "contradiction_score": 0.3275955021381378,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 176,
+    "start_char": 70753,
+    "end_char": 70844,
+    "original": "Confidentiality shall be maintained for a period of [*] after expiration of this Agreement.",
+    "ollama_generated": "Information shared under this Agreement shall remain confidential only for the duration of its validity, unless previously disclosed information becomes publicly available or is required by law to be revealed.",
+    "contradiction_score": 0.01822161115705967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 181,
+    "start_char": 73144,
+    "end_char": 73491,
+    "original": "13.3. IAC and all persons furnished by IAC shall comply at their own expense with all applicable Environmental, Occupational Health and Safety laws, ordinances, regulations and codes, including the identification and procurement of required permits, certificates, licenses, insurance, approvals and inspections in performance under this Agreement.",
+    "ollama_generated": "13.3. The Client, as well as any third parties engaged by the Client, shall be solely responsible for adhering to all Environmental, Occupational Health, and Safety laws, ordinances, regulations, and codes at their expense, including but not limited to the acquisition of necessary permits, certificates, licenses, insurance coverage, approvals, and inspections in connection with this Agreement. The Contractor assumes no liability for any non-compliance or resulting penalties by the Client or its affiliates.",
+    "contradiction_score": 0.07999484986066818,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 185,
+    "start_char": 74527,
+    "end_char": 74601,
+    "original": "Page 22 of 38 *Confidential Treatment Requested 15.0 TERM AND TERMINATION.",
+    "ollama_generated": "Page 22 of 38 *Request for Confidential Treatment Granted 15.0 TERM AND TERMINATION.\n\nUpon either Party's request, the other Party shall maintain the confidentiality of all information shared during the term of this Agreement, and for a period of five (5) years thereafter. Either Party may terminate this Agreement with written notice, but any information disclosed prior to such termination shall remain subject to the confidentiality obligations as defined herein.\n\nThe responsibility for ensuring compliance with these confidentiality obligations shall be shared by both Parties. In the event of a breach, the non-breaching Party may seek relief only in accordance with the provisions outlined in Section 16 (Dispute Resolution).",
+    "contradiction_score": 0.019993627443909645,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 191,
+    "start_char": 76193,
+    "end_char": 76659,
+    "original": "15.3. Termination for Convenience . Either Party may terminate this Agreement hereunder for any reason at its convenience upon one hundred eighty (180) days prior written notice. In such case, Sonos\u2019 sole liability shall be limited to payment of the amount due under this Agreement, all the Component(s) procured by IAC, and any finished and work-in-process  Products provided such Components and Products liabilities were incurred in compliance with this Agreement.",
+    "ollama_generated": "15.3. Termination at Will . Either Party retains the discretionary power to terminate this Agreement at any time without cause, upon providing a written notice of one hundred eighty (180) days. In the event of such termination, IAC's sole responsibility shall extend to returning all Sonos property, including but not limited to components procured and work-in-progress products, and relinquishing any rights to any Products developed under this Agreement. Sonos shall have no liability or obligation beyond the return of the aforementioned items and the settlement of any amounts due under this Agreement at the time of termination.",
+    "contradiction_score": 0.2001102715730667,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 194,
+    "start_char": 78119,
+    "end_char": 78335,
+    "original": "15.6. Survival of Rights and Obligations Upon Termination . Sections 1, 3.1, 3.2, 3.4, 7.10, 9.2, 9.3, 10, 11, 12, 13, 14, 15.4, 15.5, 15.6, 16 and Exhibit E shall survive termination or expiration of this Agreement.",
+    "ollama_generated": "15.6. Persistence of Mutual Obligations Post Termination. It is explicitly understood that Sections 1, 3.1, 3.2, 3.4, 7.10, 9.2, 9.3, 10, 11, 12, 13, 14, 15.4, 15.5, 15.6, 16 and Exhibit E will remain binding upon both Parties following the termination or expiration of this Agreement, irrespective of the reasons for such termination or expiration. This implies that each Party retains its respective rights and obligations under these specified sections even after the Agreement's cessation.",
+    "contradiction_score": 0.0031145338434726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 199,
+    "start_char": 80446,
+    "end_char": 80871,
+    "original": "16.4. Relationship of parties . The parties hereto are independent contractors. Neither party has any express or implied right or authority to assume or create any obligations on behalf of the other or to bind the other to any contract, agreement or undertaking with any third party. Nothing in this Agreement shall be construed to create a partnership, joint venture, employment or agency relationship between Sonos and IAC.",
+    "ollama_generated": "16.4. Interdependence of Parties . The parties involved in this agreement function as interdependent entities. Each party retains the discretionary authority to undertake obligations on their own behalf, and may bind themselves to contracts, agreements or understandings with third parties, subject to their respective commitments and capabilities. This Agreement should not be interpreted to establish a partnership, joint venture, employment, or agency arrangement between Sonos and IAC; each party remains individually accountable for their actions and obligations.",
+    "contradiction_score": 0.2111278623342514,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 200,
+    "start_char": 80871,
+    "end_char": 81533,
+    "original": "16.5. Notices . Any notice required or permitted to be given by any party under this Agreement shall be in writing and shall be personally delivered or sent by a reputable overnight mail service (e.g., Federal Express), or by first class mail (certified or registered), or by facsimile confirmed by first class mail (registered or certified), to the Program Manager of the other party. Notices will be deemed effective (i) five (5) working days after deposit, postage prepaid, if mailed, (ii) the next day if sent by overnight mail, or (iii) the same day if sent by facsimile and confirmed as set forth above. A copy of any notice shall be sent to the following:",
+    "ollama_generated": "16.5. Notices and Communications . Any communication necessary or optionally made by any party under this Agreement must be in writing and may be delivered personally, transmitted via a secure electronic means (e.g., email with encrypted attachment), or sent by first class mail, registered or certified, to the Designated Representative of the other party. Communications will be considered received:\n\n  a) on the date of delivery if delivered in person;\n  b) on the next business day following transmission via secure electronic means;\n  c) five (5) business days after deposit, postage prepaid, if mailed, provided that no earlier receipt is notified.\n\nFor the purpose of this Agreement, it is understood that a copy of any communication shall be sent to the following:",
+    "contradiction_score": 0.0040502725169062614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 207,
+    "start_char": 85211,
+    "end_char": 86012,
+    "original": "This Agreement shall be governed by the law of California, U.S.A. and the arbitrators shall apply California law to the merits of any dispute or claim, without reference to conflict of law principles. The arbitration proceedings shall be governed by federal arbitration law and by the Rules, without reference to state arbitration law. The parties hereby exclude the application of the United Nations Convention on Contracts for the International Sale of Goods 16.11. Entire Agreement . This Agreement, including all exhibits which are incorporated herein by reference, constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes and replaces all prior and contemporaneous understandings or agreements, written or oral, regarding such subject matter.",
+    "ollama_generated": "This Agreement will be governed by the legal framework of California, United States of America. In any dispute or claim that may arise, the arbitrators shall adhere to California law in resolving the substantive issues, disregarding any principles related to conflicts of law. The arbitration process itself shall be regulated by federal arbitration law and the specified Rules, disregarding state arbitration law. The parties explicitly opt out of applying the United Nations Convention on Contracts for the International Sale of Goods (16.11).\n\nThis Agreement, along with all attached exhibits referenced herein, represents the full extent of the agreement between the parties concerning the specified subject matter. It supersedes and replaces any previous or concurrent oral or written agreements, understandings, or arrangements regarding the same subject matter, thereby standing alone as the sole binding document in this regard.",
+    "contradiction_score": 0.02162647619843483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 209,
+    "start_char": 86185,
+    "end_char": 86805,
+    "original": "Page 25 of 38 16.13. Insurance Coverage . [*] will have insurance policies with reputable insurers to provide coverage and amounts that secure its obligations and potential liabilities under this Agreement. [*] is responsible for all premiums, deductibles and retentions for such insurance. After this Agreement expires or terminates, [*] will either have an active policy or purchase an extended reporting period that has coverage for claims first made and reported to the insurer within 2 years after this Agreement expires or terminates. These insurance requirements will not limit [*] liability under this Agreement.",
+    "ollama_generated": "Page 25 of 38, Clause 16.13 \u2013 Insurance Obligations: It is understood that [*] shall maintain appropriate insurance policies with respected insurers to safeguard its liabilities and obligations as outlined in this Agreement. The premiums, deductibles, and retentions for such insurance shall be borne by [*]. Upon the expiration or termination of this Agreement, [*] shall either retain an active policy or procure an extended reporting period, providing coverage for claims reported to the insurer within two years following the Agreement's end. These insurance provisions do not serve to absolve [*] from its responsibilities under this Agreement. Instead, they aim to offer additional protection and risk management.",
+    "contradiction_score": 0.05158985033631325,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 90045,
+    "end_char": 90860,
+    "original": "Table 2. Contract Manufacturer NPI Responsibility D.7. Sonos Tools . To the extent that Sonos requires the creation or procurement of a Sonos Tool, Sonos shall pay IAC for the cost of such Sonos Tool [*]. IAC shall invoice Sonos at least [*] prior to such date, or on the date the Sonos Tool is accepted by Sonos if IAC has created the Sonos Tool itself. Prior to acceptance, all specifications and assembly drawings should be provided to Sonos for review. Upon payment to IAC, Sonos shall take full title and ownership of the applicable Sonos Tool, including any specifications and final assembly drawings associated with the Sonos Tool. If the Sonos Tool is created by an IAC Subcontractor, IAC shall secure such ownership rights in accordance with its responsibilities specified in Section 13.1 of the Agreement.",
+    "ollama_generated": "Clause:\nTable 2. Contract Manufacturer NPI Responsibility D.7. Sonos Tools . IAC shall bear the cost of creating or procuring a Sonos Tool, if requested by Sonos [*], with no prior reimbursement from Sonos. However, IAC may seek payment upon completion of the Sonos Tool and its acceptance by Sonos. It is expected that all specifications and assembly drawings for the Sonos Tool will be shared with Sonos for review before acceptance. Upon receipt of the payment, ownership and title of the applicable Sonos Tool, including any associated specifications and final assembly drawings, will transfer to Sonos. In case the Sonos Tool is developed by an IAC Subcontractor, IAC shall ensure that it secures the necessary ownership rights in accordance with its obligations outlined in Section 13.1 of the Agreement, with the understanding that these costs may not be reimbursed by Sonos.",
+    "contradiction_score": 0.425619512796402,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 228,
+    "start_char": 91662,
+    "end_char": 92203,
+    "original": "D.10 Charge for NPI . [*] acknowledges that unless otherwise clearly specified in this Exhibit D as being a cost that will be borne by [*], the NPI Process (for either Future Products or Transfer Products), including all services provided by IAC and/or costs incurred by IAC as set forth in this Exhibit D, are provided with reasonable charge to Sonos, if such service is not defined in an applicable SOW and/or the roles and responsibilities matrix described above in Table 2. Any such costs must be approved in advance by Sonos in writing.",
+    "ollama_generated": "D.10 Costs for NPI Services: Sonos acknowledges that, except where explicitly stated otherwise within this Exhibit D, all expenses associated with the NPI Process (for both Future Products and Transfer Products), including but not limited to services rendered by IAC and any costs incurred by IAC as outlined in this Exhibit D, will be borne by Sonos. Such expenses will only be incurred if such services are not specified in an applicable SOW or the roles and responsibilities matrix described above in Table 2. In cases where these costs are not explicitly defined, prior written approval from IAC is required before any charges can be imposed upon Sonos.",
+    "contradiction_score": 0.16442269086837769,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 233,
+    "start_char": 93140,
+    "end_char": 93193,
+    "original": "E.5 Shipments\u037e Determination of Responsibility . [*].",
+    "ollama_generated": "E.5 Shipment Deliveries; Allocation of Liability. [*]\n\nUpon instances of shipment delivery disputes, the liability for any shortages, damages, or delays shall primarily rest with the party responsible for the shipment, unless it can be clearly demonstrated that the issue resulted from actions or circumstances beyond their control. In such cases, the responsibility may be reasonably shifted to another involved party, subject to a thorough investigation and evidence-based findings.",
+    "contradiction_score": 0.11012047529220581,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 240,
+    "start_char": 95263,
+    "end_char": 95373,
+    "original": "Page 34 of 38 *Confidential Treatment Requested Exhibit F Sonos Supplier Performance Review F.1 Introduction .",
+    "ollama_generated": "Page 34 of 38 *Voluntary Non-Disclosure Request - Exhibit F Sonos Supplier Performance Review F.1 Introduction.\n\nIn this revised clause, the supplier's request for confidentiality has been changed from a requested \"confidential treatment\" to a \"voluntary non-disclosure,\" implying that disclosure may still be possible under certain circumstances, thus weakening the obligation slightly. However, it maintains a professional and realistic tone appropriate for legal documentation.",
+    "contradiction_score": 0.36266523599624634,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 241,
+    "start_char": 95373,
+    "end_char": 95752,
+    "original": "Sonos supplier management strategy is based on developing strong working relationships with its suppliers. The results Sonos seek will not occur from random sourcing or selecting suppliers solely on competitive quotations. It will result from working closely with the best existing suppliers to improve quality, productivity, cost, and all other elements of supplier performance.",
+    "ollama_generated": "Sonos' supplier management strategy prioritizes fostering collaborative relationships with its current suppliers, recognizing that optimal results are not achieved through haphazard sourcing or vendor selection based solely on the lowest bid. Instead, we strive to enhance our partnerships with our most reliable suppliers, focusing on mutual growth in areas such as quality, efficiency, cost optimization, and overall supplier performance, while also seeking opportunities for innovation and improvement.",
+    "contradiction_score": 0.0005889147869311273,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 242,
+    "start_char": 95752,
+    "end_char": 96436,
+    "original": "The basic strategy entails establishing mutual performance expectations and metrics, providing supplier performance feedback, initiating corrective actions to ensure continuous improvements, and rewarding the best suppliers with the opportunity for future new business. The Sonos Supplier Performance Review program provides a framework for effective communication between Sonos and its suppliers regarding the specific elements of supplier performance. The result of establishing our expectations and supplier performance feedback will ensure maximum customer satisfaction and increased profitability for all contributors to the system. To accomplish these objectives, Sonos aims to:",
+    "ollama_generated": "The fundamental approach involves setting clear, yet flexible performance benchmarks for our suppliers, offering constructive feedback on their performance, initiating collaborative problem-solving efforts to foster ongoing improvements, and extending preferential opportunities for future business ventures to top-performing suppliers. The Sonos Supplier Performance Review program serves as a platform for open dialogue between Sonos and its supplier network, focusing on the key facets of supplier performance that directly impact our operations.\n\nBy collectively defining our expectations and providing constructive feedback on supplier performance, we aim to optimize customer satisfaction and enhance profitability across all parties involved in the system. To achieve these goals, Sonos strives to:\n\n1. Develop a mutually agreed-upon understanding of performance standards.\n2. Collaborate with suppliers to address any identified areas for improvement.\n3. Offer guidance and support to improve overall supplier performance.\n4. Recognize and reward top-performing suppliers with exclusive opportunities in future projects or collaborations. However, it is important to note that the opportunity for additional business does not automatically extend to all suppliers, but rather is contingent upon their consistent adherence to our expectations and performance standards.",
+    "contradiction_score": 0.0013207333395257592,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 244,
+    "start_char": 97052,
+    "end_char": 97093,
+    "original": "F.2 Supplier Performance Review Metrics .",
+    "ollama_generated": "F.2 Metrics for Evaluating Supplier Performance.\n\nIn this revised clause, the focus is shifted from the Supplier being evaluated (original) to an external party evaluating the Supplier's performance (revised). This subtle change could potentially make the Supplier feel less exposed and more accountable to the evaluator's standards. However, it is important to note that the overall intention and purpose of the clause remain the same: to establish a method for assessing the Supplier's performance.\n\nHere is an example of how this revised clause could be used in a contract:\n\n\"The Client will appoint an independent evaluator to conduct regular reviews of the Supplier's performance based on the agreed metrics specified in F.2 (Metrics for Evaluating Supplier Performance). The evaluator's findings will be shared with both parties, and any necessary adjustments will be made accordingly.\"",
+    "contradiction_score": 0.001940720365382731,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 246,
+    "start_char": 97465,
+    "end_char": 97740,
+    "original": "The Parties agree to meet [*] to review IAC\u2019s performance and scoring for the period. It is targeted to alternate meeting locations between Sonos\u2019 USA HQ office and IAC\u2019s factory. Dates and locations for such reviews will be agreed between the Parties with reasonable notice.",
+    "ollama_generated": "The Parties shall have the discretion, but not the obligation, to schedule a meeting [or conference call] to discuss and evaluate IAC's performance and scoring during the specified period. If a meeting is chosen, it may occur at either Sonos' USA HQ office or IAC's factory, with the flexibility for one Party to propose an alternative location. The timing and venue for these reviews will be determined by mutual agreement between the Parties, with each providing reasonable advance notice.",
+    "contradiction_score": 0.005830338690429926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 256,
+    "start_char": 100089,
+    "end_char": 100232,
+    "original": "3. Except for terms amended, replaced or added herein, all of the provisions of the Agreement shall remain unchanged, in full force and effect.",
+    "ollama_generated": "3. Any terms not explicitly revised, deleted, or supplemented in this Agreement shall be deemed to retain their original form and binding nature, unless otherwise specified or implied by subsequent actions or modifications to this Agreement.",
+    "contradiction_score": 0.008158158510923386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 269,
+    "start_char": 102486,
+    "end_char": 103027,
+    "original": "D.10 Charge for NPI . [*] acknowledges that unless otherwise clearly specified in this Exhibit D as being a cost that will be borne by [*], the NPI Process (for either Future Products or Transfer Products), including all services provided by IAC and/or costs incurred by IAC as set forth in this Exhibit D, are provided with reasonable charge to Sonos, if such service is not defined in an applicable SOW and/or the roles and responsibilities matrix described above in Table 2. Any such costs must be approved in advance by Sonos in writing.",
+    "ollama_generated": "D.10 Costs Associated with NPI: Sonos acknowledges that, unless explicitly stated otherwise within this Exhibit D, it assumes the responsibility for any costs associated with the NPI Process (for both Future Products and Transfer Products), including all services provided by IAC and/or costs incurred by IAC as outlined in this Exhibit D. However, these costs will be borne by Sonos only when such services are not explicitly defined within an applicable SOW or the roles and responsibilities matrix described above in Table 2. Any such costs necessitating Sonos's financial contribution must receive prior written approval from IAC.",
+    "contradiction_score": 0.024306297302246094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 274,
+    "start_char": 103947,
+    "end_char": 104035,
+    "original": "1. Section 4.15 set forth below is hereby added to the Agreement following Section 4.14:",
+    "ollama_generated": "1. It is hereby agreed that Section 4.15 shall be appended to this Agreement following Section 4.14:\n\nOriginal meaning: Addition of a new section to the agreement.\nNew meaning: Agreement on the addition of a new section, implying that the decision was mutual and not unilateral. (Inverts the initiator of the action.)",
+    "contradiction_score": 0.06736807525157928,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 275,
+    "start_char": 104035,
+    "end_char": 105043,
+    "original": "4.15 Locking Procedures . IAC represents and warrants that it shall comply with all locking and unlocking procedures communicated to IAC by Sonos for any Sonos Product. Sonos may update these procedures at any time by providing IAC with written notice of the revised procedures, and the original and revised procedures are hereby incorporated into this Agreement. The testing of Product Units shall be managed to ensure that a dev unlocked unit is relocked in preparation for storage when it is no longer actively in use, or is destroyed. No dev unlocked units shall be removed from the IAC manufacturing facility without the specific written consent of Sonos in each instance. In the event that a dev unlocked Product Unit is required to be transported outside of the IAC manufacturing facility, IAC hereby agrees that it will ensure that the Product Unit is dev relocked prior to transport. IAC shall never use a Product Unit for production if, at any point, IAC or Sonos has dev unlocked the Product Unit.",
+    "modified": "4.15 Locking and Unlocking Procedures: Sonos represents and warrants that it may establish and modify locking and unlocking procedures for any Sonos Product, which shall be communicated to IAC. IAC is responsible for staying informed of these procedures and ensuring compliance. Any updates to the procedures will be binding upon IAC upon receipt of written notice from Sonos.\n\nIn the course of managing Product Units, IAC agrees to take measures to relock dev unlocked units when they are no longer actively in use or to securely destroy them. Removal of dev unlocked units from the IAC manufacturing facility requires prior written consent from Sonos. In instances where a dev unlocked Product Unit must be transported beyond the IAC manufacturing facility, IAC agrees to ensure that it is properly relocked before transportation.\n\nHowever, IAC reserves the right to use a Product Unit for production purposes if, at any point, neither IAC nor Sonos has ever dev unlocked the Product Unit. In the event that a Product Unit must be transported outside of the IAC manufacturing facility while dev unlocked, IAC shall take all reasonable precautions to secure the unit and minimize risk of unauthorized access or use.",
+    "contradiction_score": 0.9504214525222778,
+    "kept": true
+  },
+  {
+    "clause_index": 277,
+    "start_char": 105133,
+    "end_char": 105486,
+    "original": "4.16 Scrapping Procedures . IAC represents and warrants that it shall comply with all scrapping procedures communicated to IAC by Sonos for any Sonos Product. Sonos may update these procedures at any time by providing IAC with written notice of the revised procedures, and the original and revised procedures are hereby incorporated into this Agreement.",
+    "modified": "4.16 Scrapping Procedures . Sonos represents and warrants that it will make its scrapping procedures available to Sonos Products' suppliers, including but not limited to IAC. IAC shall have the right, but not the obligation, to comply with such procedures as communicated by Sonos. Any changes to these procedures made by Sonos must be communicated in writing to IAC, and while IAC will endeavor to adhere to the revised procedures, it may choose to follow its own established practices if it deems them more suitable. The original and revised procedures are hereby incorporated into this Agreement for informational purposes only.",
+    "contradiction_score": 0.6747544407844543,
+    "kept": true
+  },
+  {
+    "clause_index": 282,
+    "start_char": 106004,
+    "end_char": 106015,
+    "original": "SONOS, INC.",
+    "ollama_generated": "SONOS, INC. (the \"Company\") shall make every reasonable effort to provide the Product in good working order and as accurately described on the Company's website or other promotional materials; however, should any defect or malfunction occur within the first year of purchase, the burden of proof for such issue lies with the Purchaser. The Purchaser is solely responsible for proper handling, storage, and maintenance of the Product to ensure its longevity and performance. In no event shall the Company be held liable for any damages or inconveniences arising from improper use, misuse, abuse, or failure to follow instructions provided by the Company with the Product. This limitation of liability applies to both direct and indirect damages, including but not limited to lost profits, business interruption, or punitive damages. The Purchaser acknowledges that this clause is a reasonable allocation of risk between the parties and reflects a fair distribution of potential losses.",
+    "contradiction_score": 0.005225297994911671,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 283,
+    "start_char": 106015,
+    "end_char": 106291,
+    "original": "By: /s/ Craig A. Shelburne Craig A. Shelburne [*] Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.",
+    "ollama_generated": "By: /s/ Craig A. Shelburne\nCraig A. Shelburne [*] acknowledges that certain confidential information contained within this document may not be publicly disclosed, and any such withheld information has been filed separately with the Securities and Exchange Commission under Rule 406 of the Securities Act of 1933, as amended, at the discretion of Craig A. Shelburne. The omission of this information does not relieve Craig A. Shelburne from his obligations to maintain its confidentiality.",
+    "contradiction_score": 0.01684151589870453,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 287,
+    "start_char": 106950,
+    "end_char": 107020,
+    "original": "1. Section 1.12 is hereby replaced in its entirety with the following:",
+    "ollama_generated": "1. Section 1.12 shall be wholly superseded by the ensuing provision:\n\nThis modification aims to soften the obligation slightly, while maintaining a professional tone. The original clause replaced a section entirely, which can seem definitive. Here, we've used \"shall be wholly superseded by the ensuing provision,\" suggesting that the previous content is completely overridden but in a more subtle way, implying room for negotiation or flexibility if needed.",
+    "contradiction_score": 0.011180044151842594,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 288,
+    "start_char": 107020,
+    "end_char": 107185,
+    "original": "1.12 \u201cDelivery Date \u201d means the date that a Product Build (or portion thereof) is presented for acceptance by a Designated Carrier at the IAC Manufacturing Facility.",
+    "ollama_generated": "1.12 \"Presentation Date\" denotes the day when a Product Build (or part of it) is made available for a Designated Carrier's acceptance at the IAC Manufacturing Facility, understanding that the responsibility for timely delivery to the designated destination lies with the carrier following its acceptance.",
+    "contradiction_score": 0.0015713340835645795,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 107187,
+    "end_char": 107273,
+    "original": "2. Section 6.5 of the Agreement is hereby replaced in its entirety with the following:",
+    "ollama_generated": "2. The current provisions of Section 6.5 of the Agreement are hereby superseded and replaced by the subsequent text:\n\n[New provision]\n\nIn the event that a Party fails to meet its obligations under this Agreement, the non-breaching Party shall have the option, but not the obligation, to terminate this Agreement upon providing written notice. The non-breaching Party's election to terminate shall not affect any damages or remedies available to it under applicable law.",
+    "contradiction_score": 0.013281328603625298,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 292,
+    "start_char": 107772,
+    "end_char": 107858,
+    "original": "3. Section 7.5 of the Agreement is hereby replaced in its entirety with the following:",
+    "ollama_generated": "3. The terms outlined in Section 7.5 of the Agreement shall be superseded by the subsequent provisions effective immediately:\n\n[New Clause]\n\nIn the event that a dispute arises between the Parties under this Agreement, and the parties fail to resolve the matter amicably within thirty (30) calendar days from the date the dispute is first brought to the attention of either party, either Party may opt to engage in mediation at its sole discretion. The cost for such mediation shall be borne equally by both Parties unless otherwise agreed upon during the mediation process itself. If the dispute remains unresolved following the mediation process, the parties shall revert back to their respective rights under applicable law and jurisdiction as previously stipulated in Section 13 of this Agreement.",
+    "contradiction_score": 0.018116561695933342,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 294,
+    "start_char": 108603,
+    "end_char": 108780,
+    "original": "*Confidential Treatment Requested 4. Except for terms amended, replaced or added herein, all of the provisions of the Agreement shall remain unchanged, in full force and effect.",
+    "ollama_generated": "Confidentiality Obligation Preserved 4. It is understood that any terms not explicitly revised, removed, or supplemented within this Agreement shall retain their original form, remaining binding and enforceable.",
+    "contradiction_score": 0.09067269414663315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 295,
+    "start_char": 108780,
+    "end_char": 108910,
+    "original": "[Signature Page Follows] IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date first set forth above.",
+    "ollama_generated": "[Amendment Execution Page] THIS AMMENDMENT is executed by the Parties as of the date first written above, in confirmation of their mutual agreement and for the purpose of fully executing this Amendment.",
+    "contradiction_score": 0.013864236883819103,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

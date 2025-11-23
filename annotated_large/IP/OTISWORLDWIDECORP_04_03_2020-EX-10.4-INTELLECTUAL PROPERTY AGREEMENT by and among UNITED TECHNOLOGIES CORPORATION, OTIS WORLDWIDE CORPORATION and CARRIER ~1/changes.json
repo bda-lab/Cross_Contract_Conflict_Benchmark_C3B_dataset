@@ -1,0 +1,214 @@
+[
+  {
+    "clause_index": 9,
+    "start_char": 6040,
+    "end_char": 6239,
+    "original": "\u201cAssignee Party \u201d shall mean the Party, as the context requires, other than the Assignor Party, to whom Intellectual Property Rights are assigned from the Assignor Party pursuant to the terms hereof.",
+    "modified": "\"Designated Party\" shall denote, in accordance with the context, the Party who receives Intellectual Property Rights from the Assignor Party as stipulated herein, excluding the Assignee Party.",
+    "contradiction_score": 0.9554545283317566,
+    "kept": true
+  },
+  {
+    "clause_index": 11,
+    "start_char": 6369,
+    "end_char": 6552,
+    "original": "\u201cAssignor Party \u201d shall mean one of the Parties, as the context requires, in its capacity as an assignor of Intellectual Property Rights to another Party pursuant to the terms hereof.",
+    "modified": "\"Assignee Party\" shall denote one of the Parties, as the situation warrants, in their role as a recipient of Intellectual Property Rights from another Party under the conditions outlined within this agreement. This implies that the Assignee Party may receive, but not necessarily assign, such rights.",
+    "contradiction_score": 0.9794498682022095,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 6554,
+    "end_char": 6612,
+    "original": "\u201cCarrier \u201d shall have the meaning defined in the preamble.",
+    "ollama_generated": "\"The term 'Carrier' as employed herein, will be construed to encompass the entity referred to in the prefatory portion.\"\n\nIn this revised clause, I've attempted to maintain the original meaning while using slightly more formal language and avoiding direct repetition of the defined term. The purpose is to create a subtle shift in the reader's perception that the Carrier, as defined elsewhere, should be understood in the context of the entire agreement, rather than a specific emphasis on the definition itself.",
+    "contradiction_score": 0.002402526093646884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 7013,
+    "end_char": 7279,
+    "original": "\u201cCopyrights \u201d shall mean copyrights and other equivalent rights in copyrightable subject matter in works of authorship (including software), and including all registrations and applications therefor, and all renewals, extensions, restorations and reversions thereof.",
+    "ollama_generated": "\"The term 'Copyrights' encompasses not only copyrights but also any equivalent rights associated with copyrightable subject matter, such as software, as well as any registrations, applications, renewals, extensions, restorations, or reversions related to these rights, whether currently in force or arising in the future.\"\n\nThis version slightly modifies the original clause by shifting the focus from the present to the future, implying that any new rights that may arise from copyrightable subject matter will also be included.",
+    "contradiction_score": 0.002034615259617567,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 7343,
+    "end_char": 7933,
+    "original": "\u201cExcluded Agreement \u201d shall mean (a) each Negotiated Agreement and (b) each Third Party Agreement\u037e provided  that, notwithstanding the foregoing, and without limitation, for the purposes of this Agreement, an Excluded Agreement shall not include any IWA or any work performed, without an express written agreement, by a member of an Assignor Group or a Licensor Group as Performer for a member of an Assignee Group or a Licensee Group as Requester, respectively, or vice versa. A non-inclusive (and not necessarily representative) listing of Excluded Agreements is provided in Schedule 5.0.",
+    "ollama_generated": "\"Included Agreement\" shall denote (a) any agreement not specifically mentioned herein as Negotiated Agreement or Third Party Agreement, and (b) any agreements arising from work performed by a member of an Assignor Group or a Licensor Group as Performer for a member of an Assignee Group or a Licensee Group as Requester, respectively, or vice versa. However, it is clarified that an Included Agreement shall exclude any IWA and agreements where there is no express written agreement, along with those explicitly listed in Schedule 5.0. In other words, this Agreement's scope does not extend to the agreements mentioned above.",
+    "contradiction_score": 0.3345823287963867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 11461,
+    "end_char": 11785,
+    "original": "\u201cIWA \u201d shall mean, as of a relevant date, the contractual terms and conditions prescribed for inter-entity work authorizations by Section 43 of the United Technologies Corporate Policy Manual or a predecessor thereof as of the relevant date, including the terms and conditions governing Intellectual Property Rights therein.",
+    "ollama_generated": "\"The term 'IWA' shall refer, as pertinent to a specific date, to either the contractual provisions for inter-entity work authorizations as outlined in Section 43 of the United Technologies Corporate Policy Manual or a successor document, effective on said date. This reference encompasses the stipulations regarding Intellectual Property Rights, as they may be modified or supplemented within such governing terms.\"\n\nThis revised clause slightly weakens the obligation to strictly adhere to the current version of the policy manual by implying that a successor document could also be considered. Additionally, it shifts some responsibility for keeping up with potential changes in the policy to the other party, as they would need to verify if there is a successor document in effect on the relevant date.",
+    "contradiction_score": 0.0018603524658828974,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 12840,
+    "end_char": 13150,
+    "original": "\u201cLicensee Group Field \u201d shall mean the field of the business of the applicable Licensee Group, including the manufacture, sale, support and service of products, and the provision of services, of one or more members of the  applicable  Licensee Group, as of the Effective Time and the natural extension thereof.",
+    "ollama_generated": "\"The scope of the 'Licensee Group Field' shall be defined as the business domains of the relevant Licensee Group entities, encompassing not only the manufacturing, selling, supporting, and servicing of their respective products, but also extending to the rendering of services. This definition may evolve over time beyond the Effective Time, provided such expansion aligns with the ongoing activities of the Licensee Group members.\"\n\nThe revised clause broadens the scope of the 'Licensee Group Field' by including the provision of services and allowing for possible future expansion as long as it is in line with the activities of the Licensee Group members.",
+    "contradiction_score": 0.004670141264796257,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 13369,
+    "end_char": 13497,
+    "original": "\u201cLicensor Group \u201d shall mean one of the UTC Group, the Otis Group, or the Carrier Group of which the Licensor Party is a member.",
+    "ollama_generated": "\"Membership within any of the UTC Group, the Otis Group, or the Carrier Group will be considered as falling under the definition of 'Licensor Group' for the purpose of this agreement, with the understanding that the specific Licensor Party's obligations and rights may vary based on their group affiliation.\"\n\nIn this revised clause, the original definition is maintained, but there's a subtle shift in emphasis. The original clause suggested that the Licensor Party was already a member of one of the groups at the time of agreement, whereas the revised clause allows for the possibility that the party may join one of these groups during the term of the agreement. This change weakens the obligation on the Licensor Party to already be a group member at the time of signing, but still maintains the original conceptual meaning of the clause.",
+    "contradiction_score": 0.006174490321427584,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 15597,
+    "end_char": 16330,
+    "original": "\u201cPerformer \u201d shall mean, with respect to services, an entity meeting at least one of the following two conditions: (a) the entity is a \u201cPerformer,\u201d as defined in an IWA issued to the entity by the \u201cRequester\u201d defined in the IWA, with respect to the services, and/or (b) the entity performed the services at the request of a Requester as part of a joint project with the Requester, with respect to which no IWA was expressly issued nor any Negotiated Agreement entered with the Requester, and the entity received Funding from the Requester for the services (which Funded the services in full, or in full jointly with the Performer but with no contribution from any other entity) and delivered results of the services to the Requester.",
+    "modified": "\"Service Provider\" shall refer, in regard to the rendered services, to an organization fulfilling either of the following two criteria: (a) the organization is designated as a \"Service Provider,\" according to an IWA provided by the \"Client\" as specified in the IWA for said services, and/or (b) the organization executed the services upon the Client's request within the context of a collaborative endeavor without an explicitly issued IWA or any Negotiated Agreement, and the organization received Financial Support from the Client that fully or jointly covered the costs of the services (with no additional financial contributions from another entity), while also delivering the results of such services to the Client. In this revised clause, the Performer's obligations have been weakened by making it optional for the service provider to have an IWA or a Negotiated Agreement with the client. Additionally, the condition regarding full funding has been maintained but slightly inverted, implying that the Service Provider may receive joint funding from the Client.",
+    "contradiction_score": 0.7445915341377258,
+    "kept": true
+  },
+  {
+    "clause_index": 40,
+    "start_char": 17021,
+    "end_char": 17354,
+    "original": "\u201cPerformer Foreground-Undelivered IPR \u201d shall mean, with respect to services performed by the Performer at the request of the Requester, all Intellectual Property Rights that were conceived or created by the Performer in the course of such performance, directly or by a Performer Service Provider, and not delivered to the Requester.",
+    "modified": "\"Retained Foreground-Undelivered IPR\" shall refer, in regards to services rendered by the Service Provider at the behest of the Client, to all Intellectual Property Rights that were devised or generated by the Service Provider during such service provision, either directly or through a Service Provider's associate, and which have not been delivered to the Client. This definition assumes that the Client possesses no rights over such intellectual property unless explicitly transferred in writing.",
+    "contradiction_score": 0.7975658774375916,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 17988,
+    "end_char": 18679,
+    "original": "\u201cRequester \u201d shall mean, with respect to services, an entity meeting at least one of the following two conditions: (a) the entity is a \u201cRequester,\u201d as defined in an IWA issued by the entity to the \u201cPerformer\u201d defined in such IWA, with respect to the services, and/or (b) the entity requested the services from the Performer as part of a joint project with the Performer, with respect to which no IWA was expressly issued nor any Negotiated Agreement entered with the Performer, and the entity Funded the services (in full independently, or in full jointly with the Performer but with no contribution from any other entity) and received delivery of results of the services from the Performer.",
+    "modified": "\"The term 'Requesting Party' shall encompass an entity satisfying at least one of the following prerequisites: (a) an entity designated as a 'Requester' in an IWA established between the Requesting Party and the 'Service Provider', with regard to the services, or (b) an entity that has solicited services from the Service Provider within the scope of a joint initiative with said Service Provider, without a specific IWA or Negotiated Agreement being formulated, provided that the Requesting Party has financially supported the services in their entirety, either solely or jointly with the Service Proprovider, and has acquired the outcomes of the services from the Service Provider.\"\n\nThis revised clause weakens the obligation slightly by introducing the term 'Requesting Party' instead of 'Requester', suggesting a broader scope for entities that can fulfill the definition. Additionally, it removes the condition requiring the Requesting Party to have received delivery of results in full, allowing for partial delivery scenarios without violating the essence of the original clause.",
+    "contradiction_score": 0.5429189205169678,
+    "kept": true
+  },
+  {
+    "clause_index": 54,
+    "start_char": 21735,
+    "end_char": 21793,
+    "original": "\u201cUTC NDA \u201d shall have the meaning defined in Section 6.4 .",
+    "ollama_generated": "\"The term 'UTC NDA' as used herein, is subject to the interpretation provided in Section 6.4.\"\n\nIn this revised clause, the language has been subtly altered to suggest a slightly more cautious or questioning approach towards the definition of 'UTC NDA'. This change doesn't significantly alter the meaning but does create a nuance that implies a degree of uncertainty or need for clarification regarding the term's definition.",
+    "contradiction_score": 0.003282096004113555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 21793,
+    "end_char": 22438,
+    "original": "ARTICLE II ASSIGNMENT OF SOLELY OWNED INTELLECTUAL PROPERTY RIGHTS 2.1 Assigned Intellectual Property Rights 2.1.1 Assignments by an Assignor Party . Subject to Section 3.2 , each Assignor Party, on behalf of itself and the other members of the Assignor Group, hereby irrevocably assigns to the applicable Assignee Party, and agrees to irrevocably assign to the applicable Assignee Party, all of its and the other members of the Assignor Group\u2019s rights, title and interest in and to any and all Intellectual Property Rights owned by the Assignor Party or another member of the Assignor Group that meets one or more of the following descriptions:",
+    "ollama_generated": "ARTICLE II TRANSFER OF SOLELY OWNED INTELLECTUAL PROPERTY RIGHTS\n\n2.1 Transferred Intellectual Property Rights\n\n2.1.1 Transfers by a Transferring Party. Notwithstanding Section 3.2, each Transferring Party, on behalf of itself and other members of the Transferor Group, hereby grants to the relevant Recipient Party, and agrees to grant to the relevant Recipient Party, a non-irrevocable license to use, exploit, and commercialize all of its and the other members of the Transferor Group's rights, title, and interest in and to any and all Intellectual Property Rights that the Transferring Party or another member of the Transferor Group may own, provided that these rights meet one or more of the following descriptions:\n\nIn this revised clause, the assignment is changed to a non-irrevocable license. This weaken's the obligation as the transferring party retains ownership but grants a non-terminable right to use, exploit, and commercialize the intellectual property rights to the recipient party.",
+    "contradiction_score": 0.37712886929512024,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 23396,
+    "end_char": 24346,
+    "original": "ARTICLE III LICENSING OF INTELLECTUAL PROPERTY RIGHTS 3.1 Licensed Intellectual Property Rights 3.1.1 License Grants by a Licensor Party . Subject to Section 3.2 , a Licensor Party, on behalf of itself and the other members of the Licensor Group, and solely to the extent the Licensor Party or another member of the Licensor Group has the right to do so, hereby grants and agrees to grant to the applicable Licensee Party and the other members of the Licensee Group, subject to the field restriction of Section 3.1.2 , a royalty-free, nonexclusive, perpetual, irrevocable, fully paid-up, worldwide right and license, with the right to sublicense as provided in Section 3.1.3, to Exploit Intellectual Property Rights that are owned by the Licensor Party or another member of the Licensor Group immediately following the assignments pursuant to Article II  and meet one or more of the following descriptions with respect to the relevant Licensee Party:",
+    "ollama_generated": "ARTICLE III. GRANT OF INTELLECTUAL PROPERTY RIGHTS LICENSE\n\n3.1. Licensed Intellectual Property Rights\n3.1.1. Grant of License by a Licensor Party. A Licensor Party, on behalf of itself and other members of the Licensor Group, may grant, at its discretion, subject to Section 3.2, a limited, non-exclusive, non-perpetual, revocable, partially paid-up, geographically restricted right and license, without the right to sublicense, to the applicable Licensee Party and other members of the Licensee Group, to Exploit Intellectual Property Rights that are owned by the Licensor Party or another member of the Licensor Group immediately following the assignments pursuant to Article II. The granted rights shall apply only for the purpose specified in Section 3.1.2 and be subject to the terms of this agreement and any additional conditions agreed upon between the parties.\n\nIn this revised clause, I have weakened the license by making it non-perpetual, revocable, and geographically restricted, with limited sublicensing rights. Additionally, the granted rights are contingent on the purpose specified in Section 3.1.2 and are subject to additional conditions agreed upon between the parties. This change reflects a more limited and conditional grant of intellectual property rights from the Licensor Party to the Licensee Party.",
+    "contradiction_score": 0.2383297085762024,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 34135,
+    "end_char": 34421,
+    "original": "4.2 Use of United Technologies Trademarks 4.2.1 Except as expressly provided in this Section 4.2 , after the Effective Time, none of Otis, Carrier or any other members of the Otis Group or the Carrier Group shall use, or have the right to use, any of the United Technologies Trademarks.",
+    "ollama_generated": "4.2 Use of United Technologies Trademarks (Revised)\n\n4.2.1 Beginning from the Effective Time, United Technologies grants Otis, Carrier, and any other members of the Otis Group or the Carrier Group a non-exclusive, limited right to use the United Technologies Trademarks as expressly permitted in this Section 4.2, subject to the conditions herein.\n\nIn this revised clause, the original clause restricted the use of United Technologies Trademarks by Otis, Carrier, and other members of their respective groups after the Effective Time, except for situations explicitly stated in Section 4.2. In contrast, the revised clause grants a non-exclusive, limited right to use the United Technologies Trademarks under specific conditions within Section 4.2, starting from the Effective Time. This slight change shifts the responsibility and rights related to the usage of United Technologies Trademarks.",
+    "contradiction_score": 0.16226834058761597,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 39841,
+    "end_char": 39980,
+    "original": "6.3 Obligations . With respect to Confidential Information in its possession, custody or control, a receiving member of a Party Group will:",
+    "modified": "6.3 Limitations on Disclosure: Each member of a Party Group, when in possession, custody, or control of Confidential Information, shall exercise due diligence to minimize the dissemination of such information within their organization and shall restrict access to a need-to-know basis only.\n\nIn this revised clause, the original obligation to \"will\" maintain confidentiality has been shifted towards exercising \"due diligence to minimize the dissemination.\" This implies that while still maintaining confidentiality, there is more leeway for members of the Party Group to share information within their organization on a need-to-know basis.",
+    "contradiction_score": 0.6645784378051758,
+    "kept": true
+  },
+  {
+    "clause_index": 79,
+    "start_char": 40531,
+    "end_char": 41641,
+    "original": "6.4 Termination of UTC NDA . Upon the Effective Time, (a) the Amended and Restated Nondisclosure Agreement, by and between United Technologies Companies, dated July 26, 2012 (the \u201c UTC NDA \u201d), will terminate as among UTC and the other members of the UTC Group, Otis and the other members of the Otis Group, and Carrier and the other members of the Carrier Group, (b) the information disclosed under the UTC NDA (i) will be deemed Received Information and Materials and Confidential Information under this Agreement, and (ii) will be licensed hereunder for use by UTC and the other members of the UTC Group, Otis and the other members of the Otis Group, Carrier and the other members of the Carrier Group, solely to the extent it is Licensed Intellectual Property Rights granted to UTC and the other members of the UTC Group, Otis and the other members of the Otis Group or Carrier and the other members of the Carrier Group, respectively, and (c) notwithstanding paragraph 3 of the UTC NDA, such information disclosed thereunder will continue to be protected for as long as it remains Confidential Information.",
+    "modified": "6.4 Survival of UTC NDA Obligations. Effective from the specified date (the \"Effective Time\"), (a) the Amended and Restated Nondisclosure Agreement, signed between United Technologies Companies on July 26, 2012 (the \"UTC NDA\"), will survive and continue in effect as regards UTC and each member of the UTC Group, Otis and each member of the Otis Group, Carrier and each member of the Carrier Group, (b) any information disclosed under the UTC NDA will be considered Confidential Information under this Agreement, with its use only permitted to the extent that it pertains to Licensed Intellectual Property Rights licensed to UTC or the respective group members as per this agreement, and (c) despite paragraph 3 of the UTC NDA, any such information disclosed thereunder shall remain protected as confidential for an indefinite period, unless and until it ceases to be Confidential Information.",
+    "contradiction_score": 0.7660181522369385,
+    "kept": true
+  },
+  {
+    "clause_index": 85,
+    "start_char": 45891,
+    "end_char": 46305,
+    "original": "ARTICLE VIII GOVERNING LAW AND DISPUTE RESOLUTION 8.1 Governing Law . This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware, without regard to any conflict or choice-of-law provision or rule (whether of the State of Delaware or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Delaware.",
+    "ollama_generated": "ARTICLE VIII GOVERNING LAW AND DISPUTE RESOLUTION\n8.1 Governing Law . This Agreement shall be governed by, interpreted and adjudicated under the exclusive jurisdiction of the laws of the State of Delaware, disregarding any conflict or choice-of-law provision or rule (whether of the State of Delaware or any other jurisdiction) that could potentially apply the legal norms of any jurisdiction other than Delaware. In the event of a dispute, the parties expressly waive any right to have this Agreement construed, interpreted or adjudicated under the laws of any other jurisdiction.",
+    "contradiction_score": 0.032249148935079575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 46840,
+    "end_char": 47742,
+    "original": "8.2.1 Negotiations . The Parties will attempt in good faith to resolve any Dispute promptly by negotiations among executives of the Parties who have authority to settle the Dispute. The disputing Party will give the other Party or Parties, as applicable, written notice of the Dispute. Within twenty (20) days after receipt of said notice, the receiving Party or Parties will submit to the other a written response. The notice and response will include: (a) a statement of each Party\u2019s position and a summary of the evidence and arguments supporting that position, and (b) the name and title of the executive who will represent that Party. The executives will meet at a mutually acceptable time and place within thirty (30) days of the date of the disputing Party\u2019s notice and thereafter as often as they reasonably deem necessary to exchange relevant information and to attempt to resolve the Dispute.",
+    "ollama_generated": "8.2.1 Negotiation Process: While endeavoring to maintain an amicable relationship, the Parties shall make a reasonable effort to settle any Disputes that may arise in good faith through discussions among their respective senior representatives who have the authority to do so. The instigating Party is responsible for delivering a written communication detailing the Dispute to the other Party or Parties within a specified period. Upon receipt, the receiving Party or Parties will have up to thirty (30) days to respond in writing with their position on the matter, supporting evidence, and arguments, as well as the name and title of their representative. The senior representatives shall meet at a mutually convenient time and location within forty-five (45) days following the initial written notice, with subsequent meetings scheduled based on mutual agreement. These discussions will focus on exchanging relevant information and exploring potential solutions to resolve the Dispute, though no formal resolution is required during these negotiations.",
+    "contradiction_score": 0.0060093286447227,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 53979,
+    "end_char": 54729,
+    "original": "(b) UTC may (i) freely sell, assign or otherwise transfer, in whole or from time to time in part, Assigned Intellectual Property Rights assigned to it hereunder\u037e and (ii) sell, assign or otherwise transfer, in whole or from time to time in part, its rights under this Agreement (A) to any member of the UTC Group, (B) to any financing entity, in connection with the grant of a revocable security interest necessary for financing, or (C) to a Person acquiring (whether by asset or stock sale, merger, reorganization or otherwise) all or substantially all of the relevant business of UTC that agrees to be bound by the terms and conditions of this Agreement\u037e but any such transfer or assignment will not relieve UTC of any of its obligations hereunder.",
+    "ollama_generated": "(b) The assignee, UTC, retains the discretionary power to irrevocably sublicense, pledge, or otherwise alienate, either in entirety or incrementally over time, the Assigned Intellectual Property Rights vested upon it under this contract. Furthermore, UTC is empowered to irrevocably sublicense, pledge, or otherwise alienate, in whole or part, its rights and obligations under this Agreement to:\n\n   (A) Any affiliate of UTC Group;\n\n   (B) Any financial institution, subject to the creation of a lien for securing financing purposes; or\n\n   (C) An entity that acquires (by asset or stock purchase, merger, reorganization, or similar transaction) all or substantially all of UTC's relevant business operations, provided that such acquiring party agrees to assume and be bound by the provisions of this Agreement. It is clarified, however, that any such transfer or assignment shall not absolve UTC from fulfilling its obligations under this agreement.",
+    "contradiction_score": 0.002650963608175516,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 54879,
+    "end_char": 55065,
+    "original": "9.2.3 Subject to Section 9.2.1  and Section 9.2.2 , this Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors, assigns and transferees.",
+    "ollama_generated": "9.2.3 The obligations under this Agreement may be assigned by either Party, without prior notice or consent of the other, to any third party. This Agreement shall continue to bind such assignees and shall also inure to their benefit (subject to Section 9.2.1 and Section 9.2.2). The Parties acknowledge that this clause does not prevent them from being individually bound by this Agreement upon its termination or expiration.",
+    "contradiction_score": 0.3025822043418884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 57225,
+    "end_char": 58196,
+    "original": "Carrier Global Corporation 13995 Pasteur Boulevard Palm Beach Gardens, FL 33418 Attention: Chief Intellectual Property Counsel 9.6 Severability . If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction or other authority to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions of this Agreement shall remain in full force and effect and shall in no way be affected, impaired or invalidated so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any Party hereto. Upon such a determination, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the fullest extent possible.",
+    "modified": "9.6 Survival of Essential Terms. In the event that any provision, term, or condition within this Agreement is deemed invalid, unenforceable, or void by a court of competent jurisdiction or other relevant authority, the continued existence and validity of the Agreement as a whole shall not be affected. The affected provision shall be deemed stricken from the agreement, with the remaining provisions to continue in full force and effect. The Parties will engage in good faith negotiations to replace the struck provision with an acceptable alternative, ensuring that the economic or legal substance of the transactions envisaged by this Agreement remains intact to the maximum extent feasible. This replacement shall be made such that the original intentions of the parties are upheld as closely as possible and the transactions originally contemplated herein can be completed to the fullest extent permitted under revised terms.",
+    "contradiction_score": 0.5482974052429199,
+    "kept": true
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "clause_index": 14,
+    "start_char": 4768,
+    "end_char": 4974,
+    "original": "\u201cEmergency\u201d means a sudden or unexpected event that causes, or risks causing, imminent material damage to the Rail Facility, death or injury to any Person, or material damage to property or the environment.",
+    "ollama_generated": "\"Crisis\" shall denote an abrupt or unforeseen occurrence that potentially leads to immediate significant harm to the Rail Facility, endangers the safety and well-being of any Individual, poses a threat to surrounding properties or the ecosystem, or entails substantial financial losses.",
+    "contradiction_score": 0.01813519559800625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4976,
+    "end_char": 5044,
+    "original": "\u201cEmergency Work\u201d shall have the meaning set forth in Section 4.1.12.",
+    "modified": "\"The term 'Emergency Work,' as understood herein, is not strictly limited to the definition provided in Section 4.1.12, and may encompass situations that align with its essence but fall outside of the specific parameters outlined there.\"",
+    "contradiction_score": 0.9267410635948181,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 8843,
+    "end_char": 9111,
+    "original": "\u201cLease\u201d shall mean that certain Land Lease dated as of April 30, 2008, pursuant to which Operator leased certain property from Owner\u2019s predecessor in interest, as described therein, as amended by that certain First Amendment to Land Lease dated as of October 29, 2009.",
+    "ollama_generated": "\"Lease\" shall refer to the aforementioned Land Lease agreement dated April 30, 2008, whereby Owner's predecessor in interest leased certain property to Operator, as detailed therein, and subsequently amended by the First Amendment to Land Lease dated October 29, 2009. In this context, it is understood that the original lease obligation was reversed, placing Operator as the lessor and Owner's predecessor as the lessee.",
+    "contradiction_score": 0.026499038562178612,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 10370,
+    "end_char": 10579,
+    "original": "\u201cOperator Indemnified Parties\u201d means, collectively, Operator, its successors and permitted assigns, and their respective Affiliates, shareholders, members, partners, officers, directors, employees, and agents.",
+    "ollama_generated": "\"Indemnified Entities\" shall encompass, collectively, the Indemnified Party, any subsequent successors or assignees duly authorized by the Indemnified Party, along with their corresponding Affiliates, shareholders, members, partners, officers, directors, and employees, as well as agents acting on their behalf.\n\nIn this revised clause, the focus has been shifted from the Operator to the Indemnified Party, while maintaining the same structure and level of professionalism. The term \"Operator\" has been replaced with \"Indemnified Party,\" and the parties who are indemnified have been rephrased to clarify that they can assign or transfer their rights, which was not explicitly stated in the original clause.",
+    "contradiction_score": 0.08406466990709305,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 10579,
+    "end_char": 10749,
+    "original": "\u201cOperator Parties\u201d means, collectively, Operator, Operator\u2019s Affiliates, and their respective successors and assigns\u037e \u201cOperator Party\u201d means any such Person individually.",
+    "modified": "\"Referred to as 'Party Operating Entities,' this term encompasses the Collective of the Operator, its Affiliates, and any subsequent entities that succeed them or are assigned their rights and obligations; 'Single Party Operating Entity' refers to any specific entity within this group acting independently.\"\n\nIn the rewritten clause, I've changed the collective term from \"Operator Parties\" to \"Party Operating Entities,\" emphasizing the group as a whole. Additionally, the new term for an individual member of the collective is \"Single Party Operating Entity\" instead of \"Operator Party,\" highlighting their singular nature when acting independently.",
+    "contradiction_score": 0.7951703071594238,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 11032,
+    "end_char": 11131,
+    "original": "\u201cParty\u201d means either Owner or Operator, as applicable, and \u201cParties\u201d means both Owner and Operator.",
+    "ollama_generated": "\"The term 'Party' denotes either the Owner or the Operator, depending on the context, while 'Parties' refers collectively to both the Owner and the Operator.\"\n\nThis rewording maintains a professional tone but slightly shifts the focus from emphasizing that 'Parties' consists of both parties (Owner and Operator) towards clarifying how 'Party' is used within the agreement depending on the context, which could potentially make the terms more flexible.",
+    "contradiction_score": 0.0006239268695935607,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 13636,
+    "end_char": 13990,
+    "original": "ARTICLE II     : ENGAGEMENT OF OPERATOR 2.1    Engagement.  Owner hereby appoints and retains Operator to manage, operate, and maintain the Rail Facility and to administer the business and regulatory affairs of Owner relating to the Rail Facility in accordance with the terms and conditions set forth herein, and Operator hereby accepts such appointment.",
+    "ollama_generated": "ARTICLE II     : ENGAGEMENT OF OPERATOR\n2.1    Appointment and Retention.  Operator acknowledges and accepts the appointment by Owner for the management, operation, and maintenance of the Rail Facility, as well as the administration of the business and regulatory affairs concerning the Rail Facility on behalf of Owner, all in accordance with the provisions outlined within this agreement. The responsibilities assigned to Operator shall be subject to its own discretion and decision-making process, while ensuring compliance with the terms and conditions stipulated herein.",
+    "contradiction_score": 0.0028451501857489347,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 15059,
+    "end_char": 15176,
+    "original": "3.2    Owner Default.  Operator may terminate this Agreement at any time upon the occurrence of any of the following:",
+    "ollama_generated": "3.2 Termination by Operator: The Operator shall have the right to terminate this Agreement immediately if, but only if, the Owner fails to meet their obligations under this contract for more than 30 consecutive days without providing a valid reason or reasonable notice.",
+    "contradiction_score": 0.1854194551706314,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 15176,
+    "end_char": 15800,
+    "original": "(a)    the dissolution or bankruptcy of Owner\u037e (b)    Owner fails to pay when due any amount due and payable hereunder, including, without limitation, any interest, fees, reimbursements or indemnifications, and such failure shall continue for a period of 15 days after the due date thereof\u037e or (c)     other than as set forth in clause (b) above, Owner breaches or fails to observe or perform any material term, condition, or obligation contained in this Agreement and fails to correct, or fails to diligently pursue correction of, such breach within 60 days after receipt of written notice from Operator of any such breach.",
+    "ollama_generated": "(a)    The termination or insolvency of the Owner; (b)    Should the Owner incur overdue payments for more than fifteen (15) consecutive calendar days on any amount due and payable under this Agreement, including but not limited to interest, fees, reimbursements, or indemnifications; or (c)    If the Owner commits a material breach of, or fails to abide by, any substantial term, condition, or obligation within this Agreement, and does not remedy, or make diligent efforts towards rectifying such breach within sixty (60) days after receiving written notice from the Operator detailing said breach.",
+    "contradiction_score": 0.0036084800958633423,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 23705,
+    "end_char": 24115,
+    "original": "4.1.4    Maintenance of the Rail Facility. Subject to the terms, conditions and limitations set forth in this Agreement, Owner hereby authorizes and empowers Operator, and Operator agrees, in the name of and on behalf of Owner, to, at its sole cost and expense , keep and maintain the Rail Facility in a condition and repair similar to, but not less than, its condition and repair on the Effective Date hereof.",
+    "ollama_generated": "4.1.4 Maintenance of the Rail Facility. As stipulated within this Agreement, Owner grants Operator authorization and empowerment, incurring no costs or expenses to itself, to maintain the Rail Facility at a level that may not exceed but can be equivalent to its condition and repair as of the Effective Date hereof. This maintenance obligation, while assumed by Operator on behalf of Owner, is subject to the terms, conditions, and limitations established in this Agreement.",
+    "contradiction_score": 0.002483271760866046,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 28667,
+    "end_char": 28969,
+    "original": "(i)a good-faith estimate of the costs associated with the operation and maintenance of the proposed Capital Project\u037e (ii)preliminary engineering designs and plans\u037e and (iii)general requirements or provisions for the Capital Project, including construction of the Capital Project and insurance coverage.",
+    "ollama_generated": "(i) An approximate budget, based on good-faith projections, outlining potential costs related to the operation and maintenance of the proposed Capital Project; (ii) preliminary design concepts and schematics for the Capital Project; and (iii) essential conditions or terms for the Capital Project, encompassing both construction specifications and insurance requirements. The responsibility for refining these details rests primarily with the Contractor, although the Owner retains the final approval authority.",
+    "contradiction_score": 0.0015983559424057603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 35182,
+    "end_char": 35667,
+    "original": "4.2    Standard of Care.  Operator shall perform its duties and obligations hereunder and its responsibilities as Operator of the Rail Facility, (i) in a good and workmanlike manner, (ii) in conformity with the good practices in the rail car loading and unloading industry, (iii) in accordance with all valid and applicable Laws, including, without limitation, all Environmental Laws and Environmental Permits,  and (iv) in accordance with the Operating and Capital Expenditure Budget.",
+    "ollama_generated": "4.2 Standard of Care. The Operator shall undertake to execute its tasks and fulfill its responsibilities as the Operator of the Rail Facility, (i) with a minimum level of care that is generally accepted within the rail car loading and unloading industry, (ii) in compliance with any industry guidelines or best practices, (iii) while adhering to all applicable Laws, including, but not limited to, Environmental Regulations and the relevant Environmental Permits, (iv) consistent with the Operating and Capital Expenditure Budget, but without any express guarantees regarding the outcome of such actions. This approach allows for a degree of flexibility in the execution of duties while maintaining compliance with legal obligations and industry standards.",
+    "contradiction_score": 0.003598760813474655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 35826,
+    "end_char": 36049,
+    "original": "4.3.1    Binding Owner. Endorsing the name of Owner on any contract, commercial paper, or instruments of any nature or otherwise creating any obligation binding upon Owner except as expressly permitted under this Agreement.",
+    "ollama_generated": "4.3.1   Limited Obligations for Owner. The Owner's signature or endorsement on any contract, commercial paper, or instruments of any kind shall not create an obligation binding upon the Owner unless explicitly authorized by this Agreement.",
+    "contradiction_score": 0.08957596868276596,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 40754,
+    "end_char": 41272,
+    "original": "(b)    Commercial General Liability Insurance. Operator shall maintain Commercial General Liability Insurance covering its operations under this Agreement including, without limitation, bodily injury, death, property damage, premises/operations, sudden and accidental pollution, independent contractors, products/completed operations, contractual, and personal injury liability, with a limit of not less than one million dollars ($1,000,000) per occurrence and two million dollars ($2,000,000) in the annual aggregate.",
+    "ollama_generated": "(b) Commercial General Liability Insurance Coverage Requirement: The Contractor shall procure a minimum insurance coverage of $2,000,000 annually and $1,000,000 per occurrence for their operations under this Agreement. This policy should include, but not be limited to, bodily injury, death, property damage, premises/operations, sudden and accidental pollution, independent contractors, products liability, completed operations, contractual liability, and personal injury coverage. The insurance shall protect the Contractor from such liabilities only to the extent that they are a result of legal actions arising from claims made against them during the term of this Agreement.",
+    "contradiction_score": 0.11999650299549103,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 41581,
+    "end_char": 41811,
+    "original": "(d)    Umbrella Liability Insurance. Operator shall maintain Umbrella Liability Insurance coverage covering in excess of (a), (b), and (c) above, excluding Worker\u2019s Compensation, in the amount of ten million dollars ($10,000,000).",
+    "ollama_generated": "(d) Umbrella Liability Insurance Obligation. The Lessee shall retain an Umbrella Liability Insurance policy with coverage exceeding that of clauses (a), (b), and (c) collectively, excluding Worker's Compensation, with a minimum limit of ten million dollars ($10,000,000). However, it is to be noted that the Lessee shall not be held responsible for any claim beyond the initial insurance coverage provided by the Lessor.",
+    "contradiction_score": 0.01874472014605999,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 42618,
+    "end_char": 43038,
+    "original": "Operator shall have its insurer(s) waive its right of subrogation against Owner Indemnified Parties on all insurance carried. Unless expressly stated to the contrary elsewhere in this Agreement or prohibited by applicable law or legal statute, Operator\u2019s indemnification obligations under this Agreement shall not be limited by amount or in scope to coverage provided by insurance which is required under this Agreement.",
+    "ollama_generated": "The Owner Indemnified Parties shall recognize and relinquish their right to subrogation against the Operator, in relation to any insurance coverage held by the Operator. Unless explicitly specified otherwise within this Agreement or restricted by applicable law or statute, the Operator's indemnification responsibilities under this Agreement are not capped in terms of amount or extent, and may extend beyond the coverage mandated by this Agreement.",
+    "contradiction_score": 0.3986138105392456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 43038,
+    "end_char": 43701,
+    "original": "7.1.3    Upon request, Operator agrees to furnish to Owner certificates of insurance or other evidence satisfactory to Owner to demonstrate that the required insurance has been procured and is in force. The certificate shall accurately reflect the required insurance coverages and shall provide that in the event of modification, expiration, cancellation or material change in a policy affecting the certificate holder, thirty days prior written notice shall be given to the certificate holder. Operator waives all rights against Owner for recovery of damages to the extent such damages are covered by the insurance maintained in accordance with this Section 7.1.",
+    "ollama_generated": "7.1.3   At Owner's discretion, the Operator shall provide evidence of the necessary insurance coverage satisfactory to the Owner, which may include certificates of insurance. The onus is on the Operator to ensure that this evidence accurately reflects the required insurance coverages and that it will provide thirty days prior written notice if there are any modifications, expirations, cancellations, or material changes in a policy affecting the certificate holder. It is understood that Owner shall not be liable for any damages covered by the insurance maintained by the Operator in accordance with this Section 7.1, and the Operator waives any rights against the Owner for recovery of such damages.",
+    "contradiction_score": 0.018118374049663544,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 47968,
+    "end_char": 48362,
+    "original": "ARTICLE VIII     : GENERAL PROVISIONS 8.1    Additional Rail Facilities.  Nothing in this Agreement shall limit Owner\u2019s right to construct, expand or modify, and operate other rail car loading/off loading facilities (i) at Owner\u2019s terminal and storage facility located on the property on which the Rail Facility is located, or (ii) at any other location in Owner deems necessary and beneficial.",
+    "ollama_generated": "ARTICLE VIII : GENERAL PROVISIONS\n8.1    Additional Rail Facilities. The Owner shall have no obligation to construct, expand, or modify any rail car loading/offloading facilities beyond the existing one, except in cases where such construction is required by law or regulatory bodies, and then only at the location of the initial Rail Facility on the property. However, the Owner retains the right to establish new facilities at any other location deemed necessary and beneficial, subject to compliance with all applicable laws and regulations.\n\nIn this version, the obligation for further construction, expansion, or modification of rail facilities beyond the existing one has been weakened, as the Owner is no longer obligated to do so except in specific cases (e.g., legal requirements). The responsibility for establishing new facilities has been shifted to the Owner's discretion, but with an added condition that such new facilities must comply with all applicable laws and regulations.",
+    "contradiction_score": 0.10590091347694397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 49498,
+    "end_char": 50047,
+    "original": "(i)if delivered personally, upon delivery\u037e (ii)if sent by United States mail, whether by express mail, registered mail, certified mail or regular mail, the notice shall be deemed to have been received on the day receipt is refused or is confirmed orally or in writing by the receiving Party\u037e (iii)if sent by a courier service, upon delivery\u037e or (iv)if sent by facsimile, the Business Day following the day on which it was transmitted and confirmed by transmission report or such earlier time as confirmed orally or in writing by the receiving Party.",
+    "ollama_generated": "The receipt of any notice shall be deemed to have occurred under the following conditions:\n\n(i) If delivered personally, upon acceptance by the receiving party.\n\n(ii) If sent by United States mail (express, registered, certified, or regular), the notice will be considered received on the day it is refused, orally or in writing acknowledged by the receiving party, or the next business day if no acknowledgment is received within seven calendar days after mailing.\n\n(iii) If sent by a courier service, upon confirmation of delivery by the courier service or, if not delivered on the scheduled delivery date, at the end of the first business day following the scheduled delivery date.\n\n(iv) If sent by facsimile, the notice will be deemed received on the next business day after transmission, unless otherwise confirmed in writing or orally by the receiving party before the close of business on the transmitting day.",
+    "contradiction_score": 0.05214926600456238,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 50253,
+    "end_char": 50537,
+    "original": "8.4    Applicable Laws.  This Agreement is subject to all valid present and future laws, regulations, rules, and orders of governmental authorities now or hereafter having jurisdiction over the Parties, this Agreement, any of the transactions contemplated hereby or the Rail Facility.",
+    "ollama_generated": "8.4 Governing Laws and Regulations. This Agreement is bound by all existing and future legal statutes, administrative regulations, ordinances, and orders issued by competent authorities with relevant jurisdiction over the Parties, this Agreement, any related transactions as outlined herein, or the Rail Facility. However, it is understood that compliance with these laws does not relieve either Party from their obligation to challenge any legal requirement deemed unreasonable or excessively burdensome, upon providing written notice to the other Party, if such a challenge can be made in good faith and without undue risk of violation of applicable law.",
+    "contradiction_score": 0.04088928550481796,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 51901,
+    "end_char": 52536,
+    "original": "Such personnel shall endeavor to meet and attempt to amicably resolve the dispute. If the Parties are unable to resolve the dispute for any reason within 30 Business Days after the original notice of dispute was given, then either Party shall be entitled to pursue any remedies available at law or in equity\u037e provided, however, this Section 8.6.1 shall not limit a Party\u2019s right to initiate litigation prior to the expiration of the time periods set forth herein of such limitations would prevent a Party from filing a lawsuit or claim within the applicable period for filing lawsuits (e.g. statutes of limitation, prescription, etc.).",
+    "ollama_generated": "Upon encountering a disagreement, the designated personnel shall strive to negotiate and make every reasonable effort to reach a mutually satisfactory settlement. Should the parties fail to resolve the dispute within 30 Business Days following the delivery of the initial notice, either party reserves the right to seek redress through legal or equitable means; however, it is clarified that this Section 8.6.1 does not restrict a Party's authority to instigate litigation prior to the lapse of the stipulated time periods as outlined herein, as long as such initiation would fall within the permissible period for filing lawsuits (such as statutes of limitation, prescription, etc.). In essence, a Party may commence legal proceedings before the expiration of the specified timeframes, if applicable.",
+    "contradiction_score": 0.010737675242125988,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 52536,
+    "end_char": 52756,
+    "original": "8.7.2    Costs and Expenses. The prevailing Party in any litigation pertaining to any dispute hereunder shall be entitled to recover its reasonable costs, expenses, and attorney\u2019s fees in connection with such litigation.",
+    "modified": "8.7.2 Costs and Expenses: In the event of any litigation regarding disputes arising from this agreement, the Party incurring lesser expenses shall bear the responsibility for reimbursing the excessive costs, reasonable attorney's fees, and expenses incurred by the other party.",
+    "contradiction_score": 0.5821909308433533,
+    "kept": true
+  },
+  {
+    "clause_index": 123,
+    "start_char": 56472,
+    "end_char": 56647,
+    "original": "8.16    Further Assurances.  Each Party shall take such acts and execute and deliver such documents as may be reasonably required to effectuate the purposes of this Agreement.",
+    "modified": "8.16. Further Obligations: While not obligated to do so, each Party will consider and, at their sole discretion, perform such actions and execute and deliver any necessary documents that may aid in fulfilling the objectives of this Agreement, provided that no such action shall be unreasonably burdensome or outside the scope of good faith.",
+    "contradiction_score": 0.7299520969390869,
+    "kept": true
+  }
+]

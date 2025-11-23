@@ -1,0 +1,198 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 3855,
+    "end_char": 4278,
+    "original": "(c) The Parties agree and acknowledge that neither HOF Entity or any of its respective affiliates shall be subject to any individual minimum purchase requirement (whether in terms of price, quantity or any other criteria) under this Agreement with respect to the Products & Services, but the HOF Entities and their respective affiliates remain subject to the aggregate EME financing pursuant to Section 2.4 during the Term.",
+    "ollama_generated": "(c) The Parties mutually understand and accept that both the HOF Entity and any of its associate entities will not be bound by any specific per-item or cumulative purchase thresholds (considering price, quantity, or any other prerequisites) in relation to the Products & Services under this Agreement. However, it is essential to note that the HOF Entities and their associated entities continue to comply with the collective financing terms outlined in Section 2.4 throughout the contract's term.",
+    "contradiction_score": 0.0024532675743103027,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 4278,
+    "end_char": 5432,
+    "original": "(d) All purchases of Products & Services from Constellation by the HOF Entities or their respective affiliates pursuant to this Agreement shall be made pursuant to a separate agreement executed between an HOF Entity or affiliate and Constellation which may include a master retail electricity supply agreement in substantially the form of Exhibit C-1 , master retail natural gas supply agreement in substantially the form of Exhibit C-2 , transaction confirmation in substantially the form of Exhibit C-3  or similar document or agreement (each, a \u201c Second Level Agreement \u201d). In the event of any conflict or inconsistency between this Agreement and any Second Level Agreement negotiated after execution of this Agreement and not substantially in the form attached hereto, this Agreement shall control except to the extent that the Second Level Agreement expressly refers to this Agreement and states that the specific provision thereof shall be deemed to amend and supersede a specifically identified provision hereof (in which case such specific provision of the Second Level Agreement shall control over such specifically identified provision hereof).",
+    "modified": "(d) All purchases of Products & Services from Constellation by HOF Entities or their affiliates, as specified in separate agreements executed post-signing of this Agreement, will supersede any conflicting or inconsistent provisions within this Agreement. However, these Second Level Agreements shall only override the terms of this Agreement when they explicitly refer to this Agreement and state that the specific provision therein amends and supersedes a specifically identified provision hereof. In all other instances, this Agreement shall prevail. Such agreements may include master retail electricity supply agreements (similar to Exhibit C-1), master retail natural gas supply agreements (similar to Exhibit C-2), transaction confirmations (similar to Exhibit C-3), or similar documents or agreements (each, a \"Second Level Agreement\").",
+    "contradiction_score": 0.868420422077179,
+    "kept": true
+  },
+  {
+    "clause_index": 10,
+    "start_char": 5432,
+    "end_char": 5654,
+    "original": "1.2 Title and Risk of Loss . With respect to the Products & Services delivered by Constellation to an HOF Entity (or its affiliates), title and risk of loss will pass as set forth in the applicable Second Level Agreements.",
+    "ollama_generated": "1.2 Title and Risk of Transfer. Regarding the Products & Services provided by Constellation to an HOF Entity (or its affiliates), the transfer of title and risk of transfer shall occur in accordance with the provisions specified in the relevant Second Level Agreements. In this context, \"risk of transfer\" refers to any potential loss or damage that may arise after the point of transfer, until the title is officially transferred. This provision aims to clarify that the HOF Entity assumes such risk from the moment of delivery until the title transfer is complete.",
+    "contradiction_score": 0.0017675396520644426,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 8151,
+    "end_char": 8788,
+    "original": "(b) All Services included in the Products & Services shall be performed with at least the level of service, quality and care provided by Constellation to other third parties receiving the same or substantially similar services. Constellation will provide, or cause to be provided, all of the Services included in the Products & Services in compliance in all material respects with all applicable laws, rules, regulations, codes, orders, treaties and other requirements of federal/national, state/provincial and local governments and agencies thereof, including but not limited those relating to labor, health, safety and the environment.",
+    "ollama_generated": "(b) While Constellation strives to maintain high standards in delivering Services within the Products & Services, it is understood that the level of service, quality, and care provided may vary based on specific circumstances. Constellation shall make reasonable efforts to comply with all applicable laws, rules, regulations, codes, orders, treaties, and other requirements of federal/national, state/provincial, and local governments and agencies thereof, including but not limited to those relating to labor, health, safety, and the environment. However, Constellation assumes no liability for any non-compliance that may arise due to extenuating circumstances beyond its control.",
+    "contradiction_score": 0.2927801012992859,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10846,
+    "end_char": 11585,
+    "original": "(a) The design, layout, content and copy of all advertising signs and/or promotional materials covered by this Agreement, including any subsequent changes at Constellation\u2019s expense, are subject to prior written approval by the HOF Entities, which approval shall not be unreasonably withheld (provided, however, that a rejection or denial of approval shall not be considered unreasonable if the HOF Entities, in their sole discretion, determine that an advertising sign or promotional material covered by this Agreement is used in any manner that is contrary to public morals, could be deceptive or misleading or could reflect unfavorably on the good name, goodwill, reputation or image of the HOF Entities or their respective affiliates).",
+    "ollama_generated": "(a) The design, layout, content, and copy of all advertising signs and/or promotional materials falling under this Agreement, including any subsequent alterations at your expense, are subject to our prior written consent. However, please note that we reserve the right to deny approval if, in our sole discretion, we believe that the use of such advertising sign or promotional material may be inconsistent with public morals, potentially deceptive or misleading, or could negatively impact the good name, goodwill, reputation, or image of us or our affiliates. This does not imply an obligation to provide reasons for such denial, as our decision will be final and binding.",
+    "contradiction_score": 0.00575213273987174,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 14140,
+    "end_char": 14431,
+    "original": "(d) The HOF Entities have the right to refrain from displaying or illuminating Constellation\u2019s advertising panels in Tom Benson Stadium when required to do so by agreements with [***] or any other professional sports league or by television network commitments of the aforementioned leagues.",
+    "ollama_generated": "(d) The HOF Entities retain the discretionary power not to display or illuminate Constellation's advertising panels within Tom Benson Stadium, unless such action is mandated contractually by agreements with [***], any other professional sports league, or due to commitments to television networks of the said leagues.\n\nIn this revised clause, the emphasis has shifted from the HOF Entities having a \"right\" to refrain (implying an obligation) to retaining discretionary power, which weakens the obligation and implies that they have the option, but not necessarily an obligation, to not display or illuminate Constellation's advertising panels.",
+    "contradiction_score": 0.13844844698905945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 15045,
+    "end_char": 15745,
+    "original": "Constellation shall have no right to use the Marks of the HOF Entities (or either of them), the Village or Johnson Controls, Inc. without the prior written consent of the HOF Entities (or the applicable HOF Entity), which shall not be unreasonably withheld, and/or, if applicable, Johnson Controls, Inc. Each Party will be solely responsible for taking such actions as it deems appropriate to obtain and maintain trademark, service mark, or copyright registration for its own Marks and each Party will have the exclusive right to enforce its own Marks, including the right to assert, defend or settle any allegations or claims of infringement, dilution, misappropriation or similar violation of same.",
+    "ollama_generated": "Constellation may utilize the Trademarks of the HOF Entities (or individually, the relevant HOF Entity), the Village, or Johnson Controls, Inc., subject to their prior, written consent, which will not be unduly withheld. However, it is hereby acknowledged that each Party bears the sole responsibility for obtaining and maintaining any necessary trademark, service mark, or copyright registrations for its own Trademarks. Each Party retains the exclusive authority to defend, settle, or assert claims related to infringement, dilution, misappropriation, or similar violations of their respective Trademarks, without any obligation to involve the other Parties in such matters.",
+    "contradiction_score": 0.054699406027793884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 17087,
+    "end_char": 17575,
+    "original": "(i) Each licensee Party agrees, in connection with its use of any of the licensor Party\u2019s Marks, to comply with any quality-control standards as such licensor Party may provide hereunder from time to time and which may be revised by the Party owning the Marks from time to time. Each Party shall take such actions as the Party owning the Marks may reasonably request to ensure compliance with such quality-control standards in connection with the licensee Party\u2019s use of any of the Marks.",
+    "ollama_generated": "(i) Each licensor Party grants permission to the licensee Party for utilizing its Marks, contingent upon the latter's commitment to adhere to any quality-control standards as provided by the licensor Party or subsequently revised. The licensee Party will undertake all reasonable measures requested by the owning Party of the Marks for ensuring conformity with these quality-control standards during their use of the Marks. However, it is noted that non-compliance with these standards shall not automatically terminate this agreement unless specifically stated otherwise in writing.",
+    "contradiction_score": 0.0020912408363074064,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 17891,
+    "end_char": 18595,
+    "original": "(iii) A licensee Party shall not change in any way or in any manner the licensor Party\u2019s Marks in any use on any products or any advertisements or other marketing materials therefor, unless any such proposed change is first approved in writing by the Party owning the Mark(s) in question. Any changes made by a licensee Party to the licensor Party\u2019s Marks will be owned by the applicable Party owning the underlying Marks (which ownership will be confirmed or otherwise documented by the licensee Party in writing, at the request of the Party owning the Marks) and, where approved by the Party owning the Marks pursuant to this subsection (iii), made automatically subject to the terms of this Agreement.",
+    "ollama_generated": "(iii) The licensor Party grants the licensee Party a non-exclusive right to use its Marks solely as specified in this Agreement, with the understanding that any modifications to such Marks shall be deemed owned exclusively by the licensor Party. Any proposed alterations to the licensor's Marks must first receive written approval from the Party who owns the Mark(s) in question. In the event of such approval, the modified Marks shall automatically fall under the terms of this Agreement, subject to the original ownership rights of the licensor Party. The licensee Party will, upon request by the Party owning the Marks, provide written confirmation or documentation of the ownership of the altered Marks.",
+    "contradiction_score": 0.38304686546325684,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 23267,
+    "end_char": 23362,
+    "original": "Source: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020 4.2 Termination\u037e Available Remedies .",
+    "ollama_generated": "Clause:\nRevised: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020 4.2 Termination; Rights to Recourse .\n\nThe revised clause changes the original term \"Termination\" to \"Rights to Recourse,\" implying that the party has more options available beyond simple termination. This shift subtly implies a broader scope of potential actions, which could include but is not limited to seeking damages or other forms of relief beyond merely terminating the agreement.\n\nHere's the original and revised clauses side by side for comparison:\n\nSource: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020\n4.2 Termination; Available Remedies .\n\nRevised: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020\n4.2 Termination; Rights to Recourse .",
+    "contradiction_score": 0.1385815441608429,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 23532,
+    "end_char": 25661,
+    "original": "(i) Such Party fails to perform timely any of its material obligations hereunder and such default shall continue for a period of sixty (60) days following receipt by such Party of written notice from the other Party specifying such default\u037e provided that, if the default specified in such notice is curable but of a nature such that it cannot be cured through the exercise of reasonable diligence within the sixty (60) day cure period, then such sixty (60) day cure period shall be extended to a period as is reasonable (but in no event more than sixty (60) days, subject to delay due to force majeure) to cure such default pursuant to a mutually agreed plan of cure, provided that the non-performing Party has proceeded at all times and is continuing to proceed in a diligent and reasonable manner to cure\u037e (ii) Such Party becomes insolvent, or takes the benefit of any present or future insolvency or bankruptcy statute, or makes a general assignment for the benefit of creditors, or files a voluntary petition in bankruptcy or a petition or answer seeking an arrangement, reorganization or readjustment of its indebtedness under the Federal bankruptcy laws or under any law or statute of the United States or any state thereof, or consents to the appointment of a receiver, trustee or liquidator of all or substantially all of its property\u037e (iii) By court order or decree such Party is adjudged bankrupt or an order is made approving a petition filed by any of its creditors or by any of its stockholders or partners seeking its reorganization or the readjustment of its indebtedness under the Federal bankruptcy laws or under any law or statute of the United States or any state thereof\u037e (iv) An involuntary petition under any bankruptcy or insolvency law, or an action under present or future insolvency law or statute, is filed against such Party and is not dismissed or stayed within sixty (60) days after the filing thereof\u037e or (v) Such Party sells, conveys, assigns or otherwise transfers all or substantially all of its assets (other than to one of its affiliates in the case of an HOF Entity) in breach of Section 6.2.",
+    "ollama_generated": "(i) If a Party fails to fulfill their essential obligations as outlined within this agreement, and such failure persists for a duration of sixty (60) days post receipt of written notification from the other Party specifying the default, except that if the specified default is inherently uncurable or requires actions beyond the scope of reasonable diligence within the stipulated sixty (60) day remedial period, then an extended timeframe, deemed reasonable but not exceeding sixty (60) days (subject to force majeure delays), may be granted for rectifying such default under a mutually agreed-upon plan of action, provided that the noncompliant Party is demonstrating ongoing diligence in resolving the issue;\n\n   (ii) In cases where a Party encounters insolvency or avails themselves of any existing or future bankruptcy legislation, seeks creditor benefits, submits a voluntary petition for bankruptcy or petitions/answers requesting arrangement, reorganization, or debt adjustment under the Federal bankruptcy laws or any state law, consents to the appointment of a receiver, trustee, or liquidator for most or nearly all of their assets;\n\n   (iii) Through court order or decree, the Party is declared bankrupt, or a petition for reorganization or debt readjustment under the Federal bankruptcy laws or any state law is approved on behalf of the Party's creditors, stockholders, or partners;\n\n   (iv) An involuntary bankruptcy or insolvency petition is filed against the Party, and said petition remains undismissed or stays inactive for sixty (60) days following its submission; or\n\n   (v) The Party contravenes Section 6.2 by selling, transferring, assigning, or conveying most or substantially all of their assets, except in the case of an HOF Entity to one of its affiliates.",
+    "contradiction_score": 0.17277151346206665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 25661,
+    "end_char": 25898,
+    "original": "If either Party is in default under this Section 4.2(a)  beyond the applicable grace or cure periods, then the other Party shall be entitled to terminate this Agreement and to seek such other remedies as are described in Section 4.2(d) .",
+    "ollama_generated": "Should either Party fail to meet their obligations under Section 4.2(a) persistently beyond the stipulated grace or remedy periods, it grants the non-defaulting Party the right to suspend this Agreement temporarily, pending the defaulting Party's rectification of the breach. Upon continued default, the non-defaulting Party may elect to terminate this Agreement and pursue any additional remedies as detailed in Section 4.2(d).",
+    "contradiction_score": 0.04252621904015541,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 29525,
+    "end_char": 29619,
+    "original": "ARTICLE 5 REPRESENTATIONS AND WARRANTIES\u037e INDEMNIFICATION 5.1 Representations and Warranties .",
+    "ollama_generated": "ARTICLE 5 REPRESENTATIONS AND WARRANTIES; INDEMNIFICATION 5.1 Indemnities and Covenants\n\n5.1. Indemnities and Covenants:\n\nThe parties hereby acknowledge and agree that each party shall provide indemnification to the other for any breach or misrepresentation of warranties made in this Agreement, except for any such breaches or misrepresentations arising from gross negligence or willful misconduct by the receiving party. Furthermore, the indemnifying party's obligations under this Article shall be limited to actual damages suffered by the receiving party and shall not extend to indirect, consequential, or punitive damages. The indemnified party shall promptly notify the indemnifying party of any claims or potential claims that may give rise to an indemnification obligation under this Agreement, and the indemnifying party shall have the right, but not the obligation, to defend such claim at its own expense.",
+    "contradiction_score": 0.05623551085591316,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 29624,
+    "end_char": 29700,
+    "original": "(a) Each of the HOF Entities and Constellation represents and warrants that:",
+    "ollama_generated": "(a) Each of the Constellation Entities and HOF represents and warrants that:\n\n- They shall make good faith efforts to comply with all applicable laws, regulations, and contractual obligations arising from this agreement, but shall not be held strictly liable for any unintended or minor breaches resulting from unforeseen circumstances.\n- In the event of a dispute, they may consult with their respective legal counsel to determine an appropriate resolution, and if no resolution is reached within a reasonable timeframe, either party reserves the right to seek mediation or arbitration as a means to resolve the issue.\n- They shall cooperate and provide any requested information or assistance in connection with any investigation, inquiry, or audit by regulatory authorities, provided that such requests do not unduly burden their resources or business operations. This obligation shall not extend to sharing confidential information without proper consent or legal requirement.",
+    "contradiction_score": 0.07328067719936371,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 34142,
+    "end_char": 34875,
+    "original": "(b) By the HOF Entities . Each HOF Entity agrees, on a several but not joint basis, to defend, indemnify and hold harmless Constellation, and its shareholders, partners, officers, directors, employees, successors, assigns, representatives, servants and agents (collectively, the \u201c Constellation Indemnified Persons \u201d) from and against, and the HOF Entities waive any claim for contribution or indemnity against any Constellation Indemnified Person with respect to, any and all Indemnified Losses resulting from or arising out of (i) the use or display by Constellation of HOF Entity Marks as permitted by this Agreement or (ii) any breach by such HOF Entity of its representations, warranties and/or obligations under this Agreement.",
+    "ollama_generated": "(b) In relation to the Constellation Entities, each HOF Entity assumes, independently but not jointly, the responsibility to compensate, protect, and free from liability Constellation, along with its stockholders, partners, executives, directors, personnel, successors, heirs, designates, delegates, and agents (referred to collectively as the \"Constellation Protected Entities\"), for any and all damages or losses (hereinafter referred to as \"Constellation Liabilities\") that may occur from or stemming from:\n\n1. Constellation's utilization or exhibition of HOF Entity trademarks, authorized by this Agreement.\n2. Any violation by the said HOF Entity of the promises, guarantees, and obligations stated within this Agreement.\n\nFurthermore, the HOF Entities relinquish any right to demand indemnity or contribution from any Constellation Protected Entity with regard to the aforementioned Constellation Liabilities.",
+    "contradiction_score": 0.003278970019891858,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 40601,
+    "end_char": 40630,
+    "original": "Constellation NewEnergy, Inc.",
+    "modified": "Constellation NewEnergy, Inc., hereinafter referred to as the \"Supplier,\" shall hold harmless and indemnify the Client, with regard to any claims, actions, or lawsuits brought by third parties, arising from or related to the Supplier's products or services, under the condition that the Supplier has been provided with proper notice within a reasonable timeframe. In the event of such notice, the Supplier shall promptly assume the responsibility for any and all costs, damages, or expenses incurred by the Client as a result of such claims, actions, or lawsuits. However, the Supplier's indemnification obligations shall not extend to instances where the Client has failed to comply with its own contractual obligations or has acted negligently or intentionally wronged a third party.",
+    "contradiction_score": 0.7175012826919556,
+    "kept": true
+  },
+  {
+    "clause_index": 70,
+    "start_char": 41325,
+    "end_char": 41863,
+    "original": "6.3 Entire Agreement . This Agreement, together with the Exhibits attached hereto, which are hereby incorporated herein by this reference, constitutes the entire agreement with respect to the subject matter hereof between the Parties and shall become a binding and enforceable agreement among the Parties and their respective successors and permitted assigns commencing as of the date hereof. No prior verbal or written agreement between the Parties with respect to the subject matter hereof shall survive the execution of this Agreement.",
+    "modified": "6.3 Scope of Agreement: While this Agreement, along with the attached Exhibits referenced within, forms a significant part of our understanding regarding the subject matter, it is recognized that prior oral or written agreements, communications, or understandings between the Parties may exist. This Agreement does not necessarily supersede or replace such prior agreements but shall be interpreted and enforced in light of these previous interactions. The parties acknowledge and agree that this Agreement shall only take effect from the date hereof and shall bind the Parties and their respective successors and permitted assigns, to the extent it does not conflict with any prior oral or written agreement between the Parties. In case of inconsistency, the terms of this Agreement shall prevail over the prior agreements to the extent permitted by law.",
+    "contradiction_score": 0.6357848048210144,
+    "kept": true
+  },
+  {
+    "clause_index": 78,
+    "start_char": 46074,
+    "end_char": 46331,
+    "original": "6.8 Not a Lease or License of the Village . This Agreement will not constitute a lease or license of any part of the Village. It will represent solely a contractual obligation of the HOF Entities to provide to Constellation certain other benefits hereunder.",
+    "ollama_generated": "6.8 No Grant of Rights Regarding the Village. This Agreement shall not grant Constellation any rights, leases, or licenses concerning any portion of the Village. Instead, it shall serve as a contractual instrument binding the HOF Entities to extend specific advantages to Constellation, as detailed herein.",
+    "contradiction_score": 0.0016303228912875056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 46331,
+    "end_char": 47249,
+    "original": "6.9 Insurance . Constellation shall, at its own expense, secure and maintain in full force and effect throughout the Term (a) insurance coverage for defamation, trademark and service mark infringement, unfair competition, copyright infringement, and infringement of a person\u2019s right of publicity and right of privacy from a carrier with an A.M. Best rating of A10 or better in an amount not less than [***] per occurrence\u037e and (b) a general liability insurance policy from a carrier with an A.M. Best rating of A10 or better in an amount not less than [***] in aggregate . The liability limits may be met with any combination of primary and excess or umbrella insurance policy limits. Constellation shall provide the HOF Entities with certificates of insurance, naming each HOF Entity as an additional insured, evidencing the existence of such insurance policies within ten (10) days after execution of this Agreement.",
+    "modified": "6.9 Insurance Responsibilities: The HOF Entities shall have the discretion to procure and maintain, at their own expense, insurance coverage throughout the Term, subject to the following conditions:\n\n(a) A policy for defamation, trademark and service mark infringement, unfair competition, copyright infringement, and infringement of a person\u2019s right of publicity and right of privacy from a carrier with an A.M. Best rating of A10 or better, with coverage per occurrence not less than [***].\n\n(b) A general liability insurance policy from a carrier with an A.M. Best rating of A10 or better, with aggregate coverage not less than [***]. The HOF Entities may meet the liability limits using any combination of primary and excess or umbrella insurance policy limits.\n\nConstellation shall be provided with certificates of insurance by the HOF Entities, naming Constellation as an additional insured, evidencing the existence of such insurance policies within ten (10) days after execution of this Agreement, upon request.",
+    "contradiction_score": 0.6030079126358032,
+    "kept": true
+  },
+  {
+    "clause_index": 83,
+    "start_char": 49073,
+    "end_char": 49356,
+    "original": "Source: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020 6.13 Independent Contractor . The Parties shall be and act as independent contractors, and under no circumstances shall this Agreement be construed as one of agency, partnership, joint venture or employment among the Parties.",
+    "ollama_generated": "Clause:\nSource: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020\n6.13 Employed Yet Independent Contractor . The Parties shall be and act as employees for the purpose of certain benefits and protections, but under no circumstances shall this Agreement confer upon any Party the rights or obligations inherent in an agency, partnership, joint venture, or employment relationship among the Parties, except as expressly provided herein.",
+    "contradiction_score": 0.3865905702114105,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

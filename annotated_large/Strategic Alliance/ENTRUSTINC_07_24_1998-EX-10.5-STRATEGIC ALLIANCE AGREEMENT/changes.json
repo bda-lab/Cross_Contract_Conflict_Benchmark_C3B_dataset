@@ -1,0 +1,257 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 296,
+    "end_char": 1234,
+    "original": "WHEREAS, pursuant to an asset transfer agreement between NTL and Entrust Technologies Limited of even date (the \"NTL Transfer Agreement\") and an asset ---------------------- transfer agreement between Northern Telecom Inc. and ETI of even date, the Entrust Technology (as defined herein) has been transferred to ETI and ETI's Canadian subsidiary, Entrust Technologies Limited\u037e and WHEREAS, NTL desires to license from Entrust on behalf of itself and the Nortel Subsidiaries (as defined herein) ongoing rights to the Entrust Technology, ETI desires to license from NTL on behalf of itself and its Subsidiaries some intellectual property rights associated with the Entrust Technology, and NTL and ETI desire to cooperate regarding contracting, patent cross-licensing and the exchange of information, all on the terms and subject to the conditions set forth herein\u037e NOW THEREFORE, NTL and ETI, intending to be legally bound agree as follows:",
+    "ollama_generated": "WHEREAS, under an asset transfer agreement dated contemporaneously between NTL and Entrust Technologies Limited (the \"NTL Transfer Agreement\") and another such agreement between Northern Telecom Inc. and ETI, the Entrust Technology (as defined hereunder) has been acquired by ETI and its Canadian subsidiary, Entrust Technologies Limited; and WHEREAS, NTL seeks to obtain non-exclusive rights to utilize the Entrust Technology, subject to certain restrictions, on behalf of itself and the Nortel Subsidiaries (as defined herein), while ETI desires to grant NTL non-exclusive licenses for some intellectual property rights associated with the Entrust Technology, on behalf of itself and its Subsidiaries, and NTL and ETI are interested in collaborating concerning contracting, patent cross-licensing, and the exchange of information; all under the provisions set forth herein: NOW THEREFORE, NTL and ETI, acknowledging their mutual intent to be bound by this agreement, agree as follows:\n\nIn this revised clause, the language has been tweaked to emphasize that the rights being granted are non-exclusive and subject to certain restrictions. Additionally, the wording of the agreement has been changed to reflect a more cooperative and collaborative relationship between the parties, rather than an obligation on their part.",
+    "contradiction_score": 0.004363021347671747,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2367,
+    "end_char": 2422,
+    "original": "\"ETI\" has the meaning specified in the preamble hereof.",
+    "ollama_generated": "The term \"ETI,\" as used herein, shall be construed consistent with its definition provided within the preambular section of this agreement.",
+    "contradiction_score": 0.0011458860244601965,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2707,
+    "end_char": 3229,
+    "original": "------------------ \"Entrust Patents\" shall mean all Patents: (i) which are owned or controlled at --------------- any time during the Patent License Term by Entrust or any Entrust Subsidiary\u037e or (ii) with respect to which, and to the extent to which, Entrust or any Entrust Subsidiary shall at any time during the Patent License Term have the right to grant the licenses and rights which are granted herein by Entrust.  The Entrust Patents as of the Effective Date are set forth in Exhibit A of the NTL Transfer Agreement.",
+    "ollama_generated": "\"Licensable Patents\" shall denote all Patents: (i) that are owned or held under control at any point during the License Term by Entrust or any Subsidiary of Entrust; or (ii) for which Entrust or any Subsidiary of Entrust has the right to grant the licenses and permissions as detailed herein, during the License Term. As of the Effective Date, the Licensable Patents are outlined in Exhibit A of the NTL Transfer Agreement. Notably, it is understood that the scope of the Licensable Patents may expand or contract over the course of the License Term based on Entrust's rights and control.",
+    "contradiction_score": 0.0029115972574800253,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3457,
+    "end_char": 3551,
+    "original": "---------------- \"Entrust Technology\" has the meaning specified in the NTL Transfer Agreement.",
+    "ollama_generated": "\"The definition of 'Entrust Technology' is as stipulated within the NTL Transfer Agreement.\" [This subtle change implies that the reader must first refer to the agreement for clarification, potentially placing more responsibility on the other party.]",
+    "contradiction_score": 0.0011283857747912407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 5205,
+    "end_char": 5689,
+    "original": "\"Nortel Patents\" shall mean all Patents other than Patents included in NTL -------------- Technology: (i) which are owned or controlled at any time during the Patent License Term by Nortel or any Nortel Subsidiary\u037e or (ii) with respect to which, and to the extent to which, Nortel or any Nortel Subsidiary shall at any time during the Patent License Term have the right to grant the licenses and rights which are herein granted by Nortel including through cross licenses or otherwise.",
+    "ollama_generated": "\"Nortel Patents\" shall denote all Patents that are not encompassed within NTL Technology, specifically excluding: (i) those owned or controlled during the Patent License Term by Nortel or any of its Subsidiaries and for which licensing rights are expressly retained; or (ii) where Nortel or any of its Subsidiaries does not possess the right to grant the licenses and rights as provided herein, whether through cross-licenses or otherwise, during the Patent License Term. The responsibility for these excluded Patents lies primarily with the licensee under this Agreement.",
+    "contradiction_score": 0.11727526783943176,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 5809,
+    "end_char": 6263,
+    "original": "\"Patent\" shall mean any patent (other than a design patent or a design ------ registration) and any utility model covering any invention for which a first application was filed in or for any country prior to the termination of the Patent License Term, and shall include any such application in or for a country for which rights under the law of the country are available for compensation for unauthorized use of the invention covered by such application.",
+    "modified": "\"Patent\" shall refer to any patent (including both design patents and registrations) or utility model, excluding those filed after the termination of the Patent License Term in any country, and encompassing any corresponding applications worldwide, for which a right to compensation for unauthorized use can be claimed under the applicable foreign law, regardless of whether an application has been formally accepted.",
+    "contradiction_score": 0.8576807975769043,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 9519,
+    "end_char": 9948,
+    "original": "Section 2.03. ETI Obligations.  Entrust shall comply in all material respects ---------------- with the obligations required of it under the licenses for the NTL Technology for so long as Entrust benefits from those licenses.   ETI shall pay to NTL the portion of all fees and charges paid by Nortel to obtain continuing rights to the NTL Technology that are reasonably attributable to Entrust's actual use of the NTL Technology.",
+    "modified": "Section 2.03. Obligations of ETI. In all material respects, Entrust shall be granted the discretion not to comply with the obligations required under the licenses for the NTL Technology, provided that such non-compliance does not significantly impact its ongoing benefits from those licenses. However, should Entrust elect to utilize the NTL Technology, it shall remit to NTL a fair share of all fees and charges paid by Nortel for the acquisition of continuing rights to the NTL Technology, reasonably allocable to ETI's use of said technology.",
+    "contradiction_score": 0.848423182964325,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 11771,
+    "end_char": 12036,
+    "original": "(b) ETI's liability to Nortel arising from or relating to the intellectual property indemnity set forth in the Enterprise License shall not exceed 50% (fifty percent) of the monies paid by Nortel thereunder to a maximum of U.S.$1,000,000 (one million U.S. dollars).",
+    "ollama_generated": "(b) The maximum liability of ETI towards Nortel, stemming from or connected with the intellectual property indemnity as outlined in the Enterprise License, shall not surpass 50% (fifty percent) of the amounts received by Nortel under that agreement. However, it is essential to note that this limitation applies only up to an aggregate sum of U.S.$1,000,000 (one million U.S. dollars).\n\nIn this revised clause, the focus has shifted from ETI's liability not exceeding a certain amount to stating that the limitation on ETI's liability applies only up to a specific sum, which may help clarify the situation for both parties.",
+    "contradiction_score": 0.0006589035619981587,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 12036,
+    "end_char": 12451,
+    "original": "ARTICLE IV NORTEL RESALE OF ENTRUST PRODUCTS --------------------------------- Section 4.01 Reseller Rights. At NTL's option and upon NTL's request, Entrust --------------- shall promptly enter into a non-exclusive reseller agreement with NTL, on behalf of Nortel, in substantially the form set forth in Exhibit C (the \"Reseller -------- Agreement\") save as amended to comply with the provisions of this Article IV.",
+    "ollama_generated": "ARTICLE IV NORTEL RESALE OF ENTRUST PRODUCTS --------------------------------- Section 4.01 Reseller Rights. At Entrust's discretion and upon Nortel's request, Nortel shall initiate discussions for a non-exclusive reseller agreement with Entrust, in a manner that allows for reasonable negotiation of terms, based on the model agreement outlined in Exhibit C (the \"Reseller -------- Agreement\"), adjusted to accommodate the provisions of this Article IV.\n\nIn this revised clause, the obligation has been shifted from NTL (Nortel) to Nortel, and the timing for initiating discussions is now at their discretion, rather than NTL's option and request. This change allows Entrust more flexibility in the negotiation process.",
+    "contradiction_score": 0.2927270233631134,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 12451,
+    "end_char": 12904,
+    "original": "- --------- NTL represents as of the Effective Date that the terms of the Reseller Agreement are materially similar to the terms of an agreement recently concluded with a third-party reseller of the Entrust Products, except for the provisions of Section 4.02 hereof.  Subject to early termination for material default, such Reseller Agreement shall expire either in three years or when ETI ceases to be a Subsidiary of NTL, whichever event occurs later.",
+    "ollama_generated": "- As of the Effective Date, NTL warrants that the essential aspects of the Reseller Agreement align substantially with those found in a recent agreement between NTL and another third-party reseller of Entrust Products, with the exception of Section 4.02's specific provisions. The Reseller Agreement is subject to early termination for material breach; however, it will continue unless either (a) the three-year duration elapses or (b) NTL is no longer a Subsidiary of ETI, in which case the Reseller Agreement will terminate immediately upon such event.",
+    "contradiction_score": 0.004965686239302158,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 12904,
+    "end_char": 13239,
+    "original": "Section 4.02 Most Favoured Treatment. During the life of the Reseller Agreement, ----------------------- it is the intention of ETI that the terms of the Reseller Agreement shall be no less favourable to Nortel than the terms in effect with any of Entrust's resellers of Entrust Products at the time the Reseller Agreement is executed.",
+    "modified": "Section 4.02 Least Favoured Treatment. Throughout the duration of the Reseller Agreement, ETI reserves the right to offer terms in the agreement that may be less favorable to Nortel than the terms provided to any other Entrust resellers of Entrust Products at the time the Reseller Agreement is executed. This provision does not restrict ETI from offering more advantageous terms to any other reseller, should such an opportunity arise.\n\nNote: The original clause guarantees that the Reseller Agreement's terms will be no less favorable than those provided to other Entrust resellers at the time of agreement execution. The rewritten clause allows ETI to potentially offer less favorable terms to Nortel compared to other resellers, not restricting them from offering more beneficial terms to others if opportunities arise.",
+    "contradiction_score": 0.9347721338272095,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 13239,
+    "end_char": 13738,
+    "original": "Section 4.03 Indemnification.  Notwithstanding any provision of the Reseller ---------------- Agreement, ETI shall not be required to honour intellectual property indemnity set forth in the Reseller Agreement, to the extent that such breach of representation, warranty, condition or indemnity relates to a defect in any of the Entrust Products as of the Effective Date or the infringement or misappropriation of any third party rights incorporated into the Entrust Products as of the Effective Date.",
+    "ollama_generated": "Section 4.03 Indemnification Modifications. In contrast to any stipulation within the Reseller Agreement, ETI shall not be compelled to uphold the intellectual property indemnity specified in the Reseller Agreement under circumstances where such breach of representation, warranty, condition, or indemnity is linked to a defect in any of the Entrust Products as of the Effective Date or an infringement or misappropriation of any third-party rights embedded within the Entrust Products up until the Effective Date, provided that ETI is given notice thereof and granted a reasonable period to rectify such issues.",
+    "contradiction_score": 0.06514579057693481,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 14482,
+    "end_char": 14899,
+    "original": "Section 5.02 Most Favoured Treatment.  For so long as ETI remains a Subsidiary ----------------------- of NTL, it is the intention of ETI that the terms of the Source Code License  be no less favourable to Nortel than the terms then in effect with any of Entrust's source code licensees that receives substantially similar rights taking into account the relative size of the licensee and Entrust's potential benefits.",
+    "modified": "Section 5.02 Reciprocal Treatment Obligation. For as long as ETI remains a Subsidiary of NTL, it is the obligation of ETI to ensure that the terms of the Source Code License granted to Nortel are not more favourable than those extended to any third-party licensee with substantially similar rights, considering the size and potential benefits to ETI. This does not preclude Nortel from negotiating and securing more advantageous terms if it demonstrates a greater need or offers commensurate value.\n\nIn this revised clause, the obligation is shifted from ETI providing most favored treatment (MFT) to Nortel, to Nortel not receiving more favorable terms than other licensees. Additionally, the clause allows for negotiation and more advantageous terms for Nortel if it can justify a greater need or offer commensurate value, thus weakening the obligation slightly.",
+    "contradiction_score": 0.6271941065788269,
+    "kept": true
+  },
+  {
+    "clause_index": 49,
+    "start_char": 16891,
+    "end_char": 18112,
+    "original": "(i)   the designs, specifications and working drawings for the manufacture of such Licensed Products are furnished by Grantee\u037e and (ii)   such designs, specifications and working drawings are in sufficient detail that no additional design by the manufacturer is required other than adaptation to the production processes and standards normally used by the manufacturer which change the characteristics of the products only to a negligible extent\u037e (c) to make and have made, to use and have used, and to maintain machines, tools, materials and other manufacturing instrumentalities, and to use and have used methods and processes, insofar as such machines, tools, materials, other manufacturing instrumentalities, methods and processes are involved in or incidental to the development, manufacture, installation, testing, maintenance or repair of Licensed Products, or to the training of personnel in the use of such Licensed Products\u037e provided, however, that the rights granted in this Section 6.03(c) shall not serve to enlarge the scope of the rights granted in Section 6.03(b)\u037e Section 6.04. Limitations to Patent Licenses.  Nothing contained in a Patent -------------------------------- License shall be construed as:",
+    "ollama_generated": "(i) The Grantee shall provide the designs, specifications, and working drawings for the production of the Licensed Products; however, these may require some minimal adjustments to align with the manufacturer's standard processes, which should not significantly alter the product's inherent characteristics. (ii) The responsibility for any further design modifications beyond this minimal adjustment lies solely with the manufacturer.\n   (c) The Grantee is authorized to create and utilize machines, tools, materials, and other manufacturing resources, as well as methods and processes, necessary for or related to the development, manufacture, installation, testing, maintenance, or repair of Licensed Products, or for training personnel in their use. This authorization does not expand the rights granted under Section 6.03(b), but is instead incidental to those rights.\n   Section 6.04. Limitations to Patent Licenses. Interpretations of a Patent License shall not extend beyond its explicit terms:",
+    "contradiction_score": 0.4669449031352997,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 24399,
+    "end_char": 25583,
+    "original": "Section 6.08. Jointly Owned Patents.  If the grant by Grantor of licenses and ---------------------- rights in accordance with the Patent License in respect of Patents made by its employees jointly with third parties is subject by contract or by operation of law to the consent of such third parties or their assignees, upon request of the Grantee, Grantor shall use reasonable efforts to either secure rights and licenses for the Grantee from such third-party equivalent to those provided in the Patent License, or obtain consent from such third parties to grant rights and licenses equivalent to those provided in the Patent License\u037e however, the inability of Grantor to secure such rights or to obtain such consent in spite of the use of reasonable efforts shall not be considered to be a breach of the Patent License.  Notwithstanding that such rights or such consent may be subject to the payment of a royalty or other consideration to any such third party as provided for in Section 6.09, and notwithstanding other conditions agreed with the third party, the grant of such licenses and rights shall otherwise be in accordance with the terms and conditions of the Patent License.",
+    "ollama_generated": "Section 6.08. Jointly Owned Patents. In cases where Grantor's provision of licenses and related rights in accordance with the Patent License for patents co-created by its employees and third parties is contingent upon consent from these third parties or their assignees, as per contract or law, Grantor shall make a good faith attempt to either acquire equivalent rights and licenses for the Grantee, mirroring those outlined in the Patent License, or secure consent from such third parties to grant corresponding rights and licenses. It should be noted that if, despite these efforts, Grantor fails to acquire such rights or secure consent, this shall not be deemed a breach of the Patent License. However, it is important to highlight that the inability to secure these rights or obtain consent may involve the payment of royalties or other considerations to the relevant third party, as outlined in Section 6.09. These arrangements may also be subject to additional conditions agreed upon with the third party. Nevertheless, the granting of such licenses and rights will adhere to the general terms and conditions detailed in the Patent License, unless otherwise specified or modified by mutual agreement between the parties.",
+    "contradiction_score": 0.00793855357915163,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 28645,
+    "end_char": 29036,
+    "original": "(b) Former Subsidiary.  When a Subsidiary of either ETI or NTL ceases to be a ------------------ Subsidiary and holds any Patent under which a Grantee is licensed pursuant to the Patent License, such Grantee shall be entitled to exercise such rights and licenses for the full term of the Patent (or for that part of the term that the Grantor has the right to grant such rights and licenses).",
+    "modified": "(b) Former Subsidiary. If a Subsidiary of either ETI or NTL becomes a ------------------ Subsidiary and holds any Patent under which a Grantee is licensed pursuant to the Patent License, such Grantee shall not be entitled to exercise any rights or licenses for the full term of the Patent (unless the Grantor retains the right to grant such rights and licenses). The onus will be on the Grantor to determine whether they have the right to grant such rights and licenses and communicate this accordingly.",
+    "contradiction_score": 0.9450504779815674,
+    "kept": true
+  },
+  {
+    "clause_index": 69,
+    "start_char": 30408,
+    "end_char": 31219,
+    "original": "ARTICLE VII COORDINATION OF CONTRACTING --------------------------- Section 7.01 Compliance with Nortel Policies.  For so long as ETI remains a -------------------------------- Subsidiary of NTL, Entrust shall not take any action or enter into any commitment or agreement which may reasonably be anticipated based on notice from Nortel to result, with or without notice and with or without lapse of time or otherwise, in a contravention or event of default by any Nortel Entity of (i) any provisions of applicable law or regulation, (ii) any provision of NTL's certificate of incorporation or bylaws, (iii) any credit agreement or other material instrument binding upon Nortel, or (iv) any judgment, order or decree of any governmental body, agency or court having jurisdiction over Nortel or any of its assets.",
+    "ollama_generated": "ARTICLE VII COORDINATION OF CONTRACTING --------------------------- Section 7.01 Compliance with Nortel Policies (Revised). For as long as ETI remains a Subsidiary of NTL, Entrust shall exercise due diligence to ensure that its actions or commitments do not lead, in the reasonable judgment of Nortel, to a potential breach or default by any Nortel Entity of:\n\n(i) any provisions of applicable law or regulation,\n(ii) any provision of NTL's certificate of incorporation or bylaws,\n(iii) any credit agreement or other material instrument binding upon Nortel, or\n(iv) any judgment, order, or decree of any governmental body, agency, or court having jurisdiction over Nortel or its assets. In the event that Entrust is made aware of a potential conflict with any of the above, it shall promptly inform Nortel for guidance on how to proceed.",
+    "contradiction_score": 0.013257516548037529,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 31608,
+    "end_char": 32230,
+    "original": "ARTICLE VIII INFORMATION EXCHANGES --------------------- Section 8.01. Information. Subject to applicable law and privileges, each Party ----------- shall, to the extent legally permitted, provide the other Party with all information regarding itself and transactions under this Agreement that the other Party reasonably believes are required: (a) for the other Party to obtain the benefits provided for herein, and (b) to comply with the provisions of Section 7.01 and all applicable federal, state, county and local laws, ordinances, regulations and codes, including, but not limited to, securities laws and regulations.",
+    "ollama_generated": "ARTICLE VIII INFORMATION EXCHANGES --------------------\n\nSection 8.01. Information Disclosure. With respect to applicable law and privileges, each Party shall, at its discretion, provide the other Party with all information regarding itself and transactions under this Agreement that it deems appropriate: (a) for the exercise of its rights or fulfillment of its obligations hereunder, and (b) to facilitate compliance with the provisions of Section 7.01 and all applicable federal, state, county, and local laws, ordinances, regulations, and codes, including, but not limited to, securities laws and regulations. The disclosure of information shall be at the requesting Party's sole risk and discretion, and no guarantee or warranty is made that the disclosed information will enable either Party to obtain benefits under this Agreement or comply with applicable laws.",
+    "contradiction_score": 0.09703878313302994,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 35058,
+    "end_char": 35337,
+    "original": "ARTICLE X TERM AND TERMINATION -------------------- Section 10.01. Term. Except as otherwise provided in this Agreement, this Agreement shall terminate on the later of (i) the third anniversary of the Effective Date or (ii) the date on which ETI ceases to be a Subsidiary of NTL.",
+    "ollama_generated": "ARTICLE X TERM AND TERMINATION -------------------- Section 10.01. Termination. This Agreement shall continue in effect, unless terminated earlier by either party or as provided elsewhere in this Agreement, for a period of three years from the Effective Date. However, upon NTL ceasing to be the Parent Company of ETI, this Agreement will terminate immediately.\n\nThis modification weakens the original obligation by changing \"this Agreement shall terminate\" to \"this Agreement will continue in effect, unless terminated,\" thus implying that termination is now a possibility but not a certainty. Furthermore, it shifts the responsibility for terminating the agreement from either party to NTL ceasing to be ETI's parent company.",
+    "contradiction_score": 0.008085683919489384,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 36663,
+    "end_char": 37302,
+    "original": "----------- (a)  Termination for Cause.  In the event of any  material breach of this ---------------------- Agreement by either Nortel or Entrust, the non-breaching Party may terminate this Agreement by giving sixty (60) days' prior written notice to the other Party\u037e provided, however, that this Agreement shall not terminate if the other Party has cured the breach prior to the expiration of such 60-day period, or if such breach can not be cured within such sixty 60-day period, the other Party has initiated actions to cure such breach within such sixty 60-day period, and thereafter cures such breach as soon as reasonably practical.",
+    "ollama_generated": "----------- (a) Termination at Discretion. In the instance of any material violation or breach of this Agreement by either Nortel or Entrust, the Party electing to terminate shall have the discretion to do so following a written notice period of sixty (60) days, given to the other Party. However, this Agreement shall not be terminated if the violating Party demonstrates substantial progress towards rectifying the breach within the 60-day period, or if full compliance is impossible within such timeframe. If the violating Party fails to cure the breach within the 60-day notice period but has initiated corrective measures and provides evidence of a good-faith effort to comply with the Agreement's terms thereafter, this Agreement may continue until the breach is fully remedied or a mutual agreement for termination is reached.",
+    "contradiction_score": 0.16663995385169983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 38343,
+    "end_char": 38380,
+    "original": "Section 10.03. Effect of Termination.",
+    "ollama_generated": "Section 10.03. Consequences Following Termination.\n\nUpon termination of this agreement by either party, the terminating party shall be relieved from any further obligations or liabilities under this contract, except for those obligations that are expressly stated to survive termination and those arising from breaches committed prior to such termination. The non-terminating party shall bear all costs associated with winding down activities related to this agreement and returning any property of the terminating party in its possession at the time of termination.",
+    "contradiction_score": 0.33387890458106995,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 38380,
+    "end_char": 38493,
+    "original": "--------------------- When this Agreement expires or terminates, the following provisions shall remain in effect:",
+    "ollama_generated": "Upon expiration or termination of this Agreement, certain obligations will persist as follows:\n\nThis Agreement's relevant sections, herein enumerated, shall survive any such occurrence.",
+    "contradiction_score": 0.0005384371033869684,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 40996,
+    "end_char": 41631,
+    "original": "ARTICLE XII MISCELLANEOUS ------------- Section 12.01. Notices. All notices authorized or required to be given pursuant ------- to this Agreement shall be given in writing and either personally delivered to the Party to whom it is given or delivered by an established delivery service by which receipts are given or mailed by registered or certified mail, postage prepaid, or sent by electronic telecopier, addressed to the Party at the following addresses.  Any Party may change its address for the receipt of notices at any time by giving notice thereof to the other Party, in which event this Agreement shall be amended accordingly.",
+    "ollama_generated": "ARTICLE XII MISCELLANEOUS\n--------------------------\nSection 12.01. Notifications:\nAll notifications required or permitted under this Agreement may be made in writing and may be delivered via any of the following methods: personal delivery, established delivery service with proof of delivery, registered or certified mail, postage prepaid, or electronic fax or email. The recipient's failure to provide a valid delivery address shall not excuse the non-receipt of such notifications. Each Party is responsible for maintaining and updating their current contact information, and failure to do so shall not absolve them from receiving notifications sent prior to the change in contact details. Any changes in address must be communicated to the other Party in writing, and this Agreement will be deemed amended accordingly upon receipt of such notification by the other Party.",
+    "contradiction_score": 0.047817688435316086,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 41631,
+    "end_char": 41824,
+    "original": "(a)  If to NTL:  Northern Telecom Limited 8200 Dixie Road, Suite 100 Brampton,  Ontario L6T 5P6 Attention:  Corporate Secretary Fax No.:  905 863 8425 (b)  If to ETI:  Entrust Technologies Inc.",
+    "ollama_generated": "(a) In the event that communications are addressed to NTL (Northern Telecom Limited, 8200 Dixie Road, Suite 100, Brampton, Ontario L6T 5P6, Attention: Corporate Secretary, Fax No.: 905 863 8425), any responses or notifications shall be deemed to have been duly delivered.\n   (b) Conversely, if communications are directed towards ETI (Entrust Technologies Inc.), it is the responsibility of NTL to ensure that such communications are received and acknowledged in a timely manner.",
+    "contradiction_score": 0.30723831057548523,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 42085,
+    "end_char": 42218,
+    "original": "This Agreement supersedes all prior agreements and understandings among the Parties hereto with respect to the subject matter hereof.",
+    "ollama_generated": "This Agreement replaces and overrides any previous agreements or mutual comprehensions between the Parties concerning the matters detailed herein, which shall henceforth be deemed null and void.",
+    "contradiction_score": 0.002789643593132496,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 42755,
+    "end_char": 43010,
+    "original": "Section 12.05. Severability. If any provision of this Agreement shall be held to ------------ be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.",
+    "ollama_generated": "Section 12.05. Severability. If a court determines that any provision of this Agreement is invalid, illegal, or unenforceable, such finding will not render the entire agreement unenforceable; rather, the remaining provisions shall continue to be valid and enforceable to the fullest extent permitted by law. The invalid, illegal, or unenforceable provision shall be deemed modified automatically to the minimum extent necessary to bring it within the purview of applicable law, preserving to the maximum extent possible the original intent and economic essence of the parties' agreement.",
+    "contradiction_score": 0.00242381333373487,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

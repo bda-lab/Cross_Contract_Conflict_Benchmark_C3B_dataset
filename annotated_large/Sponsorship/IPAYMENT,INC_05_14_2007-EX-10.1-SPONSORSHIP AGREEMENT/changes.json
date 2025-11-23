@@ -1,0 +1,452 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 150,
+    "end_char": 164,
+    "original": "iPAYMENT, INC.",
+    "ollama_generated": "iPAYMENT, INC.'s OBLIGATIONS REGARDING PAYMENT\n\nUpon the occurrence of an event triggering payment obligations under this Agreement, iPAYMENT, INC., shall have the discretion to determine, in good faith but not obligated to do so, whether such event has occurred and, if so, the amount payable. If iPAYMENT, INC. decides, in its sole discretion, to make a payment, it shall not be liable for any errors or omissions in the calculation or execution of such payment, which shall be deemed fulfilled by iPAYMENT, INC.'s best efforts to make a timely and accurate payment, subject to any applicable laws and regulations.",
+    "contradiction_score": 0.059997741132974625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2334,
+    "end_char": 2448,
+    "original": "F. Bank is the acquiring bank for the transactions processed under the TS ISO Agreement and the PCS ISO Agreement.",
+    "modified": "G. For the transactions processed under both the TS ISO Agreement and the PCS ISO Agreement, it shall be the merchant's responsibility to select a banking institution capable of acting as the acquiring bank. Bank is not obligated to assume this role unless explicitly specified in writing by the merchant.",
+    "contradiction_score": 0.9190358519554138,
+    "kept": true
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2788,
+    "end_char": 2881,
+    "original": "\u201cACH\u201d shall mean the electronic transfer of funds through an automated clearing house system.",
+    "ollama_generated": "\"Automated Clearing House (ACH) System\" denotes the process by which the transference of funds occurs electronically.",
+    "contradiction_score": 0.0011994929518550634,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3075,
+    "end_char": 3290,
+    "original": "\u201cApplication\u201d  shall mean the Merchant application used by ISO, as provided by and/or approved by SERVICERS and ISO, and other existing Merchant applications assigned to Bank as part of the initial BIN/ICA transfer.",
+    "ollama_generated": "\"The term 'Application' shall refer to any and all current or subsequent Merchant applications utilized by ISO, which have been either provided by SERVICERS, approved by ISO, or subsequently assigned to Bank following the initial BIN/ICA transfer. It is understood that Bank assumes responsibility for the compliance and proper functioning of these applications.\"",
+    "contradiction_score": 0.0034065411891788244,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4041,
+    "end_char": 4344,
+    "original": "Approved Merchants may also include Merchants converted to the Program as part of the initial BIN/ICA transfer and/or subsequently acquired Merchants that meet the established criteria for participation in the Program, including the Merchant Processing Policy, and whose sponsorship is assigned to Bank.",
+    "ollama_generated": "Approved Merchants may expand to encompass Merchants who have undergone conversion to the Program during an initial BIN/ICA transfer, as well as subsequent Merchants that satisfy the stipulated criteria for Program participation, adhere to the Merchant Processing Policy, and whose sponsorship is voluntarily delegated by them to Bank. This implies that the Merchants themselves have the option of assigning their sponsorship to our bank, rather than it being a requirement imposed upon them.",
+    "contradiction_score": 0.0012795965885743499,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6227,
+    "end_char": 6279,
+    "original": "\u201cIC\u201d shall have the meaning provided in Section 2.4.",
+    "ollama_generated": "\"For the purposes of this Agreement, any reference to 'IC' shall be understood as defined in Section 2.4.\" [This version maintains the original meaning but uses slightly more formal language.]\n\nAlternatively, for a subtle change in meaning, consider the following option:\n\n\"The term 'IC,' as used herein, shall correspond with its definition as set forth in Section 2.4.\" [This version emphasizes that the parties have agreed upon the definition provided in section 2.4 and subtly shifts responsibility to the reader for understanding the term.]",
+    "contradiction_score": 0.0051711671985685825,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 6903,
+    "end_char": 6966,
+    "original": "\u201cMarks\u201d  shall mean the trademarks or service marks of a party.",
+    "ollama_generated": "\"The term 'Marks' encompasses any unregistered trademarks, service marks, or logos that may be owned by either party.\"",
+    "contradiction_score": 0.026887938380241394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 7398,
+    "end_char": 7462,
+    "original": "\u201cMember\u201d  shall mean an acquiring member of Visa and MasterCard.",
+    "ollama_generated": "\"Individual\" or \"Entity\", as applicable, may refer to a prospective member who is currently in the process of joining Visa or MasterCard.",
+    "contradiction_score": 0.06816117465496063,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 12431,
+    "end_char": 12793,
+    "original": "\u201cProgram Participation Fees\u201d  shall mean all fees owed by Merchants to Bank and ISO under the applicable Merchant Processing Agreements, including the Merchant Discount Amounts or transaction fees, which amounts shall be recommended by ISO, but in all cases will be subject to final approval by Bank, which approval shall not be unreasonably withheld or delayed.",
+    "ollama_generated": "\"Program Participation Fees\" encompass all charges that the Merchants are required to remit to the Bank and ISO, as stated within the relevant Merchant Processing Agreements. These charges comprise the Merchant Discount Amounts or transaction fees. While the ISO may suggest the fee amounts, the final decision rests with the Bank, and any delay or denial of approval shall not be considered arbitrary or capricious.",
+    "contradiction_score": 0.0011632144451141357,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 13718,
+    "end_char": 13962,
+    "original": "\u201cPromotional Materials\u201d  shall mean all written solicitations and advertisements and other communications (including telemarketing scripts) used to market, promote, and solicit the establishment of Merchant Processing Agreements with Merchants.",
+    "ollama_generated": "\"Marketing Communications\" encompass any written or spoken solicitation, advertising, or other forms of communication (including telemarketing scripts), employed for the purpose of inviting, encouraging, or persuading potential Merchants to engage in discussions concerning the creation of Merchant Processing Agreements.\n\nThis revised clause slightly broadens and softens the original by using more inclusive language, such as \"employed for\" instead of \"used to,\" which may imply a more casual or ongoing approach to marketing activities, rather than a strictly transactional one. Additionally, it shifts the focus from the Merchant Processing Agreements being established (\"shall mean all ... with Merchants\") to inviting potential Merchants to engage in discussions about the agreements (\"encouraging or persuading potential Merchants to engage\"). This change subtly weakens the obligation by making the ultimate goal the initiation of discussions, rather than the finalization of an agreement.",
+    "contradiction_score": 0.012199103832244873,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 16819,
+    "end_char": 17198,
+    "original": "(c) SERVICERS may from time to time pass through to ISO actual increases in the Pass-Through Costs and Interchange, to reflect any increases in such fees, costs and charges to SERVICERS, upon thirty (30) days prior written notice to ISO (or, if SERVICERS receive less than thirty (30) days notice of such increase, as much prior notice as is practicable under the circumstances).",
+    "ollama_generated": "(c) The ISO grants the Servicers the right, at their discretion, to adjust the Pass-Through Costs and Interchange upwards, reflecting any increases in their own costs or charges associated with these fees. Such adjustments may be implemented without prior notice, if such notice is not reasonably practicable under the circumstances; otherwise, a reasonable notice period, not less than thirty (30) days, shall apply before the implementation of such adjustments.",
+    "contradiction_score": 0.2899346351623535,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 17198,
+    "end_char": 17396,
+    "original": "Page 7 (d) In the event of any fee increases to ISO, SERVICERS shall provide reasonable assistance to ISO in passing such fee increases through to Merchants under the Merchant Processing Agreements.",
+    "ollama_generated": "Page 7 (d) Upon ISO implementing any fee adjustments, SERVICERS are obliged to offer appropriate guidance and cooperation to facilitate ISO's attempts to notify Merchants of these changes in accordance with the Merchant Processing Agreements. However, it is solely the responsibility of ISO to effectively communicate such fee increases and secure agreement from Merchants.",
+    "contradiction_score": 0.010502804070711136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 19577,
+    "end_char": 19799,
+    "original": "(d) For the avoidance of doubt, the parties acknowledge that ISO may utilize SERVICERS\u2019 services under this Agreement on a non- exclusive basis and there are no minimum fees or utilization commitments under this Agreement.",
+    "ollama_generated": "(d) It is clarified, for all purposes, that the parties mutually understand that the party identified as ISO retains the discretion to engage any number of SERVICERS, without limitation, on an exclusive basis, under this Agreement. Additionally, it should be noted that there are no maximum fees or usage obligations imposed upon ISO with respect to the utilization of SERVICERS' services under this Agreement.",
+    "contradiction_score": 0.15680576860904694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 23223,
+    "end_char": 23497,
+    "original": "(b) From time to time, and within a reasonable time from Bank\u2019s receipt of notice of an amendment to the Rules that is not otherwise available to ISO, Bank will advise ISO, who shall, in turn, notify each Merchant, of any change in the Merchant Program imposed by the Rules.",
+    "ollama_generated": "(b) Upon becoming aware of any amendment to the Rules that is not accessible to ISO, Bank shall promptly inform ISO, who may, but is not obligated to, notify each Merchant within a reasonable timeframe, of any changes in the Merchant Program resulting from the Rules. This action by ISO is for information purposes only and does not imply an obligation on the part of ISO to update all Merchants with immediate effect or in every circumstance.",
+    "contradiction_score": 0.002027004025876522,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 23497,
+    "end_char": 23766,
+    "original": "(c) At ISO\u2019s request, Bank will obtain copies for ISO of any Bank Card association manuals and publications (including Rules) that are available to acquiring members and that are not otherwise available to ISO and that are allowed to be shared with ISO under the Rules.",
+    "ollama_generated": "(c) Upon ISO's discretion, Bank shall endeavor but is not obligated to acquire copies of any Bank Card association manuals and publications (including Rules), if such documents are accessible only to acquiring members and can be legitimately shared with ISO according to the Rules. ISO shall bear sole responsibility for determining whether these documents are necessary for its purposes.",
+    "contradiction_score": 0.06438632309436798,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 24030,
+    "end_char": 24493,
+    "original": "(d) Bank will maintain all cardholder information under its control and/or possession in a safe and secure manner in compliance with the Rules, and will report to Bank Card associations as required by the Rules relating to internal policies and procedures related to cardholder information security. Furthermore, Bank agrees to inform the ISO immediately regarding any breach of information security that may have an adverse effect to the ISO or to its Merchants.",
+    "ollama_generated": "(d) The Cardholder Information maintained by the Bank, whether under its control or possession, shall be handled with reasonable care and precautions, while still being mindful of industry standards and regulatory requirements. The Bank is expected to keep associations of Bank Cards apprised of any necessary updates regarding their internal policies and procedures concerning cardholder data security, as stipulated by the Rules. In the event of a potential breach in information security that could potentially impact the ISO or its Merchants, the Bank will promptly notify the ISO with details and recommended action steps.",
+    "contradiction_score": 0.0013333420502021909,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 26044,
+    "end_char": 26746,
+    "original": "3.2 Compliance Responsibility . ISO shall be responsible for ensuring that the Application Materials, the marketing plans, the Promotional Materials and all services performed by ISO hereunder comply, and remain in compliance with, all applicable Rules, laws and regulations\u037e provided, however, that SERVICERS will in good faith inform ISO of issues or concerns with ISO\u2019s materials or practices observed by SERVICERS that SERVICERS reasonably believe may be in violation of applicable Rules. All documents and any changes to the form and content thereof must be approved in writing by SERVICERS prior to use by ISO, which approval will not be unreasonably withheld or delayed beyond fifteen (15) days.",
+    "modified": "3.2 Obligation for Compliance Shifted . The Servicers shall bear the primary responsibility for ensuring that all materials, marketing plans, promotional materials, and services provided by them comply, and continue to comply with, all applicable Rules, laws, and regulations. ISO will cooperate and take appropriate action upon being informed, in good faith, by the Servicers about any issues or concerns related to the Servicers' materials or practices that the Servicers reasonably believe may violate applicable Rules. Any documents submitted for use by ISO must be approved in writing by ISO within a reasonable timeframe, which shall not exceed fifteen (15) days, unless otherwise specified.\n\nIn this revised clause, the responsibility for compliance has been shifted from ISO to the Servicers, and the timeframe for approval of documents has been changed to ensure that it is fair to both parties.",
+    "contradiction_score": 0.7912271618843079,
+    "kept": true
+  },
+  {
+    "clause_index": 95,
+    "start_char": 28624,
+    "end_char": 29159,
+    "original": "4.2 Underwriting . ISO shall underwrite, perform a credit review and conduct a site inspection, when applicable, for each Application as required by this Agreement, the Merchant Processing Policy and the Rules to determine whether each Applicant is an Eligible Merchant. ISO may conduct such credit review without notification to and participation by SERVICERS, except as otherwise provided below (i.e., for any *** Omitted pursuant to a confidential treatment request. The confidential portion has  been filed separately with the SEC.",
+    "modified": "4.2 Underwriting . SERVICERS shall facilitate and cooperate with ISO during the underwriting process, including providing necessary information, while ISO retains primary responsibility for conducting credit reviews, site inspections (when applicable), and determining Eligible Merchant status based on this Agreement, the Merchant Processing Policy, and the Rules. ISO may perform these actions without prior notification to or involvement of SERVICERS, except in cases where confidential information is requested, at which point ISO will notify and collaborate with SERVICERS as necessary. Any confidential portions have been filed separately with the SEC for regulatory compliance purposes.",
+    "contradiction_score": 0.915062427520752,
+    "kept": true
+  },
+  {
+    "clause_index": 99,
+    "start_char": 32407,
+    "end_char": 32701,
+    "original": "(a) Change the Merchant Processing Policy\u037e (b) Reject the Application of any Applicant who SERVICERS determine does not satisfy SERVICERS\u2019 Merchant Processing Policy\u037e and *** Omitted pursuant to a confidential treatment request. The confidential portion has  been filed separately with the SEC.",
+    "ollama_generated": "(a) Permit modifications to the Merchant Processing Policy; (b) Decline the Application of any Applicant whom SERVICERS deem fails to meet the requirements outlined within our revised Merchant Processing Policy; and *** Omitted due to a request for confidentiality. The confidential material is stored separately with the SEC.\n\nThe rewritten clause weaken the obligation by permitting modifications instead of strictly adhering to the current policy, and shifts the responsibility from the applicant to SERVICERS in determining whether an applicant satisfies the revised Merchant Processing Policy.",
+    "contradiction_score": 0.006914650090038776,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 36485,
+    "end_char": 36705,
+    "original": "Bank may draw against any Merchant Reserve Account to cover any Losses or credit and fraud losses incurred by SERVICERS with respect to an Approved Merchant without the consent of ISO or the applicable Approved Merchant.",
+    "ollama_generated": "The Applicable Approved Merchant grants permission to Bank to utilize funds from their Merchant Reserve Account for covering any Losses or credit and fraud losses incurred by SERVICERS, only if such use is necessitated, without seeking prior approval from ISO. This clause establishes a proactive approach where the bank can act without consent under specified circumstances, shifting the responsibility to the merchant.",
+    "contradiction_score": 0.030812757089734077,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 36705,
+    "end_char": 36873,
+    "original": "4.5 Maintenance of Underwriting Staff . ISO shall at all times maintain an adequate and qualified staff to perform underwriting and credit reviews of Program Merchants.",
+    "modified": "4.5 Flexibility in Underwriting Personnel Management: The Insured Party (ISO) retains the discretion to manage its underwriting staff size and qualifications, provided that at all times there is a reasonable effort made by ISO to maintain sufficient personnel capable of executing underwriting and credit reviews for Program Merchants.",
+    "contradiction_score": 0.638943612575531,
+    "kept": true
+  },
+  {
+    "clause_index": 122,
+    "start_char": 41986,
+    "end_char": 42155,
+    "original": "6.6 Bank Card Association Assessments/Fees . ISO shall pay or fund when due all Bank Card association assessments/fees, including any and all quarterly assessments/fees.",
+    "modified": "6.6 Bank Card Association Charges: The Merchant (You) shall be responsible for timely payment of all Bank Card association charges, including but not limited to, any and all quarterly assessments or fees that may become due. ISO will reimburse You for these charges upon receipt of a valid invoice and proof of payment.",
+    "contradiction_score": 0.8734205961227417,
+    "kept": true
+  },
+  {
+    "clause_index": 123,
+    "start_char": 42193,
+    "end_char": 42302,
+    "original": "6.7 Survival. The provisions of this Section 6 shall survive the termination or expiration of this Agreement.",
+    "ollama_generated": "6.7 Persistence. The clauses within this Section 6 will persist even following the conclusion or lapse of this Agreement.",
+    "contradiction_score": 0.006167573854327202,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 43501,
+    "end_char": 43665,
+    "original": "SECTION 7 REPRESENTATIONS AND WARRANTIES OF ISO ISO represents and warrants to SERVICERS that, as of the date of this Agreement, the following are true and correct:",
+    "ollama_generated": "SECTION 7 REPRESENTATIONS AND WARRANTIES OF ISO\n\nISO warrants to SERVICERS that, as of the date of this Agreement, the following assertions hold validity and accuracy:\n\n1. ISO's representations and warranties to SERVICERS are based on information available up until the execution of this Agreement. No subsequent events or changes shall alter these representations and warranties unless explicitly agreed upon in writing by both parties.\n\n2. The obligations under this Agreement, to the extent attributable to ISO, are fulfilled on an \"as is\" and \"as available\" basis. ISO makes no guarantees, either express or implied, regarding the completeness, accuracy, or reliability of any information provided in connection with this Agreement. Any representations or warranties concerning such matters shall be at the sole discretion and responsibility of SERVICERS.\n\n3. In the event that any of the representations or warranties made by ISO are found to be untrue, misleading, or incorrect, the maximum liability of ISO towards SERVICERS shall be limited to the amounts paid by SERVICERS to ISO under this Agreement during the 12 months preceding the discovery of the inaccuracy. In no event shall ISO be liable for any indirect, special, incidental, punitive, or consequential damages arising from such inaccuracies.\n\n4. Any and all representations or warranties made by ISO to SERVICERS under this Agreement are expressly conditioned upon SERVICERS having conducted their own due diligence prior to entering into this Agreement and having satisfied themselves as to the accuracy of such representations and warranties. If SERVICERS fail to conduct such due diligence, they shall have no recourse against ISO for any inaccuracies or misrepresentations within the scope of these representations and warranties.\n\n5. All representations and warranties made by ISO under this Agreement are expressly subject to all applicable laws, regulations, and industry standards as they exist at the time of this Agreement's execution. Any breach of these legal requirements shall not constitute a breach of this Section 7, but rather a separate legal issue to be resolved in accordance with applicable law.",
+    "contradiction_score": 0.16948328912258148,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 44130,
+    "end_char": 44699,
+    "original": "7.2 Execution and Effect of Agreement . ISO has the corporate power and authority to enter into this Agreement and the execution and delivery of this Agreement and the performance of ISO\u2019s obligations hereunder have been duly authorized by all necessary corporate action. This Agreement has been duly executed and delivered by ISO and constitutes a legal, valid, and binding obligation of ISO, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium, and other laws affecting the rights of creditors generally.",
+    "ollama_generated": "7.2 Execution and Effect of Agreement . The signatories of XYZ possess the requisite authority to bind their organization to this Agreement. The signing, delivery, and execution of this Agreement as well as the performance of XYZ's obligations herein have been duly authorized by all necessary internal procedures. This Agreement has been legally executed and delivered by XYZ and represents a binding agreement for them, enforceable according to its terms. However, its enforceability may be subject to challenges in cases of bankruptcy, insolvency, reorganization, moratorium, or other laws pertaining to the rights of creditors.\n\nThis revised clause emphasizes the authority of the signatories to bind their organization and clarifies that the Agreement's enforceability might be affected by certain specific legal situations (e.g., bankruptcy).",
+    "contradiction_score": 0.007176780607551336,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 47748,
+    "end_char": 47871,
+    "original": "*** Omitted pursuant to a confidential treatment request. The confidential portion has  been filed separately with the SEC.",
+    "ollama_generated": "The disclosure of certain information in this agreement shall be subject to a non-disclosure agreement, the terms of which have been submitted separately to the SEC for review and approval.",
+    "contradiction_score": 0.012038451619446278,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 52273,
+    "end_char": 52364,
+    "original": "(g) ISO may use one or more of Visa\u2019s or MasterCard\u2019s marks under the following conditions:",
+    "ollama_generated": "(g) Visa or MasterCard grants ISO the right to utilize their respective marks under the following circumstances:\n\n1. ISO's usage of these marks is subject to prior written approval by either Visa or MasterCard, as applicable.\n2. ISO shall be responsible for ensuring that any use of such marks complies with the relevant trademark guidelines and policies set forth by Visa or MasterCard.\n3. In the event that ISO's usage of the marks infringes upon or tarnishes the reputation or goodwill associated with these marks, ISO shall be solely liable for any damages or losses resulting therefrom.\n4. This right to use the marks granted herein is revocable at any time by either Visa or MasterCard, in their sole discretion, should ISO fail to comply with any of the aforementioned conditions or with any applicable trademark guidelines or policies.",
+    "contradiction_score": 0.033081695437431335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 53739,
+    "end_char": 55719,
+    "original": "(i) ISO will not use Visa\u2019s and/or MasterCard\u2019s equipment and software (\u201cV/MC Systems\u201d) and Visa and/or MasterCard information identified or reasonably understood to be confidential or proprietary (\u201cV/MC Confidential Information\u201d) for anything other than to perform its duties on behalf of SERVICERS and definitely not for its own use or for any other purpose\u037e (ii) To treat the V/MC Systems and V/MC Confidential Information in at least as careful and confidential a manner as ISO treats its own or the SERVICERS\u2019 systems and confidential or proprietary information\u037e (iii) To acknowledge that access to the V/MC Systems and V/MC Confidential Information does not convey to ISO any right, title, interest or copyright therein or any license to use, sell, exploit, copy or develop them further\u037e (iv) To limit access to the V/MC Systems and V/MC Confidential Information to only those ISO employees and Other MSP\u2019s with a need to have access for the ISO to perform services under the Program and to implement and maintain reasonable and appropriate safeguards to prevent unauthorized access to or use of the V/MC Systems or V/MC Confidential Information\u037e (v) Solely with respect to the Program and this Agreement, upon request by SERVICERS, or, absent such requests, upon termination of ISO\u2019s performance under the Program, to immediately cease any and all use of V/MC Systems and promptly thereafter deliver to SERVICERS all V/MC Confidential Information then in the possession or control of ISO or, upon request by Visa and/or MasterCard, to immediately cease any and all use of the V/MC Systems and promptly thereafter deliver all V/MC Confidential Information that was provided by SERVICERS then in its possession or control to Visa and/or MasterCard\u037e and (vi) To immediately advise both SERVICERS and Visa and/or MasterCard if any unauthorized person or external entity seeks access to the V/MC Systems or V/MC Confidential Information whether by legal proceeding or otherwise.",
+    "ollama_generated": "(i) ISO acknowledges that it may use Visa's and/or MasterCard's equipment and software (\"V/MC Systems\") and Visa and/or MasterCard information identified or reasonably understood to be confidential or proprietary (\"V/MC Confidential Information\") solely for the performance of its duties on behalf of SERVICERS. However, ISO retains the right to use such resources for its own purposes or other purposes at any time and without prior notice to SERVICERS and Visa/MasterCard, provided that such use does not interfere with its primary obligation to SERVICERS under this Agreement.\n   (ii) ISO agrees to treat the V/MC Systems and V/MC Confidential Information with at least as much care and confidentiality as it treats its own or SERVICERS' systems and confidential or proprietary information, but ISO reserves the right to disclose such information if required by law or a valid court order.\n   (iii) ISO acknowledges that access to the V/MC Systems and V/MC Confidential Information does not convey to ISO any right, title, interest, or copyright therein. However, ISO retains the right to make copies of the V/MC Systems and V/MC Confidential Information for its own backup purposes and shall have a non-exclusive, revocable license to use, sell, exploit, copy, or develop them further during the term of this Agreement.\n   (iv) ISO agrees to limit access to the V/MC Systems and V/MC Confidential Information only to those ISO employees and Other MSP's with a need to have access for the performance of services under the Program. ISO shall implement and maintain reasonable and appropriate safeguards to prevent unauthorized access to or use of the V/MC Systems or V/MC Confidential Information, but ISO does not guarantee the security of such resources and shall not be liable for any unauthorized access that occurs despite its reasonable efforts.\n   (v) Upon termination of ISO's performance under the Program, ISO agrees to immediately cease any and all use of the V/MC Systems and promptly deliver all V/MC Confidential Information then in its possession or control to SERVICERS. However, ISO retains the right to retain copies of such information for its own backup purposes, provided that it does not disclose such information to any third party without the prior written consent of Visa and/or MasterCard.\n   (vi) ISO shall advise both SERVICERS and Visa and/or MasterCard if it becomes aware of any unauthorized person or external entity seeking access to the V/MC Systems or V/MC Confidential Information, but ISO shall not be required to take any action in response to such unauthorized access or attempts thereof.",
+    "contradiction_score": 0.4058082401752472,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 55719,
+    "end_char": 55926,
+    "original": "(j) Visa and/or MasterCard may at any time conduct financial and procedural audits of ISO. ISO agrees to cooperate with and promptly supply Visa and/or MasterCard with all information and material requested.",
+    "ollama_generated": "(j) ISO acknowledges that it may, upon request from Visa and/or MasterCard, be subjected to financial and procedural audits. However, the ISO reserves the right to determine the timing and scope of its response, with the understanding that it shall make every reasonable effort to comply with such requests in a timely manner, while ensuring compliance with applicable laws and regulations regarding confidentiality and data protection.",
+    "contradiction_score": 0.01023512240499258,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 155,
+    "start_char": 56329,
+    "end_char": 56538,
+    "original": "(l) ISO recognizes that SERVICERS must approve (in advance) any fee associated with the Program which must be clearly and conspicuously disclosed in writing to the Merchant prior to any payment or Application.",
+    "ollama_generated": "(m) The Merchant acknowledges that they may be subject to fees related to the Program, which may be determined by ISO at their discretion. Any such fee shall be clearly communicated to the Merchant in writing prior to its implementation. The Merchant's consent to these fees is implied upon their continued participation in the Program.",
+    "contradiction_score": 0.22318699955940247,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 57644,
+    "end_char": 58305,
+    "original": "8.7 Financial Statements/Audit Rights . ISO shall make available (whether through public filings or directly) SERVICERS with annual audited financial statements prepared by an independent auditing firm within 90 days of the end of each fiscal year (and shall make available to SERVICERS quarterly financial statements upon request of SERVICERS). In addition, ISO will provide any shareholder/owner personal financial information as required by the Rules. ISO will, at any and all reasonable times, permit SERVICERS\u2019 employees, agents and/or auditors to inspect ISO\u2019s books and records at SERVICERS\u2019 expense prior request and notice and if for a particular need.",
+    "ollama_generated": "8.7 Access to Financial Statements and Audit Privileges: SERVICERS shall have the right, upon reasonable notice, to request annual audited financial statements prepared by an independent auditing firm from ISO within 90 days following the end of each fiscal year. Furthermore, SERVICERS may, at their discretion, also request quarterly financial statements. ISO reserves the right to withhold the provision of shareholder/owner personal financial information unless explicitly mandated by the Rules or required by law. ISO shall provide access to its books and records for inspection by SERVICERS' employees, agents, or auditors only if such access is deemed necessary and requested in writing, at a time convenient for ISO, and on the condition that ISO shall bear no costs associated with this request.",
+    "contradiction_score": 0.20687107741832733,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 59059,
+    "end_char": 59787,
+    "original": "Page 22 financial, accounting, and credit information\u037e and the terms and conditions of this Agreement. Neither party will disclose, furnish, sell, convey, or use for any purpose other than as contemplated under this Agreement any of the other parties\u2019 Confidential Information or materials without written authorization. For the avoidance of doubt, the parties acknowledge and agree that all Merchant information is the Confidential Information of ISO and (i) may not be used by SERVICERS for any purpose other than to provide the services contemplated hereunder during the term of this Agreement and thereafter, and (ii) will not be used by SERVICERS, directly or indirectly, to solicit any Merchants in the Merchant Portfolio.",
+    "ollama_generated": "Page 22 financial, accounting, and credit information, as well as the terms and conditions of this Agreement, shall remain confidential between the parties, unless expressly authorized in writing. It is understood that all Confidential Information belonging to either party may be shared for purposes defined within this Agreement. However, it is explicitly acknowledged that Merchant information constitutes ISO's Confidential Information, and SERVICERS shall not, under any circumstances, use such data beyond the scope of providing services as outlined herein during the term of this Agreement and thereafter. Furthermore, SERVICERS are prohibited from utilizing this information directly or indirectly to solicit any Merchants within the Merchant Portfolio, either currently or in the future.",
+    "contradiction_score": 0.05320766568183899,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 161,
+    "start_char": 59787,
+    "end_char": 60761,
+    "original": "9.2 Exclusions . Nothing in this Section 9 shall restrict either party with respect to Confidential Information which: (a) the receiving party can demonstrate was rightfully possessed by it before it received the information from the disclosing party\u037e (b) was in the public domain prior to the date of this Agreement or subsequently becomes publicly available through no fault of the receiving party or any person acting on its behalf\u037e (c) was previously received by the receiving party from a third party or is subsequently furnished rightfully to the receiving party by a third party not known to be under restrictions on use or disclosure\u037e (d) is independently developed by such party\u037e (e) is required to be disclosed by the Rules, law, regulation or court order, provided that the disclosing party will exercise reasonable efforts to notify the other party prior to disclosure\u037e or (f) is required to be disclosed to comply with or to enforce the terms of this Agreement.",
+    "modified": "9.2 Limits on Confidentiality Obligations. Notwithstanding any provision in this Section 9, either party shall retain the right to make use of, and disclose, Confidential Information that: (a) was already in possession of the receiving party before obtaining it from the disclosing party; (b) becomes publicly available through no fault or negligence of the recipient or anyone acting on its behalf, prior to or after the Agreement date; (c) was previously obtained by the receiving party from a third party who was not under any obligation of confidentiality, or is subsequently received from such a third party; (d) is independently developed without reference to the Confidential Information; (e) must be disclosed in compliance with applicable laws, rules, regulations or court orders. However, the disclosing party will make reasonable efforts to notify the other party prior to such disclosure, unless otherwise prohibited by law. (f) is necessary for the recipient to enforce its rights under this Agreement, provided that it makes no additional disclosures beyond what is strictly required for enforcing these rights.",
+    "contradiction_score": 0.8140742778778076,
+    "kept": true
+  },
+  {
+    "clause_index": 185,
+    "start_char": 75513,
+    "end_char": 76475,
+    "original": "(e) Notwithstanding anything in this Agreement to the contrary, neither ISO nor SERVICERS nor their Affiliates shall have any liability under this Agreement for breach of their respective duties and obligations under this Agreement to the extent such breach was caused by labor disputes, strikes, acts of God, floods, terrorist acts, lightning, severe weather, shortages of materials, rationing, utility or communication failures or interruptions, failure of MasterCard, Visa, and other networks or Bank Card associations, earthquakes, war, revolution, civil commotion, blockade, embargo, or any law, order, proclamation, regulation, ordinance, demand or requirement having legal effect of any government or any judicial authority or representative of any such government, or any other act, omission or cause whatsoever, whether similar or dissimilar to those referred to in this clause, which are beyond ISO\u2019s, SERVICERS\u2019 or their Affiliates reasonable control.",
+    "ollama_generated": "(e) In contrast to any stipulations within this Agreement, neither ISO nor the SERVICERS nor their Affiliates shall be held accountable for any failures in their respective duties and responsibilities under this Agreement, should such failure be attributable to labor disputes, strikes, acts of nature, floods, acts of terrorism, lightning, extreme weather conditions, shortages of resources, rationing, utility or communication disruptions, failure of MasterCard, Visa, and other networks or Bank Card associations, earthquakes, war, political upheaval, public unrest, blockade, sanctions, embargo, or any law, order, proclamation, regulation, ordinance, demand, or requirement issued by any governmental authority or their representatives, or any incident, omission, or cause, whether similar or dissimilar to those listed in this clause, that falls outside of ISO's, SERVICERS', or their Affiliates reasonable control.",
+    "contradiction_score": 0.005303415469825268,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 76505,
+    "end_char": 76616,
+    "original": "11.4 Survival. The provisions of this Section 11 shall survive the termination or expiration of this Agreement.",
+    "modified": "11.4 Persistence. Although this Agreement may come to an end or complete its term, the obligations outlined within Section 11 shall remain binding and in effect.\n\nThis modification makes the clause clear that the surviving provisions (i.e., those in section 11) continue to apply even after the agreement has ended or expired, emphasizing the permanence of their obligations rather than their survival.",
+    "contradiction_score": 0.9557839632034302,
+    "kept": true
+  },
+  {
+    "clause_index": 188,
+    "start_char": 77206,
+    "end_char": 77673,
+    "original": "12.2 Relationship of the Parties . SERVICERS and ISO agree that in performing their responsibilities pursuant to this Agreement they are in the position of independent contractors. This Agreement is not intended to create, nor does it create and shall not be construed to create, a relationship of partnership or joint venture or agency or any *** Omitted pursuant to a confidential treatment request. The confidential portion has  been filed separately with the SEC.",
+    "ollama_generated": "12.2 Relationship of the Parties . While SERVICERS and ISO acknowledge their mutual obligations under this Agreement, they affirm that in executing these duties, they function as separate and autonomous entities. This Agreement neither implies nor establishes a partnership or joint venture, an agency relationship, or any other form of association beyond that explicitly defined herein. Any implied relationships are expressly excluded. The omitted portion pertaining to the specific type of association has been filed separately with the SEC under confidential treatment.",
+    "contradiction_score": 0.021791430190205574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 195,
+    "start_char": 79449,
+    "end_char": 79610,
+    "original": "First Data Merchant Services Corporation 12500 E. Belford Avenue, Suite M5-C Englewood, CO 80112 Attn: General Counsel Facsimile Number: 720-332-0033 If to Bank:",
+    "modified": "Secondary Data Transactions LLC\n  12500 E. Belford Avenue, Suite M5-C\n  Englewood, CO 80112\n  Attn: Compliance Officer\n  Facsimile Number: (720) 332-0034\n\nShould it become necessary for us to discharge an obligation as outlined in this contract:",
+    "contradiction_score": 0.7813379764556885,
+    "kept": true
+  },
+  {
+    "clause_index": 196,
+    "start_char": 79619,
+    "end_char": 79641,
+    "original": "Wells Fargo Bank, N.A.",
+    "ollama_generated": "Borrower acknowledges and agrees that Wells Fargo Bank, N.A., as the Lender, shall not be held liable for any delays or disruptions in the provision of services due to factors beyond its reasonable control, such as acts of God, government actions, system failures, or other unforeseeable events. The Borrower understands that this circumstance shall not constitute a breach of contract on the part of Wells Fargo Bank, N.A., and the Borrower remains responsible for fulfilling all obligations under the terms of this Agreement during such instances.",
+    "contradiction_score": 0.00952837709337473,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 206,
+    "start_char": 81037,
+    "end_char": 81392,
+    "original": "12.8 Waivers. No failure or delay by any party to exercise, and no course of dealing regarding any right of the party concerning an obligation of any other party to this Agreement, shall operate as a waiver unless agreed to in writing by all parties. The parties hereto waive their right to a jury trial in the event of any legal proceedings between them.",
+    "ollama_generated": "12.8 Waivers and Amendments. Any forbearance or tardiness by any party, without explicit, written consent from all parties, shall not be construed as a waiver of their respective rights under this Agreement concerning the performance of any obligation. The parties acknowledge and explicitly waive their right to demand a jury trial in the event of any legal disputes arising between them, opting instead for a binding arbitration process as the resolution mechanism.",
+    "contradiction_score": 0.03911912068724632,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 209,
+    "start_char": 82407,
+    "end_char": 82629,
+    "original": "12.11 Headings . The Section headings of this Agreement are inserted as a matter of convenience only and shall in no way define, limit, extend or describe the scope of this Agreement or the intent of any provisions herein.",
+    "ollama_generated": "12.11 Headings: For ease of reference, the headings included throughout this Agreement serve merely to organize its contents and do not serve to delineate or construe the scope of this Agreement, nor do they influence the interpretation of any provisions contained herein.",
+    "contradiction_score": 0.0006706510321237147,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 210,
+    "start_char": 82629,
+    "end_char": 83052,
+    "original": "12.12 Counterparts . Provided that all parties execute a copy of this Agreement, this Agreement may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. The parties acknowledge that delivery of executed copies of this Agreement may be effected by facsimile or other comparable means, as well as by delivery of manually signed copies.",
+    "ollama_generated": "12.12 Counterparts . Each party's execution of a copy of this Agreement is sufficient to bind all parties, and this Agreement can be executed in multiple counterparts. These separate signed documents will each be considered an original, with all collectively forming a single, unified instrument. The parties understand that transmission of executed copies of this Agreement may occur through various methods, including but not limited to facsimile, email, or courier service, as well as by traditional means such as hand-delivered signed copies.",
+    "contradiction_score": 0.0023055020719766617,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 213,
+    "start_char": 83602,
+    "end_char": 84187,
+    "original": "12.15 Termination of Other Agreements . The following agreements are herby terminated without penalty to any party and are of no further force and effect: (i) the TS ISO Agreement\u037e and (ii) the PCS ISO Agreement\u037e provided, however, that neither the termination of the TS ISO Agreement or the PCS ISO Agreement nor anything contained in this Agreement shall act as a waiver or otherwise preclude FDMS from reconciling and/or collecting any billing, residual or other fee-related issues under either the TS ISO Agreement or the PCS ISO Agreement except where otherwise agreed to by FDMS.",
+    "ollama_generated": "12.15 Termination of Other Agreements . The following agreements are hereby terminated without penalty incurred by any party and shall no longer have any binding force or effect: (i) the TS ISO Agreement; and (ii) the PCS ISO Agreement. Notwithstanding, the termination of the TS ISO Agreement or the PCS ISO Agreement, or any provisions within this Agreement, does not constitute a waiver by FDMS to pursue resolution for any outstanding billing, residual, or fee-related disputes under either the TS ISO Agreement or the PCS ISO Agreement; such pursuit is not precluded unless explicitly agreed upon in writing by FDMS.\n\nIn this revised clause, I have maintained the original meaning but slightly altered it to emphasize that FDMS retains the right to pursue any outstanding fee-related disputes under either of the terminated agreements, unless an explicit written agreement to the contrary is reached.",
+    "contradiction_score": 0.026898587122559547,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 219,
+    "start_char": 85062,
+    "end_char": 85112,
+    "original": "\u2022 All sexually oriented or pornographic merchants:",
+    "ollama_generated": "\u2022 Merchants peddling materials of a sexually explicit nature shall be obligated to:\n\n1. Exercise due diligence in ensuring that their products are marketed, labeled, and distributed in compliance with all applicable laws and regulations, and industry standards.\n2. Immediately cease distribution of any materials deemed by us, at our sole discretion, to be offensive, harmful, or otherwise contrary to the moral standards we uphold, upon notice.\n3. Indemnify and hold harmless the Company, its affiliates, and their respective officers, directors, employees, agents, representatives, successors, and assigns from any and all claims, damages, liabilities, costs, and expenses, including reasonable attorneys' fees, arising out of or in connection with the distribution, marketing, or sale of sexually oriented or pornographic materials.\n4. Cooperate fully and promptly with us, upon request, in any investigation, inquiry, or legal proceeding relating to such materials, providing all requested information and assistance.\n5. Maintain accurate and detailed records regarding the source, distribution, sales, and other relevant aspects of their sexually oriented or pornographic materials for a period of not less than five (5) years from the date of shipment or delivery. These records shall be made available for inspection by us upon request.\n6. Agree that any disputes arising out of or in connection with this agreement, including those related to sexually oriented or pornographic materials, shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. This clause shall survive any termination or expiration of this agreement.\n7. Understand that failure to comply with any of these obligations may result in the termination or suspension of their merchant account and other legal action, at our sole discretion.",
+    "contradiction_score": 0.01845412887632847,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 220,
+    "start_char": 85112,
+    "end_char": 86407,
+    "original": "\u2014 Adult telephone conversations or Internet  \u2013 Modeling agencies \u2014 Massage parlors  \u2013 Adult book stores \u2014 Misc. entertainment (not elsewhere classified)  \u2013 Topless bars/clubs \u2022 Any illegal products/services \u2022 Any service providing peripheral support of illegal activities (i.e., drugs) \u2022 Chain letters \u2022 Collection agencies or firms involved in recovering/collecting past due receivables \u2022 Drug paraphernalia \u2022 Free gift, prize, sweepstakes or contest as an inducement to purchase a product/service \u2022 \u201cGet-rich-quick\u201d schemes \u2022 Lotteries and/or illegal gambling, including Internet gambling \u2022 Sports forecasting or odds-making \u2022 Merchants offering rebates or special incentives \u2022 Credit card protection (including identity theft protection) \u2022 Extended warranty companies \u2022 Non-face to face tobacco sales \u2022 Non-face to face prescription drug sales \u2022 Non-face to face sales of firearms \u2022 Aggregators/Internet Payment Service Providers/Third Party Payment Processors \u2022 Audio/Video Text \u2022 Airlines \u2022 Cruise lines \u2022 Travel Agents/Tour Operators \u2022 Money transfer services \u2022 Check cashing \u2022 Currency exchange \u2022 Dating Services \u2022 Pseudo-pharmaceuticals (anti-aging pills, sex nutrients, etc.) \u2022 Outbound telemarketing \u2022 \u201cUp-sell\u201d Merchants Exhibit B, Page 1 EXHIBIT C APPLICATION MATERIALS See Attached.",
+    "ollama_generated": "\u2014 Adult conversations via telephone or Internet \u2014 Entertainment establishments such as modeling agencies, massage parlors, adult bookstores, and topless bars \u2014 Miscellaneous entertainment (not elsewhere classified) \u2013 Entertainment venues offering nudity or adult-themed performances  \u2022 Any services or products deemed illegal by applicable law   \u2022 Services directly facilitating or promoting illegal activities, including but not limited to the sale, manufacture, or distribution of drugs     \u2022 Schemes promising quick wealth or financial gain      \u2022 Pyramid selling schemes or multi-level marketing opportunities   \u2022 Gambling, lotteries, sports betting, or Internet gambling    \u2022 Merchants or services offering rebates, incentives, or rewards for purchases   \u2022 Credit protection or identity theft protection services     \u2022 Companies providing extended warranties       \u2022 Sales of tobacco, prescription drugs, firearms, or other regulated goods not conducted face-to-face   \u2022 Payment aggregators, Internet Payment Service Providers, and Third Party Payment Processors    \u2022 Audio/Video Text services, airlines, cruise lines, travel agencies, tour operators   \u2022 Money transfer services, check cashing, currency exchange    \u2022 Online dating services                  \u2022 Products marketed as pseudo-pharmaceuticals (anti-aging supplements, sexual enhancement pills)     \u2022 Outbound telemarketing, cold calls for unsolicited services or products   \u2022 Merchants using \"upsell\" tactics in their sales strategies\n\nExhibit C - Application Materials. Please see attached.",
+    "contradiction_score": 0.029971923679113388,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 225,
+    "start_char": 89590,
+    "end_char": 91589,
+    "original": "5969  Direct Marketing \u2014 Other Direct Marketers (Not Elsewhere Classified) Including Infomercials 5972  Stamp, Coin Stores, Stamp Collecting \u2014 Philatelic, Numismatic Supplies 6211  Securities Brokers, Mutual Funds, Stocks, Commodities, Bonds 6300  Insurance Sales, Underwriting, and Premiums 6513  Real Estate Agents, Brokers, Managers 7032  Camps \u2014 Sporting, Recreational 7033  Camping \u2014 Trailer Parks, Campgrounds 7273  Dating / Escort Services 7297  Massage Parlors 7298  Health & Beauty Spas 7372  Computer Programming, Data Processing, and Integrated Systems Design Services 7375  Information Retrieval Services 7379  Computer Maintenance, Repair & Services \u2014 (Wholesale) 7829  Motion Picture and Video Tape Production and Distribution \u2014 (Wholesale) 7922  Theatrical Producers/Productions (except Motion Pictures) and Ticket Agencies Exhibit F, Page 2 MCC  MERCHANT TYPE 7929  Bands, Orchestras, and Miscellaneous Entertainers, Not Elsewhere Classified 7941  Commercial Sports, Professional Sports Clubs, Athletic Fields, and Sports Promoters 7997  Health Clubs, Country Clubs, Membership (Athletic, Recreation, Sports), Private Golf Courses 8241  Correspondence School 8244  Business & Secretarial Schools 8249  Trade & Vocational Schools 8299  Schools & Educational Services-Not Elsewhere Classified 8398  Organizations \u2014 Charitable, Social Service, Non-Political 8641  Associations \u2014 Civic, Social. Fraternal Associations 8651  Political Organizations 8661  Religious Organizations 8675  Automobile Associations, Automobile Clubs 8699  Membership Organizations \u2014 Not Elsewhere Classified 8734  Testing Laboratories (Non-Medical) 9211  Court Costs, Including Alimony, Child Support 9222  Fines 9223  Bail, Bond Payments 9311  Tax Payments 9399  Government Services \u2014 Not Elsewhere Classified 9401  Food Stamps 9402  Postal Services \u2014 U.S. Government 9700  Automated Referral Service Exhibit F, Page 3 EXHIBIT G ADDITIONAL TERMS AND CONDITIONS FOR POS NETWORKS MERCHANT SPONSORSHIP 1. General.",
+    "modified": "5969a  Direct Marketing \u2014 Reverse Marketing (Previously Unclassified) Including Infomercials 5972a  Stamp, Coin Stores, Stamp Collecting \u2014 Philatelic, Numismatic Services 6211a  Securities Brokers, Mutual Funds, Stocks, Commodities, Bonds (Service Provider Obligations) 6300a  Insurance Sales, Underwriting, and Premiums (Responsibility Shifted to Merchant) 6513a  Real Estate Agents, Brokers, Managers (Merchant Obligation to Provide Property Details) 7032a  Camps \u2014 Sporting, Recreational (Merchant Responsible for Compliance with Regulations) 7033a  Camping \u2014 Trailer Parks, Campgrounds (Reverse Liability for Maintenance and Safety) 7273a  Dating / Escort Services (Merchant to Provide Risk Disclosure Statement) 7297a  Massage Parlors (Merchant's Obligation to Ensure Compliance with Local Laws) 7298a  Health & Beauty Spas (Merchant Liability for Product or Service Quality) 7372a  Computer Programming, Data Processing, and Integrated Systems Design Services (Service Provider Liability for Software Bugs) 7375a  Information Retrieval Services (Merchant's Obligation to Obtain User Consent) 7379a  Computer Maintenance, Repair & Services \u2014 (Wholesale) (Merchant Responsible for Equipment Damage) 7829a  Motion Picture and Video Tape Production and Distribution \u2014 (Wholesale) (Producer's Liability for Copyright Infringement) 7922a  Theatrical Producers/Productions (except Motion Pictures) and Ticket Agencies (Merchant Responsible for Event Cancellation or Delays) 7929a  Bands, Orchestras, and Miscellaneous Entertainers, Not Elsewhere Classified (Merchant to Provide Artist Availability Information) 7941a  Commercial Sports, Professional Sports Clubs, Athletic Fields, and Sports Promoters (Merchant Liability for Injuries During Events) 7997a  Health Clubs, Country Clubs, Membership (Athletic, Recreation, Sports), Private Golf Courses (Merchant's Obligation to Maintain Facilities) 8241a  Correspondence School (Service Provider Liability for Student Achievement) 8244a  Business & Secretarial Schools (Merchant Responsible for Accreditation Status) 8249a  Trade & Vocational Schools (Merchant Obligation to Disclose Graduation Rates and Job Placement Statistics) 8299a  Schools & Educational Services-Not Elsewhere Classified (Service Provider Liability for Teacher Quality) 8398a  Organizations \u2014 Charitable, Social Service, Non-Political (Merchant's Obligation to Submit Annual Audited Financial Reports) 8641a  Associations \u2014 Civic, Social. Fraternal Associations (Service Provider Liability for Member Expulsion Disputes) 8651a  Political Organizations (Merchant Responsibility for Campaign Finance Compliance) 8661a  Religious Organizations (Merchant's Obligation to Provide Tax Exempt Documentation) 8675a  Automobile Associations, Automobile Clubs (Merchant Liability for Roadside Assistance Service Quality) 8699a  Membership Organizations \u2014 Not Elsewhere Classified (Service Provider Liability for Member Dismissal Disputes) 8734a  Testing Laboratories (Non-Medical) (Merchant's Obligation to Ensure Accuracy of Results) 9211a  Court Costs, Including Alimony, Child Support (Merchant Responsibility for Payment Verification) 9222a  Fines (Merchant Liability for Non-Payment) 9223a  Bail, Bond Payments (Merchant's Obligation to Obtain Legal Advice Prior to Payment) 9311a  Tax Payments (Service Provider Liability for Penalties or Interest Accrued) 9399a  Government Services \u2014 Not Elsewhere Classified (Merchant Responsibility for Compliance with Regulations) 9401a  Food Stamps (Service Provider Liability for Benefit Overpayments) 9402a  Postal Services \u2014 U.S. Government (Merchant's Obligation to Provide Proper Address Information) 9700a  Automated Referral Service Exhibit F, Page 3 EXHIBIT G ADDITIONAL TERMS AND CONDITIONS FOR POS NETWORKS MERCHANT SPONSORSHIP 1. General.\n\n(Note: This revised clause shifts responsibilities and obligations to the merchant in various categories of businesses, while maintaining a professional and realistic tone.)",
+    "contradiction_score": 0.6125567555427551,
+    "kept": true
+  },
+  {
+    "clause_index": 226,
+    "start_char": 91589,
+    "end_char": 92297,
+    "original": "1.1. ISO desires to deploy and service (or cause to be deployed and serviced), at merchant locations, terminals (\u201cPOS Terminals\u201d) that will be connected to the shared electronic funds transfer networks set forth on Schedule A to this Exhibit G, as it may be amended from time to time by FDMS in its sole discretion (the \u201cDebit Networks\u201d), to transmit point of sale transactions (\u201cPOS Transactions\u201d) generated by these POS Terminals through the Debit Networks\u2019 telecommunications and processing systems which effectuate the switching, processing and settlement of transactions (\u201cDebit Network Systems\u201d). (The services described in this paragraph shall be referred to in this Exhibit G as the \u201cPOS Services.\u201d).",
+    "modified": "1.1. The Merchant agrees to facilitate and ensure compatibility with the terminals (\"Merchant Terminals\"), at their respective locations, for connection to the shared electronic funds transfer networks as outlined on Schedule A to this Exhibit G, which may be amended unilaterally by FDMS in its discretion (the \"Debit Networks\"). The Merchant Terminals will transmit point of sale transactions (\"POS Transactions\") generated by these terminals through the Debit Networks' telecommunications and processing systems, which include switching, processing, and settlement capabilities collectively known as the \"Debit Network Systems.\" (The duties described in this section shall be referred to in this Exhibit G as the \"Network Compatibility Obligations.\")\n\nIn case of any discrepancies or interpretations, this revised clause signifies that the responsibility for maintaining and deploying the POS Terminals is shifted from ISO to the Merchant. The Merchant is now responsible for ensuring their terminals are compatible with the networks specified in the agreement, and the clause has been renamed \"Network Compatibility Obligations\" to reflect this change.",
+    "contradiction_score": 0.5724588632583618,
+    "kept": true
+  }
+]

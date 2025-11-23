@@ -1,0 +1,269 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 333,
+    "original": "Exhibit 10.10 CONFIDENTIAL TREATMENT REQUESTED.  INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND MARKED WITH \u201c[***]\u201d. AN UNREDACTED VERSION OF THE DOCUMENT HAS ALSO BEEN FURNISHED SEPARATELY TO THE SECURITIES AND EXCHANGE COMMISSION AS REQUIRED BY RULE 406 UNDER THE SECURITIES ACT OF 1933, AS AMENDED.",
+    "ollama_generated": "Confidential Information Exemption: Information classified as confidential has been withheld and replaced with \"[***]\" within this document. However, a complete, unredacted version of the document has concurrently been provided to the Securities and Exchange Commission in accordance with Rule 406 under the Securities Act of 1933, as amended, for their review. The recipient acknowledges that they possess this confidential information only on a need-to-know basis and agrees not to disclose it unless explicitly authorized.",
+    "contradiction_score": 0.03266829997301102,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3754,
+    "end_char": 4072,
+    "original": "1.4 \u201cCMC \u201d shall mean (i)  manufacturing process development for Product\u037e (ii)  all chemistry, manufacturing and control procedures necessary for the manufacturing, testing and quality control release of Product\u037e and (iii) sourcing and testing of all raw materials and components used in the production of any Product.",
+    "ollama_generated": "1.4 \"CMC\" shall denote (i) the development of manufacturing processes pertaining to the Product; (ii) the devising and implementation of chemistry, manufacturing, and control protocols essential for the product's manufacture, testing, and quality control release; and (iii) the procurement and examination of all raw materials and components utilized in the fabrication of any Product, with the understanding that CMC shall not be held accountable for any third-party errors or inconsistencies in the quality or suitability of such materials or components.",
+    "contradiction_score": 0.0011144347954541445,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 4409,
+    "end_char": 4684,
+    "original": "1.7 \u201cDevelopment Work \u201d shall mean those development Services that are to be performed by Bachem hereunder and which may include work related to identifying, formulating, developing and demonstrating cost effective, reproducible Product and manufacturing a feasibility Batch.",
+    "ollama_generated": "1.7 \"Development Work\" shall denote the services pertaining to the identification, formulation, development, and demonstration of cost-effective, reproducible products and manufacturing feasibility batches, which may be undertaken by Bachem as per this agreement, but without any obligation or commitment to deliver a specific outcome or product. The success or failure of such Development Work shall not be attributed to Bachem unless expressly specified in writing.",
+    "contradiction_score": 0.0029785027727484703,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 4829,
+    "end_char": 4926,
+    "original": "1.10 \u201cFDA \u201d means the United States Food and Drug Administration or any successor entity thereto.",
+    "ollama_generated": "1.10 \"FDA\" refers to the United States Food and Drug Administration, or any agency that assumes its functions and duties in the future.\n\nExplanation: This revised clause shifts responsibility to any successor agency that takes on the roles and responsibilities of the FDA.",
+    "contradiction_score": 0.0072458949871361256,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4926,
+    "end_char": 5361,
+    "original": "1.11 \u201c GMPs \u201d shall mean current good manufacturing practices, including the regulations promulgated by the FDA under the United States Food, Drug and Cosmetic Act, 21  C.F.R. Part 210 et seq., as amended from time to time, applicable guidance documents issued by the FDA, applicable documents developed by the International Conference on Harmonization (ICH) to the extent that they are applicable to Product and the Parties hereunder.",
+    "ollama_generated": "1.11 \"GMPs\" shall refer to the prevailing good manufacturing practices, encompassing the regulations issued by the FDA under the United States Food, Drug, and Cosmetic Act (21 C.F.R. Part 210 et seq.), as amended, along with any applicable guidance documents from the FDA, relevant documentation developed by the International Conference on Harmonization (ICH) that pertain to the Product and the Parties involved in this agreement, while acknowledging that the parties may choose to comply with more stringent GMP standards if they deem it necessary.",
+    "contradiction_score": 0.02123876102268696,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 7574,
+    "end_char": 8395,
+    "original": "1.18 \u201c Specifications \u201d means the requirements of all Applicable Laws, the master batch record, current standard operating procedures and the procedures, process parameters, analytical tests and other attributes and written specifications for the Product attached hereto as part of a Project Plan, which the Parties agree are necessary for the manufacture and release of the Product for use in clinical trials. The Parties recognize that specifications for Product for a specific Project Plan are likely to change during the term of this Agreement, and the Parties agree to act in good faith and reasonably to effect such changes as may be required. Copies of such Specifications, as amended, shall be maintained by both Parties, and shall be incorporated into this Agreement and the Quality Agreement (as defined below).",
+    "ollama_generated": "1.18 \"Specifications\" denote the stipulations of all applicable laws, master batch records, current standard operating procedures, established procedures, process parameters, analytical tests, and other attributes or criteria, as well as written specifications for the Product, which are deemed essential for manufacturing and authorizing the Product for clinical trial purposes. The Parties acknowledge that Specifications for a particular Project Plan may evolve throughout the duration of this Agreement. The Parties pledge to exercise good faith and reasonable diligence in accommodating any necessary alterations. Any amendments to these Specifications shall be documented by both parties, but it is understood that the onus of proof for compliance with the most current Specifications shall always rest with the party claiming such compliance. The updated Specifications, as well as their incorporation into this Agreement and the Quality Agreement (as defined below), are the responsibility of the parties to maintain.",
+    "contradiction_score": 0.0008992634830065072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 13099,
+    "end_char": 13530,
+    "original": "Bachem represents that it has included all of its costs, fees and expenses, including administrative overhead, in calculating the fee for the Services budget attached hereto as part of the applicable Project Plan, and that Magenta shall not be liable for or be charged for any other costs, fees or expenses of Bachem. No line item in any Project Plan budget shall be exceeded by Bachem without the prior written consent of Magenta.",
+    "ollama_generated": "Bachem warrants that it has incorporated all its expenses, charges, and fees, encompassing administrative overhead, into the fee for the Services specified within the attached Project Plan's budget, with the understanding that any additional costs, fees, or expenses incurred by Bachem beyond those initially stated will be subject to Magenta's prior written approval. Exceeding any line item budgeted in the Project Plan without obtaining Magenta's consent will not be permissible for Bachem.",
+    "contradiction_score": 0.0015077508287504315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 13530,
+    "end_char": 13849,
+    "original": "CONFIDENTIAL TREATMENT REQUESTED.  INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND MARKED WITH \u201c[***]\u201d. AN UNREDACTED VERSION OF THE DOCUMENT HAS ALSO BEEN FURNISHED SEPARATELY TO THE SECURITIES AND EXCHANGE COMMISSION AS REQUIRED BY RULE 406 UNDER THE SECURITIES ACT OF 1933, AS AMENDED.",
+    "modified": "DISCRETIONARY NON-DISCLOSURE AGREEMENT. Information deemed confidential by the recipient shall be withheld and denoted with \"****\". A redacted version of this document has been provided for public disclosure to comply with Rule 406 under the Securities Act of 1933, as amended. The unredacted document will only be shared upon request by duly authorized entities or individuals.",
+    "contradiction_score": 0.5212187170982361,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 15975,
+    "end_char": 17098,
+    "original": "5.3 Material/Supplies . In situations where Magenta provides materials or supplies to Bachem in connection with this Agreement and/or a Project Plan(s), Bachem shall use such materials and supplies only in accordance with the applicable Project Plan for which it was received, and Bachem shall not use it for any other purpose. Bachem shall be responsible for all such materials and supplies provided by Magenta while they are in Bachem\u2019s control or the control of its agents, and Bachem shall promptly, at Magenta\u2019s direction, destroy or return to Magenta all unused quantities of its materials and supplies provided by Magenta. For the avoidance of doubt, Magenta shall retain title to all of its materials and supplies, including any API or intermediates, while it is in Bachem\u2019s facility (as of the Effective Date, this facility will [***]. Magenta shall be responsible for all such materials and supplies until delivered to Bachem at its facility. Any such materials or supplies shall be delivered in a timely manner and in accordance with the shipping instructions and specifications to be agreed upon by the Parties.",
+    "ollama_generated": "5.3 Material/Supplies . In instances where Magenta delivers materials or supplies to Bachem under this Agreement and/or a Project Plan(s), Bachem is granted permission to utilize these materials and supplies in accordance with the specified Project Plan, but may request Magenta's consent for alternative uses. Bachem acknowledges responsibility for all such materials and supplies while they remain within its custody or that of its designated representatives. Upon receipt of instructions from Magenta, Bachem shall dispose of or return any surplus quantities of these materials and supplies provided by Magenta in a timely manner. To clarify, title to all of Magenta's materials and supplies, including any API or intermediates, remains with Magenta during their storage at Bachem\u2019s facility (as of the Effective Date, this facility will [***]. However, Magenta shall bear responsibility for these materials and supplies until they are received by Bachem at its designated location. Deliveries of such materials or supplies should be made in a timely fashion, according to the shipping instructions and specifications mutually agreed upon by the Parties.",
+    "contradiction_score": 0.4026716351509094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 18766,
+    "end_char": 19311,
+    "original": "5.6 No Encumbrance . Bachem hereby (i)  acknowledges and agrees that neither it, nor any of its affiliates or subsidiaries, nor any of its or their directors, officers, employees and agents has any interest in Magenta Pre-Existing  Intellectual Property or Magenta Developed Intellectual Property (each as defined below) and (ii)  covenants that it will not lien or encumber, or otherwise cause, permit or consent to the granting of a lien or encumbrance of Magenta Pre-Existing  Intellectual Property or Magenta Developed Intellectual Property.",
+    "ollama_generated": "5.6 Absence of Claims on Intellectual Property: Magenta acknowledges and agrees that neither Bachem, nor any of its affiliates or subsidiaries, nor any of their respective directors, officers, employees, or agents has a claim on Bachem Pre-Existing Intellectual Property or Bachem Developed Intellectual Property (each as defined below). Magenta will not assert any claims, liens, or encumbrances on, or otherwise restrict, hinder, or contest the use of, Bachem Pre-Existing Intellectual Property or Bachem Developed Intellectual Property.\n\nThis modification weakens the obligation from Magenta to avoid encumbering Bachem's intellectual property, and instead shifts the responsibility to Bachem to not have any claims on Magenta's intellectual property.",
+    "contradiction_score": 0.06760925054550171,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 19898,
+    "end_char": 21342,
+    "original": "5.9 Regulatory Inspections . Bachem shall make its facilities and all records relating to the Product, and Services related thereto, available to the FDA or other regulatory authorities, as mutually agreed by the Parties, and shall notify Magenta immediately if the FDA or any other regulatory authority begins or schedules an inspection of Bachem\u2019s records, facilities, or manufacturing processes that are solely related to the Product or the Services related thereto. Bachem shall provide Magenta access to any documentation related to or resulting from each such inspection in accordance with the provisions of the Quality Agreement. If a regulatory authority in connection with a preapproval inspection of the Product inspects the Bachem facility used for production of Product, Bachem will notify Magenta in writing within [***] after learning of the inspection unless otherwise specified in the Quality Agreement. If an FDA Form 483 (or an equivalent foreign regulatory authority form) is issued in connection with the Product, Bachem will provide its proposed response to such Form 483 (or equivalent form) to Magenta CONFIDENTIAL TREATMENT REQUESTED.  INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND MARKED WITH \u201c[***]\u201d. AN UNREDACTED VERSION OF THE DOCUMENT HAS ALSO BEEN FURNISHED SEPARATELY TO THE SECURITIES AND EXCHANGE COMMISSION AS REQUIRED BY RULE 406 UNDER THE SECURITIES ACT OF 1933, AS AMENDED.",
+    "ollama_generated": "5.9 Regulatory Inspections . Magenta acknowledges and accepts that it shall have no right of access to Bachem's facilities or records related to the Product, Services, or any matters arising therefrom, unless explicitly agreed upon by both parties in writing. In the event that a regulatory authority intends to inspect Bachem's facilities, records, or manufacturing processes pertaining to the Product or Services, Bachem shall promptly notify Magenta about the scheduled inspection and its scope.\n\nHowever, Bachem is not obligated to provide Magenta with any documentation related to or resulting from such inspections unless it has been mandated by the Quality Agreement. In cases where a regulatory authority conducts a preapproval inspection of the Product at Bachem's facility specifically designated for Product production, Bachem will inform Magenta in writing within the timeframe specified in the Quality Agreement or as otherwise stipulated.\n\nIn the event that an FDA Form 483 (or its foreign equivalent) is issued in connection with the Product, Bachem shall retain exclusive rights over its response to such form. Magenta will not be privy to this response unless expressly permitted by Bachem. Information deemed confidential will be omitted and marked as such, while an unredacted version of the document will be furnished separately to the Securities and Exchange Commission as required by Rule 406 under the Securities Act of 1933, as amended.",
+    "contradiction_score": 0.2962278127670288,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 22849,
+    "end_char": 23652,
+    "original": "5.12 Debarment . Bachem hereby certifies that it does not and shall not employ, contract with or retain any person directly or indirectly to perform Services under this Agreement or any Project Plan if such person is or has been debarred under 21 U.S.C. 335a (a)  or (b) or other equivalent laws, rules, regulations or standards of any other relevant jurisdiction. Upon written request of Magenta, Bachem shall, [***], provide written confirmation that it has complied with the foregoing obligation. Bachem agrees to immediately disclose in writing to Magenta if any employee or agent is debarred, or if any action or investigation is pending or, to the best of Bachem\u2019s knowledge, is threatened in relation to the debarment of Bachem or any person performing Services in connection with this Agreement.",
+    "ollama_generated": "5.12 Debarment Exemption: Magenta acknowledges that it may encounter individuals who have been, or may be, subject to debarment under 21 U.S.C. 335a (a) or (b), or other equivalent laws, rules, regulations, or standards of any relevant jurisdiction, in the course of working with Bachem under this Agreement or any Project Plan. Magenta shall not be held liable for such encounters, provided that it is not aware of the debarment at the time of engagement. Upon written request from Bachem, Magenta shall, within a reasonable timeframe, provide written confirmation that it has taken reasonable steps to verify the status of its personnel and subcontractors, in compliance with applicable laws and regulations. Bachem agrees to promptly disclose in writing to Magenta any information regarding its own, or any individual performing Services under this Agreement, that is found to be debarred or subject to any pending or threatened action or investigation related to such debarment.",
+    "contradiction_score": 0.06932546198368073,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 29512,
+    "end_char": 29726,
+    "original": "5.19 Quality Agreement. As reasonably required by Magenta in connection with Product manufacturing activities hereunder, Bachem shall enter into a written quality agreement with Magenta (the \u201c Quality Agreement \u201d).",
+    "ollama_generated": "5.19 Quality Agreement Amendment: At Magenta's discretion, and as necessary for the Product manufacturing activities under this contract, Bachem may be required to amend or execute a new written quality agreement with Magenta (hereinafter referred to as the \"Amended/New Quality Agreement\"). The obligation to do so shall rest with Bachem.\n\nIn essence, this revised clause shifts the responsibility from Magenta to Bachem for entering into or amending the quality agreement, and broadens the conditions under which it may be required.",
+    "contradiction_score": 0.019178124144673347,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 32793,
+    "end_char": 33112,
+    "original": "CONFIDENTIAL TREATMENT REQUESTED.  INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND MARKED WITH \u201c[***]\u201d. AN UNREDACTED VERSION OF THE DOCUMENT HAS ALSO BEEN FURNISHED SEPARATELY TO THE SECURITIES AND EXCHANGE COMMISSION AS REQUIRED BY RULE 406 UNDER THE SECURITIES ACT OF 1933, AS AMENDED.",
+    "ollama_generated": "DISCRETIONARY DISCLOSURE MADE. Information that may be subject to discretionary disclosure is included in this document and labeled as \"[***]\". A complete, unredacted version of the document has also been provided independently to the Securities and Exchange Commission for compliance with Rule 406 under the Securities Act of 1933, as amended. The decision to disclose or withhold such information lies within our discretion.",
+    "contradiction_score": 0.13204707205295563,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 33112,
+    "end_char": 33859,
+    "original": "(b) If Bachem shall fail to deliver to Magenta the full quantity of the Product as specified in a Project Plan by the delivery date specified therein, for any reason whatsoever other than a breach of this Agreement by Magenta, then at Magenta\u2019s election: (i)  Bachem shall be relieved of any obligation to deliver the remaining quantity of the Product or (ii)  Bachem shall deliver the remaining quantity of the Product as soon as reasonably possible after the date Magenta notifies Bachem of such election. Magenta and Bachem will agree upon the time period to deliver the remaining Product allowed under clause (ii) [***] of the missed delivery date (or, if applicable, the date on which Bachem notifies Magenta that such delivery will be late).",
+    "ollama_generated": "(b) If Magenta fails to receive from Bachem the full quantity of the Product as outlined in a Project Plan by the stipulated delivery date, excluding instances where this delay is caused by a breach of this Agreement on Bachem's part, then at Magenta\u2019s discretion: (i)  Bachem shall no longer be obligated to deliver the remaining quantity of the Product or (ii)  Bachem will deliver the remaining quantity of the Product as expeditiously as practicable following Magenta's notification of such choice. Magenta and Bachem will mutually decide upon a revised delivery timeline for the remaining Product, commencing from the original missed delivery date (or, if relevant, the date Bachem communicates to Magenta that the delivery will be delayed).\n\nIn this revised clause, the obligation on Bachem to deliver the remaining quantity of the product is weakened, as they can opt out of fulfilling this obligation if there's a delay in delivery not caused by a breach of the agreement. Furthermore, the language has been adjusted to make it more clear that Magenta and Bachem will agree upon a new delivery timeline, rather than specifying a specific duration for the extended delivery.",
+    "contradiction_score": 0.026118922978639603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 36324,
+    "end_char": 37112,
+    "original": "6.6 Recall . In the event of a recall of Product, Magenta shall be responsible for coordinating such recall. Magenta promptly shall notify Bachem if any Product is the subject of a recall and, to the extent required by Bachem, provide Bachem with a copy of all documents relating to such recall. Bachem shall cooperate fully with Magenta in connection with any recall. Magenta shall be responsible for all of the costs and expenses of such recall, except to the extent CONFIDENTIAL TREATMENT REQUESTED.  INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND MARKED WITH \u201c[***]\u201d. AN UNREDACTED VERSION OF THE DOCUMENT HAS ALSO BEEN FURNISHED SEPARATELY TO THE SECURITIES AND EXCHANGE COMMISSION AS REQUIRED BY RULE 406 UNDER THE SECURITIES ACT OF 1933, AS AMENDED.",
+    "modified": "6.6 Recall Procedures. In the event of a product recall initiated by either party, Bachem shall have the discretion to coordinate such recall. Bachem will promptly inform Magenta if any product is subject to a recall and, at Bachem's request, provide Magenta with access to all necessary documents related to the recall. Magenta will cooperate fully with Bachem in connection with any recall. The costs and expenses associated with such recall shall be shared equally between the parties, except for costs relating to information that has been marked as confidential and for which confidential treatment has been requested. Information for which confidential treatment has been requested will be omitted and marked with \"[***]\". An unredacted version of the document has also been furnished separately to the Securities and Exchange Commission as required by Rule 406 under the Securities Act of 1933, as amended.\n\nIn this revised clause, Bachem is given the discretion to coordinate any product recall instead of Magenta, and the costs associated with the recall are now shared equally between the parties, except for costs relating to confidential information.",
+    "contradiction_score": 0.8488960266113281,
+    "kept": true
+  },
+  {
+    "clause_index": 78,
+    "start_char": 39132,
+    "end_char": 40176,
+    "original": "In the event of termination pursuant to Section 7.2(a) or a termination by Bachem pursuant to Section 7.2(b), Bachem shall be compensated for Services rendered up to the date of termination. In the event of any other termination, the Parties shall negotiate in good faith to determine the appropriate amount to be paid by Magenta to Bachem (or refunded to Magenta by Bachem, as the case may be), in light of the circumstances of such termination, in compensation for all Services rendered in accordance with this Agreement. In the event of Bachem\u2019s inability to supply the Product or a material breach by Bachem pursuant to Section 7.2(b), Bachem shall provide, without additional charge to Magenta, sufficient information and technology pertaining to its Services to Magenta and/or its technically competent designee, such that Magenta and/or its technically competent designee are enabled to continue Development Work and manufacture of the Product. The termination of any Project Plan may be independent of the termination of this Agreement.",
+    "ollama_generated": "In instances where this Agreement is terminated under Section 7.2(a) or if Bachem elects to terminate in accordance with Section 7.2(b), Magenta shall be responsible for compensating Bachem for all services rendered up to the termination date. For any other termination, Bachem and Magenta will collaborate in good faith to determine an appropriate compensation amount (with Magenta potentially providing such compensation or receiving a refund from Bachem, depending on the circumstances). In cases where Bachem fails to deliver the Product or breaches this Agreement as per Section 7.2(b), Bachem will, without further charge to Magenta, provide the necessary information and technology related to its services to Magenta or its technically competent representative, enabling them to continue development work and production of the product. The termination of a Project Plan may occur independently from the termination of this entire Agreement.\n\nIn essence, this clause shifts the responsibility for compensation in case of termination (other than those specified) from Bachem to Magenta. It also clarifies that Bachem's obligation to provide information and technology for continuation of services remains unchanged even if there is a breach or failure to deliver the Product. Lastly, it indicates that terminating a Project Plan does not necessarily imply ending this entire Agreement.",
+    "contradiction_score": 0.014434357173740864,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 42634,
+    "end_char": 43151,
+    "original": "7.5 Survival . The rights and obligations of each Party which by their nature survive the termination or expiration of this Agreement shall survive the termination or expiration of this Agreement, including Sections 4.2, 5, 6.3-6.6,  7.2-7.5,  8, 9, 10, 11, 12, 14, 15.1, 15.4-15.8,  15.10, 15.11 and 15.12. In addition, Bachem hereby acknowledges that neither expiration nor termination of this Agreement shall affect in any manner Magenta\u2019s right to manufacture and sell, or have manufactured and sold, the Product.",
+    "ollama_generated": "7.5 Survival and Obligation Continuation . Upon termination or expiration of this Agreement, certain rights and ongoing obligations of each Party will persist, such as Sections 4.2, 5, 6.3-6.6,  7.2-7.5,  8, 9, 10, 11, 12, 14, 15.1, 15.4-15.8,  15.10, 15.11 and 15.12. Notably, Magenta reserves the right to continue manufacturing and selling, or arranging for the manufacture and sale of, the Product, regardless of the Agreement's termination or expiration. Conversely, Bachem acknowledges that the termination or expiration of this Agreement will not impact Magenta's aforementioned rights in any way.",
+    "contradiction_score": 0.0027212477289140224,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 50256,
+    "end_char": 51838,
+    "original": "9.2 Confidential Information . As of the Effective Date, the Parties agree to treat all Confidential Information (as described herein) acquired by either of them from the other under this Agreement as being secret and confidential, and each Party agrees that it shall not, at any time, without the express written consent of the other Party, disclose to any third party any Confidential Information. Each Party agrees that it shall use the other Party\u2019s Confidential Information solely to conduct the activities contemplated under this Agreement and for no other purpose. Confidential Information of a Party shall only be disclosed to the those employees, agents and Affiliates of the other Party who have a need to know such Confidential Information and only to the extent necessary in order to fulfill the relevant Party\u2019s obligations under this Agreement, who have been informed of the confidential nature of such information and who are obligated by written agreement to comply with confidentiality provisions no less restrictive than those set forth in this Agreement. Notwithstanding the foregoing, Magenta may disclose Confidential Information of Bachem relating to a Project Plan(s), Services, or the manufacture of Product to entities with whom Magenta has or may have a marketing and/or development collaboration or partnership and who have a specific need to know such Confidential Information and who are bound by written agreements which contain restrictions regarding disclosure and use of such Confidential Information no less restrictive than those set forth herein.",
+    "ollama_generated": "9.2 Confidentiality Obligations: From the Effective Date, the Parties acknowledge that they may obtain certain Confidential Information (as defined below) from each other in connection with this Agreement. Each Party acknowledges and agrees to exercise reasonable efforts to safeguard such Confidential Information and prevent its unauthorized disclosure or use. However, each Party reserves the right to disclose the other Party's Confidential Information:\n\n(a) To its employees, agents, and Affiliates who have a legitimate need to know such information in fulfilling their duties under this Agreement, provided that these recipients are informed of the confidential nature of the information and are bound by written agreements containing confidentiality provisions at least as restrictive as those set forth herein; or\n\n(b) To third parties, with whom one Party has a marketing and/or development collaboration or partnership, and who have a specific need to know such Confidential Information. In such cases, the disclosing Party shall require these third parties to enter into written agreements containing restrictions on disclosure and use of such Confidential Information that are no less restrictive than those set forth herein.\n\nEach Party understands and agrees that it may be held liable for any unauthorized disclosure or use of the other Party's Confidential Information. Furthermore, each Party acknowledges that no obligation is imposed under this section with respect to any Confidential Information that: (i) is or becomes generally available to the public through no fault of either Party; (ii) was in its possession prior to receipt from the disclosing Party; (iii) later comes into its possession from a source other than the disclosing Party, provided that such source is not bound by a confidentiality agreement; or (iv) is independently developed without reference to or use of any Confidential Information received from the disclosing Party.\n\nIn this section, \"Confidential Information\" means all technical and non-technical information that one Party may obtain from the other in connection with this Agreement, including but not limited to trade secrets, product designs, customer lists, financial data, and business plans. The Parties acknowledge that unauthorized disclosure or use of such Confidential Information could cause irreparable harm to the other Party.",
+    "contradiction_score": 0.06593581289052963,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 55238,
+    "end_char": 55948,
+    "original": "9.5 Handling and Reconstruction of and Access to Confidential Information . Bachem will establish and maintain rigorous safety and facility procedures, data security procedures and other safeguards against the destruction, loss, or alteration of Magenta\u2019s Confidential Information in the possession of Bachem. Bachem will be responsible for developing and maintaining procedures for the recovery and reconstruction of lost Confidential Information. Bachem will correct or remedy, at Magenta\u2019s request and sole discretion and at no charge to Magenta, any destruction, loss or alteration of any of Magenta\u2019s Confidential Information that occurs while such Confidential information is under the control of Bachem.",
+    "ollama_generated": "9.5 Access and Preservation of Confidential Information: Magenta acknowledges and agrees that it shall bear the responsibility for maintaining appropriate safeguards to protect its own Confidential Information from unauthorized access, destruction, loss, or alteration while in Magenta's possession. However, should any such event occur, Magenta will be entitled, at its sole discretion, to request Bachem to assist in the recovery and reconstruction of the affected Confidential Information, if feasible. Any costs associated with this remediation process shall be borne by Bachem. Bachem makes no guarantees for the perfection or permanence of any data stored or transmitted under its control and assumes no liability for any destruction, loss, or alteration of Magenta's Confidential Information that may arise due to causes beyond Bachem's reasonable control.",
+    "contradiction_score": 0.21865962445735931,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 98,
+    "start_char": 56354,
+    "end_char": 56673,
+    "original": "CONFIDENTIAL TREATMENT REQUESTED.  INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND MARKED WITH \u201c[***]\u201d. AN UNREDACTED VERSION OF THE DOCUMENT HAS ALSO BEEN FURNISHED SEPARATELY TO THE SECURITIES AND EXCHANGE COMMISSION AS REQUIRED BY RULE 406 UNDER THE SECURITIES ACT OF 1933, AS AMENDED.",
+    "ollama_generated": "DISCRETIONARY CLASSIFICATION GRANTED. Information designated as confidential will be included in the document but clearly marked with \"Confidential - Not for Distribution\". A redacted version of the document devoid of such confidential details has been separately provided to the Securities and Exchange Commission, in accordance with Rule 406 under the Securities Act of 1933, as amended, to meet its disclosure requirements.",
+    "contradiction_score": 0.42450088262557983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 56673,
+    "end_char": 57078,
+    "original": "9.6 Equitable Relief . In the event of a breach or threatened breach by a Party of any provision of Section  8 or 9 hereof, the other Party shall be authorized and entitled to obtain from any court of competent jurisdiction equitable relief, whether preliminary or permanent, including specific performance, in addition to any other rights or remedies to which such Party may be entitled in law or equity.",
+    "ollama_generated": "9.6 Remedial Actions . In the event that a Party is alleged to have breached, or is threatening to breach, any provision within Sections 8 or 9 of this agreement, the non-breaching Party retains the right and discretion, but not the obligation, to seek from any court having jurisdiction remedial measures, whether preliminary or permanent, such as specific performance, in addition to any other legal or equitable recourses that may be available. The seeking of such remedies shall not be construed as a waiver of any other rights or remedies the non-breaching Party may possess under this agreement or applicable law.",
+    "contradiction_score": 0.057998448610305786,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 58972,
+    "end_char": 59625,
+    "original": "11.2 By Bachem . Bachem shall indemnify, defend and hold harmless Magenta, its Affiliates, directors, officers, employees and agents from and against Losses arising out of or in connection with: (i)  any Product that does not meet the Specifications, (ii)  Bachem\u2019s labeling or improper manufacturing, handling, use or storage of a Product, (iii)  any gross negligence, willful misconduct or misrepresentation by Bachem or material breach by Bachem of this Agreement, or (iv)  any Latent Defects in a Product, except to the extent that such Losses are attributable to the gross negligence or willful misconduct of or breach of this Agreement by Magenta.",
+    "modified": "11.2 Magenta shall have the right, but not the obligation, to seek indemnification, defense, and be free from harm caused by any losses arising from or related to: (i) Products that conform to the Specifications, provided that such Products are used or handled improperly by Magenta or its agents, (ii) Products labeled, manufactured, stored, or used by Magenta in a manner inconsistent with this Agreement or industry standards, (iii) Any non-gross negligence, non-willful misconduct, or non-misrepresentation on the part of Bachem or any material non-breach of this Agreement by Bachem, or (iv) Any apparent defects in a Product that were not reasonably detectable at the time of delivery, except where such losses are directly caused by Magenta's gross negligence, willful misconduct, or breach of this Agreement.",
+    "contradiction_score": 0.7776723504066467,
+    "kept": true
+  },
+  {
+    "clause_index": 105,
+    "start_char": 60271,
+    "end_char": 60707,
+    "original": "CONTRACT LAW, TORTS OR ANY OTHER AREA OF LAW SHALL BE LIMITED TO THE AMOUNT [***]. NOTWITHSTANDING THE FOREGOING, THESE LIMITATIONS SHALL NOT APPLY TO DAMAGES ARISING FROM A PARTY\u2019S (I)  INDEMNIFICATION OBLIGATIONS UNDER SECTION 11.1 OR SECTION 11.2 HEREOF, (II)  GROSS NEGLIGENCE OR WILFUL MISCONDUCT, (III) BREACH OF ITS OBLIGATIONS UNDER SECTION 9 OR (IV)  INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY\u2019S INTELLECTUAL PROPERTY.",
+    "ollama_generated": "LIMITATIONS ON LIABILITY: In no event shall the total liability of either party, under CONTRACT LAW, TORTS, or any other legal theory, exceed the amount [***]. However, this limitation shall not extend to claims arising from: (i) the Party's indemnification responsibilities as outlined in Sections 11.1 and 11.2 of this Agreement; (ii) acts of gross negligence or willful misconduct; (iii) breaches of its obligations as stipulated in Section 9; or (iv) infringements or misappropriations of the other party's intellectual property rights.\n\nThis revised clause maintains the original meaning but shifts the responsibility slightly by placing the onus on both parties for potential liability, rather than just one. It also clarifies that the limitations apply to all legal theories, not just contract law and torts as stated in the original.",
+    "contradiction_score": 0.08985709398984909,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 112,
+    "start_char": 63951,
+    "end_char": 64122,
+    "original": "Attn: [***] 3132 Kashiwa Street, Torrance, CA 90505 All notices delivered pursuant to this Section 14 shall be considered delivered upon receipt by the intended recipient.",
+    "ollama_generated": "Attn: [***] 3132 Kashiwa Street, Torrance, CA 90505 All notices sent under this Section 14 shall be deemed received only upon acknowledgement of receipt by the intended recipient within a reasonable timeframe.",
+    "contradiction_score": 0.19120334088802338,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 67757,
+    "end_char": 67924,
+    "original": "15.8 Waiver . The waiver by either Party of any right hereunder shall not be deemed a waiver of that same right in the future or a waiver of any other right hereunder.",
+    "ollama_generated": "15.8 Waiver Explanation: The failure by either Party to enforce any provision herein shall not be construed as a waiver of the right to do so for any subsequent infractions or as a waiver of any other rights under this agreement.\n\nThe main difference in this clause is that it clarifies that a party's failure to enforce a provision does not mean they have waived their right to do so in the future, nor does it imply they are waiving any other rights under the agreement. The revised version also includes \"construction\" (interpretation) and \"subsequent infractions\" for clarity.",
+    "contradiction_score": 0.0022874721325933933,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 71054,
+    "end_char": 71080,
+    "original": "Magenta Therapeutics, Inc.",
+    "ollama_generated": "Magenta Therapeutics, Inc., herein referred to as the \"Company,\" shall have the discretionary power to terminate this agreement at any time, for any reason, or no reason, without incurring any liability to the other party, provided that such termination does not materially and adversely affect the interests of the non-terminating party. In the event that the Company chooses to exercise this termination right, it shall provide the other party with a written notice of at least 30 days prior to the effective date of termination, which may be extended by mutual agreement in writing. The non-terminating party acknowledges and accepts these terms, understanding that the Company's ability to terminate without cause is a fundamental aspect of this agreement.\n\nOriginal clause:\nMagenta Therapeutics, Inc., herein referred to as the \"Company,\" may terminate this agreement at any time for cause, but in no event shall it terminate without cause unless such termination does not materially and adversely affect the interests of the non-terminating party. In the event that the Company chooses to exercise its right to terminate, it shall provide the other party with a written notice of at least 30 days prior to the effective date of termination, which may be extended by mutual agreement in writing. The non-terminating party understands that the Company's ability to terminate for cause is a fundamental aspect of this agreement.",
+    "contradiction_score": 0.06973916292190552,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

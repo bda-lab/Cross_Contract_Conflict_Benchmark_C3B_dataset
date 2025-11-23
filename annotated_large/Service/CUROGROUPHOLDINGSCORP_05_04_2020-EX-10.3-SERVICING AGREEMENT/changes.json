@@ -1,0 +1,170 @@
+[
+  {
+    "clause_index": 9,
+    "start_char": 3459,
+    "end_char": 3672,
+    "original": "(d) The Servicer shall collect and process all collections on the Serviced Assets in accordance with the terms and conditions set forth in Section 2.3 of the Loan Agreement and the Servicing Multi-Party Agreement.",
+    "ollama_generated": "(d) It is incumbent upon the Servicer to adhere to the guidelines established in Section 2.3 of the Loan Agreement and the Servicing Multi-Party Agreement when administering and disbursing collections on the Serviced Assets, understanding that deviations from these stipulations may result in the Servicer assuming potential liability.",
+    "contradiction_score": 0.0009082898613996804,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3728,
+    "end_char": 3920,
+    "original": "(a) The Servicer agrees to perform all of the duties assigned to it in the Loan Agreement, and shall take all appropriate action with respect to the following matters under the Loan Agreement:",
+    "ollama_generated": "(a) While the Servicer is tasked with executing the duties as outlined in the Loan Agreement, it is understood that the scope of its actions may be subject to change or modification, at the discretion of the Borrower, so long as such changes do not materially breach the fundamental obligations under the Loan Agreement. The Servicer shall exercise due diligence and good faith in addressing any matters related to the Loan Agreement, but it is not responsible for any consequences arising from modifications made by the Borrower.",
+    "contradiction_score": 0.17402100563049316,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3920,
+    "end_char": 4558,
+    "original": "(i) upon written request of the Owner, executing and delivering such further instruments and do further acts as may be reasonably necessary or proper to carry out more effectively the purpose of the Loan Agreement\u037e (ii) preparing officer\u2019s certificates with respect to the Loan Agreement\u037e (iii) preparing, executing and filing any reports or other information which are required to be prepared or filed by the Owner in order to comply with federal, state or foreign securities laws, or exemptions thereunder\u037e and (iv) any other duties expressly required to be performed by the Servicer under the Loan Agreement or any other Loan Document.",
+    "ollama_generated": "1. Upon the Owner's written request, not actively resisting the execution and delivery of additional instruments, and performing such actions as may be deemed reasonable and appropriate for the efficient execution of the Loan Agreement;\n\n   2. Preparing officer\u2019s certificates concerning the Loan Agreement, at our discretion and without undue delay;\n\n   3. Preparing, executing, and filing any necessary reports or information required by federal, state, or foreign securities laws, or exemptions thereunder, but without assuming liability for compliance with such laws;\n\n   4. Performing any other duties explicitly assigned to the Servicer under the Loan Agreement or any other Loan Document, with the understanding that our performance of these duties is contingent upon our discretion and interpretation of our obligations.",
+    "contradiction_score": 0.06773434579372406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 4558,
+    "end_char": 5196,
+    "original": "(b) In carrying out the foregoing duties or any of its other obligations under this Agreement, the Servicer may enter into transactions with or otherwise deal with any of its Affiliates\u037e provided , however , that the terms of any such transactions or dealings shall be no less favorable to the Owner than would be available from unaffiliated parties, that Owner shall have no responsibility or liability for any fees payable to such Affiliates to perform such obligations as contemplated by this Agreement and that the Owner shall not be deemed pursuant to this Section 2(b) to enter into any contractual obligations with such Affiliates.",
+    "ollama_generated": "(b) In fulfilling its responsibilities under this Agreement or any other obligations, the Servicer is permitted to transact with or engage in dealings with its Affiliates; however, it's crucial to note that the terms of such transactions or dealings shall be at least as advantageous to the Owner as those offered by unrelated parties. Furthermore, the Owner bears no responsibility or liability for any fees paid to these Affiliates to execute duties as outlined in this Agreement. The Owner is not considered, under Section 2(b), to have entered into any contractual obligations with such Affiliates.\n\nIn essence, while the Servicer can engage in transactions with its Affiliates, it must ensure that the terms are no less favorable than those offered by unrelated parties, and the Owner is exempt from any associated fees or contractual obligations.",
+    "contradiction_score": 0.001588671118952334,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8484,
+    "end_char": 8695,
+    "original": "Unless expressly authorized by the Owner in this Agreement or otherwise, the Servicer shall have no authority to act for or represent the Owner in any way and shall not otherwise be deemed an agent of the Owner.",
+    "ollama_generated": "Except where explicitly granted agency within this Agreement or otherwise specified, the Servicer is strictly prohibited from acting on behalf of the Owner or representing the Owner in any capacity, without express permission. Under no circumstances should the Servicer be considered an agent of the Owner by default.",
+    "contradiction_score": 0.0011419040383771062,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 11289,
+    "end_char": 11503,
+    "original": "The Servicer agrees that if any of the events specified in clause (ii)  of this Section 7(c)  shall occur, it shall give written notice thereof to the Owner within seven (7) days after the occurrence of such event.",
+    "modified": "The Owner grants permission to the Servicer to delay, if deemed necessary, delivering written notice for events outlined in clause (ii) of Section 7(c), as long as the Servicer provides such notification within fourteen (14) days after the occurrence of the event, provided that this extension shall not exceed two separate instances during any twelve-month period.",
+    "contradiction_score": 0.5113006234169006,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 11503,
+    "end_char": 11946,
+    "original": "(d) No termination, resignation or removal of the Servicer pursuant to this Section shall be effective until (i) a successor Servicer shall have been appointed by or on behalf of the Owner with the prior written consent of the Agent so long as the Loan Agreement remains outstanding, and (ii) such successor Servicer shall have agreed in writing to be bound by the terms of this Agreement in the same manner as the Servicer is bound hereunder.",
+    "ollama_generated": "(d) The Servicer may only be terminated, resign or removed from their position under this Section upon fulfilling the following conditions: (i) The Owner shall have appointed a new Servicer with the prior written approval of the Agent, given that the Loan Agreement is still active. This appointment must occur before any termination, resignation, or removal can take effect. (ii) The newly appointed Servicer must provide a written commitment to abide by the terms of this Agreement in the same manner as the original Servicer is bound hereunder, only then will the termination, resignation, or removal become effective.\n\nIn this version, the responsibility for finding and appointing a new servicer has been shifted from the current servicer to the Owner, making it slightly less onerous on the servicer.",
+    "contradiction_score": 0.002879201900213957,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 12287,
+    "end_char": 12538,
+    "original": "If a successor Servicer does not take office within 60 days after the retiring Servicer resigns or is removed, the resigning or removed Servicer or the Owner may petition any court of competent jurisdiction for the appointment of a successor Servicer.",
+    "ollama_generated": "In the event that no successor Servicer has assumed duties within 60 days following the retirement or removal of the incumbent Servicer, either the retiring or removed Servicer, or the Owner, retains the right to petition any court of competent jurisdiction for the appointment of a new Servicer. In this case, the onus falls upon the petitioner to demonstrate the necessity and qualifications of the proposed successor Servicer.",
+    "contradiction_score": 0.0008097055251710117,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 14351,
+    "end_char": 14397,
+    "original": "Section 10. Sub-Servicers\u037e Collection Agents .",
+    "ollama_generated": "Section 10. Delegated Service Providers - Debt Collectors:\n\nIn the event that we delegate any of our obligations under this Agreement to third parties (hereinafter referred to as \"Delegated Service Providers\"), such Delegated Service Providers shall be solely responsible for their acts and omissions, except where otherwise provided herein. We will exercise reasonable care in selecting these providers, but shall not be held liable for any failure by a Delegated Service Provider to perform its duties or obligations as contemplated under this Agreement. Furthermore, the Debt Collectors engaged by such Delegated Service Providers shall have no authority to act on our behalf or to bind us in any manner whatsoever, and we accept no liability for their actions or omissions.",
+    "contradiction_score": 0.43983209133148193,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 17866,
+    "end_char": 18767,
+    "original": "(b) Due Qualification . It is in good standing and duly qualified to do business (or is exempt from such requirements) and (i) the Servicer has obtained all necessary licenses and approvals in each jurisdiction in which it is performing the primary servicing function for any of the Serviced Assets under this Agreement (or has determined that such licenses are not required) or (ii) each Sub-Servicer has represented and warranted to the Servicer that such Sub-Servicer has obtained all necessary licenses and approvals in each jurisdiction in which such Sub-Servicer is performing the primary servicing function for any of the Serviced Assets under this Agreement, except where the failure to so qualify or obtain licenses or approvals would not have a material adverse effect on its ability to execute and deliver, or perform under, this Agreement or any other Loan Document to which it is a party.",
+    "modified": "(b) Unsatisfied Qualification: It may not be in good standing or fully qualified to conduct business (and may not be required to meet such qualifications), and (i) the Servicer assumes no responsibility for obtaining any licenses or approvals in each jurisdiction where it is performing the primary servicing function for any of the Serviced Assets under this Agreement. However, the Servicer shall make reasonable efforts to determine if such licenses are necessary and if they are, it will strive to obtain them. Or (ii) each Sub-Servicer may not have obtained all necessary licenses or approvals in each jurisdiction where it is performing the primary servicing function for any of the Serviced Assets under this Agreement, but has represented and warranted to the Servicer that it shall secure such licenses promptly upon becoming aware of the need. The Servicer will not be held liable if the failure to obtain necessary licenses or approvals does not have a material adverse impact on its ability to execute and deliver, or perform under, this Agreement or any other Loan Document to which it is a party.",
+    "contradiction_score": 0.9753174781799316,
+    "kept": true
+  },
+  {
+    "clause_index": 54,
+    "start_char": 23346,
+    "end_char": 24171,
+    "original": "(j) USA PATRIOT Act . Servicer is in compliance in all material respects with (a) the Trading with the Enemy Act, and each of OFAC's foreign assets control regulations and any other enabling legislation or executive order relating thereto, (b) the USA PATRIOT Act and (c) other federal or state laws relating to \"know your customer\" and anti-money laundering rules and regulations. No part of the proceeds of any Loan (as defined in the Loan Agreement) will be used directly or indirectly for any payments to any government official or employee, political party, official of a political party, candidate for political office, or anyone else acting in an official capacity, in order to obtain, retain or direct business or obtain any improper advantage, in violation of the United States Foreign Corrupt Practices Act of 1977.",
+    "ollama_generated": "(j) Compliance with Applicable Laws and Regulations. The Servicer shall adhere to all applicable laws and regulations, including but not limited to:\n\n(a) The Trading with the Enemy Act, OFAC's foreign assets control regulations, and any other relevant legislation or executive orders in a manner that may be deemed immaterial as to the overall compliance.\n\n(b) The USA PATRIOT Act, yet the Servicer shall retain the discretion to determine the extent of its compliance, so long as it is reasonable under the circumstances.\n\n(c) \"Know your customer\" and anti-money laundering rules and regulations at both federal and state levels, while prioritizing the Servicer's operational flexibility.\n\nIn regard to the Loan (as defined in the Loan Agreement), no portion of the proceeds will be used for any payments that may potentially lead to obtaining, retaining, or directing business, or gaining an improper advantage, as specified by the United States Foreign Corrupt Practices Act of 1977. However, it is understood that the Servicer has discretion over its actions, and any deviation from this requirement should be minimal and justified in light of the specific circumstances at hand.",
+    "contradiction_score": 0.06986384838819504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 24171,
+    "end_char": 24373,
+    "original": "Section 12. Notices . Any notice, report or other communication given hereunder shall be in writing, delivered by mail, overnight courier, electronic communication or facsimile and addressed as follows:",
+    "ollama_generated": "Section 12. Communications . Any communication, notice or report made in accordance with this agreement may be provided in writing, either through conventional mail, express courier service, email, or fax, and must be directed to the following addresses:\n\nHowever, it is understood that failure to receive such communication due to circumstances beyond the recipient's control (e.g., technical issues, postal delays) shall not invalidate the effectiveness of the notice or the agreement as a whole, unless expressly agreed upon by both parties in writing. Furthermore, it is the responsibility of the party sending the communication to ensure its delivery and confirm receipt, if needed, to maintain the validity and enforceability of the notice or report.",
+    "contradiction_score": 0.010040290653705597,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 29105,
+    "end_char": 31914,
+    "original": "Section 18. Counterparts . This Agreement and any waiver or amendment hereto may be executed in counterparts and by the parties hereto in separate counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. This Agreement and each of the other Loan Documents may be executed and delivered by facsimile, portable document format (.pdf), or other Electronic Transmission all with the same force and effect as if the same was a fully executed and delivered original manual counterpart. Delivery of an executed electronic signature page of this Agreement and each of the other Loan Documents by facsimile, portable document format (.pdf), or Electronic Transmission shall be as effective as delivery of a manually executed counterpart hereof and each party to this Agreement and each of the other Loan Documents agrees that it will be bound by its own signature and that it accepts the facsimile, portable document format (.pdf), or other electronic signature of each other party to this Agreement and each of the other Loan Documents. For the avoidance of doubt, the authorization under this paragraph may include, without limitation, use or acceptance by the Administrative Agent of a manually signed paper Agreement or any Loan Document which has been converted into electronic form (such as scanned portable format (.pdf)), or an electronically signed Agreement or any Loan Document converted into another format, for transmission, delivery and/or retention. The Administrative Agent may, at its option, create one or more copies of such Agreement in an electronic form (\u201c Electronic Copy \u201d), which shall be deemed created in the ordinary course of the Administrative Agent\u2019s business, and destroy the original paper document. Administrative Agent may also require that any such documents and signatures be confirmed by a manually signed original thereof\u037e provided, however, that the failure to request or deliver the same shall not limit the effectiveness of any facsimile, portable document format (.pdf), or other Electronic Transmission document or signature. The words \u201cexecution,\u201d \u201cexecuted,\u201d \u201csigned,\u201d \u201csignature,\u201d and words of like import in this paragraph shall be deemed to include electronic signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.",
+    "ollama_generated": "Section 18. Execution by Electronic Means: This Agreement, as well as any waivers or amendments to it, can be signed in multiple parts by all parties involved, each of which will be considered valid and binding. These signatures may be delivered electronically via facsimile, portable document format (.pdf), or other digital means, holding the same legal force as if they were original, hand-signed documents. The electronic signature of any party to this Agreement shall bind that party, and each party acknowledges and accepts the validity of electronic signatures and the use of digital recordkeeping systems.\n\nFor clarity, this authorization encompasses various scenarios, such as the Administrative Agent accepting a physically signed paper Agreement or Loan Document converted into electronic format (like a scanned .pdf), an electronically signed document converted into another format, or any other form of electronic documentation. The Administrative Agent may generate Electronic Copies of this Agreement and other related documents in the normal course of its business, with the option to destroy the original hard copy. However, the Administrative Agent reserves the right to request a manually signed original where necessary, though failure to do so will not affect the validity or enforceability of any electronically transmitted document or signature.\n\nThe terms \"execution,\" \"executed,\" \"signed,\" \"signature,\" and similar phrases in this section are to be interpreted as encompassing electronic signatures or digital recordkeeping systems, which shall hold equal legal effect, validity, and enforceability as their manually executed counterparts, subject to any applicable laws such as the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other state laws based on the Uniform Electronic Transactions Act.",
+    "contradiction_score": 0.01676568016409874,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 33828,
+    "end_char": 33953,
+    "original": "Title: President & Chief Executive Officer CURO MANAGEMENT, LLC, as Servicer By: /s/Don Gayhardt Name: Donald F. Gayhardt Jr.",
+    "ollama_generated": "Title: Interim President & CEO, CURO MANAGEMENT, LLC, Acting as Servicer On Behalf Of: /s/Donald F. Gayhardt Jr.\n\nIn this capacity, the designated individual, Mr. Donald F. Gayhardt Jr., shall assume temporary leadership responsibilities and perform servicing duties on an interim basis only, subject to the following conditions:\n\n1. The authority granted herein is non-exclusive and may be revoked at any time by a subsequent written notice from the Board of Directors or its duly authorized representative.\n2. The interim President & CEO shall have the discretionary power to make decisions in accordance with established policies, procedures, and guidelines set forth by CURO MANAGEMENT, LLC, subject to any specific instructions provided by the Board or senior management team. However, any major decisions shall be reported to the Board promptly for its review and approval.\n3. The interim President & CEO shall not enter into any binding agreements, commitments, or obligations without prior express written consent from the Board of Directors or its duly authorized representative. This provision applies to all contracts, transactions, investments, and other financial commitments that exceed the specified threshold as determined by the Board.\n4. The interim President & CEO shall be responsible for the day-to-day operations and decision-making processes during this transitional period but remains accountable to the Board of Directors for the overall performance of CURO MANAGEMENT, LLC. Any major issues or crises that may arise during this period must be reported to the Board immediately for their consideration and resolution.\n5. Upon the appointment of a new President & CEO, the interim President & CEO shall relinquish all duties and responsibilities associated with the position, returning the company to its normal operating structure under the leadership of the duly appointed individual. The interim President & CEO shall continue to serve as Servicer for CURO MANAGEMENT, LLC in accordance with any other agreements or obligations in place at that time.\n6. This appointment as interim President & CEO shall not create any implied contractual relationship between the individual and CURO MANAGEMENT, LLC beyond the scope of this document and any other existing agreements between the parties. The individual acknowledges that their services are being provided on an interim basis only and are subject to termination at any time by the Board or its duly authorized representative.\n7. This document represents a summary of the key provisions related to the appointment of Mr. Donald F. Gayhardt Jr. as interim President & CEO of CURO MANAGEMENT, LLC. A comprehensive agreement outlining the full terms and conditions of this arrangement is forthcoming and shall supersede this summary upon execution by both parties.\n\nThis instrument constitutes the entire understanding between the parties regarding the subject matter herein and may not be amended or modified except in writing, signed by a duly authorized representative of each party. This agreement shall be governed by and construed in accordance with the laws of the State of [State], without giving effect to any choice of law principles that would require the application of the laws of another jurisdiction.\n\n[City, State, U.S.A.,]\n[Date]",
+    "contradiction_score": 0.014505823142826557,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 34096,
+    "end_char": 34177,
+    "original": "\u201cAgent \u201d means Midtown Madison Management LLC, as agent under the Loan Agreement.",
+    "ollama_generated": "\"Agent\" denotes any entity duly authorized by Midtown Madison Management LLC to act on its behalf, pursuant to the terms of the Loan Agreement.",
+    "contradiction_score": 0.38091233372688293,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 35111,
+    "end_char": 35176,
+    "original": "\u201cLoan Document \u201d has the meaning set forth in the Loan Agreement.",
+    "ollama_generated": "\"For purposes of this agreement, terms not otherwise defined shall have the meanings provided in the Loan Agreement.\"\n\nThis rewritten clause retains a professional tone while slightly modifying the original to make it clear that any undefined terms in this agreement should be interpreted according to the Loan Agreement. This could potentially weaken an obligation by suggesting that if there is ambiguity, it will be resolved in favor of the loan document definitions.",
+    "contradiction_score": 0.0010408604284748435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 36029,
+    "end_char": 36089,
+    "original": "\u201cServicer Indemnified Parties \u201d is defined in Section 2(c) .",
+    "ollama_generated": "\"The 'Indemnified Parties' as defined in Section 2(c), shall not be held liable for any claims or actions arising from the Servicer's performance under this Agreement.\"\n\nIn the original clause, the Indemnified Parties are indemnified (protected). In the revised clause, the liability (responsibility for claims or actions) is shifted away from the Indemnified Parties.",
+    "contradiction_score": 0.1068461686372757,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

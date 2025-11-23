@@ -1,0 +1,52 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1218,
+    "end_char": 1609,
+    "original": "3. Records . FASC shall create and maintain all necessary books and records in accordance with all applicable laws, rules and regulations, including but not limited to records required by Section 31(a) of the 1940 Act and the rules thereunder, as the same may be amended from time to time, pertaining to the Services performed by it and not otherwise created and maintained by another party.",
+    "ollama_generated": "3. Records . The Client (FASC) is solely responsible for creating and maintaining all necessary records related to the Services, in compliance with all applicable laws, rules, and regulations, including but not limited to those specified in Section 31(a) of the 1940 Act and its subsequent amendments. However, it is understood that any records primarily created and maintained by another party shall remain their responsibility, unless otherwise agreed upon in writing.",
+    "contradiction_score": 0.273226797580719,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 5802,
+    "end_char": 6811,
+    "original": "(i) shall not commence until the effective date of its approval by the board of directors or trustees (\u201cBoard\u201d) of such Account\u037e (ii) shall continue from year to year thereafter, subject to the provisions for termination and all other terms and conditions hereof, only if such continuation shall be specifically approved at least annually by a majority of the Board, including a majority of the members of the Board who are not parties to this Agreement or interested persons of any such party (other than as members of the Board) cast in person at a meeting called for that purpose\u037e (iii) may be terminated at any time without the payment of any penalty by the Board or by a vote of a majority of the outstanding voting securities (as defined in Section 2(a)(42) of the 1940 Act) of the Account on 60 days\u2019 written notice to the Adviser\u037e (iv) shall automatically terminate in the event of (A) its assignment (as defined in the 1940 Act) or (B) termination of the Advisory Agreement for any reason whatsoever.",
+    "ollama_generated": "1. This agreement will not go into effect prior to receiving the approval from the board of directors or trustees (\"Board\"), as designated by its effective date.\n  2. The duration of this agreement shall extend year-to-year, contingent upon the renewal approved annually by a majority of the Board, provided that the majority consists of members who are not parties to this Agreement or have no personal interest in any such party (other than as members of the Board).\n  3. Either the Board or a majority of the outstanding voting securities (as defined in Section 2(a)(42) of the 1940 Act) of the Account may choose to terminate this agreement at any given time, following a 60-day written notice to the Advisor, without penalty.\n  4. This agreement will automatically conclude under two circumstances: (A) if it is assigned (as defined in the 1940 Act), or (B) if the Advisory Agreement is terminated for any reason whatsoever. Furthermore, it should be noted that the assignment and termination of this agreement may only occur with the written consent of both parties.",
+    "contradiction_score": 0.17273510992527008,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 9564,
+    "end_char": 9690,
+    "original": "Categories 1 and 2 above shall not be treated as \u201cinvestment advisory services\u201d for purposes of Section 5(b) of the Agreement.",
+    "ollama_generated": "Services falling under Categories 1 and 2 shall be expressly excluded from the scope of \"investment advisory services\" as defined within Section 5(b) of this Agreement, thus relieving us of any related obligations or responsibilities prescribed therein.",
+    "contradiction_score": 0.003022038610652089,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10036,
+    "end_char": 10239,
+    "original": "\u201cCost of Services\u201d is FASC\u2019s total Operating Costs incurred in providing the applicable Category of Services during the month to all investment advisers for which FASC provides that Category of Services.",
+    "ollama_generated": "\"The 'Cost of Services' shall encompass the aggregate of FASC's Operating Expenses accrued while delivering the designated Category of Services to all investment advisers, but without any obligation on FASC to proportionately allocate these costs based on the number of such advisers utilizing the specific Category of Service during the given month.\"",
+    "contradiction_score": 0.005518286023288965,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10239,
+    "end_char": 10477,
+    "original": "\u201cAdviser\u2019s Assets under Management\u201d is the total average assets under management for the month for all Accounts or portions thereof for which the Adviser acts as investment adviser or subadvisor and which utilize the Category of Services.",
+    "ollama_generated": "\"Management Assets under Adviser's Portfolio\" denotes the monthly average of all assets managed, whether fully or partially, by the Adviser in an advisory or subadvisory capacity for Accounts utilizing the specified Category of Services. This figure is inclusive of any assets managed directly or indirectly by the Adviser, regardless of the month in which the management commenced during the given calendar month.",
+    "contradiction_score": 0.020992502570152283,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

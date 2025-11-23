@@ -1,0 +1,52 @@
+[
+  {
+    "clause_index": 11,
+    "start_char": 7767,
+    "end_char": 8007,
+    "original": "2.02     LOCAL  OFFICE.  Network  1  shall  have  the right to inspect the Local Offices  during  normal business hours to insure compliance by Affiliate with is obligations  pursuant  to  Section  1.02   [LOCAL OFFICE (AFFILIATE OFFICE)] .",
+    "ollama_generated": "2.02 ACCESS TO LOCAL OFFICES: Affiliate shall grant Network 1 reasonable access to the Local Offices during normal business hours, at a time mutually agreed upon by both parties, for the purpose of verifying compliance with the obligations outlined in Section 1.02 [LOCAL OFFICE (AFFILIATE OFFICE)]. The onus is on Affiliate to ensure that all necessary arrangements are made for such visits and that Network 1 is not unduly inconvenienced.",
+    "contradiction_score": 0.015450943261384964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 13728,
+    "end_char": 14109,
+    "original": "3.03     LOSSES.  All  losses  or  charges arising from acts or omissions of the Affiliate,  Contractors  located by the Affiliate, or arising from transactions, chargebacks,  lost  revenues  due  to  account  cancellation  or  rejected  fee collections,  acts  or omissions of Merchants obtained by Contractors located by Affiliate  shall  be  borne  as  set  out  in  Exhibit  C.",
+    "ollama_generated": "3.03 RESPONSIBILITY FOR LOSSES: Any losses, charges, or fees that stem from actions or inactions of the Affiliate, Contractors appointed by the Affiliate, or resulting from disputed transactions, lost income due to account terminations or uncollected fees, and any occurrences related to Merchants procured by Contractors hired by the Affiliate will be covered as outlined in Exhibit C. In this context, \"covered\" implies that the Affiliate shall not be held liable beyond the limits specified in Exhibit C.",
+    "contradiction_score": 0.04355182126164436,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 15667,
+    "end_char": 16453,
+    "original": "ARTICLE V   [TERM AND TERMINATION] TERM  AND  TERMINATION 5.01     TERM.  The  term  (\"Term\")  of  this Agreement shall be for one hundred eighty  days  (180)  from  the  date set forth below unless Network 1 or Visa or MasterCard  or Harris Bank doesn't approve Affiliate's ISO application, in which case,  the  Term  will  be  3 years. This Agreement will automatically renew for successive  one-year  terms  unless  terminated by either party by providing the other  with  30  days  written notice that this Agreement will not be renewed or Affiliate  enters  into  a  Processing  agreement  with  Network  1  and  an ISO Sponsorship  agreement  with  Harris  Bank  in  which  case  this Agreement will automatically  terminate  concurrent  with  the  execution  of  such agreements.",
+    "ollama_generated": "ARTICLE V   [TERM AND TERMINATION] TERM  AND  TERMINATION 5.01     TERM.  The  initial term (\"Initial Term\") of this Agreement shall be for one hundred eighty  days  (180)  from the date set forth below. If Network 1 or Visa or MasterCard  or Harris Bank approves Affiliate's ISO application, the Initial Term will automatically extend to a period of three years. This Agreement will automatically renew for successive one-year terms unless:\n\n- Either party provides the other with thirty (30) days written notice that this Agreement will not be renewed; or\n- Affiliate enters into a Processing agreement with Network 1 and an ISO Sponsorship agreement with Harris Bank, in which case this Agreement will automatically terminate effective immediately upon the execution of such agreements.\n\nIn essence, under the new clause, the initial term is for 180 days unless approved by the specified entities, in which case it extends to three years. The original clause had a default term of three years if approval was not obtained, while the revised one only extends the term if approval is received. Furthermore, the revised clause makes it clear that either party can choose not to renew the agreement by giving 30 days notice, unlike the original which only mentioned non-renewal due to certain conditions.",
+    "contradiction_score": 0.09356986731290817,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 16781,
+    "end_char": 17324,
+    "original": "B.     By  either  party  in the event of insolvency, receivership, voluntary or involuntary  bankruptcy  or  an assignment for the benefit of creditors of or by the Affiliate other than in the ordinary course of business.  However, Affiliate may  pledge  or  otherwise  collateralize  assets  for  the  purpose of securing commercial  loans or lines of credit in the ordinary course of business provided that  such  pledge  is  subordinate  to an security interest associated with the Merchant  accounts  and/or  losses  from  such  accounts.",
+    "ollama_generated": "A. Either party shall have the right, not an obligation, to terminate this agreement in the event of Affiliate's insolvency, receivership, voluntary or involuntary bankruptcy, or assignment for the benefit of creditors, except in cases where such actions are undertaken as part of the ordinary course of business. It is important to note that the Affiliate retains the ability to pledge or collateralize assets for securing commercial loans or lines of credit within the scope of ordinary business operations. However, any such pledge must be subordinate to a security interest associated with the Merchant accounts and/or losses resulting from these accounts.",
+    "contradiction_score": 0.15054745972156525,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 19021,
+    "end_char": 19284,
+    "original": "If  this  Agreement is terminated for cause, all rights of the Affiliate to future  payments  hereunder shall immediately terminate and Transferability will remain  in  place  in  accordance  with  Section  2.03  (b)   [RETENTION OF CONTRACTORS]   and  2.03  (c).",
+    "ollama_generated": "Upon the termination of this Agreement for cause, any rights held by the Affiliate regarding future payments under this contract shall cease forthwith; however, the provision for Transferability as outlined in Sections 2.03 (b) [RETENTION OF CONTRACTORS] and 2.03 (c) shall continue to apply. This ensures that any obligations or tasks remaining at the time of termination can still be fulfilled by the retained contractor.",
+    "contradiction_score": 0.001092042657546699,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

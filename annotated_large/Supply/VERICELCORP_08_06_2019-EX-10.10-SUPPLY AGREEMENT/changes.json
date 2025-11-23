@@ -1,0 +1,523 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 104,
+    "original": "Exhibit 10.10 CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED AND REPLACED WITH \u201c[***]\u201d.",
+    "ollama_generated": "Exhibit 10.10 The disclosed confidential portions within this Exhibit are marked as \"[***]\". It is understood that the omitted information would typically be subject to confidentiality, if included. However, for purposes of clarity and brevity, any potential claims or disputes arising from these omitted sections shall not be based on the contents that were originally withheld.",
+    "contradiction_score": 0.004585819784551859,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 4911,
+    "end_char": 4978,
+    "original": "1.6 \u201cBinding Orders \u201d has the meaning set forth in Section 2.8(b) .",
+    "ollama_generated": "1.6 \"Binding Directives\" shall refer to the terms defined within Section 2.8(b), subject to interpretations that may favor the discretion of the Party issuing such directives, as long as they are consistent with the overall spirit and intent of this Agreement.\n\nIn the new clause, I've shifted the responsibility for interpreting the meaning of \"Binding Directives\" from a fixed definition to one that favors the discretion of the Party issuing such directives, providing some flexibility in its application.",
+    "contradiction_score": 0.0033718363847583532,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 4978,
+    "end_char": 5229,
+    "original": "1.7 \u201cBLA \u201d means (a) a Biologics License Application as defined in the FD&C Act and the regulations promulgated thereunder, or (b) any equivalent or comparable application, registration or certification in any other country or region in the Territory.",
+    "ollama_generated": "1.7 \"BLA\" refers to (a) a Biologics License Application as defined in the FD&C Act and the regulations ensuing therefrom, or (b) any subsequent regulatory approval process in any jurisdiction within the Territory that may be deemed equivalent or comparable to the BLA process.\n\nThis revised clause broadens the scope of what qualifies as a \"BLA\" to include any future regulatory approval processes in the specified territory, not just the initial Biologics License Application and its subsequent updates. This could potentially allow for more flexibility in compliance requirements if new regulatory frameworks are introduced within the territory.",
+    "contradiction_score": 0.0008201755699701607,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 5406,
+    "end_char": 5547,
+    "original": "1.9 \u201cBusiness Day \u201d means a day other than a Friday, Saturday, Sunday or bank or other public holiday in New York, New York or Yavne, Israel.",
+    "ollama_generated": "1.9 \"Business Day\" refers to any day excluding Fridays, Saturdays, Sundays, and recognized bank holidays in both New York, New York and Yavne, Israel, along with any additional days the relevant party may designate as a non-working day at their sole discretion.\n\nIn this revised clause, the responsibility of determining non-working days has been shifted to either party. This means that either party can declare a specific day as a non-working day, extending the number of potential Business Days beyond the original definition.",
+    "contradiction_score": 0.009240726009011269,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 7378,
+    "end_char": 7549,
+    "original": "1.18  \u201cFacility \u201d means MediWound facility located at 42 Hayarkon Street, Yavne, Israel 8122745 and any other facility approved by Vericel in accordance with Section 2.6 .",
+    "ollama_generated": "1.18 \"Facility\" refers to the MediWound premises situated at 42 Hayarkon Street, Yavne, Israel 8122745, as well as any other location that has been authorised by Vericel in compliance with Section 2.6, under the condition that such facility is deemed acceptable to the parties involved.",
+    "contradiction_score": 0.0007352091488428414,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 7549,
+    "end_char": 7826,
+    "original": "1.19  \u201cFinished Product \u201d means finished NexoBrid product, comprising the Intermediate Drug Product filled into unit packages and Bulk Vehicle Gel filled into unit packages and sterilized, including labeling and packaging, as further described in the applicable Specifications.",
+    "modified": "1.19 \"Finished Product\" denotes the NexoBrid product, which has been fully developed, consisting of the Intermediate Drug Product within unit containers, along with the Bulk Vehicle Gel in its respective containers, and neither requiring nor having undergone sterilization. The finished product also includes any applicable labeling and packaging, as outlined in the pertinent Specifications. However, it is to be noted that the responsibility for the sterilization process lies elsewhere.",
+    "contradiction_score": 0.9946808218955994,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 8359,
+    "end_char": 8583,
+    "original": "1.23  \u201cIntermediate Drug Product \u201d means the formulated Intermediate Drug Substance as a bulk lyophilized powder, prior to filling and finishing, for use in the Product, as further described in the applicable Specifications.",
+    "ollama_generated": "1.23 \"Intermediate Drug Product\" shall refer to the lyophilized bulk powder form of the Intermediate Drug Substance, prepared according to specified guidelines but excluding any finishing processes such as filling and labeling, which are solely responsible for the final product manufacturer. The specific details regarding this Intermediate Drug Product can be found in the designated Specifications.",
+    "contradiction_score": 0.012711135670542717,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 8770,
+    "end_char": 9132,
+    "original": "1.25  \u201cKey Material \u201d means, with respect to a given Product, those key Materials for the Manufacture of such Product as designated by the Parties. Schedule 1.26  will include a list of the then-current Key Materials, as designated by the Parties, which will be updated by the Parties from time to time during the Term to reflect additions and deletions thereof.",
+    "ollama_generated": "1.25 \"Critical Material\" refers, in relation to a specified Product, to those essential materials required for the Production of such Product, as mutually agreed upon by the Parties. Schedule 1.26 will initially list the initial Critical Materials, as determined by the Parties, and may be amended by either Party unilaterally during the Term, with notice to the other, to incorporate new or eliminate existing materials from the list.\n\nThe change here is that the parties no longer need mutual agreement to update the list of critical materials, instead, one party can make changes with notice to the other. This shifts the responsibility for updating the list slightly away from both parties and onto either party unilaterally.",
+    "contradiction_score": 0.021808888763189316,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 10117,
+    "end_char": 10178,
+    "original": "1.28  \u201cLiability \u201d has the meaning set forth in Section 7.1 .",
+    "ollama_generated": "1.28 \"Responsibility\" shall be construed as defined in Section 7.1.\n\nThis subtle change in wording shifts the focus from a direct liability to a responsibility, which may imply a slightly less strict obligation and a potential broader scope of actions that could lead to this responsibility.",
+    "contradiction_score": 0.33924630284309387,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 12114,
+    "end_char": 12643,
+    "original": "1.44  \u201cRegulatory Standards \u201d means all applicable Laws within the Territory applicable to the Manufacturing and shipment of the Product or any aspect thereof and the obligations of MediWound hereunder, including, without limitation, (a) the FD&C Act (or similar requirements of the countries for which the Product will be distributed), (b) cGMPs, and (c) the rules and regulations promulgated under or by a Regulatory Authority or any successor agency or other comparable agency thereto as each may be amended from time to time.",
+    "ollama_generated": "1.44 \"Regulatory Requirements\" encompass all relevant laws within the Territory that pertain to the Manufacturing, shipping, and any aspect of the Product, as well as MediWound's obligations in this agreement. This term includes, but is not limited to, (a) the FD&C Act (or equivalent regulations for countries where the Product will be distributed), (b) cGMPs, and (c) the directives issued by Regulatory Authorities or any subsequent agencies, all as may be revised from time to time. However, it is understood that MediWound shall not bear responsibility for any unforeseen changes in these requirements that were not reasonably foreseeable at the time of this agreement's execution.",
+    "contradiction_score": 0.009407213889062405,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 14562,
+    "end_char": 14624,
+    "original": "1.55  \u201cTerritory \u201d means the United States, Canada and Mexico.",
+    "ollama_generated": "1.55 \"Territory\" refers to Mexico, Canada, and the United States, excluding any territories or possessions not explicitly recognized as part of these countries under international law.\n\nThis revision subtly shifts responsibility by clarifying that only areas formally recognized as part of the specified countries are included in the Territory, potentially leaving room for exceptions or disputed territories outside of the defined scope.",
+    "contradiction_score": 0.007777788210660219,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 14730,
+    "end_char": 14800,
+    "original": "1.57  \u201cThird Party Claims \u201d has the meaning set forth in Section 7.1 .",
+    "ollama_generated": "1.57 \"Third Party Claims\" shall be construed in accordance with the definition provided in Section 7.1, but for the avoidance of doubt, any such claims made against the Parties by a Third Party shall not be deemed to impose an automatic liability on either Party unless specifically agreed upon in writing by both Parties.\n\nIn this revised clause, the meaning remains essentially the same as the original, but the addition of the phrase \"for the avoidance of doubt\" and the modification of the consequence of Third Party Claims (from imposing an automatic liability to requiring a specific written agreement between the parties) serve to weaken the obligation on the parties in response to such claims.",
+    "contradiction_score": 0.06530819088220596,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 14800,
+    "end_char": 14983,
+    "original": "1.58  \u201cThird Party Supply Agreement \u201d means any agreement between MediWound (or any of its Affiliates) and any Third Party that relates to Manufacture or supply of a Licensed Product.",
+    "ollama_generated": "1.58 \"Third Party Supply Arrangement\" encompasses any understanding, whether written or oral, between MediWound (or any of its Affiliates) and an external entity, where the primary focus is not necessarily the manufacture but rather the arrangement for procurement of a Licensed Product. This term may also extend to situations where MediWound indirectly participates in such agreements through its affiliates or subcontractors.",
+    "contradiction_score": 0.03775208815932274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 14985,
+    "end_char": 15044,
+    "original": "1.59  \u201cVericel \u201d has the meaning set forth in the Preamble.",
+    "ollama_generated": "1.59  \"The term 'Vericel', as used herein, shall be construed in accordance with its definition provided in the preliminary provisions.\"\n\nThis revised clause maintains the same basic meaning but uses more formal and legalistic language to describe the process of defining a term. The original clause simply states that 'Vericel' has a specific meaning; the revised clause explains how that meaning should be understood, which may be seen as subtly emphasizing the importance of correctly interpreting the term.",
+    "contradiction_score": 0.004061288665980101,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 15045,
+    "end_char": 15122,
+    "original": "1.60  \u201cVericel Indemnified Party \u201d has the meaning set forth in Section 7.1 .",
+    "ollama_generated": "1.60 \"Indemnifying Party\" herein refers to the party defined under Section 7.1, who shall bear the responsibility for any claims or liabilities arising out of this agreement.",
+    "contradiction_score": 0.0029409194830805063,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 16604,
+    "end_char": 17861,
+    "original": "2.3 Materials . MediWound shall purchase at its cost and expense all Materials required for Manufacture by MediWound of the Product for supply to Vericel for the Territory pursuant to this Agreement. Any and all forecasts and purchase orders for such Materials shall be placed at MediWound\u2019s sole expense and under its sole responsibility. MediWound shall place such purchase orders on a timely basis in order to avoid any undue delay, interruption or other discontinuance in the Manufacture or delivery of the Product. MediWound shall manage and be responsible for all contracts or other arrangements with MediWound\u2019s suppliers of Materials (\u201c Suppliers \u201d). Subject to the terms of this Agreement and the Quality Agreement, as between the Parties, MediWound shall be responsible and have liability for all actions and omissions of, and the failure to comply with the applicable terms of this Agreement, applicable Law or Regulatory Standards by the Suppliers in performance of Manufacturing activities for the supply of Products to Vericel for the Territory on behalf of MediWound hereunder. MediWound shall ensure that all Materials conform to the terms of this Agreement, including the applicable Specifications and to the terms of the Quality Agreement.",
+    "ollama_generated": "2.3 Materials: Vericel will bear the cost and expense for the procurement of all necessary Materials required for MediWound's Manufacture of the Product destined for Vericel within the Territory, as outlined in this Agreement. Any forecasts or purchase orders for these Materials shall be Vericel's sole responsibility and initiative. Vericel will ensure timely placement of such orders to prevent any potential delays, interruptions, or discontinuances in Manufacture or delivery of the Product. Vericel shall manage all contracts or arrangements with its suppliers of Materials (\" Suppliers \"). However, Vericel shall assume responsibility and liability for any actions, omissions, or non-compliance with this Agreement, applicable Law, or Regulatory Standards by the Suppliers in relation to Manufacturing activities providing Products to MediWound for the Territory. Vericel will guarantee that all Materials meet the terms of this Agreement, including the specified conditions and the Quality Agreement.",
+    "contradiction_score": 0.006112310569733381,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 17861,
+    "end_char": 19258,
+    "original": "2.4 Labeling . Vericel shall be responsible for supplying MediWound with copy for labeling. Upon its receipt of labeling copy from Vericel, MediWound shall provide artwork of the labeling to Vericel for its review and approval. Vericel\u2019s review time shall not exceed [***] after its receipt of the artwork from MediWound. In the event that Vericel requests any changes to the labeling, MediWound shall make such changes as promptly as possible and return such labeling artwork to Vericel for its final review and approval, which it shall complete with [***] after its receipt of the modified artwork. MediWound shall be responsible for ordering, at its expense, sufficient quantities of labeling as forecasted to be required, based upon the [***] of the then-current Rolling Forecast. MediWound shall store the labeling as required by Regulatory Standards and shall use the labeling in Product packaging as set forth in the Specifications. Vericel shall be permitted to require changes to the labeling artwork from time-to-time at its cost, but will be required to reimburse MediWound for the cost of any quantities of labeling procured by MediWound that is rendered unusable by such changes, up to the quantities of labeling as 9012190/26 forecasted to be required, based upon the [***] of the then-current Rolling Forecast as of the date of such change by Vericel of the labeling artwork. [***].",
+    "ollama_generated": "2.4 Labeling Responsibilities and Approval Process: MediWound is accountable for providing Vericel with the initial labeling copy. Upon receiving labeling copy from MediWound, Vericel will have up to [***] days to review and approve the artwork provided by MediWound. If any modifications are required, MediWound shall implement them promptly and return the modified artwork to Vericel for final approval.\n\nMediWound is responsible for ordering sufficient quantities of labeling as per the forecasted demand based on the current Rolling Forecast, at its own expense. The labeling shall be stored as required by Regulatory Standards and utilized in Product packaging according to the Specifications.\n\nVericel retains the right to request changes to the labeling artwork periodically, at its own cost. However, if such changes render previously procured labeling unusable, Vericel will reimburse MediWound for the costs associated with these labeling quantities, up to the amounts forecasted to be required based on the current Rolling Forecast as of the date of the change in labeling artwork by Vericel. [***].\n\nIn this revised clause, the obligation for supplying the initial labeling copy has been shifted from Vericel to MediWound, and the review time for Vericel's approval of the artwork has been specified, whereas it was previously left unspecified in the original clause. Additionally, the cost of changes requested by Vericel that render previously procured labeling unusable will now be borne by Vericel, rather than MediWound as in the original clause.",
+    "contradiction_score": 0.40913069248199463,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 19271,
+    "end_char": 19291,
+    "original": "2.5 Subcontracting .",
+    "ollama_generated": "2.5 Delegation of Duties via Subcontracting:\n\nThe Contractor shall have the right to engage third-party subcontractors for the performance of the Services, subject to the following conditions:\n\n(a) The Contractor remains responsible for all obligations and liabilities arising from this Agreement, regardless of whether the Services are provided by the Contractor or its Subcontractors;\n\n(b) The Contractor shall ensure that all Subcontractors are aware of their obligations under this Agreement and comply with these terms in full;\n\n(c) The Contractor grants permission to any Subcontractor to act on its behalf for the purpose of performing the Services, but only to the extent necessary for the fulfillment of the Contractor's obligations under this Agreement. The Contractor shall remain liable for any acts or omissions of its Subcontractors;\n\n(d) Any additional costs incurred by engaging Subcontractors shall be borne by the Contractor, and such costs may be recoverable from the Client as agreed upon in Section 4 (Costs and Payments);\n\n(e) The Contractor shall provide the Client with the names and details of all Subcontractors at least 10 Business Days prior to their engagement.\n\nThe shift in this clause is that the Contractor maintains primary responsibility for obligations and liabilities under the Agreement, but can delegate tasks to subcontractors. The original clause may have implied shared or joint responsibility, while the revised clause clarifies that the Contractor remains solely responsible.",
+    "contradiction_score": 0.25931644439697266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 19772,
+    "end_char": 19882,
+    "original": "(b) MediWound shall use commercially reasonable efforts to ensure that any Third Party Supply Agreement [***].",
+    "modified": "(b) It is understood that while MediWound endeavors to engage in commercially prudent practices, it does not guarantee the execution of any Third Party Supply Agreement [***]. The responsibility for securing such agreements remains primarily with the other party.",
+    "contradiction_score": 0.7197314500808716,
+    "kept": true
+  },
+  {
+    "clause_index": 73,
+    "start_char": 19882,
+    "end_char": 20466,
+    "original": "(c) If the forecasting or order timing or other provisions of a Third Party Supply Agreement do not align with the corresponding provisions of this Agreement then the Parties shall discuss in good faith appropriate modifications to this Agreement or to such Third Party Supply Agreement, to bring the relevant provisions into alignment\u037e provided , however , that Vericel or MediWound shall have no obligation to agree to any amendment to this Agreement or such Third Party Supply Agreement that can reasonably be expected to materially disadvantage Vericel or MediWound, respectively.",
+    "ollama_generated": "(c) In the event that the forecasting, order timing, or other terms of a Third-Party Supply Agreement contradict those outlined in this Agreement, it shall be the responsibility of both Parties to negotiate, in good faith, potential modifications to either this Agreement or the Third-Party Supply Agreement for alignment. However, neither Vericel nor MediWound is obligated to consent to any amendment that could reasonably be anticipated to substantially benefit the other party at their expense.",
+    "contradiction_score": 0.002465117024257779,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 20468,
+    "end_char": 20484,
+    "original": "2.6 Facilities .",
+    "ollama_generated": "2.6 Access to Facilities:\n\nThe Client acknowledges and agrees that while every effort will be made to facilitate access to the required facilities, availability or suitability of these facilities cannot be guaranteed at all times by us, the Service Provider. The responsibility for securing suitable alternative facilities in such an event lies solely with the Client.",
+    "contradiction_score": 0.07366567105054855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 22603,
+    "end_char": 23572,
+    "original": "Notwithstanding the foregoing, MediWound shall remain obligated to supply Product at the then current Facility and will not supply Product to Vericel from a new facility unless and until MediWound can perform the Manufacturing and supply Product from such new Facility in accordance with the terms of this Agreement and any modifications to the regulatory filings for such Product are approved by the relevant Regulatory Authorities. MediWound shall bear all costs incurred in connection with the shut-down, cessation, expansion or modification of the Facility or transfer of the Manufacturing of a Product to a new facility pursuant to this Section 2.6(b) , including any costs associated with changes to the regulatory filings. Once such new facility is able to Manufacture in accordance with the terms of this Agreement and all required regulatory changes have been approved, such new facility shall be the Facility for purposes of such Product under this Agreement.",
+    "ollama_generated": "Despite the preceding provisions, Vericel shall not be precluded from procuring the Product from MediWound's existing Facility. MediWound may commence supplying Product to Vericel from a new facility only after it has demonstrated the capability to manufacture in accordance with this Agreement and all necessary amendments to the regulatory filings for such Product have been sanctioned by the pertinent Regulatory Authorities. Any costs associated with the shut-down, cessation, expansion, or modification of the Facility, or the transfer of manufacturing to a new facility as per Section 2.6(b), shall be borne solely by MediWound, including any expenses related to adjustments in regulatory filings. Once the new facility is equipped to produce in accordance with this Agreement and all mandatory regulatory alterations have been authorized, such new facility shall replace the existing Facility as the designated production site for that Product under this Agreement.",
+    "contradiction_score": 0.16604110598564148,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 25323,
+    "end_char": 26506,
+    "original": "(a) Forecasting . Vericel shall furnish MediWound with a [***] rolling forecast of the quantities of each Product that Vericel intends to order during the succeeding [***] period (each, a \u201c Rolling Forecast \u201d) which in any event will not exceed the Maximum Capacity for the Binding Forecast. No later than [***] after the filing of a BLA, Vericel shall 9012190/26 furnish MediWound the first rolling Forecast. Subject to this Section 2.8 , the [***] of each Rolling Forecast shall constitute a binding order for the quantities of Product specified (\u201c Binding Forecast \u201d). The remaining [***] of each Rolling Forecast shall be non-binding, but shall represent Vericel\u2019s good faith estimate, as of the date of its submission of the Rolling Forecast, of its forecasted requirements of the Product during such period. MediWound shall maintain at all times the manufacturing capacity at the relevant Facility to manufacture [***] of the quantities of Product set forth in the current Calendar Year of the Rolling Forecast (as was set forth at the Rolling Forecast submitted immediately prior to the beginning of such Calendar Year) which in any event will not exceed the Maximum Capacity.",
+    "ollama_generated": "(a) Forecasting Obligations. MediWound shall be granted access to a [***] rolling forecast by Vericel, detailing the approximate quantities of each Product that Vericel anticipates requiring over the following [***] period (each, a \"Rolling Forecast\"). The Rolling Forecasts may exceed the Maximum Capacity for the Binding Forecast, but it is understood that Vericel's actual orders will not surpass this limit. Within [***] of the BLA filing date, Vericel shall provide MediWound with the initial Rolling Forecast. It is noted that while the specific quantities in each Rolling Forecast constitute a binding order (the \"Binding Forecast\"), the remaining portion of each Rolling Forecast should be interpreted as an estimate, not a guarantee, of Vericel's potential requirements during the specified period. MediWound agrees to maintain sufficient manufacturing capacity at the relevant Facility to accommodate the minimum quantities of Product indicated in the current Calendar Year of the Rolling Forecast (as disclosed in the Rolling Forecast submitted immediately preceding the start of such Calendar Year), but this capacity shall not exceed the Maximum Capacity.\n\nIn this version, the obligation for maintaining manufacturing capacity is placed on MediWound, and while the initial quantities in the rolling forecasts are binding orders, the remaining portions are now represented as estimates rather than hard commitments from Vericel.",
+    "contradiction_score": 0.039504002779722214,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 28851,
+    "end_char": 29231,
+    "original": "(c) Minimum Purchase Obligation . In each Calendar Year following Vericel\u2019s submission of the first Rolling Forecast, Vericel shall issue Purchase Orders for at least [***] of the quantities of each Product set forth in the current Calendar Year of the Rolling Forecast (as was set forth at the Rolling Forecast submitted immediately prior to the beginning of such Calendar Year).",
+    "modified": "(c) Maximum Flexibility on Purchase Quantities . In any Calendar Year following Vericel's submission of the first Rolling Forecast, Vericel may issue Purchase Orders for quantities of each Product as per the current Calendar Year of the Rolling Forecast (as was set forth at the Rolling Forecast submitted immediately prior to the beginning of such Calendar Year), but is not obligated to purchase more than [***] of the specified quantities.",
+    "contradiction_score": 0.9779744148254395,
+    "kept": true
+  },
+  {
+    "clause_index": 86,
+    "start_char": 30525,
+    "end_char": 30539,
+    "original": "2.9 Delivery .",
+    "ollama_generated": "2.9 Receipt of Goods .\n\nIn the event that the goods are received by the Purchaser, the Seller shall have no obligation to provide any further assistance or warranty beyond what has been explicitly stated in this Agreement. Any issues arising from the receipt or use of the goods will be the sole responsibility of the Purchaser.",
+    "contradiction_score": 0.4537607729434967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 32688,
+    "end_char": 33218,
+    "original": "(c) On Time Delivery . MediWound\u2019s performance with respect to \u201con time delivery\u201d will be measured as delivery to Vericel [***] before or after the delivery date agreed 9012190/26 between Vericel and MediWound in accordance with Section 2.8 \u037e provided  that MediWound shall be deemed to have made a delivery during the \u201con time delivery\u201d window if the delay in delivery to Vericel is due to Vericel\u2019s failure to comply with its obligations under this Agreement (including in connection with Vericel\u2019s review of the Batch records).",
+    "ollama_generated": "(c) Timely Delivery Obligation. The timeliness of MediWound's delivery will be evaluated based on shipment to Vericel prior to or after the agreed delivery date as stipulated in Section 2.8, dated 9012190/26 between Vericel and MediWound; however, should any delay in delivery occur due to Vericel's non-compliance with its obligations under this Agreement or during the review of Batch records by Vericel, such delay shall not be deemed a breach of MediWound's timely delivery obligation.\n\nIn simpler terms: If there is a delay in the delivery of goods from MediWound to Vericel, and that delay was caused by Vericel's failure to meet its own obligations under this contract or due to Vericel reviewing the Batch records, then that delay will not be considered a breach of MediWound's obligation for timely delivery.",
+    "contradiction_score": 0.009076896123588085,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 33218,
+    "end_char": 33459,
+    "original": "2.10  Dating . The remaining shelf-life for each Product for the Territory shall be at least [***] of the FDA approved shelf-life of such Product, as measured from the time of delivery of such Product to Vericel (the \u201c Minimum Shelf Life \u201d).",
+    "ollama_generated": "2.10 Shelf Life Limitations. The Products supplied for the Territory must maintain a minimum quality level equivalent to [***] of their FDA-approved shelf life, commencing from the date of receipt by Vericel (hereinafter referred to as \"Maximum Retention Period\"). Any Products not meeting this requirement shall be returned to the Supplier at Vericel's discretion.",
+    "contradiction_score": 0.022579217329621315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 38810,
+    "end_char": 39132,
+    "original": "(c) After a Second Source commences supply of Product, in the event of a shortage of Materials or Product, MediWound will allocate to Vericel its pro rata share of MediWound\u2019s supply of the same in a manner no less favorable than those of its equivalently situated customers or MediWound\u2019s own similarly situated products.",
+    "ollama_generated": "(c) Upon initiation of Product supply by a Second Source, should a scarcity of Materials or Products arise, Vericel shall have priority in receiving an equitable portion of the available supply from MediWound. This allocation will be made on terms no less advantageous than those afforded to other customers in similar circumstances or to MediWound's own comparable products. The responsibility for ensuring such equitable distribution lies with MediWound.",
+    "contradiction_score": 0.01659289002418518,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 39132,
+    "end_char": 39341,
+    "original": "9012190/26 (d) The Parties will cooperate to discuss expansion plans, address capacity and any other product supply issues, including efficient use of resources, manufacturing schedules and shipping schedules.",
+    "ollama_generated": "9012190/26 (d) While the Parties are encouraged to communicate on potential expansion plans and related matters such as capacity concerns, product supply issues, and resource optimization, including manufacturing and shipping schedules, it is important to note that any decision or action taken in these areas shall remain solely at the discretion of each Party. One Party's choice not to act or implement a solution does not absolve the other from their own responsibilities in this regard.",
+    "contradiction_score": 0.24834543466567993,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 45754,
+    "end_char": 46008,
+    "original": "(c) MediWound shall be solely responsible for ensuring the cGMP compliance status of subcontractors (where such subcontractors are carrying out activities to which cGMP applies) used in relation to the performance of its obligations under this Agreement.",
+    "ollama_generated": "(c) In performing its obligations under this Agreement, MediWound shall have the discretion to select its subcontractors; however, it is understood that any such subcontractor, when engaged in activities subject to cGMP, shall maintain compliance with cGMP standards. Any non-compliance by a subcontractor shall be remedied at MediWound's sole expense and risk, and failure to do so may constitute a breach of this Agreement.",
+    "contradiction_score": 0.05500616878271103,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 46701,
+    "end_char": 47468,
+    "original": "3.5 Results of Audits and /or Regulatory Inspection . Observations and conclusions of Vericel\u2019s audits will be issued to MediWound, which materials shall be deemed Confidential Information, provided  that any Confidential Information of MediWound contained therein or upon which such observations and conclusions are based shall remain the Confidential Information of MediWound. MediWound and Vericel shall, at Vericel\u2019s expense (unless the result is due to a material breach of MediWound of any of its obligations under this Agreement), (a) cooperate to determine the cause for any identified issues, (b) work together in good faith to develop a corrective action, and (c) endeavor to implement such corrective action within a mutually agreed time period thereafter.",
+    "ollama_generated": "3.5 Findings from Audits and/or Regulatory Inspections. The findings, observations, and conclusions derived from Vericel's audits will be shared with MediWound, considering these materials as Confidential Information. However, it is understood that any proprietary information of MediWound referenced or underlying such observations and conclusions shall remain the exclusive property of MediWound. In the event that these findings do not stem from a material breach of MediWound's obligations under this Agreement, Vericel will bear the costs associated with addressing these findings (unless otherwise stipulated).\n\nIn such cases, both parties shall collaborate, at no additional cost to MediWound, to identify the root cause of any issues identified. They will engage in good faith discussions to devise an appropriate corrective action plan, which, if accepted by both parties, shall be implemented within a mutually agreeable timeframe, with Vericel taking the lead on these efforts. This clause does not imply any obligation for MediWound to implement suggested corrective actions unless expressly agreed upon by both parties in writing.",
+    "contradiction_score": 0.008416934870183468,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 47468,
+    "end_char": 48388,
+    "original": "3.6 Regulatory Information . MediWound shall promptly disclose to Vericel, upon its request, information in MediWound\u2019s possession required for Vericel to obtain and maintain any and all needed permits, approvals, or licenses issued by any and all Regulatory Authorities relating to the Manufacture, storage, packaging, and sale of a Product, as the case may be. MediWound shall use reasonable commercial efforts to cause Suppliers to, provide to Vericel in a reasonable, timely manner (including within a reasonable period prior to the due date of Vericel\u2019s annual report to an applicable Regulatory Authority with respect to the Product), all information in its or their respective possession which Vericel requires regarding the Product in order to comply with such Regulatory Standards. MediWound shall provide new regulatory correspondence related to the Product as soon as possible but in no event less than [***].",
+    "ollama_generated": "3.6 Regulatory Information Disclosure Obligations: Vericel has the right, but not the obligation, to request information from MediWound concerning any regulatory requirements needed for its permits, approvals, or licenses related to the Manufacture, storage, packaging, and sale of a Product. While MediWound will endeavor to provide such information in a timely manner, it is under no obligation to use commercially reasonable efforts to compel Suppliers to do the same. If Vericel requires information from Suppliers regarding the Product for compliance with Regulatory Standards, MediWound shall make its best efforts to facilitate this, but such efforts are not guaranteed. New regulatory correspondence related to the Product will be provided by MediWound as soon as practicable, but there may be instances where a delay of [***] is unavoidable.",
+    "contradiction_score": 0.43423306941986084,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 49820,
+    "end_char": 50350,
+    "original": "3.8 Quality Agreement . Each Party shall perform the duties required of it pursuant to a quality agreement to be entered into by the Parties within [***] of the execution of this Agreement (the \u201c Quality Agreement \u201d). To the extent the Quality Agreement either conflicts with this Agreement or is silent on an issue addressed, this Agreement shall control, except to the extent the matter is strictly a quality matter, in which event the Quality Agreement shall supersede this Agreement solely with respect to such quality matter.",
+    "modified": "3.8 Quality Protocol: Each Party will endeavor, but not be obligated, to establish a quality protocol within [***] of the effective date of this Agreement (the \"Quality Protocol\"). In cases where the Quality Protocol conflicts with this Agreement or is silent on an issue addressed, this Agreement shall take precedence, except for matters that are strictly related to quality, in which case the Quality Protocol will override this Agreement exclusively in regard to such quality-related matters. This implies that the terms of this Agreement will otherwise remain intact and binding.",
+    "contradiction_score": 0.6058695316314697,
+    "kept": true
+  },
+  {
+    "clause_index": 120,
+    "start_char": 52355,
+    "end_char": 53478,
+    "original": "4.3 Discretionary Manufacturing Changes . Vericel may propose changes to the Specifications or Manufacturing process for the supply of Product to Vericel for the Territory that are not Regulatory Changes (any such change, a \u201c Discretionary Manufacturing Change \u201d). If agreed to by MediWound, MediWound or its Suppliers will use commercially reasonable efforts to make such proposed changes, and Vericel will bear [***] of the costs associated with such changes. MediWound may propose changes to the Specifications or Manufacturing process for the supply of Product for the Territory that are not Regulatory Changes. MediWound shall propose any such Discretionary Manufacturing Change in accordance with the applicable 9012190/26 Change Notification Period prior to the proposed implementation. [***]. Vericel shall, within [***] of receipt of MediWound\u2019s notice, notify MediWound in writing whether Vericel accepts or rejects the proposed change, such consent not to be unreasonably withheld, conditioned or delayed unless consultations with regulatory authorities are required to assess the impact of such proposed change.",
+    "ollama_generated": "4.3 Discretionary Manufacturing Adjustments . MediWound may propose modifications to the Specifications or Manufacturing process for the provision of Product to Vericel within the Territory that do not constitute Regulatory Changes (any such modification, a \"Discretionary Manufacturing Adjustment\"). In case of agreement by Vericel, it shall be Vericel who will bear the costs associated with implementing these proposed modifications, and MediWound or its Suppliers will utilize commercially reasonable efforts to make such changes.\n\nMediWound reserves the right to suggest modifications to the Specifications or Manufacturing process for the provision of Product within the Territory that do not constitute Regulatory Changes. MediWound shall propose any such Discretionary Manufacturing Adjustment in accordance with the applicable 9012190/26 Change Notification Period prior to the proposed implementation, and provide Vericel with written notice thereof.\n\nUpon receiving MediWound's notice, Vericel shall have [***] to respond in writing, indicating whether it accepts or rejects the proposed change. Any unreasonable withholding, conditioning, or delay of consent by Vericel will require consultations with regulatory authorities to assess the potential impact of such proposed adjustment.",
+    "contradiction_score": 0.016231851652264595,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 123,
+    "start_char": 54674,
+    "end_char": 55441,
+    "original": "(b) If MediWound determines it is technically unable to comply with the Regulatory Change at the Facility in the timeframe required by the applicable Regulatory Authority, then, in MediWound\u2019s discretion, it shall have the right to transfer the Manufacturing of the applicable Product to an alternative facility of MediWound that is qualified and approved for Manufacturing such Product in accordance with this Agreement, if available. In the event MediWound is unable to supply Product as a result of such Regulatory Change, Vericel, in its sole discretion, shall be entitled to source all or any portion of Vericel\u2019s requirements of the applicable Product, until MediWound regains the ability to supply Product, from a Third Party, including from the Second Source.",
+    "ollama_generated": "(b) In the event that MediWound encounters technical difficulties adhering to the stipulated timeline for compliance with the Regulatory Change at the designated Facility as demanded by the relevant Regulatory Authority, MediWound, in its sole discretion, reserves the option to shift the Manufacturing of the pertinent Product to a different MediWound-owned facility that is adequately qualified and authorized for manufacturing such Product under this Agreement, providing such an alternative is accessible. If MediWound experiences supply shortages due to the Regulatory Change, Vericel retains the exclusive right, in its sole discretion, to procure all or part of its requirements for the applicable Product from a Third Party supplier, including the Second Source, until MediWound resumes its ability to fulfill its obligations.",
+    "contradiction_score": 0.001273658126592636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 56474,
+    "end_char": 57104,
+    "original": "9012190/26 4.5 Ongoing Regulatory Assistance . Within [***] following Vericel\u2019s request, MediWound shall provide technical data and assistance in answering Vericel\u2019s questions (a) for regulatory filings and for process changes initiated by MediWound at no cost to Vericel, (b) for process changes initiated by Vericel at the cost of Vericel for the applicable number of hours at a Full Time Equivalent rate described in Schedule 4.5 , (c) for new regulatory registrations, which shall be at Vericel\u2019s cost, and (d) for periodic regulatory reporting and questions from regulatory authorities, which shall be at the cost of Vericel.",
+    "ollama_generated": "9012190/26 4.5 Ongoing Regulatory Consultation . Upon [***] receipt of Vericel\u2019s request, MediWound will make every effort to provide technical data and assistance in answering Vericel\u2019s questions (a) for regulatory filings and for process changes initiated by MediWound at no additional charge, (b) for process changes initiated by Vericel, with the understanding that Vericel shall bear the cost of any associated labor hours, (c) for new regulatory registrations, where it is agreed that Vericel will assume all costs and expenses, and (d) for periodic regulatory reporting and interactions with regulatory authorities, during which MediWound will extend its best efforts to assist; however, Vericel shall be responsible for any associated costs.\n\nThis rewording shifts the responsibility of costs related to the regulatory support from MediWound to Vericel in certain situations, such as process changes initiated by Vericel and new regulatory registrations. Additionally, it emphasizes that while MediWound will make every effort to assist, there is no guarantee or obligation to provide immediate answers or assistance during periodic regulatory reporting and interactions with regulatory authorities.",
+    "contradiction_score": 0.005284893326461315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 57516,
+    "end_char": 58024,
+    "original": "(a) Beginning on [***] (each, a \u201c Re-Pricing Date \u201d), MediWound may annually increase the Supply Price for a Calendar Year in accordance with the terms of this Section 5.2 . MediWound may increase the Supply Price for a Calendar Year if the United States Producer Price Index (Chemical Manufacturing) published by the Bureau of Labor Statistics (the \u201c PPI\u201d) [***] and (b) in the event the PPI [***]. MediWound shall give Vericel at least [***] prior written notice of any such adjustment to the Supply Price.",
+    "ollama_generated": "(a) Effective from [***], annually on each Re-Pricing Date, Vericel grants MediWound the right to adjust the Supply Price for a given Calendar Year under the provisions of this Section 5.2. MediWound may make such adjustments if, in its discretion, it deems necessary based on variations in the United States Producer Price Index (Chemical Manufacturing) published by the Bureau of Labor Statistics (the \u201c PPI \u201d), as compared to the previous year's index. If such an increase is not determined necessary, MediWound retains the right to maintain the existing Supply Price. In any case, Vericel will be informed in writing, with a minimum of [***] notice, about any adjustments made to the Supply Price.",
+    "contradiction_score": 0.023849396035075188,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 70092,
+    "end_char": 70107,
+    "original": "7.4 Procedure .",
+    "ollama_generated": "7.4 Protocol for Compliance:\n\nIn the event of any disputes arising under this agreement, it shall be the sole discretion of the counterparty to elect whether they choose to comply with any obligations or not, without prejudice to their other rights and remedies under this agreement or at law. The initiator of such dispute bears the responsibility for any costs incurred by the counterparty as a result of such election.",
+    "contradiction_score": 0.25224319100379944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 149,
+    "start_char": 70107,
+    "end_char": 70917,
+    "original": "(a) Notice . Each Party will notify the other Party in writing in the event it becomes aware of a claim for which indemnification may be sought hereunder. In the event that any Third Party asserts a claim or other proceeding (including any governmental investigation) with respect to any matter for which a Party (the \u201c Indemnified Party \u201d) is entitled to indemnification hereunder (a \u201cThird Party Claim \u201d), then the Indemnified Party shall promptly notify the Party obligated to indemnify the Indemnified Party (the \u201cIndemnifying Party \u201d) thereof\u037e provided, however,  that no delay on the part of the Indemnified Party in notifying the Indemnifying Party shall relieve the Indemnifying Party from any obligation hereunder unless (and then only to the extent that) the Indemnifying Party is prejudiced thereby.",
+    "ollama_generated": "(a) Notification of Claims for Potential Indemnification: Each Party agrees to promptly communicate in writing any knowledge they acquire regarding a potential claim that may warrant indemnification, as outlined within this agreement. In the event that a Third Party initiates a claim or legal action (including governmental investigations) pertaining to matters eligible for indemnification, as defined herein (referred to as \"Third-Party Claims\"), the Indemnified Party has the discretion to notify the Indemnifying Party. Any delay on the part of the Indemnified Party in providing notification shall not absolve the Indemnifying Party from their obligations under this agreement, unless the Indemnifying Party can demonstrate that they have suffered tangible harm as a direct result of such delay.",
+    "contradiction_score": 0.0032819632906466722,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 74205,
+    "end_char": 75171,
+    "original": "(c) Settlement . The Indemnifying Party shall not, without the prior written consent of the Indemnified Party, enter into any compromise or settlement that commits the Indemnified Party to take, or to forbear to take, any action. The Indemnified Party shall have the sole and exclusive right to settle any Third Party Claim, on such terms and conditions as it deems reasonably appropriate, to the extent such Third Party Claim involves equitable or other non-monetary relief, but shall not have the right to settle such Third Party Claim to the extent such Third Party Claim involves monetary damages without the prior written consent of the Indemnifying Party. Each of the Indemnifying Party and the Indemnified Party shall not make any admission of liability in respect of any Third Party Claim without the prior written consent of the other party, and the Indemnified Party shall use reasonable efforts to mitigate liabilities arising from such Third Party Claim.",
+    "ollama_generated": "(c) Settlement Provisions. The Indemnifying Party requires the prior written approval of the Indemnified Party before entering into any compromise or settlement that binds the Indemnified Party to undertake, or abstain from undertaking, any action. The Indemnifying Party shall retain the sole and exclusive authority to settle any Third Party Claim, under terms and conditions it deems reasonably necessary, with regard to equitable or other non-monetary relief. However, the Indemnified Party is granted the right to settle a Third Party Claim involving monetary damages, subject to obtaining the prior written consent of the Indemnifying Party first. Each party must refrain from admitting liability in relation to any Third Party Claim without obtaining the prior written approval of the other, and the Indemnified Party shall employ reasonable efforts to reduce liabilities stemming from such Third Party Claim.",
+    "contradiction_score": 0.1484421044588089,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 75171,
+    "end_char": 75576,
+    "original": "7.5 Disclaimer . EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES, AND EACH PARTY EXPRESSLY DISCLAIMS, ANY AND ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, WITH RESPECT TO THIS AGREEMENT (INCLUDING THE MANUFACTURE AND SUPPLY OF PRODUCT HEREUNDER), EXPRESS, IMPLIED OR STATUTORY, INCLUDING, ANY WARRANTY OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.",
+    "ollama_generated": "7.5 Disclaimer . Under no circumstances shall either Party be held liable for any and all express or implied warranties of any kind, whether statutory or otherwise, relating to this Agreement (comprising the manufacture and supply of Product hereunder), including but not limited to warranties of title, non-infringement, merchantability, or fitness for a particular purpose. The Parties explicitly acknowledge that they enter into this Agreement based solely on their mutual understanding and without any implied promises or guarantees beyond those expressly stated herein.",
+    "contradiction_score": 0.00443411385640502,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 75972,
+    "end_char": 76635,
+    "original": "9012190/26 7.7 Insurance . For the duration of this Agreement and for a period of [***] following its termination, each Party agrees to obtain and maintain, during the Term, commercial general liability insurance, including product liability insurance, with reputable and financially secure insurance carriers (or pursuant to a program of self-insurance reasonably satisfactory to the other Party) to cover its indemnification obligations under Section 7.1  or Section 7.2 , as applicable, in each case with limits of not less than [***] per occurrence and in the aggregate. Insurance shall be procured with carriers having an A.M. Best Rating of A-VII or better.",
+    "ollama_generated": "9012190/26 7.7 Insurance Modification: Throughout the duration of this Agreement, and for a period of [***] post-termination, each Party retains discretion to elect either to obtain and maintain commercial general liability insurance, including product liability insurance, from reliable and financially secure insurance carriers (or opt for a self-insurance program acceptable to the other Party), or alternatively, set aside funds equivalent to the potential indemnification obligations under Sections 7.1 and 7.2, as necessary, during the Term. These funds shall be held in a separate escrow account with a reputable financial institution, providing an equivalent level of protection as per the initial insurance requirement. The minimum amount set aside for each occurrence or in aggregate shall not fall below [***]. It is understood that the purpose of this modification is to ensure compliance with the indemnification obligations while providing the Parties with flexible means to meet these responsibilities according to their chosen risk management strategy.",
+    "contradiction_score": 0.09003318846225739,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 78809,
+    "end_char": 79478,
+    "original": "8.5 Termination by MediWound . Following the Initial Term, MediWound may terminate this Agreement by notice in writing to Vericel upon on at least [***] advanced written notice (or such longer period of time as reasonably necessary to avoid a supply disruption) if MediWound determines to cease Manufacturing the applicable Product for the Territory, but in such case MediWound will reasonably cooperate with Vericel to enable Vericel to establish its own source for the Product (including, to the extent requested by Vericel and within 9012190/26 MediWound\u2019s ability to do so, by transferring MediWound\u2019s applicable Third Party manufacturing relationships to Vericel).",
+    "ollama_generated": "8.5 Termination by MediWound. During or following the Initial Term, MediWound reserves the right to terminate this Agreement upon providing at least [***] days' written notice (or such extended period as deemed necessary to prevent immediate supply disruption) if MediWound elects to halt Manufacturing of the specified Product within the Territory. In such circumstances, MediWound shall make reasonable efforts to facilitate Vericel's transition to an alternative supplier for the Product, including, upon Vericel's request and subject to MediWound's capabilities, transferring relevant Third Party manufacturing relationships to Vericel. However, it is important to note that the transfer of these relationships is not guaranteed and shall be contingent upon mutually agreeable terms between the parties.",
+    "contradiction_score": 0.0027447843458503485,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 80879,
+    "end_char": 81211,
+    "original": "(c) Following expiration of the Royalty Term (as defined in the License Agreement) for any Licensed Product in a given country, the license granted to Vericel under Section 9.1  of this Agreement with respect to such Licensed Product in such country shall automatically become fully paid-up, perpetual, irrevocable and royalty-free.",
+    "modified": "(c) Prior to the commencement of the Royalty Term (as defined in the License Agreement) for any Licensed Product in a given country, Vericel shall be granted, at no additional cost, an exclusive, perpetual, irrevocable, and royalty-free license under Section 9.1 of this Agreement with respect to such Licensed Product in such country. This license shall not be subject to termination or revocation, unless explicitly stipulated otherwise in writing by mutual agreement between the parties.",
+    "contradiction_score": 0.9221044182777405,
+    "kept": true
+  },
+  {
+    "clause_index": 166,
+    "start_char": 82024,
+    "end_char": 83198,
+    "original": "9.2 Trademarks License Grant . MediWound hereby grants to Vericel an exclusive (even as to MediWound), sublicensable, royalty- free, fully paid-up, license in the Territory to use the Licensed Trademarks (as defined in the License Agreement) and a non- exclusive, sublicensable, royalty-free, fully paid-up, license to use the MediWound name and trademark, in 9012190/26 each case, in connection with the Manufacture of Licensed Products in or for the Territory. All uses of the Licensed Trademarks by Vericel (and its Affiliates, Sublicensees and Distributors) in connection with the Manufacture of Licensed Products in or for the Territory shall be in accordance with Regulatory Approvals and all applicable Laws and MediWound\u2019s quality control guidelines for the Licensed Trademarks, as may be amended from time to time. Vericel (and its Affiliates) shall only use the Licensed Trademarks licensed hereunder in connection with the Manufacture of Licensed Products in the Territory. Vericel shall not (and shall cause its Affiliates, Sublicensee and Distributors not to) use such Licensed Trademarks to identify, or in connection with the marketing of, any other products.",
+    "modified": "9.2 Trademark Licensing Grant. Vericel is granted a non-exclusive, worldwide, sublicensable, royalty-bearing (with royalties to be determined at a later date), license, fully paid-up initially, to use the Licensed Trademarks (as defined in the License Agreement) and a non- exclusive, worldwide, sublicensable, royalty-bearing (with royalties to be determined at a later date), license to use the MediWound name and trademark. In each case, such use shall be permitted for marketing and distribution of Licensed Products outside the Territory. All uses of the Licensed Trademarks by Vericel (and its Affiliates, Sublicensees and Distributors) must comply with Regulatory Approvals, all applicable Laws, and MediWound\u2019s quality control guidelines for the Licensed Trademarks, as may be amended from time to time. Vericel (and its Affiliates) are authorized to use the Licensed Trademarks licensed hereunder solely in connection with the marketing and distribution of Licensed Products outside the Territory. Vericel shall have the right (and shall authorize its Affiliates, Sublicensees and Distributors to) use such Licensed Trademarks to identify, or in connection with the marketing of, any other products within the Territory, provided that it seeks and obtains prior written consent from MediWound.",
+    "contradiction_score": 0.9003772735595703,
+    "kept": true
+  },
+  {
+    "clause_index": 167,
+    "start_char": 83198,
+    "end_char": 83465,
+    "original": "9.1 Ownership . Ownership of all inventions and discoveries made by the Parties in the course of Manufacturing and supply of the Product hereunder (including Manufacture and supply of Product) shall be determined in accordance with the terms of the License Agreement.",
+    "modified": "9.1 Intellectual Property Rights. The exclusive rights to all inventions, discoveries, and innovations arising from the Manufacturing and supply of the Product in this agreement (including any improvements or adaptations thereto) shall initially vest with the Parties jointly, with an understanding that each Party shall have an equal right to exploit, commercialize, or assign such rights. However, the Party that can first secure a valid patent for these intellectual properties under the terms of the License Agreement shall have the sole and exclusive right to further capitalize on them. The other Party shall retain a non-exclusive, royalty-free, worldwide license to use such intellectual properties in conjunction with this agreement.",
+    "contradiction_score": 0.8344150185585022,
+    "kept": true
+  },
+  {
+    "clause_index": 177,
+    "start_char": 88226,
+    "end_char": 88304,
+    "original": "General Counsel All correspondence to MediWound shall be addressed as follows:",
+    "ollama_generated": "General Correspondence: All communications pertaining to MediWound should be directed towards the following contact details:\n\n[This revised clause shifts the responsibility of addressing the correspondence away from the sender and places it on MediWound, making it easier for parties communicating with MediWound to ensure their communications are properly addressed.]",
+    "contradiction_score": 0.006763747427612543,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 181,
+    "start_char": 88635,
+    "end_char": 89109,
+    "original": "11.5  Waiver . No provision of this Agreement shall be waived by any act, omission or knowledge of a Party or its agents or employees except by an instrument in writing expressly waiving such provision and signed by a duly authorized officer of the waiving Party. The waiver by either of the Parties of any breach of any provision hereof by the other Party shall not be construed to be a waiver of any succeeding breach of such provision or a waiver of the provision itself.",
+    "ollama_generated": "11.5 Waiver and Modification. Any deviation from or relaxation of any term or condition in this Agreement must be made in writing, signed by an authorized representative of the party granting the waiver or modification. A waiver or modification of one provision shall not imply a waiver or modification of any other provision, nor shall it constitute a continuing waiver of such term or condition. Any failure to enforce a particular provision should not be deemed a waiver of that or any other provision.",
+    "contradiction_score": 0.030296675860881805,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 183,
+    "start_char": 89822,
+    "end_char": 90024,
+    "original": "11.7  Descriptive Headings . The descriptive headings of this Agreement are for convenience only and shall be of no force or effect in construing or interpreting any of the provisions of this Agreement.",
+    "modified": "11.7. Illustrative Titles: The illustrative titles used throughout this Agreement serve a reference purpose alone and hold no legal weight in the interpretation or application of its respective provisions. The substance of each section shall govern over any titles, headings, or captions for contractual understanding.",
+    "contradiction_score": 0.9288305640220642,
+    "kept": true
+  },
+  {
+    "clause_index": 189,
+    "start_char": 95995,
+    "end_char": 96210,
+    "original": "11.14  No Third Party Rights or Obligations . No provision of this Agreement shall be deemed or construed in any way to result in the creation of any rights or obligation in any Person not a Party to this Agreement.",
+    "ollama_generated": "11.14 Third-Party Limitations on Rights and Obligations: It is explicitly stated that nothing within this Agreement shall be interpreted as conferring any rights, entitlements, or obligations upon any entity not party to this agreement. In essence, the provisions herein are binding only upon the contracting parties.",
+    "contradiction_score": 0.004635999910533428,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 191,
+    "start_char": 96267,
+    "end_char": 97474,
+    "original": "(a) Section 7 of the License Agreement shall govern the use and disclosure of information disclosed by the Parties under this Agreement. Either Party may disclose the terms of this Agreement to the extent required, in the reasonable opinion of such Party\u2019s legal counsel, to comply with applicable Law, including the rules and regulations promulgated by the United States Securities and Exchange Commission or any equivalent governmental agency in any country in the Territory. Before disclosing this Agreement or any of the terms hereof pursuant to this Section 11.15(a) , the Parties will consult with one another on the terms of this Agreement to be redacted in making any such disclosure (which, at a minimum, shall include redaction of certain financial terms), with the disclosing Party providing as much advance notice as is feasible under the circumstances, and giving consideration to the comments of the other Party. Further, if a Party discloses this Agreement or any of the terms hereof in accordance with this Section 11.15(a) , such Party shall, at its own expense, seek such confidential treatment of confidential portions of this Agreement, as may be reasonably requested by the other Party.",
+    "ollama_generated": "(b) The Confidentiality Provisions set out in Section 7 of the License Agreement will apply to all information disclosed between the Parties under this Agreement. Either Party reserves the right, at their discretion and in accordance with the guidance of their respective legal counsel, to disclose the terms of this Agreement when complying with applicable Law or regulations, such as those issued by the United States Securities and Exchange Commission or any comparable governmental agency within the jurisdiction specified in the Agreement. Prior to any such disclosure, the Parties will collaborate on identifying and redacting sensitive information, particularly financial terms, from the disclosed document. The Party making the disclosure will endeavor to provide as much prior notice as feasible under the circumstances and shall take into account the other Party's comments during this process. Moreover, if a Party is required to disclose this Agreement or its terms in accordance with this section, they will bear the cost of seeking confidential treatment for any confidential portions of this Agreement, provided that such request is deemed reasonable by the other Party.",
+    "contradiction_score": 0.2870750427246094,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 192,
+    "start_char": 97474,
+    "end_char": 97952,
+    "original": "(b) No Party to this Agreement shall originate any publicity, news release or other similar public announcement, written or oral, whether relating to this Agreement or any documents or transactions contemplated hereby or the existence of any arrangement between the Parties, without the prior written consent of the other Party whether or not named in such publicity, news release or other similar public announcement, except to the extent permitted under the License Agreement.",
+    "modified": "(b) Each Party reserves the right to issue any publicity, news release, or similar public communication, written or oral, pertaining to this Agreement, any related documents, or transactions envisioned herein, or any arrangement between the Parties, at their own discretion and without prior written consent of the other Party, provided that such disclosure does not breach the confidentiality provisions as outlined in the License Agreement.",
+    "contradiction_score": 0.993793249130249,
+    "kept": true
+  },
+  {
+    "clause_index": 194,
+    "start_char": 98505,
+    "end_char": 98658,
+    "original": "[SIGNATURE PAGE FOLLOWS] 9012190/26 IN WITNESS WHEREOF , the Parties hereto have each caused this Agreement to be duly executed as of the Effective Date.",
+    "ollama_generated": "[SIGNATURE PAGE FOLLOWS] 9012190/26 In witness wherein, the Parties hereto mutually acknowledge their consent to be bound by the terms herein, effective as of the Execution Date.\n\nExplanation: The original clause states that each party has caused the agreement to be executed, which implies an affirmative action. The rewritten clause changes the phrase to \"mutually acknowledge\" their consent, shifting the emphasis from execution to acknowledgment, implying a slightly softer obligation on the parties involved. Furthermore, the Effective Date is replaced with Execution Date, signifying the date when the agreement becomes effective and enforceable, instead of the date the document was physically signed.",
+    "contradiction_score": 0.10216118395328522,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

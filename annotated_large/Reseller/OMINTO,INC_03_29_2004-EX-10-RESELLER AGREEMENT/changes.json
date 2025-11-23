@@ -1,0 +1,120 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 1802,
+    "end_char": 2054,
+    "original": "During the Term of this Agreement, Reseller shall have the right to market Brand-A-Port Portals, both through the existing Brand-A-Port Portal under the License and independently to Buyers for resale, subject to approval by MediaNet Group Technologies.",
+    "ollama_generated": "During the Term of this Agreement, Reseller shall retain the authorization to market Brand-A-Port Portals, including promotion via the current Brand-A-Portal under the License and independently to Buyers, with a proviso that such marketing efforts require preliminary approval by MediaNet Group Technologies. However, any rejections of proposed marketing methods or campaigns shall not hinder Reseller's continued attempts to resell these portals in accordance with the guidelines provided upon approval.",
+    "contradiction_score": 0.0040686894208192825,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 6263,
+    "end_char": 7486,
+    "original": "6.2 EXCLUSIONS. Confidential Information does not include information permitted to be disclosed under section 5 and any information that the Receiving Party can demonstrate by written records: (a) was known to the Receiving Party prior to its disclosure hereunder by the disclosing party\u037e (b) is independently developed by the Receiving Party\u037e (c) is or becomes publicly known through no wrongful act of the Receiving Party\u037e (d) has been rightfully received from a third party whom the Receiving party has reasonable grounds to believe is authorized to make such disclosure without restriction\u037e (e) has been approved for public release by the Disclosing Party's prior written authorization, or (f) must be produced or disclosed pursuant to applicable law, regulation or court order, provided that the receiving party provides prompt advance notice thereof to enable the disclosing party to seek a protective order or otherwise prevent such disclosure. In addition, Reseller and MediaNet Group Technologies may disclose the existence and terms of this Agreement in connection with a potential acquisition of substantially the entire business of the other party, or a private or public offering of securities of either party.",
+    "modified": "6.2 EXCEPTIONS. Confidential Information shall not encompass information that: (a) was already known to the Receiving Party prior to its disclosure as outlined in this Agreement; (b) is independently acquired or created by the Receiving Party; (c) becomes publicly accessible through no fault of the Receiving Party's actions; (d) is received from a third party believed by the Receiving Party to be authorized to disclose such information freely; (e) has been approved for public release by the Disclosing Party in writing, prior to the disclosure; (f) must be revealed due to compliance with applicable law, regulation or court order, upon prompt notification being given to the Disclosing Party to allow them an opportunity to seek a protective order or prevent such disclosure. Moreover, Reseller and MediaNet Group Technologies retain the right to disclose the existence and terms of this Agreement in relation to potential mergers or acquisitions involving substantially all of either party's business, or for private or public securities offerings of either party. However, it is explicitly understood that such disclosures shall be made at the discretion of each party, without any implied or explicit obligation to do so.",
+    "contradiction_score": 0.6217751502990723,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 13580,
+    "end_char": 13743,
+    "original": "13.  MISCELLANEOUS 13.1 ASSIGNMENT. This Agreement will be binding upon and inure to the benefits of the parties hereto and their permitted successors and assigns.",
+    "ollama_generated": "13. TRANSFERABLE OBLIGATIONS. The provisions of this Agreement may be transferred by either party to any third party, with such transferee becoming subject to all obligations and liabilities under this Agreement. However, the original parties remain jointly and severally responsible for any breaches or defaults occurring prior to the transfer.\n\nIn this revised clause, the obligation of assignment is shifted from both parties to any potential third-party assignees, but it is made clear that the original parties retain responsibility for pre-transfer breaches or defaults.",
+    "contradiction_score": 0.2275056540966034,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 13886,
+    "end_char": 14222,
+    "original": "13.2 WAIVER AND AMENDMENT. No modifications, amendment or waiver of any provision of this Agreement shall be effective unless in writing and signed by the party to be charged. No failure or delay by either party in exercising any right, power, or remedy under this Agreement shall operate as a waiver of any such right, power or remedy.",
+    "ollama_generated": "13.2 MODIFICATION, WAIVER, AND AMENDMENT. Any attempt to modify, amend, or waive any provision of this Agreement, either in whole or in part, shall only be valid if made in writing and acknowledged by the party not making the change. Furthermore, the exercise of any right, power, or remedy by either party under this Agreement does not constitute a waiver of such right, power, or remedy for future use or non-use in similar circumstances.",
+    "contradiction_score": 0.021185198798775673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 15214,
+    "end_char": 15573,
+    "original": "13.5 INDEPENDENT CONTRACTORS. The parties are independent contractors with respect to each other. Each party is not and shall not be deemed to be an employees, agent, joint venture Reseller or legal representative of the other for any purpose and shall not have any right, power, or authority to create any obligation or responsibility on behalf of the other.",
+    "modified": "13.5 CONTINGENT ENTITIES. For the purposes of this Agreement, neither party serves as a dependent entity of the other. While each party maintains their own independence, they acknowledge and agree that no employment, agency, joint venture, reselling, or representative relationship exists between them. Neither party shall have the power to incur obligations or create responsibilities binding upon the other.",
+    "contradiction_score": 0.9724007844924927,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 15937,
+    "end_char": 16178,
+    "original": "13.7 COMPLETE UNDERSTANDING. This Agreement constitutes the final, complete and exclusive agreement between the parties with respect to the subject matter hereof, and supersedes any prior or contemporaneous agreement, either written or oral.",
+    "ollama_generated": "13.7 UNAMBIGUOUS AGREEMENT. This Agreement serves as the sole, binding, and definitive understanding between the parties concerning the stated matter, effectively replacing any previous or coinciding agreements, whether in writing or verbally expressed, leaving no room for ambiguity, misinterpretation, or subsequent alterations unless mutually agreed upon by both parties in writing.",
+    "contradiction_score": 0.20673024654388428,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 17634,
+    "end_char": 17762,
+    "original": "IN WITNESS WHEREOF, the parties have caused this Agreement to be executed effective as of the day and year last set forth below.",
+    "ollama_generated": "FOR THE ACKNOWLEDGEMENT OF THIS AGREEMENT, the parties hereto agree that its effective date shall be the one previously specified in this instrument. This Agreement shall remain binding upon the parties for all subsequent periods unless mutually terminated or otherwise amended.\n\nIn case of any discrepancy or ambiguity in the interpretation of this Agreement, the parties acknowledge and agree that the prevailing circumstances at the time of such interpretation shall take precedence over the literal terms of this Agreement.\n\nThis Agreement may only be amended or modified in writing, signed by all parties hereto. In the event that any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.\n\nThe parties undertake to act in good faith, cooperate with each other, and take all reasonable steps necessary for the smooth functioning of this Agreement. However, neither party shall be liable for any losses or damages resulting from a failure to perform any obligation under this Agreement if such failure was due to circumstances beyond their control.\n\nIn witness whereof, the parties have executed this Agreement on the date first above written.",
+    "contradiction_score": 0.020577261224389076,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 22059,
+    "end_char": 22158,
+    "original": "TERMINATION The Reseller Agreement can be terminated at any time at the discretion of either party.",
+    "ollama_generated": "TERMINATION Either party may elect to terminate this Reseller Agreement upon providing written notice to the other, with such termination becoming effective on the specified notice date.",
+    "contradiction_score": 0.0016242234269157052,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 22577,
+    "end_char": 22652,
+    "original": "Reseller shall be entitled to receive compensation in the following manner:",
+    "ollama_generated": "Reseller will have the discretion to request payment, provided that such requests are made in accordance with the guidelines outlined below:\n\n1. The Reseller may submit a written request for compensation to the Supplier on or before the 20th day of each calendar month.\n2. The Supplier shall review the request and make a determination regarding payment within 30 days of receipt of such request.\n3. If the Supplier elects to pay the Reseller, it will do so within 14 days following its determination.\n4. The Reseller acknowledges that it bears the risk of any potential delay or non-payment by the Supplier under this clause. In no event shall the Supplier be liable for any damages or costs incurred by the Reseller as a result of such delay or non-payment, unless otherwise expressly provided in the Agreement.\n5. The compensation payable to the Reseller shall be calculated based on the terms set forth in Section X of this Agreement.\n6. Any dispute arising from the interpretation or application of this clause shall be resolved in accordance with the dispute resolution mechanism set forth in Section Y of this Agreement.",
+    "contradiction_score": 0.005789884831756353,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 23948,
+    "end_char": 24168,
+    "original": "BSP REWARDS MEMBER PURCHASES VOLUME: Amounts due for purchases of products or services shall be calculated as of funds received by the last day of each month and remitted on or before the 15th day of the following month.",
+    "ollama_generated": "BSP REWARDS MEMBER PURCHASES VOLUME: The amount owed for purchases of products or services shall be calculated as of funds received by the last day of each calendar month, and payment remittance will be due no later than 20 days after the end of that month.",
+    "contradiction_score": 0.015816252678632736,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 24592,
+    "end_char": 24775,
+    "original": "Reseller Agreement                                     Initials ______   _______ RESELLER DISTRIBUTOR PRICING STRUCTURE & DETAILS GOLD PORTAL Includes the following available options:",
+    "ollama_generated": "Reseller Agreement\n\nInitials ______   _______ RESELLER DISTRIBUTOR PRICING STRUCTURE & DETAILS SILVER PORTAL (Alternative Pricing Structure)\nIncludes the following available options, which deviate from our standard terms:\n\n1. More Flexible Pricing Tiers: Resellers may opt for pricing tiers that are less stringent, providing greater room for profit margins while still adhering to minimum requirements.\n2. Volume-Based Discounts: Qualifying resellers will receive discounted prices based on the volume of purchases made within a specified period, allowing for substantial savings on larger orders.\n3. Performance-Based Incentives: Resellers may be eligible for additional rewards and incentives, such as exclusive promotions or priority access to new products, when achieving agreed-upon performance targets. These incentives aim to recognize and reward top-performing resellers who contribute significantly to our mutual success.\n4. Customized Contract Terms: In certain circumstances, resellers may request custom contract terms that cater to their unique business needs, subject to approval by our Legal and Compliance team. Such requests should be made in writing and may require additional documentation or information for review and consideration.",
+    "contradiction_score": 0.2711247503757477,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 27249,
+    "end_char": 27644,
+    "original": "4. The Reseller will then have 5 months to bring the registered prospect to contract. If a contract is not consummated in the allotted time-frame, the prospect shall then revert back to MNG. Reseller may then re-register the prospect subject to the above criteria and/or other criteria in effect at the The above criteria points are firm unless a special situation is approved by MNG in writing.",
+    "ollama_generated": "4. Upon successful registration, the Prospect shall remain associated with the Reseller for a period of 5 months. Should no contract be finalized within this timeframe, MNG retains the right to immediately re-acquire the prospect's rights. However, the Reseller may subsequently re-register the same prospect under the same or updated criteria at their discretion, subject to MNG's approval in writing for any special situations. The criteria specified herein are binding unless explicitly waived by MNG in writing.",
+    "contradiction_score": 0.4178122878074646,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

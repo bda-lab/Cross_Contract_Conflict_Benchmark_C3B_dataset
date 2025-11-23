@@ -1,0 +1,111 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 1500,
+    "end_char": 1536,
+    "original": "THE PARTIES HEREBY AGREE AS FOLLOWS:",
+    "ollama_generated": "THE PARTIES HEREBY UNDERSTAND AND CONSENT TO THE FOLLOWING STIPULATIONS:\n\nIn the event that either Party (the \"Initial Claimant\") submits a claim for damages, the other Party (the \"Responding Party\") shall have up to sixty (60) days from receipt of the Initial Claimant's notice to provide a written response. In the absence of such a response within this timeframe, it shall be deemed that the Responding Party does not contest the claim. However, the failure of the Responding Party to respond shall not constitute an admission or waiver of any liability or responsibility on its part, nor shall it bar the Responding Party from raising any defenses or counterclaims in subsequent proceedings. The Initial Claimant's right to seek resolution through binding arbitration, as outlined in this agreement, remains unaffected by this provision.\n\nIn essence, we have altered the original clause to make it clearer that a lack of response from the Responding Party does not necessarily mean acceptance or admission of liability, and that they can still raise defenses or counterclaims later on. Additionally, we have made it explicit that the Initial Claimant retains their right to seek resolution through binding arbitration.",
+    "contradiction_score": 0.013887747190892696,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 2701,
+    "end_char": 3894,
+    "original": "2.  Access and Surface Use. STW agrees to coordinate reasonably with COFS with respect to location of any new wells, roadways, power infrastructure, and other improvements that are to be constructed or used on the Property. COFS shall provide STW rent free site leases for the commercially reasonable amounts of surface area required for CRA pumping and filling stations located on the Property. STW shall pay for or repair all actual damages to roads, fences, or improvements caused by its activities on the Property within sixty (60) days of the occurrence, and will fill and level all pits, mounds, ruts, and shall restore the surface to as near its original condition as is reasonably practicable within ninety (90) days after termination of the provisions of this AGREEMENT related only to the Property. Upon termination of the provisions of this AGREEMENT related to the Property only, STW, or its successors or assigns, shall transfer title of all water conveyance pipelines from the Property to COFS. STW shall administer and provide all necessary and reasonable insurance to insure its activities on the Property in relation to the AGREEMENT and shall list COFS as additional insured.",
+    "ollama_generated": "2. Access and Surface Use Modifications: STW is permitted, but not obligated, to consult with COFS regarding the placement of new wells, roadways, power infrastructure, and other improvements on the Property, with the understanding that COFS may have discretion in the final decision-making process. COFS retains the right to charge STW for site leases for CRA pumping and filling stations located on the Property, at rates determined by COFS in its sole discretion.\n\nIn case of any damages to roads, fences, or improvements caused by STW's activities on the Property, STW shall be responsible for making good-faith efforts to repair such damages as soon as practicable, though it is not required to complete repairs within a specific timeframe. Pits, mounds, ruts, and other surface irregularities caused by STW's activities should be filled and leveled by STW within a reasonable period of time after termination of the agreement, with no specific timeframe specified for restoration to the original condition.\n\nUpon the termination of this AGREEMENT concerning only the Property, COFS shall acquire ownership of all water conveyance pipelines from the Property. STW is responsible for ensuring that it has adequate insurance coverage for its activities on the Property in relation to the AGREEMENT, and may elect to include COFS as an additional insured under these policies. However, COFS shall not be liable for any claims or damages arising out of STW's activities on the Property unless explicitly provided for in this Agreement.",
+    "contradiction_score": 0.09677736461162567,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 4588,
+    "end_char": 5547,
+    "original": "4.  Post-Well Study Generally. The Post-Well Study shall provide information on the feasibility of developing a water well field in that location that would produce water from the CRA for: (a) the availability of a minimum 1,200 gallons per minute (\u201cGPM\u201d) per day CRA water production for STW, its successors or assignees, to sell to communities and users within a 500-mile radius outside of COFS (the \u201cPermitted Sale Water\u201d) during the Term, with the further requirement that STW would be responsible for the pipelines and pumping facilities required to transport the Permitted Sale Water to the intended end-users\u037e and that all such water obtained from the Existing CRA Well contains acceptable levels of Total Dissolved Solids (\u201cTDS\u201d) to meet municipal use standards. If such water does not meet municipal use standards according to the Post-Well Study, STW may either treat the water to municipal use standards or to sell it as-is to industrial end-users.",
+    "ollama_generated": "4. Post-Well Study Specifics: The Post-Well Study is expected to determine the potential for establishing a water well field in the specified location, capable of yielding at least 1,200 gallons per minute (\"GPM\") of CRA water daily for STW, its successors or assigns, for use in providing Permitted Sale Water to communities and users within a 500-mile radius outside COFS. It is understood that the transportation infrastructure, including pipelines and pumping facilities necessary to deliver the Permitted Sale Water to the end-users, will remain the responsibility of the parties acquiring the water. Additionally, the Study should assess whether the water obtained from the Existing CRA Well contains TDS levels compatible with municipal use standards. If, however, the water does not meet these standards, the STW has the option to either treat the water to achieve municipal standards or market it directly to industrial end-users without further treatment.",
+    "contradiction_score": 0.47395387291908264,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 6074,
+    "end_char": 6633,
+    "original": "6.  Construction Requirements. STW\u2019s construction of the improvements to the Existing CRA Well, any Replacement CRA Well, and any additional production wells shall be pursuant to any recommendation and requirements as may be specified by and agreed upon with COFS, and the construction shall also be conducted in a manner meeting prevailing industry standards, the Middle Pecos Groundwater Conservation District regulations, Texas Department of Licensing and Regulation (TDLR) regulations, and the Texas Commission on Environmental Quality (TCEQ) regulations.",
+    "modified": "6. Construction Obligations. The Contractor shall have discretion in the construction methods for the improvements to the Existing CRA Well, any Replacement CRA Well, and any additional production wells, provided that such construction complies with any recommendations and requirements agreed upon with COFS and adheres to prevailing industry standards, Middle Pecos Groundwater Conservation District regulations, Texas Department of Licensing and Regulation (TDLR) regulations, and the Texas Commission on Environmental Quality (TCEQ) regulations. The Owner shall bear responsibility for any deviations from this discretion that result in non-compliance with these standards or regulations.",
+    "contradiction_score": 0.8592065572738647,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 8267,
+    "end_char": 8339,
+    "original": "9.  COFS Responsibili ties.   COFS shall perform the following services:",
+    "ollama_generated": "9. Shared Responsibilities Regarding COFS Services. In the context of this agreement, neither party shall be solely responsible for the performance of COFS-related duties and responsibilities. Rather, both Parties agree to collaborate in good faith to ensure that COFS performs the following services:\n\nThis clause now shifts a portion of the responsibility for COFS's services from one party (COFS) to both parties involved in the agreement. It encourages collaboration between the parties to ensure the performance of COFS-related duties and responsibilities.",
+    "contradiction_score": 0.002396629424765706,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 13059,
+    "end_char": 13141,
+    "original": "b.  Obligations if Post-Well Study shows that the Critical Criterion has been met:",
+    "ollama_generated": "a. Implied Obligation in Case Post-Well Study Indicates Fulfillment of the Critical Criterion:\n\nIn the event that the Post-Well Study suggests that the Critical Criterion has been achieved, there is an implied responsibility on the part of [Party A or B] to proceed with the necessary actions as outlined in this agreement. However, it is essential to note that the failure to meet this obligation does not automatically constitute a breach of contract unless explicitly specified elsewhere in this agreement.",
+    "contradiction_score": 0.0019008738454431295,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 16044,
+    "end_char": 16305,
+    "original": "a.  STW will have one year from completion of the last of the Post-Well Study (ies) completed on the Existing CRA Well or Replacement CRA Well to exercise its option to produce and transport the water produced from the CRA on the Property (\u201cOption to Produce\u201d).",
+    "ollama_generated": "b. The Option to Produce granted to STW for water production and transportation from the CRA Well on the Property will expire one year after the completion of all post-well studies related to the Existing or Replacement CRA Well, unless otherwise extended in writing by the parties. In this case, should STW fail to exercise its Option to Produce within the specified timeframe, it shall forfeit any rights associated with this option without further notice.",
+    "contradiction_score": 0.2829209268093109,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 25785,
+    "end_char": 25977,
+    "original": "However, nothing contained in this AGREEMENT shall be construed as a waiver of any right to question or contest any law, ordinance, order, rule, or regulation in any forum having jurisdiction.",
+    "ollama_generated": "Notwithstanding anything to the contrary in this AGREEMENT, parties reserve the express right to challenge and dispute any purported waiver of their ability to question or contest any law, ordinance, order, rule, or regulation in any forum with applicable jurisdiction.",
+    "contradiction_score": 0.11569981276988983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 26508,
+    "end_char": 26556,
+    "original": "(Signature  Pages Follow) CITY OF FORT STOCKTON:",
+    "ollama_generated": "(Annexed Signature Pages): CITY OF FORT STOCKTON:\n\nIn the event of any discrepancies or ambiguities in the interpretation of this Agreement, the Parties shall make good-faith efforts to reach a mutually acceptable resolution. However, if such efforts fail, the Party responsible for drafting the contested provision(s) shall bear the burden of proof in demonstrating the intended meaning and validity thereof.",
+    "contradiction_score": 0.07791931927204132,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 27151,
+    "end_char": 27231,
+    "original": "Notary Public, State of Texas My Commission Expires STW RESOURCES HOLDING CORP.:",
+    "ollama_generated": "Notarized Agent, State of Texas, for SW Resources Holding Corp., Subject to Renewal or Extension of My Commission:\n\nIn this capacity, I hereby affirm that my authority as a notary public is subject to the renewal or extension of my commission by the appropriate governing body in the State of Texas. It shall be the responsibility of SW Resources Holding Corp. to ensure that my commission remains valid and up-to-date during the duration of any document I notarize for them. Any failure on their part to maintain a current and active commission may render the notarization null and void, but will in no way absolve me from any legal consequences or liabilities arising from my actions in this role.",
+    "contradiction_score": 0.01991494745016098,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 27321,
+    "end_char": 27348,
+    "original": "STW Resources Holding Corp.",
+    "ollama_generated": "STW Resources Holding Corp. shall have the discretionary power to elect, at its sole option and without prior notice, whether to perform the agreed obligations or delegate them to a third party, subject to the condition that such performance or delegation shall not materially compromise the overall quality of the services rendered under this agreement, nor breach any applicable laws or regulations. Any third-party contracted for the purpose of fulfilling STW's obligations hereunder shall be bound by the terms and conditions set forth in this agreement as if they were a party to it. In the event that STW elects not to perform its obligations, it shall remain liable for any damages or losses resulting from such non-performance; provided, however, that STW's liability shall be limited to actual damages suffered by the other party and shall not include any consequential or punitive damages.",
+    "contradiction_score": 0.03374779596924782,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,64 @@
+===========================
+RUN START: 2025-11-17 18:56:55
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_small
+  fresh = False
+===========================
+
+[✓] Affiliate_Agreements/CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf — 4 modified_kept, 33 unchanged, 0 ollama_failed, 6 discarded_low_contradiction
+[✓] Co_Branding/2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf — 3 modified_kept, 73 unchanged, 0 ollama_failed, 12 discarded_low_contradiction
+===========================
+RUN START: 2025-11-17 18:58:39
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_small
+  fresh = False
+===========================
+
+[✓] Development/AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf — 5 modified_kept, 248 unchanged, 0 ollama_failed, 54 discarded_low_contradiction
+[✓] Distributor/FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.pdf — 4 modified_kept, 92 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Endorsement/BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement.pdf — 4 modified_kept, 83 unchanged, 0 ollama_failed, 13 discarded_low_contradiction
+[✓] Franchise/PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1.pdf — 16 modified_kept, 264 unchanged, 0 ollama_failed, 42 discarded_low_contradiction
+[✓] Hosting/Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement.pdf — 1 modified_kept, 23 unchanged, 0 ollama_failed, 3 discarded_low_contradiction
+[✓] IP/ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.pdf — 1 modified_kept, 109 unchanged, 0 ollama_failed, 22 discarded_low_contradiction
+[✓] License_Agreements/AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf — 5 modified_kept, 54 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+===========================
+RUN START: 2025-11-17 19:11:42
+ARGS:
+  change_prob = 0.2
+  contradiction_threshold = 0.5
+  seed = 42
+  nli_model = roberta-large-mnli
+  ollama_model = mistral
+  out_dir = annotated_small
+  fresh = False
+===========================
+
+[✓] Maintenance/AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement.pdf — 12 modified_kept, 328 unchanged, 0 ollama_failed, 60 discarded_low_contradiction
+[✓] Manufacturing/BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.pdf — 4 modified_kept, 69 unchanged, 0 ollama_failed, 10 discarded_low_contradiction
+[✓] Marketing/AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement.pdf — 3 modified_kept, 111 unchanged, 0 ollama_failed, 26 discarded_low_contradiction
+[✓] Outsourcing/FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.pdf — 8 modified_kept, 120 unchanged, 0 ollama_failed, 20 discarded_low_contradiction
+[✓] Promotion/DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.pdf — 5 modified_kept, 253 unchanged, 0 ollama_failed, 52 discarded_low_contradiction
+[✓] Reseller/BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.pdf — 3 modified_kept, 47 unchanged, 0 ollama_failed, 9 discarded_low_contradiction
+[✓] Service/GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf — 4 modified_kept, 75 unchanged, 0 ollama_failed, 16 discarded_low_contradiction
+[✓] Sponsorship/AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.pdf — 3 modified_kept, 70 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Supply/AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf — 2 modified_kept, 66 unchanged, 0 ollama_failed, 14 discarded_low_contradiction
+[✓] Transportation/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.pdf — 7 modified_kept, 105 unchanged, 0 ollama_failed, 15 discarded_low_contradiction
+[✓] Agency Agreements/OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT1.pdf — 5 modified_kept, 105 unchanged, 0 ollama_failed, 19 discarded_low_contradiction
+
+=== FINAL TOTALS (parsed from log) ===
+  total_files = 20
+  total_modified_kept = 99
+  total_modified_discarded = 436
+  total_ollama_failed = 0
+  total_unchanged = 2328
+======================================

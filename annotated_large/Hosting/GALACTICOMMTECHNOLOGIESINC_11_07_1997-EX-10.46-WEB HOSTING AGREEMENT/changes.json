@@ -1,0 +1,22 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 479,
+    "end_char": 626,
+    "original": "Horst Entertainment shall send this amount to Galacticomm by no later than Wednesday for accesses used from the previuos week (Monday thru Sunday).",
+    "ollama_generated": "Galacticomm may request payment from Horst Entertainment, with such payment to be received within a reasonable timeframe, not exceeding the end of the following business week, pertaining to accesses utilized during the preceding seven-day period (commencing on Monday and concluding on Sunday).",
+    "contradiction_score": 0.0017206068150699139,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 1095,
+    "end_char": 1272,
+    "original": "All parties have read and fully agree to all terms and conditions as set forth in this Web Hosting Agreement. Any disputes arising herein shall be settled in a court in FLorida.",
+    "ollama_generated": "All parties acknowledge their understanding of the terms and conditions outlined within this Web Hosting Agreement. It is agreed that any disagreements or disputes emerging from this agreement will initially be addressed through good-faith negotiations between the parties. Should these negotiations fail to resolve the dispute, the matter may then be escalated to a court in Florida for final resolution. This provision governing jurisdiction and venue shall apply regardless of where either party may reside at any time during the term of this agreement.",
+    "contradiction_score": 0.0018406541785225272,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

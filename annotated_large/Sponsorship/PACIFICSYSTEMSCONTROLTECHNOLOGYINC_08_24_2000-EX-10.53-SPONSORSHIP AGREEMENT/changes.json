@@ -1,0 +1,41 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1374,
+    "end_char": 1624,
+    "original": "4)      This is understood between the parties that SLD may resale all or some of the above sponsorship components to other buyers, provided that SLD shall submit third party display materials at least five days prior to the event for ACM's approval.",
+    "ollama_generated": "4) For clarity, it is agreed upon by both parties that ACM may procure additional third-party displays or sponsorship components, subject to SLD's prior written consent, given within a reasonable timeframe not exceeding five business days from receipt of the request. In such cases, SLD shall not be obligated to approve these additional elements if they conflict with the original terms and conditions agreed upon by both parties.",
+    "contradiction_score": 0.02334848791360855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1624,
+    "end_char": 2075,
+    "original": "5)      ACM retains all of its rights under copyright and trademark laws pertaining to the Event's intellectual property, whether registered or unregistered, and any applications of the Event's logo, name, characters and likeness.  Video and audio excerpts of the Event must have ACM's approval in writing prior to such use.  The Sponsor shall retain all of its rights under copyright and trademark laws pertaining to any of its intellectual property.",
+    "modified": "5)      The Sponsor hereby grants to ACM a non-exclusive, royalty-free, worldwide license to use, reproduce, modify, distribute, and display the Event's intellectual property, including but not limited to the Event's logo, name, characters, and likeness for any purpose related to the Event. However, the Sponsor shall retain all moral rights associated with its intellectual property. The Sponsor acknowledges that ACM's approval in writing is required for any use of video or audio excerpts from the Event.",
+    "contradiction_score": 0.8628886938095093,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3052,
+    "end_char": 3308,
+    "original": "8)      This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of California and the laws of Hong Kong.  In the event of a dispute, the parties shall seek mediation at a third country mutually agreed upon.",
+    "ollama_generated": "8) This Agreement will be subject to the exclusive jurisdiction of the courts of either the State of California or Hong Kong, as elected by the party initiating any legal action. In case of a disagreement, the non-initiating party shall have the right to request mediation in a neutral third country, agreed upon in mutual consultation between the parties.\n\nIn this rewritten clause, I've shifted the responsibility for choosing the location of mediation from both parties (original clause) to the non-initiating party (rewritten clause). Additionally, the original clause mentioned that in case of a dispute, the parties \"shall seek\" mediation at a mutually agreed upon third country. In contrast, the rewritten clause states that the non-initiating party \"may request\" mediation, indicating a slightly weaker obligation on their part.",
+    "contradiction_score": 0.022099383175373077,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3556,
+    "end_char": 3738,
+    "original": "10)     This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.",
+    "ollama_generated": "10) Execution of this Agreement need not be completed on a single document; rather, it can be divided into multiple counterparts, each of which will be considered as an individual original, with all such separate parts collectively forming a unified whole and constituting the sole and complete instrument.",
+    "contradiction_score": 0.0038287474308162928,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

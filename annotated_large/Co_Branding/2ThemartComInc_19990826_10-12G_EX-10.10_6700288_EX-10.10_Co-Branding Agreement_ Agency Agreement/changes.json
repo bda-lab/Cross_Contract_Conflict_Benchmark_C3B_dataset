@@ -1,0 +1,148 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 1494,
+    "end_char": 1679,
+    "original": "(f) \"INFORMATION TRANSFER MECHANISM\" means the mechanism by which 2TheMart transfers to i-Escrow information to populate the applicable i-Escrow transaction and user registration forms.",
+    "ollama_generated": "(f) \"INFORMATION TRANSFER MECHANISM\" denotes the process by which i-Escrow receives from 2TheMart the necessary information to fill out the relevant i-Escrow transaction and user registration forms, with the understanding that 2TheMart bears the responsibility for ensuring the accuracy and completeness of such data.",
+    "contradiction_score": 0.0007034876034595072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3219,
+    "end_char": 3493,
+    "original": "2.1 OVERVIEW.  As set forth herein, 2TheMart will promote Services to its auction users (buyers and sellers), and i-Escrow shall develop Co-Branded Site, and develop the Information Transfer Mechanism working with 2TheMart to make Services available seamlessly to Customers.",
+    "modified": "2.1 SUMMARY. In accordance with this agreement, i-Escrow will undertake the development of a Co-Branded Site, as well as the Information Transfer Mechanism, in collaboration with 2TheMart for the purpose of facilitating the seamless availability of Services to 2TheMart's auction users (both buyers and sellers). It is understood that while i-Escrow shall perform these tasks, it will be 2TheMart's responsibility to actively market and promote these Services to its existing user base.",
+    "contradiction_score": 0.6596079468727112,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 4994,
+    "end_char": 5488,
+    "original": "2.3 LAUNCH TIMING.  Each party shall use good faith and reasonable efforts to expeditiously develop the Co-Branded Pages and the Information Transfer Mechanism.  In the event that, after using such efforts, the Launch Date has not occurred within 4 months following the Effective Date, either party may terminate this Agreement by providing written notice.  If only one party has used good faith and reasonable development efforts, only that party may exercise the foregoing right to terminate.",
+    "ollama_generated": "2.3 TIMELINE FOR LAUNCH. Each party shall devote a commensurate level of diligence and necessary resources to the creation of the Co-Branded Pages and the Information Transfer Mechanism. If, after employing such diligence for a period of 4 months following the Effective Date, the Launch Date has not been reached, either party retains the right to terminate this Agreement upon providing written notice. It is important to note that both parties have equal rights to exercise this termination option if they can demonstrate their commitment to timely development efforts. However, in the event that only one party can prove such commitment, that party may choose to be the one to terminate this Agreement.",
+    "contradiction_score": 0.05695763975381851,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 7003,
+    "end_char": 7269,
+    "original": "(d) By displaying a text or graphic link to a page containing information about Services on all auction item pages and bidding pages to educate bidders about i-Escrow. 2TheMart may use the \"Escrow Services Description\" attached in Exhibit A for creating such a page.",
+    "ollama_generated": "(d) The Seller shall provide a text or graphic link on each auction item and bidding page, directing Bidders towards an informational page regarding the Services offered by i-Escrow. 2For convenience, the Seller is authorized to utilize the \"i-Escrow Escrow Services Description\" provided in Exhibit A for the creation of such a page. However, it is expressly understood that the provision and maintenance of this informational page shall be solely the responsibility of the Seller, and TheMart assumes no liability for any inaccuracies or omissions within the content of the page.",
+    "contradiction_score": 0.001119187450967729,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 9755,
+    "end_char": 9860,
+    "original": "6.2 CONTENT OWNERSHIP.  Except as otherwise provided in this Agreement, as between 2TheMart and i-Escrow:",
+    "ollama_generated": "6.2 MATERIALS OWNERSHIP. As specified in this Agreement or otherwise arranged, between 2TheMart and i-Escrow, it is understood that:\n\n1. All intellectual property rights to the materials provided by either party shall remain vested with the original creator.\n2. Neither party grants any transfer of ownership or exclusive rights to the other, except for the limited license granted under this Agreement.\n3. Each party reserves the right to use, reproduce, and distribute the materials provided to them, subject to their respective obligations under this Agreement.",
+    "contradiction_score": 0.41343989968299866,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 16109,
+    "end_char": 16699,
+    "original": "8.3 TERMINATION FOR CHANGE IN COMPANY STRUCTURE.  If a majority of the equity securities of either 2TheMart or i-Escrow, Inc. (except that i-Escrow may sell all or a majority of its equity securities or voting interests to i-Escrow.com, and i-Escrow.com may sell all or a majority of its equity securities or voting interests to i-Escrow's existing shareholders, without triggering the foregoing) are acquired by another company during the term of this Agreement either company may terminate this Agreement, without liability, by giving a thirty (30) days written notice to the other party.",
+    "ollama_generated": "8.3 TERMINATION UPON REORGANIZATION OR MERGER. In the event that either 2TheMart or i-Escrow, Inc. undergoes a reorganization, merger, or consolidation during the term of this Agreement, and as a result, control of either company is transferred to a new entity, either party shall have the right, without incurring any liability, to terminate this Agreement by providing a thirty (30) day written notice to the other party. Such reorganization, merger, or consolidation shall not be triggered solely by the sale of equity securities or voting interests between i-Escrow, Inc., i-Escrow.com, and i-Escrow's existing shareholders.",
+    "contradiction_score": 0.40177077054977417,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 16699,
+    "end_char": 16909,
+    "original": "8.4 TERMINATION FOR BANKRUPTCY. Either party may terminate or suspend this Agreement effective immediately and without liability upon written notice to the other party if any one of the following events occurs:",
+    "ollama_generated": "8.4 TERMINATION UPON SOLVENCY ISSUES. With mutual consent, either party shall have the right to dissolve or temporarily halt this Agreement upon providing written notice to the other party, effective immediately and without incurring any liability, under the following circumstances:\n\n- The receiving party encounters a bankruptcy petition filed against it, or any proceeding or event having similar effect under any applicable law;\n- The receiving party's assets are seized, attached, or otherwise disposed of under any legal process to satisfy a debt or obligation;\n- The receiving party makes an assignment for the benefit of creditors or seeks protection under any bankruptcy, reorganization, readjustment of debts, arrangement, insolvency, or similar law.\n\nThis clause aims to safeguard both parties from potential financial instability or inability to fulfill contractual obligations due to the other party's solvency issues.",
+    "contradiction_score": 0.0014855028130114079,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 20066,
+    "end_char": 20396,
+    "original": "10. LIMITATION ON LIABILITY.  EXCEPT IN THE EVENT OF A BREACH OF SECTION 11, NEITHER PARTY SHALL BE LIABLE FOR SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR LOST PROFITS (HOWEVER ARISING, INCLUDING NEGLIGENCE) ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, EVEN IF THE PARTIES ARE AWARE OF THE POSSIBILITY OF SUCH DAMAGES.",
+    "ollama_generated": "10. LIMITATION ON RESPONSIBILITY. In the rare instance where a breach of Section 11 occurs, neither Party will be held accountable for direct damages, or those that are easily quantifiable, arising from or related to this Agreement, regardless of their origin, such as negligence. However, it is important to note that under normal circumstances, the Parties may still be liable for each other's direct damages.",
+    "contradiction_score": 0.010661345906555653,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 22707,
+    "end_char": 24107,
+    "original": "12.3 PUBLICITY.  Prior to the release of any press releases or other similar promotional materials related to this Agreement, the releasing party shall submit a written request for approval to the other party with a copy of the materials to be released, which Source: 2THEMART COM INC, 10-12G, 8/26/1999 request shall be made no less than three (3) business days prior to the requested release date.  A party shall not unreasonably withhold or delay the granting of its approval of such materials, and such approval shall be provided to the other party within one (1) business day of receipt 12.4 FORCE MAJEURE.  Except as otherwise provided, if performance hereunder (other than payment) is prevented, restricted or interfered with by any act or condition whatsoever beyond the reasonable control of a party (a \"force majeure event\"), the party so affected, upon giving prompt notice to the other party, shall be excused from such performance to the extent of such prevention, restriction or interference.  However, if a force majeure event interferes with the operation of this Agreement for sixty (60) days or more, either party can terminate this Agreement, without penalty.  Notwithstanding the foregoing, the occurrence of any force majeure event shall not limit either party's obligations under Section 9 with respect to any third party claim as to which the other party seeks indemnification.",
+    "modified": "12.3 PUBLICITY. Any press releases or promotional materials related to this Agreement, prior to their release, should be sent for approval by the requesting party to the other, with a minimum of three (3) business days' notice before the proposed release date. The receiving party reserves the right to reasonably delay or withhold approval and has up to five (5) business days from receipt of the materials to provide feedback or approval. Failure to respond within this timeframe may be considered tacit approval. 12.4 FORCE MAJEURE. Save for express provisions, if fulfillment of obligations under this Agreement is impeded by events outside a party's reasonable control (referred to as \"force majeure events\"), that party shall promptly notify the other and be relieved from performance to the extent affected. In such cases, however, the duration of the force majeure event should not exceed fifteen (15) consecutive business days without either party having the option to terminate this Agreement without penalty. It is important to note that the occurrence of any force majeure event shall not exempt parties from their obligations under Section 9 regarding indemnification for third-party claims.",
+    "contradiction_score": 0.6628703474998474,
+    "kept": true
+  },
+  {
+    "clause_index": 69,
+    "start_char": 24836,
+    "end_char": 24979,
+    "original": "1730 South Amphlett Blvd., #215 San Mateo, CA 94402 Fax no. (650) 638-7890 Attention:  President With copy to:           Fred M. Greguras, Esq.",
+    "ollama_generated": "1730 South Amphlett Blvd., Suite 215, San Mateo, CA 94402 Fax no. (650) 638-7890\nAttention: President (Upon receipt of this document, kindly direct your response to Fred M. Greguras, Esq.)\nWith primary correspondence to: Fred M. Greguras, Esq. (Copying the President for informational purposes only)\n\nThis revised clause maintains the original contact information but inverts the condition of responding to the President by making it a secondary action upon receipt of the document. The primary recipient is now Fred M. Greguras, Esq., and the President is copied for informational purposes only.",
+    "contradiction_score": 0.05837644636631012,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 25772,
+    "end_char": 25948,
+    "original": "12.10 RIGHTS AND REMEDIES CUMULATIVE. The rights and remedies provided herein will be cumulative and not exclusive of any other rights or remedies provided by law or otherwise.",
+    "modified": "12.10 RIGHTS AND REMEDIES NON-CUMULATIVE, WITH ADDITIONAL RIGHTS OR REMEDIES PERMITTED. The rights and remedies expressly set forth herein shall not be exclusive of any other rights or remedies that may be available by law or otherwise, but rather these rights and remedies are supplementary to any additional rights or remedies that may be applicable.\n\n(This version suggests that the rights and remedies listed in the contract are supplementary or additional to those available under law or other agreements, rather than being cumulative where only one can be enforced at a time.)",
+    "contradiction_score": 0.971659243106842,
+    "kept": true
+  },
+  {
+    "clause_index": 74,
+    "start_char": 25948,
+    "end_char": 26339,
+    "original": "12.11 NONWAIVER.   No failure or forbearance by either party to exercise any right or insist upon or enforce performance of any obligation hereunder shall be deemed a waiver or relinquishment to any extent of that or any other right or obligation, in that or any other instance\u037e rather, the Source: 2THEMART COM INC, 10-12G, 8/26/1999 same shall be and shall remain in full force and effect.",
+    "ollama_generated": "12.11 NO CONCESSION. Any omission by either party to enforce or exercise any right or obligation under this agreement will not be construed as a surrender or relinquishment of that or any other rights or obligations, either in the present case or any future instances. Instead, such non-enforcement shall not affect or diminish the full force and effect of the same rights and obligations in question.\n\nThe main difference between the original clause and the rewritten one is the change in tone from \"nonwaiver\" to \"no concession\". The original implies that a party's decision not to enforce an obligation is based on strategic reasons or leniency, whereas \"no concession\" suggests a more neutral stance that a party may choose not to exercise their rights for tactical or pragmatic purposes. However, both clauses convey the same legal principle: that a party's non-enforcement of an obligation does not waive their right to enforce it in the future.",
+    "contradiction_score": 0.043017975986003876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 28338,
+    "end_char": 28518,
+    "original": "When an auction ends, your end of auction email contains links to i-Escrow. Once you have signed up with i-Escrow   you go through the following steps to complete your transaction.",
+    "ollama_generated": "Upon the conclusion of the auction, your post-auction email will provide you with i-Escrow links for registration. It is solely your discretion whether or not to sign up with i-Escrow, and should you choose to do so, you are responsible for completing the necessary steps to finalize the transaction independently, acknowledging that the platform offers no guarantee for the successful completion of the process.",
+    "contradiction_score": 0.1281803697347641,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 28898,
+    "end_char": 29025,
+    "original": "4.   i-Escrow informs the seller that payment has been received, requesting them to ship the merchandise directly to the buyer.",
+    "modified": "4. i-Escrow notifies the seller that the payment will be processed imminently, to which the seller is requested to hold onto the merchandise until such time that the payment has been successfully completed and confirmed by i-Escrow, after which the seller may ship the merchandise directly to the buyer.",
+    "contradiction_score": 0.886417806148529,
+    "kept": true
+  },
+  {
+    "clause_index": 87,
+    "start_char": 29244,
+    "end_char": 29364,
+    "original": "For more information about I-Escrow, visit their web-site at www.iescrow.com Source: 2THEMART COM INC, 10-12G, 8/26/1999",
+    "ollama_generated": "Should additional insights regarding I-Escrow be required, kindly direct your attention towards their official website at www.iescrow.com. In the event that any clarification or assistance is necessary, we recommend reaching out to them directly for a prompt and comprehensive response. [Origin: 2THEMART COM INC, 10-12G, 8/26/1999]",
+    "contradiction_score": 0.002578961895778775,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

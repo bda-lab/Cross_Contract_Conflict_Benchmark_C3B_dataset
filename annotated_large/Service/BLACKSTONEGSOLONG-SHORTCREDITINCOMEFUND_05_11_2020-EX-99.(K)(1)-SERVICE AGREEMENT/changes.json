@@ -1,0 +1,190 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 468,
+    "end_char": 766,
+    "original": "1. Appointment . Client appoints Agent as its transfer agent, registrar and dividend disbursing agent and Agent accepts such appointment in accordance with and subject to the following terms and conditions for all authorized shares of each class of stock listed in Exhibit A  hereto (the \u201cShares\u201d).",
+    "ollama_generated": "1. Delegation . The Agent is hereby delegated by the Client as its transfer agent, registrar, and dividend disbursing agent, and the Agent assumes this role voluntarily, subject to the terms and conditions outlined below for all authorized shares of each class of stock listed in Exhibit A hereto (the \"Shares\"). However, the Agent shall not be held liable for any actions or omissions related to the Shares unless such actions or omissions are willful misconduct or gross negligence on the part of the Agent.\n\nThis revised clause shifts some of the responsibility from the Agent to the Client by stating that the Agent shall not be liable for actions or omissions related to the Shares, unless they constitute willful misconduct or gross negligence. This change in wording makes the obligation on the Agent weaker as it now exempts them from liability except in cases of serious wrongdoing.",
+    "contradiction_score": 0.023614319041371346,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 4452,
+    "end_char": 5833,
+    "original": "(a) Agent is a limited liability company duly organized and validly existing under the laws of its state of organization\u037e (b) Agent is, and for the term of this Agreement shall remain, duly registered as a transfer agent under the Exchange Act\u037e (c) subject to Section 7 hereof, during the term of this Agreement, Agent shall comply with its obligations as a transfer agent under the Exchange Act and the rules and regulations thereunder\u037e and (d) assuming the accuracy of Client\u2019s representations and warranties and compliance by Client with its covenants hereunder, the execution and delivery of this Agreement, and the performance by Agent of its obligations in accordance with this Agreement, do not and will not conflict with, violate, or result in a breach of, the terms, conditions or provisions of, or constitute a default under, the organizational documents of Agent, any law or regulation, any order or decree of any court or public authority having jurisdiction, or any mortgage, indenture, contract, agreement or undertaking to which Agent is a party or by which it is bound. This Agreement has been duly authorized, executed and delivered by Agent and is enforceable against Agent in accordance with its terms, except as may be limited by bankruptcy, insolvency, moratorium, reorganization and other similar laws affecting the enforcement of creditors\u2019 rights generally.",
+    "ollama_generated": "(a) The Principal (hereinafter \"Principal\") is a duly organized and existing limited liability company in accordance with the laws of its state of incorporation; (b) Principal is, and shall remain for the duration of this Agreement, duly registered as a transfer agent under the Exchange Act; (c) provided that Section 7 hereof does not apply, during the term of this Agreement, Principal shall fulfill its duties as a transfer agent under the Exchange Act and the rules and regulations thereunder; and (d) on the assumption that the representations and warranties of the Client are accurate and the Client complies with its obligations under this Agreement, the execution and delivery of this Agreement, as well as Principal's performance of its duties in accordance with this Agreement, will not conflict with, breach, or violate any provisions, terms, conditions, or covenants set forth in: (i) Principal's organizational documents; (ii) any applicable law or regulation; (iii) any order or decree of any court or public authority having jurisdiction; (iv) any mortgage, indenture, contract, agreement, or undertaking to which Principal is a party or by which it is bound. This Agreement has been properly authorized, executed, and delivered by Principal and can be enforced against Principal in accordance with its terms, subject only to the limitations imposed by bankruptcy, insolvency, moratorium, reorganization, and similar laws affecting the enforcement of creditor rights.",
+    "contradiction_score": 0.16133248805999756,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 8675,
+    "end_char": 8702,
+    "original": "8. Limitation of Liability.",
+    "ollama_generated": "8. Scope of Responsibility.\n\nIn no event shall the Parties be held liable for any indirect, special, incidental, or consequential damages resulting from the use or inability to use the services provided hereunder, including but not limited to loss of profits, revenue, goodwill, or data, whether based on warranty, contract, tort (including negligence), or any other legal theory, and even if a Party has been advised of the possibility of such damages. The aggregate liability of each Party under this Agreement shall be limited to the amounts paid by either Party for the services provided hereunder during the twelve (12) months preceding the event giving rise to the claim.",
+    "contradiction_score": 0.055113837122917175,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 10815,
+    "end_char": 11450,
+    "original": "10. Market Data.  Client acknowledges that Agent may provide real-time or delayed quotations and other market information and messages (\u201cMarket Data\u201d), which Market Data is provided to Agent by certain national securities exchanges and associations who assert a proprietary interest in Market Data disseminated by them but do not guarantee the timeliness, sequence, accuracy or completeness thereof. Client agrees and acknowledges that Agent shall not be liable in any way for any loss or damage arising from or occasioned by any inaccuracy, error, delay in, omission of, or interruption in any Market Data or the transmission thereof.",
+    "modified": "10. Market Data. The Client acknowledges and consents to the Agent's provision of real-time or delayed quotations, market information, and messages (collectively, \"Market Data\"), understanding that this Market Data is sourced from certain national securities exchanges and associations who claim proprietary rights over such data but do not guarantee its timeliness, sequence, accuracy, or completeness. The Client accepts full responsibility for any losses or damages arising from or resulting from the use of such Market Data, including but not limited to any inaccuracies, errors, delays, omissions, or interruptions in the Market Data or its transmission. The Agent shall not be held liable under any circumstances for such losses or damages.",
+    "contradiction_score": 0.8379265666007996,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 15036,
+    "end_char": 15056,
+    "original": "13. Confidentiality.",
+    "ollama_generated": "13. Limited Disclosure Obligations.\n\nParties acknowledge that certain information shared during the course of this agreement may be considered confidential. However, each Party reserves the right to disclose such information: (i) as required by law or regulatory authority; (ii) to their respective advisors, affiliates, and service providers who are bound by a duty of confidentiality, or (iii) if the information has become or is generally available to the public through no fault of either Party.\n\nThis obligation does not extend to any information that was known by the receiving party prior to receipt from the disclosing party, or any independently developed by the receiving party without reference to the disclosed information.",
+    "contradiction_score": 0.11037968844175339,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 18631,
+    "end_char": 19188,
+    "original": "(b) Agent may conduct a more in-depth search for the purpose of (i) locating lost stockholders for whom a new address is not obtained in accordance with clause (a) above, (ii) identifying stockholders who are deceased (or locating their next of kin) and (iii) locating stockholders whose accounts contain two or more consecutive uncashed checks, in each case using the services of a locating service provider selected by Agent. Such provider may compensate Agent for processing and other services that Agent provides in connection with such in-depth search.",
+    "ollama_generated": "(b) The Principal shall be responsible for undertaking a comprehensive search, should it prove necessary, with the following objectives: (i) To uncover the whereabouts of former shareholders when updated contact information is not provided as per clause (a) above, (ii) To ascertain the status of shareholders who have passed away (or to locate their legal heirs), and (iii) To trace shareholders whose accounts have had two or more unclaimed checks for consecutive periods. The Principal may opt to engage a locating service provider of its choice to aid in this extensive search. It is understood that such a service provider may remunerate the Principal for the services rendered during this comprehensive search process.",
+    "contradiction_score": 0.23844896256923676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 19188,
+    "end_char": 20288,
+    "original": "(c) Upon locating any stockholder (or next of kin) pursuant to clause (b) above, the locating service provider shall clearly identify to such stockholder (or next of kin) all assets held in such stockholder\u2019s account. Such provider shall inform any such located stockholders (or next of kin) that they may choose either (i) to contact Agent directly to obtain the assets in such account, at no charge other than any applicable fees to replace lost certificates, or (ii) to use the services of such provider for a fee, which may not exceed (A) 10% of the asset value of such stockholder\u2019s property where the registered stockholder is a living person or (B) 20% of the asset value of such stockholder\u2019s property where the registered stockholder is deceased or is not a natural person\u037e provided that in no case shall such fee exceed the maximum statutory fee permitted by the applicable state jurisdiction. If Client selects a locating service provider other than one selected by Agent, then Agent shall not be responsible for the terms of any agreement with such provider and additional fees may apply.",
+    "ollama_generated": "(c) Upon successful identification of any former stockholder (or their legal representatives) under clause (b) above, the identified party will be notified about all assets held in their account. The service provider is obligated to offer assistance in accessing these assets, with the condition that they may do so for a fee, which shall not exceed:\n\n(A) 10% of the asset value of the property if the registered stockholder is alive and has legal capacity, or\n(B) 20% of the asset value of the property if the registered stockholder is deceased or not a natural person. However, it's important to note that this fee will never surpass the maximum statutory fee permitted by the applicable state jurisdiction.\n\nIn instances where the Client elects to engage a locating service provider other than one recommended by Agent, the Agent shall bear no responsibility for any terms of the agreement with such third-party provider and additional fees may be incurred.",
+    "contradiction_score": 0.008968474343419075,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 20323,
+    "end_char": 20483,
+    "original": "(a) Commencing on the Effective Date, Client shall compensate Agent for its services hereunder in accordance with the fee schedules listed in Exhibit B  hereto.",
+    "ollama_generated": "(a) Initiating from the Effective Date, Agent shall be entitled to receive compensation from Client for the services rendered under this agreement, as outlined in Exhibit B attached hereto, on a timely basis and at the sole discretion of Agent, subject to any adjustments as mutually agreed upon by both parties.",
+    "contradiction_score": 0.011152466759085655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 22565,
+    "end_char": 22606,
+    "original": "If to Client: with an additional copy to:",
+    "ollama_generated": "In the event that Client requests further copies of the Agreement, an additional copy shall be provided solely at the discretion of Provider, and notice of such provision will not be given to any third party.",
+    "contradiction_score": 0.09202195703983307,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 24294,
+    "end_char": 24480,
+    "original": "(b) Governing Law.  This Agreement shall be governed by, construed and interpreted in accordance with the laws of the State of New York, without regard to principles of conflicts of law.",
+    "ollama_generated": "(b) Jurisdictional Regulations. The terms of this Agreement will be subject to the regulations, interpretation, and application of laws within the jurisdiction of the State of New York, disregarding any rules or principles that might otherwise suggest a different applicable law. However, it is understood that any disputes arising from this Agreement may potentially be subject to resolution in accordance with the forum selection clause (Clause A).",
+    "contradiction_score": 0.07765424996614456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 24483,
+    "end_char": 24617,
+    "original": "(c) Survival of Terms.  Sections 7, 8, 13 and 16 hereof shall survive termination of this Agreement and Agent\u2019s appointment hereunder.",
+    "ollama_generated": "(c) Persistence of Obligations. Regardless of the expiration or termination of this Agreement and any subsequent cessation of the Agent's role, Sections 7, 8, 13, and 16 will continue to bind both parties.",
+    "contradiction_score": 0.0021881030406802893,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 24617,
+    "end_char": 25402,
+    "original": "(d) Assignment.  This Agreement shall be binding upon the parties hereto and their respective successors and assigns\u037e provided that this Agreement may not be assigned, or otherwise transferred, in whole or in part, by either party without the prior written consent of the other party, which the other party will not unreasonably withhold, condition or delay\u037e and provided further that (i) consent is not required for an assignment to an affiliate of Agent and (ii) any reorganization, merger, consolidation, sale of assets or other form of business combination by Agent shall not be deemed to constitute an assignment of this Agreement. Any attempted assignment in violation of the foregoing will be void. The Agent agrees to provide notices of such successor Agent to the other party.",
+    "ollama_generated": "(d) Assignment and Transfers: This Agreement is binding upon the Parties and their permitted assignees, subject to the condition that either Party may transfer or assign this Agreement entirely or in part, provided that such assignment or transfer requires the prior written consent of the non-assigning Party. The withholding, conditioning, or delay of such consent shall not be unreasonable, unless the proposed assignee is a direct competitor of the original Assignor. Notably, consent is not required for an assignment to an affiliate of the Assignee or in cases where Agent undergoes a reorganization, merger, consolidation, sale of assets, or any other form of business combination, which shall not be deemed as an assignment of this Agreement. Any unauthorized attempt at assignment shall render the agreement null and void. The Assignor shall promptly notify the other Party in writing of any such assignee or successor agent.",
+    "contradiction_score": 0.046157386153936386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 26141,
+    "end_char": 26503,
+    "original": "(h) Entire Agreement.  This Agreement constitutes the entire understanding of the parties with respect to the subject matter hereof and supercedes all prior written or oral communications, understandings, and agreements with respect to the subject matter of this Agreement. The parties acknowledge that the Exhibits hereto are an integral part of this Agreement.",
+    "ollama_generated": "(h) Comprehensive Understanding. This Agreement represents the complete summation of the parties' agreements regarding the subject matter, and any prior written or oral communications, agreements, or understandings, whether formal or informal, are hereby superseded. The parties affirm that the Exhibits incorporated within this Agreement are integral to its terms and form an essential part thereof. Any future amendments or modifications must be in writing and signed by both parties to be valid.",
+    "contradiction_score": 0.001996493898332119,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 26789,
+    "end_char": 27652,
+    "original": "(j) Customer Identification Program.  Client acknowledges that Agent is subject to the customer identification program (\u201cCustomer Identification Program\u201d) requirements under the USA PATRIOT Act and its implementing regulations, and that Agent must obtain, verify and record information that allows Agent to identify Client. Accordingly, prior to accepting an appointment hereunder, Agent may request information from Client that will help Agent to identify Client, including without limitation Client\u2019s physical address, tax identification number, organizational documents, certificate of good standing, license to do business, or any other information that Agent deems necessary. Client agrees that Agent cannot accept an appointment hereunder unless and until Agent verifies Client\u2019s identity in accordance with the Customer Identification Program requirements.",
+    "ollama_generated": "(j) Identity Verification Process. The Client acknowledges that they may be required to participate in the Agent's identity verification process (\"Identity Verification Process\") as mandated by the USA PATRIOT Act and its regulatory guidelines. Consequently, the Client consents to provide such information as the Agent may request for this purpose, which may encompass but is not limited to their physical address, tax identification number, organizational documents, certificate of good standing, license to do business, or any other relevant data deemed necessary by the Agent. The Client understands that the Agent reserves the right to commence work under this agreement only after satisfactorily verifying the Client's identity in compliance with the Identity Verification Process requirements. However, the failure to provide the required information may delay or prevent the initiation of the services provided herein.",
+    "contradiction_score": 0.006616732571274042,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 36838,
+    "end_char": 40720,
+    "original": "\u2022Processing records and property subject to reporting based upon current state statutes, rules, and regulations \u2022Identifying property that has become escheatable since the last filing date \u2022Assist in reviewing state regulations to determine if there have been any changes in reporting procedures \u2022Reporting and remitting property to states Proxy and Annual Meeting Functions \u2022Assisting in Annual Meeting planning \u2022Processing and mailing Annual Meeting materials \u2022Provide eKit interactive Annual Meeting materials integrated with Internet Proxy Voting \u2022Tabulating physical (both scanner and manual) proxies returned by shareholders \u2022Soliciting registered shareholders for their consent to receive electronic meeting materials \u2022Collecting, processing and archiving electronic consents and revocations \u2022Tabulating telephone and Internet proxies returned by shareholders \u2022Identifying shareholders who will attend the Annual Meeting \u2022Providing Inspector(s) of Election for the Annual Meeting \u2022Maintaining an automated link with (i) DTC to redistribute record date Cede & Co. share positions to participants and (ii) ADP to receive transmissions of broker votes \u2022Providing certified list of record date holders \u2022Processing omnibus proxies for respondent banks \u2022Providing report of final vote \u2022Providing remote access to proxy tabulation system Web Services and System Access \u2022Providing Client access to Agent\u2019s mainframe inquiry and internet via Client ServiceDirect \u2022Providing daily data on registered shareholders \u2022Providing daily access to proxy tabulation file during proxy season \u2022Providing Shareholder access to their account via Investor ServiceDirect \u2022Providing on-line access to shareholder statements and tax forms via MLink OTHER SERVICES AND CHARGES Shareholder Plan Enrollment : If Client has appointed a banking affiliate of Agent to administer a direct stock purchase and/or dividend reinvestment plan, Agent (on behalf of such affiliate) shall accept requests by Client\u2019s shareholders to enroll Shares in such plan via paper enrollment form, in the case of certificated securities, and via paper enrollment form, Internet enrollment and telephonic enrollment, in the case of book-entry (i.e., Direct Registration System) securities. If Client has not appointed a banking affiliate of Agent to administer a direct stock purchase or dividend reinvestment plan, then Client hereby appoints and directs a banking affiliate of Agent to implement and administer a share selling program (\u201cProgram\u201d) pursuant to which shareholders may enroll book-entry Shares in the Program in order to liquidate them under the following terms and conditions. The Program transaction fee for each such sale shall be $15.00 plus $0.12 per Share. Under the Program, upon receipt of a sale request by a registered shareholder, Agent (on behalf of such banking affiliate) will process the request through an affiliated registered broker/dealer. Proceeds of each sale under the Program will be sent to the shareholder in the form of a check (less the transaction fee). Sale requests under the Program will typically be combined with other sale requests received from Client shareholders and Shares will be submitted in bulk to an affiliated registered broker/dealer for sale. Shares will be sold under the Program generally within one business day of Agent\u2019s receipt (on behalf of such banking affiliate) of the sale request, but in no event more than five business days (except where deferral is necessary under state or federal regulations). The price per Share received by the selling shareholder under the Program will equal the market price Agent (on behalf of such banking affiliate) receives for the Shares (or, if more than one bulk trade is executed on the day the Shares are sold, then the price per Share shall equal the weighted average market price received for all Shares sold that day).",
+    "ollama_generated": "\u2022Handling records and assets subject to reporting based on current federal and state statutes, guidelines, and legislation \u2022Determining property that has become escheatable post the last filing date \u2022Assisting in reviewing federal regulations to ascertain any alterations in reporting requirements \u2022Facilitating the submission of reports and payments to states for Proxy and Annual Meeting Functions \u2022Aiding in the planning process for Annual Meetings \u2022Processing and mailing Annual Meeting materials \u2022Delivering eKit interactive Annual Meeting materials seamlessly integrated with Internet Proxy Voting \u2022Compiling physical (both scanner and manual) proxies cast by shareholders for tabulation \u2022Seeking registered shareholders' approval to receive electronic meeting materials electronically \u2022Recording, processing, and archiving electronic consents and revocations \u2022Compiling telephone and Internet proxies cast by shareholders for tabulation \u2022Identifying attendees of the Annual Meeting \u2022Providing Inspector(s) of Election for the Annual Meeting \u2022Establishing an automated link with (i) DTC to redistribute record date Cede & Co. share positions to participants and (ii) ADP to receive broker votes transmission \u2022Supplying a certified list of record date holders \u2022Processing omnibus proxies on behalf of respondent banks \u2022Delivering report of final vote \u2022Offering remote access to proxy tabulation system Web Services and System Access \u2022Providing Client access to Agent\u2019s mainframe inquiry and internet via Client ServiceDirect \u2022Supplying daily data on registered shareholders \u2022Permitting daily access to the proxy tabulation file during proxy season \u2022Facilitating shareholder access to their account via Investor ServiceDirect \u2022Offering on-line access to shareholder statements and tax forms via MLink\n\nOTHER SERVICES AND CHARGES\nShareholder Plan Enrollment: If Client has not designated a banking affiliate of Agent to manage a direct stock purchase or dividend reinvestment plan, the Client hereby authorizes and directs a banking affiliate of Agent to establish and administer a share liquidation program (\"Program\") under which registered shareholders may enroll book-entry Shares for liquidation according to the following terms and conditions. A transaction fee of $15.00 plus $0.12 per Share will be charged for each sale through the Program. Upon receiving a sale request from a registered shareholder, Agent (on behalf of the banking affiliate) will process the request via an affiliated broker/dealer. The proceeds from each sale under the Program will be disbursed to the shareholder in the form of a check (deducting the transaction fee). Sale requests will generally be grouped with other sale requests from Client's shareholders and submitted for bulk trade. Shares will typically be sold within one business day of receipt, but not more than five business days (except where deferral is necessary under state or federal regulations). The price per Share received by the selling shareholder under the Program will correspond to the market price Agent (on behalf of the banking affiliate) obtains for the Shares (or, if multiple bulk trades are executed on the day the Shares are sold, then the price per Share shall be the weighted average market price obtained for all Shares sold that day).",
+    "contradiction_score": 0.06750208884477615,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 45224,
+    "end_char": 45560,
+    "original": "1. An adequate supply of Share certificates (including new Share certificates and specimens whenever the form thereof shall change), properly signed, by facsimile or otherwise, by officers of Client authorized by law or by Client\u2019s By-Laws to sign Share certificates, and, if required, bearing the corporate seal or a facsimile thereof.",
+    "ollama_generated": "1. A sufficient quantity of Share certificates (including new Share certificates and specimen copies whenever the format is altered), duly signed by officers of Client authorized under law or the Client's By-Laws to sign such documents, may be provided via facsimile or other means, and, if necessary, may bear the corporate seal or an acceptable replica thereof. However, the Client is not obligated to provide Share certificates in instances where their absence will not materially impact the exercise of the rights associated with the shares.",
+    "contradiction_score": 0.013860479928553104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 47148,
+    "end_char": 48199,
+    "original": "d) each shareholder list provided to Agent is true and complete\u037e or no Shares are outstanding\u037e e) the name of each stock exchange upon which any of the Shares are listed and the number and identity of the Shares so listed\u037e f) the name and address of each co-Transfer Agent, Registrar (other than Agent) or co-Registrar for any of the Shares and the extent of its appointment, or there are no co-Transfer Agents, Registrars (other than Agent) or co-Registrars for any of the Shares\u037e and g) the officer(s) of Client, who executed this Agreement as well as any certificates or papers delivered to Agent pursuant to this Agreement (including without limitation any Share certificates, as such certificates may be amended from time to time), were validly elected or appointed to, and are the incumbents of, the offices they purported to hold at the time of such execution and delivery, are authorized to execute this Agreement as well as all other certificates or papers delivered hereunder, and that their signatures on all such documentation are genuine.",
+    "ollama_generated": "a) Each provided shareholder list to the Agent is accurate and exhaustive; however, should any Shares be outstanding, the Agent assumes no responsibility for identifying them; b) The name of each stock exchange where any Shares are or may become listed, and the number and identity of the Shares traded thereon; c) The name and address of any co-Transfer Agent, Registrar (other than the Agent), or co-Registrar for any of the Shares, along with the scope of their appointment. Should there be no co-Transfer Agents, Registrars (other than the Agent), or co-Registrars for any of the Shares, this fact is not warranted by the Client; d) The officer(s) of the Client, who executed this Agreement and any certificates or papers delivered to the Agent in accordance with this Agreement (including but not limited to Share certificates, as these may be amended from time to time), were validly elected or appointed at the time of such execution and delivery. While we strive for authenticity, the Client bears sole responsibility for verifying the legitimacy of their signatures on all documentation delivered hereunder.",
+    "contradiction_score": 0.4260343909263611,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 50455,
+    "end_char": 50505,
+    "original": "8. A completed Internal Revenue Service Form 2678.",
+    "modified": "8. An incompletely filled-out Internal Revenue Service Form 2678, to be submitted no later than the due date of the related tax return filing, with the understanding that any omissions or errors may lead to delays and potential penalties.",
+    "contradiction_score": 0.996782660484314,
+    "kept": true
+  },
+  {
+    "clause_index": 83,
+    "start_char": 50506,
+    "end_char": 50552,
+    "original": "9. A completed Form W-8 or W-9, as applicable.",
+    "ollama_generated": "9. It is not mandatory for the parties to submit a completed Form W-8 or W-9, but if either party chooses to do so, they are responsible for ensuring its timely and accurate completion.",
+    "contradiction_score": 0.01082244049757719,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

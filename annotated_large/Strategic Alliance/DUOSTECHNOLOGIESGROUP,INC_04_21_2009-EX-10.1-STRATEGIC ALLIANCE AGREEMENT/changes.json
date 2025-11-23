@@ -1,0 +1,258 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 549,
+    "end_char": 715,
+    "original": "Background WHEREAS,  Rubicon desires to engage ISA as Rubicon \u2019s exclusive agent in the United States  for the purposes of reselling Rubicon \u2019s software and services;",
+    "modified": "Background UNDERSTANDING THAT: ISA expresses a willingness to serve as the sole, non-exclusive representative for Rubicon within the United States, with authority to market and distribute Rubicon's software and services.\n\nIn this revised version, I've weakened the exclusivity obligation in favor of the agent (ISA). Instead of being Rubicon's exclusive agent, ISA is now only a non-exclusive representative, which means they can represent other companies or entities besides Rubicon in the same market.",
+    "contradiction_score": 0.746631383895874,
+    "kept": true
+  },
+  {
+    "clause_index": 7,
+    "start_char": 2655,
+    "end_char": 2927,
+    "original": "1.2 Contract Services  shall mean  various software development and implementation services to be provided by  Rubicon as described in one or more Statement(s) of Work ( \u201cSOW\u201d) that reference  this Agreement in a form substantially similar to that set forth in Exhibit A .",
+    "ollama_generated": "1.2 The Services under this Contract shall encompass diverse software development and implementation tasks, as outlined in one or more Statements of Work (hereinafter referred to as \"SOW\"), which are expected to reference this Agreement, albeit not necessarily requiring an exact replication of the form as presented in Exhibit A.",
+    "contradiction_score": 0.026665879413485527,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3922,
+    "end_char": 4135,
+    "original": "1.5 Documentation  shall mean the  printed and/or electronic materials relating to the Rubicon Offerings,  including, but not limited to, user\u2019s manuals and technical manuals as may be  provided by Rubicon to ISA.",
+    "ollama_generated": "1.5 For the purposes of this Agreement, \"Documentation\" shall encompass any printed or electronic materials pertaining to the Rubicon Offerings, such as user manuals, technical specifications, and any other related documentation that may be supplied by Rubicon to ISA, with the understanding that ISA is responsible for obtaining and maintaining all necessary additional resources or documentation not explicitly provided.",
+    "contradiction_score": 0.0015869169728830457,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 4271,
+    "end_char": 4436,
+    "original": "1.7 End User  shall mean a party  that obtains a license to use the Rubicon Offerings from ISA or a customer of  ISA under the terms and conditions set forth herein.",
+    "ollama_generated": "1.7 The term \"End User\" shall denote any entity or individual granted permission to utilize the Rubicon Offerings, either directly by ISA or as a client of ISA, subject to the provisions and stipulations outlined within this agreement.\n\nChanges made:\n- Changed \"shall mean\" to \"denote\" for a slightly more passive phrasing.\n- Added \"either directly by ISA or as a client of ISA\" to broaden the definition of End User.",
+    "contradiction_score": 0.011978233233094215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 12812,
+    "end_char": 13007,
+    "original": "4.5 Audits . Each Party  shall retain the financial records relating to all payments owed and/or paid  under this Agreement for a period of six years from the date such payment  obligation arose.",
+    "ollama_generated": "4.5 Financial Records Retention: Each Party is strongly recommended, though not mandatorily bound, to preserve financial records associated with all payments owed and/or made in accordance with this Agreement for a duration of six years, commencing from the time when such payment obligation was initiated. The records' preservation beyond this period shall be at the discretion of each Party.",
+    "contradiction_score": 0.004079486709088087,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 17584,
+    "end_char": 18765,
+    "original": "5.3 Rubicon\u2019s Intellectual  Property . As between ISA and Rubicon, all right, title and  interest in and to the Rubicon Offerings and, subject to the provisions of  Section 5.2, any other Intellectual Property of Rubicon, including,  without limitation, as  used by Rubicon or ISA hereunder, all goodwill associated therewith and the  copyright and all other Intellectual Property rights inherent in or appurtenant  to the foregoing are and shall be the sole property of  Rubicon.  ISA acknowledges that, except as otherwise set  forth herein, neither it nor any other persons or entities will by virtue of  this Agreement acquire any ownership interest in such Intellectual Property, or  the Intellectual Property rights inherent in or appurtenant to any of the  foregoing, or any associated goodwill and that its rights thereunder are  strictly limited to those specifically granted in this Agreement.  ISA  shall not contest ownership by Rubicon of any of the foregoing.  No license, release or other right is granted by implication, estoppel or otherwise  by Rubicon to ISA or any of ISA \u2019s affiliates except for the rights and licenses  expressly granted under this Agreement.",
+    "ollama_generated": "5.3 Intellectual Property Ownership: In regards to ISA and Rubicon, all rights, title, and interest in and to the Rubicon Offerings, as well as any other intellectual property of Rubicon (except for the specific exceptions outlined in Section 5.2), including associated goodwill and copyrights, shall be the exclusive property of ISA. Rubicon acknowledges that, except as otherwise specified herein, neither it nor any other parties will gain ownership rights to such intellectual property or related goodwill by virtue of this Agreement. ISA reserves the right to challenge the ownership of Rubicon in matters concerning the aforementioned intellectual property. No implied, estoppel, or other licenses are granted to ISA or its affiliates beyond the expressly granted rights and licenses under this Agreement.",
+    "contradiction_score": 0.1021457239985466,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 18765,
+    "end_char": 18991,
+    "original": "Except for the rights and licenses  expressly granted herein, Rubicon reserves all rights to the Rubicon Service  Offerings, including, without limitation, translation rights, rights of  modification and rights to source code.",
+    "ollama_generated": "save for the specific rights and authorizations conferred within this Agreement, Rubicon maintains its exclusive authority over the Rubicon Service Offerings, such as translation privileges, rights to modify, and rights to the underlying source code, with the understanding that these rights are not to be construed as implicitly granted or transferred.",
+    "contradiction_score": 0.0005340023781172931,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 19043,
+    "end_char": 19080,
+    "original": "6. TERM  AND TERMINATION; WITHDRAWAL.",
+    "modified": "6. DURATION AND CESSATION; WITHHOLDING PARTICIPATION.\n\nUpon the initiation of this Agreement, it shall commence and continue unless terminated earlier by either Party upon providing a written notice to the other Party. Either Party may choose to withhold its participation at any time without the necessity of explaining the reasons for such action. The provisions regarding Confidential Information and Indemnification shall survive any termination or cessation of this Agreement.",
+    "contradiction_score": 0.6355296969413757,
+    "kept": true
+  },
+  {
+    "clause_index": 52,
+    "start_char": 20000,
+    "end_char": 20442,
+    "original": "6.2.2 For Bankruptcy . Either Party may terminate this Agreement  immediately upon Notice to the other Party in the event the other Party (a)  permanently ceases operations, (b) becomes or is declared insolvent or bankrupt,  (c) is the subject of any proceeding related to its liquidation or insolvency  (whether voluntary or involuntary) that is not dismissed within 90 calendar days  or (d) makes an assignment for the benefit of creditors.",
+    "ollama_generated": "6.2.2 For Financial Distress: With due notice to the other party, either Party retains the discretion to continue or terminate this Agreement. This discretion arises if the other Party encounters any of the following conditions: (a) Temporary cessation of operations, (b) Financial hardship necessitating a restructuring, (c) The initiation of any proceedings concerning its solvency or liquidity that persist beyond 90 calendar days, or (d) The execution of an arrangement with creditors aimed at debt relief.",
+    "contradiction_score": 0.050727199763059616,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 20821,
+    "end_char": 22393,
+    "original": "7.1 During  the period beginning on the Effective Date and ending on the later of (i) the  end of the Initial Term and (ii) the date falling two years after completion of  the most recent services provided by Rubicon under clause 7 (the  \u201cNon-Competition Period \u201d) and in the ISA Geographic Area, as defined below,  Rubicon agrees not to in any capacity, engage or have a financial interest in  any ISA Competing Business, as defined below, or provide managerial,  supervisory, administrative, or financial services relating to any ISA Competing  Business, including making available any information or funding to any such ISA  Competing Business.  Further, during the Non -Competition Period,  Rubicon shall not solicit any employee of ISA or any employee of any ISA  Client.  If a court determines that the foregoing restrictions are too  broad or otherwise unreasonable under applicable law, including with respect to  time or space, the court is hereby requested and authorized by the Parties to  revise the foregoing restrictions to include the maximum restrictions allowable  under applicable law.  Rubicon acknowledges, however, that the Parties  have negotiated this Section and that the time limitations, the limitation on  activities and the geographic limitations are reasonable in light of the  circumstances pertaining to ISA and this transaction. \u201cISA Competing Business \u201d means any person or entity of any type whatsoever engaged in the business of providing data centre audit and data centre optimization  services.  \u201cISA Geographic Area \u201d means worldwide.",
+    "ollama_generated": "7.1 Commencing from the Effective Date and continuing until the expiration of the Initial Term, or for a duration of two years subsequent to Rubicon's last service provision under Section 7, whichever is later (the \"Restriction Period\"), within the ISA Operational Scope, as defined herein, Rubicon consents not to:\n\n1. Engage directly or indirectly in any capacity, hold a financial stake in, or offer managerial, supervisory, administrative, or financial services related to an ISA Competitive Venture, as defined below. This exclusion also extends to providing any information or funding to such ISA Competitive Ventures.\n2. Solicit, entice, or endeavor to recruit any employee of ISA or any client of ISA during the Restriction Period.\n\nIn the event that a court deems the aforementioned restrictions to be excessively broad or unreasonable in terms of time or space, the court is empowered and encouraged by the parties to adjust the restrictions to the maximum extent permissible under applicable law. The Parties acknowledge, nevertheless, that the provisions of this Section have been mutually agreed upon, and given the unique circumstances surrounding ISA and this transaction, the limitations on activities and geographic scope are deemed reasonable.\n\n\"ISA Competitive Venture\" denotes any individual or entity of any kind whatsoever that is engaged in offering data centre audit and data centre optimization services. \"ISA Operational Scope\" signifies territories where ISA provides its services.",
+    "contradiction_score": 0.18010684847831726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 26411,
+    "end_char": 26941,
+    "original": "8.2 Exclusions . Nothing contained  herein shall prevent a Party from disclosing Confidential Information pursuant  to any applicable law or by a governmental order, decree, regulation, rule,  process or court order; provided, however, that such Party complies with the  notice provisions of Section 8.1(c) to the extent permissible  under applicable laws, rules, regulations or court orders.  Such  disclosure shall not of itself alter the status of such information hereunder  for all other purposes as Confidential Information.",
+    "ollama_generated": "8.2 Exceptions. Under no circumstances will any disclosure of Confidential Information by a Party be deemed to have breached or waived their obligations under this Agreement, unless such disclosure is expressly prohibited by law or governmental order, decree, regulation, rule, process, or court order. However, if such disclosure becomes necessary, the Party shall promptly notify the other party in accordance with Section 8.1(c), to the extent permitted under applicable laws, rules, regulations, or court orders. It is understood that any such disclosure will not affect the confidential nature of the information for all other purposes hereunder. In this case, the receiving party shall treat the disclosed Confidential Information with the same level of care as if it were still subject to these confidentiality provisions.",
+    "contradiction_score": 0.2876892685890198,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 26941,
+    "end_char": 27941,
+    "original": "8.3 Provisions of this Agreement . Each Party agrees that the provisions of this Agreement shall be treated as  Confidential Information and that no reference shall be made thereto without the  prior written consent of the other Party (which consent shall not be  unreasonably withheld) except (a) to its accountants, banks, financing  sources, lawyers and other professional advisors, provided that such parties  undertake in writing (or are otherwise bound by rules of professional conduct)  to keep such information strictly confidential, (b) in connection with the enforcement of this Agreement, (c) in connection with a merger, acquisition  or proposed merger or acquisition, or (d) pursuant to joint press releases  prepared in good faith or (e) as permitted under Section 8.2. The Parties  will consult with each other, in advance, with regard to the terms of all  proposed press releases, public announcements and other public statements with  respect to the transactions contemplated hereby.",
+    "ollama_generated": "8.3 Confidentiality Obligations: Each Party acknowledges that their mutual understanding and commitments within this Agreement constitute Sensitive Information. However, each Party reserves the right to disclose such information without the prior written consent of the other, subject to the conditions below:\n\n(a) To accountants, banks, financing sources, lawyers, and professional advisors, provided that these parties are contractually or professionally obligated to maintain confidentiality.\n(b) In instances where the Agreement is being utilized in legal proceedings or dispute resolutions.\n(c) During merger, acquisition, or proposed merger or acquisition discussions, if deemed necessary by either Party.\n(d) In accordance with joint press releases prepared in good faith, with each Party having the right to veto any language that violates their interests, as expressed during consultation and agreement on the terms of all proposed press releases, public announcements, and other public statements regarding the transactions outlined herein.\n\nThe Parties will endeavor to reach an understanding before making any such disclosures, taking into account each Party's legitimate interests.",
+    "contradiction_score": 0.4554140865802765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 28342,
+    "end_char": 29455,
+    "original": "8.5 Injunction . Each  Party acknowledges and agrees that the provisions of this Section 8 are reasonable and  necessary to protect the other Party \u2019s interests in its Confidential  Information, that any breach of the provisions of this Section 8 may result in  irreparable harm to such other Party, and in such event the exact amount of  damages is now and will be difficult to ascertain and the remedies at law for  any such failure would not be reasonable or adequate.  Accordingly, in  the event of any breach or threatened breach of the provisions of this Section  8 by a Party hereto, the  other Party, in addition to any other relief available to it at law, in equity  or otherwise, shall be entitled to seek temporary and permanent injunctive  relief restraining the breaching Party from engaging in and/or continuing such  conduct, without the necessity of proving actual damages or posting a bond or  other security.  Further, the prevailing Party in any such injunctive  action shall be entitled to payment from the other Party of the reasonable  attorneys \u2019 fees and costs incurred in such proceeding.",
+    "ollama_generated": "8.5 Injunction. Each Party acknowledges and agrees that the provisions of this Section 8 are essential to preserve the integrity and value of the Confidential Information disclosed, recognizing that any violation may cause significant and potentially irreversible harm to the party receiving the information. Consequently, in the event of any breach or imminent breach of the provisions of this Section 8 by a Party, the non-breaching Party, beyond any other remedies available at law, equity, or otherwise, shall have the right to seek temporary and permanent injunctive relief to prevent the breaching Party from persisting in such conduct. No proof of actual damages or the posting of a bond or other security will be required for this relief. The successful Party in any such action shall also be entitled to recover reasonable attorneys' fees and costs associated with that proceeding from the losing Party.",
+    "contradiction_score": 0.0029093355406075716,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 32165,
+    "end_char": 32238,
+    "original": "10. DISCLAIMER  OF WARRANTY, LIMITATION OF LIABILITY AND INDEMNIFICATION.",
+    "ollama_generated": "10. EXCLUSION OF IMPLIED WARRANTIES, LIMITATIONS ON LIABILITY, AND RELEASE FROM CLAIMS (Indemnification).\n\nThe services and products provided hereunder are furnished \"as-is\" without any warranties of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, and those arising from a course of dealing, usage, or trade practice.\n\nThe Client acknowledges that it has read this disclaimer, understands its contents, and agrees to proceed with the understanding and acceptance of these terms. In no event shall the Provider be liable for any consequential, indirect, incidental, special, exemplary, or punitive damages arising out of or in connection with the services or products provided hereunder, including but not limited to loss of profits, revenue, goodwill, use, data, or other intangible losses.\n\nIn case of claims, disputes, or litigation involving the services or products provided by the Provider, the Client shall indemnify, defend, and hold harmless the Provider from all liabilities, damages, and costs (including reasonable attorneys' fees) arising out of or resulting from such claims, disputes, or litigation. This obligation to indemnify shall survive the termination or expiration of this agreement.",
+    "contradiction_score": 0.16658379137516022,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 36676,
+    "end_char": 36813,
+    "original": "11.1 Governing Law and  Jurisdiction . This Agreement shall be governed by and  interpreted under the laws of the State of Florida, USA,.",
+    "ollama_generated": "11.1 Applicable Law and Jurisdiction. The terms and conditions set forth in this Agreement will be construed and enforced in accordance with the laws of the United States of America, specifically the State of Florida, without regard to its conflict of law principles.\n\nIn case of any dispute or controversy arising out of or in connection with this Agreement, the parties agree that the courts located within the State of Florida shall have exclusive jurisdiction over such disputes, and each party irrevocably consents to the personal jurisdiction and venue of said courts for the purpose of litigating any such claim.",
+    "contradiction_score": 0.009761572815477848,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 36813,
+    "end_char": 37383,
+    "original": "The state and federal  courts in the jurisdiction in which Palm City, Florida is located shall have  non - exclusive jurisdiction for the purposes of adjudicating any controversy or  claim between the parties concerning any breach or alleged breach of this  Agreement or performance or nonperformance of any obligation under this  Agreement, save that the parties agree that any dispute or claim concerning  either clause 8 Confidentiality or clause 5 Intellectual Property may be raised  in any appropriate jurisdiction where the breach or alleged breach has  occurred.",
+    "modified": "This Agreement shall grant both state and federal courts situated within the jurisdiction of Palm City, Florida the exclusive authority to settle any disputes or claims arising from perceived violations or breaches of this Agreement, or failures in fulfilling obligations as outlined herein. However, with regard to controversies involving clauses 8 (Confidentiality) and 5 (Intellectual Property), either party may elect to litigate in a jurisdiction where the alleged infringement has taken place.",
+    "contradiction_score": 0.9183667302131653,
+    "kept": true
+  },
+  {
+    "clause_index": 96,
+    "start_char": 40700,
+    "end_char": 40994,
+    "original": "11.7 Entire  Agreement . This Agreement sets out the entire agreement  between the Parties with respect to the subject matter of this Agreement and  supersedes all prior agreements, proposals, arrangements and communications,  whether oral or written, with respect to the subject matter hereof.",
+    "ollama_generated": "11.7 Scope of Understanding: This Agreement serves as a comprehensive representation of the mutual understanding between the Parties pertaining to the matters outlined within this document. Previous agreements, proposals, arrangements, and correspondences, regardless of their format or medium, concerning the subject matter at hand are hereby rendered null and void. However, it is acknowledged that this Agreement does not supersede or replace any obligations or commitments arising from separate and distinct agreements between the Parties, which remain in full force and effect.",
+    "contradiction_score": 0.2121984213590622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 42166,
+    "end_char": 42539,
+    "original": "11.10 Survival.  Sections  5, 7, 8, 10 and 11; any payment obligations of  the Parties hereunder accrued prior to the date of termination; and any other  provision herein expressly surviving termination or necessary to interpret the  rights and obligations of the Parties in connection with the termination of this  Agreement will survive the termination of this Agreement.",
+    "ollama_generated": "11.10 Persistence. Following the termination of this Agreement, the following provisions shall remain binding and enforceable: Sections 5, 7, 8, 10, and 11; any payments owed by either Party prior to the termination date; and any other provisions herein that explicitly survive termination or are essential for interpreting the rights and obligations of the Parties in relation to the termination of this Agreement. In addition, any provision not expressly stated as surviving termination will be considered null and void post-termination.",
+    "contradiction_score": 0.29499611258506775,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 42539,
+    "end_char": 43050,
+    "original": "11.11 No Third Party Beneficiaries . Except as set forth in Sections  10.3 and 10.4, nothing in this  Agreement is intended to confer benefits, rights or remedies unto any person or  entity other than the Parties and their permitted successors and assigns.  Without limiting the generality of the foregoing, the clients, customers,  shareholders or End Users shall not be deemed to be third party beneficiaries of  this Agreement or have any other contractual relationship with ISA by reason of  this Agreement.",
+    "ollama_generated": "11.11 Third-Party Benefits Expressly Granted: Save for the express provisions in Sections 10.3 and 10.4, it is not intended that any person or entity other than the Parties, along with their lawful successors and assigns, should derive benefits, rights, or remedies from this Agreement. Notably, clients, customers, shareholders, or End Users are explicitly excluded as third-party beneficiaries of this Agreement and do not possess any contractual relationship with ISA, by virtue of this Agreement.",
+    "contradiction_score": 0.04219468683004379,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 102,
+    "start_char": 43050,
+    "end_char": 43326,
+    "original": "11.12 Captions and  Construction . The headings appearing at the beginning of the  Sections contained in this Agreement have been inserted for identification and  reference purposes only and shall not be used to determine the construction or  interpretation of this Agreement.",
+    "ollama_generated": "11.12 Headings and Interpretation: The titles preceding each Section within this Agreement serve solely for convenience and ease of navigation, rather than influencing the understanding or interpretation of the contract's terms and conditions.",
+    "contradiction_score": 0.16823947429656982,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 43326,
+    "end_char": 43874,
+    "original": "The nomenclature of the defined  terms in this Agreement shall only be used for the construction of this  Agreement, and are not to be used for any other purpose, including, but not  limited to, interpretation for accounting purposes. The parties acknowledge that  both ISA and Rubicon participated in the drafting of this Agreement and agree  that any rule of law or legal decision that may or would require interpretation  of any alleged ambiguities in this Agreement against the party that drafted it  has no application and is expressly waived.",
+    "ollama_generated": "The terminology employed within this Agreement shall be exclusively applied for the purposes of constructing this Agreement, and shall not be utilized for any other intent, encompassing, yet not confined to, interpretations for accounting functions. The parties hereby recognize that both ISA and Rubicon played integral roles in the drafting of this Agreement. They jointly affirm that any legal principle or court ruling potentially necessitating an interpretation of any ambiguities within this Agreement, as allegedly drafted by either party, lacks relevance and is explicitly renounced.",
+    "contradiction_score": 0.00328983087092638,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 43874,
+    "end_char": 44115,
+    "original": "11.13 Further  Assurances . Each Party shall perform such acts, execute and  deliver such instruments and documents, and do all such other things as may be  reasonably necessary to accomplish the transactions contemplated in this  Agreement.",
+    "ollama_generated": "11.13 Additional Obligations. While not obliged to do so absent a mutual agreement, each Party shall consider and, at their discretion, perform acts, execute and deliver instruments and documents, and undertake other actions as deemed feasible and reasonable for the completion of the transactions outlined in this Agreement. The responsibility for determining the necessity of such actions remains solely with the Party electing to perform them.",
+    "contradiction_score": 0.07958387583494186,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 44115,
+    "end_char": 44696,
+    "original": "11.14 Language . This  Agreement is in the English language only, which language shall be controlling  in all respects, and all versions hereof in any other language hereof shall be  for accommodation only and shall not be binding upon the Parties.  All communications and notices to be made or given pursuant to this Agreement shall  be in the English language.  All words used in this Agreement will be  construed to be of such gender or number as the circumstances require. Unless  otherwise expressly provided, the word \u201cincluding \u201d does not limit the preceding  word or terms.",
+    "ollama_generated": "11.14 Language and Interpretation:\nThis Agreement is exclusively in the English language, with all translations serving only as a convenience for parties not fluent in English. Any conflicting interpretations or disputes shall be resolved through reference to the original English text. All correspondence relating to this Agreement will be conducted in English. For the purpose of this Agreement, all gender-specific pronouns are intended to be gender-neutral and plural nouns include the singular and vice versa. The term \"including\" is not meant to limit the generality of the preceding text.\n\nThe changes made in this revised clause include:\n1. The focus has been shifted from the English language being binding to it being used exclusively, with translations for convenience only.\n2. The clause now clearly states that any conflicting interpretations or disputes will be resolved by referring to the original English text.\n3. Gender-neutral language has been incorporated in this revised version.\n4. The phrase \"controlling in all respects\" has been removed and replaced with \"exclusively used,\" and \"versions hereof in any other language shall not be binding upon the Parties\" to clarify that translations are for convenience only and not legally binding.",
+    "contradiction_score": 0.01789901964366436,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 46231,
+    "end_char": 46741,
+    "original": "11.18 Execution in Counterparts,  Facsimiles . This Agreement may be executed in one or more counterparts,  each of which shall be deemed an original and all of which together shall  constitute one and the same instrument.  This Agreement shall become  binding when any one or more counterparts hereof, individually or taken  together, bear the signatures of both Parties hereto.  For the  purposes hereof, a facsimile copy of this Agreement, including the signature  pages hereto, shall be deemed an original.",
+    "ollama_generated": "11.18 Execution by Counterparts and Facsimiles: This Agreement can be signed in multiple separate parts, each of which will be considered a valid and integral portion of the same document. The Agreement will only become effective when all Parties involved have signed any one or combination of these counterparts. For the purposes of this Agreement, an electronically transmitted copy (facsimile) of this Agreement, including its signature pages, shall hold the same legal weight as an original.\n\nIn essence, this revised clause allows for flexibility in executing the Agreement by allowing it to be signed in multiple parts and acknowledges that digitally transmitted copies can serve as legally binding counterparts.",
+    "contradiction_score": 0.003609115956351161,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 46741,
+    "end_char": 46898,
+    "original": "IN WITNESS WHEREOF, the Parties to this Agreement by their duly authorized  representatives have executed this Agreement as of the date first written  above.",
+    "ollama_generated": "FOR THE RECORD AND TO ESTABLISH THE VALIDITY OF THIS AGREEMENT, the undersigned parties, acting through their respective duly appointed agents, have signed this document on the date first appearing herein below.\n\nIn this version of the clause, I've shifted the focus slightly by placing the parties' signatures after the agreement's effective date, which subtly suggests that the signing of the agreement occurred afterward rather than simultaneously with the agreement's formation. This change is minimal but could potentially influence how a party perceives their obligations and responsibilities under this agreement.",
+    "contradiction_score": 0.03037276491522789,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 112,
+    "start_char": 47022,
+    "end_char": 47116,
+    "original": "Name:  Joseph  P. Coschera  Name:  Alistair C. Hancock Title:  President  and CEO  Title:  CEO",
+    "modified": "Name: Joseph P. Coschera\n   Name: Alistair C. Hancock\n   Title: Chief Executive Officer (CEO)\n   Title: President (President pro tempore)\n\nRewritten Clause:\nIn the event that, for any reason whatsoever, the CEO, Alistair C. Hancock, is unable or unwilling to perform his duties as CEO, the President pro tempore, Joseph P. Coschera, shall assume the role of CEO on a temporary basis. The President pro tempore shall not be held responsible for any actions taken during this temporary tenure unless such actions constitute gross negligence or intentional misconduct. Upon the return to health or availability of the CEO, the President pro tempore shall immediately revert to his position as President pro tempore and the CEO shall resume his duties as CEO.",
+    "contradiction_score": 0.7897422909736633,
+    "kept": true
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 134,
+    "original": "EXHIBIT 4.1 CONSULTING AGREEMENT THIS AGREEMENT is dated for reference the 1st day of February, 2020  (the \"Effective Date\"). BETWEEN:",
+    "ollama_generated": "EXHIBIT 4.1 REVISED CONSULTING AGREEMENT\n\nTHIS AGREEMENT is executed on the 1st day of February, 2020 (hereinafter referred to as the \"Effective Date\"). BY AND BETWEEN:\n\nConsultee (hereinafter \"You\"): [Your Name or Company Name], and\nConsultant (hereinafter \"Company\"): [Company Name].\n\nThe parties, aware of each other's needs and capabilities, agree as follows:\n\nIn the event that You require professional services beyond the scope of this agreement, the Company shall have no obligation to provide such services unless explicitly agreed upon in writing by both parties. Furthermore, any additional fees or costs related to such services shall be borne solely by You.\n\nThis agreement may be amended or terminated only with the mutual written consent of both parties. Any amendment or termination will take effect immediately following the execution of a document evidencing such changes and delivery to the other party.\n\nNotwithstanding any provision in this agreement, the Company's obligation to maintain confidentiality shall continue indefinitely after the termination of this agreement, except where disclosure is required by law or regulatory authority.\n\nThis Agreement constitutes the entire understanding between the parties regarding the subject matter hereof and supersedes all prior and contemporaneous agreements, representations, warranties, and understandings between the parties, whether written or oral.\n\nGoverning Law: This Agreement shall be governed by and construed in accordance with the laws of the state of [Your State], without giving effect to any choice of law provision that would cause the application of the laws of a different jurisdiction.\n\nIN WITNESS WHEREOF, the parties have executed this agreement as of the Effective Date.\n\n__________________________       __________________________\n[Your Name or Company Name]      [Company Name]",
+    "contradiction_score": 0.11579230427742004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 595,
+    "end_char": 1236,
+    "original": "A. The Company is a mining and exploration company, whose common shares are listed on the TSX Venture Exchange and OTCQX\u037e B. The Consultant provides management and financial consulting services to exploration and development companies, and the principal shareholder of the Consultant, David Wolfin (the \"Principal\"), has been the President and Chief Executive Officer and a director of the Company\u037e and C. The Company wishes to engage the management and financial services of the Consultant, and the Consultant wishes to be engaged by the Company, to perform the functions of a management consultant to the Company as set forth herein below.",
+    "ollama_generated": "A. The Company is a mining and exploration entity, with its common shares listed on both the TSX Venture Exchange and OTCQX\u037e B. The Consultant specializes in offering strategic advisory services to companies within the mineral resource sector, and David Wolfin (the \"Principal\"), who holds significant share ownership in the Consultant, has previously served as President, Chief Executive Officer, and a director of the Company\u037e and C. While the Company acknowledges the value that the Consultant's expertise could bring to its operations, it is ultimately the sole discretion of the Consultant to decide whether they wish to offer their management and financial services to the Company, as outlined herein below, should they deem it suitable for their portfolio.",
+    "contradiction_score": 0.0050835986621677876,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3503,
+    "end_char": 3770,
+    "original": "4. TERM AND RENEWAL 4.1 During the term of this Agreement, the Consultant shall provide its Services to the Company through its Principal, and the Consultant shall ensure that the Principal will be available to provide such Services to the Company in a timely manner.",
+    "modified": "4. DURATION AND REVISION\n4.1 For the duration of this Agreement, it is understood that the Company is responsible for ensuring the availability of its Principal to receive the Services provided by the Consultant in a prompt fashion. The Consultant, however, remains accountable for securing a backup or alternate resource, should the need arise for the unavailability of the Company's Principal.",
+    "contradiction_score": 0.8322780728340149,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 7533,
+    "end_char": 7676,
+    "original": "The Consultant and the Principal shall not, without the prior written consent of the Company, either during the Term or at any time thereafter:",
+    "ollama_generated": "The Company will not unreasonably withhold its prior written consent for the Consultant or the Principal to engage in activities prohibited under this agreement, either during the Term or at any point afterwards:\n\n1. Without our express written approval, the Consultant and the Principal shall refrain from pursuing any endeavors that conflict with their obligations or interests as defined by this agreement, during the Term of this contract, or at any time thereafter.\n2. The Consultant and the Principal are granted discretion to engage in activities not specified within this agreement, provided such activities do not contravene the spirit or intent of this contract, without requiring our prior written consent, either throughout the Term or post-termination.\n3. In the event that the Consultant or the Principal desires to undertake activities restricted by this agreement, they may seek our written approval, which will be granted unless we can demonstrate a legitimate business interest in withholding said consent, during the Term of this contract or at any point thereafter.",
+    "contradiction_score": 0.28759217262268066,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 7676,
+    "end_char": 8083,
+    "original": "(a) use or disclose any Confidential Information outside of the Company or the Affiliated Companies\u037e (b) except in undertaking the Services, remove or aid in the removal from the premises of the Company or any of the Affiliated Companies any Confidential Information or any property or material relating thereto\u037e or (c) use the Confidential Information for any purpose other than in performing the Services.",
+    "ollama_generated": "(a) The Recipient is permitted to utilize or reveal Confidential Information solely within the scope of their duties, and only when necessary for the completion of the agreed-upon Services; (b) Under no circumstances shall the Recipient be required or encouraged to assist in the extraction or removal from Company or Affiliate premises of any Confidential Information, property, or related materials; (c) The Recipient's use of the Confidential Information extends only to fulfilling their obligations under the agreed-upon Services, and for no other purpose.",
+    "contradiction_score": 0.11276885122060776,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8083,
+    "end_char": 8362,
+    "original": "6.2 The Consultant shall exercise a reasonable degree of care in safeguarding the aforementioned Confidential Information against loss, theft, or other inadvertent disclosure, and further agrees to take all reasonable steps necessary to ensure the maintenance of confidentiality.",
+    "ollama_generated": "6.2 While utilizing the specified Confidential Information, the Consultant is expected to employ a prudent level of care aimed at preventing any unintended exposure or mishandling, but it is understood that they are not liable for accidental disclosures or circumstances beyond their control. Furthermore, the Consultant is encouraged, though not obligated, to implement measures deemed appropriate to preserve confidentiality under their discretion.",
+    "contradiction_score": 0.007376544643193483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 9184,
+    "end_char": 11161,
+    "original": "(a) information regarding the Company and the Affiliated Companies' business operations, methods and practices, including marketing strategies, product pricing, margins and hourly rates for staff, costs and all information regarding the financial affairs of the Company and the Affiliated Companies\u037e (b) all information related to the mineral exploration interests of the Company and the Affiliated Companies including maps, data, records, reports, technical studies, drill hole logs, calculations, opinions, charts, drawings, sketches, plans, documents, summaries, memoranda, analysis and all geological or technical information\u037e (c) all information related to the properties, projects, facilities, equipment and other assets used in the business of the Company and the Affiliated Companies, and all information related to the exploration or development of (or potential exploration or development of) the Company and the Affiliated Companies' properties or projects, including without limitation any properties or projects in respect of which the Company has made any application or is in any negotiations for the acquisition of an ownership, leasehold or other interest in\u037e (d) terms of the Company and the Affiliated Companies' relationship with, its investors, (if not otherwise publically available), partners, clients, suppliers of products or services, and the Company and the Affiliated Companies' referral sources\u037e (e) all information concerning exploration, financing or other business opportunities of the Company and the Affiliated Companies, including all projects, ventures or joint ventures considered by the Company and the Affiliated Companies, whether or not pursued\u037e and (f) all trade secrets or other confidential or proprietary information of the Company and the Affiliated Companies including, business plans, concepts, techniques, processes, designs, data, software programs, formula, development or experimental work, work in process or other know-how.",
+    "ollama_generated": "(a) The Recipient shall maintain as Confidential Information all proprietary and trade secret data concerning the Company and its Affiliates' business operations, including but not limited to marketing strategies, pricing structures, staff compensation rates, operational costs, financial records, and any other business-related information; (b) The Recipient acknowledges and agrees to safeguard all geological or technical data pertaining to the mineral exploration interests of the Company and its Affiliates, including maps, data, reports, calculations, opinions, charts, drawings, sketches, plans, documents, summaries, memoranda, analyses, and any other geological or technical information; (c) The Recipient is required to keep confidential all details regarding the properties, projects, facilities, equipment, and other assets utilized by the Company and its Affiliates in their respective businesses, as well as any information related to the exploration or development of current or potential properties or projects owned, leased, or under negotiation by the Company or its Affiliates; (d) The Recipient agrees to treat as Confidential Information the terms of the Company's and its Affiliates' relationships with their investors, partners, clients, suppliers, and referral sources, unless such information is publicly available; (e) The Recipient understands and agrees that all information regarding potential exploration, financing, or other business opportunities of the Company and its Affiliates, including projects, ventures, or joint ventures under consideration, shall be considered Confidential Information; (f) The Recipient understands that it is obligated to protect any trade secrets or other confidential or proprietary information of the Company and its Affiliates, such as business plans, concepts, techniques, processes, designs, software programs, formulas, development or experimental work, work in progress, or other know-how.",
+    "contradiction_score": 0.029371432960033417,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 14012,
+    "end_char": 14645,
+    "original": "8.2 The Consultant will assist the Company in obtaining and enforcing, for the Company's own benefit, patents, copyrights and any other protections in any and all countries for any and all Works made by the Consultant (in whole or in part) the rights to which belong to or have been assigned to the Company. The Consultant agrees, upon request, to execute all applications, assignments, instruments and papers and perform all acts that the Company or its counsel may deem necessary or desirable to obtain any and all patents, copyrights or other protection in such Works and otherwise to protect the interests of the Company therein.",
+    "ollama_generated": "8.2 The Company encourages, but does not obligate, the Consultant to help secure and safeguard, at their discretion, patents, copyrights, and any other protections for the Works created by the Consultant (in whole or in part) that belong to or have been assigned to the Consultant. The Company may request, but is not guaranteed, the Consultant's assistance in executing applications, assignments, instruments, and papers, and performing actions deemed necessary or beneficial by the Consultant or their counsel for the purpose of obtaining patents, copyrights, or other protections in such Works, and protecting the interests of the Company therein.",
+    "contradiction_score": 0.00565195269882679,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 14645,
+    "end_char": 14841,
+    "original": "9. COMPLIANCE WITH LAWS 9.1The Services undertaken by the Consultant under this Agreement shall be in full compliance with all applicable laws and consistent with a high degree of business ethics.",
+    "ollama_generated": "9. EXEMPTION FROM STRICT LIABILITY\n9.1 The Responsibility for Compliance lies primarily with the Client, who is responsible for ensuring that the Services provided by the Consultant under this Agreement adhere to all applicable laws and maintain a reasonable standard of business ethics. The Consultant shall make every effort to comply, but is exempt from strict liability for any non-compliance or ethical breaches arising from actions taken in good faith according to the Client's instructions or industry standards.",
+    "contradiction_score": 0.3831820785999298,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 14841,
+    "end_char": 15296,
+    "original": "10. INDEMNIFICATION 10.1 The Consultant shall indemnify and save harmless the Company for any demonstrated losses, damages, costs or other amounts, including without limitation reasonable legal fees, suffered or incurred by the Company arising out of third party claims relating to the presence or activities of the Consultant or its representatives in performing the Services to the extent that such losses, damages, costs or other amounts are caused by:",
+    "ollama_generated": "10. INDEMNIFICATION\n10.1 The Company shall have the right, but not the obligation, to be indemnified and held harmless by the Consultant for any demonstrated losses, damages, costs or other amounts, including without limitation reasonable legal fees, incurred by the Company as a result of third party claims arising from the presence or activities of the Consultant or its representatives while performing the Services. This indemnification shall only apply to such losses, damages, costs or other amounts that are proven to be caused by the negligence, willful misconduct, or breach of this Agreement by the Consultant.",
+    "contradiction_score": 0.04110606014728546,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 16447,
+    "end_char": 17706,
+    "original": "11. REMEDIES 11.1 The Consultant acknowledges and agrees that any breach of this Agreement by it could cause irreparable damage to the Company and I or the Affiliated Companies and that in the event of a breach by the Consultant, the Company shall have in addition to any and all other remedies at law or in equity, the right to an injunction, specific performance or other equitable relief to prevent any violation by the Consultant of any of the provisions of this Agreement. In the event of any such dispute, the Consultant agrees that the Company shall be entitled, without showing actual damages, to a temporary or permanent injunction restraining conduct of the Consultant pending a determination of such dispute and that no bond or other security shall be required from the Company in connection therewith. The Consultant acknowledges and agrees that the remedies of the Company specified in this Agreement are in addition to and not in substitution for any other rights and remedies of the Company at law or in equity and that all such rights and remedies are cumulative and not alternative or exclusive of any other rights or remedies and that the Company may have recourse to any one or more of its available rights and remedies as it shall see fit.",
+    "ollama_generated": "11. REMEDIES\n11.1 The Company recognizes and consents that any violation of this Agreement by it could potentially lead to significant harm to the Consultant, and in the event of a breach by the Company, the Consultant shall have, in addition to any and all other remedies at law or in equity, the right to an injunction, specific performance, or other equitable relief to safeguard against any infringement by the Company of any of the provisions of this Agreement. In the event of any such dispute, the Company agrees that the Consultant may, without demonstrating actual damages, seek a temporary or permanent injunction restraining actions of the Company pending resolution of the dispute, and that no bond or other security shall be required from the Consultant in connection therewith. The Company acknowledges and agrees that the remedies available to the Consultant under this Agreement are supplementary to, not substitutionary for, any other legal or equitable rights and remedies the Consultant may possess at law. Moreover, all such rights and remedies are cumulative, not exclusive or alternative, and the Consultant may opt to utilize one or more of its available rights and remedies as it deems necessary.",
+    "contradiction_score": 0.08651206642389297,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 20142,
+    "end_char": 20752,
+    "original": "14. LIMITED AUTHORITY AS AGENT 14.1 Unless otherwise agreed to in writing by the parties, the Consultant may not act as an agent of the Company\u037e however, this does not and is not intended to restrict the powers of the Principal to act as President and Chief Executive Officer of the Company in any way. Without limiting the generality of the foregoing, the Consultant shall not commit or be entitled to commit the Company to any obligation whatsoever nor shall the Consultant incur or be entitled to incur any debt or liability whatsoever on behalf of the Company, except as otherwise agreed to by the Company.",
+    "modified": "14. EXTENDED AUTHORITY AS AGENT\n\n14.1 Unless explicitly prohibited in writing by the parties, the Consultant possesses expanded authority to act as an agent of the Company; nevertheless, this expansion does not and is not intended to alter or restrict the powers of the Principal from acting as President and Chief Executive Officer of the Company in any manner. In addition to the generality outlined previously, the Consultant may commit the Company to obligations, incur debts, or assume liabilities on its behalf, provided that these actions have been explicitly approved by the Company in writing prior to their implementation.",
+    "contradiction_score": 0.8880976438522339,
+    "kept": true
+  },
+  {
+    "clause_index": 45,
+    "start_char": 21525,
+    "end_char": 21878,
+    "original": "18. GOVERNING LAWS 18.1 Unless otherwise agreed to in writing by the parties, the Agreement shall be governed by and construed in accordance with the laws of the Province of British Columbia and the federal laws of Canada applicable therein, and the parties hereto submit and attorn to the jurisdiction of the courts of the Province of British Columbia.",
+    "modified": "18. GOVERNING LAWS\n18.1 For any matters not expressly agreed upon in writing by the Parties, this Agreement will be subject to the laws of the United States of America, specifically those applicable within the State of California, and the parties hereby agree to submit to the jurisdiction of the courts within said state, acknowledging and accepting the application of American law and its interpretation.",
+    "contradiction_score": 0.9510111808776855,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 21878,
+    "end_char": 22323,
+    "original": "19. FURTHER ASSURANCES 19.1 Each of the parties shall, on request by the other party, execute and deliver or cause to be executed and delivered all such further documents and instruments and do all such further acts and things as the other party may reasonably require to evidence, carry out and give full effect to the terms, conditions, intent and meaning of this Agreement and to ensure the completion of the transactions contemplated hereby.",
+    "ollama_generated": "19. ONE PARTY'S REQUEST FOR FURTHER ASSURANCES\n19.1 It is understood that only one party may make a request, at its discretion, for the other party to execute and deliver or cause the execution and delivery of all such further documents and instruments, and perform all such further acts and things as may be necessary to evidence, carry out, and give full effect to the terms, conditions, intent, and meaning of this Agreement. The requested party shall make reasonable efforts to comply with such requests, provided that the costs and expenses associated with these additional actions shall be borne solely by the party making the request. This clause does not obligate either party to take any action beyond what is strictly necessary to complete the transactions contemplated hereby.",
+    "contradiction_score": 0.12987171113491058,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 26532,
+    "end_char": 26684,
+    "original": "24. INDEPENDENT LEGAL ADVICE 24.1 The Company has recommended to the Consultant that it obtain independent legal advice prior to signing this Agreement.",
+    "ollama_generated": "24. RECOMMENDATION FOR CONSULTANT'S COUNSEL  24.1 It is strongly suggested, though not mandatory, that the Consultant seeks independent legal counsel before executing this Agreement. The Company does not bear any responsibility for the Consultant's decision to forego such advice.",
+    "contradiction_score": 0.008204660378396511,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 318,
+    "end_char": 836,
+    "original": "1. Appointment A) Lucid appoints the Distributor and the Distributor accepts appointment as an exclusive authorized Lucid Distributor.  The Distributor will be entitled to purchase certain Lucid products and resell them to End User customers within the following market segments: - hospital and medical research centres, including but not limited to dermatology, pathology, plastic surgery and mohs surgery departments, clinical research centres, small animal research facilities, cosmetic and cosmeceutical companies.",
+    "modified": "1. Designation\nA) The Distributor hereby designates itself as the non-exclusive Lucid representative, with Lucid concurring to this designation. The Distributor shall be authorized to acquire select Lucid products and market them to a broad range of End User customers within the following market segments: - hospitals and medical research centers, encompassing dermatology, pathology, plastic surgery and mohs surgery departments, clinical research centers, small animal research facilities, as well as cosmetic and cosmeceutical companies. However, the Distributor's authority shall not be exclusive, and Lucid reserves the right to appoint additional representatives within these market segments.",
+    "contradiction_score": 0.6847326755523682,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1923,
+    "end_char": 2034,
+    "original": "4. Territory A) The Distributor is appointed as an exclusive Distributor within the following territories: [*].",
+    "modified": "4. Territory B) The Appointed Party shall act as an exclusive distributor, but with a non-exclusive right to grant sub-distribution rights within the specified territories: [*], subject to prior written consent from the Principal. Such sub-distribution rights shall not infringe upon the primary obligations and exclusivity granted under this Agreement.",
+    "contradiction_score": 0.6488635540008545,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 3941,
+    "end_char": 4048,
+    "original": "F) The Distributor will provide to the End User, full installation and customer training of the Product(s).",
+    "modified": "G) While the Distributor is responsible for making the Product(s) available to the End User, any necessary installation services or customer training related to the Product(s) shall be provided by the End User, unless otherwise specified in writing.",
+    "contradiction_score": 0.9314273595809937,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 5500,
+    "end_char": 5620,
+    "original": "C) The Distributor agrees to supply to Lucid, from time to time, with any competitive data emanating from the Territory.",
+    "ollama_generated": "C) Lucid hereby requests, but does not obligate or compel, the Distributor to share, on a voluntary basis and at their discretion, any non-confidential competitive data generated within the Territory.",
+    "contradiction_score": 0.004998440388590097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 7263,
+    "end_char": 7608,
+    "original": "B) The Distributor will assist Lucid in protecting Lucid \u2019s patents, copyright,  trademarks and logos.  The Distributor will inform Lucid of any known or suspected violations of Lucid \u2019s patents, copyright, trademarks, symbols and logos.  If Lucid requests, the Distributor will assist in protecting such intellectual property from infringement.",
+    "ollama_generated": "C) The Distributor is encouraged, but not obligated, to support Lucid in safeguarding Lucid's patents, copyrights, trademarks, and logos. The Distributor shall report any observed or suspected breaches of Lucid's intellectual property rights to Lucid. If Lucid elects to pursue protection against such infringement, the Distributor may choose to assist, at their discretion.",
+    "contradiction_score": 0.14832718670368195,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 7608,
+    "end_char": 7733,
+    "original": "12. Duties of Lucid A) Lucid will supply to the Distributor, free of any charge, reasonable quantities of Product datasheets.",
+    "ollama_generated": "12. Responsibilities of Lucid A) Upon request by the Distributor, Lucid shall provide Product datasheets in a timely manner, although the quantity supplied may not always be unlimited and could incur a reasonable fee based on Lucid's discretion.\n\nExplanation: The original clause required Lucid to supply \"reasonable quantities of Product datasheets free of any charge.\" In the rewritten version, I have weakened the obligation by making it conditional upon the Distributor's request and allowing for potential fees based on Lucid's discretion. Additionally, I changed the certainty of the quantity supplied from \"reasonable quantities\" to \"may not always be unlimited.\" The language used remains fluent, realistic, and professional while slightly altering the original clause's obligations.",
+    "contradiction_score": 0.06593287736177444,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 8606,
+    "end_char": 8723,
+    "original": "Lucid will also offer this service to the Distributor for the introduction of potential End Users from the Territory.",
+    "ollama_generated": "The Distributor shall have the option to avail of the service provided by Lucid for the purpose of identifying prospective End Users within the Territory, at Lucid's sole discretion and convenience.",
+    "contradiction_score": 0.008079960942268372,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 8723,
+    "end_char": 9055,
+    "original": "13. Prices, Terms & Conditions of Sale A) The Distributor may purchase Products from Lucid at the price published by Lucid, from time to time, in the International Distributor price list (attached).  Lucid agrees to allow the Distributor a discount of thirty (30) per cent against the published International Distributor price list.",
+    "ollama_generated": "13. Pricing, Terms, and Sales Conditions B) The Distributor shall procure Products from Lucid at the listed prices provided by Lucid, as updated in the International Distributor Price List (enclosed). Lucid reserves the right to revoke or modify the discount of thirty (30%) percent off the published International Distributor price list, should the need arise.\n\nChanges made:\n1. Inverted the condition: The Distributor shall purchase instead of may purchase.\n2. Shifted the discretion for discounts from the Distributor to Lucid.\n3. Added a clause permitting Lucid to revoke or modify the discount at its discretion.",
+    "contradiction_score": 0.37973374128341675,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 9183,
+    "end_char": 9332,
+    "original": "C) All prices are quoted by Lucid in US Dollars and are sold Ex Works,  becoming the Distributor \u2019s property when despatched from the Lucid facility.",
+    "ollama_generated": "C) The prices provided by Lucid are in US Dollars, however, they shall not be considered final until successfully delivered to a destination agreed upon by both parties. Upon delivery, title and risk of loss for the goods will transfer from Lucid to the Distributor.",
+    "contradiction_score": 0.0046670869924128056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 9332,
+    "end_char": 9930,
+    "original": "14. Minimum Purchase Obligation The Distributor agrees to purchase from Lucid minimum agreed quantity of product in the first, second and third years of the Agreement, excluding demonstration product. These quantities to be agreed by both parties in the initial detailed sales plan noted in clause 9D and amended with further agreement in subsequent annual sales plans 15. PAYMENT TERMS The Distributor agrees to abide by Lucid \u2019s standard payment terms, which are as follows; One Hundred (100) per cent of order value by sixty ( 90 ) day irrevocable letter of credit when order is placed on Lucid.",
+    "ollama_generated": "14. Maximum Flexibility Regarding Purchases\nThe Distributor understands that they may, but are not obligated to, purchase from Lucid a minimum agreed quantity of product in the first, second, and third years of the Agreement, excluding demonstration products. The specific quantities will be determined collaboratively by both parties during the initial detailed sales plan (as outlined in clause 9D) and may be adjusted mutually in subsequent annual sales plans.\n\n15. PAYMENT TERMS\nThe Distributor acknowledges Lucid's standard payment terms, which consist of: One Hundred (100) per cent of the order value by sixty (60) days after the receipt of goods or services, unless alternative arrangements have been made in writing between the parties.",
+    "contradiction_score": 0.16593509912490845,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 10843,
+    "end_char": 11010,
+    "original": "2. Distributor will immediately return any samples, sales literature,  promotional materials and other documents supplied to the Distributor free of charge from Lucid.",
+    "modified": "2. Upon the termination or expiration of this agreement, Distributor shall retain possession of any samples, sales literature, promotional materials, and other documents supplied by Lucid at no cost, with the understanding that Distributor may continue to utilize these materials for record-keeping purposes. No obligation is imposed on Distributor to return these items unless requested in writing by Lucid.",
+    "contradiction_score": 0.9362083077430725,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 11118,
+    "end_char": 11322,
+    "original": "B) If this Agreement is terminated Lucid shall not be liable for any incidental,  indirect; special punitive of consequential damages of any kind, including any perceived or real market development costs.",
+    "ollama_generated": "C) Upon the termination of this Agreement, it is expressly understood and agreed by all parties that Lucid shall bear no responsibility for any direct, incidental, consequential, indirect, special, punitive, or exemplary damages arising from or related to market development costs, whether actual or perceived. The onus lies with the other party to mitigate and absorb such potential losses.",
+    "contradiction_score": 0.21047084033489227,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 14852,
+    "end_char": 15258,
+    "original": "A) This Agreement, including the Price List attached hereto, as amended from time to time, constitutes the entire understanding between the parties with respect to the subject matter of this Agreement and supersedes and replaces all previous proposals, both oral and written, negotiations,  representations, commitments, writings, contracts, agreements and all other communications between the two parties.",
+    "ollama_generated": "B) This Agreement, comprising the Price List appended herein, with its terms subject to modification as necessitated, serves as the sole and complete record of the parties' understanding regarding the Agreement's subject matter. All prior oral or written proposals, discussions, assurances, correspondence, draft contracts, and other communications pertaining to this subject matter are expressly superseded by this Agreement, effective immediately upon its execution. Any subsequent amendments or modifications to this Agreement shall also be considered a part of the agreement and shall have the same binding effect.",
+    "contradiction_score": 0.2162536084651947,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

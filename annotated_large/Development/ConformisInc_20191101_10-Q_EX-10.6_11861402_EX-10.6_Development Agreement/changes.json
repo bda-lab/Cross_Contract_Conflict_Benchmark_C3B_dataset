@@ -1,0 +1,312 @@
+[
+  {
+    "clause_index": 6,
+    "start_char": 2064,
+    "end_char": 2345,
+    "original": "ARTICLE I DEFINITIONS 1.1 Definitions.  For purposes of this Agreement, the following terms shall have the following meanings, and to the extent not defined in this section or otherwise in this Agreement, a term shall have the meaning ascribed to it in any of the Other Agreements:",
+    "modified": "ARTICLE I DEFINITIONS\n1.1 Interpretation. In relation to this Agreement, the following terms will be interpreted as follows; and unless otherwise specified within this document or any other agreement involved, a term shall adopt its meaning from any alternative understanding provided herein:\n\n1.2 Alternative Understandings.\n  a) \"Default\" shall encompass any failure to fulfill an obligation, act upon a responsibility, or adhere to conditions stipulated within this Agreement, as well as circumstances beyond the control of the parties involved.\n\n  b) \"Remedy\" will be construed not only as actions to rectify a breach but also preventive measures aimed at minimizing potential damage caused by such occurrences.\n\n  c) \"Liability\" is defined as any financial or other obligation, risk, or responsibility incurred by the parties under this Agreement, except in cases where negligence can be proven and duly documented.\n\nBy incorporating alternative interpretations for certain terms within the agreement, we have effectively weakened obligations, inverted conditions, and shifted responsibilities to create a more balanced and flexible contractual relationship between the parties involved.",
+    "contradiction_score": 0.562006413936615,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2478,
+    "end_char": 2547,
+    "original": "\u201cAcceptance Criteria\u201d has the meaning set forth in the R&D Work Plan.",
+    "ollama_generated": "\"The interpretation of 'Acceptance Criteria' shall align with the guidelines provided in the R&D Work Plan, but it is understood that deviations may be considered, provided they are reasonable and justified.\"",
+    "contradiction_score": 0.00493486225605011,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 4516,
+    "end_char": 4611,
+    "original": "\u201cConformis Indemnified Parties\u201d  has the meaning set forth in Article 7.3(b) of this Agreement.",
+    "ollama_generated": "\"The term 'Indemnified Entities,' as defined in Article 7.3(b) of this Agreement, is the recipient of indemnification.\"\n\nThis new version of the clause shifts the focus from who is being indemnified to who will receive the indemnification, thereby subtly altering the responsibility from one party to another.",
+    "contradiction_score": 0.21629053354263306,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 8062,
+    "end_char": 8357,
+    "original": "\"Invention\" means any idea, invention, discovery, know-how, data, work of authorship, information, improvement, technology, process, concept or material, whether or not patentable, copyrightable or protectable as a trade secret, and whether or not reduced to practice or memorialized in writing.",
+    "ollama_generated": "\"Covered Intellectual Property\" refers to any concept, idea, creation, discovery, know-how, data, literary work, information, development, technical innovation, method, principle, or material, regardless of its potential patentability, copyright eligibility, or protectability as a trade secret. The term also encompasses any such intangible asset that may be documented or unrecorded, and which may or may not have been implemented in practice or brought to fruition.",
+    "contradiction_score": 0.407683789730072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 8639,
+    "end_char": 9112,
+    "original": "\u201cKIB Product IP\u201d means any Invention first arising in the performance of the R&D Program, whether or not embodied in the KIB Product, and all Intellectual Property rights underlying such Invention (but expressly excluding all Transferred IP, Conformis Background IP, Stryker Background IP, Improved Conformis Background IP and Improved Stryker Background IP, and, for the avoidance of doubt, excluding all Intellectual Property rights subsisting prior to the Closing Date).",
+    "ollama_generated": "\"Intellectual Property Rights relating to the KIB Product\" encompass any innovations conceived during the R&D Program, whether or not they are incorporated within the final product, and all associated intellectual property rights (it's important to note that this does not include any Transferred IP, Conformis Background IP, Stryker Background IP, Improved Conformis Background IP, or Improved Stryker Background IP. For clarity, it also excludes any Intellectual Property rights that existed prior to the Closing Date).",
+    "contradiction_score": 0.001898840069770813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 9407,
+    "end_char": 9469,
+    "original": "\u201cOther Agreements \u201d has the meaning set forth in the recitals.",
+    "ollama_generated": "\"The term '\"Other Agreements\"' shall encompass such understanding as may be referenced within the recitals or subsequently disclosed to either party during the course of this agreement.\"",
+    "contradiction_score": 0.01326349563896656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 9723,
+    "end_char": 9790,
+    "original": "\"Person\" has the meaning set forth in the Asset Purchase Agreement.",
+    "ollama_generated": "\"The term 'Person' shall encompass any entity or individual, as defined within the confines of the Asset Purchase Agreement.\"\n\nBy changing 'has the meaning' to 'shall encompass', I have slightly broadened the scope and increased the potential for ambiguity regarding who or what constitutes a Person. The revised clause could be interpreted as potentially including entities or individuals not explicitly defined in the Asset Purchase Agreement, although this would depend on the overall context of the contract.",
+    "contradiction_score": 0.20998623967170715,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 10097,
+    "end_char": 10221,
+    "original": "\"R&D Program\" means work performed in the development of the KIB Product under this Agreement pursuant to the R&D Work Plan.",
+    "ollama_generated": "\"R&D Program\" shall denote the tasks executed within the scope of the KIB Product's evolution, as outlined in the R&D Work Plan, in accordance with the provisions stated herein.\n\nThis revision subtly shifts the focus from the explicit definition of the R&D Program to its execution and alignment with the agreement and R&D Work Plan.",
+    "contradiction_score": 0.02762286737561226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 13723,
+    "end_char": 14486,
+    "original": "3.2 Free from Infringement . Without the consent of Stryker, Conformis shall not introduce any structure or methodology in the Deliverables (including a Deliverable within a Product or a Stryker Product) that (1) raise a colorable argument of patent infringement in the manufacture, use, sale, offer for sale or importation of the Deliverable as such Deliverable Source: CONFORMIS INC, 10-Q, 11/1/2019 is intended to be exploited under the Other Agreements, (2) misappropriate any Confidential Information of any Third Party, or (3) otherwise violate any Intellectual Property rights of any Third Party. For clarity, disclosure of a matter on the Disclosure Schedules to the Asset Purchase Agreement shall not be deemed consent by Stryker under this Section 3.2 .",
+    "modified": "3.2 Permitted Innovations: Conformis, with Stryker's prior written approval, may incorporate structures or methodologies within the Deliverables (whether in a standalone Deliverable or as part of a Product or a Stryker Product) that (1) do not raise a substantially plausible claim of patent infringement during the manufacture, use, sale, offer for sale, or importation of the Deliverable when utilized under the Other Agreements, (2) do not misappropriate any Confidential Information of any Third Party, and (3) do not violate any Intellectual Property rights of any Third Party. It is clarified that disclosure of a matter on the Disclosure Schedules to the Asset Purchase Agreement shall not be construed as Stryker's consent under this Section 3.2, unless explicitly stated in writing by Stryker.",
+    "contradiction_score": 0.8000341057777405,
+    "kept": true
+  },
+  {
+    "clause_index": 74,
+    "start_char": 19088,
+    "end_char": 20163,
+    "original": "ARTICLE IV RESTRICTIVE COVENANT 4.1 Exclusivity. Except as specifically provided in the Distribution Agreement, Conformis shall be prohibited from developing or assisting another in developing, or causing another to develop, Patient-Specific Instrumentation for Off-The-Shelf Knee Implants for any Third Party in the field of orthopedics until January 1, 2032 (or earlier, to the extent set forth in Section 2.3.3.4 or Section 2.3.5 of the Distribution Agreement), with the exception that Conformis (including any entity involved in a Change of Control of Conformis, any such entity an \u201cAcquirer\u201d), may develop Patient-Specific Instrumentation for any Off-The- Shelf Implants of Conformis, an Acquirer or any of their Affiliates.  For purposes of clarity, the foregoing does not prevent Conformis from granting any license, release, covenant not to sue or other immunity to any third party under any Patents, including any such immunity that would authorize manufacture, use or sale of Patient-Specific Instrumentation for Off-The-Shelf Knee Implants outside the Buyer Field.",
+    "ollama_generated": "ARTICLE IV RESTRICTIVE COVENANT 4.1 Exclusivity Amendments:\n\nIn contrast to what is explicitly outlined in the Distribution Agreement, Conformis retains the liberty to aid in the development of Patient-Specific Instrumentation for Off-The-Shelf Knee Implants for any Third Party within the orthopedic sector beyond January 1, 2032 (unless as stipulated in Sections 2.3.3.4 or 2.3.5 of the Distribution Agreement), with a caveat: Conformis (including any entity undergoing Change of Control, herein referred to as an \"Acquirer\"), is allowed to create Patient-Specific Instrumentation for any Off-The-Shelf Implants manufactured by Conformis, an Acquirer, or their Affiliates. For the sake of clarity, it's important to note that the provisions above do not hinder Conformis from granting any license, release, covenant not to sue, or other form of immunity to third parties concerning any Patents; such grants may include authorization for manufacturing, use, or sale of Patient-Specific Instrumentation for Off-The-Shelf Knee Implants outside the Buyer Field.",
+    "contradiction_score": 0.2531147003173828,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 20163,
+    "end_char": 20211,
+    "original": "ARTICLE V INTELLECTUAL PROPERTY 5.1 Inventions .",
+    "modified": "ARTICLE V INTELLECTUAL PROPERTY 5.1 Inventions - Ownership and Exploitation Rights.\n\nIn the event that any Party develops an Invention during the term of this Agreement, such Party shall have the exclusive right to own, retain, and exploit such Invention, subject to the following conditions:\n\n(a) The developing Party shall promptly disclose the details of the Invention to all other Parties in writing, within 30 days of its conception.\n\n(b) The developing Party grants to all other Parties a non-exclusive, royalty-free, worldwide license for the sole purpose of using, selling, or otherwise exploiting the Invention in connection with the performance of this Agreement.\n\n(c) Each Party hereby agrees that it shall not assert any claim against the other Parties relating to the Invention without first offering the opportunity for a resolution through mediation.\n\nChanges made:\n1. Reworded from \"Inventions\" to \"Ownership and Exploitation Rights of Inventions\" to emphasize the rights associated with owning and exploiting an invention.\n2. Altered condition (b) to grant non-exclusive, royalty-free, worldwide license to other parties instead of them having a right to develop or use the Invention. This shifts responsibility for further development to the Party that initially developed the Invention while allowing other Parties to leverage it within the Agreement's scope.\n3. Added condition (c) to encourage resolution through mediation before asserting any claim related to the Invention among the parties, promoting a more collaborative approach.",
+    "contradiction_score": 0.5965957641601562,
+    "kept": true
+  },
+  {
+    "clause_index": 76,
+    "start_char": 20211,
+    "end_char": 20484,
+    "original": "(a) Inventorship of all Inventions developed by either Party, or both Parties, in the performance of the R&D Program, shall be determined in accordance with the inventorship laws of the United States, even to the extent such Invention is not pursued in patent applications.",
+    "ollama_generated": "(a) The determination of Inventorship for all Inventions conceived during the course of the R&D Program by either Party, or jointly, shall be governed by the inventorship laws of the United States. This includes Inventions where no patent application is subsequently filed. However, it is understood that the mere absence of a patent application does not necessarily mean that the Inventorship rights are waived or transferred.",
+    "contradiction_score": 0.0023175347596406937,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 21346,
+    "end_char": 22844,
+    "original": "(c) All right, title and interest in and to the Improved Conformis Background IP and KIB Product IP (\u201c Joint IP \u201d) shall be owned jointly by the Parties. Subject to the limitations set forth in this Agreement, the Joint IP may be used freely by either Party or its Affiliates and licensed to Third Parties by Conformis and its Affiliates, on the one hand, outside of the Buyer Field or by Stryker and its Affiliates, on the other hand, within the Buyer Field, in each case, without the consent of, or duty to account to or notify, the other Party, but, except with respect to external licenses of the Improved Conformis Background IP by Conformis or its Affiliates to Third Parties, any external Third Party license shall be governed in accordance with the last sentence of Section 4.3(c) of the APA. Each Party to whom ownership is to vest in Joint IP by operation of law or by assignment by its employees or Agents agrees to assign and hereby assigns to the other Party an undivided one-half right, title and interest in and to all Joint IP\u037e and to facilitate such assignment, the Party possessing such ownership agrees (i) to regularly ensure that its employees and consultants timely make any appropriate assignments to it\u037e and (ii) at the other Party\u2019s reasonable request, to execute and have its employees and consultants execute, as necessary, all assignments and any other documentation to perfect the undivided one-half right, title and interest in and to the other Party of such Joint IP.",
+    "ollama_generated": "(c) The joint ownership of all rights, titles, and interests in and to the Improved Conformis Background IP and KIB Product IP (\" Joint IP \") shall be shared equally between the Parties. With the exceptions outlined within this Agreement, each Party or its Affiliates has the unrestricted right to use, utilize, and license the Joint IP to Third Parties without obtaining consent from, or owing any accountability or notification to, the other Party. Notably, external licenses of the Improved Conformis Background IP by Conformis or its Affiliates to Third Parties will abide by the terms specified in the last sentence of Section 4.3(c) of the APA.\n\nEach Party receiving ownership of Joint IP through legal operation or assignment by their employees or Agents is obligated to transfer an undivided half interest, title, and rights to the other Party. To facilitate this transfer, the Party holding such ownership agrees:\n\n1. To ensure that its employees and consultants timely assign their interests in the Joint IP.\n2. Upon the request of the other Party, to execute all necessary assignments and additional documentation to formally transfer an undivided half interest, title, and rights in and to the Joint IP to the other Party, along with any related documents required for perfection of ownership.",
+    "contradiction_score": 0.06520266085863113,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 22844,
+    "end_char": 23986,
+    "original": "(d) Notwithstanding anything to the contrary, the foregoing does not constitute either (1) the grant by Conformis to Stryker of any license or immunity of any kind with respect to the Conformis Background IP or Conformis Foreground IP, regardless of the extent to which the Joint IP constitutes improvements to the Conformis Background IP or Conformis Foreground IP, (2) the grant by Stryker to Conformis of any license or immunity of any kind with respect to the Stryker Background IP, or (3) the grant by either Party of any license or immunity of any kind under any Intellectual Property rights owned by such Party, regardless of whether the exploitation of the Joint IP would infringe such Intellectual Property rights. Neither Party shall assign a partial interest in Source: CONFORMIS INC, 10-Q, 11/1/2019 the Joint IP or Joint IP Rights to any Affiliate or Third Party (i.e., neither Party shall create any additional joint owners of the Joint IP), but each Party may assign all of its right, title and interest in and to the Joint IP and Joint IP Rights to an Affiliate or Third Party pursuant to and in accordance with Section 10.2 .",
+    "ollama_generated": "(d) Contrariwise to any prior understanding, the following provisions do not serve as a concession granting Stryker: (1) any license or immunity pertaining to Conformis' Background IP and Foreground IP, regardless of whether the Joint IP represents advancements over these pre-existing intellectual properties; (2) any license or immunity with respect to Stryker's Background IP; or (3) any license or immunity under any Intellectual Property rights held by either Party. Each Party maintains exclusive ownership of their respective Intellectual Property rights, and the exploitation of the Joint IP does not infringe upon these rights. Neither Party may transfer a fractional interest in the Joint IP or Joint IP Rights to an Affiliate or Third Party. However, each Party retains the ability to assign its entire right, title, and interest in the Joint IP and Joint IP Rights to an Affiliate or Third Party, as outlined in Section 10.2.",
+    "contradiction_score": 0.028712986037135124,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 24870,
+    "end_char": 24891,
+    "original": "5.4 No Other Rights .",
+    "ollama_generated": "5.4 Exclusive Rights Granted.\n\nHere's the explanation for the change: The original clause (No Other Rights) implies that no other rights are given or recognized in the contract. The rewritten clause (Exclusive Rights Granted) now suggests that only the specific rights mentioned within the contract are being provided, implying that any other rights not explicitly stated remain unrecognized or reserved by the other party. This subtle shift in language can have significant implications in a legal context, depending on the nature and scope of the rights in question.",
+    "contradiction_score": 0.23186449706554413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 30758,
+    "end_char": 32367,
+    "original": "Notwithstanding the foregoing, in the event that the applicable Party decides not to file at all or not to file a continuing or other application to maintain the viability of the U.S part of a family of patents to which an application belongs, or decides to abandon or discontinue the prosecution or maintenance of any of the Joint IP Rights, such Party shall notify the other Party thereof, and such other Party may elect to continue the prosecution (including non-provisional application and PCT entry) or maintenance of such Joint IP Rights at its sole expense and in the name(s) of both Stryker and Conformis. The provisions of Sections 5.1(c)  and 5.1(d) and this Section 5.8  shall run with the Joint IP, and each party shall ensure that any assignee of its interest in the Joint IP expressly assumes in writing such provisions. Any Party pursuing Patent applications in accordance with this Section 5.8  may disclose Confidential Information in patent applications to the extent necessary to provide requisite support for claims therein, provided however , the non-prosecuting Party will have the right, but not the obligation, to review and comment on the scope and content of the proposed disclosure, including the proposed disclosure of Confidential Information, prior to submission of the first disclosure of same in any such Patent applications, and have the comments reasonably considered by the prosecuting Party. In this regard, the prosecuting Party agrees to provide reasonable time for the non-prosecuting party to review and comment prior to any such submission associated with such Patent.",
+    "ollama_generated": "Despite the preceding provisions, should either Party opt against filing or continuing applications to sustain the U.S segment of a patent family pertinent to an application in question, or choose to abandon, discontinue, or neglect the prosecution or maintenance of any shared Intellectual Property (IP) Rights, they must promptly inform the other Party. The receiving Party then retains the option to independently continue the prosecution (including non-provisional application and PCT entry) or maintainance of these Joint IP Rights, entirely at their own expense and under both Stryker and Conformis' names. Sections 5.1(c) and 5.1(d), as well as this Section 5.8, will remain associated with the Joint IP. Each party shall guarantee that any future assignee of their interest in the Joint IP expressly accepts, in writing, these provisions. Any Party electing to pursue Patent applications according to this Section 5.8 may disclose Confidential Information necessary for patent application support, provided that the non-pursuing Party has the right, but not the obligation, to assess and comment on the proposed disclosure, including potential disclosures of Confidential Information, before the first submission in any such Patent applications. The prosecuting Party is obliged to provide a reasonable timeframe for the non-prosecuting party to review and comment before any such submission related to these Patent applications. In this context, the prosecuting Party agrees to accommodate the non-prosecuting party's comments as reasonably possible in the circumstances.",
+    "contradiction_score": 0.011549058370292187,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 32408,
+    "end_char": 32656,
+    "original": "(a) Each Party may in its sole discretion enforce the Patents or other intellectual property rights it solely owns pursuant to this Agreement, as well as to defend against any assertions of invalidity, unenforceability or ownership of such Patents.",
+    "ollama_generated": "(a) In their respective discretions, each Party shall have the exclusive right to challenge the validity, enforceability, or ownership of any intellectual property rights they solely possess under this Agreement, as well as the authority to license or assign such rights to third parties, subject to their prior written consent. Furthermore, neither Party shall be obligated to defend against any assertions made by a third party regarding the Patents or other intellectual property rights owned exclusively by the other Party, unless such defense is required under applicable law or by mutual agreement.",
+    "contradiction_score": 0.015722021460533142,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 33077,
+    "end_char": 33315,
+    "original": "Source: CONFORMIS INC, 10-Q, 11/1/2019 5.10 Publicity . Neither Party shall issue any press release or otherwise publicize this Agreement or the development work to be conducted hereunder, except in accordance with Section 4.2 of the APA.",
+    "modified": "Clause:\nAlteration: Strengthen a restriction on publicity\n\nSource: ALIGNED CORPORATION, 10-Q, 1/31/2021 5.10 Publicity . Both Parties shall refrain from issuing any press release or publicizing this Agreement or the development work to be conducted hereunder, unless specifically authorized by Section 4.2 of the APA, in which case both parties must abide by the guidelines and restrictions set forth therein.",
+    "contradiction_score": 0.5256009697914124,
+    "kept": true
+  },
+  {
+    "clause_index": 103,
+    "start_char": 34565,
+    "end_char": 34743,
+    "original": "(c) Absence of Conflicts . The execution, delivery and performance by it of this Agreement and the consummation by it of the transactions contemplated hereby do not and will not:",
+    "modified": "(c) Potential Conflicts Clause . The execution, delivery, and performance by it of this Agreement and the consummation by it of the transactions contemplated herein may potentially involve conflicts of interest. However, it acknowledges its responsibility to disclose any such potential conflicts promptly and take all necessary steps to address them in a manner that ensures fairness and does not compromise the integrity of the transactions.",
+    "contradiction_score": 0.6592020988464355,
+    "kept": true
+  },
+  {
+    "clause_index": 109,
+    "start_char": 37644,
+    "end_char": 37894,
+    "original": "ARTICLE VII LIMITATION ON LIABILITY AND INDEMNIFICATION 7.1 Responsibility and Control . Each Party shall be solely responsible for the safety of its own employees, Agents and subcontractors with respect to their activities related to this Agreement.",
+    "modified": "ARTICLE VII - LIMITATION ON LIABILITY AND INDEMNIFICATION\n\n7.1 Shared Responsibility and Control . Each Party acknowledges and accepts mutual responsibility for the safety of all parties' employees, Agents, subcontractors, and invitees, during their respective activities under this Agreement, with a shared commitment to ensuring a safe working environment.\n\nThis revision implies that each party recognizes the potential risk involved and agrees to work together to ensure safety, shifting the responsibility from being solely one party's obligation to a collective commitment between both parties.",
+    "contradiction_score": 0.9272009134292603,
+    "kept": true
+  },
+  {
+    "clause_index": 119,
+    "start_char": 43629,
+    "end_char": 44964,
+    "original": "(a) Dissolution or Insolvency Event . Either Party may terminate this Agreement effective immediately upon delivery of a Termination Notice if the other Party is (A) dissolved or is seeking to dissolve itself under applicable corporate law other than as part of a corporate restructuring under which its assets were first transferred to an assignee under this Agreement in accordance with Section 10.2 \u037e or (B) (i) becomes subject to an Insolvency Event, provided that, no termination right shall exist in respect of an Insolvency Event that is a chapter 11 case under the Bankruptcy Code if the Party subject to such chapter 11 case (x) continues to perform all of its material obligations under this Agreement, (y) does not seek to reject this Agreement or take any action in such chapter 11 case to disavow or undermine the rights of the other Party under this Agreement, and (z) assumes this Agreement on or before any deadline in such chapter 11 case for such assumption\u037e notwithstanding the foregoing, nothing herein shall limit or prevent the Party not subject to an Insolvency Event from objecting to assumption or assumption and assignment of this Agreement or requiring cure payments or adequate assurance Source: CONFORMIS INC, 10-Q, 11/1/2019 of future performance as a condition of assumption or assumption and assignment.",
+    "modified": "(a) Termination Clause: Either Party shall retain the right to unilaterally terminate this Agreement without prior notice upon delivery of a Termination Notice, effective immediately, if the other Party encounters any of the following circumstances:\n\n  (A) Initiating dissolution proceedings under applicable corporate law or being formally declared dissolved;\n  (B) Suffering an Insolvency Event. However, this termination right shall not apply to an Insolvency Event that is a chapter 11 case under the Bankruptcy Code if:\n      (x) The Party experiencing such chapter 11 case continues to fulfill all material obligations as outlined in this Agreement,\n      (y) They do not take actions in the chapter 11 case to challenge or jeopardize the rights of the other Party under this Agreement, and\n      (z) They assume this Agreement by the specified deadline in the said chapter 11 case. In such circumstances, the Party not affected by the Insolvency Event may object to the assumption or assignment of this Agreement, request cure payments, or demand adequate assurance of future performance as a prerequisite for their consent.",
+    "contradiction_score": 0.6157289147377014,
+    "kept": true
+  },
+  {
+    "clause_index": 124,
+    "start_char": 47018,
+    "end_char": 48844,
+    "original": "Source: CONFORMIS INC, 10-Q, 11/1/2019 8.4 Return or Destruction of Confidential Information. Solely with respect to Confidential Information in which a Party has no ownership interest at all, owned or co-owned Confidential Information being exempt herefrom, upon termination of this Agreement, unless independently authorized to retain such of the Disclosing Party\u2019s Confidential Information under an Other Agreement, each Receiving Party shall, and shall direct its Representatives to, cease all use and make no further use of any Confidential Information of the Disclosing Party and shall, upon written request from the Disclosing Party, promptly return or destroy all Confidential Information of the Disclosing Party (including copies thereof) that is in tangible form (provided, however, that, with respect to electronic imaging of the Disclosing Party's Confidential Information, such materials shall be deleted and removed from access by an ordinary user from all computer hard drives, servers and similar media but shall not require any action to delete or erase such materials from any disaster recovery tapes or other back-up media or any record retention or computer storage system so long as the Receiving Party and its Representatives take such actions as are reasonably likely to prevent access to such materials by any person other than information technology and other administrative employees who are responsible for maintaining those disaster recovery tapes and other back-up media) and any documents created by the Receiving Party or any of its Representatives containing Confidential Information of the Disclosing Party. The Receiving Party shall provide to the Disclosing Party written certification of destroyed Confidential Information of the Disclosing Party promptly following the destruction thereof.",
+    "ollama_generated": "8.4 Obligation Regarding Confidential Information Upon Agreement Termination. In relation to information deemed as Confidential, for which no ownership rights exist or are shared by either Party, with the exception of owned or co-owned Confidential Information that is exempt from this provision, upon termination of this Agreement, each Receiving Party shall:\n\n1. Discontinue any use and refrain from making future use of any Confidential Information belonging to the Disclosing Party.\n2. Upon a written request from the Disclosing Party, promptly secure (not return) all tangible forms of Confidential Information of the Disclosing Party, except for electronically imaged data which will be deleted and rendered inaccessible by an ordinary user from all computer hard drives, servers, and similar media. However, no action shall be required to delete or erase such materials from disaster recovery tapes, other backup media, or any record retention or computer storage system, provided that the Receiving Party takes reasonable measures to restrict access to these materials by anyone except designated information technology and administrative employees responsible for maintaining those resources.\n3. Create and provide to the Disclosing Party a written certification confirming the secure storage of the Confidential Information of the Disclosing Party, promptly after such storage is established.",
+    "contradiction_score": 0.150599867105484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 50179,
+    "end_char": 52281,
+    "original": "10.2 Assignment and Change of Control . Except as otherwise provided herein, a Party shall not have the right to assign any of its rights or obligations under this Agreement (whether through a merger, sale of stock, or otherwise) without the prior written consent of the other Party\u037e except that , either Party shall be permitted, without any need for the other Party\u2019s consent, to assign this Agreement (a) in whole or in part  to an Affiliate (provided, however, that once such Person is no longer an Affiliate of the assigning Party, such former Affiliate shall assign this Agreement back to the assigning Party), provided that the assigning Party provides the other Party notice of any such assignment provided further that failure to provide such notice of such assignment shall not render such assignment void\u037e or (b) to a Third Party in connection with sale or transfer of all or substantially all of the assigning Party\u2019s business or assets relating to the subject matter of this Agreement, whether by Change of Control, merger, sale of assets or otherwise\u037e provided, however, that, with respect to clause (b), (i) any assignment of this Agreement shall be void and have no effect unless and until the assignee assumes the Source: CONFORMIS INC, 10-Q, 11/1/2019 obligations of the assigning Party in a written instrument, a copy of which is provided to the other Party\u037e and (ii) any assignment of this Agreement must be accompanied by a simultaneous assignment of the Other Agreements to the same assignee, and the assigning Party\u2019s interest in the Purchased Assets to the same assignee unless otherwise agreed by Conformis in advance, which agreement shall not be unreasonably withheld. Any assignment in whole or in part shall not relieve the assigning Party of its obligations hereunder. If and to the extent that a Party assigns any of its rights and/or obligations hereunder in accordance with this Section 10.2 , then this Agreement shall be binding upon the assignee to the same extent as if it were a Party hereto. Any assignment not in accordance with this Section 10.2  shall be void.",
+    "modified": "10.2 Assignment and Change of Control: Unless explicitly permitted herein, neither Party has the right to assign any rights or transfer any obligations under this Agreement without prior written consent from the other Party, except in the following instances:\n\na) Either Party may assign this Agreement, in whole or in part, to an Affiliate. However, if such Affiliate ceases to be an Affiliate of the assigning Party, it shall immediately reassign this Agreement back to the assigning Party. It is not required to obtain the other Party's consent for such assignment; failure to notify the other Party about such assignment does not render it invalid.\n\nb) A Party may assign this Agreement, in whole or in part, to a Third Party in conjunction with the sale or transfer of all or substantially all of its business or assets pertaining to the matters covered by this Agreement. Such assignment shall be permissible whether through a Change of Control, merger, asset sale, or another method. The following conditions apply:\n\n   i) Any assigned party must assume the obligations of the assigning Party in writing, and the other Party must receive a copy of such written instrument.\n\n   ii) Any assignment must be accompanied by simultaneous assignments of all related agreements to the same assignee and the assigning Party's interest in the acquired assets to the same assignee, unless Conformis agrees otherwise in writing, which agreement will not unreasonably be withheld.\n\nAssignments made contrary to this Section 10.2 shall be considered null and void. Any assignments made in accordance with this section will bind the assignee as if they were a Party to this Agreement. Non-compliance with this section does not absolve the assigning Party from its obligations under this Agreement. If any part of this Agreement is assigned, the remaining terms shall continue to apply to the non-assigning Party.",
+    "contradiction_score": 0.5489559769630432,
+    "kept": true
+  },
+  {
+    "clause_index": 131,
+    "start_char": 52667,
+    "end_char": 53995,
+    "original": "(a) In the event that either Party is unable to perform any of its obligations under this Agreement, or to enjoy any of its benefits because of fire, natural disaster, action or decrees of Governmental Entities or any other event not within such Party\u2019s reasonable control (a \u201c Force Majeure Event \u201d), the Party who has been so affected shall give written notice to the other Party as soon as practicable and shall do everything reasonably possible to resume performance. Upon receipt of such notice, all obligations under the Agreement shall be immediately suspended. If the period of nonperformance exceeds [**] from the receipt of notice of the Force Majeure Event, the Party whose ability to perform has not been so affected may, by giving written notice, terminate the Agreement. Any acceptance or warranty period affected by a Force Majeure Event shall likewise be extended for a period equal to the duration of such Force Majeure Event. As applied to this Section 10.4 Source: CONFORMIS INC, 10-Q, 11/1/2019 and to determine whether an event is reasonably beyond control of a Party, materials shortages, strikes, slowdowns, other labor related delays or events resulting from a Party\u2019s, its Affiliates or their respective agents' negligence, gross negligence, fraud or intentional misconduct are not Force Majeure Events.",
+    "modified": "(a) If either Party encounters difficulties in fulfilling their duties or enjoying the advantages under this Agreement due to factors such as fire, natural calamity, governmental orders, or other circumstances that lie outside of their foreseeable control (referred to herein as a \"Force Majeure Incident\"), they shall provide written notice to the other Party without undue delay. In response to this notification, both Parties will collaborate diligently to restore performance. Upon receipt of such notice, some, but not all, obligations under the Agreement may be temporarily suspended. The duration of this suspension will depend on the resolution of the Force Majeure Incident. If the nonperformance persists for an extended period beyond the initial notification and the cause remains a Force Majeure Incident, the Party unaffected by the incident reserves the right to terminate this Agreement upon providing written notice. Any timeframes affected by a Force Majeure Incident shall be adjusted accordingly, proportional to the duration of such event. To clarify, instances involving material shortages, labor strikes or slowdowns, delays related to labor, events caused by negligence, gross negligence, fraud, or intentional misconduct on the part of a Party, its affiliates, or their respective agents are not considered Force Majeure Incidents.\n\nAdapted from: CONFORMIS INC, 10-Q, 11/1/2019. In this revised clause, the suspension of obligations is no longer immediate and only some duties may be affected. Additionally, the ability to terminate the agreement requires extended nonperformance beyond the initial notification and Force Majeure Incident persistence.",
+    "contradiction_score": 0.7074262499809265,
+    "kept": true
+  },
+  {
+    "clause_index": 133,
+    "start_char": 54379,
+    "end_char": 54773,
+    "original": "10.5 Notices . All notices, requests, demands, waivers, instructions, consents and other communications to be given pursuant to the terms of this Agreement will be in writing and will be deemed to have been duly given upon receipt if delivered by hand, sent by a nationally recognized overnight mail service, or mailed by registered or certified mail, return receipt requested, postage prepaid:",
+    "modified": "10.5 Communication Procedures . Any notices, requests, demands, waivers, instructions, consents, and other communications required under this Agreement may be made in writing, but will only be considered as effectively delivered if they are physically received. Delivery methods include:\n\na) Personal delivery;\nb) Transmission via a nationally recognized overnight mail service with proof of delivery; or\nc) Registered or certified mail, return receipt requested, postage prepaid, with the acknowledgment of receipt obtained.\n\nPlease note that for the purposes of this Agreement, communication will be deemed to have been effectively delivered when the recipient confirms in writing that they have received it, except in cases where personal delivery or overnight mail service is used, in which case delivery confirmation provided by the courier service will suffice.",
+    "contradiction_score": 0.6594011783599854,
+    "kept": true
+  },
+  {
+    "clause_index": 135,
+    "start_char": 54809,
+    "end_char": 54834,
+    "original": "Howmedica Osteonics Corp.",
+    "ollama_generated": "Shifted Responsibility: In the event that any claim, action, suit, or proceeding (collectively, \"Proceedings\") is brought against the Parties arising out of or related to this Agreement or the Products, the Party first named in a Proceeding shall have the initial right and responsibility to defend such Proceeding at their own cost, provided that the other Party promptly provides all available information requested by said defending Party. However, if the defending Party fails to provide an adequate defense within thirty (30) days of being requested to do so, the non-defending Party shall have the right, but not the obligation, to participate in the defense of such Proceeding at their own cost and expense.",
+    "contradiction_score": 0.15466900169849396,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 54834,
+    "end_char": 54950,
+    "original": "Stryker Corporation Attn: Legal Department, [**] 325 Corporate Drive Mahwah, NJ 07430 If to Conformis, addressed to:",
+    "ollama_generated": "Stryker Corporation, Attn: Legal Department, [**] 325 Corporate Drive, Mahwah, NJ 07430\n\nIf receipt is made by Conformis, directed towards:\n\nTo clarify, this revised clause implies that the primary recipient of communication is Stryker Corporation, and any correspondence sent to Conformis will be considered received if it is intended for Stryker. This shifts the responsibility of ensuring proper delivery from the sender (Stryker) to the recipient (Conformis).",
+    "contradiction_score": 0.14024034142494202,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 55339,
+    "end_char": 55927,
+    "original": "10.6 Amendments and Waivers . This Agreement may not be modified or amended except by an instrument or instruments in writing signed by the Party against whom enforcement of any such modification or amendment is sought. Conformis may waive compliance by Stryker or Stryker may waive compliance by Conformis with any term or provision of this Agreement on the part of such Party to be performed or complied with, but only by an instrument in writing. The waiver by any Party of a breach of any term or provision of this Agreement will not be construed as a waiver of any subsequent breach.",
+    "ollama_generated": "10.6 Modifications and Waivers: This Agreement may be amended or modified, but only through a written instrument signed by both Parties. It is noted that either Party holds the right to waive compliance with any term or provision of this Agreement, solely in writing. Each waiver of a breach by one Party shall not imply a waiver of any future breaches. Furthermore, the Party granting the waiver reserves the right to enforce subsequent compliance with the same or similar terms.",
+    "contradiction_score": 0.01468498632311821,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 55927,
+    "end_char": 56101,
+    "original": "10.7 Governing Law . This Agreement shall be governed and construed in accordance with the laws of New York State (without regard to the conflict of laws provisions thereof).",
+    "ollama_generated": "9.7 Applicable Laws . This Agreement will be interpreted and enforced under the jurisdiction of New York State, applying solely its substantive laws, disregarding any rules or principles related to conflicts of law that may otherwise apply.\n\nExplanation: The revised clause weakens the obligation slightly by explicitly stating that only the substantive laws of New York State will be applied, while implicitly allowing for potential influence from conflict-of-laws provisions in other jurisdictions to be disregarded. This could potentially provide more clarity and certainty regarding the interpretation and enforcement of the agreement, especially when disputes arise between parties located in different states or countries.",
+    "contradiction_score": 0.48934051394462585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 143,
+    "start_char": 56101,
+    "end_char": 57270,
+    "original": "10.8 Jurisdiction.  Subject to Section 10.14,  the federal and state Courts of New York State shall have exclusive jurisdiction to hear and decide any suit, Action or proceedings, and to settle any disputes, which may arise out of or in connection with this Agreement\u037e provided, however, that each Party shall have the right to institute judicial proceedings in any court of competent jurisdiction against the other Party or anyone acting by, through or under the other Party, in order to enforce an Order entered by federal state courts of New York. Each Party shall cause its applicable permitted Third Party sublicensees and Affiliates receiving any rights or benefits (including the receipt of any Confidential Information) under this Agreement to be bound by this Section 10.8  prior to their exercise of any such rights or receipt of any such benefits. If such Party fails to comply with the foregoing sentence Source: CONFORMIS INC, 10-Q, 11/1/2019 with respect to any such Third Party or Affiliate, the other Party shall have the right to seek relief in any court of competent jurisdiction in connection with any dispute involving such Third Party or Affiliate.",
+    "ollama_generated": "10.8 Jurisdiction. Save for the exception specified in Section 10.14, the federal and state Courts of New York State retain the exclusive authority to resolve any disputes, legal actions, or proceedings that may stem from or relate to this Agreement. However, each Party reserves the privilege to initiate legal proceedings in any court of appropriate jurisdiction against the other Party, or any entities acting on their behalf, for the purpose of enforcing orders issued by federal or state courts of New York. It is incumbent upon each Party to ensure that their respective authorized Third-Party sublicensees and Affiliates, who may benefit from rights or Confidential Information granted under this Agreement, are cognizant of this Section 10.8 prior to the exercise of any such rights or reception of benefits. Should a Party neglect to adhere to this obligation with respect to any Third Party or Affiliate, the other Party is empowered to seek redress in any court of competent jurisdiction regarding any dispute pertaining to that Third Party or Affiliate.\n\nChanges made: The obligation has been weakened by shifting the responsibility from the Parties themselves to their respective authorized Third-Party sublicensees and Affiliates to become aware of this Section prior to exercising rights or receiving benefits. Additionally, the phrase \"seek relief\" has been replaced with \"seek redress,\" which is a more neutral term with similar connotations.",
+    "contradiction_score": 0.11498381197452545,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 59442,
+    "end_char": 59901,
+    "original": "10.13 Counterparts and Electronic Transmission. This Agreement may be executed in one or more counterparts, all of which will be considered one and the same agreement, and will become effective when one or more counterparts have been signed by each of the Parties and delivered to the other Party. This Agreement may be executed and delivered by facsimile or e- mail transmission with the same effect as if a manually signed original was personally delivered.",
+    "ollama_generated": "10.13 Multiple Counterparts and Electronic Delivery. This Agreement need not be contained in a single document, but may consist of multiple counterparts. Each separate counterpart, when signed by one or more Parties and communicated electronically to the other Party, shall be deemed a valid and binding part of this Agreement. Such electronic transmission (including facsimile or email) shall be equivalent to a manually signed original and will bind the Parties as if a physical document were exchanged personally. The effectiveness of this Agreement shall commence upon the receipt by each Party of all counterparts, either electronically or in hard copy form.",
+    "contradiction_score": 0.008090600371360779,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 61469,
+    "end_char": 61510,
+    "original": "HOWMEDICA OSTEONICS CORP. CONFORMIS, INC.",
+    "ollama_generated": "CONFORMIS, INC., HOWMEDICA OSTEONICS CORP. (hereinafter \"Supplier\") shall endeavor to provide the Products in a timely and efficient manner, acknowledging that unforeseen circumstances beyond its control may occasionally delay delivery (hereinafter \"Customer's Understanding\").\n\nIn this revised clause, the Supplier has an understanding that late delivery might occur due to factors beyond its control, shifting some responsibility from the supplier to the customer. The original clause stated that the supplier would deliver the products in a timely manner without any qualifications or conditions.",
+    "contradiction_score": 0.0027558724395930767,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

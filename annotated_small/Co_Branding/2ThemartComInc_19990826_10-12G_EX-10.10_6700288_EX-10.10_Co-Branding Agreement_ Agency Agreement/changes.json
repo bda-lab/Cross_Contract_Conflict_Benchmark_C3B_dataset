@@ -1,0 +1,149 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 441,
+    "end_char": 456,
+    "original": "1. DEFINITIONS.",
+    "ollama_generated": "1. INTERPRETATION.\n\nIn this Agreement, unless the context otherwise requires:\n\n\"Agreement\" shall mean the terms, conditions, covenants, representations, warranties and understandings contained herein, including any addendums or amendments executed by the Parties;\n\n\"Client\" shall refer to the entity executing this Agreement who is bound by its terms and conditions;\n\n\"Party\" shall collectively mean and include the Client and the Service Provider;\n\n\"Service Provider\" shall mean the entity providing services as set forth in Section 2 hereof;\n\n\"Services\" shall denote the specific services to be provided by the Service Provider as detailed in Section 2;\n\n\"Confidential Information\" shall encompass any proprietary, trade secret or confidential business information of either Party that may come into the possession or knowledge of the other during the course of this Agreement;\n\n\"Force Majeure Event\" shall signify an event or circumstance beyond the control of a Party preventing it from fulfilling its obligations under this Agreement. For purposes of this Agreement, a Force Majeure Event includes but is not limited to acts of God, war, riots, embargoes, acts of civil or military authorities, fire, floods, strikes, or other labor disturbances or causes beyond the reasonable control of a Party.\n\nThis definition section aims to clarify the terminology used throughout this Agreement, ensuring a consistent understanding between the Parties. However, if there is any ambiguity in the interpretation of these terms, the Parties shall work together in good faith to reach an agreement on their intended meaning.",
+    "contradiction_score": 0.023387597873806953,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1091,
+    "end_char": 1150,
+    "original": "(c) \"CUSTOMERS\" means all users who access Co-Branded Site.",
+    "modified": "(c) \"CO-BRANDED SITE USERS\" shall refer to any individuals or entities granted permission to access the Co-Branded Site. It is understood that their status as Users does not automatically classify them as Customers within the scope of this Agreement, unless expressly stated otherwise.",
+    "contradiction_score": 0.9101276993751526,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3219,
+    "end_char": 3493,
+    "original": "2.1 OVERVIEW.  As set forth herein, 2TheMart will promote Services to its auction users (buyers and sellers), and i-Escrow shall develop Co-Branded Site, and develop the Information Transfer Mechanism working with 2TheMart to make Services available seamlessly to Customers.",
+    "modified": "2.1 SUMMARY. In accordance with this agreement, i-Escrow will create and maintain a Co-Branded Site, as well as the Information Transfer Mechanism, with collaboration from 2TheMart. It is the responsibility of 2TheMart to market its Services to its auction users (both buyers and sellers), ensuring that these Services are accessible to Customers via the Co-Branded Site in a seamless manner. i-Escrow shall not be directly involved in the promotion or marketing of 2TheMart's Services, but will provide support as needed for their integration with the Co-Branded Site and Information Transfer Mechanism.",
+    "contradiction_score": 0.661151111125946,
+    "kept": true
+  },
+  {
+    "clause_index": 15,
+    "start_char": 3695,
+    "end_char": 3750,
+    "original": "2.2 INITIAL INFORMATION TRANSFER MECHANISM DEVELOPMENT.",
+    "ollama_generated": "2.2 MECHANISM FOR SUBSEQUENT DATA SHARING ESTABLISHMENT.\n\nIn this revised clause, the focus has shifted from the initial development of a transfer mechanism to the subsequent establishment of a sharing mechanism. This implies that the responsibility for setting up the data sharing system falls on the parties after certain initial steps have been taken (such as defining the scope and type of data to be shared).",
+    "contradiction_score": 0.3355627954006195,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 6532,
+    "end_char": 6839,
+    "original": "(a) To every seller and high bidder through means including, but not limited to, end of auction emails containing links, such that, it shall be possible for the buyer or seller to initiate a Transaction Inquiry with i-Escrow, without having to re-enter all their personal or transaction related information.",
+    "ollama_generated": "(a) For each seller and successful bidder, utilizing various methods including, yet not exclusively limited to, final auction emails incorporating links, the ability shall be granted to initiate a Transaction Inquiry with i-Escrow, allowing for minimal re-entry of personal or transactional information by either party. The responsibility of providing accurate and up-to-date information rests primarily on the initiator of the inquiry.",
+    "contradiction_score": 0.0010101288789883256,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 12170,
+    "end_char": 12864,
+    "original": "6.5 LIMITS ON SUBLICENSING.  All rights (under any applicable intellectual property right) granted herein are not sublicenseable, Source: 2THEMART COM INC, 10-12G, 8/26/1999 transferable or assignable.  Notwithstanding the foregoing, either party may use a third party web host, but all actions or failures to act of the web host that would be a breach of this Agreement, were the actions or failures to act taken by the applicable party, shall be deemed a breach of this Agreement.  In addition, 2TheMart may grant sublicenses to companies that 2TheMart has a business relationship with to the extent that 2TheMart Content is visible from such company's web-site through a link or other means.",
+    "ollama_generated": "6.5 RESTRICTIONS ON SUBLICENSING. The rights (under any applicable intellectual property law) conferred in this agreement are primarily non-transferable and non-assignable, except that either party may delegate their obligations to a third-party service provider for hosting purposes. Any actions or inactions of the delegated service provider constituting a breach of this Agreement, if performed by the parties themselves, shall be treated as such a breach. Furthermore, 2TheMart retains the discretion to grant sublicenses to affiliated companies with whom it maintains a business relationship, provided that the 2TheMart Content is accessible from such company's website via a link or other means. This delegation of rights and obligations does not affect the primary non-transferable nature of the granted rights.",
+    "contradiction_score": 0.29952511191368103,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 12864,
+    "end_char": 13777,
+    "original": "6.6 CONTENT STANDARDS. 2TheMart shall not provide any 2TheMart Content, and i-Escrow shall not provide any i-Escrow Content, that: (a) infringes any third party's copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy\u037e (b) violates any law, statute, ordinance or regulation (including without limitation the laws and regulations governing export control, unfair competition, antidiscrimination or false advertising)\u037e (c) is defamatory, trade libelous, unlawfully threatening or unlawfully harassing\u037e (d) is obscene, harmful to minors or child pornographic\u037e (e) contains any viruses, Trojan horses, worms, time bombs, cancelbots or other computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information\u037e and (f) is materially false, misleading or inaccurate.",
+    "ollama_generated": "6.6 STANDARDS FOR CONTENT PROVIDED. Both TheMart and i-Escrow retain the right to supply Content, subject only to the following limitations:\n\n(a) Content should not encroach upon any third party's copyright, patent, trademark, trade secret, or other proprietary rights or rights of publicity or privacy;\n(b) Content must comply with all applicable laws, statutes, ordinances, and regulations (including but not limited to laws governing export control, unfair competition, antidiscrimination, and false advertising);\n(c) Content should neither be defamatory nor maliciously libelous, and it must refrain from unlawfully threatening or harassing others;\n(d) Content may not be obscene, offensive to minors, or involve child pornography;\n(e) Content shall avoid incorporating any viruses, Trojan horses, worms, time bombs, cancelbots, or other harmful computer programming that could potentially harm systems, data, personal information, or surreptitiously intercept or expropriate any system, data, or personal information;\n(f) While Content should strive to be truthful, there may be instances where it can be roughly approximate, imprecise, or non-exact, provided it does not mislead or deceive materially. In the event of any disputes regarding the accuracy of the Content, TheMart and i-Escrow shall have the discretion to rectify the situation in a manner they deem appropriate, without incurring any liability for damages resulting from such inaccuracies.",
+    "contradiction_score": 0.09476989507675171,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 13777,
+    "end_char": 14457,
+    "original": "6.7  SERVICE STANDARDS. i-Escrow will comply with all laws and regulations and act as an Independent Escrow Agent as per the guidelines of California Escrow Law (California Financial Code Section17000 et seq., or its successor).  Should any of the terms, conditions or provisions of this Agreement conflict with the California Escrow Law, its rules or regulations, which govern i-Escrow's business practices, the California Escrow Law shall prevail. Notwithstanding the foregoing, at any time that i-Escrow reasonably believes such a conflict exists, i-Escrow will give 2TheMart written notice of such conflict and the parties will use their best efforts to resolve such conflict.",
+    "ollama_generated": "6.7 COMPLIANCE WITH LAWS AND REGULATIONS: TheMart acknowledges that i-Escrow may interpret and act upon California Escrow Law (California Financial Code Section17000 et seq., or its successor) in a manner that may deviate from the terms, conditions, or provisions of this Agreement. In such cases, i-Escrow will provide written notice to TheMart within a reasonable timeframe, outlining the perceived conflict and proposing adjustments. TheMart shall then cooperate with i-Escrow in good faith to find a mutually acceptable resolution. It is understood that, should any conflict arise, i-Escrow's adherence to California Escrow Law shall prevail unless otherwise agreed upon by both parties.",
+    "contradiction_score": 0.24237121641635895,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 15601,
+    "end_char": 16109,
+    "original": "Source: 2THEMART COM INC, 10-12G, 8/26/1999 8.2 TERMINATION FOR BREACH.  In addition to other remedies that may be available to it, by providing written notice, a party may immediately terminate this Agreement: (a) if the other party materially breaches this Agreement and fails to cure that breach within sixty (60) days after receiving written notice of the breach, or (b) as provided in Sections 2.2   [INITIAL INFORMATION TRANSFER MECHANISM DEVELOPMENT] , 2.4  [RESTRICTIONS ON COMMUNICATIONS] , or 12.4.",
+    "ollama_generated": "Clause:\nModified: 2THEMART COM INC, 10-12G, 8/26/1999 8.2 TERMINATION FOR BREACH. Upon providing written notice, either party reserves the right to terminate this Agreement with immediate effect and without further obligation: (a) if the other party materially breaches this Agreement, a period of thirty (30) days after receiving written notice of the breach is granted for rectification, but failure to remedy the breach within this timeframe shall be deemed as waiver; or (b) as stipulated in Sections 2.2 [INITIAL INFORMATION TRANSFER MECHANISM DEVELOPMENT], 2.4 [RESTRICTIONS ON COMMUNICATIONS], or 12.4, where such sections allow for early termination at the discretion of the breaching party.",
+    "contradiction_score": 0.28387653827667236,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 19512,
+    "end_char": 19978,
+    "original": "(i) giving the Indemnifying Party notice of the relevant claim, (ii) cooperating with the Indemnifying Party, at the Indemnifying Party's expense, in the defense of such claim, and (iii) giving the Indemnifying Party the right to control the defense and settlement of any such claim, except that the Indemnifying Party shall not enter into any settlement that affects the Indemnified Party's rights or interest without the Indemnified Party's prior written approval.",
+    "ollama_generated": "(i) Upon receiving notice from the Indemnified Party about a relevant claim, (ii) assisting the Indemnified Party, at the Indemnified Party's discretion and expense, in the pursuit of such claim defense, and (iii) granting the Indemnified Party authority to lead the defense and settlement negotiations of any such claim. However, the Indemnified Party shall have the right to reject any proposed settlement that does not align with its best interests or rights, provided that reasonable attempts to reach an agreeable resolution have been made. The Indemnifying Party will be informed of any rejections and may then proceed as it deems fit.",
+    "contradiction_score": 0.003906539175659418,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 21838,
+    "end_char": 22204,
+    "original": "12.1 GOVERNING LAW.  This Agreement will be governed and construed in accordance with the laws of the State of California  without giving effect to conflict of laws principles.  Both parties submit to personal jurisdiction in California and further agree that any cause of action arising under this Agreement shall be brought in a court in Orange County, California.",
+    "modified": "12.1 JURISDICTION AND GOVERNING LAW. This Agreement shall be governed by the laws of the State of California, giving due consideration to the principles that may mitigate conflicts between laws. Each party consents to the exercise of jurisdiction in California and concurrently agrees that any disputes arising from this Agreement will be resolved in a court within Orange County, California; provided, however, that either party retains the right to institute proceedings in their home jurisdiction under applicable reciprocal or international treaties.",
+    "contradiction_score": 0.6669448614120483,
+    "kept": true
+  },
+  {
+    "clause_index": 70,
+    "start_char": 24979,
+    "end_char": 25392,
+    "original": "Legal Counsel of i-Escrow Fenwick & West LLP Two Palo Alto Square Palo Alto, CA 94306 To 2TheMart:            Dominic J. Magliarditi President 18301 Von Karman Avenue, 7th Floor Irvine, CA 92612 Fax no. (949) 477-1221 11.7 COUNTERPARTS.  This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which shall be taken together and deemed to be one instrument.",
+    "ollama_generated": "11.7 MULTIPLE EXECUTIONS. This Agreement may be signed separately by the parties, with each individual signed copy considered a valid and binding part of this Agreement. All such signed copies collectively shall constitute one complete instrument.",
+    "contradiction_score": 0.02335836924612522,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 26499,
+    "end_char": 27211,
+    "original": "12.12 ENTIRE AGREEMENT.  This Agreement contains the entire understanding of the parties hereto with respect to the transactions and matters contemplated hereby, supersedes all previous Agreements between i-Escrow and 2TheMart concerning the subject matter (except for the Confidential Agreement Dated January 4 1999, which shall survive this Agreement).  No amendments or supplements to this Agreement will be effective for any purpose except by a written Agreement signed by the parties.  No party hereto has relied on any statement, representation or promise of any party or with any other officer, agent, employee or attorney for the other party in executing this Agreement except as expressly stated herein.",
+    "ollama_generated": "12.12 COMPREHENSIVE AGREEMENT: This Agreement represents a complete record of the parties' mutual understandings regarding the transactions and matters outlined within, superseding all prior agreements between i-Escrow and 2TheMart concerning the same subject matter (with the exception of the Confidentiality Agreement dated January 4, 1999, which persists beyond this Agreement). No modifications or additional terms to this Agreement will hold legal force unless they are incorporated into a written document duly signed by all parties. It is understood that no party hereto has based their decision to enter into this Agreement on any oral statements, representations, or guarantees from any representative of the other party, except as explicitly set forth in this Agreement itself.",
+    "contradiction_score": 0.04459740221500397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 28644,
+    "end_char": 28759,
+    "original": "2.   The other party receives an email from i-Escrow requesting an acknowledgement of the terms of the transaction.",
+    "ollama_generated": "2. It is incumbent upon the other party to proactively seek and provide an acknowledgment, in writing, to i-Escrow, confirming their understanding and acceptance of the terms governing the transaction, upon receipt of such request.",
+    "contradiction_score": 0.00526480283588171,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 28898,
+    "end_char": 29025,
+    "original": "4.   i-Escrow informs the seller that payment has been received, requesting them to ship the merchandise directly to the buyer.",
+    "ollama_generated": "4. The Seller acknowledges that they have received notification from i-Escrow regarding the receipt of payment, and it is their responsibility to promptly arrange for the delivery of the merchandise directly to the Buyer. i-Escrow assumes no liability for any delays or mishaps in transit.",
+    "contradiction_score": 0.006540101487189531,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

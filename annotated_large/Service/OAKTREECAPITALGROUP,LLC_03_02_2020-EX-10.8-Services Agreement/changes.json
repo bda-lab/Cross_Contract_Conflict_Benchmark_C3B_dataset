@@ -1,0 +1,88 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 64,
+    "original": "Exhibit 10.8 Services Agreement Oaktree Capital Management, L.P.",
+    "ollama_generated": "Exhibit 10.8 Revised Services Agreement between [Client's Name] and Oaktree Capital Management, L.P.\n\nUnderstanding that the scope of services provided by Oaktree Capital Management, L.P. (the \"Provider\") is essential to the success of your project, we hereby agree on the following:\n\nIn contrast to the traditional client-service provider relationship, the Client acknowledges and accepts that it shall bear primary responsibility for the oversight, management, and execution of the services provided by the Provider. The Client shall also be responsible for any and all decisions related to the application or implementation of these services.\n\nWhile Oaktree Capital Management, L.P. shall make every reasonable effort to ensure the quality and timeliness of the services rendered, the Client understands that no specific results can be guaranteed. Consequently, in the event that the services provided do not meet expectations, the Client accepts that it has no claim against Oaktree Capital Management, L.P. for any losses or damages incurred.\n\nThis agreement may be terminated by either party upon providing written notice to the other, with immediate effect, without prejudice to any obligations accrued prior to such termination. Upon termination, the Client shall pay all outstanding fees owed to Oaktree Capital Management, L.P., if any, as set forth in the agreed-upon fee schedule.",
+    "contradiction_score": 0.0793376937508583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 212,
+    "end_char": 576,
+    "original": "(1) Oaktree Capital Management, L.P. a Delaware limited partnership of 333 South Grand Avenue, 28th Floor, Los Angeles, CA 90071 ( \"Oaktree US\" )\u037e and (2) Oaktree Capital Management (International) Limited , a private limited company (registered number 11311066) registered in England and Wales of Verde, 10 Bressenden Place, London, SW1E 5DH (the \"Sub-Advisor\" ).",
+    "modified": "(1) The Sub-Advisor, Oaktree Capital Management (International) Limited, a private limited company registered in England and Wales with the registration number 11311166 and located at Verde, 10 Bressenden Place, London, SW1E 5DH (\"Sub-Advisor\" ), shall be responsible for, but not limited to, the performance of its obligations under this Agreement. In the event that Oaktree Capital Management, L.P., a Delaware limited partnership headquartered at 333 South Grand Avenue, 28th Floor, Los Angeles, CA 90071 (\"Oaktree US\") fails to meet its obligations, the Sub-Advisor shall have the discretion to fulfill those obligations on behalf of Oaktree US.",
+    "contradiction_score": 0.5259138941764832,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 860,
+    "end_char": 1215,
+    "original": "(C) The Sub-Advisor has been constituted for the purposes of carrying on the business of a fund manager and advisor in the United Kingdom. The Sub- Advisor is authorised and regulated by the United Kingdom\u2019s Financial Conduct Authority (the \"FCA\" ) under Part IV of the Financial Services and Markets Act 2000 ( \"FSMA\" ) (with registration number 814006).",
+    "ollama_generated": "(C) The Sub-Advisor, while not being solely dedicated to the United Kingdom market, maintains a significant presence therein for fund management and advisory services. The Sub-Advisor is subject to regulatory oversight by the United Kingdom's Financial Conduct Authority (the \"FCA\") under Part IV of the Financial Services and Markets Act 2000 ( \"FSMA\" ) (with registration number 814006), but it should be noted that the Sub-Advisor may also operate under other regulatory bodies in various jurisdictions.\n\nThis revised clause suggests that while the Sub-Advisor operates within the UK, it may not be a UK-specific entity and could potentially have additional regulatory oversight in other jurisdictions.",
+    "contradiction_score": 0.01067237090319395,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3685,
+    "end_char": 3778,
+    "original": "1.5 The appointment of the Sub-Advisor pursuant to this Agreement shall be subject always to:",
+    "modified": "1.5 The exercise of discretion by the Investment Manager in selecting the Sub-Advisor under this Agreement shall not be bound by any obligation, except as follows:\n\nThe Sub-Advisor's appointment may be revised or terminated at any time by the Investment Manager, without prior notice and for any reason deemed appropriate. This discretionary power of the Investment Manager does not impose any liability on the part of the Investment Manager for any consequences arising from such changes in the Sub-Advisor.",
+    "contradiction_score": 0.8458511829376221,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3778,
+    "end_char": 4524,
+    "original": "(a) the terms and conditions in the relevant Fund Agreements governing the Funds, and the Sub-Advisor hereby agrees to observe the terms and conditions in such Fund Agreements\u037e (b) any restrictions, limitations or conditions on, or any amendments made to, the Sub-Advisor's authority which may be imposed by Oaktree US as general partner and/or investment manager of the Funds from time to time\u037e and (c) Oaktree US\u2019s power and authority to act at all times in respect of any of the Funds as general partner and/or investment manager of the Funds (as applicable) 1.6 Without limiting the discretion of Oaktree US pursuant to Clause 1.5(b), Oaktree US may limit the scope of the Sub-Advisor's appointment in respect of any of the Funds by means of:",
+    "ollama_generated": "1. The Sub-Advisor acknowledges and agrees to abide by all terms, conditions, restrictions, limitations, or amendments within the relevant Fund Agreements pertaining to the managed Funds (a).\n\n2. Additionally, the Sub-Advisor accepts any constraints or modifications imposed upon its authority within the Funds, as determined by Oaktree US acting as general partner and/or investment manager of the Funds at any given time (b).\n\n3. Furthermore, the Sub-Advisor grants Oaktree US unlimited discretion to manage and act on behalf of any of the Funds in its capacity as general partner and/or investment manager, with full responsibility for decision-making in this regard (c). However, should Oaktree US opt to restrict the scope of the Sub-Advisor's role within a specific Fund, it retains the right to do so by appropriate means (1.6).",
+    "contradiction_score": 0.020501460880041122,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4524,
+    "end_char": 4998,
+    "original": "(a) limiting the appointment to sub-advisory services in respect of a section of the relevant Fund's portfolio of investments\u037e (b) limiting the appointment to sub-advisory services in respect of a particular investment or investments\u037e (c) limiting the Sub-Advisor's responsibility in respect of the monitoring and/or realisation of an investment or investments\u037e or (d) retaining discretion to decide upon the acquisition, disposal, conversion or underwriting of investments.",
+    "modified": "(a) Permitting the appointment for broad advisory services across a wide range of the relevant Fund's portfolio of investments; (b) allowing for the possibility of the appointment for comprehensive advisory services in relation to various investments or individual investment classes; (c) expanding the Sub-Advisor's discretionary authority regarding the oversight and realization of potential investments or investment sectors; or (d) relinquishing decision-making power, at our discretion, with respect to the acquisition, disposal, conversion, or underwriting of investments.",
+    "contradiction_score": 0.942793607711792,
+    "kept": true
+  },
+  {
+    "clause_index": 20,
+    "start_char": 6425,
+    "end_char": 6524,
+    "original": "2.2 In connection with the appointment pursuant to Clause 2.1 but subject at all times to Clause 1:",
+    "ollama_generated": "2.2 With regard to the exercise of duties under Clause 2.1, yet always adhering to Clause 1's provisions:\n\nExplanation: The original clause places an obligation on the party in connection with their appointment as per Clause 2.1, subject to Clause 1. The rewritten clause maintains a similar structure but weakens the obligation by phrasing it as \"with regard to\" rather than \"in connection with,\" which suggests a less formal or direct relationship. Additionally, the word \"yet\" at the beginning of the second part implies that there may be some tension or conflict between adhering to Clause 1 and exercising duties under Clause 2.1, further emphasizing the potential need for caution when fulfilling those duties.",
+    "contradiction_score": 0.040996287018060684,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 7374,
+    "end_char": 7600,
+    "original": "2.3 Without limiting the discretion of Oaktree US pursuant to Clause 1.5(b), and without prejudice to Clauses 1.6 and 1.7, the marketing and promotion services to be provided by the Sub-Advisor in respect of the Funds will be:",
+    "ollama_generated": "2.3 The discretion granted to Oaktree US under Clause 1.5(b) is not limited, and this provision does not affect Clauses 1.6 and 1.7. However, it is explicitly understood that the marketing and promotion services to be provided by the Sub-Advisor in relation to the Funds may be subject to Oaktree US's approval:\n\nIn this version of the clause, the obligation on the Sub-Advisor to provide marketing and promotional services is not absolute but is now subject to Oaktree US's approval. This shift in responsibility allows Oaktree US to exercise discretion over whether or not the Sub-Advisor's marketing and promotion efforts are suitable for the Funds.",
+    "contradiction_score": 0.007784162648022175,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 17014,
+    "end_char": 17246,
+    "original": "12. COMPLAINTS PROCEDURE If Oaktree US has any complaint about the performance of the Sub-Advisor it must notify the Sub-Advisor Compliance Officer in writing at the address notified in accordance with Clause 13.2 of this Agreement.",
+    "modified": "12. GRIEVANCE RESOLUTION\nIn the event that the Sub-Advisor has any concern regarding Oaktree US's performance, it is expected that the Sub-Advisor will first attempt to rectify the issue informally. Should this informal resolution not be successful, the Sub-Advisor may then escalate the matter by submitting a formal written complaint to Oaktree US's Compliance Officer at the address provided in Clause 13.2 of this Agreement. In such cases, the onus will be on Oaktree US to respond promptly and take appropriate corrective action if necessary.",
+    "contradiction_score": 0.5944761037826538,
+    "kept": true
+  }
+]

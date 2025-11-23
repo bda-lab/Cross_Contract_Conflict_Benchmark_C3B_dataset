@@ -1,0 +1,895 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 239,
+    "end_char": 306,
+    "original": "DEVELOPMENT AND OPTION AGREEMENT between HARPOON THERAPEUTICS, INC.",
+    "ollama_generated": "EXCLUSIVE RESEARCH AND OPTION AGREEMENT between HARPOON THERAPEUTICS, INC., hereinafter referred to as \"Developer\", and [Recipient], hereinafter referred to as \"Optionee\".\n\nIn the event that Optionee chooses to exercise its option for an Exclusive License under this Agreement, the obligation shall be on Optionee to fund and manage the development of any resulting product or therapy, with Developer providing only its intellectual property and expertise in the field. The success or failure of such development efforts shall not be considered a breach of this Agreement by either party, unless such failure results from Developer's gross negligence or willful misconduct.\n\nThe language above inverts the original condition, shifting the primary responsibility for product development to the Optionee, while limiting the potential liability of the Developer in case of development failure.",
+    "contradiction_score": 0.11307767778635025,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 7506,
+    "end_char": 7579,
+    "original": "1.10 \u201cAbbVie Reversion IP \u201d has the meaning set forth in Section 12.7.1 .",
+    "ollama_generated": "1.10 \"AbbVie Reversion Intellectual Property\" refers to the definition provided in Section 12.7.1, subject to any modifications or amendments made throughout the term of this agreement, which may result in a diminished scope or altered nature of the property.",
+    "contradiction_score": 0.004275734536349773,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 9806,
+    "end_char": 9875,
+    "original": "1.18 \u201cAlliance Manager \u201d has the meaning set forth in Section 2.2.5 .",
+    "ollama_generated": "1.18 The term \"Alliance Manager,\" as used herein, shall be defined in accordance with the provisions outlined in Section 2.2.5.\n\n[Note: This revised clause maintains the original meaning but shifts the responsibility of defining the term to the provisions of Section 2.2.5 rather than explicitly stating that \"Alliance Manager\" has a predefined meaning.]",
+    "contradiction_score": 0.10961965471506119,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10657,
+    "end_char": 10784,
+    "original": "Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 1.23 \u201cBiosimilar Application \u201d has the meaning set forth in Section 7.3.3 .",
+    "ollama_generated": "Clause:\nRevised: XYZ BIOSCIENCES CORP., Annual Report, 4/15/2021 1.23 \"Biosimilar Application\" denotes the definition as specified in Section 7.3.3.\n\nExplanation: The original clause defines a term, \"Biosimilar Application,\" within the context of Harpoon Therapeutics' annual report. The revised clause maintains this definition but has been adapted for use in another company's annual report (XYZ Biosciences Corp.) and adjusted the date to ensure it is current.\n\nModification: The clause remains largely the same, with slight changes to make it appropriate for a different entity and date while preserving its original meaning. However, one could argue that the revised clause shifts responsibility or location slightly by applying the definition to another company (XYZ Biosciences Corp.).",
+    "contradiction_score": 0.13999594748020172,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 11978,
+    "end_char": 12117,
+    "original": "1.28 \u201cBusiness Day \u201d means a day other than a Saturday or Sunday on which banking institutions in New York, New York are open for business.",
+    "modified": "1.28 \"Business Day\" refers to any day excluding Saturdays and Sunders, as well as any days that banking institutions in New York, New York are not available for business. This definition includes bank holidays and other instances where financial transactions are typically not conducted.",
+    "contradiction_score": 0.7363613843917847,
+    "kept": true
+  },
+  {
+    "clause_index": 33,
+    "start_char": 15258,
+    "end_char": 16142,
+    "original": "For the purpose of this definition of Change in Control, (a) \u201cperson\u201d and \u201cgroup\u201d have the meanings given such terms under Section 13(d) and 14(d) of the United States Securities Exchange Act of 1934 and the term \u201cgroup\u201d includes any group acting for the purpose of acquiring, holding or disposing of securities within the meaning of Rule 13d-5(b)(1) under the said Act\u037e (b) a \u201cbeneficial owner\u201d shall be determined in accordance with Rule 13d-3 under the aforesaid Act\u037e and (c) the terms \u201cbeneficially owned\u201d and \u201cbeneficially own\u201d shall have meanings correlative to that of \u201cbeneficial owner.\u201d 1.32 [***] 1.33 \u201cClinical Data \u201d means [***] Information with respect to any Licensed Compound or Licensed Product and made, collected, or otherwise generated under or in connection with Clinical Studies, including any data (including raw data), reports, and results with respect thereto.",
+    "ollama_generated": "For the purpose of defining Change in Control, (a) \"party\" and \"consortium\" shall bear the definitions ascribed to them under Section 13(d) and 14(d) of the United States Securities Exchange Act of 1934, and the term \"consortium\" encompasses any group coordinating for the intent to buy, hold or sell securities as per Rule 13d-5(b)(1) under the said Act. (b) An entity shall be recognized as a \"beneficial owner\" in accordance with Rule 13d-3 under the aforementioned Act. (c) The terms \"beneficially controlled\" and \"beneficially controlling\" shall carry meanings analogous to that of \"beneficial owner.\"\n\n1.32 [***] 1.33 \"Clinical Data\" represents [***] Information regarding any Licensed Compound or Licensed Product, and data accumulated, gathered, or produced under or in association with Clinical Research, encompassing any data (including raw data), reports, and outcomes pertaining thereto.",
+    "contradiction_score": 0.017578886821866035,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 17813,
+    "end_char": 17881,
+    "original": "1.39 \u201cCommercially Reasonable Efforts \u201d means with respect to [***].",
+    "ollama_generated": "1.39 \"Prudent Business Efforts\" refers to the level of effort that a reasonable business person would use, in light of their own interests, under similar circumstances, with respect to [***]. [This shift in language emphasizes the focus on what a prudent businessperson would deem appropriate for their self-interest, rather than commercially reasonable, which could imply a higher standard.]",
+    "contradiction_score": 0.2397875189781189,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 20479,
+    "end_char": 20547,
+    "original": "1.45 \u201cDefault Notice \u201d has the meaning set forth in Section 12.2.1 .",
+    "ollama_generated": "1.45 \"Default Notification\" shall be construed according to the definition provided in Section 12.2.1, but it is hereby understood that the recipient shall have a grace period of three (3) business days to rectify any defaults before formal Default Notice is issued.\n\nThis modification allows for a bit more flexibility by providing a grace period for the recipient to address any potential defaults prior to receiving an official notice.",
+    "contradiction_score": 0.0017153248190879822,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 21839,
+    "end_char": 21901,
+    "original": "1.50 \u201cDistributor \u201d has the meaning set forth in Section 5.4 .",
+    "ollama_generated": "1.50 For the purposes of this Agreement, \"Distributor\" shall be as defined in Section 5.4.\n\n(Note: This revised clause maintains the definition of \"Distributor,\" but emphasizes that its meaning is found elsewhere in the agreement, rather than asserting that it has a definitive or absolute meaning within this specific section.)",
+    "contradiction_score": 0.016950057819485664,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 22169,
+    "end_char": 22221,
+    "original": "1.52 \u201cDollars \u201d or \u201c $\u201d means United States Dollars.",
+    "ollama_generated": "1.52 \"USD\" or \"$\" shall be interchangeably used to denote United States Currency. [This change is made to allow for flexibility in the use of abbreviations and symbols, but both terms will represent the same currency.]",
+    "contradiction_score": 0.014047800563275814,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 23482,
+    "end_char": 23874,
+    "original": "1.60 \u201cExploit ,\u201d \u201cExploited \u201d or \u201c Exploitation \u201d means to make, have made, import, export, use, sell, or offer for sale, including to Develop, Commercialize, register, modify, enhance, improve, Manufacture, have Manufactured, hold, or keep (whether for disposal or otherwise), formulate, optimize, have used, export, transport, distribute, promote, market, have sold or otherwise dispose of.",
+    "ollama_generated": "1.60 \"Utilization,\" \"Used,\" or \"Usage\" refers to the act of developing, commercializing, registering, modifying, enhancing, improving, manufacturing, holding, possessing (for any purpose including storage or disposal), formulating, optimizing, transporting, distributing, promoting, marketing, selling, or offering for sale, without limitation. It also includes any actions taken to adapt, adjust, or apply the subject matter of this agreement for any purpose whatsoever.",
+    "contradiction_score": 0.09130504727363586,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 24402,
+    "end_char": 24722,
+    "original": "1.64 \u201cFinal  Development Report \u201d means the final written data package delivered by Harpoon to AbbVie in accordance with Section 3.1.3 , after the completion of all activities under the Initial Development Plan, including, for clarity, [***], and comprised of the [***]. The Final Development Report shall include [***].",
+    "ollama_generated": "1.64 \"Final Development Report\" refers to the comprehensive, final written data set submitted by AbbVie to Harpoon upon their request, following Harpoon's completion of all activities outlined in the Initial Development Plan, including, for clarity, [***], and encompassing the [***]. The Final Development Report will be compiled by Harpoon and shall include [***]. However, it is understood that any discrepancies or omissions within this report will be addressed in a timely manner post-submission, at the discretion of AbbVie.",
+    "contradiction_score": 0.38134992122650146,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 24722,
+    "end_char": 25119,
+    "original": "Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 1.65 \u201cFirst Commercial Sale \u201d means, with respect to a Licensed Product and a country, the first sale for monetary value for use or consumption by the end user of such Licensed Product in such country after Regulatory Approval for such Licensed Product has been obtained in such country. [***]  shall not be construed as a First Commercial Sale.",
+    "modified": "Clause:\nModified: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020\n1.65 \"First Commercial Sale\" does not encompass, with respect to a Licensed Product and a country, any subsequent sales for monetary value following the initial sale for use or consumption by the end user of such Licensed Product in such country, after Regulatory Approval for such Licensed Product has been obtained in such country. [***]  shall be considered as a First Commercial Sale.",
+    "contradiction_score": 0.994472324848175,
+    "kept": true
+  },
+  {
+    "clause_index": 64,
+    "start_char": 25193,
+    "end_char": 25394,
+    "original": "1.67 \u201cHarpoon  In-License Agreement \u201d means [***] agreement between Harpoon and a Third Party under which AbbVie is granted a sublicense or other right under this Agreement as provided in Section 5.9 .",
+    "ollama_generated": "1.67 \"Harpoon In-License Subcontracting Arrangement\" denotes the contractual agreement between Harpoon and a Third Party, whereby Harpoon assumes responsibility for granting AbbVie a sublicense or other rights under this Agreement, as outlined in Section 5.9, when applicable.\n\nIn this revised version, the original clause has been slightly altered to shift the responsibility of granting the sublicense from AbbVie to Harpoon.",
+    "contradiction_score": 0.07286922633647919,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 26492,
+    "end_char": 26583,
+    "original": "1.73 \u201cHSR Act \u201d means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.",
+    "ollama_generated": "1.73 \"The Act referred to as the Hart-Scott-Rodino Antitrust Improvements Act of 1976, in its current and any future amended form, is hereinafter designated as 'HSR Legislation'.\"\n\nThis revision maintains the professional tone but shifts the focus from a straightforward definition to a more descriptive and forward-looking designation of the act.",
+    "contradiction_score": 0.004590949043631554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 27249,
+    "end_char": 27329,
+    "original": "1.77 \u201cIndemnification Claim Notice \u201d has the meaning set forth in Section 11.3 .",
+    "ollama_generated": "1.77 \"Request for Indemnity Remedy Notification\" shall bear the significance outlined in Section 11.3.\n\n(Explanation: The original clause uses the term \"Indemnification Claim Notice\", which could potentially be perceived as aggressive or adversarial. I've opted to rephrase it subtly, replacing \"Indemnification Claim\" with \"Request for Indemnity Remedy\". This change maintains the original intent while making the language more conciliatory and less confrontational.)",
+    "contradiction_score": 0.492564857006073,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 29404,
+    "end_char": 30470,
+    "original": "1.81 [***] 1.82 \u201cInformation \u201d means all information of a technical, scientific, business and other nature, including know-how, technology, means, methods, processes, practices, formulae, instructions, skills, techniques, procedures, experiences, ideas, technical assistance, designs, drawings, assembly procedures, computer programs, apparatuses, specifications, data, results and other material, regulatory data, and other biological, chemical, pharmacological, toxicological, pharmaceutical, physical and analytical, pre- clinical, clinical, safety, manufacturing and quality control data and information, including study designs and protocols, reagents (including all physical materials in connection with any of the foregoing such as plasmids, proteins, cell lines, assays, materials generated in connection with any CMC activities and compounds) and biological methodology\u037e in each case (whether or not confidential, proprietary, patented or patentable, of commercial advantage or not) in written, electronic or any other form now known or hereafter developed.",
+    "ollama_generated": "1.81 [***] 1.82 \"Data\" encompasses all data of a technical, scientific, business, and other nature, comprising know-how, technology, methods, processes, practices, formulae, instructions, skills, techniques, procedures, experiences, ideas, technical assistance, designs, drawings, assembly procedures, computer programs, apparatuses, specifications, results, and other materials. This also includes regulatory data, biological, chemical, pharmacological, toxicological, pharmaceutical, physical, and analytical data, pre-clinical, clinical, safety, manufacturing, and quality control information, such as study designs and protocols, reagents (including all physical materials related to the aforementioned data, including plasmids, proteins, cell lines, assays, materials generated in connection with any CMC activities, and compounds), and biological methodology. This data may be confidential, proprietary, patented or patentable, of commercial advantage or not, and exists in written, electronic, or any other form currently known or developed in the future.\n\nIn this version, the clause has been slightly rephrased to expand the scope of the term \"Data\" to include physical materials related to the data, such as compounds and reagents, which were not explicitly mentioned in the original clause. This could potentially shift responsibility for these items from one party to another, depending on the context of the contract.",
+    "contradiction_score": 0.020632436498999596,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 31936,
+    "end_char": 32079,
+    "original": "1.85 \u201cInitiation \u201d or \u201c Initiate \u201d means, with respect to a Clinical Study, the first dosing of the first human subject in such Clinical Study.",
+    "modified": "1.85 \"Commencement\" or \"Instigate\" denotes, in relation to a Clinical Study, the point at which the initial dose is administered to the first volunteer participating in said Clinical Study. Notably, this term signifies the onset of the study rather than its formal initiation prior to dosing.",
+    "contradiction_score": 0.7472550868988037,
+    "kept": true
+  },
+  {
+    "clause_index": 82,
+    "start_char": 32090,
+    "end_char": 32165,
+    "original": "1.86 \u201cIntellectual Property \u201d has the meaning set forth in Section 12.5.1 .",
+    "ollama_generated": "1.86 For purposes of this Agreement, \"Intellectual Property\" shall encompass only those rights and protections as detailed in Section 12.5.1, with the understanding that neither Party assumes any obligations or liabilities beyond these explicitly defined parameters.",
+    "contradiction_score": 0.0017778027104213834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 32257,
+    "end_char": 32344,
+    "original": "1.88 \u201cJoint Intellectual Property Rights \u201d has the meaning set forth in Section 7.1.2 .",
+    "modified": "1.88 \"Shared Intellectual Property Rights,\" as defined in Section 7.1.2, shall not be exclusively owned or controlled by either party but may be jointly managed and exploited by mutual agreement.\n\nThis revised clause shifts the ownership of intellectual property rights from an explicit \"joint\" to a more flexible \"shared\" arrangement, and adds that management and exploitation of these rights will require mutual agreement between the parties.",
+    "contradiction_score": 0.5372046828269958,
+    "kept": true
+  },
+  {
+    "clause_index": 98,
+    "start_char": 34749,
+    "end_char": 34824,
+    "original": "1.106 \u201cManufacturing Process \u201d has the meaning set forth in Section 4.6.1 .",
+    "ollama_generated": "1.106 \"The Definition of 'Manufacturing Process'\" shall be as delineated in Section 4.6.1.\n\n(Note: The reworded clause is grammatically equivalent but shifts the focus from setting a meaning to defining it, which subtly alters the reader's perspective on the information being presented.)",
+    "contradiction_score": 0.014618129469454288,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 41008,
+    "end_char": 41102,
+    "original": "1.124 \u201cPHSA \u201d means the United States Public Health Service Act, as amended from time to time.",
+    "ollama_generated": "1.124 \"PHSA\" refers to the United States Public Health Service Act, inclusive of any future amendments or modifications.\n\nRewritten clause (shifted responsibility):\n1.124 \"PHSA\" denotes the United States Public Health Service Act as it stands at the time of this agreement's execution, with the obligation on the parties to comply with any subsequent amendments or revisions falling upon them.",
+    "contradiction_score": 0.3279244601726532,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 121,
+    "start_char": 41400,
+    "end_char": 41471,
+    "original": "1.128 \u201cProduct Information \u201d has the meaning set forth in Section 9.1 .",
+    "ollama_generated": "1.128 \"Referenced Product Information\" shall be understood as defined in Section 9.1.\n\n[Explanation] The original clause defines what \"Product Information\" means, and this revised clause changes the name of the term to \"Referenced Product Information,\" suggesting that it may be a more specific or detailed form of the product information.",
+    "contradiction_score": 0.07739660888910294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 42052,
+    "end_char": 42132,
+    "original": "1.131 \u201cProduct-Specific Claims \u201d has the meaning set forth in Section 7.2.1(a) .",
+    "ollama_generated": "1.131 \"Product-Specific Claims\" shall encompass the scope defined in Section 7.2.1(a), except that any disputes or interpretations regarding this term will be resolved in favor of the Product Provider.\n\nExplanation: This revised clause maintains the original meaning but now places the resolution of disputes related to \"Product-Specific Claims\" in favor of the Product Provider, thereby shifting responsibility in case of any disputes.",
+    "contradiction_score": 0.008446178399026394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 42133,
+    "end_char": 42214,
+    "original": "1.132 \u201cProduct-Specific Patents \u201d has the meaning set forth in Section 7.2.1(b) .",
+    "ollama_generated": "1.132 \"Referenced Product-Specific Patents\" denotes the definition provided in Section 7.2.1(b).\n\nExplanation: The original clause defines a specific term (\"Product-Specific Patents\") using another defined term within the document. The rewritten clause, while keeping the same meaning, slightly changes the language to make it less direct and more open-ended by using \"Referenced Product-Specific Patents\" instead of \"Product-Specific Patents\". This change may imply a slight shift in responsibility or perspective when interpreting the term. However, this is a subtle change that maintains the overall meaning of the original clause.",
+    "contradiction_score": 0.19779053330421448,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 49066,
+    "end_char": 49190,
+    "original": "- 17  - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 1.155 \u201cWorking Group \u201d has the meaning set forth in Section 2.6.",
+    "modified": "17 - Alteration of Previously Defined Term:\n- 17 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020\n\"Working Group,\" as hereinafter referred to, shall be construed in accordance with the definition provided within Section 2.6, yet with a broadened scope of understanding and interpretation, subject to any revisions or amendments made by the Company during the term of this agreement.\n\nThis clause acknowledges that the term \"Working Group\" will retain its original definition from Section 2.6, but allows for an expanded interpretation and potential alteration throughout the life of this contract, should Harpoon Therapeutics, Inc. choose to revise or amend it.",
+    "contradiction_score": 0.5179820656776428,
+    "kept": true
+  },
+  {
+    "clause_index": 155,
+    "start_char": 52925,
+    "end_char": 53414,
+    "original": "2.2.2 Procedural Rules.  The JGC shall have the right to adopt such standing rules as shall be necessary for its work, to the extent that such rules are not inconsistent with this Agreement. A quorum of the JGC shall exist whenever there is present at a meeting [***] appointed by each Party, each with the requisite experience and seniority to enable such person to make decisions on behalf of the Party it represents with respect to the issues falling within the jurisdiction of the JGC.",
+    "ollama_generated": "2.2.2 Procedural Regulations. The Party designated as the Joint Governance Committee (JGC) retains the authority to establish and apply such operating guidelines deemed necessary for its functions, provided that these regulations do not contravene this Agreement. A quorum within the JGC shall be established whenever representatives from each Party, duly appointed with appropriate expertise and seniority, are present at a meeting. Notably, the absence of any member may not prohibit the remaining members from deliberating and making decisions on matters under the JGC's jurisdiction, given the collective understanding of this Agreement.",
+    "contradiction_score": 0.15475422143936157,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 53679,
+    "end_char": 54329,
+    "original": "The JGC shall take action by consensus of the representatives present at a meeting at which a quorum exists, with each Party having a single vote irrespective of the number of representatives of such Party in attendance, or by a written resolution signed by [***] appointed by each Party. Employees or consultants of either Party that are not representatives of the Parties on the JGC may attend meetings of the JGC\u037e provided  that such attendees (i) shall not vote or otherwise participate in the decision-making process of the JGC, and (ii) are bound by obligations of confidentiality and non-disclosure equivalent to those set forth in Article 9 .",
+    "ollama_generated": "The JGC is empowered to make decisions either by reaching consensus among the representatives present at a meeting where a quorum is achieved, with each Party having one vote regardless of the number of their representatives in attendance, or through a written agreement signed by the duly appointed representatives of each Party. Non-representative employees or consultants from either Party may attend JGC meetings; however, they are prohibited from voting or participating in the decision-making process and must adhere to confidentiality and non-disclosure obligations akin to those outlined in Article 9.\n\nThis revised clause aims to emphasize that decisions within the JGC can be made either by consensus at a meeting with a quorum, or through a written agreement, while also clarifying that employees or consultants who are not representatives can attend meetings but do not have the right to vote or participate in decision-making, and they must maintain confidentiality and non-disclosure equivalent to those specified in Article 9.",
+    "contradiction_score": 0.0018875940004363656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 54329,
+    "end_char": 54559,
+    "original": "2.2.3 Dispute Resolution.  If the JGC cannot, or does not, reach consensus on an issue, then the dispute shall first be referred to the Senior Officers of the Parties, who shall confer in good faith on the resolution of the issue.",
+    "ollama_generated": "2.2.3 Dispute Resolution. In case the Parties fail to achieve agreement on a matter, either Party may escalate the issue to their respective Senior Officers, who shall independently pursue negotiations with no obligation to reach a consensus. If, after reasonable efforts, they are unable to resolve the dispute, it shall then be referred to a mutually agreed-upon third-party mediator for resolution.",
+    "contradiction_score": 0.48583275079727173,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 164,
+    "start_char": 57108,
+    "end_char": 58114,
+    "original": "2.3 Discontinuation of the JGC.  The JGC shall continue to exist until the first to occur of: (a) the Parties mutually agreeing to disband the JGC\u037e (b) in the event of AbbVie\u2019s exercise of its License Option, upon the delivery of the Final Development Report pursuant to Section 3.1.3 \u037e and (c) expiration of the License Option Period without AbbVie exercising the License Option. Additionally, in the event of a Change in Control of Harpoon involving a Competitor, AbbVie shall have the right at any time and for any reason, effective upon written notice, to disband the JGC in accordance with Section 13.2.2 . In the event that the JGC is disbanded pursuant to Section 13.2.2 , (a) any information, documents or reports that a Party is otherwise required to provide to the JGC pursuant to this Agreement shall be provided directly to the other Party and (b) any matters delegated to the JGC shall be made by mutual agreement of the Parties, subject to the dispute resolution provisions of Section 2.2.3 .",
+    "ollama_generated": "2.3 Termination of the Joint Governance Committee (JGC): The existence of the JGC will persist until any of the following triggers occur, in ascending order of priority: (a) a mutual decision by the Parties to dissolve the JGC; (b) AbbVie's exercise of its License Option, upon submission of the Final Development Report as per Section 3.1.3; (c) expiration of the License Option Period without AbbVie electing to use the License Option; and (d) in case of a Change in Control of Harpoon that includes a Competitor, AbbVie shall retain the discretionary power to terminate the JGC at any time for any reason, effective immediately upon written notification. In the event the JGC is terminated pursuant to Section 13.2.2, (a) any information, documents or reports that a Party would otherwise be obligated to submit to the JGC under this Agreement will be provided directly between the Parties, and (b) responsibilities formerly delegated to the JGC will be fulfilled through mutual agreement of the Parties, with any disputes resolved in accordance with Section 2.2.3.\n\nIn this revised version, the priority of events leading to the termination of the Joint Governance Committee has been inverted, and AbbVie now retains discretionary power to terminate the JGC under certain conditions, as opposed to having a right to do so. Additionally, the responsibility for providing information, documents, or reports, and fulfilling delegated responsibilities, shifts from the Joint Governance Committee to the Parties themselves in case of termination.",
+    "contradiction_score": 0.46446871757507324,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 169,
+    "start_char": 60741,
+    "end_char": 60957,
+    "original": "2.7 Expenses. Each Party shall be responsible for all travel and related costs and expenses for its members and other representatives to attend meetings of, and otherwise participate on, the JGC or any Working Group.",
+    "ollama_generated": "2.7 Expenditures: The Parties acknowledge that any costs incurred for travel and related expenses associated with attending meetings of the JGC or any Working Group for their respective members and representatives shall be solely borne by such individuals, unless explicitly stated otherwise in writing by mutual agreement between the affected parties.",
+    "contradiction_score": 0.003133726306259632,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 170,
+    "start_char": 60957,
+    "end_char": 61039,
+    "original": "ARTICLE 3 DEVELOPMENT AND REGULATORY 3.1 Initial Development Plan  and Activities.",
+    "ollama_generated": "ARTICLE 3 DEVELOPMENT AND REGULATORY MATTERS\n\n3.1 Initial Development Plan and Activities (Flexible Approach)\n\nIn the spirit of collaboration and understanding, the parties hereto agree that the initial development plan and associated activities (as further defined in Schedule A) shall be subject to a flexible approach. The Developer may, at its discretion, modify or adjust such plan and activities as needed, provided that it notifies the Regulatory Authority of any material changes at least 30 days prior to implementation. This provision does not absolve the Developer from complying with all applicable laws, regulations, and permits, nor does it relieve the Developer of its obligation to obtain necessary approvals for any such changes. The Regulatory Authority shall use reasonable efforts to respond to such notifications in a timely manner, recognizing that unforeseen circumstances may arise necessitating prompt action.",
+    "contradiction_score": 0.01163813192397356,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 61039,
+    "end_char": 61749,
+    "original": "3.1.1 Initial Development Plan.  Either Party, directly or through its representatives on the JGC, may propose amendments to the Initial Development Plan from time to time as appropriate, including in light of changed circumstances. Any and all such amendments shall be subject to approval by the JGC as set forth in Section 2.1.2 , subject to the dispute resolution procedures set forth in Section 2.2.3 . Within [***] of the Effective Date, the Parties, through the CMC Working Group, shall jointly develop an amendment to the Initial Development Plan to identify the [***] in accordance with the parameters set forth in the Initial Development Plan attached hereto as Schedule 1.84 . For clarity, all [***].",
+    "modified": "3.1.1 Initial Development Plan Amendments: The JGC shall have the exclusive right to propose amendments to the Initial Development Plan at any point in time, with or without cause. These proposed changes will not require approval from either Party but will be subject to discussion within the CMC Working Group. Any disagreements regarding these amendments shall be resolved through the dispute resolution procedures outlined in Section 2.2.3. It is understood that the Parties may provide input on these proposed changes, but the final decision will rest with the JGC. Within [***] of the Effective Date, the JGC shall initiate the development of an amendment to the Initial Development Plan, as per the parameters set forth in the Initial Development Plan attached hereto as Schedule 1.84. It is clarified that any amendments developed by the JGC will take precedence over any prior agreements or understandings between the Parties regarding the Initial Development Plan.",
+    "contradiction_score": 0.7772376537322998,
+    "kept": true
+  },
+  {
+    "clause_index": 175,
+    "start_char": 63517,
+    "end_char": 64894,
+    "original": "(a)  if AbbVie notifies Harpoon in writing that it consents to the amendments proposed by Harpoon to the  Initial Development Plan, Harpoon may proceed to resubmit the clinical portion of the Initial Development Plan (including the clinical protocol for the Phase I/IB Trial, as applicable) to the FDA, [***]\u037e (b) if AbbVie requests that Harpoon provide further information in connection with the proposed amendments, Harpoon shall [***] provide such information and make available appropriate personnel to respond to AbbVie\u2019s questions regarding the proposed amendments, and if AbbVie notifies Harpoon in writing following receipt of such information that it consents to the amendments as proposed by Harpoon to the Initial Development Plan, [***]\u037e (c) if AbbVie notifies Harpoon that it does not consent to the proposed amendments (either before or following a request for more information under Section 3.1.3(b)) , then such amendment (i) shall be [***], (ii) shall be referred [***] to a special meeting of the JGC (or such other discussion forum as the Parties may mutually agree in writing) and (iii) shall be subject [***], provided  that solely with respect to amendment arising under this Section 3.1.3 , (A) [***], and (B) [***]\u037e and (d) For clarity, if AbbVie provides no response to Harpoon\u2019s proposed amendments within the foregoing three [***] period, then [***].",
+    "modified": "(a) Upon receipt of written consent from AbbVie to the amendments suggested by Harpoon to the Initial Development Plan, Harpoon retains the discretion to resubmit the clinical portion of the Initial Development Plan (which includes the Phase I/IB Trial protocol, as appropriate) to the FDA; (b) If AbbVie requires additional information concerning the proposed amendments, Harpoon shall cooperate by providing such information and making available suitable personnel to address AbbVie's questions regarding the proposed amendments. In the event that AbbVie grants written consent to the amendments as proposed by Harpoon following receipt of this information, (c) however, if AbbVie communicates in writing its refusal to consent to the suggested amendments (either before or after a request for further information under Section 3.1.3(b)), such amendment shall become void and shall be addressed during a special meeting of the JGC (or an alternative mutually agreed-upon forum) with the following conditions: (i) Discussion on this specific amendment is mandatory, but no decision need be made immediately; (ii) Each party will have equal opportunity to present their case; (iii) The ultimate resolution will be subject to mutual agreement between the parties. It is worth noting that, in the absence of a written response from AbbVie within the prescribed three-week period regarding Harpoon's proposed amendments, the amendments shall automatically be considered rejected.",
+    "contradiction_score": 0.8146122097969055,
+    "kept": true
+  },
+  {
+    "clause_index": 185,
+    "start_char": 72145,
+    "end_char": 72657,
+    "original": "3.3 [***]  At any time following the earlier of [***]. For clarity, if AbbVie\u2019s [***] shall be solely responsible for any cost or expense associated with such additional obligations, and for providing [***] to enable [***] in connection with the Licensed Compounds and Licensed Products prior to AbbVie\u2019s exercise of the License Option. AbbVie may elect to exercise its option to carry - 25 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 out [***] and prior to the expiration of the License Option Period.",
+    "ollama_generated": "3.3 [***]  Upon discretionary approval by AbbVie at any point during or after the period starting from either of the specified events. For the sake of clarification, it is understood that if any additional obligations arise for AbbVie in relation to the Licensed Compounds and Licensed Products, such costs or expenses will be borne solely by [***]. It is within the sole prerogative of [***] to provide whatever resources are necessary to facilitate these obligations. AbbVie reserves the right to relinquish its option to assume these responsibilities at any time before the expiration of the License Option Period, and it is explicitly stated that this option may be exercised at AbbVie's sole discretion.",
+    "contradiction_score": 0.049473121762275696,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 72657,
+    "end_char": 72936,
+    "original": "3.3.2  Upon the date AbbVie provides the [***], AbbVie shall be deemed to have entered into the license set forth in Section 5.1.2 . AbbVie shall have the right, on a one-time only basis following[***]. AbbVie shall have final decision making authority with respect to all [***].",
+    "ollama_generated": "3.3.2 The recipient's receipt of the [***] signifies their agreement to the license as outlined in Section 5.1.2, which AbbVie reserves the right to grant solely at its discretion following[***]. It is explicitly understood that all decisions regarding the [***] will be made by AbbVie, with final authority vested in them.",
+    "contradiction_score": 0.001997715560719371,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 189,
+    "start_char": 76051,
+    "end_char": 76101,
+    "original": "3.5 Supply of Technology for Development Purposes.",
+    "ollama_generated": "3.5 Technology Provision for Self-Directed Innovation:\n\nIn the event that Party A provides technology to Party B for self-directed innovation purposes, it is expressly understood and agreed by both parties that:\n\n1. Party B shall have the sole discretion in determining how the technology is utilized and adapted for their own objectives, without any obligation to consult or seek approval from Party A.\n2. Party A shall not be responsible for any intellectual property arising from Party B's use of the provided technology, including but not limited to patents, trademarks, or copyrights.\n3. Party B acknowledges that it bears full responsibility for ensuring compliance with all applicable laws, regulations, and standards in connection with their use of the technology, indemnifying and holding harmless Party A from any claims arising therefrom.\n4. Party A shall not be liable for any damages or losses resulting directly or indirectly from Party B's use of the provided technology, except as may be otherwise expressly provided in this Agreement.\n5. The relationship between the parties under this section shall not create any partnership, joint venture, agency, or employer-employee relationship. Each party retains its independence and autonomy in all matters related to the provision, utilization, and development of the technology.",
+    "contradiction_score": 0.05599236488342285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 193,
+    "start_char": 79335,
+    "end_char": 79350,
+    "original": "Subcontracting.",
+    "ollama_generated": "Third-Party Engagement:\n\nThe Client reserves the right to engage third parties for the performance of any part of the Services, provided that such engagement does not materially impair the quality or timeliness of the Services and does not compromise the integrity or confidentiality of the Project. The Service Provider shall be responsible for ensuring that all third parties engaged by it are fully aware of their obligations under this Agreement and shall remain liable for any acts or omissions of such third parties.",
+    "contradiction_score": 0.1404937356710434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 208,
+    "start_char": 88001,
+    "end_char": 88287,
+    "original": "ARTICLE 4 COMMERCIALIZATION 4.1 In General. Effective on the License Option Exercise Closing Date, AbbVie (itself or through its Affiliates or Sublicensees) shall have the sole right to Commercialize Licensed Compounds and Licensed Products in the Territory at its own cost and expense.",
+    "modified": "ARTICLE 4 COMMERCIALIZATION\n\n4.1 In General. From the License Option Exercise Closing Date, the Licensor (itself or through its Affiliates or Sublicensees) shall grant to the Licensee the exclusive right, at the Licensee's cost and expense, to Commercialize Licensed Compounds and Licensed Products within the Territory. The Licensee shall bear all risks and costs associated with such Commercialization.\n\nIn this revised clause, I have changed the original's obligation from AbbVie (or its affiliates or sublicensees) having \"the sole right to Commercialize\" to the Licensor granting the Licensee an \"exclusive right\" to commercialize at the Licensee's cost and expense. Additionally, I've added a phrase stating that the Licensee shall bear all risks and costs associated with such Commercialization, thereby shifting the responsibility to the Licensee for any potential losses or expenses incurred during commercialization within the territory.",
+    "contradiction_score": 0.9019047617912292,
+    "kept": true
+  },
+  {
+    "clause_index": 212,
+    "start_char": 89549,
+    "end_char": 90810,
+    "original": "4.4 Product Trademarks. Effective on the License Option Exercise Closing Date, AbbVie shall have the sole right to determine and own the Product Trademarks to be used with respect to the Exploitation of the Licensed Products on a worldwide basis. Harpoon shall not, and shall not permit its Affiliates to, attack, dispute, or contest the validity of or ownership of such Product Trademark anywhere in the Territory or any registrations issued or issuing with respect thereto or use in their respective businesses, any Trademark that is confusingly similar to, misleading or deceptive with respect to or that dilutes any (or any part) of the Product Trademarks. Notwithstanding the foregoing, to the extent required by Applicable Law in a country or other jurisdiction in the Territory, the promotional materials, packaging, and Product Labeling for the Licensed Products used by AbbVie and its Affiliates in connection with the Licensed Products in such country or other jurisdiction shall contain (a) the corporate name of Harpoon (and to the extent required, Harpoon grants AbbVie a license, with the right to sublicense, to use the same solely for such purpose), and (b) the logo and corporate name of the manufacturer (if other than AbbVie or an Affiliate).",
+    "modified": "4.4 Product Trademarks. Commencing on the License Option Exercise Closing Date, Harpoon shall grant AbbVie non-exclusive rights to utilize the Product Trademarks globally in relation to the Exploitation of the Licensed Products. Harpoon, as well as its Affiliates, will be permitted, and even encouraged, to challenge, dispute, or contest the validity of or ownership of such Product Trademark anywhere within the Territory or any registrations issued or issuing with respect thereto, provided that any conflicting Trademark used in their respective businesses is not deceptively similar to, misleading, or dilutive of the Product Trademarks. Conversely, AbbVie and its Affiliates will be exempt from this obligation if required by Applicable Law in a specific country or jurisdiction within the Territory, with Harpoon (granting AbbVie a non-exclusive, sublicensable license for this purpose) required to include in promotional materials, packaging, and Product Labeling for the Licensed Products used by AbbVie and its Affiliates in such country or jurisdiction, both (a) the corporate name of Harpoon, and (b) the logo and corporate name of the manufacturer (if other than AbbVie or an Affiliate).",
+    "contradiction_score": 0.9182330369949341,
+    "kept": true
+  },
+  {
+    "clause_index": 215,
+    "start_char": 91268,
+    "end_char": 95041,
+    "original": "4.5.2 Manufacturing Technology Transfer Upon AbbVie\u2019s Request.  AbbVie shall have the right, at any time [***] the License Option Exercise Closing Date, as applicable, to require Harpoon to effect a one-time full transfer to AbbVie or its designee (which designee may be an Affiliate or a Third Party manufacturer of Licensed Compound or Licensed Product) of all Harpoon Know-How specifically relating to the then-current process for the Manufacture of the Licensed Compound and Licensed Products, including process qualification and validation, quality assurance and quality control but excluding [***] (the \u201c Manufacturing Process \u201d) and to implement the Manufacturing Process at a facility designated by AbbVie (such transfer and implementation, as more fully described in this Section 4.5.2 , the \u201c Manufacturing Technology Transfer \u201d). Harpoon shall provide, and shall use commercially reasonable efforts to cause its Third Party manufacturers to provide (including by using commercially reasonable efforts to negotiate contractual obligations for such Third Party manufacturers to do so under agreements entered into following the Effective Date), all reasonable assistance requested by AbbVie to enable AbbVie (or its Affiliate or designated Third Party manufacturer, as applicable) to implement the Manufacturing Process at the facility designated by AbbVie. If requested by AbbVie, such assistance shall include providing reasonable assistance to AbbVie to facilitate AbbVie entering into agreements with applicable Third Party suppliers relating to the Licensed Compound and Licensed Products. Without limitation - 31 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 to the foregoing, in connection with the Manufacturing Technology Transfer, Harpoon shall, and shall use commercially reasonable efforts to cause its Third Party manufacturers (including by using commercially reasonable efforts to negotiate contractual obligations for such Third Party manufacturers to comply with the same obligations under agreements entered into following the Effective Date) (a)  make available to AbbVie (or its Affiliate or designated Third Party manufacturer, as applicable) from time to time as AbbVie may request, all [***]to use and practice the Manufacturing Process\u037e (b) cause all appropriate [***] assist with the working up and use of the Manufacturing Process [***]\u037e (c) without limiting the generality of Section 4.5.2(b) , cause all appropriate [***] employees and representatives of Harpoon and its Affiliates and its Third Party manufacturers to meet with employees or representatives of AbbVie (or its Affiliate or designated Third Party manufacturer, as applicable) at the applicable manufacturing facility and make available all necessary equipment, at mutually convenient times, to support and execute the transfer of all applicable analytical methods and the validation thereof (including, all applicable Harpoon Know-How, methods, validation documents and other documentation, materials and sufficient supplies of all primary and other reference standards)\u037e (d) take such steps as are necessary to assist in reasonable respects AbbVie (or its Affiliate or designated Third Party manufacturer, as applicable) in obtaining any necessary licenses, permits or approvals from Regulatory Authorities with respect to the Manufacture of the Licensed Compound and Licensed Products at the applicable facilities\u037e (e) provide such other assistance as AbbVie (or its Affiliate or designated Third Party manufacturer, as applicable) may reasonably request to enable AbbVie (or its Affiliate or designated Third Party manufacturer, as applicable) to use and practice the Manufacturing Process and otherwise to Manufacture Licensed Compounds and Licensed Products.",
+    "ollama_generated": "4.5.2 Obligation for Technology Transfer at AbbVie's Convenience. Harpoon shall be obligated, upon request by AbbVie, at any time prior to or on the License Option Exercise Closing Date, as applicable, to transfer all Harpoon Know-How specifically relating to the then-current process for the Manufacture of the Licensed Compound and Licensed Products, including process qualification and validation, quality assurance and quality control (excluding [***]), but not limited to, to AbbVie or its designated manufacturer. This transfer shall include implementation of the Manufacturing Process at a facility designated by AbbVie (the \"Manufacturing Technology Transfer\").\n\nAbbVie, or its Affiliate or designated Third Party manufacturer, shall have the right to request reasonable assistance from Harpoon and its Third Party manufacturers to facilitate this transfer. Such assistance may include providing access to all necessary equipment, personnel, and documentation required for the implementation of the Manufacturing Process at the designated facility, as well as negotiating contractual obligations with applicable Third Party suppliers relating to the Licensed Compound and Licensed Products.\n\nHarpoon shall use commercially reasonable efforts to provide all such assistance in a timely and efficient manner. Without limiting the generality of this section, Harpoon's obligations under this clause shall not extend to the design or construction of any manufacturing facilities required for the implementation of the Manufacturing Process. Furthermore, AbbVie shall bear full responsibility for any costs associated with the implementation of the Manufacturing Process at the designated facility.\n\nIn connection with the Manufacturing Technology Transfer, Harpoon shall make available all [***] necessary to use and practice the Manufacturing Process, assist with the working up and use of the Manufacturing Process, and facilitate meetings between employees or representatives of Harpoon and its Affiliates, and employees or representatives of AbbVie or its designated manufacturer. Additionally, Harpoon shall provide reasonable assistance to AbbVie in obtaining any necessary licenses, permits, or approvals from Regulatory Authorities with respect to the Manufacture of the Licensed Compound and Licensed Products at the applicable facilities.",
+    "contradiction_score": 0.013920995406806469,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 216,
+    "start_char": 95041,
+    "end_char": 95493,
+    "original": "Except to the extent that a Manufacturing Technology Transfer is requested in connection with a breach of this Agreement, Harpoon\u2019s obligations to provide personnel and support under this Section 4.5.2  shall be limited to [***]. Thereafter, if requested by AbbVie, Harpoon shall use commercially reasonable efforts to continue to perform such obligations\u037e provided  that AbbVie will reimburse Harpoon for (i) [***]), and (ii) [***]  For clarity,[***].",
+    "ollama_generated": "Except in instances where a Manufacturing Technology Transfer is necessitated due to a violation of this Agreement, Harpoon's commitment to furnish personnel and assistance under Section 4.5.2 shall be confined to the specified scope. Absent such breach, Harpoon bears no additional obligations. Upon AbbVie's demand, however, Harpoon will make reasonable commercial endeavors to uphold these obligations; contingent upon AbbVie assuming the financial responsibility for (i) incurred costs related to [***], and (ii) expenses associated with [***]. For the avoidance of doubt, this clause does not imply any ongoing commitment beyond the aforementioned conditions.",
+    "contradiction_score": 0.34211987257003784,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 217,
+    "start_char": 95493,
+    "end_char": 96292,
+    "original": "- 32  - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 4.5.3 Subsequent Manufacturing Technology Transfer. Without limiting the foregoing, if Harpoon makes any invention, discovery, or improvement specifically relating to the Manufacture of a Licensed Compound or a Licensed Product during the Term, Harpoon shall promptly disclose such invention, discovery, or improvement to AbbVie, and shall, at AbbVie\u2019s request, perform technology transfer with respect to such invention, discovery, or improvement in the same manner as provided in Section  4.5.2 , provided  that any such further technology transfer occurring (a) prior to the License Option Exercise Closing Date shall be at Harpoon\u2019s sole expense and (b) after the License Option Exercise Closing Date shall be at AbbVie\u2019s sole expense.",
+    "ollama_generated": "32 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020\n  4.5.3 Post-Licensing Manufacturing Technology Transfer. In addition to the provisions stated earlier, if Harpoon develops any invention, discovery, or enhancement pertaining to the Manufacture of a Licensed Compound or a Licensed Product within the Contract Period, Harpoon will have the option, but not the obligation, to disclose such development to AbbVie at its discretion. Should Harpoon choose to disclose, and upon AbbVie's request, Harpoon shall be responsible for technology transfer regarding such development, following the procedures outlined in Section 4.5.2, except that any such technology transfer initiated (a) before the License Option Exercise Closing Date will be at Harpoon's expense and (b) after the License Option Exercise Closing Date will be at AbbVie's expense, with Harpoon having the right to decline such request for technology transfer should it deem it unnecessary or inconvenient.",
+    "contradiction_score": 0.26998990774154663,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 222,
+    "start_char": 97771,
+    "end_char": 98700,
+    "original": "(a) an exclusive (including with regard to Harpoon and its Affiliates, except as provided in Section 5.6 ) license (or sublicense), with the right to grant sublicenses in accordance with Section 5.3 , under the Harpoon Patents, the Harpoon Know-How, and Harpoon\u2019s interests in the Joint Patents and the Joint Know-How, to Exploit the Licensed Compounds and Licensed Products in the Field in the Territory\u037e (b) an exclusive (including with regard to Harpoon and its Affiliates, except as provided in Section 5.6 ) license and right of reference, with the right to grant sublicenses and further rights of reference in accordance with Section 5.3 , under the Regulatory Approvals and any other Regulatory Documentation that Harpoon or its Affiliates may Control with respect to the Licensed Compounds or  Licensed Products solely for purposes of Exploiting the Licensed Compounds and Licensed Products in the Field in the Territory.",
+    "modified": "(a) A non-exclusive license (permitting use by Harpoon and its Affiliates, as stipulated in Section 5.6), to utilize the Harpoon Patents, the Harpoon Know-How, and Harpoon's interests in the Joint Patents and the Joint Know-How, for the purpose of Exploiting the Licensed Compounds and Licensed Products within the Field in the Territory; this license may be sublicensed in accordance with Section 5.3.\n\n   (b) A non-exclusive license and right of reference, permissible for Harpoon and its Affiliates (as stipulated in Section 5.6), and allowing for sublicensing and further rights of reference in accordance with Section 5.3, under the Regulatory Approvals and any other Regulatory Documentation that may be controlled by Harpoon or its Affiliates pertaining to the Licensed Compounds or Licensed Products; this authorization is granted solely for the purpose of facilitating the Exploitation of the Licensed Compounds and Licensed Products within the Field in the Territory.\n\nThis revision weakens the exclusivity of the licenses, making it permissible for Harpoon and its Affiliates to use the licensed items, while also allowing other parties to do so under certain conditions.",
+    "contradiction_score": 0.8671160340309143,
+    "kept": true
+  },
+  {
+    "clause_index": 229,
+    "start_char": 101318,
+    "end_char": 102642,
+    "original": "5.6.1 Notwithstanding the exclusive licenses granted to AbbVie pursuant to Section 5.1.3 , Harpoon retains the right to practice under the Harpoon Patents, the Harpoon Know-How, Harpoon\u2019s interests in the Joint Patents and the Joint Know-How, Regulatory Approvals and any other Regulatory Documentation (a) to perform (and to sublicense Third Parties to perform as permitted hereunder) its obligations under this Agreement and (b) for any purpose outside the scope of the licenses and rights granted pursuant to Sections 3.2.3  and 5.1, including to Exploit any products or services other than Licensed Compounds or Licensed Products, subject to Section 5.8 . Except as expressly provided herein, Harpoon grants no other right or license, including any rights or licenses to the Harpoon Patents, the Harpoon Know-How, Harpoon\u2019s interests in the Joint Patents and Joint Know-How, the Regulatory Documentation or any other Patent or intellectual property rights not otherwise expressly granted herein. For clarity, if AbbVie does not exercise its License Option, Harpoon retains all rights under Harpoon\u2019s interests in the Joint Patents and the Joint Know-How, if any, to Exploit the Licensed Compounds and Licensed Products in its sole discretion without duty to account to AbbVie in connection with such use or Exploitation.",
+    "ollama_generated": "5.6.1 Despite the exclusive licenses granted to Harpoon by AbbVie as outlined in Section 5.1.3, AbbVie acknowledges that it does not possess any rights relating to Harpoon's practice of the Harpoon Patents, Harpoon Know-How, Harpoon's interests in the Joint Patents and the Joint Know-How, Regulatory Approvals, and any other Regulatory Documentation. This freedom extends to Harpoon's ability (and its permitted sub-licensees) to fulfill its obligations under this Agreement, as well as for any purposes beyond those defined in Sections 3.2.3 and 5.1. In particular, Harpoon retains the liberty to develop and market products or services other than the Licensed Compounds or Licensed Products, all subject to Section 5.8. Except where explicitly stipulated within this Agreement, Harpoon does not grant any additional rights or licenses, including but not limited to those pertaining to the Harpoon Patents, Harpoon Know-How, Harpoon's interests in the Joint Patents and Joint Know-How, Regulatory Documentation, or any other Patent or intellectual property rights not specifically enumerated herein. For the sake of clarity, should AbbVie choose not to exercise its License Option, Harpoon remains the undisputed owner of all rights pertaining to Harpoon's interests in the Joint Patents and the Joint Know-How, with no obligation to report or account to AbbVie regarding the use or exploitation of the Licensed Compounds and Licensed Products.",
+    "contradiction_score": 0.14710476994514465,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 234,
+    "start_char": 104236,
+    "end_char": 106404,
+    "original": "5.8.2 Notwithstanding the provisions of Section 5.8 , if, during the Term, (a) Harpoon or any of its Affiliates acquires, as the result of an Acquisition, rights to a Competing Product, such Acquisition, and the development, manufacture or commercialization of such Competing Product thereafter, shall not constitute a breach of Section 5.8  if Harpoon or such Affiliate, as applicable, [***]\u037e or (b) Harpoon undergoes a Change in Control and the relevant acquirer is either then commercializing a Competing Product, or has in development any Competing Product, such Change in Control, and the commercialization (or development and subsequent commercialization, if such Competing Product receives Regulatory Approval) of such Competing Product by such relevant acquirer or any of its Affiliates, shall not constitute a breach of Section 5.8 \u037e provided  that such (x) acquirer Segregates the Competing Product and (y) AbbVie shall have the right, in its sole and absolute discretion, by written notice delivered to Harpoon (or its successor) at any time during the [***] following the written notice contemplated by Section 13.2.1 , to (i) terminate any or all provisions of this Agreement providing for any delivery by AbbVie to Harpoon of Confidential Information of AbbVie relating to activities contemplated by this Agreement, save only for (A) Article 6 , (B) information regarding sublicenses pursuant to Section 5.3 , (C) information regarding the prosecution, enforcement, defense, litigation, infringement and licensing of Patents pursuant to (1) Sections 7.2.1 , 7.2.3 , 7.3.1 , 7.3.5 , 7.4, and  7.5.2 , (2) solely with respect to Joint Patents, Sections 7.2.2 , 7.3.2 , and 7.5.3 , and (3) solely with respect to Joint Patents and Harpoon Patents, Sections 7.3.4 and 7.5.1,  (D) notice of any license pursuant to Section 5.9.2 , (E) safety data pursuant to Section 8.1 , (F) proposed disclosures pursuant to Section 9.5 , (G) communications under Section 11.4  and (H) notices pursuant to Sections 11.3 and 13.1 \u037e and (ii) disband the JGC and terminate its activities, in which case the provisions set forth in the last sentence of Section 2.3  shall apply.",
+    "ollama_generated": "5.8.2 In contrast to the stipulations outlined in Section 5.8, if, during the Term, (a) Harpoon or any of its Affiliates obtains, through an Acquisition, rights to a Competing Product, such Acquisition and the subsequent development, manufacture, or commercialization of said Competing Product shall not be considered a violation of Section 5.8, provided that Harpoon or the relevant Affiliate, as applicable, ceases all activities related to the Competing Product; or (b) Harpoon experiences a Change in Control and the acquiring entity is currently marketing a Competing Product, or has under development any Competing Product, such change will not constitute a breach of Section 5.8. However, the following conditions apply: (1) the acquiring entity must segregate the Competing Product; (2) AbbVie retains the right, at its sole discretion, to terminate any provisions in this Agreement that pertain to the disclosure of AbbVie's confidential information related to activities contemplated by this Agreement, except for specific instances outlined in subclauses A-H of this section. This includes but is not limited to: (A) Article 6, (B) information regarding sublicenses under Section 5.3, (C) information regarding the prosecution, enforcement, defense, litigation, infringement, and licensing of Patents under specified sections, (D) notice of any license under Section 5.9.2, (E) safety data under Section 8.1, (F) proposed disclosures under Section 9.5, (G) communications under Section 11.4, and (H) notices under Sections 11.3 and 13.1. Additionally, upon written notice delivered to Harpoon (or its successor) at any time during the period specified in Section 13.2.1, AbbVie may elect: (i) to terminate any provisions of this Agreement concerning the delivery of AbbVie's confidential information, with the exception of the aforementioned instances; and (ii) to dissolve the JGC and terminate its activities. In such an event, the consequences outlined in the final sentence of Section 2.3 shall ensue.",
+    "contradiction_score": 0.4228077530860901,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 246,
+    "start_char": 111874,
+    "end_char": 112303,
+    "original": "6.4 Sales-Based Milestones.  In partial consideration of the rights granted by Harpoon to AbbVie hereunder and subject to the terms and conditions set forth in this Agreement, AbbVie shall pay to Harpoon the following non- refundable milestone payments due within [***] after the end of the [***] in which such milestone was achieved for the aggregate sales of all Licensed Products in the Territory, calculated as follows:[***].",
+    "ollama_generated": "6.4 Achievement-Based Milestones. In the event that Harpoon successfully achieves the specified milestones related to sales, and subject to the terms and conditions outlined within this Agreement, AbbVie shall make non-refundable payments to Harpoon, payable within [***] after the milestone achievement, for the total sales of all Licensed Products within the Territory. The calculation of these payments will be based on the formula provided herein:[***]. This payment structure is contingent upon Harpoon's success, with no obligation on AbbVie to make these payments should the specified milestones not be achieved.",
+    "contradiction_score": 0.34877434372901917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 249,
+    "start_char": 112718,
+    "end_char": 113362,
+    "original": "- 37  - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 6.5.1 Royalty Rates.  As further consideration for the rights granted to AbbVie hereunder, subject to Section 6.5.3 , commencing upon the First Commercial Sale of a Licensed Product in the Territory, on a Licensed Product- by-Licensed Product basis, AbbVie shall pay to Harpoon a royalty on Net Sales of each Licensed Product in the Territory (excluding Net Sales of each Licensed Product in any country or other jurisdiction in the Territory for which the Royalty Term for such Licensed Product in such country or other jurisdiction has expired) during [***]  at the following rates:",
+    "ollama_generated": "37 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020\n  6.5.1 Royalty Rates Adjustment. In exchange for the rights granted to AbbVie herein, contingent upon Section 6.5.3, commencing with the initial sale of a Licensed Product within the Territory, on a per-product basis, Harpoon shall receive from AbbVie a royalty on Gross Sales (excluding Gross Sales of each Licensed Product in any country or jurisdiction within the Territory where the Royalty Term for such Licensed Product has expired) for a period of [***] at the following rates:\n\nIn this revised clause, Harpoon's obligation to receive royalties is shifted to AbbVie and the royalty is based on Gross Sales instead of Net Sales. This change may result in a weaker financial obligation for AbbVie, as Gross Sales typically include expenses before profit is calculated, while Net Sales are the sales after deducting expenses.",
+    "contradiction_score": 0.026579730212688446,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 255,
+    "start_char": 117408,
+    "end_char": 118194,
+    "original": "6.6 Royalty Payments and Reports. AbbVie shall calculate all amounts payable to Harpoon pursuant to Section 6.5  at the end of each [***], which amounts shall be converted to Dollars, in accordance with Section 6.7 . AbbVie shall pay to Harpoon the royalty amounts due with respect to a given [***] within [***] after the end of such [***]. Each payment of royalties due to Harpoon shall be accompanied by a statement of the amount of Net Sales of each Licensed Product in each country or other jurisdiction the Territory during the applicable [***] (including such amounts expressed in local currency and as converted to Dollars) and a calculation of the amount of royalty payment due on such Net Sales for such [***], including the amount of any reductions pursuant to Section 6.5.3 .",
+    "modified": "6.6 Royalty Payments and Reports. Harpoon shall be responsible for calculating, at the beginning of each reporting period, the amounts payable to AbbVie under Section 6.5, which amounts shall remain in their local currency, unless otherwise specified in Section 6.7. Harpoon shall provide AbbVie with such calculations within [***] after the start of each reporting period. Each calculation provided by Harpoon shall include a breakdown of Net Sales of each Licensed Product for each country or jurisdiction within the Territory during the applicable reporting period, and a calculation of the royalty payments due to AbbVie based on these sales figures, as well as any adjustments pursuant to Section 6.5.3. AbbVie shall have [***] after receiving such calculations to contest any errors or discrepancies, after which it shall make the corresponding payment to Harpoon.\n\nIn this revised clause, the obligation to calculate the royalty amounts has been shifted from AbbVie to Harpoon, and the timeline for payments has been extended to give AbbVie more time to review and contest any potential errors or discrepancies in the calculations provided by Harpoon.",
+    "contradiction_score": 0.9328550696372986,
+    "kept": true
+  },
+  {
+    "clause_index": 257,
+    "start_char": 118908,
+    "end_char": 118930,
+    "original": "6.8 Withholding Taxes.",
+    "ollama_generated": "6.8 Remittance of Taxes Owed:\n\nThe Obligor shall be responsible for the timely remittance of any and all withholding taxes arising from payments made under this Agreement, as well as for providing the necessary documentation to substantiate such tax obligations. The Obligee shall not be liable for any penalties or interest resulting from the Obligor's failure to properly withhold or remit taxes.",
+    "contradiction_score": 0.06691375374794006,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 261,
+    "start_char": 122610,
+    "end_char": 123514,
+    "original": "Notwithstanding anything to the contrary in this Agreement, AbbVie shall be responsible for any Indirect Taxes as well as any transfer, documentary, sales use, stamp, registration, value added or other similar tax that is imposed with respect to the payments or the related transfer of rights or other property pursuant to the terms of this Agreement. If the Indirect Taxes originally paid or otherwise borne by the paying Party are in whole or in part subsequently determined not to have been chargeable, all reasonably necessary steps will be taken by the receiving Party to receive a refund of these undue Indirect Taxes from the - 40 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 applicable governmental authority or other fiscal authority and any amount of undue Indirect Taxes repaid by such authority to the receiving Party will be transferred to the paying Party within [***]  of receipt.",
+    "modified": "Despite any contradictory provisions in this Agreement, the responsibility for any Indirect Taxes, including transfer, documentary, sales use, stamp, registration, value added or other similar taxes, associated with payments or the transfer of rights or property under this Agreement, lies solely with Harpoon Therapeutics, Inc. (hereinafter \"Harpoon\"). If it is later determined that such Indirect Taxes were unjustly collected, Harpoon will endeavor to secure a refund from the applicable governmental or fiscal authority. Any refund received by Harpoon will be remitted back to AbbVie within [***] of receipt.",
+    "contradiction_score": 0.9273504614830017,
+    "kept": true
+  },
+  {
+    "clause_index": 265,
+    "start_char": 126122,
+    "end_char": 126535,
+    "original": "6.13 Confidentiality. The receiving Party shall treat all information subject to review under this Article 6 in accordance with the confidentiality provisions of Article 9  and the Parties shall cause the Audit Expert to enter into a reasonably acceptable confidentiality agreement with AbbVie obligating such firm to retain all such financial information in confidence pursuant to such confidentiality agreement.",
+    "ollama_generated": "6.13 Confidentiality Obligations. For clarity, the Disclosing Party acknowledges and agrees that it is responsible for ensuring that any information shared under this Article 6 is protected by appropriate means, including but not limited to the confidentiality provisions outlined in Article 9. The Parties understand that the Audit Expert may have access to such confidential financial information, but it is the responsibility of the Disclosing Party to secure a mutually acceptable confidentiality agreement with the Audit Expert, binding them to maintain the confidentiality of such shared information as per the terms of that agreement.",
+    "contradiction_score": 0.02100975811481476,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 276,
+    "start_char": 132190,
+    "end_char": 132233,
+    "original": "7.2 Maintenance and Prosecution of Patents.",
+    "modified": "7.2 Obligation Regarding Patent Maintenance and Defense:\n\nThe Licensor shall have the right, but not the obligation, to maintain and prosecute any Patents related to the Technology. In the event that the Licensor chooses not to act in maintaining or prosecuting a Patent, the Licensee may independently pursue actions for maintenance and/or prosecution of such Patents at its sole cost and expense.",
+    "contradiction_score": 0.5576308369636536,
+    "kept": true
+  },
+  {
+    "clause_index": 281,
+    "start_char": 137039,
+    "end_char": 137259,
+    "original": "7.2.3 Cooperation.  The Parties agree to cooperate fully in the preparation, filing, prosecution, and maintenance of the Harpoon Patents and Joint Patents in the Territory under this Agreement. Cooperation shall include:",
+    "ollama_generated": "7.2.3 Collaboration Limitations. While the Parties acknowledge their obligation to collaborate on certain aspects, it is understood that each Party retains discretion and autonomy in their involvement in the preparation, filing, prosecution, and maintenance of the Harpoon Patents and Joint Patents within the Territory under this Agreement. Collaboration will be limited to:\n\nThis modification aims to reflect a more flexible approach to cooperation, allowing for individual decision-making and autonomy while still maintaining the essence of the original clause's intent.",
+    "contradiction_score": 0.2906426191329956,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 283,
+    "start_char": 138569,
+    "end_char": 139461,
+    "original": "7.2.4 Patent Term Extension and Supplementary Protection Certificate. AbbVie shall be responsible for making decisions regarding patent term extensions, including supplementary protection certificates and any other extensions that are now or become available in the future, wherever applicable, for AbbVie Patents, Joint Patents and Product- Specific Patents in any country or other jurisdiction - 44 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 and for applying for any extension (including patent term extension and supplementary protection certificate) with respect to such Patents in the Territory. Harpoon shall provide prompt and reasonable assistance, as requested by AbbVie, including by taking such action as patent holder as is required under any Applicable Law to obtain such extension. AbbVie shall pay all expenses in regard to obtaining such extension in the Territory.",
+    "modified": "7.2.4 Patent Term Extension and Supplementary Protection Certificate. Harpoon shall have the discretion to make decisions regarding patent term extensions, including supplementary protection certificates and any other extensions that are now or become available in the future, wherever applicable, for Harpoon Patents, Joint Patents, and Product-Specific Patents in any country or other jurisdiction - 44 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020. AbbVie shall be responsible for applying for any extension (including patent term extension and supplementary protection certificate) with respect to such Patents in the Territory, but Harpoon shall be entitled to delay or refuse assistance if it deems necessary, considering its business interests. Harpoon may bear some expenses in regard to obtaining such extension in the Territory, at its sole discretion, and AbbVie shall reimburse these expenses promptly upon request.",
+    "contradiction_score": 0.9514126181602478,
+    "kept": true
+  },
+  {
+    "clause_index": 284,
+    "start_char": 139461,
+    "end_char": 140108,
+    "original": "7.2.5 European Patents.  On or after the License Option Exercise Closing Date, AbbVie shall have the sole right to decide whether a Joint Patent or a Product-Specific Patent should be validated or maintained as a Unitary Patent, whether and when such Patent should be opted out of or opted in to the jurisdiction of the Unified Patent Court (UPC) (including withdrawal of an opt-out), as well as any other issues concerning the jurisdiction of the UPC in connection with such Patent. Harpoon shall, at AbbVie\u2019s cost and expense, cooperate with AbbVie and provide to AbbVie and submit to authorities all necessary documents to effect such decision.",
+    "ollama_generated": "7.2.5 European Patents. After the License Option Exercise Closing Date, it shall be Harpoon's responsibility to initiate the process for deciding whether a Joint Patent or a Product-Specific Patent should be validated or maintained as a Unitary Patent. However, AbbVie retains the final authority to make this decision and any subsequent choices regarding the jurisdiction of the Unified Patent Court (UPC), including whether or not to opt in or opt out of its jurisdiction (including the submission or withdrawal of an opt-out). AbbVie shall bear the cost and expense associated with these decisions, and Harpoon will cooperate with AbbVie and provide all necessary documents for the implementation of this decision.",
+    "contradiction_score": 0.05866650864481926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 142546,
+    "end_char": 142981,
+    "original": "(a) Each Party shall promptly notify the other Party in writing of any alleged or threatened infringement of the Harpoon Patents that are not Product-Specific Patents, AbbVie Patents or Joint Patents by a Third Party in the Territory of which such Party becomes aware based on the development, commercialization, Exploitation, or an application to market a Licensed Product or a product containing a Licensed Compound in the Territory.",
+    "modified": "(a) Each Party shall have no obligation to promptly provide written notice to the other Party regarding any alleged or threatened infringement of the Harpoon Patents that are not Product-Specific Patents, AbbVie Patents or Joint Patents by a Third Party, unless such infringement is directly impacting the Party's own development, commercialization, Exploitation, or an application to market a Licensed Product or a product containing a Licensed Compound in the Territory. In such cases, notice shall be provided within a reasonable time frame, as determined by the affected Party.",
+    "contradiction_score": 0.8092766404151917,
+    "kept": true
+  },
+  {
+    "clause_index": 293,
+    "start_char": 145842,
+    "end_char": 148590,
+    "original": "7.3.3 Patent Exclusivity Listings.  If either Party receives a copy of an application submitted to the FDA under subsection (k) of Section 351 of the PHSA (a \u201c Biosimilar Application \u201d) naming a Licensed Product as a reference product or otherwise becomes aware that such a Biosimilar Application has been filed (such as in an instance described in Section 351(l)(9)(C) of the PHSA), such Party shall, within [***], notify the other Party so that the other Party may seek permission to view the application and related confidential information from the filer of the Biosimilar Application under Section 351(l)(1)(B)(iii) of the PHSA. If either Party receives any equivalent or similar certification or notice in any other jurisdiction in the Territory, either Party shall, within [***], notify and provide the other Party with copies of such communication. Regardless of the Party that is the \u201creference product sponsor\u201d for purposes of such Biosimilar Application, (a) [***]\u037e (b) AbbVie shall have the right to list any AbbVie Patents, Joint Patents, Product-Specific Patents, and, upon the written consent of Harpoon, such consent not to be unreasonably withheld, conditioned or delayed (taking into account, without limitation, the potential impact of such consent on Harpoon\u2019s platform technology and/or other products undergoing development or commercialization by Harpoon or its Third Party licensees and covered by such Harpoon Patents), other Harpoon Patents, insofar as they cover the Biosimilar Product as required pursuant to Section 351(l) (3)(A), Section 351(l)(5)(b)(i)(II), or Section 351(l)(7) of the PHSA, to respond to any communications with respect to such lists from the filer of the Biosimilar Application, and to negotiate with the filer of the Biosimilar Application as to whether to utilize a different mechanism for information exchange than that specified in Section 351(l) of the PHSA\u037e and (c) [***] shall have the sole right to identify such Patents or respond to communications under any equivalent or similar listing in any other jurisdiction in the Territory. If required pursuant to Applicable Law, [***] shall prepare such lists and make such responses at [***] Harpoon shall cooperate with AbbVie\u2019s reasonable requests in connection therewith, including meeting any submission deadlines, in each case, to the extent required or permitted by Applicable Law. AbbVie shall (A) reasonably consult with [***] - 46 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 [***]  to a Third Party as contemplated by this Section 7.3.3 , and shall consider in good faith Harpoon\u2019s advice, requests and suggestions with respect thereto, and (B) notify Harpoon of any such lists or communications promptly after they are made.",
+    "ollama_generated": "7.3.3 Patent Exclusivity Listings. In the event that either Party receives a copy of an application submitted to the FDA under subsection (k) of Section 351 of the PHSA (a \" Biosimilar Application \") naming a Licensed Product as a reference product, or becomes aware that such a Biosimilar Application has been filed (such as in an instance described in Section 351(l)(9)(C) of the PHSA), it is at the discretion of the receiving Party whether to notify the other Party within [***] for the purpose of seeking permission to view the application and related confidential information from the filer of the Biosimilar Application under Section 351(l)(1)(B)(iii) of the PHSA. If either Party receives any equivalent or similar certification or notice in any other jurisdiction within the Territory, it is also at their discretion to notify and provide the other Party with copies of such communication. Regardless of which Party is the \"reference product sponsor\" for purposes of such Biosimilar Application, (a) AbbVie shall have the right to list any AbbVie Patents, Joint Patents, Product-Specific Patents, and, upon the written consent of Harpoon, which may be withheld reasonably under the circumstances, (b) AbbVie shall have the right to list other Harpoon Patents, insofar as they cover the Biosimilar Product as required pursuant to Section 351(l) (3)(A), Section 351(l)(5)(b)(i)(II), or Section 351(l)(7) of the PHSA, to respond to any communications with respect to such lists from the filer of the Biosimilar Application, and to negotiate with the filer of the Biosimilar Application as to whether to utilize a different mechanism for information exchange than that specified in Section 351(l) of the PHSA; and (c) [***] shall have the sole right to identify such Patents or respond to communications under any equivalent or similar listing in any other jurisdiction within the Territory. If required pursuant to Applicable Law, [***] shall prepare such lists and make such responses at [***] Harpoon shall cooperate with AbbVie\u2019s reasonable requests in connection therewith, including meeting any submission deadlines, in each case, to the extent required or permitted by Applicable Law. AbbVie shall (A) reasonably consult with [***] - 46 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 [***] to a Third Party as contemplated by this Section 7.3.3 , and shall consider in good faith Harpoon\u2019s advice, requests and suggestions with respect thereto, but is not bound to act upon them; (B) notify Harpoon of any such lists or communications promptly after they are made, but is not liable for any delays or failures in notification due to circumstances beyond its control.",
+    "contradiction_score": 0.12444132566452026,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 296,
+    "start_char": 152083,
+    "end_char": 152446,
+    "original": "7.3.6 Recovery. Any recovery realized as a result of such litigation described in Section 7.3.1 , 7.3.2 , or 7.3.5  (whether by way of settlement or otherwise) shall be first, allocated to reimburse the Parties for their costs and expenses in making such recovery (which amounts shall be allocated pro rata if insufficient to cover the totality of such expenses).",
+    "ollama_generated": "7.3.6 Recovery Allocation. Any recovery obtained through the litigation outlined in Sections 7.3.1, 7.3.2, or 7.3.5 (either via settlement or other means) will initially be used to offset any costs and expenses incurred by the Parties in securing that recovery. If the recovery is not sufficient to fully cover these expenses, the allocation of such funds shall be on a proportional basis among the Parties.\n\nThis revised clause emphasizes that the recovered funds will initially be used to offset costs and expenses before any distribution among the parties, providing more clarity about the potential distribution of excess funds. Furthermore, it explicitly states that the allocation will be on a proportional basis when the recovery is insufficient, suggesting a fairer division of costs when the amount recovered does not fully cover all expenses incurred.",
+    "contradiction_score": 0.002407926833257079,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 297,
+    "start_char": 152446,
+    "end_char": 154517,
+    "original": "7.4 Infringement Claims by Third Parties.  If the manufacture, sale, or use of a Licensed Compound or Licensed Product in the Territory pursuant to this Agreement results in, or may result - 47 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 in, any claim, suit, or proceeding by a Third Party alleging patent infringement by AbbVie (or its Affiliates or Sublicensees), AbbVie shall promptly notify Harpoon thereof in writing. Subject to Section 11.2, AbbVie shall have the first right, but not the obligation, to defend and control the defense of any such claim, suit, or proceeding at its own expense, using counsel of its own choice. Harpoon may participate in any such claim, suit, or proceeding with counsel of its choice at its own expense. The assumption of the defense of a claim that may be subject to Section 11.2 by either AbbVie or Harpoon shall not be construed as an acknowledgment that Harpoon is liable to indemnify any AbbVie Indemnitee in respect of such indemnity claim, nor shall it constitute a waiver by Harpoon of any defenses it may assert against an AbbVie Indemnitee\u2019s claim for indemnification. Without limitation of the foregoing, if AbbVie finds it necessary or desirable to join Harpoon as a party to any such action, Harpoon shall, at AbbVie\u2019s expense, execute all papers and perform such acts as shall be reasonably required. If AbbVie elects (in a written communication submitted to Harpoon within a reasonable amount of time after notice of the alleged patent infringement) not to defend or control the defense of, or otherwise fails to initiate and maintain the defense of, any such claim, suit, or proceeding, within such time periods so that Harpoon is not prejudiced by any delays, Harpoon may conduct and control the defense of any such claim, suit, or proceeding at its own expense. Each Party shall keep the other Party reasonably informed of all material developments in connection with any such claim, suit, or proceeding. [***] under this Section 7.4 shall be [***] 7.5 Invalidity or Unenforceability Defenses or Actions.",
+    "ollama_generated": "7.4 Third-Party Infringement Claims and Defense Responsibilities. In the event that the manufacture, sale, or use of a Licensed Compound or Licensed Product within the Territory as per this Agreement potentially infringes upon any patent held by Harpoon (or its Affiliates or Sublicensees), Harpoon shall promptly notify AbbVie in writing about such claim. Subject to Section 11.2, Harpoon assumes the first right, but not the obligation, to defend and manage the defense of any such claim, suit, or proceeding at its own expense, utilizing counsel of its choice. AbbVie may choose to observe these proceedings at its own discretion. The assumption of defense by either party shall not imply an acknowledgment that AbbVie is entitled to indemnity from Harpoon for such claims, nor shall it constitute a waiver by AbbVie of any defenses it may assert against a claim for indemnification by Harpoon. Without limitation, if Harpoon finds it necessary or advantageous to include AbbVie as a party in any such action, AbbVie will reimburse Harpoon for any reasonable expenses incurred. If Harpoon decides (in writing communicated to AbbVie within a reasonable time after being notified of the alleged patent infringement) not to defend or manage the defense of, or otherwise fails to initiate and maintain the defense of, any such claim, suit, or proceeding, so as to prevent prejudice to AbbVie, AbbVie may take charge of and control the defense of any such claim, suit, or proceeding at its own expense. Each Party shall keep the other Party reasonably informed of all material developments in connection with any such claim, suit, or proceeding. [***] under this Section 7.4 shall be [***] 7.5 Indemnity Claims and Defense Obligations.",
+    "contradiction_score": 0.09291399270296097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 298,
+    "start_char": 154517,
+    "end_char": 154832,
+    "original": "7.5.1 Notice.  Each Party shall promptly notify the other Party in writing of any alleged or threatened assertion of invalidity, unpatentability or unenforceability of any of the Harpoon Patents, AbbVie Patents, or Joint Patents by a Third Party, in each case in the Territory and of which such Party becomes aware.",
+    "modified": "7.5.1 Notification Obligation. Upon reasonable discovery, neither Party is required to immediately but instead within a reasonable timeframe, notify the other Party in writing about any potential or impending claim of invalidity, unpatentability, or unenforceability raised by a Third Party concerning the Harpoon Patents, AbbVie Patents, or Joint Patents, pertaining only to instances that occur outside the Territory and that the notifying Party deems material for further action.",
+    "contradiction_score": 0.9201402068138123,
+    "kept": true
+  },
+  {
+    "clause_index": 300,
+    "start_char": 154874,
+    "end_char": 155856,
+    "original": "(a) Subject to Section 7.5.2(b) , Harpoon shall have the first right, but not the obligation, to defend and control the defense of the validity, patentability and enforceability of the Harpoon Patents at its own expense in the Territory. AbbVie may participate in any such claim, suit, or proceeding in the Territory with counsel of its choice at its own expense\u037e provided  that Harpoon shall retain control of the defense in such claim, suit, or proceeding. If Harpoon elects not to defend or control the defense of such Harpoon Patents in a suit brought in the Territory, or otherwise fails to initiate and maintain the defense of any such claim, suit, or proceeding, then solely with respect to Product-Specific Patents included in the Harpoon Patents, and subject to Section 7.5.2(b) , AbbVie may request to conduct and control the defense of any such claim, suit, or proceeding at its own expense, with Harpoon\u2019s consent not to be unreasonably withheld, conditioned or delayed.",
+    "modified": "(a) In accordance with Section 7.5.2(b), AbbVie holds the right, without obligation, to challenge and manage the defense of the validity, patentability, and enforceability of the AbbVie Patents at its own cost within the Territory. Harpoon is permitted to join any such dispute, action, or proceeding in the Territory, at its own expense; however, AbbVie shall hold control of the defense in such dispute, action, or proceeding. If AbbVie decides not to defend or manage the defense of these AbbVie Patents in a lawsuit initiated within the Territory, or if it does not initiate and maintain the defense in any such dispute, action, or proceeding, then, subject to Section 7.5.2(b), Harpoon may, upon reasonable request and with AbbVie's consent, which shall not be unreasonably withheld, delay, or conditioned, assume control of the defense for Product-Specific Patents that are part of the AbbVie Patents at its own expense.",
+    "contradiction_score": 0.8820475339889526,
+    "kept": true
+  },
+  {
+    "clause_index": 309,
+    "start_char": 161411,
+    "end_char": 162067,
+    "original": "7.7 International Nonproprietary Name.  As between the Parties, AbbVie shall have the sole right and responsibility to select the International Nonproprietary Name or other name or identifier for any Licensed Compound or Licensed Product. AbbVie shall have the sole right and responsibility to apply for submission to the World Health Organization for the International Nonproprietary Name, and submission to the United States Adopted Names Council for the United States Adopted 7.8 Inventor's Remuneration.  Each Party shall be solely responsible for any remuneration that may be due such Party's inventors under any applicable inventor remuneration laws.",
+    "ollama_generated": "7.7 International Nonproprietary Name (INN): The Responsible Party, as determined by mutual agreement between the Parties, shall have the authority to select the INN or other designation for any Licensed Compound or Licensed Product. The responsible party will hold sole responsibility for submitting the proposed INN for approval to both the World Health Organization and the United States Adopted Names Council (USAN).\n\n7.8 Inventor's Remuneration: Each Party acknowledges its own responsibility for any remuneration due to its inventors under applicable inventor remuneration laws, without any obligation or liability on the part of the other Party.",
+    "contradiction_score": 0.10794111341238022,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 310,
+    "start_char": 162067,
+    "end_char": 162957,
+    "original": "7.9 Common Interest.  All information exchanged between the Parties regarding the prosecution, maintenance, enforcement and defense of Patents under this Article 7  will be deemed to be Confidential Information of the disclosing Party. In addition, the Parties acknowledge and agree that, with regard to such prosecution, maintenance, enforcement and defense, the interests of the Parties as collaborators and Harpoon and licensee are to, for their mutual benefit, obtain patent protection and plan patent defense against potential infringement activities by Third Parties, and as such, are aligned and are legal in nature. The Parties agree and acknowledge that they have not waived, and nothing in this Agreement constitutes a waiver of, any legal privilege concerning Patents under this Article 7 , including privilege under the common interest doctrine and similar or related doctrines.",
+    "ollama_generated": "7.9 Shared Interests. All data shared between the Parties regarding the pursuit, upkeep, contention, and safeguard of Patents as outlined in Article 7, shall be recognized as Confidential Information belonging to the disclosing Party. Furthermore, the Parties recognize and consent to the fact that with respect to such pursuits, upkeep, contentions, and safeguards, their interests, as collaborators and Harpoon licensee, converge, and are thus, both legally legitimate and advantageous. The goal being to secure patent protection and strategize patent defense against potential infringement actions by external entities.\n\nThe Parties mutually agree and acknowledge that they have not relinquished, and this Agreement does not signify a forfeiture of, any legal privilege related to Patents under Article 7, including privilege under the common interest doctrine and similar or associated doctrines. However, it is important to note that in cases where legal action becomes necessary, each Party shall retain the right to seek independent counsel and protect their individual interests.",
+    "contradiction_score": 0.00252474844455719,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 312,
+    "start_char": 163651,
+    "end_char": 164687,
+    "original": "ARTICLE 8 PHARMACOVIGILANCE AND SAFETY 8.1 Pharmacovigilance. Within [***] after the License Option Exercise Closing Date, the Parties shall enter into an agreement to initiate a process for the exchange of adverse event safety data in a mutually agreed format, including postmarketing spontaneous reports received by the Party or its Affiliates in order to (a) with respect to AbbVie, monitor the safety of the Licensed Compound or Licensed Product and to meet reporting requirements with any applicable Regulatory Authority and (b) with respect to Harpoon, permit reasonable access to adverse event safety data for Licensed Compounds or Licensed Products, in each case ((a) and (b)) at AbbVie\u2019s expense. Notwithstanding the forgoing, if any adverse event safety data is received or otherwise generated by Harpoon following the License Option Exercise Closing Date and prior to the execution of such agreement, Harpoon shall, within [***] of receiving or otherwise generating such data, provide such data to AbbVie by email to: [***] .",
+    "ollama_generated": "ARTICLE 8 PHARMACOVIGILANCE AND SAFETY\n\n8.1 Pharmacovigilance. Following the License Option Exercise Closing Date, it is not mandatory for the Parties to enter into an agreement regarding the exchange of adverse event safety data in a mutually agreed format, including postmarketing spontaneous reports received by the Party or its Affiliates. However, if either party chooses to do so, they may initiate this process to (a) enable AbbVie to monitor the safety of the Licensed Compound or Licensed Product and to fulfill any reporting requirements with applicable Regulatory Authorities, (b) provide Harpoon with reasonable access to adverse event safety data for Licensed Compounds or Licensed Products. In such cases, AbbVie shall bear the expenses associated with this process.\n\nIn the event that Harpoon receives or generates any adverse event safety data following the License Option Exercise Closing Date but before the execution of such agreement, Harpoon is not obligated to provide this information to AbbVie immediately. Instead, Harpoon has [***] to review and analyze the data before sharing it with AbbVie by email to: [***]. This clause does not imply any obligation on the part of Harpoon to initiate such an exchange or to share data promptly upon receiving or generating it.",
+    "contradiction_score": 0.10504598170518875,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 324,
+    "start_char": 180029,
+    "end_char": 181668,
+    "original": "9.7 Return of Confidential Information. Upon the effective date of the termination of this Agreement for any reason, either Party may request in writing, and the other Party shall either, with respect to Confidential Information (in the event of termination of this Agreement with respect to [***] Terminated Territories but not in its entirety, solely to the extent relating specifically and exclusively to such Terminated Territories) to which such other Party does not retain rights under the surviving provisions of this Agreement: (a) as soon as reasonably practicable, destroy all copies of such Confidential Information in the possession of the other Party and confirm such destruction in writing to the requesting Party\u037e or (b) as soon as reasonably practicable, deliver to the requesting Party, at such other Party\u2019s expense, all copies of such Confidential Information in the possession of such other Party\u037e  provided  that such other Party shall be permitted to retain one (1) copy of such Confidential Information for the sole purpose of performing any continuing obligations or exercising any surviving rights hereunder, as required by Applicable Law, or for litigation or archival purposes. Notwithstanding the foregoing, such other Party also shall be permitted to retain such additional copies of or any computer records or files containing such Confidential Information that have been created solely by such Party\u2019s automatic archiving and back-up procedures, to the extent created and retained in a manner consistent with such other Party\u2019s standard archiving and back-up procedures, but not for any other use or purpose.",
+    "ollama_generated": "9.7 Obligation Regarding Confidential Information Upon Termination. Upon the expiration or termination of this Agreement for any cause, either Party shall have the right to request, in writing, that the other Party destroys or returns all Confidential Information within their possession. However, with respect to Confidential Information related solely and specifically to terminated territories under this Agreement, the party who does not retain rights under the surviving provisions may retain one copy exclusively for the purpose of fulfilling any remaining obligations or exercising any continuing rights under this Agreement, as mandated by law, for litigation, or archival purposes. It is further clarified that such a Party may also preserve additional copies of the Confidential Information generated through their routine data backup and archiving procedures, but these copies shall not be utilized for any other purpose beyond compliance with this Clause. In all other cases, both Parties are obliged to completely destroy or return all Confidential Information in their possession as soon as reasonably practicable and confirm such action in writing to the requesting Party.",
+    "contradiction_score": 0.0770973488688469,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 325,
+    "start_char": 181668,
+    "end_char": 181813,
+    "original": "9.8 Survival.  All Confidential Information shall continue to be subject to the terms of this Agreement for the period set forth in Section 9.2 .",
+    "ollama_generated": "9.8 Persistence of Obligations Regarding Confidentiality. Despite any termination or expiration of this Agreement, the parties acknowledge and agree that their obligations with regard to the protection and handling of Confidential Information shall remain binding for the duration specified in Section 9.2. In essence, even post-termination, the terms of confidentiality persist.",
+    "contradiction_score": 0.004231585189700127,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 334,
+    "start_char": 184983,
+    "end_char": 185945,
+    "original": "10.2.2 There are no judgments, or settlements against, or amounts with respect thereto, owed by Harpoon or any of its Affiliates relating to the Existing Patents, or the Harpoon Know-How. No claim or litigation has been brought or threatened in writing or any other form by any Person alleging, and Harpoon has no Knowledge of any claim, whether or not asserted, that the Existing Patents are invalid or unenforceable. To Harpoon\u2019s Knowledge, the Development or Commercialization of the Licensed Compounds or Licensed Products as contemplated herein, does not or will not violate, infringe, misappropriate or otherwise conflict or interfere with, any Patent or other intellectual property or proprietary right of any Third - 55 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Party. To Harpoon\u2019s Knowledge, no Person is infringing or threatening to infringe or misappropriating or threatening to misappropriate the Existing Patents or the Harpoon Know-How.",
+    "ollama_generated": "10.2.2 It is not acknowledged by us, nor are we aware of any claims or litigation, written or otherwise, brought against Harpoon or any of its Affiliates regarding the Existing Patents or the Harpoon Know-How, pertaining to judgments, settlements, or amounts owed in relation thereto. However, it is understood that while no assertion has been made, we cannot guarantee that there are no potential claims, whether expressed or not, alleging the invalidity or unenforceability of the Existing Patents.\n\nWe are not responsible for any violations, infringements, misappropriations, conflicts, or interferences with any Third-Party intellectual property or proprietary rights that may arise from the Development or Commercialization of the Licensed Compounds or Products as per this agreement. It is also recognized that there might be instances where a Person could be infringing, or threatening to infringe, the Existing Patents or Harpoon Know-How; we have no control over such actions.",
+    "contradiction_score": 0.03564145043492317,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 336,
+    "start_char": 186579,
+    "end_char": 187027,
+    "original": "10.2.4 Harpoon has the right to use and license (or sublicense as the case may be) to AbbVie all Information and Patents necessary to Develop, Manufacture and Commercialize the Licensed Compounds and the Licensed Products as contemplated herein. The Harpoon Patents and Harpoon Know-How are not and will not be subject to any license or other agreement to which Harpoon or any of its Affiliates is a party other than a Harpoon In-License Agreement.",
+    "modified": "10.2.4 AbbVie hereby grants Harpoon a non-exclusive, royalty-free right to utilize and sublicense (as deemed necessary) the Information and Patents essential for the Development, Manufacture, and Commercialization of the Licensed Compounds and the Licensed Products, as per this Agreement. The Harpoon Patents and Harpoon Know-How shall remain unrestricted, and may not be subject to any licensing or other agreement to which Harpoon or its Affiliates are a party beyond a Harpoon Out-License Agreement.\n\nIn this revised version, the responsibility of granting rights for using and licensing necessary information and patents shifts from Harpoon to AbbVie, and the type of license changes from an in-license agreement (where Harpoon would give licenses) to an out-license agreement (where Harpoon would receive licenses). This weakens Harpoon's obligation and inverts the initial condition.",
+    "contradiction_score": 0.6008891463279724,
+    "kept": true
+  },
+  {
+    "clause_index": 342,
+    "start_char": 188910,
+    "end_char": 189685,
+    "original": "10.2.10 Harpoon has obtained the right (including under any Patents and other intellectual property rights) to use all material Information and other materials (including any formulations and manufacturing processes and procedures) developed or delivered by any Third Party under any agreements between Harpoon and any such Third Party that is necessary or reasonably useful for the Development or Commercialization of Licensed Compounds, and Harpoon has the rights under each such agreement to license and transfer such Information or other materials to AbbVie and its designees and to grant AbbVie the right to use such Information or other materials in the Development or Commercialization of the Licensed Compounds or the Licensed Products as set forth in this Agreement.",
+    "modified": "10.2.10 For the purpose of clarification, it is acknowledged that any and all intellectual property rights (including, but not limited to, Patents) pertaining to material Information and other materials (such as formulations, manufacturing processes, and procedures), whether derived from agreements between Harpoon and Third Parties or otherwise obtained, are solely Harpoon's responsibility. Harpoon retains the exclusive authority to determine the licensing and transfer of such Information or materials to AbbVie and its designated entities. Furthermore, this Agreement grants AbbVie a non-exclusive right to utilize such Information or materials in the Development or Commercialization of Licensed Compounds or Products, subject to Harpoon's discretion and without any obligation on Harpoon to actively grant or withhold such rights.",
+    "contradiction_score": 0.6784688830375671,
+    "kept": true
+  },
+  {
+    "clause_index": 351,
+    "start_char": 193675,
+    "end_char": 194040,
+    "original": "- 57  - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 (d) A \u201cConvicted Individual \u201d or \u201c Convicted Entity \u201d is an individual or entity, as applicable, who has been convicted of a criminal offense that falls within the ambit of 21 U.S.C. \u00a7335a (a) or 42 U.S.C. \u00a71320a - 7(a), but has not yet been excluded, debarred, suspended or otherwise declared ineligible.",
+    "ollama_generated": "57 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 (d) An \"Individual/Entity under Investigation\" refers to any person or entity who is currently being investigated for a potential criminal offense that falls within the purview of 21 U.S.C. \u00a7335a (a) or 42 U.S.C. \u00a71320a - 7(a), regardless of whether they have been excluded, debarred, suspended, or otherwise rendered ineligible at the time of investigation.",
+    "contradiction_score": 0.03461363539099693,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 358,
+    "start_char": 196174,
+    "end_char": 196342,
+    "original": "10.3.3 Harpoon and its Affiliates will employ Persons with appropriate knowledge, expertise and experience to conduct and to oversee the Initial Development Activities.",
+    "ollama_generated": "10.3.3 It is understood that the contractor, Harpoon, or any of its subsidiaries, may delegate the responsibility for the Initial Development Activities to individuals or entities possessing the necessary expertise and experience; however, final accountability for the execution and oversight of these activities remains with Harpoon.",
+    "contradiction_score": 0.05715739727020264,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 361,
+    "start_char": 197224,
+    "end_char": 198624,
+    "original": "10.4.1 AbbVie shall have obtained from each of its Affiliates, Sublicensees, employees and agents who are participating in the Exploitation of the Licensed Compounds or Licensed Products or who otherwise have access to any Harpoon Information or other Confidential Information of Harpoon in connection with activities under this Agreement, rights to any and all Information that arises from - 58 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 or relates to such participation or access and is necessary or reasonably useful for the Development or Commercialization of Licensed Compounds or Licensed Products, in each case prior to the performance of or participation in such activities, such that Harpoon shall, by virtue of this Agreement, receive from AbbVie, without additional consideration, the licenses specified in Section 10.5 DISCLAIMER OF WARRANTIES. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH HEREIN, NEITHER PARTY MAKES ANY REPRESENTATIONS OR GRANTS ANY WARRANTIES, EXPRESS OR IMPLIED, EITHER IN FACT OR BY OPERATION OF LAW, BY STATUTE OR OTHERWISE, AND EACH PARTY SPECIFICALLY DISCLAIMS ANY OTHER WARRANTIES, WHETHER WRITTEN OR ORAL, OR EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF QUALITY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR USE OR PURPOSE OR ANY WARRANTY AS TO THE VALIDITY OF ANY PATENTS OR THE NON-INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES.",
+    "ollama_generated": "10.4.1 Harpoon acknowledges and consents that AbbVie shall not be obligated to obtain from each of its Affiliates, Sublicensees, employees, and agents who may potentially access or have access to any Harpoon Information or other Confidential Information of Harpoon, rights to any and all Information that arises from - 58 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 or relates to such access or potential access, unless required by law. It is understood that Harpoon shall not receive any licenses specified in Section 10.5 DISCLAIMER OF WARRANTIES without additional consideration from AbbVie, except as expressly warranted herein.\n\nExcept for the express warranties set forth herein, neither Party makes any representations or grants any warranties, either express or implied, whether by law, statute, or otherwise, including any warranty of quality, merchantability, or fitness for a particular use or purpose or any warranty as to the validity of any patents or the non-infringement of any intellectual property rights of third parties. Each Party specifically disclaims any other warranties, whether written or oral, express or implied, including any warranty that AbbVie will obtain such licenses from its Affiliates, Sublicensees, employees, and agents.",
+    "contradiction_score": 0.0967988446354866,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 365,
+    "start_char": 202791,
+    "end_char": 203866,
+    "original": "11.4.2 Right to Participate in Defense.  Without limiting Section 11.4.1 , any Indemnified Party shall be entitled to participate in, but not control, the defense of such Third Party Claim and to employ counsel of its choice for such purpose\u037e provided  that such employment shall be at the Indemnified Party\u2019s own expense unless (a) the employment thereof, and the assumption by the indemnifying Party of such expense, has been specifically authorized by the indemnifying Party in writing, (b) the indemnifying Party has failed to assume the defense and employ counsel in accordance with Section 11.4.1  (in which case the Indemnified Party shall control the defense), or (c) the interests of the Indemnified Party and the indemnifying Party with respect to such Third Party Claim are sufficiently adverse to prohibit the representation by the same counsel of both Parties under Applicable Law, ethical rules or equitable principles (in which case the Indemnifying Party shall control its defense and the Indemnified Party shall control the defense of the Indemnified Party).",
+    "modified": "11.4.2 Right to Control Defense Exceptions. In addition to Section 11.4.1, any Indemnifying Party may assume control of the defense for any Third Party Claim, and may choose its own counsel to do so; however, this right is contingent upon the following conditions:\n   a) The Indemnifying Party assumes the expense of such defense, unless the Indemnified Party has requested and received written authorization from the Indemnifying Party to assume these costs.\n   b) The Indemnified Party exercises control over the defense when the Indemnifying Party fails to defend or employ counsel in accordance with Section 11.4.1. In this case, the Indemnified Party shall manage the defense.\n   c) When the interests of both Parties regarding such Third Party Claim are conflicting under Applicable Law, ethical rules, or equitable principles, each Party may control its own defense. If the same counsel cannot represent both Parties, each Party will independently control its defense.",
+    "contradiction_score": 0.5361308455467224,
+    "kept": true
+  },
+  {
+    "clause_index": 366,
+    "start_char": 203866,
+    "end_char": 205675,
+    "original": "11.4.3 Settlement.  With respect to any Losses relating solely to the payment of money damages in connection with a Third Party Claim and that shall not result in the Indemnified Party\u2019s becoming subject to injunctive or other relief, and as to which the indemnifying Party shall have acknowledged in writing the obligation to indemnify the Indemnified Party hereunder, the indemnifying Party shall have the sole right to consent to the entry of any judgment, enter into any settlement or otherwise dispose of such Loss, on such terms as the indemnifying Party, in its sole discretion, shall deem appropriate. With respect to all other Losses in connection with Third Party Claims, where the indemnifying Party has assumed the defense of the Third Party Claim in accordance with Section 11.4.1 , the indemnifying Party shall have authority to consent to the entry of any judgment, enter into any settlement or otherwise dispose of such Loss\u037e provided  that it obtains the prior written consent of the Indemnified Party (which consent shall not be unreasonably withheld, conditioned or delayed). If the indemnifying Party does not assume and conduct the defense of a Third Party Claim as provided above, the Indemnified Party may defend against such Third Party Claim. Regardless of whether the indemnifying Party chooses to defend or prosecute any Third Party Claim, no Indemnified Party shall admit any liability with respect to, or settle, compromise or dispose of, any Third Party Claim without - 60 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 the prior written consent of the indemnifying Party. The indemnifying Party shall not be liable for any settlement, compromise or other disposition of a Loss by an Indemnified Party that is reached without the written consent of the indemnifying Party.",
+    "modified": "11.4.3 Settlement Provisions:\n\nRegarding losses primarily associated with monetary damages resulting from a Third-Party Claim, which do not trigger injunctive or other coercive relief against the Indemnified Party, and for which the indemnifying Party has acknowledged in writing their obligation to indemnify the Indemnified Party as per this agreement, the indemnifying Party retains exclusive authority to approve any judgment, negotiate settlements, or otherwise manage such losses, under their sole discretion, without requiring prior written consent from the Indemnified Party.\n\nFor all other losses stemming from Third-Party Claims, if the indemnifying Party elects to handle the defense of the claim in accordance with Section 11.4.1, they shall be authorized to approve any judgment, negotiate settlements, or manage such losses; however, their actions must secure the prior written consent from the Indemnified Party, which shall not unreasonably be withheld, conditioned, or delayed. If the indemnifying Party does not elect to defend a Third-Party Claim as provided, the Indemnified Party is empowered to manage such claim on their own.\n\nIn all instances, neither party shall admit liability, settle, compromise, or dispose of any Third-Party Claim without obtaining prior written consent from the other party. The indemnifying Party shall not be held responsible for any settlement, compromise, or disposal of a loss agreed upon by an Indemnified Party, absent the written consent of the indemnifying Party. Conversely, the Indemnified Party is relieved of liability for any losses settled without their written consent if the indemnifying Party does not assume and conduct the defense as provided above.",
+    "contradiction_score": 0.8743793964385986,
+    "kept": true
+  },
+  {
+    "clause_index": 367,
+    "start_char": 205675,
+    "end_char": 206787,
+    "original": "11.4.4 Cooperation.  Regardless of whether the indemnifying Party chooses to defend or prosecute any Third Party Claim, the Indemnified Party shall, and shall cause each indemnitee to, cooperate in the defense or prosecution thereof and shall furnish such records, information and testimony, provide such witnesses and attend such conferences, discovery proceedings, hearings, trials and appeals as may be reasonably requested in connection therewith. Such cooperation shall include access [***] afforded to the indemnifying Party to, and reasonable retention by the Indemnified Party of, records and information that are reasonably relevant to such Third Party Claim, and making Indemnified Parties and other employees and agents available on a mutually convenient basis to provide additional information and explanation of any material provided hereunder, and the indemnifying Party shall reimburse the Indemnified Party for all its reasonable out-of-pocket expenses in connection therewith, subject to refund if the Indemnifying Party is ultimately held not to be obligated to indemnify the Indemnified Party.",
+    "ollama_generated": "11.4.4 Cooperation. In instances where the indemnified Party elects to defend or pursue a Third-Party Claim, the indemnifying Party shall be entitled to receive such cooperation as may be necessary for its defense or prosecution. This cooperation includes access to relevant records and information possessed by the Indemnified Party, with the understanding that the Indemnified Party retains discretion over their long-term retention. The Indemnifying Party will also have the right to request additional information and explanations from Indemnified Parties, other employees, or agents on a mutually convenient basis. Any expenses incurred by the Indemnified Party in providing such cooperation shall be borne by the Indemnifying Party, subject to refund if it is later determined that the Indemnifying Party is not obligated to indemnify the Indemnified Party. The Indemnifying Party's right to access records and information may be subject to applicable laws and regulations governing confidentiality and data protection.",
+    "contradiction_score": 0.0015694269677624106,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 371,
+    "start_char": 208746,
+    "end_char": 208831,
+    "original": "11.6.1 Types and Minimum Limits. The types of insurance, and minimum limits shall be:",
+    "modified": "11.6.1 Insurance Coverage and Minimum Thresholds:\n\nThe scope and minimal coverage for the insurance policies shall be as follows:\n\nThis subtle change shifts the focus from the specific 'types' of insurance to the broader 'insurance coverage,' potentially leaving room for interpretation about the exact nature of the coverage. Additionally, the term 'minimum limits' is replaced with 'minimal coverage thresholds,' which may emphasize the importance of meeting the stated minimums, but does not explicitly specify that these are the absolute lower bounds.",
+    "contradiction_score": 0.6242293119430542,
+    "kept": true
+  },
+  {
+    "clause_index": 372,
+    "start_char": 208831,
+    "end_char": 209030,
+    "original": "(a) Worker\u2019s Compensation with statutory limits in compliance with the Worker\u2019s Compensation laws of the state or states in which the Party has employees in the United States (excluding Puerto Rico).",
+    "ollama_generated": "(b) The Employer shall provide Workers' Compensation benefits, adhering to statutory minimums as mandated by the Workers' Compensation laws of any state where the Employer maintains staff within the United States (excluding Puerto Rico). However, in the event that the provided compensation exceeds the specified statutory limits, the Employer shall not be liable for additional costs.",
+    "contradiction_score": 0.27877068519592285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 373,
+    "start_char": 209030,
+    "end_char": 209176,
+    "original": "(b) Employer\u2019s Liability coverage with a minimum limit of [***] provided  that a Party has employees in the United States (excluding Puerto Rico).",
+    "modified": "(b) Employer's Liability coverage with a minimum limit of [***], but such coverage shall only apply if no Party is legally exempted from maintaining workers' compensation insurance, and this requirement extends to all territories within the United States (including Puerto Rico).",
+    "contradiction_score": 0.97053062915802,
+    "kept": true
+  },
+  {
+    "clause_index": 380,
+    "start_char": 210851,
+    "end_char": 210888,
+    "original": "12.2 Termination for Material Breach.",
+    "modified": "12.2 Cessation for Permissible Non-Compliance.\n\nUpon discovery of any action or omission deemed by the non-breaching party as not being in strict compliance with the agreement, but which does not constitute a material breach, the party may, at its discretion, elect to terminate this agreement without further notice or liability, except for any losses directly resulting from such termination.",
+    "contradiction_score": 0.7843767404556274,
+    "kept": true
+  },
+  {
+    "clause_index": 382,
+    "start_char": 212747,
+    "end_char": 213105,
+    "original": "12.2.2 Material Breach Related to Diligence in a Major Market.  Notwithstanding Section 12.2.1 , if the material breach and failure to cure contemplated by Section 12.2.1  is - 62 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 with respect to AbbVie\u2019s Commercialization diligence obligations under Section 4.2 with respect to any Major Market, [***] .",
+    "ollama_generated": "12.2.2 Material Breach Regarding Insufficient Diligence in a Significant Market. Contrary to Section 12.2.1, if the material breach and failure to remedy as specified in Section 12.2.1 occurs, with respect to Harpoon Therapeutics' Commercialization diligence responsibilities under Section 4.2 for any Significant Market, the non-occurrence of such breach shall not be deemed a material breach.\n\nThis modification weakens the obligation by stating that the non-occurrence of the material breach is no longer considered a material breach, thereby providing more leeway for potential infractions in the specified market.",
+    "contradiction_score": 0.004128062631934881,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 399,
+    "start_char": 220255,
+    "end_char": 220355,
+    "original": "(a) [***] (b) [***] (c) [***] - 65  - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 (d) [***].",
+    "ollama_generated": "(a) [***] (b) [***] (c) [***], but with no specific obligation or timeline - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 (d) [***].\n\nIn this revised clause, the obligation or timeline has been removed, making it less binding and more flexible for the parties involved.",
+    "contradiction_score": 0.09694600105285645,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 400,
+    "start_char": 220355,
+    "end_char": 220638,
+    "original": "12.7 Reversion of Harpoon Products.  Following the License Option Exercise Closing Date, if this Agreement terminates in its entirety, except for termination by AbbVie pursuant to Section 12.2.1  or Section 12.4 , the following shall apply with respect to Harpoon Reversion Products.",
+    "ollama_generated": "12.7 Right of First Refusal Regarding Harpoon Products. Upon expiration or early termination of this Agreement, excluding terminations initiated by AbbVie under Sections 12.2.1 and 12.4, Harpoon shall have the first right to acquire, repurchase, or control any remaining Harpoon Products, subject to the terms outlined below.\n\nThis revised clause shifts the responsibility for retaining Harpoon Products from the original holder (who could retain the products upon termination) to Harpoon, assuming they have the first right of refusal in such situations.",
+    "contradiction_score": 0.022968953475356102,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 404,
+    "start_char": 221707,
+    "end_char": 221818,
+    "original": "12.7.4 AbbVie shall [***] pertaining to the applicable Harpoon Reversion Products in its possession or Control.",
+    "modified": "12.7.4 Harpoon Products within the possession or control of AbbVie are not subject to any affirmative actions or obligations on AbbVie's part regarding the relevant Harpoon Reversion Products.",
+    "contradiction_score": 0.9697812795639038,
+    "kept": true
+  },
+  {
+    "clause_index": 411,
+    "start_char": 224171,
+    "end_char": 226781,
+    "original": "12.10.1 Termination or expiration of this Agreement (either in its entirety or with respect to one (1) or more country(ies) or other jurisdiction(s)) for any reason shall be without prejudice to any rights that shall have accrued to the benefit of a Party prior to such termination or expiration. Such termination or expiration shall not relieve a Party from obligations that are expressly indicated to survive the termination or expiration of this Agreement. Without limiting the foregoing, Sections 3.6  [***]\u037e 3.8.5  (solely for the purposes, and in accordance with the time periods, set forth therein)\u037e 4.6.1  (with respect to any amounts incurred prior to the effective date of termination and subject to reimbursement by AbbVie)\u037e 6.2 through 6.6 (with respect to payments for milestone events or Net Sales occurring prior to the effective date of termination)\u037e Sections 6.7  through 6.13\u037e Sections 7.1.1  through 7.1.4  (with respect to Patents and Know-How conceived, discovered, developed, or otherwise made prior to expiration or termination of this - 67 - Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Agreement) \u037e Section  7.9 (with respect to information exchanged prior to the effective date of termination )\u037e Sections 11.1  through 11.5\u037e 12.1.2  and the grants referenced therein (with respect to expiration, but not termination, of this Agreement), 12.5 through 12.8 (with respect to termination, but not expiration, of this Agreement and in accordance with the time periods set forth therein), 12.10 , 13.2, 13.3 through 13.13 , and 13.15  through 13.20  of this Agreement shall survive the termination or expiration of this Agreement for any reason (unless the reason is expressly limited therein), and Articles 1  (to the extent used in other surviving provisions) and 9 of this Agreement shall survive the termination or expiration of this Agreement for any reason.  If this Agreement is terminated with respect to the Terminated Territory but not in its entirety, then following such termination the foregoing provisions of this Agreement shall remain in effect with respect to the Terminated Territory (to the extent they would survive and apply in the event the Agreement expires or is terminated in its entirety), and all provisions not surviving in accordance with the foregoing shall terminate upon termination of this Agreement with respect to the Terminated Territory and be of no further force and effect (and, for purposes of clarity, all provisions of this Agreement shall remain in effect with respect to all countries in the Territory other than the Terminated Territory).",
+    "ollama_generated": "12.10.1 The termination or expiration of this Agreement, whether for one country, jurisdiction, or the entirety, occurs without affecting any rights that either party has already acquired before such termination or expiration. Any terminating or expiring party remains liable for obligations explicitly stated as surviving the termination or expiration of this Agreement. For clarity, certain sections shall persist post-termination or expiration: Sections 3.6, 3.8.5 (only within the specified parameters and duration), 4.6.1 (pertaining to costs incurred prior to the termination effective date and subject to reimbursement by AbbVie), 6.2 through 6.6 (regarding milestone events or sales occurring before termination's effective date), Sections 6.7 through 6.13, Sections 7.1.1 through 7.1.4 (concerning patents and know-how developed prior to this Agreement's expiration or termination), Section 7.9 (regarding information exchanged before the termination effective date), Sections 11.1 through 11.5, 12.1.2 and related grants, 12.5 through 12.8 (concerning this Agreement's termination but not expiration, within the specified timeframes), 12.10, 13.2, 13.3 through 13.13, and 13.15 through 13.20. These provisions will endure the termination or expiration of this Agreement unless explicitly limited otherwise. If this Agreement is terminated for a specific territory but not in its entirety, these clauses will persist with respect to that territory (if they would apply during expiration or termination of the whole Agreement). All other clauses will cease to be valid upon termination for the specified territory and shall have no further effect (except, for clarification, those clauses relevant to all countries within the Territory excluding the Terminated Territory will persist).",
+    "contradiction_score": 0.2983536720275879,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 413,
+    "start_char": 228034,
+    "end_char": 229329,
+    "original": "ARTICLE 13 MISCELLANEOUS 13.1 Force Majeure. Neither Party shall be held liable or responsible to the other Party or be deemed to have defaulted under or breached this Agreement for failure or delay in fulfilling or performing any term of this Agreement when such failure or delay is caused by or results from events beyond the reasonable control of the non-performing Party, including fires, floods, earthquakes, hurricanes, embargoes, shortages, epidemics, quarantines, war, acts of war (whether war be declared or not), terrorist acts, insurrections, riots, civil commotion, acts of God or acts, omissions or delays in acting by any governmental authority (except to the extent such delay results from the breach by the non-performing Party or any of its Affiliates of any term or condition of this Agreement). The non-performing Party shall notify the other Party of such force majeure within [***]  after such occurrence by giving written notice to the other Party stating the nature of the event, its anticipated duration, and any action being taken to avoid or minimize its effect. The suspension of performance shall be of no greater scope and no longer duration than is necessary and the non-performing Party shall use commercially reasonable efforts to remedy its inability to perform.",
+    "ollama_generated": "ARTICLE 13 MISCELLANEOUS\n13.2 Unforeseen Circumstances. In circumstances where either Party is unable to meet their obligations under this Agreement due to unforeseen events beyond their reasonable control, such as fires, floods, earthquakes, hurricanes, embargoes, shortages, epidemics, quarantines, war, acts of war (whether war be declared or not), terrorist acts, insurrections, riots, civil commotion, acts of God, or actions by any governmental authority (except where such inability to perform results from the breach of this Agreement by the Party invoking this clause), neither Party shall be considered in default or breach of this Agreement.\n\nThe Party experiencing difficulties shall notify the other Party immediately upon the occurrence of such event, providing written notice detailing the nature of the event, its estimated duration, and any measures being taken to mitigate its impact. The Party unable to perform shall take all reasonable steps to resume performance as soon as possible. During the period of such unforeseen circumstances, the affected Party's obligations under this Agreement may be temporarily suspended; however, this suspension shall not exceed the minimum necessary duration to address the unforeseen event.",
+    "contradiction_score": 0.3902806043624878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 419,
+    "start_char": 230353,
+    "end_char": 231121,
+    "original": "13.4.1 Without the prior written consent of the other Party, such consent not to be unreasonably withheld, conditioned, or delayed, neither Party shall sell, transfer, assign, delegate, pledge, or otherwise dispose of, whether voluntarily, involuntarily, by operation of law or otherwise, this Agreement or any of its rights or duties hereunder\u037e provided  that either Party may make such an assignment without the other Party\u2019s consent to its Affiliate or to a successor, whether in a merger, sale of stock, sale of assets or any other transaction, of the business to which this Agreement relates. With respect to an assignment to an Affiliate, the assigning Party shall remain responsible for the performance by such Affiliate of the rights and obligations hereunder.",
+    "modified": "13.4.1 Either Party retains the right, without seeking the prior written consent of the other, to sell, transfer, assign, delegate, pledge, or otherwise dispose of this Agreement or any of its rights or duties, provided such actions are not subject to undue restrictions. However, if either Party chooses to assign this Agreement to a third party that is not an Affiliate, they must obtain the prior written consent of the other Party. In such cases where consent has been granted, the assignee shall assume full responsibility for the performance of all rights and obligations under this Agreement. In the event of an assignment to an Affiliate, the initial assigning Party shall continue to be bound by and responsible for ensuring the fulfillment of the rights and duties herein by their Affiliate.",
+    "contradiction_score": 0.9057373404502869,
+    "kept": true
+  },
+  {
+    "clause_index": 420,
+    "start_char": 231121,
+    "end_char": 231913,
+    "original": "Any attempted assignment or delegation in violation of this Section 13.4  shall be void and of no effect. All validly assigned and delegated rights and obligations of the Parties hereunder shall be binding upon and inure to the benefit of and be enforceable by and against the successors and permitted assigns of Harpoon or AbbVie, as the case may be. The permitted assignee or transferee shall assume all obligations of its assignor or transferor under this Agreement. Without limiting the foregoing, the grant of rights set forth in this Agreement shall be binding upon any successor or permitted assignee of Harpoon, and the obligations of AbbVie, including the payment obligations, shall run in favor of any such successor or permitted assignee of Harpoon\u2019s benefits under this Agreement.",
+    "ollama_generated": "Any unauthorized assignment or delegation contravening Section 13.4 will not bind nor confer any rights upon any party, and shall be considered null and void. All legally assigned and delegated rights and obligations within this Agreement shall remain binding upon and advantageous to the successors and permitted assigns of both Harpoon and AbbVie. The receiving party in such assignment or transfer shall assume all duties as originally undertaken by its predecessor under this Agreement. Notably, any transfer or assignment of rights granted under this Agreement will be valid for the benefit of any future successors or permitted assignees of Harpoon, while AbbVie's obligations, including the payment obligations, will persist in favor of such new parties.",
+    "contradiction_score": 0.06326176971197128,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 425,
+    "start_char": 234363,
+    "end_char": 234823,
+    "original": "13.7 Dispute Resolution. Except for disputes resolved by the procedures set forth in Sections 2.2.3 , 3.1.2 , 6.12 or 13.11 , if a dispute arises between the Parties in connection with or relating to this Agreement, including the determination of the scope or applicability of this Section 13.7  and the agreement to arbitrate, or any document or instrument delivered in connection herewith (a \u201c Dispute \u201d), it shall be resolved pursuant to this Section 13.7 .",
+    "ollama_generated": "13.7 Dispute Resolution Provisions. Unless a dispute is settled through the processes outlined in Sections 2.2.3, 3.1.2, 6.12, or 13.11, any disagreement that emerges between the Parties in relation to this Agreement, including questions regarding the interpretation of this Section 13.7 and the decision to arbitrate, or any document or instrument associated with this agreement (a \"Dispute\"), will not be resolved by those specific procedures. Instead, such disputes shall be addressed according to the provisions set forth in this Section 13.7.",
+    "contradiction_score": 0.041642263531684875,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 441,
+    "start_char": 239300,
+    "end_char": 240474,
+    "original": "Cooley LLP 3175 Hanover Street Palo Alto, CA 94304 Attention: [***] Email: [***] 13.9 Entire Agreement\u037e Amendments. This Agreement, together with the Schedules attached hereto, sets forth and constitutes the entire agreement and understanding between the Parties with respect to the subject matter hereof and all prior agreements, understandings, promises, and representations, whether written or oral, with respect thereto are superseded hereby (including that certain Mutual Confidentiality Disclosure Agreement between the Parties or their respective Affiliates dated [***] (the \u201c Prior NDA \u201d). The foregoing shall not be interpreted as a waiver of any remedies available to either Party as a result of any breach, prior to the Effective Date, by the other Party (or its Affiliates) of its obligations under the Prior NDA. Each Party confirms that it is not relying on any representations or warranties of the other Party except as specifically set forth in this Agreement. No amendment, modification, release, or discharge with respect to this Agreement shall be binding upon the Parties unless in writing and duly executed by authorized representatives of both Parties.",
+    "ollama_generated": "13.9 Entire Agreement; Amendments. This Agreement, along with its appended schedules, embodies the entirety of the agreement and understanding between the Parties concerning the subject matter herein, eclipsing all previous agreements, understandings, representations, assurances, whether in writing or spoken, that pertain to the aforementioned topic (including but not limited to the Mutual Confidentiality Disclosure Agreement between the Parties or their respective Affiliates dated [***], hereafter referred to as the \"Prior NDA\"). It is acknowledged that this clause should not be construed as a relinquishment of any recourse available to either Party due to any pre-Effective Date breach, on the part of the other Party (or its Affiliates), of their commitments under the Prior NDA. Each Party concedes that they have solely relied upon the explicit terms set forth within this Agreement and not on any additional representations or warranties proffered by the other Party. No alteration, modification, release, or discharge regarding this Agreement shall be binding upon the Parties unless it is in writing and has been signed by duly authorized representatives of both Parties.",
+    "contradiction_score": 0.01096670888364315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 452,
+    "start_char": 246754,
+    "end_char": 246919,
+    "original": "13.19 Schedules. In the event of any inconsistencies between this Agreement and any schedules or other attachments hereto, the terms of this Agreement shall control.",
+    "modified": "13.19 Schedules and Attachments: In the event of any discrepancies or contradictions between this Agreement and its appendices, including but not limited to schedules and other attachments, the provisions outlined in such appendices shall take precedence over this Agreement.\n\nNote: The original clause emphasizes that the main body of the agreement takes priority over any schedules or attachments. In this revised version, I have shifted the priority to the schedules and attachments, meaning they will take precedence if there is a contradiction with the main body of the agreement.",
+    "contradiction_score": 0.9612589478492737,
+    "kept": true
+  },
+  {
+    "clause_index": 455,
+    "start_char": 248464,
+    "end_char": 249279,
+    "original": "HARPOON THERAPEUTICS, INC. ABBVIE BIOTECHNOLOGY LTD By: /s/ Gerald McMahon Name: Gerald McMahon Title: President and CEOBy: /s/ Robert Michael Name: Robert Michael Title: Director [SIGNATURE  PAGE TO DEVELOPMENT  AND OPTION  AGREEMENT ] Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Schedule 1.84 Initial Development Plan Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Schedule 1.99 Licensed Compound Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Schedule 3.7 Pre-Approved Third Party Providers Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Schedule 10.2 Disclosure Schedules Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Schedule 10.2.1 Existing Patents Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020 Schedule 13.7.3 Arbitration Source: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020",
+    "ollama_generated": "ABBVIE BIOTECHNOLOGY LTD, by Gerald McMahon, President and CEO, and Robert Michael, Director [SIGNATURE PAGE TO DEVELOPMENT AND OPTION AGREEMENT] hereby acknowledges that it will abide by the following provisions:\n\n1. ABBVIE shall utilize the Initial Development Plan, Licensed Compound, Pre-Approved Third Party Providers, Disclosure Schedules (including Existing Patents), and Arbitration guidelines as outlined in Harpoon Therapeutics, Inc.'s 10-K filing dated March 12, 2020.\n\n2. It is understood that Harpoon Therapeutics, Inc. has the discretion to direct the development strategy, selection of compounds, choice of third parties, disclosure requirements, and arbitration procedures, and ABBVIE shall comply with such decisions.\n\n3. In the event of any disagreements or disputes arising from this agreement, Harpoon Therapeutics, Inc. reserves the right to pursue arbitration as outlined in its 10-K filing dated March 12, 2020, and ABBVIE agrees to be bound by such proceedings.",
+    "contradiction_score": 0.025849435478448868,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

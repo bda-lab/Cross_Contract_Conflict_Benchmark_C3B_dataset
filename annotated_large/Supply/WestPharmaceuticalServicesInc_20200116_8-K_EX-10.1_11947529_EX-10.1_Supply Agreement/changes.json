@@ -1,0 +1,259 @@
+[
+  {
+    "clause_index": 7,
+    "start_char": 3258,
+    "end_char": 3371,
+    "original": "Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 Base price Requested delivery date 1.1.2019 - 28.2.2019:",
+    "modified": "Clause:\nSource: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 Base price Delivered over due dates: 29.2.2019 - 31.12.2021:\n\nThe Supplier will have the discretion to deliver the goods at any time within the specified period without incurring any penalties or interest charges, provided that the base price remains unchanged and the goods are delivered in a timely and efficient manner. In case of late delivery, West Pharmaceutical Services Inc. shall bear any additional costs associated with the delay, such as storage fees or compensation for inconvenience caused.",
+    "contradiction_score": 0.6422947645187378,
+    "kept": true
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3704,
+    "end_char": 3815,
+    "original": "All [*****] grades except [*****]: [*****] $/t [*****]: [*****] $/t [*****]: [*****] $/t 1.1.2022 - 31.12.2022:",
+    "ollama_generated": "Excluding grades [*****], all other grades will not be subject to any price adjustments until the expiration of this agreement on December 31, 2022. However, in the event that there is a modification to the pricing for [*****] during the term of this contract from January 1, 2022 to December 31, 2022, the revised price will apply to [*****].\n\nThis clause introduces a slight change by shifting the responsibility for any price changes in the specified time frame onto the other party, and it removes the initial obligation of the first party to adjust prices.",
+    "contradiction_score": 0.004535631276667118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 4479,
+    "end_char": 4771,
+    "original": "Notwithstanding anything to the contrary in Attachments A, G and H to this Agreement, the parties agree that any permitted adjustments to the price, freight or payment terms for Products sold hereunder will be governed by the terms of the Pricing and Payment Terms sections of this Agreement.",
+    "ollama_generated": "In contrast to any provisions stated in Attachments A, G, and H within this Agreement, the parties concur that any modifications permitted for the pricing, freight, or payment terms pertaining to the Products herein shall be subject to the conditions outlined in the Pricing and Payment Terms sections of this Agreement, unless explicitly specified otherwise.",
+    "contradiction_score": 0.0008883097907528281,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 9333,
+    "end_char": 9885,
+    "original": "Sellers agrees to support the creation of purchasing specifications for Products by Buyer and agrees to supply Products in accordance to those purchasing specifications. Seller has the right to review each purchasing specification and needs to accept in writing before such purchasing specifications become effective. Seller has the right to take exceptions to terms and provisions in these purchasing specifications if in contradiction with Seller\u2019s Sales specifications, General Terms and Condition of Sales or other Seller\u2019s procedures and policies.",
+    "ollama_generated": "Buyer shall be responsible for the development of Product purchasing specifications, which Sellers are expected to consider. The supplied Products will align as closely as feasible with these established purchasing specifications, subject to Seller's discretion and any necessary modifications that may be necessary due to conflicts with Seller's Sales specifications, General Terms and Conditions of Sales, or other relevant Seller procedures and policies. Sellers retain the right to provide written objections to specific terms or provisions within the purchasing specifications, should they deem such disagreements essential.",
+    "contradiction_score": 0.0032989205792546272,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 9885,
+    "end_char": 10172,
+    "original": "Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 Buyer and Seller agree to enter into negotiations on an extended Quality Assurance Agreement. Provided that these negotiations will be successful, such agreement shall then be incorporated into this Contract as an amendment to it.",
+    "ollama_generated": "Clause:\nSource: Modified for illustrative purposes only.\nParties hereto, Buyer and Seller, hereby acknowledge their readiness to commence negotiations concerning the expansion of the Quality Assurance Agreement. Should these discussions yield a mutually acceptable outcome, the resulting agreement shall be considered as a proposed amendment to this Contract, subject to the discretionary approval of both Parties. The incorporation of such an amendment is contingent upon the mutual consent of the Parties.",
+    "contradiction_score": 0.3181297779083252,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 10500,
+    "end_char": 10860,
+    "original": "TECHNICAL SUPPORT EMCC/A will provide technical expertise in the use of Products and will use its technical centers to enhance technical communications with West Pharmaceutical Services Affiliates technical centers. West/A will share its needs with EMCC/A and how they relate to West/A activities to help guide ExxonMobil Chemical Affiliates technical efforts.",
+    "ollama_generated": "Technical Support from EMCC/A shall be available for the utilization of Products, offering expertise and utilizing technical resources to optimize communication with West Pharmaceutical Services Affiliates' technical centers. West/A reserves the right to independently determine its needs and communicate these requirements to EMCC/A, without obligation to share their relevance or connection to West/A activities. In turn, EMCC/A shall consider such communicated needs as guidance for ExxonMobil Chemical Affiliates' technical efforts, but is under no compulsion to align or adjust its technical strategies accordingly.",
+    "contradiction_score": 0.08160777390003204,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 11681,
+    "end_char": 11824,
+    "original": "On request of Buyer, Buyer is allowed to carry out on-site manufacturing and quality audits in manufacturing units where Products are produced.",
+    "modified": "At the discretion of Seller, access may be granted for Seller's team to perform on-site manufacturing and quality inspections in the facilities where the Products are manufactured, subject to reasonable notice by Buyer.",
+    "contradiction_score": 0.8700537085533142,
+    "kept": true
+  },
+  {
+    "clause_index": 54,
+    "start_char": 20430,
+    "end_char": 21278,
+    "original": "WARRANTY DISPUTE RESOLUTION Notwithstanding anything to the contrary in Attachments A, G or H , if Buyer/Buyer Affiliates and Seller/ExxonMobil Selling Affiliates are unable to agree on the quality or quantity of Product delivered and received following their internal investigations and good faith efforts to resolve the dispute, the parties shall cooperate to have the Products in dispute analyzed by a mutually selected independent testing laboratory. The results of such laboratory testing shall be final and binding on the parties on the issue of conformance of the Products. If the Products are determined to be conforming, then Buyer/Buyer Affiliates shall bear the cost of such laboratory testing. If the Products are determined not to be conforming, then Seller/ExxonMobil Selling Affiliates shall bear the cost of such laboratory testing.",
+    "ollama_generated": "DISPUTE RESOLUTION REGARDING WARRANTY: Contrary to anything stated in Attachments A, G or H, if disagreements arise between Buyer/Buyer Affiliates and Seller/ExxonMobil Selling Affiliates regarding the quality or quantity of the Delivered Product, despite their internal investigations and sincere attempts at resolution, it will be the responsibility of the non-conforming party, as determined by the laboratory testing results, to bear the cost of such independent testing. The selected lab's findings shall serve as the conclusive determination on whether the Products comply with the agreed standards. In the event that the Products are found to meet the specifications, the party receiving the Product (Buyer/Buyer Affiliates) will bear the expenses related to laboratory testing. However, should the Products be deemed non-conforming, Seller/ExxonMobil Selling Affiliates will cover the costs associated with such testing.",
+    "contradiction_score": 0.17044754326343536,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 21795,
+    "end_char": 22476,
+    "original": "DATA PRIVACY Seller informs Buyer that any information relating to an identified or identifiable natural person (\u201cindividual\u201d), in particular business contact details of Buyer\u2019s personnel and contractors, which is communicated by or on behalf of Buyer to Seller (\u201cpersonal data\u201d), will be subject to data processing by Seller. To learn more about the processing of personal data and about individual\u2019s rights in relation to the processing, read the Seller data privacy notice at http://www.exxonmobil.be/en-be/company/locations/belgium/legal-information-belgium-only Buyer shall inform its personnel and contractors and other relevant individuals of the Seller data privacy notice.",
+    "ollama_generated": "DATA PROTECTION Notice to Buyer: Any personal data provided by or on behalf of Buyer, including but not limited to business contact details of Buyer's personnel and contractors (\"personal data\"), will be handled by Seller for the purpose of our operations. For comprehensive understanding of how we manage personal data, the rights of individuals in this process, and other related information, please refer to our Data Privacy Notice available at http://www.exxonmobil.be/en-be/company/locations/belgium/legal-information-belgium-only\n\nIt is the responsibility of Buyer to ensure that their personnel, contractors, and other relevant parties are made aware of our Data Privacy Notice. This includes understanding how their personal data will be used, stored, and safeguarded by Seller during the course of our business dealings.",
+    "contradiction_score": 0.009666060097515583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 25924,
+    "end_char": 27754,
+    "original": "Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 BUYER SELLER ACCEPTED AND AGREED TO BY BUYER ExxonMobil Chemical Company, a division of DATE OF: Exxon Mobil Corporation January 10, 2020 Date: December 11, 2018 /s/ Eric M. Green /s/ Kurt Aerts BY: Eric M. Green BY: Kurt Aerts Title: President and CEO Title: Vice President, SERI Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 ATTACHMENT A West Pharmaceutical Services and ExxonMobil Chemical Company 2019-2023 Global Master Supply Agreement ExxonMobil Chemical Company (EMCC) & ExxonMobil Chemical Services Americas Inc. (EMCSA) Standard Terms and Conditions of Sales and Acceptance of Order 1. PRICE AND QUANTITY\u037e PRICE ADJUSTMENTS Except as otherwise provided in this Agreement, and without regard to any course of dealing between the parties: (1) Seller shall not be obligated to sell or deliver any quantity of product(s) covered hereby (\"Product\") beyond the amount, if any, which in Seller's sole judgment, is available for such purpose as of the proposed date of shipment to Buyer\u037e (2) the price of Product shall be Seller's price therefor as of the date of shipment\u037e (3) Seller reserves the right to set minimums and/or premiums or to reject orders for unusual configurations, sizes and folds\u037e (4) an overrun or underrun of up to ten percent (10%) shall constitute due performance of any order\u037e (5) any freight allowances shall be those specified by Seller as of the date of shipment\u037e and (6) Buyer shall allow Seller a reasonable period for delivery of shipments of Product. Seller may change any price, freight or payment term hereof upon no less than thirty (30) days' prior written notice\u037e provided, however, that Seller may at any time institute or remove a temporary voluntary allowance of other similar competitive allowance without prior notice.",
+    "ollama_generated": "Clause:\nSource: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 BUYER SELLER ACCEPTED AND AGREED TO BY BUYER ExxonMobil Chemical Company, a division of DATE OF: Exxon Mobil Corporation January 10, 2020 Date: December 11, 2018 /s/ Eric M. Green /s/ Kurt Aerts BY: Eric M. Green BY: Kurt Aerts Title: President and CEO Title: Vice President, SERI Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 ATTACHMENT A West Pharmaceutical Services and ExxonMobil Chemical Company 2019-2023 Global Master Supply Agreement ExxonMobil Chemical Company (EMCC) & ExxonMobil Chemical Services Americas Inc. (EMCSA) Standard Terms and Conditions of Sales and Acceptance of Order\n\n1. PRICE AND QUANTITY\u037e PRICE ADJUSTMENTS Except as otherwise provided in this Agreement, and without regard to any course of dealing between the parties: (1) Buyer is responsible for ensuring that the requested quantity of product(s) covered hereby (\"Product\") does not exceed the amount, if any, which in Seller's sole judgment, will be available for such purpose as of the proposed date of shipment to Buyer\u037e (2) the price of Product shall be Seller's price therefor as of the date of receipt by Buyer\u037e (3) Seller reserves the right to impose maximums and/or penalties or to reject orders for unusual configurations, sizes and folds\u037e (4) a shortfall or excess of more than ten percent (10%) shall constitute non-performance by Seller and entitle Buyer to terminate this Agreement with immediate effect and claim damages as provided herein\u037e (5) any freight allowances shall be those specified by Buyer as of the date of receipt by Seller\u037e and (6) Seller shall allow Buyer a reasonable period for delivery of shipments of Product. Buyer may change any price, freight or payment term hereof upon no less than thirty (30) days' prior written notice to Seller. Provided that Buyer may at any time institute or remove a temporary involuntary penalty or similar competitive penalty without prior notice to Seller.",
+    "contradiction_score": 0.09405284374952316,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 35259,
+    "end_char": 36509,
+    "original": "10. SAFETY, HEALTH AND INDEMNITY Seller shall furnish to Buyer Material Safety Data Sheets, including warnings and safety and health information concerning Products and/or the containers therefor. Buyer agrees to disseminate such information so as to give warning of possible hazards to persons who Buyer can reasonably foresee may be exposed to such hazards, including but not limited to Buyer's employees, agents, contractors or customers. Buyer shall instruct its employees, agents, contractors and customers on the safe handling, use, selling, storing, transportation and disposal practices for the Product. IF BUYER FAILS TO DISSEMINATE SUCH WARNINGS AND INFORMATION, BUYER AGREES TO DEFEND AND INDEMNIFY SELLER AGAINST ANY AND ALL LIABILITY ARISING OUT OF OR IN ANY WAY CONNECTED WITH SUCH FAILURE, INCLUDING BUT NOT LIMITED TO LIABILITY FOR INJURY, SICKNESS, DEATH AND PROPERTY DAMAGE\u037e PROVIDED, HOWEVER, THAT IF SELLER IN THIS INSTANCE HAS CONTRIBUTED TO SUCH LIABILITY, BUYER'S INDEMNITY TO SELLER SHALL BE REDUCED BY THE PROPORTION IN WHICH SELLER CONTRIBUTED TO SUCH LIABILITY. Seller will provide Buyer with reasonable notice and opportunity to defend in the event any claim or demand is made on Seller as to which such indemnity relates.",
+    "ollama_generated": "10. SAFETY, HEALTH AND INDEMNITY The Buyer shall be responsible for obtaining and disseminating Material Safety Data Sheets regarding the Products and/or their containers. Seller agrees to provide such information, including warnings and safety guidelines. The Buyer is solely responsible for ensuring that all individuals who may potentially be exposed to potential hazards associated with these products, such as but not limited to the Buyer's employees, agents, contractors, or customers, are adequately informed about the safe handling, use, selling, storage, transportation, and disposal practices of the Product. If the Buyer fails to provide such warnings and information, they agree to hold harmless and indemnify the Seller against any and all claims arising from this failure, including but not limited to claims related to injury, sickness, death, and property damage. However, if the Seller's negligence has contributed to any such liability, the Buyer's indemnity obligations towards the Seller will be proportionally reduced accordingly. The Seller will provide the Buyer with a reasonable notice and opportunity to defend in the event any claim or demand is made on the Seller that this indemnity pertains to.",
+    "contradiction_score": 0.13901637494564056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 44058,
+    "end_char": 44845,
+    "original": "22777 Springwoods Village Pkwy Spring, TX 77389 For Product purchases made by Buyer Affiliates i n: Denmark, France, Germany, United Kingdom, Serbia and Ireland ExxonMobil Petroleum & Chemical BVBA (EMPC) Polderdijkweg B - 2030 Antwerpen, Belgium For Product purchases made by Buyer Affiliates i n: Singapore, China, India ExxonMobil Affiliate: ExxonMobil Chemical Asia Pacific, a division of ExxonMobil Asia Pacific Pte Ltd (EMCAP) 1 Harbour Front Place #06-00HarbourFront Tower One Singapore 098633 Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 ATTACHMENT C West Pharmaceutical Services and ExxonMobil Chemical Company 2019-2023 Global Master Supply Agreement List of West Pharmaceutical Affiliates Buyer may update this list from time to time with written notice to Seller.",
+    "ollama_generated": "22777 Springwoods Village Pkwy Spring, TX 77389\n\nFor Product purchases made by Buyer Affiliates in any country other than Denmark, France, Germany, United Kingdom, Serbia, Ireland, Singapore, China, or India, the seller's responsibility lies with ExxonMobil Petroleum & Chemical BVBA (EMPC), Polderdijkweg B - 2030 Antwerpen, Belgium.\n\nFor Product purchases made by Buyer Affiliates in Denmark, France, Germany, United Kingdom, Serbia, Ireland, or any other country not specified above, the seller's responsibility shifts to ExxonMobil Affiliate: ExxonMobil Chemical Asia Pacific, a division of ExxonMobil Asia Pacific Pte Ltd (EMCAP), 1 Harbour Front Place #06-00HarbourFront Tower One Singapore 098633.\n\nSource: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 ATTACHMENT C\nWest Pharmaceutical Services and ExxonMobil Chemical Company 2019-2023 Global Master Supply Agreement\n\nThe Buyer may update the list of its Affiliates from time to time, providing written notice to the Seller. However, for any changes that result in the inclusion of countries specified above, the responsibility of the Seller will shift accordingly.",
+    "contradiction_score": 0.07453704625368118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 44845,
+    "end_char": 45396,
+    "original": "Brazil West Pharmaceutical Services Brasil Ltda AV Nossa Senhora Das Gracas, 115 Diadema, Sao Paulo, Brazil 09980-000 West Pharmaceutical Packaging (China) Co., Ltd No. 111 Tianchen Road Qingpu, Shanghai 201707 China Denmark West Pharmaceutical Services Denmark A/S Fuglevangsvej 51 Horsens, Denmark France West Pharmaceutical Services France,S.A. 38, Rue Robert Degon Le Nouvion EN Thierache 02170 Germany West Pharmaceutical Services Deutschland GmbH & Co. KG Stalberger Str. 21-41 Eschweiler 52249 Ireland West Pharmaceutical Products Ireland, Ltd.",
+    "ollama_generated": "Each of Brazil West Pharmaceutical Services Brasil Ltda (located at Av Nossa Senhora Das Gracas, 115 Diadema, Sao Paulo, Brazil 09980-000), West Pharmaceutical Packaging (China) Co., Ltd (No. 111 Tianchen Road Qingpu, Shanghai 201707 China), Denmark West Pharmaceutical Services Denmark A/S (Fuglevangsvej 51 Horsens, Denmark), France West Pharmaceutical Services France, S.A. (38, Rue Robert Degon Le Nouvion EN Thierache 02170), Germany West Pharmaceutical Services Deutschland GmbH & Co. KG (Stalberger Str. 21-41 Eschweiler 52249), and Ireland West Pharmaceutical Products Ireland, Ltd. (as their respective addresses may change from time to time) shall be individually responsible for ensuring compliance with all applicable laws, regulations, and standards in their respective jurisdictions, and any non-compliance arising from their operations or activities shall not give rise to any liability on the part of the other parties under this agreement.\n\nIn case of any legal action arising from the non-compliance by one of the aforementioned entities, the non-compliant party shall bear full responsibility for all costs, damages, and losses incurred as a result, and no indemnity or compensation shall be sought from the other parties.",
+    "contradiction_score": 0.022935830056667328,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 46153,
+    "end_char": 46246,
+    "original": "923 West Railroad Street Kearney, NE 68845-5128 West Pharmaceutical Services of Florida, Inc.",
+    "ollama_generated": "923 West Railroad Street, Kearney, NE 68845-5128 shall be designated as the principal place of business for West Pharmaceutical Services of Nebraska, Inc., a subsidiary of West Pharmaceutical Services of Florida, Inc. The Nebraska entity shall assume primary responsibility for all legal and regulatory matters related to its operations in Nebraska, with the understanding that Florida parent company will provide support and guidance as necessary.",
+    "contradiction_score": 0.032325632870197296,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 46246,
+    "end_char": 46333,
+    "original": "5111 Park Street North St. Petersburg, FL 33709-1109 West Pharmaceutical Services, Inc.",
+    "ollama_generated": "5111 Park Street North, St. Petersburg, FL 33709-1109 shall hereafter be designated as the primary operational address for all correspondence and legal notices to Party B (West Pharmaceutical Services, Inc.), except in circumstances where alternative arrangements have been mutually agreed upon in writing by both Parties A and B. In such instances, any deviation from this primary address shall not relieve Party B of their duty to promptly inform Party A of any change in contact information.",
+    "contradiction_score": 0.004142084624618292,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 48467,
+    "end_char": 49024,
+    "original": "Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 ATTACHMENT F West Pharmaceutical Services and ExxonMobil Chemical Company 2019-2023 Global Supply Master Agreement Returnable Metal Crates Attachment F documents Buyer's/Buyer Affiliates' responsibility for returnable metal crates (\"Metal Crates\") used in the supply of Butyl products from Seller/ExxonMobil Selling Affiliates (\"ExxonMobil\"). Buyer/Buyer Affiliates wishes to receive Butyl in Metal Crates and ExxonMobil is willing to supply Butyl in Metal Crates, subject to the following agreement.",
+    "ollama_generated": "Clause:\nSource: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 ATTACHMENT F West Pharmaceutical Services and ExxonMobil Chemical Company 2019-2023 Global Supply Master Agreement Returnable Metal Crates Attachment F documents Seller/ExxonMobil Selling Affiliates' obligation to accept return of the returnable metal crates (\"Metal Crates\") used in the supply of Butyl products to Buyer/Buyer Affiliates (\"Buyer\"). ExxonMobil desires to provide Butyl in Metal Crates and Buyer is open to receiving Butyl, contingent upon this agreement.\n\nIn this revised clause, the responsibility for returning the metal crates has been shifted from the Buyer/Buyer Affiliates to Seller/ExxonMobil Selling Affiliates, making it ExxonMobil's obligation to accept their return. This clause now also clearly indicates that Buyer is open to receiving Butyl in Metal Crates, which was not explicitly stated in the original clause.",
+    "contradiction_score": 0.22360825538635254,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 50020,
+    "end_char": 51091,
+    "original": "For the purposes of this agreement, a Metal Crate is considered to be in undamaged condition if the base and all four sides are in working condition. Buyer/Buyer Affiliates agrees to pay for all repairs for damage to any Metal Crate, or to pay the replacement charge of $[*****] per Metal Crate for any Metal Crate that is either permanently lost or damaged beyond repair while in the custody of Buyer/Buyer Affiliates, and a replacement charge ($[*****] per door) for any removable door missing from Metal Crates collected at Buyer's /Buyer Affiliates' location. A Metal Crate shall be deemed to have been damaged beyond repair if the documented repair costs to restore the damaged Metal Crate to fit-for-fill condition would exceed $[*****]. In addition, if any of the charges imposed by Global Pallet Services Limited (GPS) under the agreement between the ExxonMobil and Global Pallet Service Limited (GPS) for damage to or loss of Metal Crates, are revised, the aforesaid amount reimbursable by Buyer/Buyer Affiliates shall automatically be revised in similar manner.",
+    "ollama_generated": "In accordance with this agreement, a Metal Crate will be deemed to be in satisfactory condition if it is structurally sound and functional, with the base and all four sides intact. Seller/Seller's Affiliates shall not be held responsible for any repairs or costs associated with damage to a Metal Crate, unless such damage occurred during the custody of the Seller/Seller's Affiliates. In such cases, the cost for replacement or repair of each Metal Crate will be borne by the Seller/Seller's Affiliates, provided that the cost of repair does not exceed $[*****] per Metal Crate. Any additional costs incurred due to repair or replacement beyond this limit will be shared equally between the parties.\n\nMoreover, if any removable doors are missing from the Metal Crates at the time of collection from the Seller's /Seller's Affiliates' location, the Seller/Seller's Affiliates shall be required to replace them at a cost of $[*****] per door. It is worth noting that if any charges imposed by Global Pallet Services Limited (GPS) under their agreement with ExxonMobil for damage to or loss of Metal Crates, are revised, the amount reimbursable by Seller/Seller's Affiliates will also be subject to similar adjustments.",
+    "contradiction_score": 0.09336964786052704,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 55149,
+    "end_char": 55649,
+    "original": "Buyer represents and warrants that no product purchased hereunder will be Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 used or resold for use in any commercial or developmental manner in connection with medical applications without Seller\u2019s prior express written acknowledgment. Further, Buyer agrees that it will make no representations, express or implied, to any person to the effect that Seller recommends or endorses the use of product purchased hereunder in any medical application.",
+    "ollama_generated": "Seller retains the exclusive right to authorize any commercial or developmental usage of products procured herein for medical applications. It is explicitly understood that Buyer shall not imply, suggest, or represent, either expressly or by implication, that Seller endorses or recommends such use without prior written consent from Seller. Furthermore, Buyer acknowledges and agrees that any use of the product in question for medical purposes, commercial or otherwise, will be solely at their own risk, relieving Seller of any liability or responsibility arising therefrom.",
+    "contradiction_score": 0.056874193251132965,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 57395,
+    "end_char": 57718,
+    "original": "LAYTIME AND DEMURRAGE Buyer shall unload tank containers, cars, trucks and barges furnished by Seller and clear products from port, or at delivery destination, within the free time specified by tariffs or time periods on file with applicable bodies, or promptly after receipt if no such tariffs or time periods are on file.",
+    "ollama_generated": "TIME LIMITS FOR UNLOADING AND CLEARANCE: Seller grants Buyer a reasonable period, as defined by the relevant tariffs or time periods filed with applicable authorities, to unload tank containers, cars, trucks, and barges provided by Seller. Any failure to do so within this specified period shall result in the immediate liability of the Buyer for any demurrage charges incurred. In the absence of such tariffs or time periods, the Seller will provide a reasonable time frame for unloading and clearance upon delivery, and prompt action is expected from the Buyer thereafter.",
+    "contradiction_score": 0.00939192809164524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 62979,
+    "end_char": 64029,
+    "original": "NO WAIVER No waiver by either party of any breach of these Standard Terms and Conditions shall be construed as a waiver of any succeeding breach of the CREDIT CLAUSE If Buyer fails to make payment when due or if Seller reasonably believes the financial status of Buyer is impaired due to any reason, Seller shall have the right, without prejudice to its other rights in contract or at law, upon notice to Buyer, to withhold further deliveries of product, modify or change any terms of payment or credit, suspend performance under this Agreement, accelerate payment obligations such that all amounts owed under prior deliveries and not paid shall become immediately due and payable, require Buyer to furnish security as deemed appropriate by Seller and/or exercise rights against any collateral and apply the proceeds against amounts due and owing. Seller shall in any event have the right to set- off any claim that Seller (or its affiliate) may have against Buyer (or its affiliate), against any sum which Seller may owe to Buyer (or its affiliate).",
+    "ollama_generated": "WAIVER AND SET-OFF PROVISIONS:\nNo exercise by either party of any right or remedy under these Standard Terms and Conditions shall constitute a waiver of any subsequent breach or default. Specifically, the exercise by Seller of its rights under the CREDIT CLAUSE, based on Buyer's delay in payment or perceived financial instability for any reason, shall not be deemed to be a waiver of Seller's right to take similar actions in response to future breaches or defaults.\n\nIn such cases where Seller invokes the CREDIT CLAUSE, it reserves, without limiting its other contractual or legal rights, the following remedies:\n- The immediate suspension of further deliveries of product pending resolution of the issue;\n- The modification or amendment of existing payment terms;\n- The acceleration of Buyer's payment obligations, rendering all previously unpaid amounts immediately due and payable;\n- The requirement for Buyer to provide security deemed appropriate by Seller, as a condition for future deliveries;\n- The exercise of rights against any collateral provided by Buyer or applied to the account;\n- The application of any proceeds from such collateral towards outstanding amounts owed by Buyer.\n\nAdditionally, and without limiting the generality of the foregoing, Seller retains the right to set off any claim it (or its affiliate) may have against Buyer (or its affiliate), against any sum which Buyer (or its affiliate) owes to Seller (or its affiliate). This right of set-off shall apply whether or not such claims are in liquidated damages or otherwise.",
+    "contradiction_score": 0.008816158398985863,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 66231,
+    "end_char": 66816,
+    "original": "Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 (c) Notice of Non-Compliance. Each party (\"the Relevant Party\") agrees to notify the other party promptly upon discovery of any instance where the Relevant Party fails to comply with this Clause. If either party discovers or is advised of any errors or exceptions related to its invoicing under this Agreement, both parties will together review the nature of the errors or exceptions, and will, if appropriate, promptly take corrective action that is necessary on its part and adjust the relevant invoice or refund overpayments.",
+    "ollama_generated": "In this Agreement, each involved party (\"the Non-Compliant Party\") shall undertake to disclose, in a timely manner, any infringement of this clause observed by them. If it transpires that either party encounters or is made aware of inaccuracies or anomalies regarding their billing under this Agreement, both parties will collaborate to investigate the underlying cause. It may then be agreed, as suitable, for each party to take appropriate corrective measures at its discretion and rectify the respective invoice or reimburse any overpayments made in an equally prompt manner. The focus is on fostering a cooperative approach towards resolving such issues.",
+    "contradiction_score": 0.014046838507056236,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 67812,
+    "end_char": 67925,
+    "original": "3. EM will use reasonable efforts to meet the planned delivery date which shall be deemed to be only approximate.",
+    "ollama_generated": "3. While every effort will be made by EM to adhere to the estimated delivery date, it should be noted that such a timeline is not binding and is intended as an approximation, subject to unforeseen circumstances or changes in project requirements.",
+    "contradiction_score": 0.0008616014965809882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 143,
+    "start_char": 67925,
+    "end_char": 68387,
+    "original": "4. If Buyer is responsible for the transport of products, Buyer shall ensure that the means of transport is clean and dry, suitable for loading and carrying the products, and complies with the safety standards of EM and with the legal standards for such means of transport. In case of non- or incomplete compliance with the above requirements, EM will be entitled not to load or cause to load this means of transportation, without any obligation to compensation.",
+    "ollama_generated": "4. In the event that Transportation responsibilities fall upon the Buyer, it is explicitly stipulated that the method of conveyance must be deemed as acceptable by EM, being free from contaminants and excess moisture, adequately designed for product loading, and adhering to both EM's safety guidelines and legal regulations applicable to such transportation means. Failure to meet these standards may result in EM electing not to dispatch or facilitate the loading of the conveyance, without incurring any liability for compensation.",
+    "contradiction_score": 0.007751505821943283,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 68387,
+    "end_char": 68607,
+    "original": "5. If delivery takes place on reusable pallets (regardless of whether they are property of EM), Buyer will maintain these pallets in good condition and make them available on request for collection by or on behalf of EM.",
+    "modified": "5. Upon the delivery being made using reusable pallets, regardless of their ownership, Seller shall be responsible for ensuring that the pallets remain in a usable condition. Any requests for collection of these pallets by or on behalf of Buyer will be accommodated promptly and at the discretion of Seller.",
+    "contradiction_score": 0.9570070505142212,
+    "kept": true
+  },
+  {
+    "clause_index": 160,
+    "start_char": 76698,
+    "end_char": 77232,
+    "original": "17. In case of any material breach of the terms and conditions contained in the Agreement by one of the parties, the other party may, without giving prior written notice in the event the material breach is not cured within such notice period or without undertaking any recourse to legal proceedings, suspend its further performance, terminate the Agreement or require specific performance by the other party of the Agreement in whole or in part, without prejudice to its right to damages for any losses incurred subject to Article 14.",
+    "ollama_generated": "17. Upon occurrence of any substantial violation of the stipulations within this Agreement by either party, the affected party shall possess the discretion, without any obligation to issue prior written notice if such breach persists beyond the specified rectification period, or without resorting to legal action, to halt further compliance, elect to discontinue the Agreement, or demand fulfillment of the Agreement in full or in part by the offending party. This decision shall not preclude the exercising party from seeking compensation for any ensuing damages, subject to the provisions detailed in Article 14.",
+    "contradiction_score": 0.0024246778339147568,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 77437,
+    "end_char": 78145,
+    "original": "Source: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020 19. EM informs Buyer that any information relating to an identified or identifiable natural person (\u201cindividual\u201d), in particular business contact details of Buyer\u2019s personnel and contractors, which is communicated by or on behalf of Buyer to EM (\u201cpersonal data\u201d), will be subject to data processing by EM. To learn more about the processing of personal data and about individual\u2019s rights in relation to the processing, read the EM data privacy notice at http://www.exxonmobil.be/enbe/company/locations/belgium/legal-information-belgium-only Buyer shall inform its personnel and contractors and other relevant individuals of the EM data privacy notice.",
+    "ollama_generated": "Clause:\nSource: WEST PHARMACEUTICAL SERVICES INC, 8-K, 1/16/2020\n\nIn the course of our business interaction, it is acknowledged by Seller that any individual data, including but not limited to business contact details of Seller's personnel and associates, may be collected, processed, and stored by us (EM). For a comprehensive understanding of how we handle such personal data, along with the rights of the individuals concerned, please refer to our data privacy notice available at http://www.exxonmobil.be/enbe/company/locations/belgium/legal-information-belgium-only\n\nEM shall bear the responsibility for notifying and educating the Seller's personnel, contractors, and other pertinent parties about our data privacy notice and their related rights.",
+    "contradiction_score": 0.05464215576648712,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

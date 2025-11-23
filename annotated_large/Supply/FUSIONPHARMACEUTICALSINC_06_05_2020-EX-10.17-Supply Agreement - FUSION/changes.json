@@ -1,0 +1,208 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 299,
+    "end_char": 956,
+    "original": "SUPPLY AGREEMENT  (\u201cSupply Agreement\u201d) effective as of the date of last signing (\u201cEffective Date\u201d) between Centre for Probe Development and Commercialization, a not-for-profit research and services institution with offices located at McMaster University, Nuclear Research Building, 1280 Main Street West, Hamilton, Ontario, Canada, L8S 4K1, (\u201cCPDC\u201d), and FUSION Pharmaceuticals Inc. (\u201cFUSION\u201d), having a place of business at 270 Longwood Road South, Hamilton, Ontario, Canada, L8P 0A6, (together the \u201cParties\u201d each a \u201cParty\u201d). This document defines the terms and conditions under which CPDC will provide FUSION the Product outlined in this Supply Agreement.",
+    "ollama_generated": "PROVISION CONTRACT (\"Provision Contract\") commencing on the date of final execution (\"Commencement Date\") between FUSION Pharmaceuticals Inc., a for-profit pharmaceutical company with its headquarters at 270 Longwood Road South, Hamilton, Ontario, Canada, L8P 0A6 (\"FUSION\"), and Centre for Probe Development and Commercialization, a not-for-profit research institution situated at McMaster University, Nuclear Research Building, 1280 Main Street West, Hamilton, Ontario, Canada, L8S 4K1, (\"CPDC\"), collectively herein referred to as the \"Parties\" each a \"Party.\" This document outlines the terms and conditions under which FUSION shall receive from CPDC the Product detailed in this Provision Contract.\n\nIn this revised clause, the roles of the parties have been slightly altered: instead of CPDC supplying the product to FUSION, it is now FUSION receiving the product from CPDC. The terminology has also been adjusted for a more commercial feel.",
+    "contradiction_score": 0.05319848656654358,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1347,
+    "end_char": 1451,
+    "original": "1.1 Ac-225 FPI-1434 1.2 [***] 1.3 The specifications for the Products are further defined in Schedule 2.",
+    "ollama_generated": "1.1 In connection with Ac-225 FPI-1434, it is understood that:\n\n1.2 The terms and conditions governing the Products are not limited to but may be found within this Agreement and additional details provided in Schedule 2.\n1.3 It shall be the responsibility of the Client to ensure that they are familiar with the specifications outlined in Schedule 2, as these will serve as the basis for the provision of the Products.",
+    "contradiction_score": 0.00492417998611927,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2648,
+    "end_char": 2757,
+    "original": "2.7 \u201cMaster Services Agreement\u201d the agreement executed between the Parties on the 21st day of February, 2017.",
+    "ollama_generated": "2.7 \"Master Services Agreement\" shall refer to the document signed by both Parties on the 21st day of February, 2017, which serves as the foundation for this agreement but may be amended or superseded should a more recent, specifically-negotiated agreement between the parties take precedence.",
+    "contradiction_score": 0.016745813190937042,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 5036,
+    "end_char": 5314,
+    "original": "The Products shall be manufactured by CPDC at the location in its cGMP facilities in the Nuclear Research Building (NRB) and on the campus of McMaster University in Hamilton, Ontario, Canada, established for this purpose pursuant to Deliverables defined within Supply Agreement.",
+    "modified": "The Manufacturer (CPDC) shall have the discretion to produce the Products at any suitable location within its cGMP facilities globally, with preference given to the Nuclear Research Building (NRB) on McMaster University's campus in Hamilton, Ontario, Canada, provided that such facility complies with the specifications outlined within the Supply Agreement.",
+    "contradiction_score": 0.5063185691833496,
+    "kept": true
+  },
+  {
+    "clause_index": 23,
+    "start_char": 5692,
+    "end_char": 5929,
+    "original": "Both Parties acknowledge that at the time of signing this Supply Agreement that the CPDC is subject to a supply restriction to the United States of America (the \u201cUSA\u201d) due to and Import Alert 66-40 (the \u201cImport Alert\u201d) issued by the FDA.",
+    "ollama_generated": "The Parties acknowledge their mutual understanding that at the time of signing this Supply Agreement, the CPDC is currently operating under a self-imposed restriction on supplies to the United States of America (the \"USA\") as a result of an Import Alert 66-40 (the \"Import Alert\") issued by the FDA. This restriction is not enforced by any external regulatory body, but rather it is a voluntary measure taken by the CPDC in response to this Import Alert.",
+    "contradiction_score": 0.002658665180206299,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6373,
+    "end_char": 6662,
+    "original": "\u2022 In the case of [***] the isotope order cut-off is [***] eastern standard time the week prior to isotope delivery Page 2 of 13 CONFIDENTIAL Supply Agreement - FUSION \u2022 In the case of Actinium-225 the isotope order cut-off is [***] eastern standard time the week prior to isotope delivery.",
+    "ollama_generated": "\u2022 It is essential to note that for any isotope orders, including but not limited to Actinium-225, the deadline for submission is [***] eastern standard time, a full week preceding the scheduled isotope delivery. Page 2 of 13 CONFIDENTIAL Supply Agreement - FUSION\n\nHere I have weakened the obligation slightly by changing the phrase \"In the case of\" to \"for any isotope orders,\" which implies that the cut-off time applies to all orders, not just specified ones. Also, I have added \"including but not limited to Actinium-225\" to clarify that this provision applies to other isotopes as well.",
+    "contradiction_score": 0.02143123745918274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 8609,
+    "end_char": 8832,
+    "original": "(c) All costs and responsibility for return shipping of any Products [***] and or re-usable packaging including but not limited to, lead pots, cardboard boxes or foam inserts, and/or other materials shall be borne by [***].",
+    "ollama_generated": "(c) The party receiving the Products [***], hereafter referred to as \"Recipient,\" shall assume responsibility for the shipping costs and arrangements for returning any such Products, as well as reusable packaging materials, including but not limited to, lead pots, cardboard boxes, foam inserts, or other specified materials. The original sender [***] will provide these items at no additional cost to the Recipient when initially shipped, with the understanding that their return is optional and at the sole discretion of the Recipient.",
+    "contradiction_score": 0.3678963780403137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 9886,
+    "end_char": 9894,
+    "original": "Address:",
+    "ollama_generated": "Address Obligation:\n\nResponsible Party shall maintain a valid and up-to-date mailing address for the duration of this Agreement, with the understanding that any notices sent to such address by either party shall be deemed effectively delivered upon receipt. Failure to keep the mailing address current may result in a breach of this Agreement and potential legal consequences.\n\n[Note: This clause shifts some responsibility from both parties to the Responsible Party, making it clear that they are primarily responsible for keeping their mailing address updated.]",
+    "contradiction_score": 0.018318304792046547,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 11174,
+    "end_char": 11751,
+    "original": "3.7 Dispute Over Quality . In the event of a conflict regarding whether or not Product met the Specifications, cGMP standards or other applicable laws, rules or regulations, at the time of delivery, which CPDC and FUSION are unable to resolve after a good faith attempt by both Parties to resolve such matter in a period of [***] after the conflict arises, a sample of such Product shall be submitted by FUSION or its designee to an independent laboratory or quality assurance professional reasonably acceptable to both Parties for testing or review of the batch documentation.",
+    "ollama_generated": "3.7 Disputes Concerning Quality Assessment: In the event that CPDC and Fusion disagree about whether the Product conforms to Specifications, cGMP standards, or any other applicable laws, rules, or regulations at the time of delivery, neither party shall be bound to resolve the dispute immediately. Instead, each party shall have a period of [***] following the emergence of the disagreement to independently investigate and gather evidence related to the dispute. In the event that a resolution is not reached within this period, either party may request that a sample of the Product be submitted by Fusion or its designee to an independent laboratory or quality assurance professional of their own choosing for testing or review of the batch documentation. The cost and responsibility of engaging such third-party expert shall be borne equally by both parties.",
+    "contradiction_score": 0.05036047473549843,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 12307,
+    "end_char": 12397,
+    "original": "4. Additional Obligations of the Parties 4.1 Record Keeping, Inspection, etc . CPDC shall:",
+    "ollama_generated": "4. Modified Obligations of the Parties 4.1 Documentation Management, Review, etc.\n\nParty A (CPDC) may, at its discretion and convenience, maintain records related to the agreement and permit inspections, as required by law or mutually agreed upon, but is under no obligation to proactively seek or provide such information unless otherwise specified in this Agreement or mandated by applicable laws.",
+    "contradiction_score": 0.06863075494766235,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 15393,
+    "end_char": 15778,
+    "original": "4.4 Product Specifications . It is understood that the Specifications may be subject to change from time-to-time based on written agreement by both Parties and in accordance to the Quality Agreement. The current Product Specifications may be referred to within the CPDC controlled document attached as Schedule 2 hereto which is approved at the effective date of this Supply Agreement.",
+    "ollama_generated": "4.4 Modification of Product Specifications: It is acknowledged that either Party reserves the right, with prior written notice, to modify the Product Specifications in accordance with the Quality Agreement. Any such modifications shall supersede the previously approved specifications outlined in the CPDC controlled document attached as Schedule 2 hereto, effective upon the date of this Supply Agreement or as specified in the written notice. In the absence of any express provision to the contrary, the onus shall be on the Party proposing the modification to demonstrate its necessity and compliance with the Quality Agreement.",
+    "contradiction_score": 0.038956139236688614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 15778,
+    "end_char": 16071,
+    "original": "4.5 Changes by CPDC . CPDC shall manufacture Product in compliance with the approved batch records, Specifications, applicable cGMPs, the Quality Agreement, and all applicable laws, rules and regulations, and shall not make any changes contravening that specified within the Quality Agreement.",
+    "modified": "4.5 Changes Initiated by CPDC: CPDC retains the discretion to modify the manufacturing process of the Product in accordance with approved batch records, Specifications, applicable cGMPs, the Quality Agreement, and all relevant laws, rules, and regulations, provided that any proposed changes are first discussed and mutually agreed upon between the parties. CPDC shall bear full responsibility for any deviations from the Quality Agreement resulting from such changes.",
+    "contradiction_score": 0.7747563719749451,
+    "kept": true
+  },
+  {
+    "clause_index": 55,
+    "start_char": 17620,
+    "end_char": 18236,
+    "original": "(a) In the event that CPDC disputes FUSION\u2019S determination that the fault is due to CPDC and/or to its employees or agents, the Parties will select a mutually agreeable outside consulting firm which will be instructed to review the applicable information and data and to confirm or dissent from FUSION\u2019S determination. If the consulting firm confirms FUSION\u2019S determination, CPDC will pay the fees of such consulting firm. If the consulting firm dissents from FUSION\u2019S determination, CPDC will not have the obligations set forth herein with respect to the Recall and FUSION will pay the fees of such consulting firm.",
+    "ollama_generated": "(a) In the event that CPDC challenges FUSION's decision attributing fault to CPDC or its representatives, the Parties will jointly appoint an impartial third-party consultant to assess the situation and render a judgment on FUSION's determination. If the consultant corroborates FUSION's findings, CPDC shall bear the costs of this consultation. Conversely, if the consultant finds against FUSION's determination, CPDC shall be relieved from its obligations concerning the Recall, and FUSION will cover the fees associated with the consulting service.",
+    "contradiction_score": 0.3562919497489929,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 27251,
+    "end_char": 27511,
+    "original": "Page 8 of 13 CONFIDENTIAL Supply Agreement - FUSION (c) Shall relieve CPDC of its Exclusivity and Performance of Work obligations set forth in the Master Services Agreement sections 3 and 4 respectively, unless, other work orders under the MSA are still valid.",
+    "ollama_generated": "Page 8 of 13 CONFIDENTIAL Supply Agreement - FUSION (c) CPDC may elect to be released from its obligations of exclusivity and performance as set forth in the Master Services Agreement sections 3 and 4, respectively, provided that no current work orders under the MSA remain valid. (This clause allows CPDC the option to terminate their exclusivity and performance obligations under the Master Services Agreement, but only if there are no active work orders under the agreement at the time.)",
+    "contradiction_score": 0.007386900018900633,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 27707,
+    "end_char": 27924,
+    "original": "8. Survival . Any provision of this Supply Agreement, which, by its terms, is intended to survive the termination or expiration of this Supply Agreement, shall survive such termination or expiration of this Agreement.",
+    "ollama_generated": "8. Persistence . Any provision of this Supply Agreement that, in its essence, continues to be applicable beyond the conclusion or lapse of this Supply Agreement, shall remain in effect post the cessation or expiry of this Agreement, unless otherwise stated or agreed upon by both parties in writing.\n\nIn this revised clause, I've attempted to maintain a similar tone but have shifted the responsibility to both parties for any provisions that are intended to persist beyond the agreement's termination or expiration. This change can be seen in the use of \"unless otherwise stated or agreed upon by both parties in writing.\"",
+    "contradiction_score": 0.3716369569301605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 27924,
+    "end_char": 28930,
+    "original": "9. Assignment . This Agreement shall inure to the benefit of and be binding upon the successors and assigns of the Parties hereto\u037e provided, however,  that neither Party shall transfer or assign this Agreement without the prior written consent of the other Party, such consent not to be unreasonably withheld, except where such assignment is by CPDC to any successor or subsidiary organization created within [***] of the Effective Date of this Agreement, which assignment may be completed without the prior written consent of FUSION. Notwithstanding the foregoing, each Party may assign this Agreement and its rights and obligations hereunder without such consent in connection with the transfer or sale of all or substantially all of the business of such Party to which this Agreement relates, whether by merger, sale of stock, sale of assets or otherwise, provided the assignee agrees in writing with the other Party hereto to assume all obligations and liabilities of the assignor under this Agreement.",
+    "ollama_generated": "9. Assignment. This Agreement shall benefit and be enforceable against the successors and assignees of the Parties herein, subject to the provision that either Party may transfer or assign this Agreement without the need for the prior written consent of the other Party, such consent being presumed to have been granted unless stated otherwise, except where such assignment is by FUSION to any entity outside of a successor or subsidiary organization established within [***] of the Effective Date of this Agreement. CPDC reserves the right to assign this Agreement without the prior written consent of Fusion in the event of a transfer or sale of all or substantially all of its business, whether by merger, sale of assets, or otherwise, provided that the transferee does not assume any obligations or liabilities under this Agreement without the mutual agreement in writing between the Parties.",
+    "contradiction_score": 0.2564646303653717,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 30145,
+    "end_char": 31460,
+    "original": "10.2 By FUSION . FUSION shall defend, indemnify and hold CPDC and Its Affiliates, and each of their respective directors, officers and employees, harmless from and against any and all Losses incurred by CPDC in connection with of any Claim by a third party (excluding CPDC\u2019s Affiliates), to the extent such Losses arise out of: (a) except to the extent arising from the failure of the Product to conform to the Specifications, the use or sale of the Product by FUSION, its Affiliates, sublicensees, distributors, agents or other parties\u037e (b) except to the extent arising from the failure of the Product to conform to the Specifications, the manufacture, storage, use, handling, promotion, marketing, distribution, importation, sale or offering for sale of Product\u037e (c) interactions and communications with governmental authorities, physicians or other third parties\u037e or (d) FUSION\u2019S breach of this Agreement, including without limitation any of its representations and warranties set forth in Section 5.1, (e) the gross negligence or intentional misconduct of FUSION or any of its Affiliates, or any of their respective directors, officers, employees, provided FUSION will not have an indemnification obligation with respect to any Claim to the extent that CPDC has an indemnification obligation under Section 10.1.",
+    "modified": "10.2 It is CPDC's responsibility to defend, indemnify, and hold FUSION and Its Affiliates, along with each of their respective directors, officers, and employees, harmless from and against any and all Losses incurred by FUSION, arising from: (a) the use or sale of the Product by CPDC, its Affiliates, sublicensees, distributors, agents, or other parties, except for losses resulting from the failure of the Product to conform to the Specifications; (b) the manufacture, storage, use, handling, promotion, marketing, distribution, importation, sale, or offering for sale of Product by CPDC, except for losses resulting from the failure of the Product to conform to the Specifications; (c) interactions and communications with governmental authorities, physicians, or other third parties; (d) CPDC's breach of this Agreement, including but not limited to any of its representations and warranties set forth in Section 5.1; (e) the gross negligence or intentional misconduct of CPDC or any of its Affiliates, or any of their respective directors, officers, employees, with the exception that FUSION will bear indemnification responsibility for any Claim to the extent that FUSION does not have an indemnification obligation under Section 10.1 where CPDC has such an obligation under the same section.",
+    "contradiction_score": 0.974982738494873,
+    "kept": true
+  },
+  {
+    "clause_index": 86,
+    "start_char": 31729,
+    "end_char": 32898,
+    "original": "11.1 GENERAL . EXCEPT FOR DAMAGES FOR WHICH A PARTY IS RESPONSIBLE PURSUANT TO ITS INDEMNIFICATION OBLIGATIONS SET FORTH IN SECTION 10 ABOVE, EACH PARTY SPECIFICALLY DISCLAIMS ALL LIABILITY FOR AND SHALL IN NO EVENT BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, EXPENSES, LOST PROFITS, LOST SAVINGS, INTERRUPTIONS OF BUSINESS OR OTHER DAMAGES OF ANY KIND OR CHARACTER WHATSOEVER ARISING OUT OF OR RELATED TO THIS AGREEMENT OR RESULTING FROM THE MANUFACTURE, HANDLING. MARKETING, SALE, DISTRIBUTION OR USE OF LICENSED PRODUCT REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF SUCH PARTY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FUSION SHALL HAVE NO REMEDY, AND CPDC SHALL HAVE NO LIABILITY, OTHER THAN AS EXPRESSLY SET FORTH IN THIS AGREEMENT. EXCEPT FOR DAMAGES FOR WHICH A PARTY IS RESPONSIBLE PURSUANT TO ITS INDEMNIFICATION OBLIGATIONS SET FORTH IN SECTION 10 ABOVE, NO ACTION, REGARDLESS OF FORM, ARISING OUT OF OR RELATED TO THIS AGREEMENT MAY BE BROUGHT BY EITHER PARTY MORE THAN [***] AFTER SUCH PARTY HAS KNOWLEDGE OF THE OCCURRENCE THAT GAVE RISE TO THE CAUSE OF SUCH ACTION.",
+    "ollama_generated": "11.1 GENERAL . In no event shall either Party (Fusion or CPDC) be held liable for any direct, indirect, incidental, special, consequential, punitive, exemplary, or aggravated damages, expenses, lost profits, lost savings, business interruptions, or other losses of any kind or character whatsoever arising out of or relating to this Agreement, the manufacture, handling, marketing, sale, distribution, or use of the Licensed Product. This limitation of liability applies regardless of the form of action, whether in contract, tort (including negligence), strict liability, or otherwise.\n\nIn the event that a Party is responsible for damages pursuant to its indemnification obligations set forth in Section 10 above, such limitations shall not apply. Neither Fusion nor CPDC shall have any remedy, and neither shall have any greater liability than as expressly set forth in this Agreement.\n\nWithout limiting the generality of the foregoing, no action, regardless of form, arising out of or related to this Agreement may be brought by either Party more than [***] after such party has knowledge of the occurrence that gave rise to the cause of such action.",
+    "contradiction_score": 0.13390521705150604,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 32898,
+    "end_char": 33137,
+    "original": "11.2 CPDC MAXIMUM LIABILITY . NOTWITHSTANDING ANY OTHER TERM HEREIN, OR ANY TERM OF THE MASTER SERVICES AGREEMENT . CPDC\u2019S MAXIMUM LIABILITY TO FUSION UNDER THIS SUPPLY AGREEMENT FOR ANY REASON WHATSOEVER, INCLUDING, WILL NOT EXCEED [***].",
+    "ollama_generated": "11.2 CPDC'S LIMITATION OF LIABILITY . Regardless of any other term contained herein or in the Master Services Agreement, Fusion acknowledges and accepts that CPDC's total liability under this Supply Agreement, for any reason whatsoever, shall be limited to an amount equal to [***].\n\nIn this revised clause, I have shifted the responsibility from CPDC limiting their liability to Fusion accepting the limitation of CPDC's liability. This alteration maintains a professional and realistic tone while changing the obligation slightly.",
+    "contradiction_score": 0.003788863541558385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 36908,
+    "end_char": 37554,
+    "original": "18. Headings and References . The descriptive headings of this Agreement are for convenience only and shall be of no force or effect in construing or interpreting any of the provisions of this Agreement. The terms \u201cthis Agreement\u201d, \u201chereof, \u201chereunder\u201d and similar expressions refer to this Agreement and not to any particular Sections, subsection or other portion hereof, and include any agreement supplemental hereto. Unless something in the subject matter or context is inconsistent therewith, references herein to Sections, subsections, paragraphs, subparagraphs and further subdivisions are references to such subdivisions of this Agreement.",
+    "ollama_generated": "18. Heading and Cross-References:\nThe headings used within this Agreement are solely for ease of navigation and hold no legal weight in the interpretation or construction of its contents. Terms such as \"this Agreement\", \"herein\", \"hereof\", and their derivatives do not pertain to specific sections, subsections, or other parts of this agreement; rather, they encompass the entirety of this document, including any accompanying agreements. References made herein to Sections, subsections, paragraphs, and subparagraphs are relative to the larger structure of this Agreement, unless explicitly specified otherwise. In cases where context does not contradict, references to subdivisions within this Agreement refer to those particular subdivisions.",
+    "contradiction_score": 0.1745690256357193,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 38452,
+    "end_char": 38825,
+    "original": "21. Definitions . Any definitions contained in this Agreement shall include any necessarily corresponding definitions as the context may require. Any capitalized or otherwise defined term used in this Agreement shall have the meaning ascribed in this Agreement regardless of whether such meaning is ascribed earlier or later in this document than the reference in question.",
+    "modified": "21. Interpretation. For purposes of this Agreement, any terms or expressions defined herein shall carry their respective meanings throughout the entire document, irrespective of where such definitions may appear. In case of ambiguity or lack of definition, a corresponding term used elsewhere in the Agreement will be deemed to have the same meaning as provided in this Agreement.",
+    "contradiction_score": 0.7206296920776367,
+    "kept": true
+  }
+]

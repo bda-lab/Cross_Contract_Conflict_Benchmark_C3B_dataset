@@ -1,0 +1,140 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 154,
+    "end_char": 1100,
+    "original": "GAS TRANSPORTATION  AGREEMENT (For Use under FT-A Rate  Schedule) THIS AGREEMENT is made and entered into as of the 1st day of November, 2002, by and between TENNESSEE GAS PIPELINE COMPANY, a  Delaware Corporation, hereinafter referred to as \u201cTransporter\u201d and LOUISVILLE  GAS AND ELECTRIC COMPANY, a Kentucky Corporation, hereinafter referred to as  \u201cShipper.\u201d  Transporter and Shipper  shall collectively be referred to herein as the \u201cParties.\u201d ARTICLE  I \u2013 DEFINITIONS 1.1 TRANSPORTATION QUANTITY  \u2013 shall mean the maximum daily quantity of gas which Transporter agrees to  receive and transport on a firm basis, subject to Article II herein, for the  account of Shipper hereunder on each day during each year during the term  hereof, which shall be 51,000 dekatherms.  Any limitations on the quantities to be received from each Point of  Receipt and/or delivered to each Point of Delivery shall be as specified on  Exhibit \u201cA\u201d attached hereto.",
+    "modified": "GAS TRANSPORTATION AGREEMENT (For Use under FT-A Rate Schedule)\n\n THIS AGREEMENT is made and entered into as of the 1st day of November, 2002, by and between TENNESSEE GAS PIPELINE COMPANY, a Delaware Corporation, hereinafter referred to as \u201cTransporter,\u201d and LOUISVILLE GAS AND ELECTRIC COMPANY, a Kentucky Corporation, hereinafter referred to as \u201cShipper.\u201d Transporter and Shipper shall collectively be referred to herein as the \u201cParties.\u201d\n\n ARTICLE I \u2013 DEFINITIONS\n\n 1.1 TRANSPORTATION QUANTITY - shall mean the minimum daily quantity of gas that Transporter is contractually obliged to receive and transport, subject to Article II herein, for the account of Shipper hereunder on each day during each year during the term of this Agreement, which shall be 51,000 dekatherms. Any limitations on the quantities to be received from each Point of Receipt and/or delivered to each Point of Delivery shall be as specified on Exhibit \u201cA\u201d attached hereto.\n\nThe main changes in this clause are:\n- The quantity is now a minimum instead of a maximum.\n- The obligation has been strengthened, making Transporter contractually obliged to transport the stated quantity (instead of agreeing to).",
+    "contradiction_score": 0.6098994612693787,
+    "kept": true
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1627,
+    "end_char": 1784,
+    "original": "ARTICLE III \u2013 POINT(S) OF  RECEIPT AND DELIVERY The Primary Point(s) of Receipt and Delivery shall be those points  specified on Exhibit \u201cA\u201d attached hereto.",
+    "ollama_generated": "ARTICLE III \u2013 POINT(S) OF RECEIPT AND DELIVERY\nThe Recipient may designate additional Points of Receipt, and it is understood that the Seller shall make reasonable efforts to accommodate such designations, provided that these points do not materially alter the terms of this Agreement. The Primary Point(s) of Delivery shall remain as specified on Exhibit \u201cA\u201d attached hereto, unless otherwise mutually agreed upon by the Parties in writing.",
+    "contradiction_score": 0.19703884422779083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 4772,
+    "end_char": 5712,
+    "original": "Transporter and Shipper  may agree that a specified discounted rate will apply only to specified volumes  (MDQ, TQ, commodity volumes, Extended Receipt and Delivery Service Volumes or  Authorized Overrun volumes) under the Agreement\u037e that a specified discounted  rate will apply only if specified volumes are achieved (with the maximum rates  applicable to volumes above the specified volumes or to all volumes if the  specified volumes are never achieved)\u037e that a specified discounted rate will  apply only during specified periods of the year or over a specifically defined  period of time\u037e and/or that a specified discounted rate will apply only to  specified points, zones, markets or other defined geographical area.  Transporter and Shipper may agree to a  specified discounted rate pursuant to the provisions of this Section 6.1  provided that the discounted rate is between the applicable maximum and minimum  rates of this service.",
+    "ollama_generated": "The Parties may mutually decide that a designated reduced rate shall be applicable exclusively to certain specified volumes (MDQ, TQ, commodity volumes, Extended Receipt and Delivery Service Volumes or Authorized Overrun volumes) as per the Agreement; however, this reduced rate shall only take effect if the agreed-upon volumes are consistently surpassed. In such cases, the standard rates shall apply to any volumes exceeding the specified volumes, or to all volumes if the specified volumes are never attained. The reduced rate may be applicable during stipulated periods of the year, over a specifically demarcated period of time, and/or to particular points, zones, markets, or other defined geographical areas. The Parties may establish a specified reduced rate in accordance with the provisions of this Section 6.1, but only if the reduced rate falls within the permitted range between the applicable maximum and minimum rates for this service. If no agreed-upon volumes are surpassed, the standard rates shall apply throughout the term of the Agreement.",
+    "contradiction_score": 0.003230686765164137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 7902,
+    "end_char": 8025,
+    "original": "9.2 The transportation  service described herein shall be provided subject to Subpart G, Part 284 of  the FERC Regulations.",
+    "ollama_generated": "9.2 The provision of the transportation service detailed hereunder is contingent upon our compliance with Subpart G, Part 284 of the FERC Regulations; any non-compliance shall be solely at our discretion and risk.",
+    "contradiction_score": 0.003601228119805455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 9866,
+    "end_char": 10289,
+    "original": "12.2 Any portions of this  Agreement necessary to resolve or cash out imbalances under this Agreement as  required by the General Terms and Conditions of Transporter\u2019s Tariff shall  survive the other parts of this Agreement until such time as such balancing has  been accomplished\u037e provided, however, that Transporter notifies Shipper of such  imbalance not later than twelve months after the termination of this Agreement.",
+    "ollama_generated": "12.2 Should any aspects of this Agreement be necessary for resolving or monetizing discrepancies as stipulated by the General Terms and Conditions of Transporter\u2019s Tariff, such terms shall persist until the balancing process is complete. Notably, however, Transporter's obligation to notify Shipper of any such imbalance will extend no later than twelve months following the termination of this Agreement, at which point these remaining provisions shall cease to apply.",
+    "contradiction_score": 0.0014788920525461435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10289,
+    "end_char": 10612,
+    "original": "12.3 This Agreement will  terminate automatically upon written notice from Transporter in the event  Shipper fails to pay all of the amount of any bill for service rendered by  Transporter hereunder in accord with the terms and conditions of Article VI of  the General Terms and Conditions of Transporter\u2019s FERC Gas Tariff.",
+    "ollama_generated": "12.3 The continuation of this Agreement relies on the consistent payment compliance from Shipper regarding bills for services provided by Transporter, in accordance with the stipulations outlined within Article VI of the General Terms and Conditions of Transporter\u2019s FERC Gas Tariff. Should Transporter deem it necessary to issue a written notice due to Shipper's delinquency in payment, this Agreement may be terminated at Transporter's discretion.",
+    "contradiction_score": 0.013461758382618427,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10612,
+    "end_char": 10875,
+    "original": "ARTICLE XIII \u2013 NOTICE Except as otherwise provided in the General Terms and Conditions  applicable to this Agreement, any notice under this Agreement shall be in writing and mailed to the post office address of the Party intended to receive  the same, as follows:",
+    "modified": "ARTICLE XIII - NOTICES\n\nIn contrast to the General Terms and Conditions governing this Agreement, any notice to be made under this contract may be delivered electronically via email to the email address of the receiving Party, provided that such Party has previously consented to electronic communication. If no prior consent exists, then written notice shall still be considered valid if it is sent by registered mail to the post office address of the intended recipient.",
+    "contradiction_score": 0.6900961995124817,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 10875,
+    "end_char": 11014,
+    "original": "TRANSPORTER: Tennessee Gas Pipeline Company P. O. Box 2511 Houston, Texas  77252-2511 Attention:  Director, Transportation Control SHIPPER:",
+    "ollama_generated": "SHIPPER: [Your Company Name]\n                      [Your Company Address]\n                      Attn: Logistics Department\n\nTRANSPORTER: Tennessee Gas Pipeline Company\n                       P. O. Box 2511, Houston, Texas  77252-2511\n                       Attention: Director, Transportation Control\n\nIn the event of any dispute arising out of or in connection with this agreement, SHIPPER shall have the discretion to initiate a resolution process by providing written notice to TRANSPORTER. The burden of resolving such disputes shall then fall upon TRANSPORTER, and failure on their part to do so within a reasonable timeframe may be deemed as an acceptance of the dispute and its resolution in favor of SHIPPER, without any further action or liability on the part of SHIPPER.",
+    "contradiction_score": 0.2886635959148407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 12570,
+    "end_char": 12892,
+    "original": "15.2 If any provision of this  Agreement is declared null and void, or voidable, by a court of competent  jurisdiction, then that provision will be considered severable at either  Party\u2019s option\u037e and if the severability option is exercised, the remaining  provisions of the Agreement shall remain in full force and effect.",
+    "ollama_generated": "15.2 In the event that any provision within this Agreement is deemed invalid or unenforceable by a court of competent jurisdiction, the affected provision shall be deemed excised from the Agreement without affecting the validity or enforceability of the remaining provisions. The non-affected portions of this Agreement shall continue in full force and effect as if such excised provision were never included.",
+    "contradiction_score": 0.09104489535093307,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 12892,
+    "end_char": 13258,
+    "original": "15.3 Unless otherwise  expressly provided in this Agreement or Transporter\u2019s FERC Gas Tariff, no  modification of or supplement to the terms and provisions stated in this  Agreement shall be or become effective until Shipper has submitted a request  for change through PASSKEY and Shipper has been notified through PASSKEY of Transporter\u2019s  agreement to such change.",
+    "ollama_generated": "15.3 Any modification or supplement to the terms and provisions as stated in this Agreement may be proposed by either Party, without prior written consent, using PASSKEY. However, such changes shall not take effect unless expressly agreed upon in writing by both Parties via PASSKEY. Until then, the initial terms of this Agreement shall remain binding.",
+    "contradiction_score": 0.10804138332605362,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 14652,
+    "end_char": 14757,
+    "original": "Note: Exhibit \u201cA\u201d is a reflection of the contract  and all amendments as of the amendment effective date.",
+    "ollama_generated": "Note: For purposes of this Agreement, Exhibit \"A\" shall serve as a snapshot of the contract at the time of each amendment's effective date, capturing the contract's state as amended up to that point in time.\n\n(Explanation: The original clause provides a static representation of the contract and its amendments from their effective dates onwards. In the rewritten version, the snapshot includes only the state of the contract up until each amendment's effective date, implying that any subsequent changes made after the effective date are not included in Exhibit \"A\". This slight modification weakens the representation of the contract and makes it more dynamic.)",
+    "contradiction_score": 0.37194743752479553,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 15021,
+    "end_char": 15794,
+    "original": "BUYOUT PERIOD(S)  November  1, 2007 through October 31, 2012 AMOUNT OF TQ REDUCED 51,000  Dth FOR PERIOD(S) AMOUNT OF  $0.00 BUYOUT PAYMENT FOR PERIOD(S) ANY LIMITATIONS ON THE EXERCISE OF THE BUYOUT/TERMINATION OPTION AS BID BY THE SHIPPER: Shipper must notify Transporter on or before October 31,  2006 of its intent to terminate the attached service agreement.  Such termination shall become effective as  of November 1, 2007.  Notwithstanding  the foregoing, if at any time Tennessee terminates the July 8, 2002, Negotiated  Rate Agreement between Tennessee and Shipper for any reason, Shipper shall have  the unilateral right to notify Tennessee of its intent to terminate this  Agreement effective sixty days after the referenced Negotiated Rate Agreement terminates.",
+    "ollama_generated": "TERMINATION OPTION PERIODS: November 1, 2007 to October 31, 2012\n   REDUCTION IN AMOUNT OF TQ: 51,000 (no reduction during these periods)\n   TERMINATION PAYMENT FOR PERIODS: $0.00 (no payment required during these periods)\n   ANY RESTRICTIONS ON THE EXERCISE OF THE TERMINATION OPTION BY SHIPPER: Transporter must be notified by Shipper, on or before October 31, 2006, of its intention to exercise the termination option regarding the attached service agreement. This termination shall take effect as of November 1, 2007. However, should Tennessee unilaterally terminate the July 8, 2002, Negotiated Rate Agreement with Shipper for any reason, Transporter will be required to abide by Shipper's sixty-day notice of its intention to terminate this Agreement, effective from the day the referenced Negotiated Rate Agreement is terminated.\n\nIn this revised clause, the Shipper now has the power to require the Transporter to abide by a sixty-day notice if Tennessee unilaterally terminates the July 8, 2002, Negotiated Rate Agreement for any reason. This means the responsibility for complying with the termination notice shifts from the Shipper to the Transporter in such cases.",
+    "contradiction_score": 0.4726704955101013,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 15939,
+    "end_char": 16203,
+    "original": "GAS TRANSPORTATION  AGREEMENT (For Use under FT-A Rate  Schedule) EXHIBIT \u201cB\u201d TO GAS TRANSPORTATION  AGREEMENT DATED November 1, 2002 BETWEEN TENNESSEE GAS PIPELINE  COMPANY LOUISVILLE GAS AND  ELECTRIC COMPANY BUYOUT/EARLY TERMINATION PROVISIONS* SERVICE PACKAGE:",
+    "ollama_generated": "GAS TRANSPORTATION AGREEMENT (For Use under FT-A Rate Schedule) EXHIBIT \u201cB\u201d TO GAS TRANSPORTATION AGREEMENT DATED November 1, 2002 BETWEEN TENNESSEE GAS PIPELINE COMPANY LOUISVILLE GAS AND ELECTRIC COMPANY BUYOUT/EARLY TERMINATION PROVISIONS* SERVICE PACKAGE:\n\n*In the event that either party desires to terminate this Agreement early, the non-terminating party shall have the obligation to pay compensatory damages to the terminating party for any lost profits or additional costs incurred as a result of such early termination. However, if the terminating party can demonstrate that unforeseen circumstances or force majeure events have caused the need for such termination, the non-terminating party shall not be obligated to make such payment.*\n\nIn this revised clause, the obligation to pay compensatory damages in case of early termination by either party has been weakened. Now, if the terminating party can prove unforeseen circumstances or force majeure events, the non-terminating party will not be obligated to make such a payment. This modification provides more flexibility and potentially mitigates financial risk for the non-terminating party in certain situations.",
+    "contradiction_score": 0.07595354318618774,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 16203,
+    "end_char": 16977,
+    "original": "BUYOUT PERIOD(S)  November  1, 2007 through October 31, 2012 AMOUNT OF TQ REDUCED 51,000  Dth FOR PERIOD(S) AMOUNT OF  $0.00 BUYOUT PAYMENT FOR PERIOD(S) ANY LIMITATIONS ON THE EXERCISE OF THE BUYOUT/TERMINATION OPTION AS BID BY THE SHIPPER: Shipper must notify Transporter on or before October 31,  2006 of its intent to terminate the attached service agreement.  Such termination shall become effective as  of November 1, 2007.  Notwithstanding  the foregoing, if at any time Tennessee terminates the July 8, 2002, Negotiated  Rate Agreement between Tennessee and Shipper for any reason, Shipper shall have  the unilateral right to notify Tennessee of its intent to terminate this  Agreement effective sixty days after the referenced Negotiated Rate Agreement  terminates.",
+    "ollama_generated": "BUYOUT PERIOD(S)  November  1, 2007 through October 31, 2012 AMOUNT OF TQ REDUCED 51,000  Dth FOR PERIOD(S) AMOUNT OF  $0.00 BUYOUT PAYMENT FOR PERIOD(S)\n\nAny LIMITATIONS ON THE EXERCISE OF THE BUYOUT/TERMINATION OPTION BY TRANSPORTER: Transporter has the obligation to notify Shipper, in writing, of its intent to terminate this Agreement at least 60 days prior to the intended termination date. Any such termination shall take effect on the date specified by Transporter, which must be on or after November 1, 2017. However, if Tennessee terminates the July 8, 2002, Negotiated Rate Agreement between Tennessee and Shipper for any reason, Transporter shall have no right to exercise this termination option without Shipper's consent. Instead, Shipper retains the unilateral right to terminate this Agreement effective immediately upon Tennessee's termination of the aforementioned Negotiated Rate Agreement.\n\nIn essence, the rewritten clause shifts the responsibility for terminating the agreement from the Shipper to the Transporter, subject to certain conditions and with the additional provision that the Shipper can terminate the agreement if Tennessee terminates their negotiated rate agreement without the Shipper's consent.",
+    "contradiction_score": 0.3328395485877991,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

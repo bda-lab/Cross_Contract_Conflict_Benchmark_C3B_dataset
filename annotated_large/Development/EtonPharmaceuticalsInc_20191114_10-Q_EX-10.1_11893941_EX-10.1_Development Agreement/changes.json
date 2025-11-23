@@ -1,0 +1,360 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 203,
+    "original": "Exhibit 10.1 Certain information identified by bracketed asterisks ([ * * * ]) has been omitted from this exhibit because it is both not material and would be competitively harmful if publicly disclosed.",
+    "modified": "Exhibit 10.1: Information enclosed within bracketed asterisks ([***]) has been intentionally redacted in this exhibit, as its disclosure could potentially provide a competitive advantage and does not significantly impact the overall substance of the document.",
+    "contradiction_score": 0.7433714270591736,
+    "kept": true
+  },
+  {
+    "clause_index": 1,
+    "start_char": 203,
+    "end_char": 667,
+    "original": "EXCLUSIVE LICENSE AND PRODUCT DEVELOPMENT AGREEMENT THIS EXCLUSIVE LICENSE AND PRODUCT DEVELOPMENT AGREEMENT (this \u201c Agreement \u201d) is entered into as of June 12, 2019 (the \u201cExecution Date \u201d) by and between Eton Pharmaceuticals, Inc., a Delaware corporation with offices at 21925 W. Field Pkwy, Suite 235, Deer Park, Illinois, USA (\u201c ETON \u201d), and Aucta Pharmaceuticals, Inc., a Delaware corporation with offices at 71 Suttons Lane, Piscataway, NJ 08854 (\u201c Aucta \u201d) .",
+    "ollama_generated": "NON-EXCLUSIVE CONSULTING AND PRODUCT INNOVATION AGREEMENT\n\nThis NON-EXCLUSIVE Consulting and Product Innovation Agreement (hereinafter referred to as this \"Agreement\") is entered into on June 12, 2019 (the \"Effective Date\"), by and between Aucta Pharmaceuticals, Inc., a Delaware corporation with offices at 71 Suttons Lane, Piscataway, NJ 08854 (\"Aucta\"), and Eton Pharmaceuticals, Inc., a Delaware corporation with offices at 21925 W. Field Pkwy, Suite 235, Deer Park, Illinois, USA (\"ETON\").\n\nIn this Agreement, Aucta grants ETON the right to consult on a non-exclusive basis and collaborate in product innovation, rather than granting exclusive rights as stated in the original clause. This change allows both parties more freedom to engage in similar activities with other entities, while still maintaining their partnership for specified projects under this Agreement.",
+    "contradiction_score": 0.02936409041285515,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1600,
+    "end_char": 1915,
+    "original": "NOW, THEREFORE , in consideration of the foregoing premises and the representations, warranties, covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, ETON and Aucta, intending to be legally bound, hereby agree as follows:",
+    "ollama_generated": "HEREBY, IN CONSIDERATION of the stipulations preceding this agreement, the representations, warranties, promises, and undertakings herein enumerated, as well as other valuable considerations, ETON and Aucta, each willing to be bound by law, hereby consent as follows:\n\nIn the event that any claims or disputes arise between the parties, Eton shall have the discretion to resolve such matters through mediation or arbitration, rather than litigation. The parties acknowledge and accept this option, recognizing the potential benefits of a more expedient and cost-effective resolution process.\n\nThe above modification aims to shift responsibility for resolving disputes from litigation to alternative dispute resolution methods like mediation or arbitration. This change is intended to streamline dispute resolution processes, potentially saving time and resources for both parties.",
+    "contradiction_score": 0.0009313526679761708,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1935,
+    "end_char": 2072,
+    "original": "For the purposes of this Agreement, the following terms whether used in singular or plural form shall have the meanings as defined below:",
+    "ollama_generated": "In accordance with the provisions of this Contract, the subsequent definitions apply to any instance of the specified terms, regardless of their number:\n\n[Definitions would go here]\n\nHowever, it's essential to note that while these definitions serve as guidelines for interpretation, they may not be exhaustive or strictly limiting. The context and circumstances under which the terms are used shall also be considered in the event of any disputes or ambiguities regarding their meaning.",
+    "contradiction_score": 0.014714525081217289,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2550,
+    "end_char": 3036,
+    "original": "Source: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019 CONFIDENTIAL 1.3 \u201cApplicable Law \u201d means the applicable laws, rules, regulations, guidelines and requirements of any Governmental Entity related to the development, registration, manufacture, importation, commercialization of the Products in the Territory, the manufacture in and export from the Territory of Manufacture, or any obligation under, or related to, this Agreement, including those obligations applicable to the Dossiers.",
+    "ollama_generated": "Clause:\nNew Designation: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019 CONFIDENTIAL 1.3 \"Relevant Regulations\" denotes the pertinent statutes, directives, standards, and stipulations imposed by any Regulatory Body that governs the development, approval, production, distribution, marketing of the goods within the Jurisdiction, as well as the manufacturing in and exportation from the Manufacturing Site, or any regulation concerning this Agreement, or any obligations derived from, or linked to, this Agreement, including those applicable to the Dossiers. However, it is expressly understood that Eton Pharmaceuticals, Inc. shall not be held responsible for any changes or updates in the Relevant Regulations after the effective date of this Agreement unless explicitly specified within this Agreement.",
+    "contradiction_score": 0.03145003691315651,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3036,
+    "end_char": 3470,
+    "original": "1.4 \u201cAucta Background Intellectual Property \u201d means any and all patents and trademarks, patent and trademark applications or other patent and trademark rights, copyrights, inventions, know-how, trade secrets, proprietary knowledge, data, formulations, product specifications and other information owned, licensed to or controlled by Aucta relating to the Products, including but not limited to use, manufacture, and packaging thereof.",
+    "ollama_generated": "1.4 \"Aucta Proprietary Information\" encompasses any and all patents, trademarks, patent and trademark applications, or other patent and trademark rights, copyrights, inventions, know-how, trade secrets, proprietary knowledge, data, formulations, product specifications, and other information that are either owned by Aucta or licensed to Aucta, which may be utilized, manufactured, packaged, or otherwise associated with the Products, but without any exclusive limitation to these specific uses. This term does not automatically grant a license for third parties to use, reproduce, or distribute such proprietary information without Aucta's prior written consent.",
+    "contradiction_score": 0.19206535816192627,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3863,
+    "end_char": 3987,
+    "original": "1.8 \u201cCalendar Quarter \u201d means a three (3) consecutive month period ending on March 31, June 30, September 30 or December 31.",
+    "modified": "1.8 \"Calendar Quarter\" denotes a span of three (3) consecutive months, concluding on May 31st, August 31st, November 30th, or February 28th (in non-leap years).\n\nThis revision changes the end dates of each quarter to create a slight shift in the reporting timeline. The original clause ended quarters on key fiscal dates (March 31, June 30, September 30, and December 31), whereas this revised version ends them on the last day of the third month of each quarter, providing a more even distribution of time periods throughout the year.",
+    "contradiction_score": 0.8820084929466248,
+    "kept": true
+  },
+  {
+    "clause_index": 17,
+    "start_char": 4638,
+    "end_char": 4739,
+    "original": "1.12 \u201cEffective Date \u201d shall have the meaning ascribed to the term in Section 11.1 of this Agreement.",
+    "ollama_generated": "1.12 \"Effective Date\" shall be deemed as referred to in the definition provided within Section 11.1 of this Contract.\n\n(In this revised clause, the original meaning remains but the word \"have the meaning ascribed to\" has been replaced by \"deemed as referred to,\" subtly shifting the emphasis towards interpretation rather than direct attribution of meaning.)",
+    "contradiction_score": 0.1817571371793747,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 5100,
+    "end_char": 5243,
+    "original": "Source: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019 CONFIDENTIAL 1.16 \u201cGMP \u201d means current good manufacturing practices as defined by the FDA.",
+    "modified": "Clause:\nNew Meaning: Shifts responsibility from Eton Pharmaceuticals, Inc. to a potential third party; defines \"GMP\" as outdated good manufacturing practices as defined by the FDA.\n\nETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019 CONFIDENTIAL\n1.16 \"GMP\" refers to outdated good manufacturing practices as specified by the FDA, the responsibility for which may be delegated to a third party.",
+    "contradiction_score": 0.9293861985206604,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 6087,
+    "end_char": 6196,
+    "original": "1.22 \u201cIntellectual Rights Suit\u201d shall have the meaning ascribed to the term in Section 7.4 of this Agreement.",
+    "ollama_generated": "1.22 The term \"Intellectual Rights Dispute\" shall be interpreted as defined in Section 7.4 of this Agreement. In the event that such dispute arises, it shall be the responsibility of the parties to endeavor, in good faith and in a timely manner, to resolve the matter through mutual negotiation or other appropriate means before pursuing any formal legal action.",
+    "contradiction_score": 0.29161086678504944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 8434,
+    "end_char": 8536,
+    "original": "1.28 \u201cPayment Period \u201d shall have the meaning ascribed to the term in Section 6.3.7 of this Agreement.",
+    "ollama_generated": "1.28 The term \"Payment Period\" is defined as set forth in Section 6.3.7 of this Agreement, which serves as a guide for our mutual understanding but does not strictly obligate either party to adhere to an exact timeline for payments.\n\nExplanation: This revised clause weakens the obligation of both parties to adhere strictly to the payment period defined in Section 6.3.7. It acknowledges that the term provides a guideline for understanding, but it does not bind either party to meet the payment deadline exactly.",
+    "contradiction_score": 0.023713501170277596,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 8536,
+    "end_char": 8848,
+    "original": "1.29 \u201cPerson \u201d means any individual, partnership (general or limited), association, corporation, limited liability company, joint venture, trust, estate, limited liability partnership, unincorporated organization, government (or any agency or political subdivision thereof) or other legal person or organization.",
+    "modified": "1.29 \"Covered Party\" encompasses any entity, including but not limited to an individual, partnership (general or limited), association, corporation, limited liability company, joint venture, trust, estate, limited liability partnership, unincorporated organization, government (or any department, agency, or subdivision thereof), or other recognized legal person or entity. Notably, this definition excludes the Contracting Parties from being considered as Covered Parties for the purposes of this Agreement.",
+    "contradiction_score": 0.858074963092804,
+    "kept": true
+  },
+  {
+    "clause_index": 36,
+    "start_char": 8962,
+    "end_char": 9316,
+    "original": "1.31 \u201cProduct \u201d or \u201c Products \u201d means a product or products set forth in Exhibit A for Marketing by or for ETON in the Territory (and covered or intended to be covered by a Dossier) and manufactured and supplied by Aucta (or a Third Party as permitted by this Agreement) to ETON in fully packaged and labeled form and ready for commercialization by ETON.",
+    "ollama_generated": "1.31 \"Product\" or \"Products\" shall refer to any product or products listed in Exhibit A, which may be marketed by or on behalf of ETON within the defined Territory (and potentially subject to a Dossier). Such Products are to be manufactured and provided by Aucta (or a Third Party as per this Agreement's terms) in fully packaged, labeled, and commercially ready form, with the understanding that ETON is responsible for any necessary adjustments or adaptations before commercialization.",
+    "contradiction_score": 0.0008144235471263528,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 9702,
+    "end_char": 10620,
+    "original": "1.35 \u201cTaxes \u201d means taxes, duties, fees, premiums, assessments, imposts, levies and other charges of any kind whatsoever imposed by any Governmental Entity, including all interest, penalties, fines, additions to tax or other additional amounts imposed by any Governmental Entity in respect thereof, and including those levied on, or measured by, or referred to as, income, gross receipts, profits, capital, transfer, land transfer, sales, goods and services, harmonized sales, use, value-added, excise, stamp, withholding, business, franchising, property, development, occupancy, employer health, payroll, employment, health, social services, education and social security taxes, all surtaxes, all customs duties and import and export taxes, countervail and anti-dumping, all license, franchise and registration fees and all employment insurance, health insurance and government pension plan premiums or contributions.",
+    "ollama_generated": "1.35 \"Tax Obligations\" encompasses any and all tax-related expenses, levied by any Governmental Authority, such as taxes, duties, fees, assessments, imposts, levies, charges, interest, penalties, fines, additional amounts, or surtaxes, that are imposed on, based upon, or referred to as income, gross receipts, profits, capital, transfer, land transfer, sales, goods and services, harmonized sales, use, value-added, excise, stamp, withholding, business, franchising, property, development, occupancy, employer health, payroll, employment, health, social services, education, or social security. This term also includes all custom duties, import and export taxes, countervail and anti-dumping charges, as well as any license, franchise, registration fees, employment insurance premiums, health insurance premiums, and government pension plan contributions. However, it is important to note that this definition does not extend to any taxes, fees, or obligations imposed by entities other than Governmental Authorities.",
+    "contradiction_score": 0.11997256428003311,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 10623,
+    "end_char": 10715,
+    "original": "1.36 \u201cTerm \u201d shall have the meaning ascribed to this term in Section 11.1 of this Agreement.",
+    "ollama_generated": "1.36 \"Term\" is to be understood as defined within Section 11.1 of this contract. For clarification, it should be noted that any interpretation or amendment of the term \"Term\" shall be guided by the definition provided in the referenced section.",
+    "contradiction_score": 0.0012119042221456766,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 11341,
+    "end_char": 12214,
+    "original": "2. GRANT OF RIGHTS 2.1 Aucta, for itself and its Affiliates, hereby grants to ETON in accordance with the terms and conditions of this Agreement, an exclusive (even as to and against Aucta in the Territory) right and license, including the right to sublicense, to the Products (or any components thereof), Dossiers, and all current and future Aucta Background Intellectual Property that is owned or controlled by Aucta or its Affiliates for ETON to develop, manufacture, import, use, promote, distribute, market, advertise, offer for sale or sell (collectively, \u201c Market \u201d) the Products in and for the Territory. For avoidance of doubt, Aucta and its Affiliates shall retain all rights to the Products outside the Territory, and Aucta shall remain at all times the owner of all Products, Dossier and Aucta Background Intellectual Property worldwide including the Territory.",
+    "modified": "2. GRANT OF RIGHTS\n\n2.1 ETON, on its own behalf and Affiliates, is granted, in accordance with the provisions of this Agreement, a non-exclusive (i.e., not exclusive as to and against Aucta or its Affiliates within the Territory) right and license, with the ability to sub-license, to the Products (or any constituent parts), Dossiers, and all current and future Aucta Background Intellectual Property owned or managed by Aucta or its Affiliates. This grant enables ETON to undertake activities such as developing, manufacturing, importing, using, promoting, distributing, marketing, advertising, offering for sale, or selling (collectively, \u201cMarket\u201d) the Products within the Territory. It is clarified that Aucta and its Affiliates retain all rights to the Products globally, excluding the Territory, and Aucta will continue to be the worldwide owner of all Products, Dossier, and Aucta Background Intellectual Property, including within the Territory.",
+    "contradiction_score": 0.9075362682342529,
+    "kept": true
+  },
+  {
+    "clause_index": 48,
+    "start_char": 12681,
+    "end_char": 12772,
+    "original": "3. PRODUCT DEVELOPMENT AND REGISTRATION 3.1 Development and Registration Responsibilities .",
+    "ollama_generated": "3. RESPONSIBILITIES REGARDING PRODUCT DEVELOPment AND REGISTRATION\n\n3.1 Shared Development and Registration Responsibilities .\n\nIn this revised clause, the parties share the responsibility for product development and registration, implying a more collaborative approach compared to the original clause where one party had the primary responsibility.",
+    "contradiction_score": 0.002398432930931449,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 13118,
+    "end_char": 13317,
+    "original": "3.1.2 At its sole cost and expense, Aucta shall be responsible and liable for all regulatory activities required for the filing and approval of the Dossiers for the Products in and for the Territory.",
+    "ollama_generated": "3.1.2 The Territorial responsibilities and liabilities related to the regulatory activities required for the filing and approval of the Dossiers for the Products, shall exclusively rest upon Aucta, at their own discretion and expense. (This version slightly shifts the responsibility onto Aucta while maintaining professionalism.)",
+    "contradiction_score": 0.002243428723886609,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 16427,
+    "end_char": 16764,
+    "original": "4.2 If the terms of Aucta\u2019s commercial supply agreement with the active pharmaceutical ingredient supplier in Section 4.1 is assignable to ETON, ETON may assume the aforementioned agreement by providing written notice to Aucta, and Aucta will have seven (7) days from receipt of the notice to assign the aforementioned agreement to ETON.",
+    "ollama_generated": "4.2 Upon ETON's request, delivered in writing to Aucta, Aucta shall have a period of seven (7) business days to transfer its rights and obligations under the commercial supply agreement with the active pharmaceutical ingredient supplier, as outlined in Section 4.1, to ETON. Aucta's failure to do so within this timeframe will be deemed as ETON's exclusive right to assume the agreement without further notice or obligation to Aucta.",
+    "contradiction_score": 0.0010880939662456512,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 17171,
+    "end_char": 17296,
+    "original": "5.2 ETON shall use commercially reasonable efforts to Market the Products in the Territory during the Term of this Agreement.",
+    "ollama_generated": "5.2 In the context of this Agreement, ETON's efforts to Market the Products within the specified Territory over the Term are expected to be diligent but not necessarily exhaustive or without occasional pauses for strategic reevaluation.",
+    "contradiction_score": 0.0014726863009855151,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 17649,
+    "end_char": 17760,
+    "original": "(a) An amount of two million dollars ($2,000,000) within five (5) days of the Effective Date of this Agreement.",
+    "ollama_generated": "(b) The full payment of two million dollars ($2,000,000) shall be made by the Parties no later than ten (10) business days after the Effective Date of this Agreement, with the understanding that failure to comply may result in a delay in the commencement of services.",
+    "contradiction_score": 0.33959540724754333,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 17760,
+    "end_char": 18186,
+    "original": "(b) An amount of two million dollars ($2,000,000) within thirty (30) days after the first commercial sales of Product. [ * * * (c) An amount of one million dollars ($1,000,000) within thirty (30) days after the issuance and listing of a patent in the Orange Book for the Product and its Dossier, only if that patent is listed prior to the submission of an ANDA referencing the Product and its Dossier as the reference product.",
+    "ollama_generated": "(b) The recipient shall be obliged to remit an amount of two million dollars ($2,000,000) within thirty (30) days following the initial revenue generated from commercial sales of the Product.\n\n   (c) Contingent upon the listing of a patent for the Product and its Dossier in the Orange Book prior to any ANDA submission referencing the Product and its Dossier as the reference product, the recipient shall provide an additional one million dollars ($1,000,000) within thirty (30) days following such listing. [ * * * ]",
+    "contradiction_score": 0.17967595160007477,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 18866,
+    "end_char": 19078,
+    "original": "(c) An amount of five million dollars ($5,000,000) upon Net Sales first exceeding an amount of fifty million dollars ($50,000,000) in a calendar year to be paid within sixty (60) days after the calendar year end.",
+    "ollama_generated": "(c) A payment of five million dollars ($5,000,000) will become due and payable if and only if Net Sales for any given calendar year exceed fifty million dollars ($50,000,000). Such payment shall be made within sixty (60) days following the close of the calendar year, provided that the obligation to make such payment may be waived by either party in writing at any time prior to the due date.\n\nThis revision weakens the obligation slightly by introducing a possibility for either party to waive the payment before it is due, thus shifting some responsibility to both parties.",
+    "contradiction_score": 0.0016111673321574926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 19374,
+    "end_char": 19387,
+    "original": "6.3 Royalty .",
+    "modified": "6.3 Royalties Exemption.\n\nThe Company shall not be obligated to pay any royalties with respect to the Product, except in the event that the Product exceeds sales of one million (1,000,000) units within a consecutive twelve-month period, in which case the royalty percentage shall be as set forth in Section 7.2.",
+    "contradiction_score": 0.5011032819747925,
+    "kept": true
+  },
+  {
+    "clause_index": 76,
+    "start_char": 21090,
+    "end_char": 22552,
+    "original": "6.4 [ * * * ] 6.5 Interim and Final True-Ups . During the Term, on an annual basis, following the first (1st) calendar year from launch of Product and on a Product-by-Product basis, ETON shall perform an interim \u201ctrue-up\u201d reconciliation and shall provide Aucta with a written report of such outlining the deductions specified in the definition of Net Sales. The reconciliation shall be based on actual cash paid or credits issued or accrued in accordance with GAAP and company practices consistently applied, including any amounts irrevocably committed but not yet paid at the end of the preceding calendar year. If the foregoing reconciliation report shows either an underpayment or an overpayment between the Parties, the Party owing payment to the other Party shall pay the amount of the difference to the other Party within thirty (30) days after the date of delivery of such report. In addition, within twenty-five (25) months after the termination or expiration of the Term and on a Product-by-Product basis, ETON shall perform a final \u201ctrue-up\u201d reconciliation and shall provide Aucta with a written report of such outlining the deductions specified in the definition of Net Sales. If the foregoing reconciliation report shows either an underpayment or an overpayment between the Parties, the Party owing payment to the other Party shall pay the amount of the difference to the other Party within thirty (30) days after the date of delivery of such report.",
+    "ollama_generated": "6.4 [ * * * ] 6.5 Interim and Final True-Ups . During the Term, on an annual basis, following the first (1st) calendar year from launch of Product and on a Product-by-Product basis, Aucta shall have the right to request a reconciliation report from ETON. The report will outline deductions specified in the definition of Net Sales and will be based on actual cash paid or credits issued or accrued in accordance with GAAP and company practices consistently applied, including any amounts irrevocably committed but not yet paid at the end of the preceding calendar year. It is the responsibility of Aucta to verify and confirm the accuracy of this report. Any discrepancies between the Parties, either an underpayment or an overpayment, will be settled amicably within a reasonable timeframe without the need for legal action.\n\nIn addition, within twenty-five (25) months after the termination or expiration of the Term and on a Product-by-Product basis, Aucta may request a final \u201ctrue-up\u201d reconciliation report from ETON. Any discrepancies between the Parties, either an underpayment or an overpayment, will be settled amicably within a reasonable timeframe without the need for legal action. The onus of proof and any subsequent payment shall lie with the Party claiming a discrepancy.",
+    "contradiction_score": 0.019822506234049797,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 25261,
+    "end_char": 25423,
+    "original": "7.2 At its sole cost and expense, ETON shall be solely responsible and liable for any non-patent litigation in connection with its sales and marketing activities.",
+    "modified": "7.2 It is exclusively the responsibility and liability of the counterparty, at their own expense, to handle any non-patent litigations that may arise from our business transactions involving sales and marketing. In this context, we, ETON, shall not be held accountable for such disputes.",
+    "contradiction_score": 0.9911819696426392,
+    "kept": true
+  },
+  {
+    "clause_index": 86,
+    "start_char": 28143,
+    "end_char": 28546,
+    "original": "7.5.1 Other than an ANDA Litigation covered below in Section 7.5.2, Aucta shall at its sole cost and expense be solely responsible and liable for and assume the direction and control of any Intellectual Rights Suit and the defense of claims arising therefrom, including, without limitation, the selection of legal counsel\u037e provided, however, that Aucta shall keep ETON apprised of material developments.",
+    "modified": "7.5.1 Excluding ANDA Litigations detailed in Section 7.5.2, ETON shall bear the responsibility and liability for any Intellectual Rights Suit at its sole expense. Furthermore, ETON will be responsible for the selection of legal counsel in such matters, while maintaining Aucta informed about significant updates. In this arrangement, Aucta retains the right to provide input and advice but does not assume control or primary responsibility for the defense or resolution of these claims.",
+    "contradiction_score": 0.9114462733268738,
+    "kept": true
+  },
+  {
+    "clause_index": 90,
+    "start_char": 30387,
+    "end_char": 30895,
+    "original": "7.5.3 The Parties agree that they will not, whether in the context of the Intellectual Rights Suit, ANDA Litigation or otherwise related thereto, without the prior written consent of the other Party enter into any agreement or arrangement with any Third Party which in any way compromises, relinquishes, waives, or otherwise affects, in whole or in part, the rights of the other Party under this Agreement or in respect of the Product, including, without limitation, any patent rights related to the Product.",
+    "modified": "7.5.3 The Parties understand that they retain the discretionary freedom to engage with Third Parties, should such opportunities arise, in the context of the Intellectual Rights Suit, ANDA Litigation or otherwise related thereto, provided that any agreement or arrangement entered into shall not encroach upon, restrict, or diminish, in whole or in part, the rights of either Party under this Agreement or in relation to the Product, including but not limited to patent rights associated with the Product. The Parties acknowledge that prior written consent from the other Party is not required unless the agreement or arrangement in question may potentially infringe upon the aforementioned rights as defined within this Agreement.",
+    "contradiction_score": 0.754581868648529,
+    "kept": true
+  },
+  {
+    "clause_index": 95,
+    "start_char": 35541,
+    "end_char": 35940,
+    "original": "9.3 Public Announcement . Neither ETON, Aucta nor any of their respective Affiliates shall issue any press release or make any public announcement with respect to this Agreement and the transactions contemplated hereby without obtaining the prior written consent of the other Party, except as may be required by Applicable Law or stock exchange rules on which a Party or its Affiliates stock trades.",
+    "modified": "9.3 Public Disclosures Exemption: Each Party and their respective Affiliates reserve the right to issue press releases or make public announcements pertaining to this Agreement and associated transactions, provided that such disclosure is compelled by Applicable Law or stock exchange rules where a Party or its Affiliates' stocks are traded. Prior written consent from the other Party will not be sought in these instances.",
+    "contradiction_score": 0.6760267019271851,
+    "kept": true
+  },
+  {
+    "clause_index": 107,
+    "start_char": 43972,
+    "end_char": 44121,
+    "original": "Source: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019 CONFIDENTIAL 11.5.3 This Section 11.5 shall survive termination or expiration of this Agreement.",
+    "modified": "Altered Clause:\nSource: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019 CONFIDENTIAL 11.5.3 The survival of the obligations and restrictions contained in this Section 11.5 shall not be affected by any termination or expiration of this Agreement.\n\nHere's a brief explanation: The original clause states that Section 11.5 survives termination or expiration of the Agreement. In the rewritten clause, the obligations and restrictions within Section 11.5 will continue to apply even if the Agreement is terminated or expires. This subtle change shifts the focus slightly from survival to continued applicability of obligations and restrictions.",
+    "contradiction_score": 0.650383472442627,
+    "kept": true
+  },
+  {
+    "clause_index": 110,
+    "start_char": 46992,
+    "end_char": 47078,
+    "original": "12.2 Aucta Representation and Warranties.  Aucta represents and warrants to ETON that:",
+    "ollama_generated": "12.2 Aucta's Representations and Assurances to ETON. Aucta assures and represents to ETON, in a reversal of roles, that:\n\n(i) It has full authority to enter into this Agreement and to carry out its obligations under it;\n(ii) The information provided by Aucta in connection with this Agreement, including but not limited to any representations or warranties made, is accurate and complete as of the date of this Agreement;\n(iii) This Agreement constitutes a valid and binding obligation of Aucta, enforceable against it in accordance with its terms, except as limited by bankruptcy, insolvency, fraudulent conveyance, or similar laws affecting the enforcement of creditors' rights generally. However, Aucta acknowledges that enforcement may be subject to general equitable principles;\n(iv) There are no existing legal actions, suits, proceedings, claims, investigations, or liability against Aucta, or any action, suit, proceeding, claim, investigation, or liability of which it has knowledge, based upon or arising out of its business activities up to the date hereof;\n(v) It will not enter into this Agreement in reliance on any representations, promises, covenants, or inducements other than those expressly set forth in this Agreement; and\n(vi) No consent or approval from any third party is required for Aucta to perform its obligations under this Agreement.\n\nIn the event that any of the above representations or warranties made by Aucta are untrue, inaccurate, or breached at the time they were made or at any time during the term of this Agreement, ETON shall have the right, in its sole discretion, to terminate this Agreement immediately.",
+    "contradiction_score": 0.042982712388038635,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 52008,
+    "end_char": 53139,
+    "original": "13. INDEMNIFICATION 13.1 Aucta\u2019s Indemnification Obligations . Aucta shall indemnify, defend and hold ETON and its owners, officers, directors, Affiliates, and employees (collectively, \u201c ETON Indemnified Parties \u201d) harmless from and against any and all Losses arising out of or resulting from any Third Party Claims made or suits brought against ETON Indemnified Parties which arise or result from (i) Aucta\u2019s material breach of any of its representations, warranties or covenants set forth in this Agreement, or any of its obligations hereunder\u037e (ii) Aucta\u2019s manufacture, registration, handling, storage, use, transportation of any Product on or after the Effective Date, including, without limitation, any Claim for personal injury or death, to the extent such Third Party Claims arise from the period of time commencing on or after the Effective Date and to the extent such is not attributable to ETON\u2019s breach of this Agreement or any Applicable Laws\u037e or (iii) Aucta\u2019s negligence or willful misconduct with regard to the Products to the extent such is not attributable to ETON\u2019s breach of this Agreement or any Applicable Laws.",
+    "ollama_generated": "13. INDEMNIFICATION\n\n13.1 ETON's Indemnification Obligations . ETON shall indemnify, defend and hold Aucta and its owners, officers, directors, Affiliates, and employees (collectively, \"Aucta Indemnified Parties\") harmless from and against any and all Losses arising out of or resulting from any Third Party Claims made or suits brought against Aucta Indemnified Parties which arise or result from (i) ETON's material breach of any of its representations, warranties or covenants set forth in this Agreement, or any of its obligations hereunder; (ii) any defect or issue with the Products that were present prior to the Effective Date, including, without limitation, any Claim for personal injury or death, to the extent such Third Party Claims arise from the period of time commencing on or before the Effective Date and to the extent such is not attributable to Aucta\u2019s breach of this Agreement or any Applicable Laws; or (iii) ETON's negligence or willful misconduct with regard to the Products, to the extent such is not attributable to Aucta\u2019s breach of this Agreement or any Applicable Laws.",
+    "contradiction_score": 0.008064908906817436,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 57463,
+    "end_char": 58396,
+    "original": "15. MISCELLANEOUS 15.1 Governing Law\u037e English Language . This Agreement shall be governed, interpreted and construed in accordance with the substantive laws of the Delaware, in the country of the United State of America, without regard to its conflict of laws principles. To the extent that it may otherwise by applicable, the Parties hereby expressly agree to unconditionally waive and exclude from the operation of this Agreement the United Nations Convention on Contracts for the International Sale of Goods, concluded at Vienna, on 11 April 1980, as amended and as may be amended further from time to time. This Agreement has been negotiated and drafted by the Parties in the English language. Any translation into any other language shall not be an official version thereof. In the event any translation of this Agreement is prepared for convenience or for any other purpose, the provisions of the English version shall prevail.",
+    "ollama_generated": "15. MISCELLANEOUS\n15.1 Jurisdiction and Language\nThis Agreement will be subject to the jurisdiction and interpretation of the courts within Delaware, United States of America, under the principles governing domestic law, disregarding any conflicts of law provisions that might otherwise apply. The parties mutually agree to exclude from this contract the United Nations Convention on Contracts for the International Sale of Goods, as enacted at Vienna, April 11, 1980, and any subsequent amendments, unless required by applicable local law. This Agreement was drafted and agreed upon in English. Any translation into another language is not binding and serves only as a convenience; the provisions of the English version shall take precedence in case of discrepancies.\n\nIn the event that a translation of this Agreement is prepared for any reason, it will not supersede or alter the original English text.",
+    "contradiction_score": 0.03688938915729523,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 61194,
+    "end_char": 61220,
+    "original": "ETON Pharmaceuticals, Inc.",
+    "ollama_generated": "Responsibility for Compliance Shifts to Counterparty:\nCounterparty shall assume all obligations under this agreement regarding compliance with applicable laws, regulations, and industry standards related to the manufacture, sale, distribution, and promotion of pharmaceutical products, as well as the quality control and assurance thereof. ETON Pharmaceuticals, Inc. shall cooperate in good faith to facilitate such compliance; however, any non-compliance shall be solely attributable to Counterparty's actions or omissions.",
+    "contradiction_score": 0.3288549780845642,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 133,
+    "start_char": 63261,
+    "end_char": 64085,
+    "original": "15.8 Assignment . The terms and provisions hereof shall inure to the benefit of, and be binding upon the Parties and their respective successors and permitted assigns. The Parties shall not assign, encumber or otherwise transfer this Agreement or any part of it to any Third Party, without the prior written consent of the other Party. Notwithstanding the foregoing, each Party may assign the rights and obligations under this Agreement in whole, without consent of the other Party, to a Third Party or Affiliate in connection with the transfer or sale of all or substantially all of its business or in the event of a merger, consolidation or change in control provided that the assignee assumes in writing and becomes directly obligated to the other Party to perform all of the obligations of assignor under this Agreement.",
+    "modified": "15.8 Assignment. The rights and duties established by this Agreement shall survive and be enforceable against any successors or permitted assignees of the Parties. Unlike the initial terms, either Party may freely transfer, assign, or encumber this Agreement, or any part thereof, to a Third Party or Affiliate, without requiring the prior written consent of the other Party. However, in such cases, the Party making the assignment shall remain liable for any breaches or failures to comply with the terms of this Agreement by their assignee. Exceptions to this rule include transfers or sales of all or substantially all of a Party's business, as well as mergers, consolidations, or changes in control, provided that the transferee explicitly assumes and becomes directly responsible for performing all the obligations of the assigning Party under this Agreement.",
+    "contradiction_score": 0.9192878007888794,
+    "kept": true
+  },
+  {
+    "clause_index": 136,
+    "start_char": 64569,
+    "end_char": 65203,
+    "original": "15.11 Counterparts\u037e PDF . This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed an original but all of which, taken together, shall constitute one and the same instrument. PDF and facsimile signatures shall constitute original signatures. The Parties agree that the electronic signatures appearing on this Agreement are the same as handwritten signatures for the purposes of validity, enforceability and admissibility pursuant to the Electronic Signatures in Global and National Commerce (ESIGN) Act of 2000, and Uniform Electronic Transactions Act (UETA) model law, or similar applicable laws.",
+    "ollama_generated": "15.11 Multiple Execution; Electronic Signatures\n\nThis Agreement may be executed as separate documents by all parties involved, with each individual document considered a valid and binding portion of the overall agreement. Collectively, these separate parts will form a single unified instrument.\n\nElectronic signatures and facsimile signatures on this Agreement are deemed equivalent to traditional handwritten signatures for the purposes of legitimacy, enforceability, and admissibility under the Electronic Signatures in Global and National Commerce (ESIGN) Act of 2000, Uniform Electronic Transactions Act (UETA) model law, or similar applicable laws.\n\nThe parties acknowledge that the electronic signatures on this Agreement serve as a legally binding substitute for traditional handwritten signatures. It is understood that the validity, enforceability, and admissibility of this Agreement are not compromised due to the use of electronic signatures in accordance with relevant legislation, including but not limited to the ESIGN Act, UETA, or similar applicable laws.",
+    "contradiction_score": 0.012902411632239819,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 65545,
+    "end_char": 65650,
+    "original": "Source: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019 Source: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019",
+    "ollama_generated": "In the event that any claim or dispute arises between the parties in connection with this Agreement, it shall be the responsibility of the aggrieved party to initiate a resolution process within sixty (60) days from the date on which such claim or dispute arose. If no resolution is reached within such timeframe, the non-aggrieved party shall not be obligated to participate in further discussions unless it elects to do so voluntarily and without prejudice. The burden of proof in any subsequent litigation arising from the unresolved claim or dispute shall rest with the party initiating the resolution process.",
+    "contradiction_score": 0.012834765017032623,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

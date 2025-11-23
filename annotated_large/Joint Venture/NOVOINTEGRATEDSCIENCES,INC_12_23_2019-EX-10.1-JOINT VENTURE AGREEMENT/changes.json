@@ -1,0 +1,178 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 3094,
+    "end_char": 3169,
+    "original": "(b)\u201cAgreement\u201d means this Joint Venture Agreement, dated December 19, 2019.",
+    "ollama_generated": "(b) \"Agreement\" shall denote the Joint Venture Agreement, which shall be deemed effective as of December 19, 2019. [This modification implies that while the agreement is still named as such and was signed on the aforementioned date, it may be interpreted as being considered to have come into force at a later point, if necessary.]",
+    "contradiction_score": 0.040599532425403595,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3616,
+    "end_char": 3758,
+    "original": "(h)\u201cJoint Venture\u201d means a business arrangement where NVOS and HGF have agreed to pool their resources for the purpose of the Primary Project.",
+    "ollama_generated": "(h) \"Joint Venture\" shall denote an enterprise undertaking in which NVOS and HGF, upon mutual agreement, commit shared resources with the intention that each party maintains autonomy over its own operations, while collaboratively executing the Primary Project. In this arrangement, each party bears responsibility for their respective decisions and actions, with the understanding that both parties may also be liable for any outcomes resulting from the joint effort.",
+    "contradiction_score": 0.20496279001235962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 4099,
+    "end_char": 4197,
+    "original": "(m)\u201cParty\u201d identifies, separately, either Harvest Gold Farms Inc. or Novo Integrated Sciences Inc.",
+    "ollama_generated": "(m) \"Neither Harvest Gold Farms Inc. nor Novo Integrated Sciences Inc., collectively referred to as \"Parties,\" shall be jointly and individually responsible for identifying themselves in this Agreement. It is understood that either party may represent themselves without prior notification to the other.\"\n\nThis change in language shifts the responsibility of identification from the Parties to the agreement itself, suggesting that each party has the freedom to act without notifying the other.",
+    "contradiction_score": 0.3535490930080414,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 4453,
+    "end_char": 5480,
+    "original": "(p)\u201cTax(es)\u201d means any federal, state, provincial, local or foreign tax, charge, fee, levy, custom, duty, deficiency, or other assessment of any kind or nature imposed by any Taxing Authority (including any income (net or gross), gross receipts, profits, windfall profit, sales, use, goods and services, ad valorem, franchise, license, withholding, employment, social security, workers compensation, unemployment compensation, employment, payroll, transfer, excise, import, real property, personal property, intangible property, occupancy, recording, minimum, alternative minimum, environmental or estimated tax), including any liability therefor as a transferee (including under Section 6901 of the Code or similar provision of applicable Law) or successor, as a result of Treasury Regulation Section 1.1502-6 or similar provision of applicable Law or as a result of any Tax sharing, indemnification or similar agreement, together with any interest, penalty, additions to tax or additional amount imposed with respect thereto.",
+    "modified": "(q) \"Tax(es)\" refers to any federal, state, provincial, local, or foreign levy, impost, charge, duty, tariff, surcharge, assessment, or other financial obligation of any kind or nature imposed by a Taxing Authority. This term encompasses gross or net income tax, sales tax, value-added tax, excise tax, customs duty, property tax, social security contributions, unemployment insurance, employment taxes, and any liability incurred as a transferee (such as under Section 6901 of the Code or similar provisions) or successor, as well as any penalties, fines, interest, or additional amounts associated with non-compliance. This definition also includes tax obligations arising from Treasury Regulation Section 1.1502-6 or equivalent laws, and tax responsibilities shared, indemnified, or agreed upon in contracts.",
+    "contradiction_score": 0.811524510383606,
+    "kept": true
+  },
+  {
+    "clause_index": 21,
+    "start_char": 5709,
+    "end_char": 6193,
+    "original": "(r)\u201cTax Return\u201d means any return, information return, declaration, claim for refund or credit, report or any similar statement, and any amendment thereto, including any attached schedule and supporting information, whether on a separate, consolidated, combined, unitary or other basis, that is filed or required to be filed with any Taxing Authority in connection with the determination, assessment, collection or payment of a Tax or the administration of any Law relating to any Tax.",
+    "modified": "(s) \"Tax Filing Submission\" encompasses any submitted document, including returns, information reports, refund or credit claims, statements, amendments, schedules, and accompanying data, regardless of their form (separate, consolidated, combined, unitary, or otherwise), that a Taxpayer voluntarily submits or is mandated to submit to a Taxing Authority, serving as the basis for the assessment, collection, or calculation of any tax liability, as well as the administration of any related tax law.",
+    "contradiction_score": 0.63552325963974,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 7676,
+    "end_char": 8019,
+    "original": "ARTICLE 2 - ENTERPRISE NAME 2.1 The Joint Venture has been registered and incorporated in a Canadian jurisdiction mutually acceptable to both parties and will be referred to as the \u201cCompany\u201d, the Company shall have all the liabilities of the project in relation to finance and operation with HGF having no liability in relation to the project.",
+    "ollama_generated": "ARTICLE 2 - ENTERPRISE NAME\n\n2.1 The formation and incorporation of the Joint Venture shall occur in a Canadian jurisdiction, agreeable to both parties. The newly formed entity will hereafter be referred to as the \u201cCompany\u201d. It is noted that the Company assumes full responsibility for all liabilities associated with the project's financing and operation, with HGF enjoying immunity from any such obligations related to the project.",
+    "contradiction_score": 0.001055356697179377,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 8568,
+    "end_char": 8683,
+    "original": "ARTICLE 5 - START UP CAPITAL AND CONTRIBUTIONS 5.1 Each of the Parties shall contribute to the start-up as follows:",
+    "ollama_generated": "ARTICLE 5 - START UP CAPITAL AND CONTRIBUTIONS\n\n5.1 The Contributions of the Parties to the start-up shall be determined individually, with no obligation for any Party to match or surpass the contribution made by another Party. Each Party's contribution will be regarded as sufficient if it aligns with their respective resources and capabilities, as they deem fit.\n\nIn this revised clause, I have weakened the obligation of each party to contribute equally. Instead, each party can now determine their own individual contributions based on their resources and capabilities, without any obligation to match or surpass another party's contribution.",
+    "contradiction_score": 0.03138158470392227,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 9076,
+    "end_char": 9116,
+    "original": "\u25cfArrange for product purchase contracts.",
+    "ollama_generated": "Shall be responsible for facilitating the execution of purchase contracts pertaining to the specified products.",
+    "contradiction_score": 0.005184962414205074,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 9336,
+    "end_char": 9519,
+    "original": "\u25cfArrange for all building permits, environmental approvals and HGF internal approvals including confirmation of tax-free Company status for the duration of the proposal (if possible).",
+    "ollama_generated": "\u200b\"Obtain, if feasible, all necessary building permits, environmental approvals, and HGF internal approvals, with an understanding that the successful confirmation of tax-exempt Company status will be pursued during the project's tenure, though not guaranteed to be secured beforehand.\"",
+    "contradiction_score": 0.004308749455958605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 10965,
+    "end_char": 11073,
+    "original": "8.3 Both parties may enter into buyout negotiations with the other Party on terms agreeable to both Parties.",
+    "modified": "8.3 Either Party reserves the right to propose buyout terms unilaterally, which if accepted by the other Party, shall become effective immediately; otherwise, no obligation is implied for either Party to continue the agreement.",
+    "contradiction_score": 0.652488648891449,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 11538,
+    "end_char": 11621,
+    "original": "9.4 To purchase product from the Company at a price of cost plus five percent (5%).",
+    "ollama_generated": "9.4 The Customer shall have the option to acquire products from the Company, subject to a pricing structure wherein the cost is increased by five percent (5%).",
+    "contradiction_score": 0.0049906703643500805,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 12830,
+    "end_char": 12956,
+    "original": "10.2 To maintain positive relations with agencies (government and environmental) ensuring continuing land use and development.",
+    "ollama_generated": "10.2 While recognizing the importance of collaborating with relevant authorities (governmental and environmental), it is understood that the ability to continue land use and development remains at their discretion, not an obligation or guarantee on our part.",
+    "contradiction_score": 0.44948214292526245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 13690,
+    "end_char": 13955,
+    "original": "ARTICLE 12 - DIVIDEND DISTRIBUTIONS 12.1 The distribution will be based on NVOS audited review and will be made within three months of annual considerations on the basis of a seventy percent (70%) of net profit to NVOS and thirty percent (30%) of net profit to HGF.",
+    "ollama_generated": "ARTICLE 12 - DIVIDEND DISTRIBUTIONS\n12.1 The distribution will be based on the audited review by NVOS, with the aim to make such distributions no later than three months following annual considerations. However, the distribution ratio shall be adjusted such that sixty percent (60%) of net profit shall be allocated to HGF and forty percent (40%) to NVOS.\n\nIn this revised clause, the timing for making dividend distributions has been softened by changing \"within three months\" to \"no later than three months.\" Additionally, the distribution ratio has been adjusted to favor HGF over NVOS, with HGF receiving a larger percentage of net profit. This change shifts some responsibility and obligation from NVOS to HGF in terms of dividend distributions and profit allocation.",
+    "contradiction_score": 0.013817538507282734,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 14201,
+    "end_char": 14419,
+    "original": "ARTICLE 14 - BANKING AND ACCOUNTING 14.1 The Company will have a segregated bank account controlled by NVOS for general operating expenses and a segregated investment account for passive short-term secured investments.",
+    "ollama_generated": "ARTICLE 14 - MANAGEMENT OF BANKING AND ACCOUNTS\n\n14.1. For the purposes of general operating expenses, an account will be maintained by NVOS on behalf of the Company, with full authority granted to NVOS for its management and control. Additionally, the Company shall establish a segregated investment account for passive short-term secured investments, with responsibility for its management and control delegated to NVOS at their sole discretion.",
+    "contradiction_score": 0.051957614719867706,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 15059,
+    "end_char": 15221,
+    "original": "ARTICLE 17 - PRESERVATION OF RECORDS 17.1 All company records will be kept for a minimum of five (5) years unless otherwise required by federal or provincial law.",
+    "ollama_generated": "ARTICLE 17 - RETENTION OF COMPANY RECORDS\n17.1 Company records may be retained for less than five (5) years, if such retention period is not exceeded, unless mandated by specific provisions of federal or provincial law.\n\nThis revision suggests that the company has some discretion in how long it keeps its records, as long as it doesn't violate any specific legal requirements regarding record retention.",
+    "contradiction_score": 0.217798113822937,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 15221,
+    "end_char": 15473,
+    "original": "ARTICLE 18 - ASSIGNMENT BY NVOS 18.1 During the term of this agreement NVOS shall have the right to assign, transfer or sell all or part of its interest in the agreement upon the terms and conditions herein, subject only to prior written notice to HGF.",
+    "ollama_generated": "ARTICLE 18 - ASSIGNMENT BY NVOS\n\n18.1 During the term of this agreement, NVOS retains the discretionary power to assign, transfer, or sell all or part of its rights and obligations under this agreement without prior notice to HGF, provided such action does not materially and adversely affect HGF's interests. In the event that such assignment would have a material and adverse impact on HGF's interests, NVOS shall provide written notice to HGF, allowing for a 30-day period for HGF to object or terminate this agreement.",
+    "contradiction_score": 0.4733351767063141,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 20538,
+    "end_char": 20766,
+    "original": "ARTICLE 25 - ENTIRE AGREEMENT 25.1 No waiver or modification of this Agreement or of any covenant, condition or limitation herein contained shall be valid unless in writing and duly executed by the party to be charged therewith.",
+    "ollama_generated": "ARTICLE 25 - ENTIRE AGREEMENT\n25.1 Any relaxation or alteration of this Agreement or any provision, term, or restriction within it shall be deemed valid only if made in writing and signed by both parties. This includes, but is not limited to, waiving a covenant, condition, or limitation.",
+    "contradiction_score": 0.0027093859389424324,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 21415,
+    "end_char": 21531,
+    "original": "119 Westcreek Drive Unit 1 Woodbridge, Ontario, Canada, L4L 9N6 Email: xxxxxxxxx@xxxxxxx.com Harvest Gold Farms Inc.",
+    "modified": "119 Westcreek Drive Unit 1, Woodbridge, Ontario, Canada, L4L 9N6 [Email: xxxxxxxxx@xxxxxxx.com] (hereinafter referred to as \"Harvest Gold Farms Inc.\")\n\nModification: Shifted the responsibility from Harvest Gold Farms Inc. to the other party in the following clause:\n\nOriginal Clause: The Buyer shall, at its sole cost and expense, ensure that all documents required for the transfer of this property are properly prepared and submitted for registration within thirty (30) days of the Closing Date.\n\nRewritten Clause: It shall be the Seller's responsibility to prepare and submit all documents required for the transfer of this property at its sole cost and expense, with such documents being properly registered within thirty (30) days of the Closing Date.",
+    "contradiction_score": 0.9552229046821594,
+    "kept": true
+  }
+]

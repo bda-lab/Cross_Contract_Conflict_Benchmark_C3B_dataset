@@ -1,0 +1,1397 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 141,
+    "end_char": 252,
+    "original": "EFFECTIVE DATE JUNE 1, 1998 ---------- [*] = Information redacted pursuant to a confidential treatment request.",
+    "ollama_generated": "EFFECTIVE DATE JUNE 1, 1998\n\n-------------------\n\n[*] = Information redacted at the discretion of the disclosing party, not due to any obligation or request for confidential treatment.\n\nThis minor modification shifts the responsibility for redaction of sensitive information from being in response to a specific confidential treatment request, to the discretion of the disclosing party. This may imply that the party has more flexibility and autonomy in deciding what information to withhold.",
+    "contradiction_score": 0.21375612914562225,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3175,
+    "end_char": 3226,
+    "original": "Agreed to:                               Agreed to:",
+    "modified": "1. Original Clause: The Buyer shall deliver the Goods free of any liens, claims, or encumbrances whatsoever within thirty (30) days from the date hereof.\n\n  2. Revised Clause: Goods delivered by the Buyer may be subject to liens, claims, or encumbrances, but the Seller shall bear any and all resulting damages or losses arising therefrom, and the Buyer will make every reasonable effort to deliver clear title within a period of sixty (60) days from the date hereof.\n\n  3. Original Clause: The Seller warrants that the Goods sold hereunder shall be free of any defects in materials or workmanship for a period of twelve (12) months from the date of delivery.\n\n  4. Revised Clause: The Buyer acknowledges and accepts that the Goods sold hereunder may have inherent defects in materials or workmanship, and the Seller is not responsible for any such issues arising during the standard warranty period of twelve (12) months from the date of delivery. However, the Seller shall make every reasonable effort to remedy any defects brought to their attention within a timely manner.\n\n  5. Original Clause: The Parties hereto agree that the failure by either party to perform any obligations under this Agreement shall not give rise to any claim for damages or termination of this Agreement unless such failure continues for thirty (30) consecutive days.\n\n  6. Revised Clause: Either Party's delay in performing their obligations under this Agreement, regardless of its duration, may be grounds for the other party to seek remedies at law or in equity, including but not limited to damages and termination of this Agreement without further notice or liability.",
+    "contradiction_score": 0.920555830001831,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8025,
+    "end_char": 8243,
+    "original": "1.14  \"Products\" shall mean Parts, a MES, machine types, request for price quotation (\"RPQ's\"), model numbers and feature types purchased by IBM under this Agreement and as further described in the Product Attachments.",
+    "ollama_generated": "1.14 The term \"Products\" encompasses Parts, MES systems, machine variants, requests for price quotations (\"RPQ's\"), model numbers, and specified feature types that IBM elects to acquire under this Agreement, as detailed in the accompanying Product Descriptions. Herein, IBM's discretion prevails in defining the scope of these Products.",
+    "contradiction_score": 0.02960667759180069,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 9015,
+    "end_char": 9224,
+    "original": "1.18  \"Subsidiary\" shall mean an entity during the time that more than 50% of its voting stock (or, if no voting stock, decision-making power) is owned or controlled, directly or indirectly, by another entity.",
+    "modified": "1.18 \"Subsidiary\" shall be defined as an entity only when less than 50% of its voting stock (or, if no voting stock, decision-making power) is not owned or controlled, directly or indirectly, by another entity.\n\nThis change shifts the responsibility from the original clause where a subsidiary was considered an entity when over 50% of its voting stock was owned or controlled, to the rewritten clause where a subsidiary is only recognized if less than 50% of its voting stock is not owned or controlled. This subtle change weakens the condition for recognizing a subsidiary, making it more difficult to qualify as a subsidiary under this new definition.",
+    "contradiction_score": 0.9917901754379272,
+    "kept": true
+  },
+  {
+    "clause_index": 31,
+    "start_char": 9968,
+    "end_char": 10522,
+    "original": "Page 5 Dated 05/05/98 IBM Confidential 1)    Product Attachments 2)    Appendices 3)    Supplements 4)    Statement of Work 5)    Outsourcing Base Agreement, Employee List and Benefits Information, Asset Lists 6)    Purchase Orders Notwithstanding the order of precedence set forth above, the following sections of the Outsourcing Base Agreement shall not be modified or superseded by any of the listed documents unless amended by a written instrument duly executed by an authorized representative of each Party making specific reference to such section:",
+    "ollama_generated": "Page 5 Dated 05/05/98 IBM Confidential\n\n1)    Product Attachments\n2)    Appendices\n3)    Supplements\n4)    Statement of Work\n5)    Outsourcing Base Agreement, Employee List and Benefits Information, Asset Lists\n6)    Purchase Orders\n\nRegardless of the order presented above, it is explicitly understood that any amendments to the following sections of the Outsourcing Base Agreement must be made through a written instrument duly executed by an authorized representative of each Party, with express reference to such section, for these sections to take precedence over the listed documents:\n\nIn this revised clause, the order of precedence remains unchanged, but it now clearly states that any amendments to specified sections of the Outsourcing Base Agreement require explicit written authorization from both parties, which will override any other document. This shift in language emphasizes the importance of formal amendment procedures for these specific sections.",
+    "contradiction_score": 0.0824820026755333,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 13390,
+    "end_char": 13501,
+    "original": "5.2   Rights Upon Termination a)    Upon the expiration or termination for default of this Agreement, MSL will:",
+    "ollama_generated": "5.2   Rights Upon Termination (a) In the event of the conclusion or termination, with cause, of this Agreement:\n\nIn this revised clause, I have slightly altered the original by shifting the triggering event for the rights upon termination from either expiration or default to a termination with cause. This subtly changes the implication that termination due to default might not trigger these rights, whereas termination with cause (implying some fault on the part of the other party) will do so.",
+    "contradiction_score": 0.01386322919279337,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 15787,
+    "end_char": 15851,
+    "original": "Page 7 Dated 05/05/98 IBM Confidential 4. All IBM owned tooling.",
+    "ollama_generated": "Clause (Revised):\nPage 7 Dated 05/05/98 - IBM Confidential - 4. Use of IBM-owned Tooling (Limited):\n\nIn this Agreement, the Licensee shall be permitted to utilize the IBM-owned tooling, but solely for the purposes explicitly stated within this Agreement. The Licensee assumes full responsibility for the safekeeping, maintenance, and any incidental damage to such IBM-owned tooling during the term of this Agreement. Any unauthorized use or misuse of the IBM-owned tooling shall render the Licensee liable for damages and breach of contract. IBM's obligation towards the tooling is limited to providing access and basic support as described herein; any repairs, upgrades, or enhancements are the exclusive responsibility of the Licensee.",
+    "contradiction_score": 0.09312132745981216,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 15851,
+    "end_char": 16013,
+    "original": "ii)   assist in the transfer of MSL responsibilities and Products as described in Attachment 1: Statement Of Work, to IBM or to another party that IBM designates.",
+    "ollama_generated": "ii)  Have the option, at its sole discretion, to facilitate the transition of MSL responsibilities and Products, as detailed in Attachment 1: Statement Of Work, to IBM or to a third party designated by IBM, without any obligation to complete this process unless expressly agreed upon in writing.",
+    "contradiction_score": 0.002282193396240473,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 17758,
+    "end_char": 18245,
+    "original": "c)    Upon termination by MSL due to default by IBM, pursuant to Section 5.1 above, MSL shall complete Product(s) on order as of the date of termination, sell them to IBM, and deliver and sell to IBM Parts inventory. This shall include Parts purchased and to be delivered to MSL to meet IBM's forecasted requirements, subject to the Supply Flexibility set forth in Appendix 4 to the Statement of Work, but shall not include any Parts that are cancelable or otherwise transferable to IBM.",
+    "ollama_generated": "c) In the event that MSL elects to terminate this agreement due to a default by IBM, as outlined in Section 5.1 above, IBM shall be responsible for purchasing and acquiring any remaining Product(s) on order up until the date of termination. Additionally, IBM will take possession of and pay for MSL's Parts inventory on hand at that time, including Parts ordered to meet IBM's forecasted requirements, subject to the Supply Flexibility provisions outlined in Appendix 4 of the Statement of Work. However, any cancelable or transferable Parts shall remain the property of MSL and shall not be included in this obligation.",
+    "contradiction_score": 0.23584070801734924,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 18245,
+    "end_char": 19257,
+    "original": "5.3   Prices Upon Termination a)    The price for completed Product(s) including provisions relating to IBM's [*] status shall be as described in Attachment 1\u037e Statement of Work. The Parties agree to negotiate in good faith the price for partially completed Products, but in no Page 8 Dated 05/05/98 IBM Confidential event will MSL be required to accept a price for partially completed Product that is lower than the completed Product price multiplied by the \"percentage of Product completion\". Such a percentage shall equal [*] times a fraction, the numerator of which is the cost of [*] within, and the cost of [*] and [*] expended on, such partially completed Products to the date of termination, and the denominator of which is equal to the [*] cost, and [*] and [*] cost of the Product if completed, all as determined by MSL in good faith and subject to verification and agreement by IBM. In no event will IBM be required to pay more for a partially completed Product than the price for a completed Product.",
+    "ollama_generated": "5.3 Termination Pricing:\n\na) For Products delivered prior to termination, the pricing, including any relevant IBM status provisions, shall be as detailed in Attachment 1 - Statement of Work. The Parties will endeavor to reach a mutual agreement on pricing for unfinished Products, but under no circumstances will MSL be compelled to accept a price lower than the completed Product price times the percentage of work completion. This percentage shall be calculated as follows: [*] times the ratio of the costs incurred on partially completed Products up to the termination date over the estimated total costs for completing those Products, as determined by MSL in good faith and subject to verification by IBM. It is noteworthy that IBM will not be obligated to pay more for a partially completed Product than the cost of a fully completed Product.\n\nThis revised clause now weakens the obligation on IBM to pay a higher price for partially completed Products, making it clear that they will only pay up to the cost of a fully completed product. It also clarifies the calculation method for determining the price of partially completed Products.",
+    "contradiction_score": 0.005724327173084021,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 26372,
+    "end_char": 26673,
+    "original": "c)    If by the Payment Date, MSL fails to pay IBM in full for the assets listed in Attachment 3: Asset List, Part 2 at the price specified in b) above, IBM may offset the balance owed by MSL as provided in Section 6.2(a) above, and without MSL's further consent, until IBM has recovered such balance.",
+    "ollama_generated": "c) If, on or before the Payment Date, MSL does not fully settle its obligation towards IBM for the assets detailed in Attachment 3: Asset List, Part 2 at the rates stated in b) above, IBM retains the right to set off the amount still due by MSL, as allowed under Section 6.2(a) above, without needing additional approval from MSL, until such time that IBM has successfully recovered the outstanding balance.",
+    "contradiction_score": 0.0024420747067779303,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 28189,
+    "end_char": 28855,
+    "original": "b)    MSL will make an unconditional employment offer to the Employees, listed in Attachment 2, to be effective on the Effective Date of this Agreement. The Employees who accept employment offers from MSL and who have begun their employment with MSL (\"Transferred Employees\") will be employed by MSL in accordance with the terms set forth below. IBM will terminate all Employees, listed in Attachment 2, at the Effective Date of this Agreement and IBM will be responsible for any and all employment related liabilities up to the Effective Date, including, but not limited to, vacation and sick time, workers compensation claims, variable compensation, and severance.",
+    "modified": "a) IBM shall provide written notice to the Employees listed in Attachment 2, informing them of MSL's intention to employ them under the terms specified below. The Employees who choose to accept MSL's offer and commence employment (\"Transferred Employees\") will be directly employed by MSL at the Effective Date of this Agreement. MSL shall assume all employment-related responsibilities for the Transferred Employees from that date forward, including but not limited to vacation and sick time accrual, workers compensation, variable compensation, and any other employee benefits. IBM will continue to employ the listed Employees up until the Effective Date of this Agreement and shall be responsible for any and all employment-related liabilities incurred prior to that date, including but not limited to any outstanding vacation or sick time, workers compensation claims, variable compensation, and severance payments.",
+    "contradiction_score": 0.7971030473709106,
+    "kept": true
+  },
+  {
+    "clause_index": 82,
+    "start_char": 31054,
+    "end_char": 31281,
+    "original": "SECTION 10.0 LEASE OF PREMISES The Lease of Premises Agreement is a separate agreement governing the lease of certain IBM buildings to MSL, the execution of which is a condition precedent to the effectiveness of this Agreement.",
+    "ollama_generated": "SECTION 10.0 LEASE OF PREMISES This Agreement's effectiveness is contingent upon the execution of a separate Lease of Premises Agreement between IBM and MSL, which shall govern the lease of specific IBM buildings to MSL. The non-execution of this Lease of Premises Agreement shall not impede the validity or enforceability of this Agreement.",
+    "contradiction_score": 0.002349464688450098,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 31781,
+    "end_char": 32615,
+    "original": "SECTION 13.0 INTELLECTUAL AND INDUSTRIAL PROPERTY 13.1  IBM assumes and will assume ownership and MSL assigns and will assign all intellectual and industrial property rights for hardware, software, design and documentation of all Products delivered under this Agreement IBM will also own and MSL will assign any invention made by MSL on Products, and on any invention related to IBM processes and systems that MSL makes while MSL uses those processes and systems in the performance of this Agreement provided that nothing herein shall restrict MSL's right to use such inventions in the performance of its obligations hereunder. MSL shall not use any proprietary processes for the assembly, subassembly and final tests, and quality testing of the Products subject to this Agreement unless otherwise agreed to by the Parties in writing.",
+    "modified": "SECTION 13.0 INTELLECTUAL AND INDUSTRIAL PROPERTY\n\n13.1  MSL hereby grants and will continue to grant all intellectual and industrial property rights for hardware, software, design, and documentation of all Products delivered under this Agreement to IBM. IBM shall not own any invention made by MSL on Products, but will have a non-exclusive, royalty-free license to use such inventions in the performance of its obligations hereunder. Additionally, IBM shall not be responsible for any invention related to MSL processes and systems that MSL makes while using those processes and systems in the performance of this Agreement; however, nothing herein shall restrict MSL's right to use such inventions, provided that MSL agrees in writing to grant IBM a non-exclusive, royalty-free license to use these inventions. MSL may use proprietary processes for the assembly, subassembly, and final tests, and quality testing of the Products subject to this Agreement, unless otherwise agreed upon in writing by both Parties.",
+    "contradiction_score": 0.7479562163352966,
+    "kept": true
+  },
+  {
+    "clause_index": 89,
+    "start_char": 33676,
+    "end_char": 34036,
+    "original": "d)    Neither Party shall disclose the terms of this Agreement to any third Party, including debt or financing institutions, without the prior written consent of the other Party, which consent shall not be unreasonably withheld or delayed, except as required by law. Each Party shall provide the other with prior written notice of any such required disclosure.",
+    "modified": "d)  Either Party retains the right to disclose the terms of this Agreement to a third party, including debt or financing institutions, without seeking the consent of the other Party, provided that such disclosure is necessary for legal compliance or to meet contractual obligations. In such cases, the Party making the disclosure shall provide prior written notice to the other Party without undue delay. The withholding or delay of consent by either Party under these circumstances will be deemed a breach of this Agreement.",
+    "contradiction_score": 0.9801815152168274,
+    "kept": true
+  },
+  {
+    "clause_index": 93,
+    "start_char": 34763,
+    "end_char": 34961,
+    "original": "b)    As of the Effective Date, to the best of IBM's knowledge, IBM has licenses and permits and other governmental authorizations and approvals required for IBM's use of the assets in Attachment 3:",
+    "ollama_generated": "c)   As of the Effective Date, it is IBM's representation that any necessary licenses, permits, governmental authorizations, and approvals for IBM's use of the assets listed in Attachment 3 have been obtained; however, the party entering into this agreement acknowledges that they assume all risks associated with IBM's potential lack of such authorization.",
+    "contradiction_score": 0.03934192284941673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 96,
+    "start_char": 36503,
+    "end_char": 36810,
+    "original": "\"To the best of IBM's knowledge\" shall be defined as the information available to IBM Charlotte Management after due inquiry as of the Effective Date. A materially adverse effect shall be defined as an outcome where MSL is unable to acquire appropriate title for assets to be purchased under this Agreement.",
+    "ollama_generated": "\"Based on the information known or reasonably ascertainable by IBM Charlotte Management at the time of inquiry, up to and including the Effective Date,\" shall replace the original phrase \"To the best of IBM's knowledge.\" A significant detrimental impact shall be defined as a situation where MSL encounters insurmountable challenges in securing acceptable title for assets under this Agreement.\n\nThis revised clause softens the obligation slightly by stating that IBM will only provide information that is known or reasonably ascertainable, rather than to the best of their knowledge, which could imply exhaustive research. Additionally, the definition of a materially adverse effect has been changed to reflect a more challenging scenario for MSL, emphasizing the potential difficulties they may encounter in acquiring title for assets.",
+    "contradiction_score": 0.28389230370521545,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 42079,
+    "end_char": 42097,
+    "original": "Statement of Work.",
+    "ollama_generated": "Project Scope Specification:\n\nThis document outlines the tasks to be accomplished by the Service Provider within the confines of the project, as agreed upon by both parties. However, it is understood that while every effort will be made to fulfill these tasks, there may be unforeseen circumstances that could impact the completion or quality of said tasks. The Client acknowledges and accepts this inherent flexibility in the project's execution.",
+    "contradiction_score": 0.01068100705742836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 44020,
+    "end_char": 44333,
+    "original": "a)    Organization of MSL MSL is a California corporation, duly organized, validly existing, and in good standing under the laws of California. MSL has all corporate powers and all material governmental licenses, authorizations, permits, consents, and approvals required to carry on its business as now conducted.",
+    "modified": "b)    MSL Corporation (hereafter referred to as \"MSL\"), though incorporated in California, acknowledges that it may not consistently maintain the status of being duly organized, validly existing, or in good standing under California law due to external circumstances beyond its control. MSL holds all corporate powers necessary for its operations, but does not guarantee possession of all material governmental licenses, authorizations, permits, consents, and approvals required to conduct its business as it currently does; however, MSL shall endeavor to obtain such necessary permissions in a timely manner.",
+    "contradiction_score": 0.8864770531654358,
+    "kept": true
+  },
+  {
+    "clause_index": 110,
+    "start_char": 44333,
+    "end_char": 45147,
+    "original": "b)    Authorization of Transaction MSL has the power and authority (including full corporate power and authority) to execute and deliver this Agreement and all other documents contemplated hereby and to perform its obligations hereunder. All corporate and other actions or proceedings to be taken by or on the part of MSL to authorize and permit the execution and delivery by MSL of this Agreement and the instruments required to be executed and delivered by MSL pursuant hereto, the performance by MSL of its obligations hereunder, and the consummation by MSL of the transactions contemplated here, have been duly and properly taken. This Agreement has been duly executed and delivered by MSL and constitutes the legal, valid and binding obligation of MSL, enforceable in accordance with its terms and conditions.",
+    "ollama_generated": "a) Grant of Authority to MSL: MSL is granted the authority (inclusive of full corporate power and discretion), to sign and deliver this Agreement, as well as any other related documents, and to fulfill its contractual obligations. All necessary internal approvals and actions by or on behalf of MSL, for the authorization and execution of this Agreement, the instruments required hereunder, the performance of MSL's duties under this contract, and the completion of transactions as contemplated herein, have been completed. This Agreement is legally binding upon MSL, and it shall be enforced in accordance with its terms and conditions, provided that any disputes arising from this Agreement shall first be subject to MSL's internal dispute resolution mechanisms before external proceedings can be initiated.",
+    "contradiction_score": 0.01875610090792179,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 48963,
+    "end_char": 49233,
+    "original": "15.2  Payment and Cooperation a)    MSL shall pay all damages, settlements, expenses and costs, including court costs and attorneys' fees, reasonably incurred by IBM, arising out of the matters set forth in Section 15.1 provided that such payment shall be contingent on:",
+    "ollama_generated": "15.2 Payment and Cooperation (a) IBM retains the right to seek reimbursement for all damages, settlements, expenses, and costs, including court costs and attorneys' fees, incurred reasonably as a result of matters outlined in Section 15.1. This right is contingent upon IBM first securing such recovery, at which point MSL shall be obligated to reimburse IBM for the recovered amount. However, MSL's obligation to reimburse shall not exceed the limit specified in Section 16.4.",
+    "contradiction_score": 0.09320612251758575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 50182,
+    "end_char": 50397,
+    "original": "15.3  Limitations of Liability a)    Neither Party will be liable to the other for lost profits, consequential, punitive, or incidental damages, even if informed of the possibility that such damages may be incurred.",
+    "ollama_generated": "15.3 Limitation of Responsibility:\na) Under no circumstances shall either Party be held responsible for direct damages, including but not limited to lost profits, consequential, punitive, or incidental losses, except as specifically provided elsewhere in this Agreement. Furthermore, neither Party will bear responsibility for any indirect losses that may have been anticipated by one party prior to entering into this Agreement.",
+    "contradiction_score": 0.008708527311682701,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 130,
+    "start_char": 52866,
+    "end_char": 53183,
+    "original": "16.4  Compliance with Law In the performance of this Agreement and related Purchase Orders the Parties shall comply with the laws of the United States unless otherwise specified, including but not limited to, those affecting price, production, purchase, sale, use and export of Products, environmental and labor laws.",
+    "ollama_generated": "16.4 Compliance with Law Exceptions Apply: In the execution of this Agreement and related Purchase Orders, each Party shall make every effort to comply with the U.S. federal and state laws, except where explicitly exempted or in contravention of international obligations. This includes, but is not limited to, regulations pertaining to pricing, production, procurement, sales, use, export, environmental protection, and labor practices. It is understood that any non-compliance due to such exceptions will not constitute a breach of this Agreement unless explicitly prohibited by international law.",
+    "contradiction_score": 0.372549444437027,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 58717,
+    "end_char": 58965,
+    "original": "16.15 Prohibited Suppliers IBM may provide MSL a lists of suppliers with whom MSL is prohibited from conducting any business in connection with this Agreement for the purposes of ensuring that IBM comply with the requirements of any governing laws.",
+    "ollama_generated": "16.15 Restricted Supplier Listing: MSL acknowledges and agrees to abide by a list of suppliers, as provided by IBM, from whom MSL is restricted from engaging in business activities relating to this Agreement. This measure aims to assist IBM in adhering to the obligations imposed by applicable laws.",
+    "contradiction_score": 0.005762860178947449,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 59504,
+    "end_char": 60441,
+    "original": "16.17 Force Majeure Neither Party shall be liable to the other for its failure to perform any of its obligations hereunder during any period in which such performance is delayed by circumstances or events that were not foreseeable, or if foreseeable could not have been reasonably avoided including, but not limited to, fire, flood, war, embargo, strike, riot, prolonged scarcity of necessary raw materials, inability to secure transportation or the intervention of any governmental authority, provided that the Party suffering such delay immediately notifies the other Party of the delay. If such delay shall continue for more than [*] Days, the Party injured by the inability of the other to perform shall have the right upon written notice to either a) terminate this Agreement as set forth in Section 5.1 c or b) treat this Agreement as suspended during the delay and reduce any commitment in proportion to the duration of the delay.",
+    "ollama_generated": "16.17 Unforeseen Circumstances: Under no circumstances shall either Party be held accountable for any delay or failure to fulfill their obligations under this agreement, when such hindrance arises from unanticipated events that could not have been reasonably anticipated or prevented, including but not limited to fire, flood, war, embargo, strike, riot, prolonged scarcity of essential resources, transportation issues, or interference by any governmental entity. The Party experiencing the delay is required to promptly notify the other Party of the circumstances causing the delay. If this delay persists for over [*] consecutive business days, the Party adversely affected by the other's inability to perform may, following written notice, opt a) to terminate this agreement as specified in Section 5.1 c or b) suspend this agreement temporarily during the delay and adjust their obligations proportionally based on the duration of the hindrance.",
+    "contradiction_score": 0.0045068333856761456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 61209,
+    "end_char": 62197,
+    "original": "16.21 Excused Exceptions to MSL Performance a)    Notwithstanding anything herein to the contrary, MSL may, upon written notice to IBM, delay or suspend performance to supply any Products or Services to IBM (i) if MSL has received notice from a third party, or based on the reasonable advice of legal counsel reasonably believes, that the supply of such Products or Services would subject MSL to liability for infringement or liability related to a defective design to a Product caused by MSL's material compliance with a written specification provided by an authorized representative of IBM or (ii) if IBM, pursuant to the Equipment Program and Loan Agreement, requires MSL to return a Loaned Item (as defined in said Equipment Program and Loan Agreement) which MSL reasonably believes is necessary to supply such Products or Services. MSL's decision not to supply Products or Services as provided in this Section 16.21 shall not constitute a breach or other violation of this Agreement.",
+    "ollama_generated": "16.21 Permissible Exceptions for MSL Non-Performance:\na) Notwithstanding any provisions to the contrary within this agreement, MSL reserves the right, upon written notification to IBM, to postpone or discontinue the delivery of Products or Services to IBM under the following circumstances:\n   (i) If MSL, relying on information received from a third party or based on the sound advice of legal counsel, reasonably perceives that the provision of such Products or Services may expose MSL to potential liability for infringement or issues concerning defective design due to MSL's adherence to a written specification furnished by an authorized IBM representative.\n   (ii) If IBM, in accordance with the Equipment Program and Loan Agreement, demands MSL to return a Loaned Item (as defined within said agreement) that MSL deems indispensable for the supply of such Products or Services.\n\nIt is understood that MSL's decision not to deliver Products or Services as stipulated in this Section 16.21 shall not be considered a breach or violation of any terms outlined within this Agreement.",
+    "contradiction_score": 0.016711542382836342,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 64981,
+    "end_char": 65044,
+    "original": "ACCEPTED AND AGREED TO:                 ACCEPTED AND AGREED TO:",
+    "ollama_generated": "ASSUMED RESPONSIBILITY FOR AND ACKNOWLEDGED THE FOLLOWING:                  TAKEN UPON THE LIABILITY FOR AND CONFIRMED UNDERSTANDING OF THE SUBSEQUENT TERMS:\n\nThis subtle rewording places the responsibility on the party accepting the clause, rather than just acknowledging their agreement. It shifts the focus to their assumption of liability and understanding of the terms, which suggests a more active role in the agreement.",
+    "contradiction_score": 0.006708827335387468,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 65044,
+    "end_char": 66212,
+    "original": "International Business                  Manufacturer's Services Machines Corp.                          Western U.S. Operations, Inc By:  /s/ Roy B. Covington III           By:  /s/ Kevin C. Melia ------------------------------          ---------------------------- Roy B. Covington III                    Kevin C. Melia ------------------------------          ---------------------------- Print Name                              Print Name Industry Solutions Production           President, CEO ------------------------------          ---------------------------- Title  Procurement Manager              Title 6/15/98                                 6/15/98 ------------------------------          ---------------------------- Date                                    Date Amendment 002 to Outsourcing Agreement between IBM and MSL The purpose of this document is to amend the Outsourcing Agreement between International Business Machines Corporation (\"IBM\") and Manufacturer's Services Western U.S. Operations, Incorporated (\"MSL\"), dated 05/05/98 (\"Agreement\"). The effective date of this Amendment is the date executed by authorized representatives of both parties.",
+    "ollama_generated": "Revised Outsourcing Agreement Amendment between IBM and MSL\n\nBetween International Business Machines Corporation (\"IBM\"), and Manufacturer's Services Western U.S. Operations, Incorporated (\"MSL\"), this document serves to modify the Initial Outsourcing Agreement dated 05/05/98 (\"Agreement\"). The modification becomes effective on the date duly authorized representatives of both parties sign below.\n\nIBM and MSL acknowledge and agree that any obligations or responsibilities not explicitly addressed in this Amendment will remain subject to the original terms and conditions as set forth in the Agreement.\n\nThe amended terms are as follows:\n\n1. With regard to Industry Solutions Production, it is hereby understood that MSL shall have the discretion to determine production methods, provided they comply with all applicable legal requirements and IBM's quality standards. Any changes or modifications necessitated by this discretionary power will be duly communicated to IBM in a timely manner.\n\n2. The role of President, CEO for IBM is hereby relieved from day-to-day production oversight responsibilities, with such duties now falling under the Procurement Manager's purview. This change shall not affect the President, CEO's strategic decision-making authority or overall management responsibilities.\n\n3. The date of this Amendment has been amended from 6/15/98 to [Insert New Date], the date on which both parties execute this document.\n\nSigned, sealed, and delivered on this [Insert Day], [Insert Year].\n\nBy: /s/ Roy B. Covington III      By: /s/ Kevin C. Melia\n    ------------------------------   ----------------------------\n    Roy B. Covington III              Kevin C. Melia\n    ------------------------------   ----------------------------\n    Print Name                       Print Name\n\nTitle  Procurement Manager         Title  President, CEO\n    ------------------------------   ----------------------------\n    Title 6/15/98                                Date                                      [Insert New Date]\n    ------------------------------   ----------------------------\n    Date                                        Date                                      [Insert New Date]",
+    "contradiction_score": 0.18423445522785187,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 165,
+    "start_char": 67438,
+    "end_char": 67498,
+    "original": "ACCEPTED AND AGREED TO:              ACCEPTED AND AGREED TO:",
+    "ollama_generated": "UNDERSTANDING AND CONSENT:                       UNDERSTANDING AND ACCEPTANCE:\n\nWe, the parties involved, understand and acknowledge the following terms and conditions as set forth in this agreement. However, it is important to note that our understanding does not constitute a binding agreement until all necessary signatures are obtained and the document is officially executed. The final responsibility for ensuring compliance with these terms lies with the party who will be primarily benefiting from this contract.\n\nIn case of any discrepancies or misunderstandings, it shall be the duty of the beneficiary to clarify any issues promptly to maintain the integrity and validity of the agreement. Failure to do so may lead to potential disputes, which we hope can be avoided through open communication and mutual understanding.\n\nThis understanding and acceptance does not imply that either party is waiving their rights to seek legal recourse in case of any breach or violation of this contract's terms. It simply serves as a stepping stone towards the official execution of the agreement, demonstrating our initial intent and commitment to working together in good faith.",
+    "contradiction_score": 0.0075912876054644585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 68922,
+    "end_char": 69060,
+    "original": "1. Delete paragraph 2 in Supplement 1 to Attachment 1, Statement of Work, to the Agreement in its entirety and replace with the following:",
+    "ollama_generated": "1. Incorporate a new paragraph 2 in Supplement 1 to Attachment 1, Statement of Work, as follows, effectively removing the original content of paragraph 2:\n\n\"Any obligations or requirements previously stated in paragraph 2 of this Supplement shall be deemed null and void. Instead, the Contractor is entitled to a discretionary allowance for any additional tasks or services that may be requested by the Client, subject to the Contractor's approval and within the scope of the original Agreement.\"",
+    "contradiction_score": 0.056860409677028656,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 179,
+    "start_char": 72528,
+    "end_char": 72662,
+    "original": "All other terms and conditions of the IBM/MSL Outsourcing Agreement, its attachments, and amendments shall remain in force and effect.",
+    "ollama_generated": "Existing modifications, addenda, or supplementary provisions of the IBM/MSL Outsourcing Agreement, including any accompanying attachments, shall continue to apply and govern our relationship, unless explicitly revoked or replaced in writing by mutual consent.",
+    "contradiction_score": 0.002442894736304879,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 180,
+    "start_char": 72662,
+    "end_char": 72790,
+    "original": "IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their respective authorized representatives.",
+    "ollama_generated": "FOR THE RECORD, the parties involved in this agreement acknowledge that they have empowered their respective appointees to signify acceptance of this Amendment on their behalf.",
+    "contradiction_score": 0.0026674738619476557,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 186,
+    "start_char": 92935,
+    "end_char": 93190,
+    "original": "1. Add to the Agreement as Attachment H, Product Attachment - Complementary Products, to Attachment 1, Statement of Work to the Agreement. Attachment H will be referred to as a Complementary Products. Complementary Products (\"CP\") is an IBM business unit.",
+    "ollama_generated": "1. Integrate into this Agreement as Appendix J, designated as Additional Offerings - Related Products, appended to Section 1, Scope of Work within the Agreement. This Appendix will be hereinafter referred to as Related Products. The Related Products encompass a range of offerings that may fall under the purview of any IBM business entity or subsidiary (collectively, \"IBM Entities\").\n\nIn this revised clause, I've broadened the scope of the products to include any IBM entity or subsidiary instead of just one specific business unit. This shift in language allows for a more flexible interpretation and implementation of related products, depending on the context and specific needs of the agreement.",
+    "contradiction_score": 0.0034620712976902723,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 194,
+    "start_char": 96767,
+    "end_char": 96895,
+    "original": "IN WITNESS WHEREOF, the Parties hereto have caused this amendment to be executed by their respective authorized representatives.",
+    "ollama_generated": "FOR THE PURPOSE OF RECORD, it is hereby acknowledged that the relevant parties have duly authorized their respective representatives to signify their agreement with the stipulations outlined within this amendment.",
+    "contradiction_score": 0.001644343719817698,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 200,
+    "start_char": 98846,
+    "end_char": 99004,
+    "original": "\"April 3, 1999\" 2. Delete \"through February 26, 1999\" from the end of sentence of item 1. in Amendment 003 to the Agreement and replace it with the following:",
+    "ollama_generated": "\"April 3, 1999\": Rearrange and modify the timeframe of item 1 in Amendment 003 of the Agreement as follows: Replace \"through February 26, 1999\" with \"from April 3, 1999, onwards\".",
+    "contradiction_score": 0.002671608468517661,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 204,
+    "start_char": 100147,
+    "end_char": 100210,
+    "original": "\"The following replaces Section 7.0 of the SOW in its entirety.",
+    "ollama_generated": "\"In supersession of all provisions contained within Section 7.0 of the Statement of Work (SOW), the following section shall hereafter take precedence:\n\nThis new provision shall alter and supplant the original obligations as follows: The Client's responsibility for providing necessary input, approvals, and decisions in a timely manner is now deemed optional, subject to the Service Provider's discretion to proceed without such input, should it be deemed feasible.\"\n\nIn this revised clause, the Client's obligation to provide necessary input, approvals, and decisions in a timely manner has been shifted to an optional responsibility, giving the Service Provider discretion to proceed with the project even if these requirements are not met.",
+    "contradiction_score": 0.0031647980213165283,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 209,
+    "start_char": 101266,
+    "end_char": 101436,
+    "original": "Extensions will be in writing and signed by both parties.\" 7. Delete \"February 26, 1999\" from item 4. of Amendment 003 to the Agreement and replace it with the following:",
+    "ollama_generated": "7. Extensions, if any, must be communicated in writing and mutually acknowledged by both parties, thereby constituting a valid amendment to this Agreement. (Regarding Amendment 003, please note that the specific date previously stated as \"February 26, 1999\" under item 4 shall hereafter be replaced with a mutually agreed upon date between the parties.)",
+    "contradiction_score": 0.0016330297803506255,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 211,
+    "start_char": 101554,
+    "end_char": 101701,
+    "original": "\"b) Any extension of the I/T Services beyond the April 3, 1999 date, due to an MSL delay, will be priced at IBM's then prevailing commercial rates.",
+    "ollama_generated": "\"b) In the event that the I/T Services continue past the April 3, 1999 date due to a delay on our part, we reserve the right to charge you at our current market rates for those extended services.\"",
+    "contradiction_score": 0.003928855527192354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 219,
+    "start_char": 103612,
+    "end_char": 104012,
+    "original": "By: /s/ Roy B. Covington III                   By: /s/ Dale Johnson -------------------------------------          ----------------------------- Roy B. Covington III                           Dale R. Johnson -------------------------------------          ----------------------------- Print Name                                     Print Name Ind. Solutions Production Procurement          Exec. V.P.",
+    "ollama_generated": "By: /s/ Roy B. Covington III \\__________________ By: /s/ Dale Johnson ____________\n\nRoy B. Covington III \\__________________ Dale R. Johnson ____________\nPrint Name \\_____________________ Print Name \\_____________________\n\nInd. Solutions Production Procurement \\__________________ Exec. V.P. (Dale R. Johnson) ____________\n\nExecuted under seal, this Agreement shall only be binding upon Ind. Solutions Production Procurement when duly executed and returned by Dale R. Johnson, Executive Vice President, or his duly authorized representative. In the event that no such execution and return is received within thirty (30) days of service of this Agreement upon Dale R. Johnson, this Agreement shall be deemed null and void, and Ind. Solutions Production Procurement shall have no further obligations or liabilities under its terms.\n\nIn essence, while Dale R. Johnson remains responsible for executing the agreement, this revised clause places a time limit on his action, absolving Ind. Solutions Production Procurement from any future obligations if no execution is returned within thirty (30) days of service.",
+    "contradiction_score": 0.2805083096027374,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 107640,
+    "end_char": 107710,
+    "original": "ACCEPTED AND AGREED TO:                        ACCEPTED AND AGREED TO:",
+    "ollama_generated": "UNDERSTANDING AND CONSENTING TO:                                UNDERSTANDING AND CONSENTING TO:\n\nThe modification in this case is to make the clause less definitive and more open-ended. Here's a possible version that maintains professionalism while slightly weakening the obligation:\n\n\"Acknowledged and agreed, with the understanding that circumstances may change, that the terms outlined herein shall serve as a guideline rather than an absolute obligation.\"\n\nThis version implies that the parties involved understand and agree to the terms, but acknowledges that the situation might evolve, suggesting a greater degree of flexibility.",
+    "contradiction_score": 0.003743954235687852,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 236,
+    "start_char": 111545,
+    "end_char": 111603,
+    "original": "a) Value Add and Profit Rates are per the following table:",
+    "ollama_generated": "b) The Value Add and Profit Rates as stipulated below shall serve as a guideline for calculations:\n\nNote: This revised clause suggests that while the table is still provided, it is now more of a reference or guideline rather than a strict rule. It implies that there may be some flexibility in how the rates are applied or calculated.",
+    "contradiction_score": 0.0029827081598341465,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 237,
+    "start_char": 111603,
+    "end_char": 112809,
+    "original": "VALUE ADD RATES     PROFIT RATES (**) ---------------     ----------------- RS Fulfillment (US & VALENCIA Work Centers                [*]                [*] GEPS, Finance, CP, and Security Mfg & Fulfillment [*]                                                [*]                [*] [*]                [*] Spares to Mechanicsburg and Amsterdam US Work Center                                     [*]                [*] Valencia Work Center                               [*]                [*] (Through September 30, 1998) Valencia Work Center                               [*]                [*] (After September 30, 1998) *  [*]                                                [*]                [*] *  [*]                                                [*]                [*] *  [*]                                                [*]                [*] *  [*]                                                [*]                [*] *  [*]                                                [*]                [*] ** Profit Rates are subject to the adjustments of Section 7.3, Attachment 1, SOW 5. Delete in Section 17.0 b) to Attachment 1, Statement of Work to the Agreement, 12/31/98 and replace it with 12/31/99.",
+    "ollama_generated": "VALUE ADDITIONAL RATES   MARGINAL PROFIT RATES (**) ------------------------ --------------------\n\nRS Fulfillment (US & Valencia Work Centers) ----------------- -------------------\nGEPS, Finance, CP, and Security Manufacturing & Fulfillment --------------------------\n(Through December 31, 1998)\n\nValencia Work Center ------------------------------- (After December 31, 1998)\n\nUS Work Center (Spares) ------------------------ [*]\nAmsterdam US Work Center ----------------- [*]\nValencia Work Center --------------------- [*]\n\n[*] denotes variables to be filled in at a later stage.\n\nProfit Rates are subject to the adjustments of Section 7.3, Attachment 1, SOW 5. Exclude section 17.0 b) from Attachment 1, Statement of Work to the Agreement, as of December 31, 1998, and replace it with December 31, 2000.\n\nIn this revised clause, the obligations have been weakened by extending the Valencia Work Center's responsibilities beyond September 30, 1998, to December 31, 1998, and further to December 31, 2000. Additionally, the section that was to be deleted from the Agreement has been extended by a year.",
+    "contradiction_score": 0.26062822341918945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 266,
+    "start_char": 123686,
+    "end_char": 124425,
+    "original": "Beginning November 1, 1999 and through the end of the period defined in Section 2.0 Term, SECTION I - WEDGE PRODUCTS in Supplement 1 to Attachment 1 of Work to the Agreement, IBM shall pay MSL [*] dollars ([*]) on the first day of each calendar month. For any period of less than one month, the above amount shall be apportioned based upon the number of Days in that month.\" Page 1 of 2 Amendment 010 to Outsourcing Agreement between IBM and MSL 4. Delete the wording in the last paragraph of Specific Product Description as added by Amendment 005, of Exhibit 1, Product Attachment - Wedge Products to Supplement 1, Transition Services to Attachment 1, Statement of Work to the Agreement, in its entirety and replace it with the following:",
+    "modified": "Commencing from November 1, 1999, and lasting until the termination date as outlined in Section 2.0 Term, SECTION I - WEDGE PRODUCTS, as detailed in Supplement 1 to Attachment 1 of the Agreement, MSL shall be entitled to receive from IBM a fixed amount in MSL dollars ([*]), payable on the last day of each calendar month. For any period shorter than one month, the aforementioned sum will be proportionately adjusted based on the number of Days remaining in that month.\"\n\nRegarding the Specific Product Description, as amended by Amendment 005 and detailed in Exhibit 1, Product Attachment - Wedge Products to Supplement 1, Transition Services to Attachment 1, Statement of Work to the Agreement, we shall remove the existing wording in its entirety and replace it with the following:\n\nMSL will be responsible for any modifications or updates required for the WEDGE PRODUCTS during the term of this Agreement. Any such changes will be communicated to IBM in a timely manner and will become part of the Supplement 1 to Attachment 1 of the Agreement, subject to IBM's approval.",
+    "contradiction_score": 0.6395508050918579,
+    "kept": true
+  },
+  {
+    "clause_index": 286,
+    "start_char": 133201,
+    "end_char": 133342,
+    "original": "1.7   \"End of Life\" (EOL) shall mean the date after which IBM does not require MSL to provide Products and/or Services for specific Products.",
+    "modified": "1.7   \"Continuation of Support\" (CoS) refers to the period during which IBM may request MSL to continue providing Products and/or Services for specified Products. The commencement of this period shall be deemed to begin on a date prior to which IBM is not entitled to demand such support from MSL.",
+    "contradiction_score": 0.8339541554450989,
+    "kept": true
+  },
+  {
+    "clause_index": 291,
+    "start_char": 134249,
+    "end_char": 134612,
+    "original": "IBM Confidential                                                    Page 5 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work 1.12  \"Hot line\" shall mean a service available from 7:30 am to Midnight local Work Center time, Mondays through Fridays for emergency problem resolution requested from IBM customers, IBM Document VFM045.",
+    "ollama_generated": "IBM Confidential - Page 5 of 39, sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work\n\n1.12  \"Hot line\" herein refers to a service that offers emergency problem resolution assistance for IBM customers during the extended hours of 7:30 am to 1:00 am local Work Center time, on weekdays (excluding Saturdays and Sundays) as per IBM Document VFM045. Please note that while we strive for prompt attention, this service may not be immediately available beyond the conventional business hours of Midnight to 7:30 am.",
+    "contradiction_score": 0.03087780997157097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 301,
+    "start_char": 136358,
+    "end_char": 136568,
+    "original": "1.22  \"Wedge Products\" shall mean Products as described in a specific Product Attachment, which are fulfilled by MSL from IBM Consigned Parts from the Effective Date of this Agreement through December 31, 1998.",
+    "ollama_generated": "1.22 For the purposes of this Agreement, \"Wedge Products\" shall refer to items detailed in the Product Attachment, supplied by MSL exclusively from IBM Consigned Parts between the Effective Date and December 31, 1998. However, it is clarified that MSL assumes no responsibility for any products supplied after this date or those not explicitly defined as \"Wedge Products\" according to the Product Attachment.",
+    "contradiction_score": 0.003770149778574705,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 302,
+    "start_char": 136568,
+    "end_char": 137112,
+    "original": "SECTION 2.0 TERM This Attachment and its Product Attachments shall become effective on the Effective Date and shall continue for a period of three (3) years unless terminated as provided in Section 5.0 of the Base Agreement. This Attachment will automatically be renewed for periods of six (6) months unless either party gives twelve (12) months written notice of its intent to terminate this Agreement. Such renewals shall continue for successive periods under the same terms and conditions, unless otherwise agreed in writing by both Parties.",
+    "modified": "SECTION 2.0 DURATION: This Attachment, along with its Product Attachments, will commence on the Effective Date and persist indefinitely until either party elects to terminate it as specified in Section 5.0 of the Base Agreement. The non-defaulting party may terminate this Agreement upon providing written notice, but said termination shall only take effect three months after such notice is given. Subsequent to this initial termination period, the Agreement will be deemed tacitly renewed for successive six-month periods unless either party provides twelve months' prior written notice of its intention to discontinue this Agreement. Any such renewals shall maintain the original terms and conditions, unless altered in writing by mutual agreement between the Parties.\n\nIn this version, the term has been changed from a fixed three-year term to an indefinite one (with the exception of a specific termination period after providing notice). The defaulting party's responsibility to provide twelve months' written notice of intent to terminate has also been removed and replaced with the requirement for only three months' notice. Furthermore, the agreement will now automatically renew every six months unless either party elects to terminate it, and the requirement for twelve months' prior notice to discontinue a renewal period has been reduced to one year. The renewals will continue under the same terms and conditions unless altered in writing by mutual agreement between the parties.",
+    "contradiction_score": 0.6019831299781799,
+    "kept": true
+  },
+  {
+    "clause_index": 304,
+    "start_char": 137866,
+    "end_char": 137876,
+    "original": "MSL shall:",
+    "ollama_generated": "MSL is expected to exercise best efforts to:\n\n(1) Provide the Services as described in this Agreement, subject to any limitations set forth herein;\n\n(2) Comply with all applicable laws and regulations in the performance of its obligations under this Agreement;\n\n(3) Use reasonable skill, care, and diligence in the provision of the Services;\n\n(4) Furnish promptly upon request all such information, documents, or materials as may be reasonably required for the performance of its obligations under this Agreement.\n\nHowever, MSL shall not be liable for any failure or delay in the performance of its obligations under this Agreement to the extent that such failure or delay results from:\n\n(1) Any cause beyond its reasonable control;\n\n(2) Any act or omission of the Client or any third party engaged by the Client in connection with this Agreement; or\n\n(3) Any breach or non-performance by the Client of its obligations under this Agreement.",
+    "contradiction_score": 0.02182803303003311,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 306,
+    "start_char": 141414,
+    "end_char": 141611,
+    "original": "SECTION 4.0 IBM RESPONSIBILITIES The following is a list of responsibilities that will be required of IBM in order to fulfill the requirements of this Agreement. This list may not be all inclusive.",
+    "ollama_generated": "SECTION 4.0 SCOPE OF IBM OBLIGATIONS The following outlines certain duties that may fall under IBM's purview, though it is not exhaustive. It should be noted that this list does not limit IBM's obligations under this Agreement.\n\nIn this revised clause, the original \"IBM responsibilities\" has been replaced with \"scope of IBM obligations,\" which is more general and less definitive in nature. The phrase \"The following is a list of responsibilities...\" has also been changed to \"This outlines certain duties...\", subtly suggesting that the list may not be exhaustive, thereby potentially providing IBM with some flexibility in fulfilling its obligations. Finally, the last sentence, \"This list may not be all inclusive,\" which was in the original clause, is moved to the end of the revised clause for emphasis and clarity.",
+    "contradiction_score": 0.057485319674015045,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 311,
+    "start_char": 144193,
+    "end_char": 144740,
+    "original": "IBM Confidential                                                    Page 9 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work i)    define prices for the coming [*] based upon procedures defined in Section 7.5 e)i) below, ii)   determine credits and debits to material costs and NIC for the previous [*] caused by [*] to the material costs from those estimated at the prior [*] meeting, and iii)  determine Requirements Accuracy liabilities for the previous [*] as defined in Section 13.0 Inventory and Appendix 2.",
+    "ollama_generated": "IBM Confidential                                                    Page 9 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work\n\ni)       Establish pricing for the upcoming [*] according to the procedures outlined in Section 7.5 e)i),\nii)      Assess and adjust credits or debits to material costs and NIC for the current [*], attributable to any discrepancies between actual and estimated material costs as determined at the prior [*] meeting, and\niii)     Evaluate and allocate Requirements Accuracy responsibilities for the current [*], as defined in Section 13.0 Inventory and Appendix 2. The Service Provider shall bear the liability for any discrepancies or errors in the Requirements Accuracy during this period.",
+    "contradiction_score": 0.1014716774225235,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 316,
+    "start_char": 147981,
+    "end_char": 148049,
+    "original": "d)    Either Party may change its program manager by written notice.",
+    "ollama_generated": "d)  It is at the sole discretion of either Party to appoint a new program manager upon providing written notice to the other Party.",
+    "contradiction_score": 0.008069836534559727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 317,
+    "start_char": 148049,
+    "end_char": 148614,
+    "original": "e)    Both Parties recognize that efficiency of operation may frequently require direct communication between program managers, or other individuals working for the Parties, without the intermediation of the Relationship Managers. Notwithstanding the above, MSL accepts that only commitments issued by the IBM Relationship Managers or their delegates are valid IBM commitments with respect to this Agreement. Also, IBM accepts that only commitments issued by the MSL Relationship Managers or their delegates are valid MSL commitments with respect to this Agreement.",
+    "ollama_generated": "f) Both Parties acknowledge that streamlined collaboration might necessitate unmediated communication between program managers, or other personnel assigned by either Party, without the involvement of the designated Relationship Managers. However, it is clarified that while direct communication may occur, only promises or commitments made explicitly by the IBM Relationship Managers or their authorized representatives are considered binding IBM obligations under this Agreement. Similarly, MSL acknowledges that only assurances given by its Relationship Managers or their appointed delegates constitute valid MSL obligations in relation to this Agreement.",
+    "contradiction_score": 0.46103522181510925,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 325,
+    "start_char": 150219,
+    "end_char": 150465,
+    "original": "7.1   Manufacturing and Fulfillment Pricing MSL's price to IBM for the fulfillment of Products for RS and MSL's price to IBM for the manufacturing and fulfillment of GEPS and Finance Products will be determined according to the following formula:",
+    "ollama_generated": "7.1   IBM shall determine the pricing for MSL's fulfillment of Products for RS, as well as the pricing for the manufacturing and fulfillment of GEPS and Finance Products. The pricing formula will be communicated to MSL by IBM. MSL shall comply with such pricing guidelines in accordance with the agreed terms.",
+    "contradiction_score": 0.4018011689186096,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 332,
+    "start_char": 151581,
+    "end_char": 151871,
+    "original": "7.2   Prices for MSL Manufactured RS Products and RS Integration a)    For RS Products, the cost of components manufactured by MSL, and not sourced from third party suppliers, will be determined by the following formula: {TMC = [*]}, where the following values are assigned to such formula:",
+    "ollama_generated": "7.2 Pricing for MSL-Manufactured RS Products and RS Integration (revised)\n\na) For RS Products, the cost of components manufactured by MSL, which may include third-party sourced supplies, will be determined by the following formula: {TMC = [*]}, where the following values are assigned to such formula:\n\nIn this revised clause, the scope has been expanded slightly to include the possibility that some components for RS Products might be sourced from third-party suppliers. This modification subtly shifts the responsibility of component sourcing from MSL to a potentially wider pool, thereby weakening the obligation on MSL in this regard. However, the primary pricing formula remains unchanged, preserving the professional and realistic nature of the original clause.",
+    "contradiction_score": 0.0262751504778862,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 333,
+    "start_char": 152093,
+    "end_char": 152144,
+    "original": "i)       \"TMC\" shall mean Total Manufacturing Cost.",
+    "ollama_generated": "\"The term 'TMC' herein refers to the aggregated expenses incurred for manufacturing purposes, exclusive of any additional costs such as taxes, levies, or exceptional fees.\"",
+    "contradiction_score": 0.006439024116843939,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 341,
+    "start_char": 153486,
+    "end_char": 153952,
+    "original": "a)    For any calendar month, if a Work Center fails to ship any machine type on at least a [*]% on time shipment rate to all committed Delivery Points, and such failure is not a result of Force Majeure activity under Section 16.17 of the Base Agreement, or a delay caused substantially by IBM, the Profit Rates defined in Section 7.1(d) and Appendix 1, shall be based on the following table for all delinquent shipments of such machine types, from that Work Center.",
+    "ollama_generated": "b) In any given calendar month, if a Work Center does not meet a minimum on-time shipment rate of [*]% for all committed Delivery Points with respect to a particular machine type, and this shortfall is neither attributable to Force Majeure events under Section 16.17 of the Base Agreement nor primarily due to delays caused by IBM, the Profit Rates outlined in Section 7.1(d) and Appendix 1 will apply not only to these tardy shipments but also to all subsequent shipments of that machine type from the responsible Work Center for the remainder of the month.",
+    "contradiction_score": 0.2718280255794525,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 353,
+    "start_char": 158697,
+    "end_char": 158903,
+    "original": "7.5      [*] of Product [*]. The unit [*] and elemental [*], i.e., [*], and [*], listed in the Markup Appendix 1 and Product Attachments shall [*] during the term of this Agreement subject to the following:",
+    "modified": "7.5 The responsibility for compliance with respect to the Product [*] rests solely with the provider, with regard to the unit [*] and elemental components, specifically [*], as outlined in the Markup Appendix 1 and Product Attachments. It is understood that these responsibilities may be exercised independently of this Agreement, subject only to any applicable laws and regulations.",
+    "contradiction_score": 0.9041976928710938,
+    "kept": true
+  },
+  {
+    "clause_index": 360,
+    "start_char": 162156,
+    "end_char": 162213,
+    "original": "[*] Days before T, MSL shall initiate an update proposal.",
+    "modified": "[*] Following T, MSL shall have the option, but not obligation, to submit a proposal for an update at their discretion.",
+    "contradiction_score": 0.7275828719139099,
+    "kept": true
+  },
+  {
+    "clause_index": 374,
+    "start_char": 166005,
+    "end_char": 166416,
+    "original": "b)    The Parties agree that [*]% of all Parts price reductions will be [*] to IBM when MSL begins using and shipping the lower costs Parts. However, if a specific price reduction is the direct result of a previously IBM approved substantial engineering, design, or resourcing change by MSL, that price reduction will be [*] for a period of [*] months, then [*]% of the Parts price reduction will be [*] to IBM.",
+    "ollama_generated": "c) The Parties acknowledge that IBM is entitled to receive [*]% of any potential price savings on Parts, effective immediately upon MSL's commencement of using and shipping the reduced cost Parts. However, in the event that a specific price reduction is due to an engineering, design, or resourcing change initiated by MSL and previously approved by IBM, such price reduction shall be entirely retained by MSL for a period of [*] months, following which IBM may claim [*]% of any remaining Parts price reduction.\n\nThis revised clause implies that IBM's entitlement to the price reduction is immediate in most cases, but if the reduction is due to an approved change by MSL, IBM will only receive a portion of the savings after a specified period has passed. The burden for demonstrating that the price reduction is due to an approved change lies with MSL, and IBM can only claim a reduced percentage of the remaining price reduction after the specified period has elapsed.",
+    "contradiction_score": 0.0025876970030367374,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 375,
+    "start_char": 166416,
+    "end_char": 166503,
+    "original": "SECTION 9.0 PREMIUM COST Premium costs may be incurred in order to meet Delivery Dates.",
+    "ollama_generated": "SECTION 9.0 PREMIUM COST Obligations: The Parties acknowledge and agree that the occurrence of Premium Costs is a potential outcome when striving to adhere to Delivery Dates, rather than an expectation or guarantee.",
+    "contradiction_score": 0.14302483201026917,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 377,
+    "start_char": 166697,
+    "end_char": 166836,
+    "original": "b)    The Parties agree that [*] of all Parts price reductions will be [*] to IBM when MSL begins using and shipping the lower costs Parts.",
+    "modified": "a) The Parties acknowledge that IBM shall only receive [*] of any price increases on the Parts, starting from the point when MSL initiates using and supplying the higher-priced Parts.",
+    "contradiction_score": 0.9970124959945679,
+    "kept": true
+  },
+  {
+    "clause_index": 382,
+    "start_char": 167784,
+    "end_char": 167901,
+    "original": "d)    MSL will use the following process for requesting authorization and/or reimbursement of premium costs from IBM:",
+    "ollama_generated": "d) In the event that premium costs require authorization or reimbursement by IBM, MSL shall employ the subsequent procedure:\n\n1. MSL will initiate a formal request to IBM outlining the necessary details and justification for the requested costs.\n2. IBM reserves the right to assess and review the provided information before rendering a decision on authorization or reimbursement.\n3. In the case that IBM approves the request, MSL will be required to provide appropriate documentation and follow any additional instructions or guidelines stipulated by IBM.\n4. If IBM declines the request, MSL acknowledges its responsibility to absorb the costs associated with the premiums in question.",
+    "contradiction_score": 0.0029858702328056097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 386,
+    "start_char": 169946,
+    "end_char": 169980,
+    "original": "(c)    Product(s) quantity affect.",
+    "ollama_generated": "(c) The quantity of the Product(s) may be subject to fluctuation. In case of discrepancy or need for adjustment, the Seller shall have the discretion to make necessary modifications, with the understanding that the Buyer shall not hold the Seller liable for any inconvenience caused due to such changes in quantity.",
+    "contradiction_score": 0.0027172488626092672,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 387,
+    "start_char": 169999,
+    "end_char": 170032,
+    "original": "(d)    Justification for Premium.",
+    "ollama_generated": "(d)    Premium Rationale Explanation.\n\nIn this revised version, the term \"Justification\" has been replaced with \"Rationale Explanation.\" This change subtly shifts the focus from a strict justification to providing an explanation or rationale for the premium (fee or charge). It's a more casual and less demanding phrase that could potentially lead to smoother negotiations. However, it's essential to ensure that the revised clause still accurately reflects the original intention of the document.",
+    "contradiction_score": 0.18088240921497345,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 389,
+    "start_char": 170188,
+    "end_char": 170361,
+    "original": "[*] rate is the rate at which [*] are charged to IBM (as required by IBM), and will be in accordance with the [*] basis. The [*] rate shall not exceed [*]([*]%) of [*] rate.",
+    "ollama_generated": "The remuneration for the services rendered shall be determined by the rate stipulated by us, which may vary based on our requirements and will adhere to the agreed-upon billing structure. Any rates provided by us shall not surpass 120% of the base rate set by IBM.",
+    "contradiction_score": 0.05768385902047157,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 390,
+    "start_char": 170361,
+    "end_char": 170560,
+    "original": "The actual [*] will be negotiated on a case-by-case basis by IBM and MSL and will not exceed MSL's actual [*] paid to its [*] and [*]. MSL's request for authorization and/or reimbursement must state:",
+    "ollama_generated": "The estimated [*] shall be mutually agreed upon by IBM and MSL, and may fall below the estimate. However, it should not be less than the actual [*] received by MSL's [*] and [*]. Any request for approval and/or reimbursement from MSL must clearly specify:\n\nThis revised clause suggests that the actual cost might be lower than the agreed-upon estimate, whereas the original clause implies that the actual cost will not exceed the estimate. Also, the responsibility of ensuring the cost does not exceed the estimate has been shifted to IBM in this version, while in the original it was on MSL to ensure their costs did not exceed their received amounts.",
+    "contradiction_score": 0.01376910787075758,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 391,
+    "start_char": 170774,
+    "end_char": 170823,
+    "original": "(a)    Purchase price variance due to [*] or [*].",
+    "ollama_generated": "(b) Variations in purchase price not attributable to actions by either party.\n\nExplanation: The original clause indicates that the purchase price variance is due to certain factors. The rewritten clause removes any implications of specific actions being responsible for the price variance, suggesting instead that such variations are beyond the control of both parties.",
+    "contradiction_score": 0.19188742339611053,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 393,
+    "start_char": 170910,
+    "end_char": 170960,
+    "original": "(c)    Quantity of units to be shipped due to [*].",
+    "modified": "(c)   The quantity of units to be received herein shall be determined by [*], with the responsibility for any shortages or excesses lying with the sender.\n\nExplanation: The original clause states that the quantity of units to be shipped is specified by something/someone. The rewritten clause flips this obligation, placing the onus on the recipient to receive a specified quantity, and specifying that any discrepancies (shortages or excesses) are the sender's responsibility. This change subtly shifts the risk and potential liability for errors in delivery from the sender to the receiver.",
+    "contradiction_score": 0.9466698169708252,
+    "kept": true
+  },
+  {
+    "clause_index": 397,
+    "start_char": 171148,
+    "end_char": 171295,
+    "original": "iii)  Extraordinary Items MSL may propose premium rates for expedited tooling orders, premium transportation, and other extraordinary requirements.",
+    "ollama_generated": "iii) The Client reserves the right to request and MSL shall be obligated to consider, additional charges for expedited tooling orders, priority transportation, and other exceptional service requests made by the Client, at rates mutually agreed upon between the parties.",
+    "contradiction_score": 0.2717495262622833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 398,
+    "start_char": 171295,
+    "end_char": 171412,
+    "original": "If IBM agrees that the resources are required, MSL and IBM will negotiate in good faith the price for such resources.",
+    "modified": "In the event that neither party contests the necessity of the resources, MSL and IBM shall engage in good faith discussions to establish a mutually agreeable cost for these resources. Hereby, the onus lies on either party to raise objections regarding the required resources, should they deem it necessary.",
+    "contradiction_score": 0.6396294236183167,
+    "kept": true
+  },
+  {
+    "clause_index": 417,
+    "start_char": 179142,
+    "end_char": 179330,
+    "original": "a)    The forecast will contain anticipated Delivery Dates for specified quantities of machine types, models and geographies and lead-time profile updates, as required, for specific Parts.",
+    "ollama_generated": "b) Specific Parts' lead-time profile updates, including anticipated Delivery Dates for specified quantities of machine types, models, and geographies, shall be provided by the Seller as needed, but are not guaranteed to be updated consistently or without delay.",
+    "contradiction_score": 0.024559970945119858,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 419,
+    "start_char": 180255,
+    "end_char": 180697,
+    "original": "c)    If MSL notifies IBM that it cannot meet the quantities and Delivery Dates in IBM's forecast, MSL's notification will include the quantities MSL can deliver within the forecast's Delivery Dates and proposed schedule of Delivery Dates for delivering the quantities MSL cannot deliver within the forecast. IBM shall notify MSL in writing, within [*] Days of receipt of MSL's notification, of its decision either, in its sole discretion to:",
+    "modified": "d) In case IBM provides a forecast for quantities required from MSL that MSL cannot fulfill, MSL shall have the discretion to communicate only the quantities it can deliver within the specified Delivery Dates and suggest an alternative schedule for delivering the remaining quantities. IBM's obligation is to respond in writing, within [*] Days of receiving MSL's communication, outlining its choice: either accepting the adjusted delivery schedule proposed by MSL or negotiating a revised schedule in good faith.",
+    "contradiction_score": 0.6644054651260376,
+    "kept": true
+  },
+  {
+    "clause_index": 420,
+    "start_char": 180697,
+    "end_char": 181885,
+    "original": "i)    agree to the quantities and Delivery Dates in MSL's notification, which will then become binding upon both parties\u037e or ii)   agree to the quantities that will meet the forecast's Delivery Dates, which will then become binding on both parties, and either begin good faith negotiations with MSL to resolve any shortfall or reject MSL's proposed schedule for the remaining quantities\u037e or provided, however that IBM may not reject MSL's proposed schedules if the reason for MSL's inability to meet the Delivery Dates is directly attributable to a breach of this Agreement by IBM. MSL may, with IBM's prior written approval and at MSL's expense, employ another manufacturer for the quantities that MSL cannot deliver within the forecast for the affected products. Notwithstanding any other term of this Agreement, if IBM rejects all or any part of MSL's proposal, IBM shall also be free to seek IBM Confidential                                                   Page 21 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work another manufacturer (internally or externally) for the quantities MSL can not deliver within the forecast for the affected Products.",
+    "ollama_generated": "i)    either agree to the Delivery Dates and quantities as provided by MSL's notification, which will then become binding upon both parties; or ii)  agree to the Delivery Dates that accommodate the required quantities, subject to our good faith negotiations with MSL should a shortfall arise. In case we cannot resolve the issue through these discussions, we reserve the right to reject MSL's proposed schedule for the remaining quantities. However, it is important to note that IBM may not reject MSL's proposed schedules if the reason for MSL's inability to meet the Delivery Dates is a result of a breach of this Agreement by IBM. In such cases, MSL may, with prior written approval from IBM and at MSL's expense, contract another manufacturer to fulfill the quantities that MSL cannot deliver within the forecast for the affected products. Notwithstanding any other term in this Agreement, should IBM decide not to proceed with MSL's proposal entirely or partially, IBM shall have the freedom to engage another manufacturer (either internally or externally) to handle the quantities that MSL is unable to deliver within the specified forecast for the affected Products.\n\nThis revised clause maintains the original meaning but slightly shifts the responsibility for addressing shortfalls to IBM when they are responsible for delays in MSL's delivery dates, and provides IBM with a broader option to seek alternative manufacturers if they choose not to work with MSL's proposals.",
+    "contradiction_score": 0.04052111506462097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 424,
+    "start_char": 182384,
+    "end_char": 182642,
+    "original": "b)    MSL will notify IBM within [*] Days of receipt of the monthly requirements forecast, at the machine type level, if MSL is unable to support the features necessary to meet the Delivery Dates of the machine types per Section 11.1 above of this Agreement.",
+    "modified": "c) IBM acknowledges that it is solely responsible for providing MSL with a monthly requirements forecast at the machine type level, and shall be notified by MSL no later than [*] Days following IBM's provision of such forecast, if MSL encounters any issues supporting the features required to meet the Delivery Dates specified in Section 11.1 of this Agreement. In the event that MSL cannot meet these requirements, it shall promptly inform IBM of the anticipated delay and propose alternative solutions for achieving the same functionalities by the original Delivery Dates.",
+    "contradiction_score": 0.8830094933509827,
+    "kept": true
+  },
+  {
+    "clause_index": 426,
+    "start_char": 182922,
+    "end_char": 183800,
+    "original": "b)    IBM may, at its option, propose ECs to the Products to be delivered, in which event MSL will be notified in writing. MSL agrees that IBM shall have the right to require the incorporation of such ECs and MSL shall, within [*] Days of such notification, give to IBM a written evaluation of EC stating the cost increase or cost decrease to the Products. In addition, this evaluation should include, but is not limited to, MSL's evaluation of the ECs effect on the inventory, delivery schedules and impact effect on function, reliability and performance of Products. If such evaluation cannot be completed within such period, notice to this effect shall be given by MSL as soon as MSL learns that such evaluation cannot be completed and in no event later than the [*] Days following notification. MSL will give IBM a future completion date and reason for delay in such notice.",
+    "ollama_generated": "c) It is understood that MSL shall have the discretion to propose ECs (Engineering Changes) regarding the Products to be delivered. Upon MSL's submission of any such ECs, IBM will be notified in writing. IBM agrees that it has the right to reject the proposed ECs, and if it chooses to incorporate them, MSL shall, within a reasonable timeframe as determined by IBM, provide a written evaluation of the ECs. This evaluation should include an assessment of the impact of the ECs on inventory, delivery schedules, and the function, reliability, and performance of the Products. If MSL encounters any difficulty in completing the evaluation within the specified timeframe, it shall promptly notify IBM with a new completion date and explanation for the delay. In no case will this notice be provided later than 30 days following the initial notification.",
+    "contradiction_score": 0.019465390592813492,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 429,
+    "start_char": 185040,
+    "end_char": 185322,
+    "original": "e)    MSL will process ECs according to IBM rules and specific IBM requirements, and will enter corresponding data in EC application systems. MSL will need to have the capability to receive IBM development released ECs in both the Charlotte Work Center and the Valencia Work Center.",
+    "modified": "f)    The Client (EC) shall be responsible for ensuring that their ECs comply with IBM's rules and specific requirements, and shall provide MSL with access to EC application systems to process such data. The Client acknowledges that MSL may not be held liable for any delays or failures in processing ECs due to incompatibility with IBM development released ECs in either the Charlotte Work Center or the Valencia Work Center.",
+    "contradiction_score": 0.6914572715759277,
+    "kept": true
+  },
+  {
+    "clause_index": 435,
+    "start_char": 186513,
+    "end_char": 186674,
+    "original": "c)    MSL will also be responsible for the data management necessary to separate IBM consigned inventory from MSL inventory within the same facility and systems.",
+    "ollama_generated": "c)  It is understood that MSL shall have discretion in managing data related to the segregation of IBM consigned inventory from its own inventory, within the same facilities and systems. However, any errors or inconsistencies resulting from this process shall be reviewed collaboratively with IBM for resolution.",
+    "contradiction_score": 0.001170264557003975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 436,
+    "start_char": 186674,
+    "end_char": 186807,
+    "original": "d)    MSL will perform Rotating Inventory Audits and Counts (RIA/RIC) on IBM consigned inventory in compliance to IBM's instructions.",
+    "ollama_generated": "e) IBM retains the discretion to request MSL to conduct Rotating Inventory Audits and Counts (RIA/RIC) on IBM consigned inventory, which MSL shall carry out in good faith and according to their own standard procedures, subject to IBM's guidance.",
+    "contradiction_score": 0.03213771432638168,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 439,
+    "start_char": 187450,
+    "end_char": 187846,
+    "original": "IBM Confidential                                                   Page 23 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work 13.1  Consigned Products a)    MSL acknowledges that it will manage inventory consigned to MSL by IBM. As it relates to Integration, MSL will manage not only IBM consigned inventory but also inventory consigned to MSL by IBM's customers.",
+    "ollama_generated": "IBM Confidential                                          Page 23 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work\n\n13.1  Consignment Management\n(a) MSL acknowledges the responsibility to manage inventory consigned by both IBM and IBM's customers. This management includes, but is not limited to, the oversight of IBM-consigned inventory for purposes of Integration.\n\nIn this revised clause, the obligation has been shifted from MSL managing only IBM consigned inventory related to Integration to MSL managing all consigned inventory (both from IBM and its customers) in relation to Integration. This change could potentially create more work or responsibility for MSL, but it is still fluent, realistic, and professional.",
+    "contradiction_score": 0.12111148983240128,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 444,
+    "start_char": 188864,
+    "end_char": 189059,
+    "original": "e)    MSL agrees to furnish resources, at no additional cost, as part of this agreement to assist in the annual physical inventory audit of consigned inventory that MSL is managing on IBM behalf.",
+    "ollama_generated": "f) IBM acknowledges and accepts that MSL may choose not to provide assistance for the annual physical inventory audit of consigned inventory managed by MSL, but if MSL does decide to offer such aid, it shall be furnished at no extra charge as a goodwill gesture within the scope of this agreement.",
+    "contradiction_score": 0.17421673238277435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 446,
+    "start_char": 189165,
+    "end_char": 189432,
+    "original": "g)    If IBM and MSL mutually agree to change a Part from a non-consigned Products to a consigned Products, the Parties agree that IBM will purchase MSL's inventory of affected Parts on the date of the change at MSL actual cost that was paid to the supplier plus NIC.",
+    "modified": "h) If there is an agreement between IBM and MSL to transform a Part from consigned Products to non-consigned Products, the Parties acknowledge that MSL will offer IBM the inventory of affected Parts on the date of the change at MSL's cost price, paid to the supplier plus NIC, with no obligation for IBM to purchase unless in agreement with MSL.",
+    "contradiction_score": 0.8250828981399536,
+    "kept": true
+  },
+  {
+    "clause_index": 447,
+    "start_char": 189432,
+    "end_char": 189771,
+    "original": "h)    MSL shall store all consigned Products in separate locations from all other Parts and or Products belonging to any other person or company so as to clearly identify the consigned Products as property of IBM. In the case of Integration consigned inventory will be stored and identified in logistics and physically by customer account.",
+    "modified": "i)  IBM grants MSL permission to store the consigned Products, but it is not obligated to segregate these products from any other Parts or Products owned by third parties. However, should IBM require separate storage or identification of such inventory for Integration purposes, MSL shall comply with this request, storing and identifying consigned inventory according to specified logistics systems and physical arrangements as dictated by IBM's customer accounts. In all cases, MSL will make reasonable efforts to ensure the accurate identification of the consigned Products as IBM property.",
+    "contradiction_score": 0.872808575630188,
+    "kept": true
+  },
+  {
+    "clause_index": 461,
+    "start_char": 192219,
+    "end_char": 193180,
+    "original": "IBM Confidential                                                   Page 25 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work 14.3  MSL Account Coordinator The account coordinator is the primary interface with IBM project managers and/or customers for the delivery of Integration Products. This person will be responsible for insuring that the necessary IBM Products which are delivered by MSL are on order, that a roll out schedule is received by MSL, the necessary consigned Products are received in sufficient time prior to their need in the Integration process and/or delivery to the customer, the required software is received, the line processes are in place, the necessary pilots have been performed and the work is properly scheduled on the line to insure an on time delivery. They are the prime contact for problem resolution, issues, concerns, delivery tracking and all other issues which affect customer satisfaction.",
+    "ollama_generated": "IBM Confidential                                                 Page 25 of 39\n   sow0501.lwp ATTACHMENT 1\n   IBM/MSL Outsourcing Base Agreement Statement of Work\n   14.3 MSL Account Coordinator\n\nThe account coordinator serves as the principal liaison with both IBM project managers and customers, facilitating the delivery of Integration Products. While we expect this individual to take proactive measures towards ensuring the availability of IBM Products provided by MSL, it is understood that timely receipt of these products remains the responsibility of IBM or the customer. Additionally, the account coordinator will coordinate the acquisition of consigned Products and their arrival in a timely manner prior to their requirement in the Integration process or delivery to the customer. The software deliveries, establishment of line processes, pilot tests, and scheduling of work for on-time delivery are the primary responsibilities of MSL.\n\nThe account coordinator is primarily responsible for addressing problem resolution, handling issues, voicing concerns, monitoring delivery progress, and managing all other matters that might impact customer satisfaction. However, it is acknowledged that MSL will collaborate with the account coordinator to ensure timely resolution of any obstacles that may arise during the project.",
+    "contradiction_score": 0.1324455738067627,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 472,
+    "start_char": 199445,
+    "end_char": 200158,
+    "original": "14.7  On Site Repairs a)    The consigned Product set may include both IBM and non-IBM Products, new as well as used which may or may not be covered by a new product warranty, IBM maintenance or another maintenance provider. In the case of IBM logo Products, MSL will initiate repair of these Products in the most cost effective and efficient manner. In the case of repairs required to be performed by the third party maintainers, MSL will provide a suitable work area for these repairs and ensure that the necessary security requirements are met when visited by non IBM personnel. When consigned Product defects are to be returned to the manufacturer for either repair/replacement, MSL will control this process.",
+    "ollama_generated": "14.7  On-Site Maintenance:\na) The consigned products may comprise both IBM and non-IBM goods, some of which might be brand new, others previously used, and not all may be under a current product warranty, IBM maintenance, or service from another provider. In the event that the items bearing the IBM logo are in need of repair, MSL shall prioritize cost-effective and efficient methods for their restoration. For repairs necessitating third-party intervention, MSL guarantees a suitable workspace and will see to it that all necessary security protocols are met when non-IBM personnel access the site. When products require return to the manufacturer for either repair or replacement due to defects, MSL reserves the right to oversee this process.",
+    "contradiction_score": 0.027643397450447083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 481,
+    "start_char": 202901,
+    "end_char": 203408,
+    "original": "14.13 Integration Quality The service being performed is to be of high quality and free from process defects. The target objective will be [*]%, measured monthly. MSL will be responsible for the repair and/or replacement of Parts and Products which have been damaged during the performance of the Integration. MSL will be responsible for cost incurred by IBM as a direct result of MSL's failure to follow the Integration procedures subject to the limitations contained in Section 15.3 of the Base Agreement.",
+    "modified": "14.13 Quality Standards\nThe service delivered shall aim for a satisfactory level, with allowance for acceptable imperfections. The target benchmark will be [*]%, assessed quarterly. IBM assumes responsibility for the maintenance and potential upgrades of Parts and Products that may sustain damage during the Integration process. IBM will bear the cost incurred by MSL as a consequence of non-compliance with the Integration guidelines, within the boundaries defined in Section 15.3 of the Base Agreement.\n\nThe changes made in this clause are as follows:\n1. The quality standard has been lowered from \"high quality and free from process defects\" to \"a satisfactory level, with allowance for acceptable imperfections.\"\n2. Responsibility for maintenance and upgrades of Parts and Products during the Integration process has been shifted to IBM.\n3. IBM will now bear the cost incurred by MSL due to non-compliance with Integration procedures (previously, MSL would bear these costs).",
+    "contradiction_score": 0.6459675431251526,
+    "kept": true
+  },
+  {
+    "clause_index": 482,
+    "start_char": 203408,
+    "end_char": 203854,
+    "original": "14.14 Price a)    IBM will establish a list of those items which are standard components of the Integration process. IBM and MSL will agree upon an execution time and a price, as stated in Section 7.2 b), for each standard item. Integration requirements outside of these standard items will be individually determined. Once these prices for these standard items are established they will remain in effect during the entire term of this Agreement.",
+    "ollama_generated": "14.14 Pricing:\na)  MSL shall identify a list of standard components integral to the Integration process. A mutually acceptable execution timeline and cost, as specified in Section 7.2 b), will be determined for each such standard item. The responsibilities for integrating requirements outside these standard components lie with IBM on an individual basis. The prices agreed upon for these standard items during this Agreement's term shall remain binding throughout the duration of this Agreement.\n\nIn this rewritten clause, IBM is responsible for integrating additional integration requirements outside the agreed-upon standard components (a shift in responsibility), and the prices agreed upon for the standard items will remain constant throughout the agreement (no change, but emphasized).",
+    "contradiction_score": 0.05252738296985626,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 483,
+    "start_char": 203854,
+    "end_char": 204521,
+    "original": "IBM Confidential                                                   Page 28 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work b)    MSL will be responsible to track items which are beyond the individual Integration SOW being executed when performed at IBM's request and provide sufficient documentation to support the price along with IBM's authorization of the added cost. MSL will invoice IBM weekly for these costs. In those cases when a specific request becomes standard, or a change in effort is requested by a customer, a revision to the Integration SOW will be made and the contracted price between IBM and MSL will be updated.",
+    "ollama_generated": "IBM Confidential                                                   Page 28 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work b)\n\nUpon IBM's request, MSL shall be expected to identify and document items that extend beyond the scope of the individual Integration SOW, and provide justification for any associated costs. However, it will be IBM's responsibility to approve these additional costs before they are included in invoices sent by MSL on a weekly basis.\n\nIn instances where a specific request evolves into a standard procedure, or a customer requests a change in effort that necessitates an update to the Integration SOW, it will be IBM's prerogative to initiate revisions and subsequently negotiate any updates to the contracted price with MSL.",
+    "contradiction_score": 0.01690838858485222,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 491,
+    "start_char": 206405,
+    "end_char": 206613,
+    "original": "IBM Confidential                                                   Page 29 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work These monthly report should provide at a minimum:",
+    "ollama_generated": "IBM Confidential                                                   Page 29 of 39 sow0501.lwp ATTACHMENT 1 IBM/MSL Outsourcing Base Agreement Statement of Work\n\nIt is expected that the monthly reports will include, as a minimum:\n\nThis rewritten clause weakens the obligation slightly by using \"expected\" instead of \"should,\" implying that while it's desired, there may be some flexibility in the requirement.",
+    "contradiction_score": 0.008690969087183475,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 499,
+    "start_char": 208582,
+    "end_char": 208670,
+    "original": "f)    MSL will comply with the IBM Import/Export Operation Application and Instructions.",
+    "ollama_generated": "g) The recipient acknowledges their responsibility to familiarize themselves with the IBM Import/Export Operation Application and Instructions, and MSL shall not be liable for any non-compliance arising from such failure to comply by the recipient.",
+    "contradiction_score": 0.19886712729930878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 503,
+    "start_char": 210152,
+    "end_char": 210456,
+    "original": "b)    MSL shall at all times maintain ISO 9001 or 9002 registration. MSL will achieve ISO 14001 Environmental Management Certified, by 12/31/98, for all Work Centers that are active in the execution of this contract. Other specific standard compliance requirements are defined in the Product Attachments.",
+    "ollama_generated": "a) The party identified as MSL shall endeavor to maintain either ISO 9001 or 9002 registration, recognizing that adherence is crucial but not binding beyond reasonable efforts. For any Work Centers involved in the performance of this contract, MSL will strive to obtain ISO 14001 Environmental Management Certification by 12/31/98, while acknowledging that it may take additional time for certain centers to meet this goal, due to inherent complexities. The specific standard compliance requirements for all products are outlined in the attached documentation.",
+    "contradiction_score": 0.007427896838635206,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 506,
+    "start_char": 211045,
+    "end_char": 211146,
+    "original": "e)    Modifications, adds or deletions, to process steps by MSL must be done with concurrence by IBM.",
+    "modified": "d) IBM shall have the right, but not the obligation, to approve or disapprove modifications, additions, or deletions to the process steps undertaken by MSL.",
+    "contradiction_score": 0.7244939804077148,
+    "kept": true
+  },
+  {
+    "clause_index": 519,
+    "start_char": 215671,
+    "end_char": 216051,
+    "original": "SECTION 19.0 WARRANTY 19.1  Scope of Warranty a)    MSL expressly warrants that all Products, MSL supplied materials and Parts, and work prepared for IBM will conform in all material respects to the specifications, drawings, or other descriptions furnished or adopted by IBM, and will be of specified quality, good workmanship, and free from defect subject to the following terms:",
+    "ollama_generated": "SECTION 19.0 WARRANTY 19.1  SCOPE OF WARRANTY\na) IBM acknowledges and accepts that the Products, materials, and work provided by MSL may deviate slightly from the specifications, drawings, or other descriptions provided, and may not meet the specified quality in all respects. However, MSL will strive to ensure that the work is of reasonable quality and free from major defects, subject to the following terms:\n\nThis revised clause weakens the obligation on MSL by accepting minor deviations from IBM's specifications and reduces the quality expectation from \"specified quality\" to \"reasonable quality\". It also shifts some responsibility to IBM by acknowledging that they accept slight deviations.",
+    "contradiction_score": 0.17325475811958313,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 520,
+    "start_char": 216051,
+    "end_char": 216238,
+    "original": "i)    MSL's warranty for IBM Designated Parts will be as long as, and will be on the same terms and conditions as the Parts supplier's warranty stated in the relevant purchasing contract.",
+    "modified": "ii) The warranty provided by MSL for IBM Designated Parts shall not exceed, and may be subject to more limited terms and conditions than, the warranties specified by the respective Parts suppliers in their relevant purchasing contracts.",
+    "contradiction_score": 0.9256960153579712,
+    "kept": true
+  },
+  {
+    "clause_index": 525,
+    "start_char": 219599,
+    "end_char": 219753,
+    "original": "iv)   MSL will warrant all MSL Procured Parts for [*] months unless otherwise stated in the applicable Product Attachment, or agreed to by IBM in writing.",
+    "modified": "iv) IBM acknowledges that it assumes responsibility for any MSL Procured Parts from the date of delivery, except where specifically noted in the corresponding Product Attachment, or if IBM has provided written consent agreeing otherwise.",
+    "contradiction_score": 0.6036101579666138,
+    "kept": true
+  },
+  {
+    "clause_index": 528,
+    "start_char": 220442,
+    "end_char": 220610,
+    "original": "19.2  Defective Field Replaceable Units a)    A defective FRU shall be a FRU that does not conform in all material respects to that Product's particular specifications.",
+    "modified": "19.2.3 Non-Conforming Field Replaceable Units:\nb) An item classified as a non-conforming FRU is one that, although it may comply with the general product specifications, deviates in any significant aspect from the specific requirements or tolerance ranges specified for that particular Product.",
+    "contradiction_score": 0.8335305452346802,
+    "kept": true
+  },
+  {
+    "clause_index": 530,
+    "start_char": 221035,
+    "end_char": 221387,
+    "original": "19.3  Exclusions The warranty set forth above specifically excludes and does not apply to defects caused by a) the use or operation of the Product in an application or environment other than as described in or contemplated by the specifications issued by IBM or b) IBM or the end user through misuse, excessive shock or improper maintenance procedures.",
+    "ollama_generated": "19.3 Limitation of Liability: The warranty outlined previously is expressly limited and does not extend to issues arising from a) the utilization of the Product beyond its intended purpose as defined within or reasonably expected from IBM's provided specifications, or b) any actions or omissions on the part of IBM or the user, including but not limited to misuse, excessive stress, or improper upkeep.",
+    "contradiction_score": 0.0020647593773901463,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 540,
+    "start_char": 224188,
+    "end_char": 224570,
+    "original": "ii)   If IBM elects to have MSL purchase tooling, MSL shall be responsible for the design, cost and build of all new or replacement tooling which shall be capable of producing Product in accordance with the IBM specification in the Product Attachment. MSL warrants that the tooling used under this Agreement shall be capable of producing the quantity of Product as specified by IBM.",
+    "modified": "ii) In case IBM decides to have MSL acquire necessary tooling, it is understood that IBM assumes responsibility for the validation and approval of all new or replacement tooling designs, costs, and construction. The said tooling should be capable of producing Products in accordance with the IBM specification as outlined in the Product Attachment. IBM guarantees that it will provide MSL with the expected quantity of specified Products based on the capabilities of the tooling utilized under this Agreement.",
+    "contradiction_score": 0.9685964584350586,
+    "kept": true
+  },
+  {
+    "clause_index": 544,
+    "start_char": 226241,
+    "end_char": 226680,
+    "original": "v)    The tooling cost recovery, via the \"tooling adder\", will be analyzed during each quarterly review meeting between IBM and MSL. The intent is to adjust the \"tooling adder\" based upon volume changes, such that the total tooling cost will be recovered by the end of the amortization period. If at the end of the amortization period the tooling cost have been over or under recovered, an adjustment invoice will be processed accordingly.",
+    "ollama_generated": "iv)    The \"tooling adder\" used for cost recovery will be assessed during each quarterly review meeting between IBM and MSL. Our aim is to adapt the \"tooling adder\" in response to volume fluctuations, with the objective of ensuring that MSL covers its proportionate share of total tooling costs throughout the amortization period, rather than by the end. Any discrepancies between the recovered tooling cost and the actual cost at the conclusion of the amortization period may result in a subsequent adjustment invoice issued to either party, as appropriate.",
+    "contradiction_score": 0.08438379317522049,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 550,
+    "start_char": 230744,
+    "end_char": 230805,
+    "original": "SECTION 22.0 RETURN OF PRODUCT - US AND VALENCIA WORK CENTER.",
+    "ollama_generated": "SECTION 22.0 PRODUCT RECEIPT - US AND VALENCIA WORK CENTER.\n\nUpon the termination of this Agreement, or at our request, you shall promptly return to us any and all Products that are in your possession, custody, or control at the Valencia Work Center or U.S. location, provided that we will be responsible for the cost of shipping these items back to us. If you fail to return the Products within a reasonable time after such termination or request, we may retain any liquidated damages equal to the current market value of the Products as compensation for our loss.",
+    "contradiction_score": 0.0743429958820343,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 568,
+    "start_char": 235843,
+    "end_char": 236047,
+    "original": "e)    MSL will be responsible for the service and support of any asset transferred from IBM ownership to MSL. System or end user software or requests for version upgrades will be under separate agreement.",
+    "ollama_generated": "d)  Upon transfer of assets from IBM's ownership to MSL, responsibility for servicing and supporting these assets shall primarily rest with MSL. However, any system or end-user software maintenance, as well as requests for version upgrades, will be subject to separate agreements between the parties.",
+    "contradiction_score": 0.20595839619636536,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 569,
+    "start_char": 236047,
+    "end_char": 236321,
+    "original": "f)    MSL will transmit reports and data files as IBM requires for history, audit, validation, and measurements as defined in Appendix g)    MSL will provide the necessary capability to accommodate non AAS/GEMS orders and provide confirmation/status information as required.",
+    "ollama_generated": "g) IBM shall have the option to request reports and data files from MSL for history, audit, validation, and measurements, as per the guidelines outlined in Appendix g.\n\nMoreover, it will be MSL's responsibility to ensure that their systems are adaptable to process non-AAS/GEMS orders. Upon IBM's request, MSL shall promptly provide confirmation or status information regarding such orders.",
+    "contradiction_score": 0.0018705239053815603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 573,
+    "start_char": 236780,
+    "end_char": 237013,
+    "original": "IBM Confidential                                                   Page 39 of 39 sow0501.lwp APPENDIX 1: MARK UP 1. Prices for manufacturing and fulfillment of Products will be per the formula of section 7.1 with the following rates:",
+    "ollama_generated": "IBM Confidential | Page 39 of 39 sow0501.lwp APPENDIX 1: MARK UP\n\n1. The rates for manufacturing and fulfillment of Products, as per section 7.1, will serve as the foundation for the pricing structure; however, we retain the right to propose adjustments to these rates upon reasonable justification, subject to your approval.\n\nThis revision softens the obligation by allowing for potential rate adjustments on both sides, requiring approval from the other party.",
+    "contradiction_score": 0.004151377826929092,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 574,
+    "start_char": 238272,
+    "end_char": 238330,
+    "original": "a) Value Add and Profit Rates are per the following table:",
+    "ollama_generated": "b) The Value Add and Profit Rates shall be determined as set forth in the accompanying schedule, subject to adjustments or variations at the discretion of [Company Name].\n\nThis revised clause introduces an element of flexibility for the company, implying that the rates may not necessarily adhere strictly to the table but could potentially deviate based on their discretion.",
+    "contradiction_score": 0.0023891169112175703,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 580,
+    "start_char": 241404,
+    "end_char": 241542,
+    "original": "c) Component NIC rate is per Appendix 1, b) ii 3. RS Integration prices will be per the formula of Section 7.2.b with the following rates:",
+    "ollama_generated": "c) The rate for each Component NIC shall be as outlined in Appendix 1, section b, item 3, however, it is noted that the pricing structure for RS Integration services will follow the formula detailed in Section 7.2.b, with the provided rates serving merely as a guide and subject to negotiation.\n\nThe revised clause maintains the initial intention of specifying the Component NIC rate and the pricing methodology for RS Integration, but it also implies that the rates provided are flexible and open to discussion, potentially weakening the obligation slightly.",
+    "contradiction_score": 0.00466621620580554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 586,
+    "start_char": 242365,
+    "end_char": 242694,
+    "original": "Requirements Accuracy % = [*] Where [*] represents the performance [*] months prior to the last month of the quarter in which you are measuring the Requirements Accuracy. The Forecast represents the requirements that was passed by IBM [*] months prior, for the total volume by machine type for the quarter that is being measured.",
+    "modified": "Condition Satisfaction Percentage = [*] In this context, [*] denotes the performance achieved by the client during the month following the last month of the evaluated quarter. The Estimated Demand represents the requirements provided by IBM [*] months before, for the entire volume across machine types, for the assessed quarter.\n\nIn essence, we will be evaluating the satisfaction percentage based on the client's performance in the subsequent month compared to the estimates provided by IBM [*] months prior.",
+    "contradiction_score": 0.7470830082893372,
+    "kept": true
+  },
+  {
+    "clause_index": 590,
+    "start_char": 243612,
+    "end_char": 243856,
+    "original": "REQUIREMENTS ACCURACY          INCREMENTAL % AS DEFINED ABOVE               APPLIED TO MATERIAL COST [*] and Greater                  [*]% Less than [*]%                   [*]% Payments for these liabilities will be made via a separate invoice.",
+    "modified": "PAYMENT ACCURACY             DECREMENTAL % AS DEFINED ABOVE               APPLIED TO GREATER                  [*]% of MATERIAL COST [*]        AND LESS THAN [*]%              [*]% Payments for these liabilities will be made as part of the regular invoice.\n\nIn this revised clause, I have weakened the obligation by changing the incremental percentage to a decremental one (meaning a lower percentage), thus requiring fewer payment adjustments due to inaccuracies in material cost. Furthermore, I moved the payments for these liabilities from a separate invoice to the regular invoice, making it easier and less time-consuming for both parties.",
+    "contradiction_score": 0.8778473138809204,
+    "kept": true
+  },
+  {
+    "clause_index": 599,
+    "start_char": 246177,
+    "end_char": 246744,
+    "original": "IBM and MSL Confidential                                           Page 4 of 7 (3) MSL will report, by business area, MSL owned inventory by machine type and/or part number, with detail of item quantity and value including Parts, work in process and finished goods. IBM Parts, IBM Designated Parts and MSL Procured Parts will be reported separately, IBM document CAI 97-11. MSL will report how each inventory price is formed monthly upon request. MSL will identify separately the inventory of all street value parts and IBM classified parts by using IBM's guidelines.",
+    "ollama_generated": "Clause:\nIBM and MSL Confidential                                           Page 4 of 7 (3) For ease of understanding, IBM may request MSL to provide a breakdown, by business area, of MSL's inventory, categorized by machine type and/or part number. This report shall include the quantity and value of all items, with separate sections for IBM Parts, IBM Designated Parts, and MSL Procured Parts as per IBM document CAI 97-11. Upon request, MSL will disclose the methodology used to determine monthly inventory prices. MSL is expected to distinguish between the street value parts and IBM classified parts using guidelines provided by IBM.\n\nIn this revised clause, I have slightly altered the obligation of MSL by making it clear that they are expected to provide the report (not IBM), and added a touch of flexibility by stating that the report will be made available upon request (rather than on a fixed schedule). Additionally, I have used more concise language to make the clause easier to understand.",
+    "contradiction_score": 0.05454442650079727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 615,
+    "start_char": 249436,
+    "end_char": 249616,
+    "original": "flags, PPS, PS, MIC, FDS, MAC, Min D Val, Max Del Val, FZI, FZO, ZC, flags, PPS, PS, MIC, FDS, MAC, Min D Val, Max Del Val, FZI, FZO, ZC, MRI, MRO, CH, High Val Limit, DN, OH, etc.",
+    "ollama_generated": "Exclusions and Limits:\nThe following terms (flags, PPS, PS, MIC, FDS, MAC, Min D Val, Max Del Val, FZI, FZO, ZC, MRI, MRO, CH, High Val Limit, DN, OH) shall not be deemed to imply any continuous or regular monitoring or supervision by us. We assume no responsibility for fluctuations, errors, or delays within these parameters, unless explicitly specified otherwise in writing.",
+    "contradiction_score": 0.31509867310523987,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 625,
+    "start_char": 252924,
+    "end_char": 253264,
+    "original": "b) IBM has budgeted a total of [*] to relocate manufacturing lines from Building 103 to Building 002\u037e and for non-manufacturing fit up. Relocation of the manufacturing lines is budgeted at [*], and non-manufacturing fit up is budgeted at [*]. MSL will be responsible for any overruns of these budgets incurred as a result of MSL's requests.",
+    "ollama_generated": "c) IBM reserves the right to allocate a total budget of up to [*] for the relocation of manufacturing lines from Building 103 to Building 002 and non-manufacturing fit up, with manufacturing line relocation budgeted at [*] and non-manufacturing fit up at [*]. Any overruns incurred as a result of MSL's requests beyond these allocated budget amounts shall be borne solely by MSL.",
+    "contradiction_score": 0.020673975348472595,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 626,
+    "start_char": 253264,
+    "end_char": 253598,
+    "original": "c) MSL acknowledges and agrees that its utilization of any tooling and/or I/T systems for other customers shall not impact IBM's product requirements. MSL shall obtain IBM's written approval prior to entering into a contract with a third party involving tooling and/or I/T systems charged to IBM as part of the US Work Center startup.",
+    "ollama_generated": "d) IBM recognizes and consents that MSL may utilize any tooling and/or IT systems for other clients, with the understanding that such usage will not necessitate adjustments to IBM's product specifications. In the event MSL intends to engage a third party in a contract involving tooling and/or IT systems previously charged by IBM as part of the US Work Center startup, IBM grants MSL the right to seek its approval, but shall bear no obligation to provide such consent unless explicitly stated in writing.",
+    "contradiction_score": 0.42431989312171936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 630,
+    "start_char": 254562,
+    "end_char": 254772,
+    "original": "i)    \"A\" shall mean actual Transferred Employees, as defined in Attachment 2 of the Base Agreement, that are retained by MSL at the US Work Center and supporting this Agreement as of the last day of a quarter.",
+    "ollama_generated": "\"Under this Agreement, the term 'A' refers to any Transferred Employees, as per the definition in Attachment 2 of the Base Agreement, who remain employed by MSL at the US Work Center as of the first day of a new quarter and continue their support for this Agreement.\"\n\nThis revised clause weakens the obligation slightly by shifting the effective date from the last day to the first day of a new quarter. This could potentially allow for a slight delay in retaining employees, assuming MSL can still fulfill its obligations under the agreement.",
+    "contradiction_score": 0.41503769159317017,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 634,
+    "start_char": 255678,
+    "end_char": 255758,
+    "original": "d) Payment for these liabilities shall be made via a separate invoice quarterly.",
+    "ollama_generated": "d') The recipient is expected to remit payment for the specified liabilities within thirty days following the issuance of each quarterly invoice, unless otherwise stated.",
+    "contradiction_score": 0.0020341994240880013,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 635,
+    "start_char": 255758,
+    "end_char": 255831,
+    "original": "e) IBM shall make no payments for any extension periods to the Agreement.",
+    "ollama_generated": "f) The Party of IBM shall not be obligated to make any payments pertaining to additional durations beyond the initial term of this Agreement.",
+    "contradiction_score": 0.06247815117239952,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 636,
+    "start_char": 255831,
+    "end_char": 256125,
+    "original": "4.2   Medical and Vision Plan Participation a) Commencing on the Effective Date of the Agreement, MSL shall offer to Transferred Employees medical and vision plans that have employee contribution rates equal to the IBM contribution rates that IBM offers to its employees for that calendar year.",
+    "modified": "4.2 Medical and Vision Plan Offerings (a) Beginning on the Effective Date of this Agreement, TLS retains the right, but not the obligation, to propose medical and vision plans to Transferred Employees. If TLS chooses to do so, these plans may have employee contribution rates similar to, but not necessarily identical to, the rates offered by IBM for its employees during the relevant calendar year.",
+    "contradiction_score": 0.753157913684845,
+    "kept": true
+  },
+  {
+    "clause_index": 652,
+    "start_char": 271406,
+    "end_char": 272003,
+    "original": "IBM Confidential                                                  June 2, 1999 ATT6.1wp                                                          Page 1 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS 1.8 \"Preload,\" \"Preloading,\" and \"Preloaded\" refer to the process by which MSL is authorized, subject to the terms and conditions of the Agreement, to load a single copy of the IBM Software Package only onto the hard drive of a Product\u037e 1.9 \"Products\" shall mean IBM and OEM machine types as defined in Product Attachments to the IBM/MSL Outsourcing Base Agreement Statement of Work.",
+    "ollama_generated": "IBM Confidential                                                 June 2, 1999 ATT6.1wp                                                          Page 1 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS\n\n1.8 \"Preload,\" \"Preloading,\" and \"Preloaded\" refer to the authorization granted to MSL, subject to the terms and conditions of the Agreement, to install a single copy of the IBM Software Package onto the Product's hard drive; this process may not be required for all Products, as determined by the specifications in Product Attachments to the IBM/MSL Outsourcing Base Agreement Statement of Work.\n\n1.9 \"Products\" shall encompass various IBM and OEM machine types as defined in Product Attachments to the IBM/MSL Outsourcing Base Agreement Statement of Work, but it is understood that not all Products may be subject to the Preload process, as specified by the aforementioned attachments.",
+    "contradiction_score": 0.40964779257774353,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 661,
+    "start_char": 274988,
+    "end_char": 275417,
+    "original": "IBM Confidential                                                  June 2, 1999 ATT6.1wp                                                          Page 3 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS 4.0. ADDITIONAL AUDIT RIGHTS IBM may regularly monitor, inspect and/or audit any software installation location utilized or planned to be utilized hereunder pursuant to Section 7.0 of the Outsourcing Base Agreement.",
+    "ollama_generated": "Confidential Information - June 2, 1999 ATT6.1wp - Page 3 of 19 (Attachment 6 Software Installation Terms and Conditions)\n\n4.1. Audit Rights Granted to Client\nSubject to the limitations set forth in Section 7.0 of the Outsourcing Base Agreement, IBM grants the Client the right to regularly monitor, inspect, and/or audit any software installation location utilized or planned to be utilized hereunder for the purpose of verifying compliance with these terms and conditions.",
+    "contradiction_score": 0.21777604520320892,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 663,
+    "start_char": 275797,
+    "end_char": 276016,
+    "original": "MSL agrees to promptly correct any deficiencies discovered in such inspections. Such IBM inspections, approvals and deficiency corrections shall not in any way relieve MSL of its ongoing obligations under the Agreement.",
+    "ollama_generated": "MSL acknowledges its responsibility for addressing any identified shortcomings arising from the performed inspections by IBM, without delay. It is noted that these inspections, approvals, and rectifications do not absolve MSL of its persistent duties as outlined in the Agreement. Instead, they serve as additional quality assurance measures.",
+    "contradiction_score": 0.0027056680992245674,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 664,
+    "start_char": 276016,
+    "end_char": 276212,
+    "original": "IBM shall have the option to monitor, inspect, audit and take other necessary actions in order to comply with IBM's requirements to MS regarding any of MS's Code, or documentation, used hereunder.",
+    "ollama_generated": "MS grants IBM the right, at its discretion, to verify, examine, assess, and undertake any required actions related to MS's Code or documentation utilized in this agreement. Such actions are intended to facilitate IBM's compliance with its own requirements, and MS shall be responsible for cooperating fully and promptly with IBM during these processes.",
+    "contradiction_score": 0.20925511419773102,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 666,
+    "start_char": 276340,
+    "end_char": 276524,
+    "original": "Any audit provided for herein shall be conducted during MSL's normal business hours, after reasonable advance notice, and shall not unreasonably interfere with MSL's normal operations.",
+    "modified": "Any examination stipulated herein may occur during non-peak hours of MSL, following a suitable heads-up prior to the arranged date, and shall be coordinated in a manner that minimally disrupts MSL's regular business activities. In the event any disruption occurs, the auditor will be responsible for rectifying the situation promptly and effectively.",
+    "contradiction_score": 0.8637477159500122,
+    "kept": true
+  },
+  {
+    "clause_index": 671,
+    "start_char": 278924,
+    "end_char": 280229,
+    "original": "IBM Confidential                                                  June 2, 1999 ATT6.1wp                                                          Page 5 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS APPENDIX A ADDITIONAL OBLIGATIONS FOR MICROSOFT CODE AND DOCUMENTATION 1.4. MS APPROVAL. Notwithstanding anything herein to the contrary, MSL, Subsidiaries of MSL, and Approved Locations, are subject to approval or immediate revocation in writing by MS as provided in the MS License. MSL is prohibited from Preloading the MS Software Image at any Preload location not approved by MS. MSL shall provide IBM with the addresses of its headquarters, the proposed Preload location(s) for which approval is requested, the business profiles in the English language (including years in business, ownership profile, nature of principal business activities, general description of site security procedures, any nonstandard reporting procedures from MSL site to IBM, and a summary of any prior experiences with installation or replication of MS products), and such other relevant information as MS or IBM may request, at least ninety (90) calendar days in advance of the anticipated first installation date for such location 2. MSL'S RESPONSIBILITIES. MSL represents, warrants and agrees that it shall:",
+    "modified": "IBM Confidential | June 2, 1999 ATT6.1wp | Page 5 of 19 | ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS | APPENDIX A | ADDITIONAL OBLIGATIONS FOR MICROSOFT CODE AND DOCUMENTATION\n\n1.4. MS APPROVAL (REVISED): While not limited by anything herein, Microsoft (MS), its subsidiaries, and authorized locations retain the discretion to grant approval or terminate with written notice as per the MS License. MS shall not impede IBM's ability to preload the MS Software Image at any location unless expressly disallowed by MS. Microsoft is required to promptly inform IBM of any unapproved preload locations, along with the reasons for such designation, within a reasonable timeframe following IBM's request for approval.\n\n2. MSL'S RESPONSIBILITIES (REVISED): Microsoft Corporation (MSL) represents, warrants, and agrees to:\n\na) Provide IBM with the addresses of its headquarters, the proposed preload location(s), and any additional information requested by MS or IBM at least ninety (90) calendar days prior to the anticipated first installation date for such location, except where Microsoft reasonably deems this timeframe impractical. The required information includes business profiles in the English language (including years in business, ownership profile, nature of principal business activities, general description of site security procedures, any nonstandard reporting procedures from MSL site to IBM, and a summary of any prior experiences with installation or replication of MS products).\n\nb) Allow IBM's authorized personnel access to the preload locations for inspection and verification purposes, as needed and upon reasonable notice. Any refusal or delay in providing such access may result in Microsoft being deemed in breach of these terms and conditions.",
+    "contradiction_score": 0.7530020475387573,
+    "kept": true
+  },
+  {
+    "clause_index": 679,
+    "start_char": 289331,
+    "end_char": 290216,
+    "original": "IBM Confidential                                                  June 2, 1999 ATT6.1wp                                                          Page 9 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS APPENDIX A ADDITIONAL OBLIGATIONS FOR MICROSOFT CODE AND DOCUMENTATION 6. ADDITIONAL MODIFICATION AND AMENDMENT RIGHTS. IBM may modify, add or delete terms or conditions of this Attachment 6 (including its Appendices and Exhibits) in response to a modification or amendment of the MS License by providing MSL thirty (30) calendar days advance written notice or the same period of time MS gives IBM to comply with a modification or amendment, if such period is less than thirty (30) calendar days. MSL agrees to comply with such modifications, additions, or deletions to this Attachment 6 if it continues to Preload MS Software Images on Products after such notice period.",
+    "ollama_generated": "IBM Confidential                                                 June 2, 1999 ATT6.1wp                                                          Page 9 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS APPENDIX A ADDITIONAL OBLIGATIONS FOR MICROSOFT CODE AND DOCUMENTATION\n\n6. MODIFICATION AND AMENDMENT RIGHTS WITH ADJUSTED TIMETABLES. IBM reserves the right to modify, add or delete terms or conditions of this Attachment 6 (including its Appendices and Exhibits) in response to a modification or amendment of the MS License. IBM will provide MSL with written notice, offering a period of thirty (30) calendar days for compliance, or a shorter period equal to that given by Microsoft to IBM for compliance, if such period is less than thirty (30) calendar days. If Microsoft continues to require MSL to Preload MS Software Images on Products during the notice period, MSL shall comply with any modifications, additions, or deletions to this Attachment 6.\n\nIn other words, this clause now states that Microsoft will be given a shorter notice period for compliance if they have one, and IBM's modifications, additions, or deletions to the agreement will still need to be complied with by Microsoft, as long as they continue to require MSL to preload their software images during the notice period.",
+    "contradiction_score": 0.16430313885211945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 683,
+    "start_char": 291979,
+    "end_char": 293173,
+    "original": "(a) download tools (which are \"off the shelf products\") used to perform installation process are not required to be in a secured area (1,2)\u037e (b) the master image is retained in a secured area (which is either a locked room or cabinet) when not in use\u037e (c) the installation process is periodically monitored by an IBM employee or IBM contractor employee (who is not an employee of MSL)\u037e (d) if the image is installed on a hardfile prior to installation of the hardfile on the Product, such installed hardfile serial numbers will be separately tracked and any such hardfiles that are not installed in a Product by the end of the work session will be secured in the secured area\u037e (e) the hardfile on which the image is installed is electronically verified and associated to the Product unit serial number\u037e (f) MSL electronically tracks the system unit serial number, hardfile serial number, and designated model number\u037e (g) access to the secured area where the master image is retained when not in use is limited to an IBM employee, IBM contractor employee, or MSL\u037e (h) the MS Certificate of Authenticity (COA) serial number is electronically associated by MSL to the Product serial number\u037e Notes:",
+    "ollama_generated": "(a) Tools utilized for installation processes, which are considered \"off-the-shelf products,\" are not compulsory to be kept in a secured location (1,2); however, it is recommended that they are stored securely when not in use.\n   (b) The master image is kept in a secured area, such as a locked room or cabinet, whenever it is not in active use; this area can only be accessed by IBM employees, IBM contractor employees, or MSL representatives.\n   (c) Periodic monitoring of the installation process will be conducted by either an IBM employee or an IBM contractor employee who is not employed by MSL.\n   (d) If a hardfile is pre-installed with the image before it is attached to the Product, then the serial numbers of these hardfiles will be individually tracked. Any uninstalled hardfiles by the end of the work session should be securely stored in the previously mentioned secured area.\n   (e) The hardfile containing the image is electronically confirmed and linked to the Product's unit serial number.\n   (f) MSL maintains electronic records of the system unit serial number, hardfile serial number, and designated model number for tracking purposes.\n   (g) Access to the secured area where the master image is kept when not in use is restricted to IBM employees, IBM contractor employees, or MSL representatives only.\n   (h) The MS Certificate of Authenticity (COA) serial number will be electronically linked by MSL to the Product's serial number; however, it is the responsibility of both parties to ensure that this association is accurate and up-to-date.",
+    "contradiction_score": 0.12192220985889435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 687,
+    "start_char": 293790,
+    "end_char": 294637,
+    "original": "(a) download tools (which are \"off the shelf products\") used to perform the installation process are not required to be in a secured area\u037e (b) the recovery CDs are retained in a secured area when not in use\u037e (c) the installation process is periodically monitored by an IBM employee or IBM contractor employee (who is not an employee of MSL)\u037e (d) the hardfile on which the image is installed is electronically verified and associated to the Product serial number\u037e (e) MSL electronically tracks the Product serial number, hardfile serial number, and designated model number\u037e (f) access to the secured area where the recovery CDs are retained when not in use is limited to an IBM employee, IBM contractor employee or MSL\u037e (g) the MS Certificate of Authenticity (COA) serial number is electronically associated to the Product serial number by the MSL.",
+    "ollama_generated": "(a) It is not mandatory for off-the-shelf installation tools, utilized during the installation process, to be stored in a secure area; (b) When not in use, the recovery CDs shall be securely stored, with the responsibility of this storage falling upon IBM; (c) The installation process shall be intermittently supervised by an individual employed either by IBM or an IBM contractor, but not by MSL; (d) Upon installation, the hard drive where the image is installed undergoes electronic validation and is linked to the Product serial number; (e) MSL assumes responsibility for maintaining an electronic record of the Product serial number, hard drive serial number, and designated model number; (f) Access to the secure area housing the recovery CDs when not in use is restricted exclusively to IBM employees, IBM contractor employees, or MSL personnel; (g) The MS Certificate of Authenticity (COA) serial number will be electronically connected to the Product serial number by MSL.",
+    "contradiction_score": 0.07218757271766663,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 689,
+    "start_char": 295060,
+    "end_char": 296129,
+    "original": "(a) the master image shall be maintained on a secured server with access limited to an IBM employee, an IBM contractor employee, or MSL\u037e (b) the server shall be accessible only to an IBM employee, an IBM contractor employee, or MSL through keyboard locks and power-on passwords\u037e (c) only operators with valid user ids and passwords are authorized to initiate download. The IBM employee or IBM contractor employee need not be present for installation process\u037e (d) the server electronically logs the model number, serial number, user id, and image part number when the installation process is initiated\u037e (e) MSL electronically tracks the Product serial number, hardfile serial number and designated model number\u037e (f) the MS COA serial number is electronically associated by MSL to the Product serial number IBM Confidential                                                  June 2, 1999 ATT6.1wp                                                          Page 14 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS EXHIBIT 5 OF APPENDIX A ADDITIONAL MS PROVISIONS:",
+    "ollama_generated": "(a) The master image may be stored on a secure server, with access granted to IBM employees, IBM contractor employees, or MSL; (b) While the server shall remain accessible, unauthorized individuals are prohibited from gaining access, with the exception of IBM employees, IBM contractor employees, or MSL through the use of keyboard locks and power-on passwords; (c) Any authorized operator may initiate a download without requiring the presence of an IBM employee or IBM contractor employee during the installation process; (d) The server shall record the model number, serial number, user ID, and image part number whenever the installation process is initiated, though it is not required to do so in real-time; (e) MSL will monitor the Product serial number, hardfile serial number, and designated model number, but is under no obligation to electronically track these details in real-time or continuously; (f) While the MS COA serial number will be associated with the Product serial number by MSL, there is no requirement for this association to be made immediately.\n\nIBM Confidential\nJune 2, 1999\nATT6.1wp\nPage 14 of 19\nATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS\nEXHIBIT 5 OF APPENDIX A\nADDITIONAL MS PROVISIONS:",
+    "contradiction_score": 0.15191027522087097,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 695,
+    "start_char": 301459,
+    "end_char": 301669,
+    "original": "2. INTELLECTUAL PROPERTY NOTICES. MSL will not remove, modify or obscure any copyright, trademark, patent, or mask work notices that appear on the MS Software Image or related documentation as delivered to MSL.",
+    "modified": "2. MODIFICATION OF INTELLECTUAL PROPERTY NOTICES: MSL reserves the right to remove, modify, or obscure any copyright, trademark, patent, or mask work notices that appear on the MS Software Image or related documentation provided to MSL, subject to all applicable laws and regulations. However, MSL shall make reasonable efforts to maintain such notices in their original form where no legal requirement exists for their alteration.",
+    "contradiction_score": 0.9888172149658203,
+    "kept": true
+  },
+  {
+    "clause_index": 703,
+    "start_char": 309014,
+    "end_char": 309278,
+    "original": "IBM Confidential                                                  June 2, 1999 ATT6.1wp                                                          Page 18 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS EXHIBIT 5 OF APPENDIX A ADDITIONAL MS PROVISIONS:",
+    "ollama_generated": "IBM Confidential                                                 June 2, 1999 ATT6.1wp                                                           Page 18 of 19 ATTACHMENT 6 SOFTWARE INSTALLATION TERMS AND CONDITIONS EXHIBIT 5 OF APPENDIX A ADDITIONAL MS PROVISIONS:\n\nIn place of the original clause:\n\n\"Client shall install and utilize the Software solely for its internal business purposes, subject to all applicable IBM end-user license agreements. The Client acknowledges that it has obtained sufficient knowledge of the Software from IBM and/or its representatives to enable it to reasonably evaluate whether or not the Software is suitable for its intended use.\"\n\nThe revised clause:\n\n\"Software may be utilized by IBM and/or its representatives for their internal business purposes, subject to all applicable end-user license agreements provided to IBM. IBM acknowledges that it has obtained sufficient knowledge of the Software from the Client or its representatives to enable IBM to reasonably evaluate whether or not the Software is suitable for its intended use.\"\n\nIn this revised clause, the client's obligation to install and utilize the software has been inverted, and the responsibility for evaluating the suitability of the software for its intended use has shifted from the client to IBM.",
+    "contradiction_score": 0.1004420593380928,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 706,
+    "start_char": 310053,
+    "end_char": 310430,
+    "original": "5.  EXPORT OR RE-EXPORT. MSL agrees that it will not export or re-export an MS Software Image to any country to which such export is restricted by export administration regulations, without prior written consent, if required, of the Office of Export Administration of the U.S. Department of Commerce, or such other governmental entity as may have jurisdiction over such export.",
+    "modified": "5. EXPORT OR RE-EXPORT RESTRICTIONS: Under no circumstances will MSL be bound to obtain any necessary permits or consents for the export or re-export of an MS Software Image, unless expressly mandated by applicable export control regulations. Should any such restrictions apply, MSL reserves the right to delay or restrict the export or re-export of the software image until all required authorizations are secured.",
+    "contradiction_score": 0.6231176257133484,
+    "kept": true
+  },
+  {
+    "clause_index": 712,
+    "start_char": 313030,
+    "end_char": 313547,
+    "original": "The Supplement will identify the Recipient's person designated to be its Point of Contact for the disclosure and will contain the Initial and Final Disclosure Dates. If either of these dates is omitted from the Supplement, such date will be deemed to be the actual date of disclosure. Information becomes subject to this Agreement on the Initial Disclosure Date. The Supplement will also contain a non-confidential description of the specific Information to be disclosed and any additional terms for that Information.",
+    "ollama_generated": "The Disclosing Party shall provide a Supplement detailing the Contact Person designated within their organization, as well as provisional and conclusive Disclosure Timelines. In case either the Initial or Final Disclosure Date is absent from the Supplement, the date of actual disclosure shall be considered de facto for these purposes. All information will fall under the purview of this Agreement upon its Initial Disclosure. The Supplement should additionally include a non-confidential summary detailing the specific Information to be shared, along with any supplementary terms specifically applicable to that Information. However, it is expressly understood that the omission of such details from the Supplement shall not absolve either party of their obligations under this Agreement or diminish the importance of adhering to timelines and information confidentiality.",
+    "contradiction_score": 0.013677782379090786,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 717,
+    "start_char": 314744,
+    "end_char": 314813,
+    "original": "If Information is not marked with such legend or is disclosed orally:",
+    "ollama_generated": "In the event that Information is not explicitly labeled with the specified legend or communicated verbally, it shall be presumed that:\n\n1. The party disclosing the Information assumes full responsibility for its accuracy and any potential consequences of its dissemination.\n2. The recipient of the Information shall exercise due diligence to verify the authenticity and relevance of such Information before acting upon it.\n3. Any actions taken by the recipient based on unlabeled or verbally disclosed Information shall be at their own risk, without any liability being imposed upon the party who initially provided the Information.",
+    "contradiction_score": 0.18371261656284332,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 718,
+    "start_char": 314813,
+    "end_char": 314978,
+    "original": "1)    The Information will be identified as confidential at the time of disclosure, and 2)    The Discloser will promptly provide the Recipient with written summary.",
+    "modified": "1) The Recipient acknowledges that any information shared may potentially be considered confidential, but its identification as such shall not be required at the time of disclosure. However, the Discloser reserves the right to designate specific information as confidential at a later date if necessary.\n\n2) Upon request from the Discloser, the Recipient will promptly prepare and sign a written summary of the shared information, confirming their understanding and compliance with the agreed confidentiality terms. This obligation applies within a reasonable timeframe post-disclosure.",
+    "contradiction_score": 0.8660321235656738,
+    "kept": true
+  },
+  {
+    "clause_index": 722,
+    "start_char": 315591,
+    "end_char": 315770,
+    "original": "Page 2 of 5 1)    its employees and employees of its parent and subsidiary companies who have a need to know\u037e and 2)    any other party with the Discloser's prior written consent.",
+    "ollama_generated": "Page 2 of 5:\n1) Persons within the Discloser's organization, including employees, officers, agents, and affiliates who may require access to such information, except as restricted by law or confidentiality agreements; and\n2) Any third party granted permission in writing by the Discloser, with the understanding that such consent does not automatically extend to future disclosures unless expressly stated.",
+    "contradiction_score": 0.0016298636328428984,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 738,
+    "start_char": 318980,
+    "end_char": 319081,
+    "original": "SECTION 8 GENERAL This Agreement does not require either party to disclose or to receive Information.",
+    "ollama_generated": "SECTION 8 GENERAL\nThis Agreement specifically grants each party the discretion to withhold or solicit Information, unless otherwise mandated by law or mutual agreement.",
+    "contradiction_score": 0.03269796818494797,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 750,
+    "start_char": 321176,
+    "end_char": 321472,
+    "original": "----------------------------------        ---------------------------------- Agreement Number 4998S60076 International Business Machines Corporation Armonk, New York 10504 Page 5 of 5 EQUIPMENT AND PROGRAM LOAN AGREEMENT between IBM Corporation Manufacturers' Services Western US Operations, Inc.",
+    "modified": "----------------------------------        ---------------------------------- Agreement Number 4998S60076 International Business Machines Corporation Armonk, New York 10504 Page 5 of 5 EQUIPMENT AND PROGRAM LOAN AGREEMENT between Manufacturers' Services Western US Operations, Inc., a subsidiary of IBM Corporation\n\n[Changes made: Inverted the parties, weakened the obligation by making the subsidiary responsible instead of IBM Corporation.]\n\nHere's an example of a clause that inverts a condition and shifts responsibility:\n\nOriginal Clause:\n----------------------------------        ---------------------------------- Agreement Number 4998S60076 International Business Machines Corporation Armonk, New York 10504 Page 5 of 5 EQUIPMENT AND PROGRAM LOAN AGREEMENT between IBM Corporation Manufacturers' Services Western US Operations, Inc.\n\nIBM shall have the right to terminate this Agreement in the event that Customer defaults on its payments or breaches any other material terms of this Agreement.\n\nRewritten Clause:\n----------------------------------        ---------------------------------- Agreement Number 4998S60076 International Business Machines Corporation Armonk, New York 10504 Page 5 of 5 EQUIPMENT AND PROGRAM LOAN AGREEMENT between IBM Corporation Manufacturers' Services Western US Operations, Inc.\n\nCustomer shall have the right to terminate this Agreement in the event that IBM defaults on its obligations or breaches any other material terms of this Agreement. [This shifts the responsibility for termination from IBM to the Customer and inverts the condition by allowing the Customer to terminate instead of IBM.]",
+    "contradiction_score": 0.8965618014335632,
+    "kept": true
+  },
+  {
+    "clause_index": 754,
+    "start_char": 322646,
+    "end_char": 322897,
+    "original": "The loan of Loaned Items is made in conjunction with the IBM and MSL Outsourcing Agreement dated _____________________ (\"Referenced Agreement\") for the purpose of MSL fulfilling its responsibilities and obligation as stated in the Reference Agreement.",
+    "ollama_generated": "The provision of Loaned Items is contingent upon the execution of the IBM and MSL Outsourcing Agreement dated _____________________ (\"Referenced Agreement\"), which serves as a prerequisite for MSL's ability to undertake its duties and fulfill its commitments, as detailed in the Reference Agreement.",
+    "contradiction_score": 0.0009493977413512766,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 760,
+    "start_char": 324768,
+    "end_char": 325049,
+    "original": "For Loaned Programs which IBM licenses to others under an IBM license, the terms of the applicable IBM license which are not inconsistent with this Agreement apply. IBM will provide such terms to MSL upon request Any authorized copies made by MSL will be deemed to be Loaned Items.",
+    "ollama_generated": "In regards to programs loaned out by IBM and licensed to third parties under an IBM license, the conditions of that specific IBM license shall prevail, provided they do not contradict this Agreement. MSL is responsible for obtaining these terms from IBM upon request. Any copies made by MSL with express authorization shall be considered as Loaned Items, transferring all associated responsibilities to MSL.",
+    "contradiction_score": 0.001341483206488192,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 773,
+    "start_char": 328454,
+    "end_char": 328757,
+    "original": "SECTION 11 ALTERATIONS AND ATTACHMENTS MSL may make an alteration to Loaned Equipment (e.g., a change in the structure of the equipment) only upon IBM's prior written approval. MSL may make an attachment to Loaned Equipment (e.g., coupling a printer to a loaned personal computer) without notice to IBM.",
+    "modified": "SECTION 11 MODIFICATIONS AND ACCESSORIES\nIBM grants MSL the right to modify the structure of the Loaned Equipment, but such modifications must be made with prior written consent from MSL. MSL is responsible for notifying IBM in writing if they intend to attach any accessories to the Loaned Equipment (e.g., attaching a printer to a loaned personal computer). IBM has the right to express its approval or disapproval within a reasonable timeframe following the receipt of such notice.",
+    "contradiction_score": 0.9669869542121887,
+    "kept": true
+  },
+  {
+    "clause_index": 775,
+    "start_char": 329028,
+    "end_char": 329335,
+    "original": "SECTION 12 DISPOSITION OF LOANED ITEMS 12.1  Return to IBM MSL will return the Loaned Equipment to IBM at the end of the Loan Period, except as may be provided for in this Section. MSL will return the Loaned Equipment to IBM in the same condition as when delivered to MSL, reasonable wear and tear excepted.",
+    "ollama_generated": "SECTION 12 DISPOSITION OF BORROWED EQUIPMENT\n\n12.1 Upon Expiration of the Loan Term, IBM has the option to retain the Borrowed Equipment from MSL, subject to any specific provisions outlined in this Section. The onus is on IBM to maintain the Borrowed Equipment in a condition comparable to its state at the time of transfer to MSL, allowing for normal wear and tear.\n\nIn this revised clause, the obligation of returning the borrowed equipment has been shifted towards IBM, and IBM now maintains the responsibility of keeping the equipment in good condition rather than MSL. The term \"Loan Period\" has been replaced with \"Loan Term\", and \"MSL\" has been renamed to \"IBM\".",
+    "contradiction_score": 0.40708380937576294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 777,
+    "start_char": 329477,
+    "end_char": 329589,
+    "original": "MSL will permit IBM personnel access during IBM's normal business hours to allow IBM to remove the Loaned Items.",
+    "ollama_generated": "IBM shall have the right, at its discretion, during MSL's usual business hours, to request access for its personnel with due notice, in order to facilitate the removal of the Loaned Items, subject to MSL's ability to provide reasonable access and accommodation.",
+    "contradiction_score": 0.04747631400823593,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 786,
+    "start_char": 331778,
+    "end_char": 332309,
+    "original": "SECTION 15 LIMITATION OF REMEDIES IBM's entire liability and MSL's exclusive remedy for actual damages from cause whatsoever relating to the subject matter of this Agreement will be limited to the amount of $25,000. This limitation will apply, except as otherwise stated in this Section, regardless of the form of action, whether in contract or in tort, including negligence. This limitation will not apply to claims by MSL for bodily injury or damage to real property or tangible personal property for which IBM is legally liable.",
+    "ollama_generated": "SECTION 15 CAP ON DAMAGES: The total liability of IBM in any and all circumstances pertaining to this Agreement, and the sole recourse available to MSL for compensatory damages, shall not surpass $25,000. This cap on damages shall hold true, save for exceptions outlined within this Section, regardless of the nature of the action, whether based on contract or tort, including negligence. However, this limitation will not apply to claims made by MSL for bodily injury, damage to real estate, or damage to tangible personal property for which IBM is legally liable. This cap does not limit IBM's responsibility for any intentional wrongdoing or gross negligence.\n\nIn essence, the revised clause maintains a cap on damages but also makes it clear that the cap does not apply in cases of intentional wrongdoing or gross negligence by IBM, providing MSL with additional protection.",
+    "contradiction_score": 0.05565411224961281,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 793,
+    "start_char": 334118,
+    "end_char": 334240,
+    "original": "Neither party is responsible for failure to fulfill its obligations under this Agreement due to causes beyond its control.",
+    "ollama_generated": "In the event that either party encounters unforeseen circumstances preventing them from meeting their obligations as outlined in this Agreement, such instances shall not be deemed breaches of contract but rather exceptional situations outside the scope of their control. The non-performance under these extraordinary conditions will not result in liability or responsibility for either party.",
+    "contradiction_score": 0.004589212592691183,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 797,
+    "start_char": 334933,
+    "end_char": 335039,
+    "original": "The terms of any Attachment not inconsistent with a subsequent Attachment remain in full force and effect.",
+    "ollama_generated": "Any provisions outlined in an Attachment shall be considered binding, unless they directly contradict or supersede the terms of a later Attachment, in which case the conflicting provision from the earlier Attachment will no longer apply.",
+    "contradiction_score": 0.009560946375131607,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 798,
+    "start_char": 335039,
+    "end_char": 335395,
+    "original": "This Agreement and the rights and obligations of the parties hereto shall be construed in accordance with the substantive laws of the State of New EPL00L(CLT-EPL 1.1-02/93)                                            Page 6 of 7 IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective authorized representatives.",
+    "ollama_generated": "This Agreement, along with the rights and duties of the parties involved, shall be interpreted in light of the substantive regulations governing the State of New EPL00L(CLT-EPL 1.1-02/93), except where such rules are expressly superseded by applicable federal law or international treaties. In the event of a conflict or ambiguity, the parties' intent shall be discerned through reasonable interpretation favoring flexibility and mutual understanding. This Agreement is binding upon and inures to the benefit of the parties and their respective successors and assigns, subject to any restrictions imposed by applicable law.\n\nIn witness whereof, the parties have executed this Agreement through their duly authorized representatives.",
+    "contradiction_score": 0.0042861285619437695,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 801,
+    "start_char": 335716,
+    "end_char": 336599,
+    "original": "-------------------------------------------------------------------------- By: /s/ Craig A. Bloszinsky           By: /s/ Kevin C. Melia -------------------------------------------------------------------------- CRAIG A. BLOSZINSKY                   KEVIN C. MELIA -------------------------------------------------------------------------- Print Name                            Print Name PURCHASING PROGRAM DIRECTOR           PRESIDENT, CEO -------------------------------------------------------------------------- -------------------------------------------------------------------------- Title                                 Title 5/1/98                                MAY 5, 1998 -------------------------------------------------------------------------- Date                                  Date EPL00L(CLT-EPL 1.1-02/93)                                            Page 7 of 7",
+    "ollama_generated": "CRAIG A. BLOSZINSKY agrees to perform his obligations under this agreement to the best of his ability, with the understanding that any failure or delay in performance shall not be deemed a breach of contract unless such failure or delay is material and persists for more than thirty (30) days after written notice from KEVIN C. MELIA. Any action taken by KEVIN C. MELIA as a result of Craig's alleged breach prior to the expiration of the 30-day period shall be at his own risk and liability.\n\nKEVIN C. MELIA, in turn, acknowledges that he has the discretion to assign or delegate any of his duties under this agreement to a third party, provided that such assignment or delegation does not materially affect the performance of Craig's obligations under this agreement. Any such assignment or delegation shall be binding upon Craig and shall relieve Kevin of further responsibility for the performance of those duties.",
+    "contradiction_score": 0.3625919818878174,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

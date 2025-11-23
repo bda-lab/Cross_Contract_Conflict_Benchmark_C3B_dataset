@@ -1,0 +1,274 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 170,
+    "original": "Exhibit 10.20 (TRANSLATION) OUTSOURCING AGREEMENT This Outsourcing Agreement (hereinafter \u201cAgreement\u201d) is effective as from the 1 st day of January, 2009, by and between:",
+    "modified": "Exhibit 10.20 (MODIFIED OUTSOURCING AGREEMENT) This Modified Outsourcing Agreement (hereinafter \"Agreement\") shall take effect on the 1st day of January, 2009, binding upon:\n\nThe provisions herein contained may be subject to amendment, as follows:\n\nIn the event that either Party deems it necessary to alter any term or condition set forth in this Agreement, the Party desiring such amendment shall provide written notice to the other Party. Upon receipt of such notice, the Parties shall engage in good faith negotiations to reach a mutually agreeable resolution. Unless otherwise agreed upon by both Parties in writing, no amendment to this Agreement shall be binding unless approved in writing by an authorized representative of each Party.\n\nThis Modified Outsourcing Agreement supersedes any and all prior agreements, understandings, and representations between the Parties relating to the subject matter hereof.\n\nIn the event that either Party fails to perform its obligations under this Modified Outsourcing Agreement, the non-breaching Party shall be entitled to terminate this Agreement upon providing written notice of such breach and allowing a reasonable cure period. In the absence of such cure, the non-breaching Party may terminate this Agreement without further liability.\n\nThe Parties acknowledge that they have read this Modified Outsourcing Agreement, understand its terms, and enter into it voluntarily. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction specified in Exhibit 10.21 (JURISDICTION), without giving effect to any choice of law provisions that would require or permit the application of the laws of any other jurisdiction.",
+    "contradiction_score": 0.5964832901954651,
+    "kept": true
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1100,
+    "end_char": 1165,
+    "original": "1.1.Silicon Smelters and EIT both belong to the GROUP VILLAR MIR.",
+    "ollama_generated": "1.1. It is acknowledged that both Silicon Smelters and EIT are constituent entities of the Villar Mir Group (hereinafter \"the Group\").\n\nIn this revised version, the parties' membership in the group is presented as an acknowledgment, implying a more passive role for those involved. The Group's name has been abbreviated and placed in quotation marks for a cleaner look, while the definite article \"the\" was added to clarify that there is only one specific group being referred to.",
+    "contradiction_score": 0.0028286706656217575,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 2038,
+    "end_char": 2153,
+    "original": "2.1.3. The terms and conditions under which the Customer agrees to purchase and EIT agrees to provide the Services.",
+    "ollama_generated": "2.1.3. The agreement between EIT and the Customer, wherein EIT is obligated to offer, and the Customer has the discretion to accept or decline, the terms for the provision of the Services.\n\nExplanation: The original clause implies that the customer agrees to purchase services under specific terms provided by EIT. The rewritten clause shifts the responsibility to EIT, making it clear that they are offering services based on terms, and the customer has the option to accept or reject these terms. This change in wording creates a more balanced contractual obligation between the parties involved.",
+    "contradiction_score": 0.14627118408679962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 2157,
+    "end_char": 2235,
+    "original": "2.2.The definitions that apply in the present Agreement are listed in Annex 1.",
+    "ollama_generated": "2.2. For the purposes of this Agreement, any undefined terms shall be construed in accordance with their meaning as set forth in Annex 1. (This shifts responsibility slightly to the other party to understand the undefined terms.)",
+    "contradiction_score": 0.0007976630586199462,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 2433,
+    "end_char": 2607,
+    "original": "2.4.The supervision of the Agreement is assured by EIT, represented by its Chief Executive, and by the Customer, represented by its Head of Information Technology Department.",
+    "ollama_generated": "2.4.Oversight of this Agreement shall be shared equally between the parties, with EIT, as represented by its Chief Executive, responsible for primary oversight, and the Customer, as represented by its Head of Information Technology Department, having secondary oversight responsibilities, subject to the primary oversight's discretion.\n\nIn this revised clause, the original clause's meaning has been shifted slightly towards shared responsibility and secondary oversight for the Customer, rather than equal representation in supervision as stated in the original clause. The revised clause also introduces a caveat that the primary oversight has discretion, indicating a flexibility in the execution of the oversight responsibilities.",
+    "contradiction_score": 0.35172703862190247,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 2619,
+    "end_char": 2681,
+    "original": "2.5.These specific services can be grouped in different types:",
+    "ollama_generated": "2.5. The assorted services provided under this agreement may be categorized as follows:\n\n(A) Services falling within the primary scope of our responsibility shall be rendered diligently and promptly, subject to customary delays due to unforeseen circumstances.\n\n(B) Any additional services not explicitly listed in the primary scope, yet reasonably requested by the client, shall be considered optional and rendered at our sole discretion, with no obligation to complete them within a specific timeframe or guarantee their successful completion.\n\n(C) In the event that any optional service is undertaken, the client acknowledges full responsibility for providing clear instructions and ensuring that such services do not exceed the agreed-upon scope of this agreement. Any associated costs, delays, or potential issues arising from these optional services shall be borne solely by the client.",
+    "contradiction_score": 0.15423496067523956,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4021,
+    "end_char": 4247,
+    "original": "3.1.4. EIT commits to assure a high availability (availability rate defined in Annex 2) and the proper performance (response time and no saturation) of the Network during working hours in South Africa (established in Annex 2).",
+    "ollama_generated": "3.1.4. It is understood that EIT will make reasonable efforts to maintain a satisfactory level of availability (as defined in Annex 2) and optimal performance (response time and non-congestion) of the Network during the working hours specified in Annex 2, in South Africa. The responsibility for unforeseen interruptions or instances where the Network may not meet these standards due to factors beyond EIT's control shall be shared between the parties.",
+    "contradiction_score": 0.0013045809464529157,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 4851,
+    "end_char": 4997,
+    "original": "3.2.5. EIT must alert the IT Department of the Customer if any problem should occur in any of the Servers, within the time established in Annex 2.",
+    "modified": "3.2.5. In the event that any issue arises with the Servers, it shall be the responsibility of the Customer to notify the IT Department of EIT, within the timeframes outlined in Annex 2. This obligation is subject to a reasonable period for the Customer to identify and verify the problem.",
+    "contradiction_score": 0.7276636958122253,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 5006,
+    "end_char": 5117,
+    "original": "3.2.6. EIT commits to solve any problems that may arise in the Servers, within the time established in Annex 2.",
+    "ollama_generated": "3.2.6. In the event of issues arising in the Servers, ANNEX 2 shall specify a reasonable timeframe for resolution; EIT's endeavor will be to address these matters in accordance with the stipulated timeline, but EIT does not guarantee completion within this time due to unforeseen circumstances or complexities that may arise during troubleshooting.",
+    "contradiction_score": 0.008450482971966267,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 5627,
+    "end_char": 5674,
+    "original": "For each of these applications, EIT commits to:",
+    "ollama_generated": "In relation to each application, the applicant acknowledges that they shall endeavor to:\n\nThis revised clause shifts the responsibility from EIT (previously a commitment) to the applicant. The phrase \"shall endeavor to\" softens the obligation and suggests that while it is expected, some flexibility may be allowed if circumstances prevent full compliance.",
+    "contradiction_score": 0.08777830004692078,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 5824,
+    "end_char": 5930,
+    "original": "3.3.2. Assure the availability of the application (which varies for each application, defined in Annex 2).",
+    "ollama_generated": "3.3.2. Strive for the accessibility of the application (as detailed in Annex 2, subject to its varying requirements for each application).\n\nThis revision suggests a more flexible approach, indicating that while every effort should be made to ensure the application is accessible, it might not always be achievable due to the varying nature of each application as outlined in Annex 2.",
+    "contradiction_score": 0.010118791833519936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 5930,
+    "end_char": 6112,
+    "original": "Source: FERROGLOBE PLC, F-4/A, 6/24/2015 3.3.3. Monitor the applications to analyse the transaction charges and carry out the appropriate corrections in order to optimize the system.",
+    "modified": "Clause:\nSource: FERROGLOBE PLC, F-4/A, 6/24/2015 3.3.3. We will review and analyze applications for transaction charges as a courtesy to optimize the system performance, although we are under no obligation to make any corrections if deemed necessary. The responsibility for identifying inaccuracies or discrepancies rests solely with the applicant.",
+    "contradiction_score": 0.702725350856781,
+    "kept": true
+  },
+  {
+    "clause_index": 40,
+    "start_char": 6760,
+    "end_char": 6965,
+    "original": "3.3.7. Guarantee the reliability of the application (software and databases) and of the hardware support (server, disks, etc.), to prevent any loss of information that could affect the Customer\u2019s business.",
+    "modified": "3.3.7. While we strive for the highest level of reliability, we do not guarantee the uninterrupted performance or error-free operation of the application (software and databases) or hardware support (server, disks, etc.). Any loss of information that may occur as a result, even if caused by an error on our part, is solely the risk of the Customer and shall not constitute a breach of this Agreement. The Customer acknowledges that such events may impact their business and shall take appropriate measures to protect against any potential losses or damages.",
+    "contradiction_score": 0.9633442163467407,
+    "kept": true
+  },
+  {
+    "clause_index": 58,
+    "start_char": 10427,
+    "end_char": 10654,
+    "original": "5.3.If necessary, EIT personnel will travel, in prior agreement with the Customer, to the different factories of the company. In this case, the travelling expenses (travel, accommodation and meals) will be paid by the Customer.",
+    "ollama_generated": "5.3. While not obligated, EIT personnel may request travel to the various company facilities, subject to mutual agreement with the Customer. In such instances, the onus for covering the associated expenses (travel, accommodation, and meals) shall reside with EIT. However, the Customer is encouraged to offer reasonable assistance in facilitating these journeys as mutually agreed upon.",
+    "contradiction_score": 0.4692915081977844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 10654,
+    "end_char": 10852,
+    "original": "5.4.The IT environment belongs to EIT during the total course of the Agreement, with exception of the services subcontracted to third parties by EIT, for which the subcontractor will be responsible.",
+    "ollama_generated": "5.4. For the duration of this Agreement, the responsibility for the IT environment lies with EIT, excluding any services subcontracted to third parties by EIT. In such cases, the third-party contractor shall assume full liability and responsibility for the management and maintenance of these subcontracted services.",
+    "contradiction_score": 0.1335499882698059,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 10852,
+    "end_char": 11357,
+    "original": "5.5.EIT is responsible for the choice of the equipment considered the most appropriate in order to reach the service level convened in this Agreement. This equipment, and its further updates, should it arise, will be shown to the Customer and agreed upon prior to purchase and installation and refusal by the customer will only be valid upon presentation of a justification to EIT. EIT is responsible for the maintenance of its own IT environment, as well as of its maintenance and modernization expenses.",
+    "ollama_generated": "5.5. In this Agreement, the Customer shall have the discretion to approve or reject the equipment selected by EIT as most suitable for achieving the service level specified herein. Any proposed equipment should be disclosed to EIT for approval prior to purchase and installation. The Customer's refusal must be accompanied by a valid justification for the rejection, and failure to provide such justification will result in the acceptance of the selected equipment. EIT shall maintain its own IT environment at its own expense, including all costs associated with maintenance, modernization, and any necessary updates to the approved equipment.",
+    "contradiction_score": 0.23283053934574127,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 11357,
+    "end_char": 11657,
+    "original": "5.5.1. EIT STAFF 5.5.1.1. The work team appointed by EIT to fullfill this Agreement is responsible only to EIT, in accordance with the Spanish law. EIT will supervise and will be responsible for the behaviour and tasks of this team, especially on what concerns the confidentiality of the information.",
+    "ollama_generated": "5.5.1. ASSIGNED TEAM 5.5.1.1. The workforce assigned by the Client (referred to as the \"Assigned Team\") shall be accountable exclusively to the Client, in accordance with Spanish law. While the Client will provide general oversight and assume responsibility for the conduct and tasks of this team, it is understood that the Assigned Team retains primary responsibility for maintaining the confidentiality of all information to which they are privy.\n\nThis rephrased clause emphasizes that the Assigned Team remains primarily responsible for upholding confidentiality, while also clarifying that the Client has general oversight and bears overall responsibility for the team's behavior and tasks. This slight shift in wording subtly implies a more proactive role for the Client in managing the team, while keeping the primary accountability with the Assigned Team when it comes to confidentiality matters.",
+    "contradiction_score": 0.06385719031095505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 15229,
+    "end_char": 15409,
+    "original": "8.INTELLECTUAL PROPERTY 8.1.The Intellectual Property of the programmes in the application GES-INDUS, used by the Customer\u2019s exploitation of the management systems, belongs to EIT.",
+    "ollama_generated": "8. INTELLECTUAL PROPERTY\n\n8.1. The ownership and control of the Intellectual Property associated with the programs utilized within the application GES-INDUS, during the Customer's utilization of the management systems, remains exclusively with EIT. However, EIT grants a non-exclusive, royalty-free, revocable, and non-transferable license to the Customer for the duration of this agreement, permitting the Customer to use such Intellectual Property solely for the purpose of exploiting the management systems in accordance with this contract. Any breach or termination of this agreement shall immediately revoke this license.",
+    "contradiction_score": 0.008439971134066582,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 15409,
+    "end_char": 15585,
+    "original": "8.2.The rights of Intellectual Property also protect the programmes that might be created, and the data processing, accounts, and diagrams generated by the mentioned programme.",
+    "modified": "8.2. While the Intellectual Property rights serve to safeguard the aforementioned programme, it is understood that these rights extend only to the program itself, and not to any derivative works or adaptations created therefrom, including but not limited to programmes, data processing, accounts, and diagrams generated by the said programme. The responsibility for securing separate intellectual property protection for such derivative works rests with the party responsible for their creation.",
+    "contradiction_score": 0.9805712103843689,
+    "kept": true
+  },
+  {
+    "clause_index": 86,
+    "start_char": 16311,
+    "end_char": 16558,
+    "original": "9.5.Availability 9.5.1. The IT staff of EIT will carry out the exploitation of the services during working hours in South Africa, except for urgent actions that will be carried out exceptionally, if it were necessary, out of the established hours.",
+    "ollama_generated": "9.5.Service Accessibility: 9.5.1. The IT team at EIT shall facilitate the operation of the services within their standard working hours in South Africa. However, any urgent actions required outside of these hours may be performed exceptionally, with the understanding that this is not the norm and should only occur when absolutely necessary.\n\nIn this version, the clause slightly shifts responsibility by stating that such out-of-hours work is exceptional and not the norm, implying it should be avoided unless absolutely necessary.",
+    "contradiction_score": 0.008896074257791042,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 17668,
+    "end_char": 18054,
+    "original": "11.1.PROTECTION AND CONFIDENTIALITY OF DATA 11.1.1. Confidential Information means any information disclosed by either party in the frame of this Agreement. In consequence, each party agrees not to use, disclose, publish or disseminate any Confidential Information of the other party for any purpose except to perform its obligations or exercise its rights under this Agreement, except:",
+    "ollama_generated": "11.1.PROTECTION AND CONFIDENTIALITY OF DATA\n\n11.1.1. Confidential Information encompasses any information shared between the parties in the context of this Agreement. It is understood that each party retains the right to utilize, share, or disseminate the Confidential Information of the other party for purposes outside of this Agreement, provided such actions are necessary for independent operations or legitimate business interests, subject to the following conditions:\n\na) The use, disclosure, or dissemination of the Confidential Information does not exceed what is reasonably required for such purposes.\nb) Any unauthorized third parties are excluded from accessing or becoming aware of the Confidential Information.\nc) Upon termination of this Agreement or upon request by either party, all Confidential Information in the possession of the other party shall be promptly returned or securely destroyed.",
+    "contradiction_score": 0.17010927200317383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 18054,
+    "end_char": 18276,
+    "original": "11.1.1.1. Following prior consent of the other party, or 11.1.1.2. If the information was in the public domain at the time it was disclosed or becomes in the public domain through no act or omission of the Receiving Party.",
+    "ollama_generated": "11.1.1.1. The Receiving Party is not required to obtain prior consent from the other party for the disclosure of information, except when such disclosure would violate a previously agreed confidentiality obligation. 11.1.1.2. In the event that the information was already in the public domain at the time of its disclosure, or subsequently enters the public domain without any action or omission attributable to the Receiving Party, no breach of this agreement shall be deemed to have occurred.",
+    "contradiction_score": 0.08117358386516571,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 19011,
+    "end_char": 19341,
+    "original": "11.1.5. Except as provided hereinafter, for a period of five years after termination or expiration of this Agreement, each party shall not disclose, publish or disseminate information received from the other party which may be required to carry out this Agreement and which the disclosing party deems proprietary and confidential.",
+    "modified": "11.1.5. Under ordinary circumstances, for a duration of five years following the termination or expiration of this Agreement, each party retains the right to disclose, publish, or disseminate information obtained from the other party that could be necessary for the execution of this Agreement and which they consider proprietary and confidential. However, any such disclosure must comply with any applicable legal requirements or court orders. In the event that either party is compelled by law or a court order to disclose such information, they shall promptly notify the other party about the requirement to disclose and cooperate in seeking a protective order or other appropriate remedy to safeguard the confidentiality of the information to the maximum extent possible under the circumstances.",
+    "contradiction_score": 0.968058705329895,
+    "kept": true
+  },
+  {
+    "clause_index": 105,
+    "start_char": 20755,
+    "end_char": 20845,
+    "original": "12.2.1.2. Interpret any Article of this Agreement that might be questioned by the parties.",
+    "ollama_generated": "12.2.1.2. In the event of a dispute regarding any provision of this Agreement, the interpretation deemed more favorable to the Party raising the question shall prevail, subject to the principles of law and good faith.",
+    "contradiction_score": 0.0009028490167111158,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 21663,
+    "end_char": 21808,
+    "original": "14.EARLY TERMINATION 14.1.The Customer can cancel, on its own accord, the present Agreement upon certified notice to EIT, in the following cases:",
+    "modified": "14. EARLY TERMINATION:\n\n14.1. At its sole discretion, EIT may terminate this Agreement at any time, provided that it provides written notice to the Customer under the following circumstances:\n\nThis revision weakens the original obligation by giving EIT the power to unilaterally terminate the agreement, a power previously held only by the Customer.",
+    "contradiction_score": 0.9190295934677124,
+    "kept": true
+  },
+  {
+    "clause_index": 114,
+    "start_char": 22251,
+    "end_char": 22505,
+    "original": "14.1.4. Absorption or fusion of EIT by other companies. In this case, the Customer can decide if he wants to continue working with the new company, which will have to continue rendering all the services convened in this Agreement, in the same conditions.",
+    "modified": "14.1.4. Event of Absorption or Fusion of EIT by Other Companies. In such an instance, the Customer shall have the option to terminate this Agreement upon notice, without any liability or penalty. The party absorbing or fusing with EIT shall be solely responsible for honoring all services and obligations as stipulated in this Agreement for a period of three months following the effective date of the fusion or absorption, to ensure a seamless transition of services to the Customer.",
+    "contradiction_score": 0.7657119035720825,
+    "kept": true
+  },
+  {
+    "clause_index": 135,
+    "start_char": 26335,
+    "end_char": 26485,
+    "original": "WAN: External network that connects the Silicon Smelter factories with the central node located in Madrid. Network leaving the router of each factory.",
+    "ollama_generated": "WAN (Wide Area Network): The external communication channel that links the Silicon Smelter manufacturing facilities with the primary hub stationed in Madrid. This network extends beyond the router of each facility, encompassing their outgoing connections.\n\nNote: This revised clause maintains professionalism while subtly shifting focus to the network's extension beyond each factory's router, which implies a broader responsibility for maintaining and managing the network infrastructure.",
+    "contradiction_score": 0.004631290677934885,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 145,
+    "start_char": 28385,
+    "end_char": 28616,
+    "original": "less than two South African working hours 98% of requests solved in the time period Monthly Measuring the response times for encountered problems      \u25cf Solution or work-around: less than one South African workday Non-blocking Bug:",
+    "ollama_generated": "Within two South African business days, we will strive to resolve 98% of requests encountered during the monthly measuring period, with regard to response times for encountered problems.\n\nNon-blocking Bugs: In case a resolution or workaround cannot be provided within this timeframe, we commit to acknowledging the issue and providing an estimated timeline for its resolution, which will not exceed one South African business day.",
+    "contradiction_score": 0.030563954263925552,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

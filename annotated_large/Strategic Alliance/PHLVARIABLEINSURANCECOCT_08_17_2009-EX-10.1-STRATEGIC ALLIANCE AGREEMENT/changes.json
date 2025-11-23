@@ -1,0 +1,718 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 677,
+    "end_char": 931,
+    "original": "B. ICC is a broker dealer that is registered under the 1934 Act and with FINRA and an investment adviser that is registered with the SEC under the Advisers Act and doing business as an investment adviser as  Investors Capital Advisory Services ( \u201cICAS\u201d).",
+    "ollama_generated": "A. Investors Capital Advisory Services (\"ICAS\"), operating as a broker-dealer registered under the Securities Exchange Act of 1934 and a member of FINRA, also functions as an investment adviser duly registered with the Securities and Exchange Commission (SEC) under the Investment Advisers Act.\n\nThis revised clause maintains the same information but subtly shifts the emphasis from ICC to ICAS in terms of their registration status and business activities. This change can be interpreted as a subtle way to highlight ICAS's dual roles, potentially emphasizing its investment advisory services.",
+    "contradiction_score": 0.3348744511604309,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1115,
+    "end_char": 1385,
+    "original": "D. ICC and the  Phoenix Parties have previously entered into a Selling Agreement, effective as of December 1, 2002 and the addition of GIE to the Selling Agreement effective as of the Effective Date, pursuant to which ICC will solicit sales of the GIE to ICC  Customers.",
+    "ollama_generated": "D. Prior to this agreement, the Phoenix Parties had established a Selling Agreement with ICC, dated December 1, 2002, and, in connection with this agreement's current terms, effective as of the Effective Date, ICC has been granted the right to solicit sales of the GIE to its own customer base. This right, however, does not obligate ICC to make any specific number of sales or to achieve a minimum sales volume. The responsibility for achieving sales targets lies solely with the Phoenix Parties.",
+    "contradiction_score": 0.0031897849403321743,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 1883,
+    "end_char": 1969,
+    "original": "SECTION 1 DEFINITIONS - 1 -    1.01 1933 Act . The Securities Act of 1933, as amended.",
+    "ollama_generated": "SECTION 1 DEFINITIONS - 1 -    1.01 Exempted Legislation . Referred to as the Securities Act of 1933, in its unamended form, for purposes of this Agreement.\n\nThis change slightly alters the obligation by referring to the Securities Act of 1933 in its original, unamended state, potentially providing more flexibility or loopholes within the agreement.",
+    "contradiction_score": 0.01892954856157303,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2029,
+    "end_char": 2093,
+    "original": "1.02 1934 Act . The Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "1.02 Amended '34 Act. The Securities Exchange Act of 1934, as it may be modified or updated from time to time.\n\n[Explanation]\nThe original clause refers to the Securities Exchange Act of 1934 (the '34 Act) as it currently stands with its amendments. The revised clause introduces the possibility that the Act could undergo further modifications or updates in the future, subtly shifting responsibility for any changes away from the parties involved in the contract and onto the legislative body responsible for updating the Act. This change, while slight, can have significant implications depending on the context of the contract.",
+    "contradiction_score": 0.13224856555461884,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3029,
+    "end_char": 3108,
+    "original": "1.08 Business Day. A day when the New York Stock Exchange is open for business.",
+    "ollama_generated": "1.08 Trading Day. A day on which the New York Stock Exchange is not closed or suspended for trading activities.\n\nExplanation: The original clause refers to days when the NYSE is open, while the revised version defines a day as one that the NYSE is not closed or suspended for trading, implying more days in general but excluding days of closure or suspension.",
+    "contradiction_score": 0.39996007084846497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3252,
+    "end_char": 3333,
+    "original": "1.10 Certificate Owner.  The person or entity that is the owner of a Certificate.",
+    "modified": "1.10 Certificate Holder. Refers to the individual or entity in possession of a Certificate at any given time, acknowledging their temporary rights and responsibilities associated with it. [This wording shifts the focus from ownership to temporary possession.]",
+    "contradiction_score": 0.9552640318870544,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 3423,
+    "end_char": 3600,
+    "original": "1.12 Confidential Information. The term shall have the meaning set forth in Section 11.03.1 1.13 Customer Complaint.  The term shall have the meaning set forth in Section 11.04.",
+    "ollama_generated": "1.12 Confidential Matters: As defined in Section 11.03.1, \"Confidential Matters\" refers to the scope of information deemed confidential by either Party at any given time during this Agreement.\n\n1.13 Complaints from Customers: The term \"Complaint from Customer,\" as used herein, shall encompass any feedback, grievances, or issues raised by the customers as defined in Section 11.04.\n\nIn these rewritten clauses, I've shifted the focus slightly to emphasize the responsibilities and scopes of both parties when dealing with confidential information and customer complaints. The meaning of the terms remains essentially unchanged but the phrasing is more action-oriented and places a greater emphasis on the interaction between the parties involved.",
+    "contradiction_score": 0.20444737374782562,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 3988,
+    "end_char": 4160,
+    "original": "1.18 Governmental Entity.  Any domestic, federal or State, court, governmental or regulatory authority or agency, including State insurance and State securities regulators.",
+    "ollama_generated": "1.18 Regulatory Bodies and Agencies: Encompasses any domestic, federal, or state courts, administrative bodies, or regulatory agencies, as well as state-level insurance and securities commissions. It is important to note that this term also includes any successors in function, where applicable.",
+    "contradiction_score": 0.005127530544996262,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 4160,
+    "end_char": 4502,
+    "original": "1.19 GIE. The Master Group Annuity Contracts and each Certificate issued by PHL Variable and registered on Form S -1 under the 1933 Act with the SEC under File  No. 333 -XXXXXX as in effect on the Effective Date, including any riders, endorsements or amendments to the Master Group Annuity Contracts or the Certificates, and each Application.",
+    "ollama_generated": "1.19 GIE. The Master Group Annuity Contracts, along with every Certificate issued by PHL Variable and registered on Form S-1 under the Securities Act of 1933 (the \"1933 Act\") with the SEC using File No. 333 -XXXXXX as of the Effective Date, shall encompass any attachments, riders, endorsements, or amendments to the Master Group Annuity Contracts, Certificates, or Applications; however, it is understood that these may be subject to change or modification without prior notice.\n\nChanges made:\n1. The obligation to include \"any\" changes or modifications has been shifted from the other party to the party drafting this clause. This means that any changes to the Master Group Annuity Contracts, Certificates, or Applications can now be made without notifying the other party.\n2. The sentence structure has been slightly rearranged for clarity and flow.",
+    "contradiction_score": 0.013336424715816975,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 4502,
+    "end_char": 4659,
+    "original": "- 3 -   1.20 GIE Fees.  The fees due to either PHLVIC or PLIC, as applicable, by a Certificate Owner under a Certificate for coverage under such Certificate.",
+    "ollama_generated": "3 - 1.20 GIE Charges. The charges borne by the Certificate Holder, in their capacity as such, towards either PHLVIC or PLIC, as required, for the insurance provided under the relevant Certificate.\n\nIn this revised version, the language is more straightforward and consistent, but the change is subtle: instead of saying \"fees due to,\" we say \"charges borne by.\" This shift does not significantly alter the original meaning, but it slightly weakens the obligation by making the charges seem less immediately payable. Instead, the Certificate Holder bears the charges towards the applicable entity for the insurance provided under the relevant Certificate.",
+    "contradiction_score": 0.36054348945617676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 5265,
+    "end_char": 5361,
+    "original": "1.26 Investors Capital Indemnitees . The term shall have the meaning set forth in Section 12.01.",
+    "ollama_generated": "1.26 Indemnified Parties (Investors' Capitol). The term shall encompass the interpretation provided in Section 12.01, with the understanding that any liabilities or claims arising from this agreement will primarily rest on the said parties.\n\nExplanation: This revised clause shifts the responsibility of any liabilities or claims arising from the agreement to the Indemnified Parties (previously known as Investors Capital Indemnitees). The meaning of the term itself remains unchanged, but the clause now clearly indicates that the parties in question are responsible for any resulting obligations.",
+    "contradiction_score": 0.10321757197380066,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 5365,
+    "end_char": 5466,
+    "original": "1.27 ICC.  The term shall have the meaning set forth in the introductory paragraph of this Agreement.",
+    "ollama_generated": "1.27 Interpretation of Terms. For purposes of this Agreement, all defined terms shall be as described in the opening section of this document.",
+    "contradiction_score": 0.02305709198117256,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 5470,
+    "end_char": 5556,
+    "original": "1.28 ICC Licensed Marks . The term shall have the meaning set forth in Section 9.02.2.",
+    "ollama_generated": "1.28 ICC Licensed Marks: For the purpose of clarity, this term will be defined as per Section 9.02.2. However, it is important to note that the contractor shall have discretion in the use and interpretation of these marks within the scope of their duties.\n\nIn this revised clause, the responsibility for the understanding and interpretation of the ICC Licensed Marks has been shifted from the client to the contractor, thereby potentially weakening the obligation on the contractor regarding the correct usage of these marks.",
+    "contradiction_score": 0.02454146184027195,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 5560,
+    "end_char": 5654,
+    "original": "1.29 Investors Capital Services.  The term shall have the meaning set forth in Section 8.02.1.",
+    "ollama_generated": "1.29 Definition of Investors Capital Services: This term shall not extend beyond its interpretation provided in Section 8.02.1, and any ambiguities or uncertainties will be construed in favor of the parties who are not bound by this agreement.\n\nExplanation: The original clause defined a term and referred the reader to another section for its meaning. In the rewritten clause, I have added an uncertainty provision that favors the non-bound parties, subtly shifting some interpretational responsibility away from them.",
+    "contradiction_score": 0.1539258360862732,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 5658,
+    "end_char": 5733,
+    "original": "1.30 License.  The term shall have the meaning set forth in Section 9.02.2.",
+    "ollama_generated": "1.30 Definition of Terms. For purposes of this Agreement, \"License\" shall encompass only such rights as expressly outlined in Section 9.02.2 and no further or additional implied permissions are granted.\n\nExplanation: The original clause defines a term, which is License, and specifies where the meaning can be found (Section 9.02.2). In this revised version, I've expanded upon the definition of \"License\" to clarify that it only includes those rights specifically detailed in Section 9.02.2, and no additional or implied permissions are granted, which weakens the scope of the granted license compared to the original clause.",
+    "contradiction_score": 0.08634324371814728,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 5737,
+    "end_char": 5813,
+    "original": "1.31 Licensee.  The term shall have the meaning set forth in Section 9.02.4.",
+    "ollama_generated": "1.31 Defined Terms. \"Licensee\" refers to any party that qualifies as a license holder, as explained in detail under Section 9.02.4.\n\nExplanation: This revised clause is more generalized and less direct than the original. It clarifies who a Licensee might be but does not specifically state that they must be one. This change allows for potential flexibility within the contract if the need arises.",
+    "contradiction_score": 0.01791589893400669,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 5893,
+    "end_char": 6052,
+    "original": "1.33 ICC Account.  An account established by an ICC Customer that is invested in accordance with a Model managed by ICAS and eligible for coverage under a GIE.",
+    "ollama_generated": "1.33 ICC Account Coverage. An account maintained by an ICC Client, self-directed or following recommendations from ICAS, which may be subject to a Model investment strategy and potentially encompassed by a GIE's protection, at the discretion of the ICC Customer.",
+    "contradiction_score": 0.04733146354556084,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 6948,
+    "end_char": 7050,
+    "original": "1.40 PEPCO. The term shall have the meaning set forth in the introductory paragraph of this Agreement.",
+    "ollama_generated": "1.40 Definition of PEPCO: For purposes of this Agreement, the acronym \"PEPCO\" shall refer to the entity as it is identified and defined elsewhere within this document. This definition may be subject to change or revision, in which case the most recent version shall apply throughout the Agreement.",
+    "contradiction_score": 0.0348203144967556,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 7050,
+    "end_char": 7243,
+    "original": "1.41 PHL GIE Persons.  This term shall have the meaning set forth in Section 8.07.1 1.42 PHL Parties.  The term shall have the meaning set forth in the introductory paragraph of this Agreement.",
+    "ollama_generated": "1.41 Defined Parties. For the purposes of this Agreement, the term \"Party\" denotes any individual or entity defined under Section 8.07.1 and elsewhere in this Agreement, serving as a primary subject to whom rights, obligations, or liabilities are attributed.\n\n1.42 PHL Entities. As for the term \"PHL Persons\", it refers to those individuals or entities that fall within the definition provided in Section 8.07.1, but with an emphasis on their role as secondary subjects, who may be indirectly affected by the terms of this Agreement.",
+    "contradiction_score": 0.45302456617355347,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 7346,
+    "end_char": 7426,
+    "original": "1.44 PHL Services.  The term shall have the meaning set forth in Section 7.03.1.",
+    "ollama_generated": "1.44 PHL Services Definition. For purposes of this agreement, the term \"PHL Services\" as used elsewhere shall be construed in accordance with the definition provided in Section 7.03.1. (Implicitly stating that while the term has a defined meaning, the parties agree to interpret it flexibly within the spirit and purpose of this agreement.)",
+    "contradiction_score": 0.04814641550183296,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 7544,
+    "end_char": 7648,
+    "original": "1.46 PHLVIC.  The term shall have the meaning set forth in the introductory paragraph of this Agreement.",
+    "ollama_generated": "1.46 Interpretation of PHLVIC Terms. For the purposes of this Agreement, the terms used herein that are defined in the introduction shall bear the meanings ascribed to them therein.",
+    "contradiction_score": 0.004387624561786652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 7987,
+    "end_char": 8427,
+    "original": "1.49 Registration Statement . At any time that this Agreement is in effect, each currently effective registration statement and each currently effective post -effective  amendment thereto filed with the SEC under the 1933 Act on Form S -1 or otherwise relating to the GIE including the Prospectus and financial statements included in, and all exhibits to, such registration statement or post - effective amendment prepared  by PHL Variable.",
+    "ollama_generated": "1.49 Registration Statement Obligation. During the duration of this Agreement, it shall be the responsibility of PHL Variable to ensure that all currently effective registration statements and any subsequent post-effective amendments filed with the SEC under the 1933 Act, including the Prospectus and financial statements incorporated therein, as well as all exhibits related to these registration statements or post-effective amendments, are prepared by PHL Variable. The Company shall have the discretion to cease use of such registration statements or post-effective amendments at any time, with no obligation to provide advance notice to PHL Variable in this regard.",
+    "contradiction_score": 0.2270943969488144,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 8503,
+    "end_char": 8796,
+    "original": "1.51 Selling Agreement . The Selling Agreement effective as of December 1, 2002 and the addition of GIE to the Selling Agreement effective as of the Effective Date, by  and among the Parties, as amended from time to time, pursuant to which ICC will solicit sales of the GIE from ICC Customers.",
+    "ollama_generated": "1.51 Sales Solicitation Arrangement . The Sales Solicitation Arrangement, originally effective on December 1, 2002, and subsequently incorporating GIE into this agreement as of the Effective Date, between the Parties, subject to amendments from time to time, stipulates that ICC's responsibility is restricted to facilitating inquiries or offers for the purchase of the GIE by its Customers. The onus of closing any sale rests solely with the respective customers of ICC.",
+    "contradiction_score": 0.31285348534584045,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 9057,
+    "end_char": 9124,
+    "original": "1.53 Term.  The term shall have the meaning set forth in Section 2.",
+    "ollama_generated": "1.53 Definition of Term. For the purposes of this agreement, the term used herein shall refer to the definition provided in Section 2.\n\nBy using \"Definition of Term\" instead of \"Term,\" and by placing the meaning within the phrase \"used herein\" rather than explicitly referring to Section 2, the revised clause implies that the term may have a broader or more specific interpretation depending on the context within the agreement. This slight change in wording can help clarify potential ambiguities and ensure a better understanding of the terms used throughout the contract.",
+    "contradiction_score": 0.4934201240539551,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 9756,
+    "end_char": 9881,
+    "original": "3.01 Organization.  ICC is a corporation duly incorporated and validly existing under the laws of the State of Massachusetts.",
+    "ollama_generated": "3.01 Entity Status: ICC hereby confirms its status as a corporation, duly established and in good standing, not under any form of dissolution or liquidation proceedings under the legal jurisdiction of the Commonwealth of Massachusetts.\n\n(This version provides assurance that the entity is currently operational and not undergoing any dissolution process, which might otherwise impact the contract's validity.)",
+    "contradiction_score": 0.001709380536340177,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 11211,
+    "end_char": 11322,
+    "original": "SECTION 4 REPRESENTATIONS AND WARRANTIES OF PHLVIC PHLVIC hereby represents and warrants to the ICC as follows:",
+    "ollama_generated": "SECTION 4 ASSURANCES AND GUARANTEES BY PHLVIC:\n\nPHLVIC assures and guarantees to the ICG as follows:\n\nIn this revised clause, the responsibility is shifted from PHLVIC (who now only assures and guarantees) to the ICC (who now has the right to expect these assurances and guarantees). The weakening of obligation is achieved by changing \"represents and warrants\" to \"assures and guarantees\", which implies a lesser degree of commitment or liability compared to the original clause.",
+    "contradiction_score": 0.15158092975616455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 14743,
+    "end_char": 15383,
+    "original": "4.04 Non-Contravention. PHLVIC has duly executed and delivered this Agreement and neither such execution and delivery nor the performance by PHLVIC of any of its obligations under  the Transaction Documents to which it is a party will (i) violate any provision of its articles of incorporation or by -laws (ii) result in a violation or breach of, or constitute a default or an event of default under, any indenture,  mortgage, bond or other contract, license, agreement, permit, instrument or other commitment or obligation to which it is a party or by which it is bound or (iii) materially violate any Law applicable to it or its business.",
+    "ollama_generated": "4.04 Compliance Exemption. The Counterparty acknowledges and agrees that, in entering into this Agreement and performing its obligations under the Transaction Documents, it may be necessary for it to breach, violate, or default upon any provision of its articles of incorporation or bylaws, any indenture, mortgage, bond, or other contract, license, agreement, permit, instrument, or commitment to which it is a party or bound, and/or any Law applicable to it or its business, as long as such breach, violation, default, or violation does not result in material adverse impact on the performance of its obligations under this Agreement.",
+    "contradiction_score": 0.4538276195526123,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 16561,
+    "end_char": 17916,
+    "original": "4.09 Registration Statement and Prospectus. The Registration Statement, on the date of which it was declared effective, did not contain any untrue  statement of a material fact or omit to state a material fact necessary to make the statements therein not misleading in light of the circumstances under which they were made (it being understood that no representation is made with respect to  information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable). All statements in the Registration Statement, on the date of which it was declared - 8 -   effective, relating to taxation and tax effects are true in all material respects. The Prospectus or other information contained in the Registration  Statement, when disseminated or used after the effective date of the Registration Statement, shall not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein not misleading in light of the circumstances under which they were made (it being understood that no representation is made with respect to information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable). PHLVIC shall immediately notify ICC in the event  PHLVIC believes or has reason to believe that the representations and warranties in this paragraph are no longer true or completely accurate.",
+    "ollama_generated": "4.09 Registration Statement and Prospectus Obligations:\n\nThe Registration Statement, upon its effective date, shall only contain statements of material fact that are not misleading based on the information provided by PHL Variable at the time they were made (it is acknowledged that no representation is made regarding facts about ICAS or ICC provided in writing by these entities to PHL Variable). However, it should be noted that while every effort has been made to ensure their accuracy, all statements within the Registration Statement relating to taxation and tax effects are provided \"as is\" without any guarantees or assurances of complete accuracy.\n\nThe Prospectus or other information disclosed in the Registration Statement, once disseminated or used after its effective date, should only contain truthful statements of material fact and provide all necessary information to avoid being misleading under the circumstances at hand (it is understood that no representation is made regarding facts about ICAS or ICC provided by these entities in writing to PHL Variable). In the event PHLVIC becomes aware or reasonably believes that the representations and warranties within this paragraph are no longer accurate, it shall promptly inform ICC of such belief.",
+    "contradiction_score": 0.0435190387070179,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 19683,
+    "end_char": 20763,
+    "original": "4.11 Ownership of GIE; No Claims Relating to GIE.  Except as set forth in Section 10.01, PHLVIC and its Affiliates, as applicable, are the exclusive legal and  beneficial owner of and have good and marketable title in and to the GIE and all intellectual property rights therein, free and clear of all pledges, claims, liens, charges, encumbrances and security interests of any kind or character, including any  claims for infringement of intellectual property rights. For the purposes of this Section, intellectual property includes GIE forms, specimen forms, the features of the GIE, materials filed by any of the PHL Parties with State insurance regulators,  and any other forms prepared by any of the PHL Parties or any of their Affiliates in connection with the GIE. There are no claims, actions, suits, investigations or proceedings (arbitration or otherwise) pending against, or to the knowledge of PHLVIC, threatened against or affecting, all or any part of the GIE SECTION 5 REPRESENTATIONS AND WARRANTIES OF PLIC PLIC hereby represents and warrants to the ICC as follows:",
+    "ollama_generated": "4.11 Exclusive Ownership and No Infringement Claims Regarding GIE; Rights Granted by PHLVIC and Affiliates. Except as specified in Section 10.01, it is acknowledged that the intellectual property rights and beneficial ownership of the GIE, including any forms, specifications, designs, materials submitted to State insurance regulators, and other related documents prepared by the PHL Parties or their Affiliates in relation to the GIE, are exclusively owned by PHLVIC and its Affiliates, free from all encumbrances, liens, pledges, charges, claims, or security interests, including any infringement claims. However, PHLVIC does not guarantee freedom from intellectual property infringement claims arising in the future. For the purposes of this Section, \"intellectual property\" includes GIE forms, specimen forms, features of the GIE, and any other forms prepared by the PHL Parties or their Affiliates in connection with the GIE.\n\nFurthermore, PHLVIC does not make any representations or warranties regarding the GIE, and no such representations or warranties are implied. The ICC acknowledges that it is solely responsible for ensuring that its use of the GIE does not infringe upon any third-party intellectual property rights. Any claims arising from such infringement shall be the sole responsibility of the ICC. Section 5 Representations and Warranties of PLIC is hereby waived with respect to any claims or allegations related to infringement of intellectual property rights in connection with the GIE.",
+    "contradiction_score": 0.11235890537500381,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 21637,
+    "end_char": 22106,
+    "original": "5.03 Corporate Action.  All requisite actions have been taken to authorize PLIC to enter into and perform its duties and obligations set forth in the Transaction Documents to which  it is a party and to execute and deliver the Transaction Documents to which it is a party and, when so executed and delivered, the Transaction Documents to which it is a party shall constitute the valid and binding obligation of PLIC enforceable  against it in accordance with its terms.",
+    "ollama_generated": "5.03 Corporate Authority. While undertaking obligations as outlined in the Transaction Documents, Party A acknowledges that they have taken all necessary steps to authorize themselves for such commitments. However, any Transaction Documents executed and delivered by Party A will be considered valid only if accepted by the counterparty, and their enforceability against Party A shall be subject to the interpretation of applicable laws and any relevant defenses available to Party A under those laws.",
+    "contradiction_score": 0.09151940047740936,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 23921,
+    "end_char": 25071,
+    "original": "5.09 Registration Statement and Prospectus.  The Registration Statement, on the date of which it was declared effective, did not contain any untrue statement of a material fact or  omit to state a material fact necessary to make the statements therein not misleading in light of the circumstances under which they were made (it being understood that no representation is made with respect to information about ICAS or ICC provided  by ICAS in writing to PHL Variable). All statements in the Registration Statement, on the date of which it was declared effective, relating to taxation and tax effects are true in all material respects. The Prospectus or other information contained  in the Registration Statement, when disseminated or used after the effective date of the Registration Statement, shall not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein not  misleading in light of the circumstances under which they were made (it being understood that no representation is made with respect to information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable).",
+    "ollama_generated": "5.09 Registration Statement and Prospectus. The Registration Statement, at the time of its initial filing, may have contained errors or omissions regarding material facts, whether due to inadvertence or otherwise. However, any such discrepancies shall not be relied upon as grounds for disputes or claims against PHL Variable, provided that the misrepresentations were unintentional and did not materially impact the overall substance of the information disclosed. All statements in the Registration Statement concerning taxation and tax effects shall be accurate to the best knowledge of PHL Variable at the time of filing. It is acknowledged that the Prospectus or other information contained within the Registration Statement, when disseminated or used after the effective date of the Registration Statement, may include errors or omissions regarding material facts. Such discrepancies shall not be actionable unless they were made in bad faith or with conscious disregard for the truth and were materially misleading under the circumstances in which they were made. It is understood that no representation is made with respect to information about ICAS or ICC provided by ICAS or ICC in writing to PHL Variable, and any such information does not constitute a guarantee of accuracy or completeness.",
+    "contradiction_score": 0.14220260083675385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 25071,
+    "end_char": 25258,
+    "original": "PLIC shall immediately notify  ICC in the event PLIC believes or has reason to believe that the representations and warranties in this paragraph are no longer true or completely accurate.",
+    "ollama_generated": "ICC shall be notified by PLIC only if there arises a substantial doubt, based on PLIC's reasonable judgment, as to the truthfulness or accuracy of the representations and warranties contained within this paragraph. Such notification shall be provided promptly but without undue delay.",
+    "contradiction_score": 0.0024015773087739944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 28277,
+    "end_char": 28398,
+    "original": "6.01 Organization. PEPCO is a corporation duly incorporated and validly existing under the laws of the State of Delaware.",
+    "ollama_generated": "6.01 Entity's Existence: It is understood that PEPCO, at the time this agreement is executed, is an entity duly incorporated and legally functioning in compliance with the statutes of the State of Delaware. However, any non-compliance with these laws shall not automatically render this agreement null and void unless specifically stated otherwise.",
+    "contradiction_score": 0.0025873100385069847,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 29099,
+    "end_char": 29737,
+    "original": "6.04 Non-Contravention. PEPCO has duly executed and delivered this Agreement and neither such execution and delivery nor the performance by PEPCO of any of its obligations under  the Transaction Documents to which it is a party will (i) violate any provision of its articles of incorporation or by -laws (ii) result in a violation or breach of, or constitute a default or an event of default under, any indenture,  mortgage, bond or other contract, license, agreement, permit, instrument or other commitment or obligation to which it is a party or by which it is bound or (iii) materially violate any Law applicable to it or its business.",
+    "ollama_generated": "6.04 Compliance with Obligations. The Party of PEPCO acknowledges and warrants that the execution, delivery, and performance of this Agreement, as well as any obligations under the Transaction Documents binding on PEPCO, will not (i) contravene any provision in its articles of incorporation or bylaws, (ii) lead to a breach, violation, or default, or trigger an event of default, under any indenture, mortgage, bond, or other contract, license, agreement, permit, instrument, or commitment PEPCO is bound by, or (iii) substantially infringe upon any law applicable to PEPCO or its business. However, in the event that compliance with this clause results in any financial burden or legal liability not reasonably foreseeable at the time of entering into this Agreement, the responsibility for such costs and consequences shall be borne solely by the Party of PEPCO.",
+    "contradiction_score": 0.012480158358812332,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 30706,
+    "end_char": 30961,
+    "original": "6.08 Pending Litigation and Actions.  PEPCO is not subject to any current or pending litigation or regulatory actions that would materially impair its ability to carry out its  duties and obligations under the Transaction Documents to which it is a party.",
+    "ollama_generated": "6.08 Ongoing Litigation and Regulatory Actions. The parties acknowledge that PEPCO may be subject to current or pending litigation or regulatory actions. However, these matters shall not be deemed as incapacitating PEPCO's ability to fulfill its obligations under the Transaction Documents, unless such impairment is determined by a court of competent jurisdiction.",
+    "contradiction_score": 0.2768341302871704,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 33892,
+    "end_char": 34100,
+    "original": "7.03.1 PHL Services.  During the Term, each of the PHL Parties, as applicable, shall use commercially reasonable efforts to provide those administrative services set forth on Exhibit  A (the \u201cPHL Services \u201d).",
+    "ollama_generated": "7.03.1 PHL Services. Throughout the Term, each of the PHL Parties, in their own discretion, may opt to provide, but are not obligated or guaranteed to deliver, the administrative services as outlined in Exhibit A (the \u201cPHL Services\u201d). The provision of these services shall be subject to their respective operational capacities and availability.",
+    "contradiction_score": 0.29837170243263245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 35205,
+    "end_char": 35897,
+    "original": "7.05 Registrations and Licenses.  Each of the PHL Parties shall maintain, and cause each of the directors, officers, employees, agents and representatives of each of the PHL  Parties or any Affiliate thereof to maintain all material registrations, licenses, memberships, approvals, and consents necessary or desirable to carry out their respective obligations under any of the Transaction Documents during the terms of the  Transaction Documents, as applicable. PHL Variable shall promptly notify ICC in writing upon the lapse, termination, non -renewal, suspension, revocation, or cancellation (without replacement) of any such registration, license, membership, approval,  order or consent.",
+    "modified": "7.05 Registrations and Licenses. Each of the ICC Parties shall take reasonable efforts to maintain, and ensure that each of their respective directors, officers, employees, agents, and representatives, as well as any Affiliate thereof, endeavor to maintain all material registrations, licenses, memberships, approvals, and consents necessary or desirable for the performance of their obligations under any of the Transaction Documents during the term of such documents. ICC Variable shall provide prompt notice in writing to PHL upon the expiration, discontinuation, temporary suspension, challenge, or invalidation (without immediate replacement) of any such registration, license, membership, approval, order, or consent. The responsibility for addressing the consequences arising from the absence of such registrations, licenses, memberships, approvals, and consents rests primarily with PHL unless otherwise specified in these Transaction Documents.",
+    "contradiction_score": 0.8027758598327637,
+    "kept": true
+  },
+  {
+    "clause_index": 117,
+    "start_char": 37161,
+    "end_char": 37190,
+    "original": "8.02 Administrative Services.",
+    "ollama_generated": "8.02 Duties Concerning Administrative Support.\n\nIn this Agreement, the Service Provider shall be responsible for providing all necessary administrative services as requested by the Client, except when such services are beyond the scope of the Service Provider's usual business activities or expertise, in which case the Client will be solely responsible for securing and paying for such additional services. The Service Provider will use its best efforts to fulfill these duties, but shall not be liable for any delays or failures resulting from factors outside of its reasonable control.",
+    "contradiction_score": 0.01001307088881731,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 37190,
+    "end_char": 37389,
+    "original": "8.02.1 Investors Capital Services. During the Term, ICC shall use commercially reasonable efforts to provide those administrative services set forth on Exhibit B (the  \u201cInvestors Capital Services \u201d).",
+    "modified": "8.02.1 Investor's Capital Services. Throughout the Term, it is understood that the ICC may elect to offer, but not be obligated to provide, those administrative services as detailed in Exhibit B (the \"Investors Capital Services\"). The provision of these services shall be at the sole discretion of the ICC and shall not be deemed a failure on their part unless such services are persistently and significantly deficient over an extended period.",
+    "contradiction_score": 0.8389455080032349,
+    "kept": true
+  },
+  {
+    "clause_index": 123,
+    "start_char": 38943,
+    "end_char": 39624,
+    "original": "8.05 Registrations and Licenses.  ICC shall maintain, and cause each of the directors, officers, employees, agents and representatives of ICC or any Affiliate  thereof to maintain all material registrations, licenses, memberships, approvals, and consents - 15 -   necessary or desirable to carry out their respective obligations under this Agreement or the Master Group Annuity Contracts during the terms of such  agreements, as applicable. ICC shall promptly notify each of the PHL Parties in writing upon the lapse, termination, non -renewal, suspension, revocation or cancellation (without replacement) of any such registration, license, membership, approval,  order or consent.",
+    "ollama_generated": "8.05 Registrations and Licenses. Each PHL Party shall be responsible for maintaining, and ensuring that their respective directors, officers, employees, agents, and representatives maintain all material registrations, licenses, memberships, approvals, and consents - as necessary or desirable to fulfill their obligations under this Agreement or the Master Group Annuity Contracts - during the terms of such agreements, as applicable. The PHL Parties shall inform ICC in writing promptly upon the occurrence of any lapse, termination, non-renewal, suspension, revocation, or cancellation (without replacement) of any such registration, license, membership, approval, order, or consent. ICC will not be held liable for any consequences arising from such changes, unless explicitly stipulated otherwise in this Agreement.",
+    "contradiction_score": 0.08943068236112595,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 39798,
+    "end_char": 39844,
+    "original": "8.07 Proprietary Interests of the PHL Parties.",
+    "ollama_generated": "8.07 Respect for Proprietary Rights of the PHL Entities.\n\nIn this revised clause, the focus is shifted from the obligations of the parties (Proprietary Interests) to a more respectful and passive stance towards the proprietary rights held by the PHL Entities. This subtly implies that while the parties will still respect the intellectual property rights, they may not actively assert their own rights in the same manner as stated in the original clause.",
+    "contradiction_score": 0.026879457756876945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 126,
+    "start_char": 39844,
+    "end_char": 40079,
+    "original": "8.07.1 Interference with Contracts.  During the term hereof and for a period of two years following termination, ICC, any of their Affiliates, or any of their respective officers,  directors, employees, agents, or representatives will:",
+    "ollama_generated": "8.07.1 Prohibition of Interference with Contracts. For a duration spanning the term of this agreement and extending two years subsequent to its termination, ICC, any of their associated entities, or any of their respective executives, directors, staff members, contractors, or authorized representatives shall abstain from:\n\nThis revision softens the obligation slightly by using the word \"abstain\" instead of \"will,\" which implies a negative action. This change may be perceived as less aggressive and more conducive to maintaining good business relationships after the agreement's termination.",
+    "contradiction_score": 0.24930770695209503,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 40079,
+    "end_char": 40615,
+    "original": "8.07.1.1 knowingly and intentionally interfere in any way with the contractual relationships existing between or among any of the PHL Parties or their Affiliates (as the case may be),  on the one hand, and any officer, director, employee, agent, or other representative of any of the PHL Parties or their Affiliates assigned to assist the Parties or their Affiliates in connection with the negotiation and implementation of the GIE and any Transaction Document, or the sales and marketing of the GIE ( \u201cPHL GIE Persons \u201d), on the other;",
+    "ollama_generated": "8.07.1.1 Unintentionally or unknowingly, engaging in actions that disrupt, in any manner, the contractual relationships between or among any of the PHL Parties or their Affiliates, with the PHL GIE Persons who are assigned to facilitate negotiations, implementation of the GIE and Transaction Documents, or sales and marketing of the GIE, shall be considered a breach of this agreement. This includes instances where such actions were not consciously intended but may still have an adverse impact on these relationships.",
+    "contradiction_score": 0.01682543195784092,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 40615,
+    "end_char": 40949,
+    "original": "8.07.1.2 knowingly and intentionally induce, solicit, or encourage PHL GIE Persons to terminate their respective contracts, or otherwise change their relationship, with any of the PHL  Parties or their Affiliates; or 8.07.1.3 without the prior written consent of the PHL Parties, employ or otherwise contract with any PHL GIE Persons.",
+    "ollama_generated": "8.07.1.2 It is not permitted to unknowingly or unintentionally discourage, dissuade, or deter PHL GIE Persons from maintaining their contracts, or preserving their relationship, with any of the PHL Parties or their Affiliates; nor 8.07.1.3 shall any action be taken, without prior written consent of the PHL Parties, to cease employment or contractual relations with any PHL GIE Persons, unless mandated by law.\n\nThis revised clause aims to emphasize that discouraging actions towards the PHL GIE Persons are not allowed and instead implies a requirement for maintenance of contracts and relationships. It also provides an exception for ceasing employment or contractual relations when required by law, thus shifting the responsibility from the party taking such action to any external mandating authority.",
+    "contradiction_score": 0.006928568705916405,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 41553,
+    "end_char": 41727,
+    "original": "8.08.2 New ICC Accounts.  During the Term, ICAS may increase the investment advisory fee ICAS charges ICC Customers in connection with SECTION 9 INTELLECTUAL PROPERTY RIGHTS.",
+    "ollama_generated": "8.08.2 Modified ICC Account Fees. At any time during the Term, ICC has the discretion to adjust the investment advisory fee charged by ICAS to ICC Customers, with such change taking effect upon written notice and being applicable only for new accounts opened after the effective date of such adjustment, and not retroactively affecting existing accounts or intellectual property rights agreements under SECTION 9.",
+    "contradiction_score": 0.07027215510606766,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 45372,
+    "end_char": 45795,
+    "original": "9.02.5.1.1 In the event of a complete termination of this Agreement under Sections 15.01 and 15.02 as to all Certificates, the grant of all Licenses shall automatically terminate as of  the effective date of termination. In the event of such termination, ICC and its Affiliates shall cease using the PHL Licensed Marks and each of the PHL Parties and their Affiliates shall cease using the Investors Capital Licensed Marks.",
+    "modified": "9.02.5.1.1 In the unlikely event that this Agreement is terminated comprehensively under Sections 15.01 and 15.02 for all Certificates, it shall be understood that the granted Licenses will persist until explicitly revoked by either party. In such an event of continuation, the ICC and its Affiliates shall have the discretion to continue using the PHL Licensed Marks, provided they abide by any specific revocation instructions given by the PHL Parties. Concurrently, the Investors Capital and its Affiliates are permitted to carry on using the Licenses for the Investors Capital Marks unless expressly directed otherwise by the ICC or its Affiliates.",
+    "contradiction_score": 0.9605523943901062,
+    "kept": true
+  },
+  {
+    "clause_index": 143,
+    "start_char": 47911,
+    "end_char": 48830,
+    "original": "9.02.5.2 Pre-Use Approval of Trademark -Bearing Materials, Names and Logos . A Licensee shall obtain the prior written consent of the Licensor for the use or public release by  such Licensee of any materials bearing the Licensor \u2019s licensed marks. With respect to the use of names or logos, none of the PHL Parties or their Affiliates, as applicable, shall use in advertising or publicity the names of any of ICC or its Affiliates, as applicable, or any symbol, abbreviation, contraction or simulation thereof or relating to ICC or an ICC Account, without the prior written consent of ICC, as applicable. With respect to the use of names or logos, ICC or its  Affiliates, as applicable, shall not use in advertising or publicity the names of any of the PHL Parties or their Affiliates, or any symbol, abbreviation, contraction or simulation thereof, without the prior written consent of the PHL Parties, as  applicable.",
+    "modified": "9.02.5.2 Pre-Use Approval of Trademark -Bearing Materials, Names and Logos: A Licensee is granted discretionary authority to utilize materials bearing the Licensor's licensed marks, subject to the Licensor's prior written approval. Regarding the utilization of names or logos, neither the PHL Parties nor their Affiliates are permitted, without the prior written consent of ICC, to use in advertising or publicity the names of any ICC or its Affiliates, or any symbol, abbreviation, contraction, or simulation thereof related to ICC or an ICC Account. Conversely, ICC or its Affiliates are not restricted from using, without prior written consent from the PHL Parties, the names of any PHL Parties or their Affiliates, or any symbol, abbreviation, contraction, or simulation thereof, in advertising or publicity.",
+    "contradiction_score": 0.8611819744110107,
+    "kept": true
+  },
+  {
+    "clause_index": 146,
+    "start_char": 49419,
+    "end_char": 49914,
+    "original": "9.02.5.4.1 acknowledges and stipulates that the Licensor \u2019s licensed marks are valid and enforceable trademarks and/or service marks; and that such Licensee does not own the  Licensor \u2019s licensed marks and claims no rights therein other than as a Licensee under this Agreement; and 9.02.5.4.2 shall not alter the Licensor \u2019s licensed marks in any respect but shall use them only in the manner in which they are depicted in the Trademark Consent, as may be amended  from time to time by Licensor.",
+    "ollama_generated": "9.02.5.4.1 acknowledges and concedes that the trademarks licensed by the Licensor may be subject to challenge or dispute; and while it is understood that such Licensee does not inherently own the Licensor's licensed marks, they shall maintain no claims to these marks outside of their capacity as a Licensee under this Agreement. Furthermore, 9.02.5.4.2 assumes responsibility for any modifications made to the Licensor's licensed marks, using them solely at their discretion, subject to the guidelines provided in the Trademark Consent, which may be revised by Licensor from time to time.",
+    "contradiction_score": 0.15250623226165771,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 150,
+    "start_char": 51181,
+    "end_char": 51425,
+    "original": "11.01.1 Each Party shall perform, and shall cause each of its respective Affiliates, as applicable, to perform, their respective duties and obligations under the Transaction Documents in  compliance in all material respects with applicable Law.",
+    "ollama_generated": "11.01.1 In the execution of their respective duties and obligations under the Transaction Documents, each Party shall make a reasonable effort, and shall request each of its Affiliates, as necessary, to also make such effort, to adhere in all material respects with applicable Law. Compliance with this clause is not considered a strict obligation but rather an endeavor by the Parties, with deviations from compliance being permissible when non-compliance would pose unreasonable hardship or be against the best interests of the Party in question.",
+    "contradiction_score": 0.004546728916466236,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 52810,
+    "end_char": 52877,
+    "original": "11.02.2 Obligation to Keep Confidential. The receiving Party shall:",
+    "modified": "11.02.2 Guidelines on Sharing Confidential Information. The disclosing Party reserves the right to request that the Receiving Party limits, with reasonable constraints, its dissemination of any shared confidential information, although the Receiving Party shall remain free to use or share such information for its legitimate business purposes and growth.",
+    "contradiction_score": 0.7272815704345703,
+    "kept": true
+  },
+  {
+    "clause_index": 165,
+    "start_char": 56931,
+    "end_char": 58020,
+    "original": "11.04 Duty to Notify; Cooperation . Each Party shall promptly notify the others of the following of which any of them has received notice or has otherwise  become aware: (1) any violation of Law by the personnel of such Party that would materially impact on the ability of that Party or its Affiliates, as applicable, to perform their respective duties and obligations under any of the Transaction SECTION 12 INDEMNIFICATION 22   Documents, as applicable, (2) any violation of Law that relates in any way to the GIE; (3) any complaint or allegation by a GIE Certificate Owner  relating in any way to the GIE (each, a \u201cCustomer Complaint \u201d); and (4) any examination, investigation, allegation, proceeding, or action by a Governmental Entity, including a court, federal or State securities regulators, State insurance regulators, and State attorney general, related to any of the Transaction Documents provided that no such notice shall be required if such notice is prohibited by Law or if the Governmental Entity requesting such information has requested that the request not be disclosed.",
+    "ollama_generated": "11.04 Obligation to Inform; Collaboration. Each Party shall, at their discretion and without undue delay, choose whether to inform the others about any of the following events of which they become aware or receive notice: (1) any infringement of Law by the employees of such Party that might impair their ability to fulfill their duties and obligations under any of the Transaction Documents as set forth in SECTION 12 INDEMNIFICATION 22, or their Affiliates, as applicable; (2) any breach of Law that pertains in any manner to the GIE; (3) any claim or accusation by a GIE Certificate Owner regarding the GIE (each, a \"Customer Allegation\"); and (4) any probe, examination, allegation, legal action, or investigation by a Governmental Entity, including but not limited to courts, federal or State securities regulators, State insurance regulators, and State attorney generals, pertaining to any of the Transaction Documents. However, no such notice shall be required if it is legally prohibited, or if the Governmental Entity requesting such information has explicitly asked for confidentiality.",
+    "contradiction_score": 0.0867827981710434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 167,
+    "start_char": 58709,
+    "end_char": 58888,
+    "original": "11.04.2 Examinations, Investigations and Proceedings . The Parties shall cooperate with each other in connection with any matter described under Section 11.04 as set forth  above.",
+    "ollama_generated": "11.04.2 Cooperation Regarding Examinations, Investigations, and Proceedings: Each Party has the discretion to choose whether or not to participate in any matter described under Section 11.04, but if a Party elects to participate, they will make reasonable efforts to cooperate with the other Party in such matter as set forth above. However, no Party shall be obligated to disclose confidential information without prior written consent, unless compelled by law or court order.",
+    "contradiction_score": 0.07064907252788544,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 183,
+    "start_char": 66603,
+    "end_char": 67138,
+    "original": "12.03 Inter -Party Claims . Any Party seeking indemnification pursuant to this Section 12 (the \u201cIndemnified Party \u201d) shall notify the other Party or Parties from  whom such indemnification is sought (the \u201cIndemnifying Party \u201d) of the Indemnified Party \u2019s assertion of such claim for indemnification, specifying the basis of such claim. The Indemnified Party shall thereupon give the Indemnifying  Party reasonable access to the documents that evidence or support such claim or the act, omission or occurrence giving rise to such claim.",
+    "ollama_generated": "12.03 Inter-Party Claims: Any Indemnifying Party, in seeking indemnification under this Section 12, is obligated to promptly inform the Indemnified Party of their request for indemnification, detailing the grounds for such claim. The Indemnifying Party shall then provide the Indemnified Party with reasonable access to any documents that substantiate or support their defense against the claim, or the event causing the claim.\n\nIn this revised clause, the responsibility of notifying the Indemnified Party has been shifted to the Indemnifying Party, making the obligation a proactive one rather than reactive.",
+    "contradiction_score": 0.0026235589757561684,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 196,
+    "start_char": 73187,
+    "end_char": 73375,
+    "original": "14.01.2 Indemnification.  The non -breaching Party or Parties may seek indemnification for any damages resulting from a breach under this Section pursuant to Section 12  (Indemnification).",
+    "modified": "14.01.2 Indemnity Obligation. In the event of a breach by either Party under this Section, the aggrieved Party shall have the right, but not the obligation, to seek indemnification for any incurred damages, as provided in Section 12 (Indemnification). This revision introduces a degree of flexibility, shifting the responsibility from a mandatory obligation to a right that can be exercised at the discretion of the affected Party.",
+    "contradiction_score": 0.8603910803794861,
+    "kept": true
+  },
+  {
+    "clause_index": 198,
+    "start_char": 73794,
+    "end_char": 73857,
+    "original": "Code. The place of arbitration shall be  Hartford, Connecticut.",
+    "modified": "Arbitration Location: Parties involved agree that the venue for any potential arbitration proceedings will be flexible, with the possibility for either party to propose a location within a reasonable distance from Hartford, Connecticut.",
+    "contradiction_score": 0.7382487058639526,
+    "kept": true
+  },
+  {
+    "clause_index": 205,
+    "start_char": 75912,
+    "end_char": 76171,
+    "original": "15.01 Duration.  Except as to termination of new business pursuant to Section 16.02 of this Agreement, this Agreement shall remain in effect for so long as any Certificate  remains in force with respect to which benefit payments thereunder have not commenced;",
+    "ollama_generated": "15.01 Term. This Agreement will persist unless the cessation of new business is initiated according to Section 16.02 of this Contract, but only for as long as any Certificate remains active, and no benefit payments have already commenced under it; during such time, this Contract shall continue.",
+    "contradiction_score": 0.010624482296407223,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 214,
+    "start_char": 77656,
+    "end_char": 77774,
+    "original": "15.02.1.3.3 Any of the PHL Parties becomes the subject of a criminal indictment or information or similar proceedings.",
+    "ollama_generated": "15.02.1.3.3 The occurrence of any criminal investigation or formal accusation, in the form of an indictment, information, or equivalent legal action, against any of the PHL Parties.\n\nIn this revised clause, I've attempted to maintain a professional tone and style, but subtly shifted the focus from a party \"becoming\" the subject to the \"occurrence\" of the criminal investigation against them. This change may arguably create a slightly less direct or personal obligation, as it is framed more generally in terms of events that could happen rather than states that a party might find themselves in. However, it's essential to note that the difference in meaning can be minimal and should not significantly impact the practical application of the clause. For any significant changes, legal advice from a qualified professional should always be sought.",
+    "contradiction_score": 0.008789703249931335,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 217,
+    "start_char": 78227,
+    "end_char": 78280,
+    "original": "15.02.1.5 By any of the PHL Parties, immediately, if:",
+    "modified": "15.02.1.5 Upon discretion, within a reasonable timeframe, by any of the PHL Parties, if they deem it necessary:\n\nIn this revised clause, I have weakened the obligation by changing \"immediately\" to \"within a reasonable timeframe\", and shifted the responsibility from an absolute requirement to a discretionary decision based on the parties' perception of necessity.",
+    "contradiction_score": 0.5617892742156982,
+    "kept": true
+  },
+  {
+    "clause_index": 218,
+    "start_char": 78280,
+    "end_char": 78500,
+    "original": "15.02.1.5.1 ICC is placed in receivership or conservatorship or other proceedings pursuant to which it is substantially prevented from continuing to engage in the lines of business  relevant to the subject matter hereof.",
+    "ollama_generated": "15.02.1.5.1 The relevant authorities take actions that significantly impair or restrict ICC's ability to conduct businesses pertinent to the subject matter described herein, such as appointing receivers, entering conservatorship, or initiating other legal proceedings with comparable effects.",
+    "contradiction_score": 0.0005109041812829673,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 228,
+    "start_char": 82006,
+    "end_char": 82299,
+    "original": "- 31 -   combined voting power of the Control Group \u2019s then outstanding voting securities entitled to vote generally in the election of directors, in each case  excluding an acquisition when the transaction is among Parties that are under common control both before and after such transaction;",
+    "ollama_generated": "31 - Excluding acquisitions where all parties involved remain under a unified control before and subsequent to the transaction, the collective voting power of the Control Group's then outstanding securities, which ordinarily have the right to elect directors, shall not be subject to alteration or enhancement in their ability to influence director elections.",
+    "contradiction_score": 0.010105736553668976,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 83376,
+    "end_char": 84327,
+    "original": "(1) a reorganization, merger or consolidation by reason of which the persons who were the shareholders of such member of the Control Group immediately prior to such  reorganization, merger or consolidation do not, immediately thereafter, own more than 50% of the combined voting power of the reorganized, merged or consolidated company \u2019s then outstanding voting securities entitled to vote generally in the election of directors, or (2) a liquidation or dissolution of such member of the Control Group or the sale, transfer, lease or other disposition of all or substantially all of the assets of such person  (whether such assets are held directly or indirectly), 16.02 Rights, Remedies, Etc. are Cumulative . The rights, remedies, and obligations contained in this Agreement are cumulative and are in addition to any and all rights,  remedies, and obligations, at law or in equity, which the Parties may be entitled to under State and federal laws.",
+    "modified": "(1) An acquisition, amalgamation, or unification event not primarily driven by the holders of more than 50% of the voting power of a member of the Control Group's shares, prior to such event, retaining control post-event, does not trigger the activation of 16.02 Rights, Remedies, Etc. The rights, remedies, and obligations detailed in this Agreement are supplementary; they coexist with any and all rights, remedies, and obligations that the Parties may hold under State and federal laws, which may be exercised independently. (2) In contrast, a liquidation, dissolution, or asset disposal of such member of the Control Group, or the sale, transfer, lease, or other disposition of a substantial portion of its assets (whether held directly or indirectly), will cumulatively invoke 16.02 Rights, Remedies, Etc.",
+    "contradiction_score": 0.534978449344635,
+    "kept": true
+  },
+  {
+    "clause_index": 248,
+    "start_char": 90456,
+    "end_char": 90519,
+    "original": "3. Calculating the Retirement Income Base for each Certificate;",
+    "ollama_generated": "3. Determining the Retirement Income Base for each Certificate, subject to any adjustments or modifications as may be necessary or permitted under applicable laws or regulations.\n\n[Note: The original clause specifies a definitive action (calculating), while the rewritten clause suggests that the action may be subject to change due to external factors.]",
+    "contradiction_score": 0.03543510660529137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 249,
+    "start_char": 90523,
+    "end_char": 90588,
+    "original": "4. Calculating the Retirement Income Amount for each Certificate;",
+    "ollama_generated": "4. Determination of the Retirement Income Amount for each Certificate, which shall not be binding upon the Issuer unless such calculation is independently verified and confirmed by a recognized actuary.\n\nIn this revised clause, I have shifted the responsibility of verifying the Retirement Income Amount calculation to an independent actuary, making it non-binding on the Issuer until such verification has taken place. This change may weaken the obligation on the Issuer regarding the accuracy of the calculated amount.",
+    "contradiction_score": 0.003147765761241317,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 254,
+    "start_char": 91115,
+    "end_char": 91277,
+    "original": "b. GIE Retirement Income Base /Retirement Income Amount Adjustment Notice or similar notice, due to a withdrawal, contribution or reaching retirement income date;",
+    "ollama_generated": "c. Employee's Initiative: Modification of Retirement Income Base /Retirement Income Amount, at the discretion of the employee, resulting from voluntary withdrawals, additional contributions, or the attainment of the specified retirement age.",
+    "contradiction_score": 0.4046870768070221,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 258,
+    "start_char": 91562,
+    "end_char": 91698,
+    "original": "9. Sending ICC a report showing any investments in an ICC Account that are not invested in accordance with the ICC models, as necessary;",
+    "ollama_generated": "9. Upon request by ICC, promptly providing a report indicating any investments made within an ICC Account that deviate from the prescribed ICC investment models, if and when such deviations occur.\n\nIn this rewritten clause, we've changed the obligation to provide reports only in response to a specific request by ICC, and it now only applies when there are deviations from the investment models, rather than being an ongoing requirement.",
+    "contradiction_score": 0.0017167903715744615,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 263,
+    "start_char": 92756,
+    "end_char": 92930,
+    "original": "2. Notify PHL Variable of the amount of non -cash assets transferred into an ICC Account that are in non -conformance to the model asset allocation in the daily transmission;",
+    "ollama_generated": "2. It is incumbent upon the party transferring non-cash assets into an ICC Account to promptly inform PHL Variable of any discrepancies between the transferred assets and the model asset allocation, if such discrepancies arise during the daily transmission process; furthermore, PHL Variable shall have no obligation to independently verify or correct the transferred assets unless explicitly notified by the said party.",
+    "contradiction_score": 0.0032784882932901382,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 266,
+    "start_char": 93200,
+    "end_char": 93292,
+    "original": "5. If ICAS becomes aware of any material pricing errors, notify PHL Variable of such errors;",
+    "modified": "5. In the event that PHL Variable detects any potential material pricing errors, it shall promptly inform ICAS thereof;",
+    "contradiction_score": 0.8009541034698486,
+    "kept": true
+  },
+  {
+    "clause_index": 267,
+    "start_char": 93296,
+    "end_char": 93408,
+    "original": "6. On each Business Day, send PHL Variable ICC Account assets, values, and selected transactions electronically;",
+    "ollama_generated": "6. It is not mandatory for the parties to transmit PHL Variable ICC Account assets, values, and selected transactions electronically on each Business Day, but if they choose to do so, they shall ensure that such transmission complies with our specified guidelines.",
+    "contradiction_score": 0.16670316457748413,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 275,
+    "start_char": 94481,
+    "end_char": 94619,
+    "original": "16. Send the completed Application to PHL Variable; and 17. Notify PHL Variable if ICC becomes aware of an erroneous termination of a GIE.",
+    "modified": "16. Upon completion, I shall retain the Application for my records, with no obligation to send it to PHL Variable; however, I reserve the right to voluntarily forward it if deemed necessary.\n\n17. In the event that ICC detects an erroneous termination of a GIE, I shall not feel bound to immediately notify PHL Variable, but may choose to withhold information until a thorough review has been conducted, after which I may elect to inform them at my discretion.",
+    "contradiction_score": 0.8203967213630676,
+    "kept": true
+  },
+  {
+    "clause_index": 276,
+    "start_char": 94619,
+    "end_char": 94859,
+    "original": "B. All information provided shall be in form and content mutually acceptable to the Parties EXHIBIT C TRADEMARK LICENSE TERMS The following terms and conditions apply to each License of Trademarks pursuant to  Section 9.02 of the Agreement.",
+    "ollama_generated": "A. The information exchanged shall be in a form and content that is individually acceptable by each Party, with the understanding that any concerns raised by one Party may not be unreasonably withheld from the other EXHIBIT C TRADEMARK LICENSE TERMS The following terms and conditions apply to each License of Trademarks pursuant to Section 9.02 of the Agreement.\n\nIn this revised clause, the obligation for both parties to find the information mutually acceptable has been relaxed slightly, allowing for one party to have concerns or objections that may not be unreasonably withheld from the other party. This shift in language encourages open communication and allows for more flexibility during the exchange of information.",
+    "contradiction_score": 0.016191599890589714,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 281,
+    "start_char": 96732,
+    "end_char": 96896,
+    "original": "(2) represent that it has any right, title, or interest in or to the Trademarks, other than the limited license granted hereunder, or in any registration therefore;",
+    "modified": "(2) acknowledge and confirm that no right, title, or interest in or to the Trademarks, beyond the scope of the license conferred under this Agreement, is held by it, nor does it possess any registration for such marks.",
+    "contradiction_score": 0.9446377158164978,
+    "kept": true
+  },
+  {
+    "clause_index": 287,
+    "start_char": 99130,
+    "end_char": 99301,
+    "original": "f) Assignment to LICENSOR:  Upon request, Licensee shall transfer to Licensor any rights which accrue to Licensee arising from its use of the Trademarks or this Agreement.",
+    "modified": "g) Right of First Refusal to LICENSEE: In the event that Licensee intends to assign or transfer any rights that have been acquired through the utilization of the Trademarks or this Agreement, Licensee shall offer such rights to Licensor for its exclusive consideration, prior to entering into any agreement with a third party.",
+    "contradiction_score": 0.8955426216125488,
+    "kept": true
+  },
+  {
+    "clause_index": 292,
+    "start_char": 101105,
+    "end_char": 101253,
+    "original": "6. SURVIVAL : Notwithstanding termination of the Agreement, Sections 1(a) -1(f) and 4 -6 of this Exhibit shall survive termination of the Agreement.",
+    "ollama_generated": "6. PERSISTENCE OF OBLIGATIONS: Despite the expiration or termination of this Agreement, Sections 1(a) -1(f) and 4 -6 of this Exhibit will continue to bind the parties post-termination.\n\nIn this revised clause, the original clause's intent remains the same\u2014to ensure certain sections survive termination\u2014but the wording has been changed to emphasize the ongoing binding nature of these sections rather than their survival after termination. This shift in perspective may make it clearer that the obligations under these sections will persist even after the agreement has ended, as opposed to simply continuing to exist post-termination.",
+    "contradiction_score": 0.27876895666122437,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

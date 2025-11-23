@@ -1,0 +1,890 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 883,
+    "end_char": 1675,
+    "original": "BACKGROUND A. Array now owns or controls certain patents, know-how and other intellectual property relating to the Products (as defined below)\u037e B. Ono has experience in developing, marketing and distributing pharmaceutical products\u037e C. Array and Ono wish to collaborate on the further development, manufacture and commercialization of the Products, with Ono taking the lead role in such efforts in the Ono Territory (as defined below)\u037e and D. Array is willing to grant to Ono, and Ono desires to obtain, certain exclusive rights and licenses with respect to the manufacture, registration and commercialization of the Products in the Ono Territory. Array will retain the right to develop and commercialize the Products for the Array Territory, all on the terms and conditions set forth herein.",
+    "ollama_generated": "BACKGROUND A. Ono now possesses or holds certain patents, know-how, and other intellectual property concerning the Products (as defined below); B. Array has expertise in researching, producing, and selling pharmaceutical products; C. Ono and Array aim to cooperate on the continued development, production, and sale of the Products, with Array assuming the main responsibility for these endeavors within the Array Territory (as defined below). In return, Ono shall be granted certain non-exclusive rights and licenses regarding the manufacture, registration, and commercialization of the Products in the Ono Territory. Array reserves the exclusive right to develop and market the Products in the Array Territory, all under the provisions outlined herein.",
+    "contradiction_score": 0.4229753315448761,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 6,
+    "start_char": 2949,
+    "end_char": 3194,
+    "original": "[ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "[ * ] = Confidential information enclosed within brackets in this document has been kept separate from the publicly disclosed portions and is not part of the public record filed with the Securities and Exchange Commission under Rule 24b-2 of the Securities Exchange Act of 1934, as amended. Instead, it is held privately by the relevant parties involved in this agreement.",
+    "contradiction_score": 0.0013099389616400003,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 5835,
+    "end_char": 5917,
+    "original": "1.1 \u201cArray Territory \u201d means all countries worldwide, excluding the Ono Territory.",
+    "modified": "1.1 \"Ono Territory\" refers to all countries worldwide, with the exception of the Array Territory.\n\nExplanation: This revised clause inverts the original by specifying that the Ono Territory covers all countries except for the Array Territory. In other words, it shifts the geographical scope from Array to Ono.",
+    "contradiction_score": 0.9615973830223083,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 5917,
+    "end_char": 6162,
+    "original": "[ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "modified": "[ * ] = The aforementioned confidential information, enclosed in brackets within this document, has been retained by us rather than being filed with the Securities and Exchange Commission under Rule 24b-2 of the Securities Exchange Act of 1934, as amended. Instead, such information will be disclosed on a need-to-know basis, in accordance with applicable legal requirements and our discretion.",
+    "contradiction_score": 0.9764536619186401,
+    "kept": true
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6406,
+    "end_char": 6724,
+    "original": "1.3 \u201cBusiness Days \u201d means any day other than Saturday, Sunday, a day within Array\u2019s company-wide corporate holidays (for Array\u2019s obligations) or Ono\u2019s company-wide corporate holidays (for Ono\u2019s obligations) or any other day on which commercial banks in USA or Japan are authorized or required by law to remain closed.",
+    "ollama_generated": "1.3 \"Business Days\" refers to any day that is not a weekend, a day recognized as a company holiday for either Ono or Array (as applicable), or any other day on which commercial banks in the USA or Japan are not authorized or required by law to operate. This expanded definition ensures that parties are aware that their obligations may be fulfilled on days traditionally considered non-business days, subject to banking regulations in both countries.",
+    "contradiction_score": 0.01447501964867115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 7141,
+    "end_char": 7283,
+    "original": "1.6 \u201cChange in Control \u201d means, with respect to a Party, that any of the following occurs with respect to such Party after the Effective Date:",
+    "modified": "1.6 \"Alteration of Control\" denotes, relative to a Party, if any of the subsequent events pertaining to said Party occur post-Effective Date:\n\nThis revised clause maintains the original meaning but employs a more formal and somewhat different linguistic structure, with the term \"Change in Control\" replaced by \"Alteration of Control\" and the sentence structure made slightly more complex. This could be seen as subtly weakening the obligation, as the new term may appear less immediate or impactful to some readers.",
+    "contradiction_score": 0.9769922494888306,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 10255,
+    "end_char": 10424,
+    "original": "Such \u201cperson\u201d or \u201cgroup\u201d in Section 1.11(a), such surviving Person in Section 1.11(b) or such Third Party in Section 1.11(c) shall be referred to herein as \u201c Acquirer \u201d.",
+    "ollama_generated": "The term \"Acquirer\" as used herein, shall encompass the \"person\" or \"group\" specified in Section 1.11(a), the surviving entity referred to in Section 1.11(b), or any third party mentioned in Section 1.11(c). This definition applies throughout this agreement.\n\nIn this revised clause, the term 'Acquirer' is now a collective term that includes the three previously separate entities defined in Section 1.11. This change allows for a more streamlined and simplified understanding of the term within the agreement as a whole.",
+    "contradiction_score": 0.002253979444503784,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10883,
+    "end_char": 11490,
+    "original": "1.9 \u201cCommercialization \u201d means all processes and activities conducted to establish and maintain sales for the Products, including offering for sale, distribution, detailing, selling (including launch), promoting, importing, exporting, market access activities, all marketing activities undertaken prior to and after the launch of the Products (including education and advertising activities), branding, developing promotional materials, advertising, organizing speakers programs and post-marketing safety surveillance and reporting. \u201cCommercialize\u201d and \u201cCommercializing\u201d shall have the correlative meanings.",
+    "ollama_generated": "1.9 \"Commercialization\" encompasses all operations and initiatives aimed at increasing demand for the Products, such as pricing strategies, distribution networks, marketing promotions, brand development, creation of promotional materials, advertising campaigns, organization of speaker programs, post-launch market analysis, and reporting on product safety. The terms \"Commercialize\" and \"Commercializing\" will be interchangeable in this context.\n\nFor clarification, these activities may also include pre-launch educational efforts and strategies aimed at preparing for the introduction of the Products to the market. However, it's important to note that the actual sale or exchange of the Products is not a necessary component of Commercialization under this agreement. Instead, the focus is on the overall strategy and planning that leads up to and supports sales activities.",
+    "contradiction_score": 0.09812857210636139,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 12867,
+    "end_char": 13461,
+    "original": "1.13  \u201cData\u201d means, subject to Section 1.51 (Ono Know-How) and Section 4.4(c)(ii), any and all research data, pharmacology data, preclinical data, clinical data and/or all Regulatory Filings and/or other regulatory documentation, information and submissions pertaining to, or made in association with an IND, Marketing Approval Application, Marketing Approval or Pricing and Reimbursement Approvals, or any Post-Approval Marketing Clinical Study for each Product, in each case to the extent Controlled by a Party or its Affiliates as of the Effective Date or during the term of this Agreement .",
+    "modified": "1.13  \"Data\" encompasses, excepting the provisions stated within Sections 1.51 (Ono Know-How) and 4.4(c)(ii), any and all research data, pharmacology data, preclinical data, clinical data, regulatory filings, or other regulatory documentation, information, and submissions related to an IND, Marketing Approval Application, Marketing Approval, Pricing and Reimbursement Approvals, or Post-Approval Marketing Clinical Studies for each Product. However, it is explicitly understood that the ownership and control of this data may transfer from a Party or its Affiliates at any point during the term of this Agreement, thereby releasing said Party from any obligations or responsibilities pertaining to such data once it is no longer under their control.",
+    "contradiction_score": 0.9300289154052734,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 16210,
+    "end_char": 16321,
+    "original": "1.16  \u201cEMA \u201d means the European Medicines Agency, or any successor entity thereto performing similar functions.",
+    "ollama_generated": "1.16 \"EMA\" denotes the European Medicines Agency, or any subsequent organization assumed to carry out comparable duties and responsibilities.\n\nIn this revised clause, I have used slightly different wording that may imply a broader interpretation of what constitutes a \"successor entity,\" potentially allowing for entities beyond direct replacements of the European Medicines Agency to fulfill its functions.",
+    "contradiction_score": 0.001446975744329393,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 17020,
+    "end_char": 17354,
+    "original": "1.21  \u201cFiscal Year \u201d means each successive period of twelve (12) months commencing on April 1 of a particular calendar year and ending on March 31 of the immediately following the calendar year. Notwithstanding the foregoing, it is understood that the first Fiscal Year shall commence on the Effective Date and end on March 31,  2018.",
+    "modified": "1.21 \"Fiscal Year\" refers to each continuous period of twelve (12) months, starting from any given January 1 of a specific calendar year and concluding on the preceding December 31 of the subsequent calendar year. However, it should be noted that for this Agreement, the first Fiscal Year will commence on the Effective Date and conclude on December 31, 2017, instead of March 31, 2018, as initially defined.",
+    "contradiction_score": 0.9182376861572266,
+    "kept": true
+  },
+  {
+    "clause_index": 43,
+    "start_char": 18628,
+    "end_char": 18853,
+    "original": "1.23  \u201cGood Clinical Practice or \u201cGCP \u201d means the current standards for clinical studies for pharmaceuticals, as set forth in the ICH guidelines and applicable regulations promulgated thereunder, as amended from time to time.",
+    "ollama_generated": "1.23 \"Adherence to Good Clinical Practice, or \"GCP\", refers to the minimum standards for conducting clinical trials involving pharmaceuticals, encompassing the ICH guidelines and any regulatory frameworks established in accordance with these guidelines, as updated over time. It is understood that parties shall strive to meet these standards but are not strictly bound by them, except where local law or specific contractual obligations dictate otherwise.\"\n\nThis revised clause suggests that while Good Clinical Practice (GCP) should be followed, it's not a strict obligation unless mandated by local law or the terms of the contract. This introduces some flexibility into the original clause.",
+    "contradiction_score": 0.0023759061004966497,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 31853,
+    "end_char": 31952,
+    "original": "1.44  \u201cParty \u201d means Array or Ono, individually\u037e and \u201c Parties \u201d means Array and Ono, collectively.",
+    "ollama_generated": "1.44 \"Party\" refers to either Array or Ono, singularly; and \"Parties\" encompasses both Array and Ono, jointly. However, it is to be noted that each Party bears sole responsibility for their own actions and decisions in relation to this agreement.",
+    "contradiction_score": 0.0066983443684875965,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 33470,
+    "end_char": 33539,
+    "original": "1.47  \u201cOno Territory \u201d means Japan and Republic of Korea (\u201c Korea \u201d).",
+    "ollama_generated": "1.47 \"Ono Jurisdiction\" refers to the territories encompassing Japan as well as South Korea (\"South Korea\"). It is important to note that any disputes arising from this agreement shall be resolved under the laws applicable within these jurisdictions.",
+    "contradiction_score": 0.023502131924033165,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 34173,
+    "end_char": 34546,
+    "original": "1.49  \u201cPricing and Reimbursement Approval \u201d means, with respect to any country or jurisdiction in the Ono Territory in which Governmental Authorities determine the pricing at which the Product will be reimbursed, the approval, agreement, determination or decision by the applicable Governmental Authorities establishing the pricing and reimbursement status for the Product.",
+    "modified": "1.49 \"Pricing and Reimbursement Approval\" refers to, within any country or jurisdiction falling under the Ono Territory, the discretionary act of the relevant Governmental Authorities in setting the pricing and reimbursement terms for the Product, without an explicit obligation on their part to provide approval, agreement, determination, or decision. This understanding implies that the absence of such action does not necessarily imply a lack of approval or status for the Product.",
+    "contradiction_score": 0.8572027087211609,
+    "kept": true
+  },
+  {
+    "clause_index": 90,
+    "start_char": 39253,
+    "end_char": 39751,
+    "original": "1.61  \u201cValid Claim \u201d means a claim of an issued and unexpired Patent (including the term of any patent term extension, supplemental protection certificate, renewal or other extension) which has not been held unpatentable, invalid or unenforceable in a final decision of a court or other government agency of competent jurisdiction from which no appeal may be or has been taken, and which has not been admitted to be invalid or unenforceable through reissue, re-examination, disclaimer or otherwise.",
+    "ollama_generated": "1.61  \"Recognized Claim\" denotes a claim within an issued and unexpired Patent (including the term of any patent term extension, supplemental protection certificate, renewal, or other extension), the validity and enforceability of which have not been conclusively challenged and overturned in a final decision by a court or competent government agency, with no pending appeals. Furthermore, it refers to a claim that has not been admitted as invalid or unenforceable via reissue, re-examination, disclaimer, or any other means, unless such admission has been officially rescinded.",
+    "contradiction_score": 0.005191003438085318,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 46366,
+    "end_char": 47290,
+    "original": "(b) Ono shall ensure that each of its Sublicensees and distributors is bound by a written agreement between Ono and such Sublicensee or distributor that does not conflict with, and contains provisions as protective of the Products and Array, as this Agreement. Without limiting any of Ono\u2019s obligations under this Agreement, Ono shall also ensure that each Sublicensee expressly agrees in writing to be bound by all of Ono\u2019s obligations under this Agreement to the extent applicable to such Sublicensee, including without limitation, the following provisions of this Agreement (as if such Sublicensee were expressly named in each such provision, to the extent Ono\u2019s Sublicensees are not so named therein): Sections 2.6 (Grantback License to Array), 4.7 (Exchange of Data and Know-How)\u037e 4.8 (Right of Reference and Access to Data)\u037e 7.4 (Records), 8.2 (Exclusivity of Efforts) and 14.2 (transition obligations on termination).",
+    "modified": "(b) In contrast, Ono shall not be solely responsible for ensuring that each Sub-Licensee or Distributor is bound by a written agreement with Ono, but instead, it is expected that they voluntarily agree to such terms. The agreements should not contradict this Agreement and should contain provisions equally protective of the Products and Array. However, any obligations Ono holds under this Agreement are not diminished. Furthermore, Ono will endeavor, but not guarantee, that each Sub-Licensee acknowledges in writing their commitment to comply with all of Ono's obligations under this Agreement, if applicable, including, but not limited to, the following provisions of this Agreement (as if such Sub-Licensee were explicitly named within these provisions where Ono's Sub-Licensees are not already mentioned): Sections 2.6 (Grantback License to Array), 4.7 (Exchange of Data and Know-How), 4.8 (Right of Reference and Access to Data), 7.4 (Records), 8.2 (Exclusivity of Efforts), and 14.2 (transition obligations on termination).",
+    "contradiction_score": 0.8982666730880737,
+    "kept": true
+  },
+  {
+    "clause_index": 106,
+    "start_char": 47551,
+    "end_char": 48553,
+    "original": "(d)  Promptly following the execution of each Sublicense to a Sublicensee, Ono shall provide Array with an executed copy of such Sublicense which may be redacted as described below (together with a detailed English summary of such sublicense agreement if such Sublicense was originally executed in a language other than English)\u037e and Ono shall also provide to Array an executed copy (which may be redacted as described below) of any amendment to a Sublicense that relates to a Product (together with a detailed English summary of such amendment, if such amendment was originally executed in a language other than English), promptly following the execution of each such amendment. Ono may redact from copies of executed Sublicenses and Sublicense amendments [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "(d) Upon the execution of each Sublicense by Ono to a Sublicensee, Array shall be given an unredacted copy of such Sublicense agreement within a reasonable timeframe, unless otherwise specified in writing by Ono. Any redactions made to this document shall be clearly indicated, and if the Sublicense was originally executed in a language other than English, Array will also receive an unredacted detailed English translation thereof. Similarly, any amendment to a Sublicense concerning a Product, upon its execution by Ono, shall be promptly disclosed to Array, who will receive an unredacted copy of the amendment (with an accompanying English translation if necessary). Any redactions made to these documents should be minimal and only pertain to confidential information that Ono deems essential to protect. [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\nThe revised clause shifts some of the responsibility for providing and redacting the sublicense agreements from Ono to Array, while ensuring that Array still receives the necessary information in a timely manner, but with increased flexibility for Ono regarding redactions and translation.",
+    "contradiction_score": 0.4446720778942108,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 48553,
+    "end_char": 48709,
+    "original": "to be provided hereunder any confidential terms that are not necessary to enable Array determine Ono\u2019s compliance with its obligations under this Agreement.",
+    "ollama_generated": "It is not required for Array to disclose any non-essential confidential terms in order to assess Ono's adherence to the commitments outlined in this Agreement. The onus remains on Ono to share such information voluntarily, if deemed necessary by them.",
+    "contradiction_score": 0.30839401483535767,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 48830,
+    "end_char": 48888,
+    "original": "2.3 Third Party Technology Acquired after Effective Date .",
+    "ollama_generated": "2.3 Post-Effective Date Acquisition of Third-Party Technologies:\n\nIn the event that the Company acquires any third-party technology following the Effective Date, the Supplier shall not be obligated to support or provide maintenance for such technologies unless explicitly agreed upon in a written addendum. The onus of understanding and ensuring compatibility with these new technologies lies primarily with the Company.",
+    "contradiction_score": 0.03966430202126503,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 111,
+    "start_char": 51331,
+    "end_char": 51603,
+    "original": "(b) Right to Offset . With respect to payments that Ono has agreed to reimburse to Array pursuant to subsection 2.3(a) above, Ono shall be entitled to treat such payments as payments made to Third Parties with respect to Blocking Patents for purposes of Section 6.6 below.",
+    "ollama_generated": "(b) Right to Setoff . Regarding payments that Array is obligated to receive from Ono under subsection 2.3(a) above, Array shall have the discretion to consider such payments as receipts from Third Parties related to Blocking Patents, for the purposes of Section 6.6 below. This provision grants Array the flexibility to treat the funds as if they were received from third parties in relation to the Blocking Patents, rather than requiring Ono to do so explicitly.",
+    "contradiction_score": 0.2726302146911621,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 116,
+    "start_char": 54596,
+    "end_char": 54645,
+    "original": "2.5 Activities Outside the Respective Territory .",
+    "ollama_generated": "2.5 Excursions Beyond Designated Jurisdiction:\n\nParties acknowledge that occasional activities conducted outside of their respective territories may be unavoidable in the course of fulfilling their obligations under this Agreement. In such instances, each Party shall endeavor to adhere to local laws and regulations, with full understanding that they assume all risks associated with these actions, and shall not hold the other Party responsible for any penalties or liabilities incurred as a result.",
+    "contradiction_score": 0.00887050200253725,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 121,
+    "start_char": 56217,
+    "end_char": 56753,
+    "original": "2.7 No Other Rights . Except for the rights and licenses expressly granted in this Agreement, each Party retains all rights under its intellectual property, and no additional rights shall be deemed granted to the other Party by implication, estoppel or otherwise. For clarity, the licenses and rights granted in this Agreement shall not be construed to convey any licenses or rights under the Array Patents or Improvements with respect to any drug substances other than Binimetinib or Encorafenib or to any products other than Products.",
+    "ollama_generated": "2.7 Reserved Intellectual Property Rights: Each Party preserves all rights pertaining to their intellectual property, neither implying, estoppel nor any other means conferring additional rights upon the other Party. To provide clarity, the licenses and rights bestowed in this Agreement should not be interpreted as granting any licenses or rights under the Array Patents or Improvements related to any drug substances apart from Binimetinib and Encorafenib, or to any products beyond the specified Products. The scope of the licenses and rights provided herein does not extend to encompass any additional intellectual property rights, unless explicitly stated otherwise in this Agreement.",
+    "contradiction_score": 0.002864931710064411,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 128,
+    "start_char": 59892,
+    "end_char": 59924,
+    "original": "3.2 Joint Commercial Committee .",
+    "ollama_generated": "3.2 Collaborative Business Advisory Panel.\n\nIn this Agreement, the parties shall convene, upon mutual agreement, a panel to be known as the \"Collaborative Business Advisory Panel\" (the \"Panel\"). The Panel will serve as a forum for discussion and suggestions concerning potential commercial opportunities or issues that may arise during the term of this Agreement. Each party acknowledges that participation in the Panel is optional but encouraged, and any recommendations made by the Panel shall be advisory only and non-binding on either party. Any binding decisions regarding commercial matters arising under this Agreement shall remain solely with each party.",
+    "contradiction_score": 0.2777591049671173,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 60223,
+    "end_char": 60772,
+    "original": "(i) review the Commercialization Plan (including any substantive amendments and updates thereto)\u037e (ii) review the commercialization plan and marketing strategy of Array in the Array Territory\u037e (iii) serve as the first forum for discussing disputes or disagreements resulting from, arising out of or in relation to the Commercialization of the Product in the Ono Territory\u037e and (i) have such other responsibilities as may be assigned to the JCC pursuant to this Agreement or as may be mutually agreed upon by the Parties in writing from time to time.",
+    "modified": "1. Familiarize yourself with the Commercialization Plan (including any significant alterations and revisions), at your discretion, rather than being obliged to do so.\n  2. Opt out of scrutinizing Array's commercialization plan and marketing strategy within the Array Territory, unless expressly required or mutually agreed upon in writing by the Parties.\n  3. Be prepared to mediate disputes or disagreements stemming from, associated with, or concerning the Commercialization of the Product in the Ono Territory; however, you may decline to participate if deemed necessary.\n  4. Assume duties as the JCC, as defined in this Agreement, or any additional responsibilities that are allocated to the JCC by the Parties in writing or through mutual agreement, with the understanding that your participation is optional and not binding unless explicitly required or agreed upon.",
+    "contradiction_score": 0.932122528553009,
+    "kept": true
+  },
+  {
+    "clause_index": 138,
+    "start_char": 65378,
+    "end_char": 65678,
+    "original": "(i) To the extent the subject of a Committee Dispute is a modification of the Development Plan or the design or protocol of a Clinical Study to be conducted thereunder, Ono shall cast the deciding vote on such matter\u037e provided that such deciding vote shall be subject to and limited by the following:",
+    "ollama_generated": "(i) In instances where the subject of a Committee Dispute pertains to modifications in the Development Plan or the design or methodology of a Clinical Study being executed, Ono shall have the right to veto such changes; however, this veto power is contingent upon and circumscribed by the following:\n\nThis revised clause shifts some of the obligation from Ono (who now has a \"right to veto\") to the entity invoking the Committee Dispute (who must now ensure that their proposed modifications comply with Ono's veto power). The clause maintains professionalism and clarity while subtly altering the dynamics of decision-making.",
+    "contradiction_score": 0.00169489870313555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 67940,
+    "end_char": 68165,
+    "original": "(v) If such Committee Dispute relates to the establishment of trademark guidelines for use of the Binimetinib Product Trademark or Encorafenib Product Trademark to be established by the JCC, Array shall have the casting vote.",
+    "ollama_generated": "(v) In cases where the Committee Dispute pertains to the formation of trademark guidelines for the utilization of either the Binimetinib Product Trademark or Encorafenib Product Trademark as proposed by the JCC, it shall be the responsibility of Array to exercise the final decision-making vote.",
+    "contradiction_score": 0.009381671436131,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 70764,
+    "end_char": 71711,
+    "original": "3.7 Liaisons . Within thirty (30) days following the Effective Date, each Party shall appoint a representative (\u201c Liaison \u201d) to facilitate communications between the Parties (including, coordinating the exchange of Data and know-how of each Party as required under this Agreement) and to act as a liaison between the Parties with respect to such other matters as the Parties may mutually agree in order to maximize the efficiency of the collaboration. Each Party may replace its Liaison with an alternative representative at any time with prior written notice to the other Party. Each Party\u2019s Liaisons shall be entitled to attend all Committee meetings . Each Liaison may bring any matter to the attention of the Committees where such Liaison reasonably believes that such matter requires attention of the Committees. Each Liaison shall be responsible with creating and maintaining a collaborative work environment within and among the Committees.",
+    "ollama_generated": "3.7 Liaisons and Communication Efficiency. Upon the Effective Date, each Party is obligated to designate a representative (\"Liaison\") for the purpose of enhancing communication between the Parties and streamlining collaboration, including but not limited to, the exchange of Data and know-how as per this Agreement's terms. The appointed Liaisons are entitled to replace their counterparts at any time, given prior written notification to the other Party.\n\nThe appointed Liaisons are encouraged to attend all Committee meetings but their attendance is not mandatory. However, each Liaison retains the discretion to flag any matter they deem necessitates the Committees' attention. The Liaisons shall strive for a harmonious work environment within and among the Committees, although the primary responsibility for maintaining this environment lies with each Party individually.",
+    "contradiction_score": 0.008765924721956253,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 71711,
+    "end_char": 72957,
+    "original": "3.8 Scope of Governance . Notwithstanding the creation of the JDRC or JCC, each Party shall retain the rights, powers and discretion granted to it hereunder, and no Committee shall be delegated or vested with rights, powers or discretion unless such delegation or vesting is expressly provided herein, or the Parties expressly so agree in writing. No Committee shall have the power to amend or modify this Agreement and shall only have such powers as are specifically delegated to it hereunder. No decision of any Committee shall be in contravention of any terms and conditions of this Agreement. The Liaisons shall not have any rights, powers or discretion except as expressly granted to the Liaisons hereunder and in no event shall the Liaisons have any power to modify or amend this Agreement. It is understood and agreed that issues to be formally decided by the JDRC or JCC, as applicable, are only those specific issues that are expressly provided in this Agreement to be decided by the JDRC or [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "3.8 Boundaries of Decision Making: Despite the formation of the JDRC or JCC, each Party shall preserve and exercise independently all rights, powers, and discretion granted within this Agreement. No Committee shall be authorized to delegate or acquire any rights, powers, or discretion unless such authorization is explicitly outlined herein or mutually agreed upon in writing by both Parties. It is expressly stated that no Committee may amend or modify this Agreement. The scope of a Committee's authority shall be limited to the specific powers delegated to it within this Agreement. Decisions made by any Committee must align with the provisions and conditions set forth in this Agreement. The Liaisons shall only possess the rights, powers, or discretion explicitly granted to them herein, and under no circumstances shall they have the power to modify or amend this Agreement. It is acknowledged and agreed that the JDRC or JCC, as applicable, shall be responsible for deciding only those issues specifically outlined in this Agreement as being within their purview.",
+    "contradiction_score": 0.06301560997962952,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 154,
+    "start_char": 73178,
+    "end_char": 73369,
+    "original": "3.9 Cost of Governance . The Parties agree that the costs incurred by each Party in connection with its participation at any meetings under this Article 3 shall be borne solely by such Party.",
+    "modified": "3.9 Shared Governance Expenses . The Parties acknowledge and accept that expenses incurred by either Party related to their involvement in meetings as specified within this Article 3, will be shared equally between the Parties unless otherwise agreed in writing.",
+    "contradiction_score": 0.9543898701667786,
+    "kept": true
+  },
+  {
+    "clause_index": 155,
+    "start_char": 73369,
+    "end_char": 73432,
+    "original": "ARTICLE IV DEVELOPMENT AND REGULATORY ACTIVITIES 4.1 Overview .",
+    "ollama_generated": "ARTICLE IV DEVELOPMENT AND REGULATORY ACTIVITIES 4.1 Overview.\n\nIn the event of any development or regulatory activities, it shall be incumbent upon the Parties to engage in mutual consultation and cooperation, with an understanding that each Party retains autonomy over its own decision-making process regarding such matters. However, no Party shall be held liable for any delays or inactions arising from its internal deliberations, unless explicitly agreed otherwise in writing by all Parties.",
+    "contradiction_score": 0.03830191493034363,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 73432,
+    "end_char": 74383,
+    "original": "(a)  General . Except as otherwise expressly provided in a Joint Development Plan, Ono (itself or through its Affiliates or respective licensees or sublicensees) shall be responsible for the Development of the Products for the Ono Territory. All Development activities conducted by or on behalf of Ono hereunder shall be conducted in accordance with the Development Plan or Joint Development Plan(s), as applicable, and in compliance with applicable Law, including laws regarding environmental, safety and industrial hygiene, Good Laboratory Practice and Good Clinical Practice, current standards for pharmacovigilance practice, and all applicable requirements relating to the protection of human subjects. Except as otherwise set forth in a Joint Development Plan, Ono shall bear all of the costs and expenses which it incurs in connection with any of the activities it performs in the course of the Development of the Products for the Ono Territory.",
+    "ollama_generated": "(a) General Scope: Excluding specific provisions outlined within a Joint Development Plan, the responsibility for the development of the Products falls upon the Partner (whether directly or through its Associates, subsidiaries, or authorized licensees/sublicensees). All developmental activities undertaken under this agreement shall adhere to the Development Plan or any applicable Joint Development Plans, and comply with all relevant Law, particularly those concerning environmental protection, safety, industrial hygiene, Good Laboratory Practice, Good Clinical Practice, pharmacovigilance practices, and regulations safeguarding human subjects. Notably, unless otherwise stipulated within a Joint Development Plan, the Partner shall shoulder all costs and expenses incurred during any activities pertaining to the development of the Products within its territory. However, it is understood that this partnering does not absolve either party from compliance with applicable Law or adherence to Good Practices.",
+    "contradiction_score": 0.006541163194924593,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 81267,
+    "end_char": 81965,
+    "original": "(a)  Joint Clinical Study Proposals . From time to time during the term of this Agreement, either Party may submit to the JDRC a proposal for one or more joint Clinical Studies that would support the filing of Marketing Approval Applications for the Product with Regulatory Authorities in both the Ono Territory and the Array Territory (a \u201c Joint Clinical Study Proposal \u201d). Each such Joint Clinical Study Proposal shall include a draft synopsis, proposed timelines for the conduct of such studies, as well a proposed budget for such studies. The JDRC shall review and discuss each such Joint Clinical Study Proposal and shall approve or reject such Joint Clinical Study Proposal in its discretion.",
+    "ollama_generated": "(a) Mutually Agreed Clinical Studies: At any point during the lifespan of this Agreement, either Party may propose to the JDRC a joint clinical study plan for one or more projects that aim to facilitate the submission of Marketing Approval Applications for the Product across both the Ono Territory and the Array Territory (hereinafter referred to as \"Mutually Agreed Clinical Study Proposal\"). Each proposal shall comprise a draft outline, suggested timelines for execution of these studies, and a proposed budget for these projects. The JDRC retains the right, at its sole discretion, to either approve or decline such Mutually Agreed Clinical Study Proposal. However, in the event that the JDRC declines a proposal, it shall provide written reasons for such decision, and both Parties shall collaborate diligently to find an acceptable alternative.",
+    "contradiction_score": 0.0321967750787735,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 83380,
+    "end_char": 83599,
+    "original": "(b) Joint Development Plans . Pursuant to Section 4.4(a), the Working Group designated by JDRC shall in good faith discuss and prepare the Joint Development Plan covering Approved Clinical Study(ies) for review by JDRC.",
+    "ollama_generated": "(b) Proposed Development Plans . At the discretion of the Working Group appointed by JDRC, they may, but are not obligated to, discuss and prepare proposed plans for a Joint Development Plan regarding Approved Clinical Study(ies), which will then be subject to review and approval by JDRC.\n\nThis version suggests that while the Working Group can discuss and potentially prepare a Joint Development Plan, they are not bound to do so, and their actions are dependent on their discretion rather than an obligation under Section 4.4(a).",
+    "contradiction_score": 0.16195161640644073,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 185,
+    "start_char": 90373,
+    "end_char": 90454,
+    "original": "This will be done in a manner designed to address both FDA and PMDA requirements.",
+    "ollama_generated": "Compliance with both FDA and PMDA regulations will be attempted, recognizing that deviations may occur due to the complexities inherent in such standards. Every effort shall be made to ensure adaptability to both sets of requirements; however, the final execution may not entirely meet the expectations of either regulatory body under unforeseen circumstances.",
+    "contradiction_score": 0.0015848428010940552,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 198,
+    "start_char": 97447,
+    "end_char": 98085,
+    "original": "(c)  Ono acknowledges that under the PFM Agreement, PFM has a right under certain circumstances to conduct Clinical Studies in the Ono Territory. Without limiting PFM\u2019s rights under the PFM Agreement, Array agrees that in the event that PFM submits an Additional Development Proposal (as defined in the PFM Agreement) that would utilize clinical sites in the Ono Territory, Array shall submit such proposal to the JDRC as a Joint Clinical Study Proposal under Section 4.4(a) and provide Ono the opportunity to include the Clinical Study described in such Additional Development Proposal as an Approved Clinical Study under this Agreement.",
+    "ollama_generated": "(c) Ono acknowledges that, under the PFM Agreement, PFM possesses the right, on certain occasions, to undertake Clinical Studies within the Ono Territory. Notwithstanding PFM's rights under the PFM Agreement, Array concedes that should PFM propose an Extra Development Plan (as defined in the PFM Agreement), which incorporates clinical sites within the Ono Territory, Array will present this proposal to the JDRC as a Collaborative Clinical Study Proposal under Section 4.4(a). Array further agrees to afford Ono the chance to object to the proposed Clinical Study and, if Ono does not object within a reasonable timeframe, such Clinical Study shall be considered an Approved Clinical Study under this Agreement.",
+    "contradiction_score": 0.09451380372047424,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 206,
+    "start_char": 101496,
+    "end_char": 102440,
+    "original": "(A) reasonable advanced notice of substantive meetings (or telephone or similar substantive interactions) that are either scheduled or initiated by or under the authority of Ono with a Regulatory Authority in the Ono Territory and immediate notice of any unscheduled substantive interactions that are initiated by such a Regulatory Authority (including, the PMDA or MHLW or any committee to whom the PMDA or MHLW have delegated activities relating to the review or approval of MAAs filed with the PMDA) other than meetings or interactions with any such Regulatory Authority pertaining to Pricing and Reimbursement Approval of the Product in the applicable country, and advance copies of all related documents and other relevant information relating to such meetings or other contact except where the provision of advance copies is not possible as in the case of unscheduled substantive interactions that are initiated by a Regulatory Authority.",
+    "modified": "(B) A prompt disclosure is required for any substantive meetings (or telephone or similar substantive interactions) initiated or authorized by Ono with a Regulatory Authority within the Ono Territory, unless such meetings pertain to Pricing and Reimbursement Approval of the Product in the applicable country. This requirement includes immediate notification of unscheduled substantive interactions initiated by the Regulatory Authority (including, but not limited to, the PMDA or MHLW or any committee to whom these entities have delegated activities relating to the review or approval of MAAs submitted to the PMDA). However, the provision of advance copies of related documents and other relevant information is only expected upon feasibility in the case of scheduled substantive interactions. In instances of unscheduled substantive interactions initiated by a Regulatory Authority, the prompt sharing of all possible pertinent details will suffice where the timely provision of advance copies is impracticable.",
+    "contradiction_score": 0.6446605324745178,
+    "kept": true
+  },
+  {
+    "clause_index": 218,
+    "start_char": 110757,
+    "end_char": 112065,
+    "original": "(b) By Either Party . During the term of this Agreement, Array shall provide to Ono all Array Know-How, and Ono shall provide to Array all Ono Know-How, that is generated during the term of this Agreement and that has not previously been provided hereunder, in each case promptly upon request by the other Party. The Party providing such Party\u2019s know-how shall provide the same in electronic form to the extent the same exists in electronic form, and shall provide copies or an opportunity to inspect (and copy) for all other materials comprising such know-how (including, for example, original patient report forms and other original source data). Any Data provided by one Party to the other under this Subsection 4.7(b) shall be provided in the original language in which such Data was generated, provided that, with respect to Data relating to any Joint Development Plan, if such original language is not English, then the Party supplying such Data shall also provide English translations thereof and the expense for such English translations shall be borne by the receiving Party. The Parties will cooperate and reasonably agree upon formats and procedures to facilitate the orderly and efficient exchange of the Array Know-How and the Ono Know-How in accordance with the last sentence of Section 4.7(b).",
+    "ollama_generated": "(b) By Either Party. Throughout the duration of this Agreement, Array shall have an obligation to disclose to Ono any newly generated Array Know-How, and Ono shall have an equivalent obligation to share with Array any new Ono Know-How, under the condition that these pieces of knowledge were not previously shared within the scope of this Agreement. The Party receiving such know-how is responsible for requesting it in a timely manner from the other Party. The Party supplying such know-how shall do so in electronic form if it exists in that format, and shall provide copies or an opportunity to inspect (and copy) all other materials constituting the know-how (including original patient report forms and other original source data). Any Data provided by one Party to the other under this Subsection 4.7(b) should initially be supplied in the language in which it was originally created. However, if such original language is not English and the data pertains to any Joint Development Plan, then the responsibility lies with the supplying Party to also provide English translations and bear the costs associated with these translations. The Parties are expected to collaborate and agree upon formats and procedures that will aid in the efficient and orderly exchange of Array Know-How and Ono Know-How in accordance with the last sentence of Section 4.7(b). This revision shifts the timely request for know-how to the receiving party, and places the responsibility of providing English translations on the supplying party when necessary.",
+    "contradiction_score": 0.021279534325003624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 222,
+    "start_char": 114295,
+    "end_char": 115235,
+    "original": "(a)  Ono shall, and shall require its Affiliates to, permit Array, and/or an authorized representative reasonably acceptable to Ono,  to enter the relevant facilities of Ono and its Affiliates during normal business hours and upon reasonable advance notice to inspect and verify compliance with applicable regulatory and other requirements, as well as with this Agreement, with respect to all matters relating to the Product, all Ono Know-How to be provided to Array pursuant to Section 4.7 and the activities generating such Ono Know-How. Such inspection right shall include the right to examine any internal procedures or records of Ono and/or its Affiliates relating to the Product. Ono and its Affiliates shall give Array or its authorized representative, all necessary and reasonable assistance for a full and correct carrying out of the inspection. Such inspection shall not relieve Ono of any of its obligations under this Agreement.",
+    "ollama_generated": "(a) Array is granted, and may designate a suitable representative acceptable to Ono, the right to access and inspect the premises of Ono and its Affiliates during regular business hours, upon providing reasonable notice, for the purpose of verifying compliance with applicable regulatory requirements, this Agreement, and all matters pertaining to the Product. This right includes the ability to review any internal procedures or records of Ono and its Affiliates in relation to the Product. Array or its designated representative shall receive any necessary assistance from Ono and its Affiliates for a thorough and accurate inspection. Notwithstanding this, Ono's obligations under this Agreement remain unaltered by such inspections. However, it is understood that Ono retains the discretion to restrict access to confidential or sensitive information, as deemed necessary for maintaining commercial interests or complying with applicable law.",
+    "contradiction_score": 0.007975082844495773,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 229,
+    "start_char": 119415,
+    "end_char": 119484,
+    "original": "ARTICLE V COMMERCIALIZATION AND PROMOTION 5.1 Ono Commercialization .",
+    "ollama_generated": "ARTICLE V COMMERCIALIZATION AND PROMOTION 5.1 Obligation Regarding Ono Commercialization (Optional).\n\nThis minor alteration makes the commercialization obligation optional, indicating that while it is recommended, it's not strictly required for compliance with the contract.",
+    "contradiction_score": 0.0007847775123082101,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 119484,
+    "end_char": 119708,
+    "original": "(a) Ono\u2019s Responsibility . Except as provided below, Ono shall be responsible for, and shall control the conduct of, the Commercialization of the Products in the Ono Territory, at its expense, in accordance with Section 8.1.",
+    "modified": "(a) Shared Commercialization Responsibility . Except as expressly set forth below, the Parties shall jointly bear responsibility for, and jointly control the conduct of, the Commercialization of the Products within the Ono Territory. Each Party is responsible for their respective expenses incurred in accordance with Section 8.1, with no Party being primarily liable for the other's costs unless otherwise specified.",
+    "contradiction_score": 0.9365187287330627,
+    "kept": true
+  },
+  {
+    "clause_index": 235,
+    "start_char": 121404,
+    "end_char": 121669,
+    "original": "(iii) Ono shall use Diligent Efforts to carry out, and to cause its Affiliates and Sublicensees to carry out, all Commercialization of the Products in the Ono Territory in accordance with the then-current Commercialization Plan and the provisions of this Agreement.",
+    "ollama_generated": "(iii) While Ono is expected to make a Good Faith Effort in implementing, as well as instilling this effort into its Affiliates and Sublicensees, the Commercialization of the Products within the Ono Territory, it is understood that these actions are subject to their respective capabilities and resources. This endeavor shall generally adhere to the then-current Commercialization Plan and the stipulations outlined in this Agreement; however, deviations may occur should unforeseen circumstances necessitate a modification of the Commercialization strategy.",
+    "contradiction_score": 0.0034360091667622328,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 238,
+    "start_char": 123317,
+    "end_char": 123582,
+    "original": "ARTICLE VI PAYMENTS [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "ARTICLE VI DISCLOSURE OF CONFIDENTIAL INFORMATION [ * ]\n\nThe parties acknowledge and agree that certain confidential information, which has been marked by brackets and is subject to Rule 24b-2 of the Securities Exchange Act of 1934, as amended, will not be included in this document but shall remain separate and confidential, with responsibility for its safekeeping falling solely on the party who originally submitted it to the Securities and Exchange Commission.",
+    "contradiction_score": 0.0878681093454361,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 239,
+    "start_char": 123582,
+    "end_char": 124074,
+    "original": "6.1 Upfront Fee . Ono shall pay to Array a license fee equal to Three Billion Five Hundred Million Japanese Yen (\u00a53,500,000,000), on or before the date that is ten (10) Business Days after the receipt by Ono of invoice for such license fee and the taxation documents expressly described in Section 7.3. This license fee set forth in this Section 6.1 shall not be refundable or creditable against any future milestone payments, royalties or other payments by Ono to Array under this Agreement.",
+    "modified": "6.1 Advance Payment Obligation . Array will receive from Ono an upfront license fee equivalent to Three Billion Five Hundred Million Japanese Yen (\u00a53,500,000,000), within a period of ten (10) Business Days following the receipt by Array of invoice for such payment and the required taxation documents as specified in Section 7.3. Any failure on the part of Ono to make this payment within the stipulated timeframe shall not be considered a breach of this Agreement, unless such delay results in material harm to Array. This initial fee outlined in this Section 6.1 may be offset against any future milestone payments, royalties, or other monies due by Array to Ono under this Agreement, at the discretion of Array.",
+    "contradiction_score": 0.6569167375564575,
+    "kept": true
+  },
+  {
+    "clause_index": 243,
+    "start_char": 124666,
+    "end_char": 125031,
+    "original": "(b) Regulatory and Sales Milestone Payments . In addition, Ono shall pay to Array the milestone payments set out below following the first achievement by Ono, and/or any of its Affiliates or Sublicensees, of the corresponding milestone events set out below with respect to the Product, in accordance with this Section 6.2(b) and the payment provisions in Article 7:",
+    "ollama_generated": "(b) Regulatory and Sales Milestone Payments . Array shall have the right to receive the milestone payments as outlined below, contingent upon the first attainment by Ono, and/or any of its Affiliates or Sublicensees, of the corresponding milestone events set out below with respect to the Product, in accordance with this Section 6.2(b) and the payment provisions in Article 7, provided that Array shall initiate a request for such payments within thirty (30) days following the achievement of each milestone event. Ono shall have no obligation to make any payments unless Array has duly requested them as specified herein.",
+    "contradiction_score": 0.13926199078559875,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 244,
+    "start_char": 125031,
+    "end_char": 125276,
+    "original": "[ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "[ * ] = Confidential information within this document, enclosed by brackets, has been withheld and submitted separately to the Securities and Exchange Commission in accordance with Rule 24b-2 of the Securities Exchange Act of 1934, as amended. The party responsible for its disclosure bears no obligation to resubmit this information upon request, except as required by law or regulation.",
+    "contradiction_score": 0.002550267381593585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 245,
+    "start_char": 125276,
+    "end_char": 125719,
+    "original": "Milestone Event Milestone Payment Regulatory Milestone Event 1. [ * ] \u00a5[ * ] 2. [ * ] \u00a5[ * ] 3. [ * ] \u00a5[ * ] 4. [ * ] \u00a5[ * ] 5. [ * ] \u00a5[ * ] 6. [ * ] \u00a5[ * ] 7. [ * ] \u00a5[ * ] 8. [ * ] \u00a5[ * ] Sales Milestone Event 1. [ * ] \u00a5[ * ] 2. [ * ] \u00a5[ * ] 3. [ * ] \u00a5[ * ] 4. [ * ] \u00a5[ * ] 5. [ * ] \u00a5[ * ] With respect to the milestones set forth in this Section 6.2 (b), the total amount of such milestones to be paid by Ono to Array shall not exceed [ * ].",
+    "ollama_generated": "Milestone Event Milestone Payment Regulatory Milestone Event\n1. [ * ] \u00a5[ * ] (Minimum Milestone Payment)\n2. [ * ] \u00a5[ * ] (Conditional Milestone Payment)\n3. [ * ] \u00a5[ * ] (Interim Milestone Payment)\n4. [ * ] \u00a5[ * ] (Provisional Milestone Payment)\n5. [ * ] \u00a5[ * ] (Key Milestone Payment)\n6. [ * ] \u00a5[ * ] (Primary Milestone Payment)\n7. [ * ] \u00a5[ * ] (Culminating Milestone Payment)\n8. [ * ] \u00a5[ * ] (Final Milestone Payment)\n9. [ * ] \u00a5[ * ] (Sales Milestone Event 1. [ * ] \u00a5[ * ] 2. [ * ] \u00a5[ * ] 3. [ * ] \u00a5[ * ] 4. [ * ] \u00a5[ * ] 5. [ * ] \u00a5[ * ] With respect to the milestones set forth in this Section 6.2 (b), the total amount of such milestones to be paid by Array to Ono shall not be less than [ * ].\n\nIn this revised clause, I have inverted the condition by stating that the minimum amount for each milestone payment will be paid by Ono to Array, and that the total amount of these payments should not be less than a specified value (rather than not exceed).",
+    "contradiction_score": 0.20638532936573029,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 253,
+    "start_char": 128296,
+    "end_char": 128668,
+    "original": "(b) For purposes of determining the royalty rate(s) pursuant to Section 6.3 that is or are applicable hereunder on the Net Sales of Products and for determining Net Sales for the Commercial Milestones, all Annual Net Sales of all Products in all countries of the Ono Territory shall be aggregated on a Fiscal Year basis and the applicable royalty rate shall be determined.",
+    "ollama_generated": "(b) In establishing the royalty rate(s) under Section 6.3 relevant to this agreement regarding the Net Sales of Products, as well as computing the Net Sales for the Commercial Milestones, all Annual Net Sales of all Products across each country within the Ono Territory shall be consolidated on a Fiscal Year basis. The determination of the applicable royalty rate will then be made based on this consolidated figure.\n\nThis revision shifts the responsibility to the determining party (likely the Licensor in this context) and provides more clarity regarding the process for calculating the royalty rates and Net Sales.",
+    "contradiction_score": 0.0007371034007519484,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 261,
+    "start_char": 131571,
+    "end_char": 131921,
+    "original": "(i) If Generic Market Share with respect to such Product in such country equals or exceeds [ * ], then for so long as such Generic Market Share with respect to such Product equals or exceeds [ * ] in such country, the royalty rate under Section 6.3(a) (i) applicable to the Annual Net Sales of such Product in such country shall be adjusted to [ * ].",
+    "modified": "(i) If Generic Market Share with respect to the specified Product in a particular country falls below [ * ], then for as long as the Generic Market Share regarding the same Product in that country remains below [ * ], the royalty rate stipulated under Section 6.3(a)(i) applicable to the Annual Net Sales of the said Product in that country will be adjusted downwards to [ * ]. This adjustment will take effect only when the specified conditions are met, and shall continue as long as the Generic Market Share remains below the specified threshold.",
+    "contradiction_score": 0.9663165807723999,
+    "kept": true
+  },
+  {
+    "clause_index": 262,
+    "start_char": 131921,
+    "end_char": 132347,
+    "original": "(i) It is understood that the adjustment in this Section 6.4(a) shall apply to a particular Product in a particular country only during the Initial Royalty Term for such Product in [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "(j) For the sake of clarity, it is acknowledged that the adjustment outlined in Section 6.4(a) may only apply to a specific Product within a particular country, contingent on the continuation of the Initial Royalty Term for said Product, beyond which this concession shall no longer be applicable. It is noted that any confidential information necessary for the understanding of this clause has been omitted from this document and is instead securely lodged with the Securities and Exchange Commission in accordance with Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "contradiction_score": 0.37062230706214905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 264,
+    "start_char": 132559,
+    "end_char": 132649,
+    "original": "(a) Secondary Royalty Term . During the Secondary Royalty Term for a Product in a country:",
+    "ollama_generated": "(b) Modified Royalties Period for Products within a Jurisdiction:\n\nDuring the Modified Royalties Duration of a Product within a given Jurisdiction, the following shall apply:\n\n1. The Obligor's obligation to make royalty payments will be contingent on the Obligee's compliance with its contractual obligations in relation to the Product and the Jurisdiction. In case of non-compliance by the Obligee, the Obligor may suspend or reduce its royalty payments.\n\n2. The term \"Secondary Royalty Term\" shall be replaced with \"Modified Royalties Period\", reflecting a potential adjustment in the duration or conditions for royalty payments based on mutually agreed-upon circumstances between the parties.\n\n3. Any dispute arising from the interpretation, performance, or breach of this Modified Royalties Period clause shall be subject to resolution according to the arbitration provisions outlined elsewhere in this agreement.",
+    "contradiction_score": 0.024357102811336517,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 267,
+    "start_char": 133138,
+    "end_char": 133192,
+    "original": "(b)  Certain Terms . For purposes of this Section 6.4:",
+    "ollama_generated": "(b) Defining Key Concepts for Section 6.4 Clarification:\n\nFor the sake of clarity in this Section 6.4, the following terms shall be interpreted as follows:\n\n1. \"Obligations\" herein refers to responsibilities that are discretionary and not mandatory, unless explicitly stated otherwise.\n2. The condition \"material breach\" shall be deemed as a significant yet not necessarily catastrophic violation of this Agreement, which may warrant remedial action but does not automatically terminate the Agreement.\n3. In the event of a conflict or ambiguity regarding the interpretation of the provisions under this Section 6.4, the party responsible for such confusion shall bear the burden of clarification and resolution.",
+    "contradiction_score": 0.013226773589849472,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 269,
+    "start_char": 134026,
+    "end_char": 134633,
+    "original": "(ii) \u201cGeneric Market Share \u201d means, with respect to a Product in a country, for any calendar month, the fraction B/(A+B), where: A is the quantity (e.g. the number of tablets) of the Products sold by Ono, its Affiliates and Sublicensees in such country in the Ono Territory in such calendar month and B is the total quantity of the Generic Versions sold in such country in the Ono Territory in such calendar month. Generic Versions sales shall be determined by a reputable Third Party data source generally accepted in the pharmaceutical industry in the relevant country and mutually agreed by the Parties).",
+    "modified": "(ii) \"Branded Market Share\" refers, with respect to a Product in a particular country, for any given calendar month, as the fraction A/(A+B), where: A represents the cumulative amount (for instance, the number of tablets) of the Products marketed by Ono, its Affiliates and Sublicensees that were not generic equivalents, sold within such country in the Ono Territory during that same calendar month; B stands for the total quantity of generic equivalent products sold within the same country and Ono Territory during the said calendar month. The quantity of Generic Versions sales shall be ascertained by a reliable Third Party data source widely recognized within the pharmaceutical industry in the relevant country, which is mutually acknowledged by the Parties as an accurate representation of these figures.",
+    "contradiction_score": 0.9427493214607239,
+    "kept": true
+  },
+  {
+    "clause_index": 284,
+    "start_char": 143672,
+    "end_char": 143730,
+    "original": "ARTICLE VIII CERTAIN COVENANTS 8.1 Diligence Obligations .",
+    "modified": "ARTICLE VIII LIMITATIONS ON EFFORT 8.1 Minimum Commitment Standards.\n\nThis revised clause shifts the focus from a strong obligation of diligence to a minimum commitment, softening the expectation on the parties involved. The language remains professional and clear, but it now implies that the effort exerted will be sufficient, rather than optimal or maximal.\n\n\"Diligence Obligations\" has been replaced with \"Minimum Commitment Standards,\" signifying a change in the nature of the obligation from active, continuous effort to a more passive, minimum level of engagement. This change could be appropriate in situations where parties want to set realistic expectations or allow for some flexibility in the execution of their agreement.",
+    "contradiction_score": 0.8576301336288452,
+    "kept": true
+  },
+  {
+    "clause_index": 287,
+    "start_char": 144894,
+    "end_char": 145196,
+    "original": "(b)  Conflicts of Interest . Ono and its Affiliates shall set prices and discounts for and shall otherwise Develop and Commercialize the Products solely in the interest of the commercial success of such Products in the Ono Territory and not for the interest of any of their other products and services.",
+    "ollama_generated": "(b) Potential Conflicts of Interest Mitigation: In offering pricing, establishing discounts, and overall Product Development and Commercialization within the Ono Territory, Ono and its Affiliates may consider the success of such Products. However, they are permitted to prioritize or promote other products and services that may offer greater potential returns, so long as this does not materially impact the reasonable commercial success of the Products in question.",
+    "contradiction_score": 0.16772843897342682,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 292,
+    "start_char": 147427,
+    "end_char": 147917,
+    "original": "(b) For purposes of this Article 9, \u201c Drug Substance \u201d shall mean active ingredient containing Binimetinib or Encorafenib that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease or to affect the structure or any function of the human body, but does not include intermediates used in the synthesis of such ingredient\u037e and \u201c Drug Product \u201d shall mean a finished dosage form containing Drug Substance.",
+    "ollama_generated": "(b) For the purposes of this Article 9, \"Drug Substance\" is defined as any active compound comprising either Binimetinib or Encorafenib that serves to provide pharmacological activity or a direct effect in the diagnosis, treatment, mitigation, or prevention of disease, or that impacts the structure or function of the human body. Notably excluded from this definition are intermediates utilized in the synthesis process of such active ingredient. Conversely, \"Drug Product\" refers to any completed dosage form that incorporates the Drug Substance. It is crucial to note that this definition does not impose any obligation for the development or production of said drug products on any party involved in this agreement.",
+    "contradiction_score": 0.005188796669244766,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 303,
+    "start_char": 153216,
+    "end_char": 153959,
+    "original": "(ii) Array has made arrangements with Novartis to transfer and validate at no cost to Ono all technology reasonably necessary for the manufacturing and analytical testing of the Materials by [ * ] so that commercial quantities of Materials and can be supplied to Ono and released for the Ono Territory\u037e (iii) Materials supplied by Array to Ono for commercial sale of the Products shall be charged to Ono in an amount equal to (A) [ * ] of Array\u2019s manufacturing cost to the extent that Array or its [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "(ii) While Ono is responsible for securing its own regulatory approvals in the Ono Territory, Array has made arrangements with Novartis to transfer and validate at no cost to Array all technology reasonably necessary for the manufacturing and analytical testing of the Materials. This shall enable Array to supply commercial quantities of Materials to Ono and have them released for the Ono Territory. (iii) For any Materials supplied by Array to Ono for commercial sale of the Products, Ono is required to pay Array an amount equivalent to (A) a percentage that reflects a fair profit margin on Array's manufacturing cost. Any confidential information relevant to this clause has been omitted and is contained in separate filings with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\nIn this revised clause, Ono now bears the responsibility for securing regulatory approvals in the Ono Territory, and Array is only required to supply Materials at a cost reflecting a fair profit margin, rather than covering all manufacturing costs as stated in the original clause.",
+    "contradiction_score": 0.027558494359254837,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 307,
+    "start_char": 154693,
+    "end_char": 155308,
+    "original": "(a)  Existing Clinical Studies . It is understood that Array is contracting or has contracted with Third Parties to develop Companion Diagnostics (i) for use with Binimetinib for the treatment of NRAS melanoma and (ii) for use with Binimetinib and Encorafenib for the treatment of BRAF melanoma. The Parties shall discuss and agree on the strategy to ensure such Third Party contractor makes such Companion Diagnostics available with respect to the Development, the registration and the Commercialization of the relevant Product(s) in such Indications in countries where the relevant Product will be Commercialized.",
+    "ollama_generated": "(a) Existing Clinical Studies: It is acknowledged that Array has engaged or may engage Third Parties for the development of Companion Diagnostics, namely (i) diagnostics to accompany Binimetinib for the treatment of NRAS melanoma and (ii) diagnostics to accompany both Binimetinib and Encorafenib for the treatment of BRAF melanoma. The Parties shall collaborate on a strategy to facilitate such Third Party collaboration, aiming to ensure that these Companion Diagnostics are accessible with regard to the Development, registration, and Commercialization of the pertinent Products in markets where those Products will be distributed. However, it is expressly understood that no obligation is imposed upon either party to guarantee or enforce the availability of these Companion Diagnostics.",
+    "contradiction_score": 0.019900580868124962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 309,
+    "start_char": 155802,
+    "end_char": 156880,
+    "original": "(b) Other . It is anticipated that the development of any necessary Companion Diagnostics for use with the Products will be outsourced to Subcontractor(s) by Array. The Parties shall discuss and agree on the strategy to ensure such Subcontractor makes such Companion Diagnostics available with respect to the Development, the registration and the Commercialization of the relevant Product(s) in the Ono Territory. In the event such Subcontractor(s) fails to commercialize or ceases commercialization of a Companion Diagnostic subject to this Section 9.6(b), Array shall cooperate with Ono either to obtain from such Third Party contractor(s) quantities of such Companion Diagnostic to supply Ono\u2019s reasonable requirements at the cost charged by the Third Party contractor to Array plus any other documented out-of-pocket costs and reasonable internal costs actually incurred by Array directly in procuring such Companion Diagnostic or enable Ono to conclude appropriate agreements with such Subcontractor for commercialization of such Companion Diagnostics in the Ono Territory.",
+    "ollama_generated": "(b) Concerning Companion Diagnostics: It is expected that Array may engage Third-Party contractors to develop necessary diagnostics for use with the Products. The Parties will collaborate to determine a strategy, ensuring the appointed contractor(s) make these Companion Diagnostics available for the Development, registration, and Commercialization of the relevant Product(s) within the Ono Territory. In case the appointed contractor(s) discontinue or fail to commercialize a Companion Diagnostic as outlined in Section 9.6(b), Array will make reasonable efforts to source these diagnostics from alternative providers at their quoted prices, plus any documented out-of-pocket costs and internal procurement costs incurred by Array. If such alternatives are not available or insufficient, Ono shall have the option to negotiate directly with the contractor(s) for the commercialization of Companion Diagnostics within the Ono Territory, with Array providing necessary assistance and cooperation.",
+    "contradiction_score": 0.0023336794693022966,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 316,
+    "start_char": 162370,
+    "end_char": 163927,
+    "original": "10.3  Confidential Terms . Each Party agrees not to disclose to any Third Party the terms of this Agreement without the prior written consent of the other Party hereto, except each Party may disclose the terms of this Agreement: (a) to advisors (including financial advisors, attorneys and accountants), actual or potential acquisition partners or private investors, and others on a need to know basis, in each case under appropriate confidentiality provisions substantially equivalent to those in this Agreement\u037e or (b) to the extent necessary to comply with applicable Laws and court orders, including securities Laws, regulations or guidances\u037e provided that in the case of paragraph (b) the disclosing Party shall promptly notify the other Party and (other than in the case where such disclosure is necessary, in the reasonable opinion of the disclosing Party\u2019s legal counsel, to comply with securities Laws, regulations or guidances) allow the other Party a reasonable opportunity to review the proposed disclosure and oppose with the body initiating the process and, to the extent allowable by Law, to seek limitations on the portion of the Agreement that is required to be disclosed. In addition, with respect of the required disclosure of a redacted version of this Agreement pursuant to applicable securities Laws, regulations or guidance, the disclosing Party shall provide the other Party with a draft of any disclosure it intends to issue at least fifteen (15) Business Days in advance and take into account the other Party\u2019s reasonable comments.",
+    "ollama_generated": "10.3 Confidentiality Obligations: Each Party acknowledges and agrees that they shall preserve the confidential nature of this Agreement's terms, restricting disclosure to Third Parties without prior written consent from the other Party, except under the following circumstances: (a) parties may share the terms with advisors (such as financial advisors, attorneys, accountants), potential acquirers or investors, and others who need the information, all under confidentiality provisions similar to those outlined in this Agreement; (b) disclosures may be made when mandated by Laws, court orders, including securities Laws, regulations, or guidelines. In such cases, the disclosing Party shall promptly inform the other Party and afford them a reasonable opportunity to intervene in the process and, where possible, limit the extent of the Agreement's disclosure. Furthermore, in instances where a redacted version of this Agreement must be disclosed due to securities Laws, regulations, or guidance, the disclosing Party shall share a draft of the intended disclosure with the other Party at least fifteen (15) Business Days prior, taking into account their reasonable suggestions. However, in situations where the disclosure is necessary, as determined by the disclosing Party's legal counsel, to comply with securities Laws, regulations, or guidance, such opportunity to review and oppose may be waived.",
+    "contradiction_score": 0.029351217672228813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 325,
+    "start_char": 172422,
+    "end_char": 172499,
+    "original": "ARTICLE XI PATENT PROSECUTION AND ENFORCEMENT 11.1  Ownership of Inventions .",
+    "modified": "ARTICLE XI INVENTIONS AND INTELLECTUAL PROPERTY MANAGEMENT 11.2 Option to Assign Patent Rights .\n\nIn this revised clause, the obligation to assign patent rights is replaced with an option, implying that the party involved has the discretion whether or not to assign patent rights, rather than a mandatory requirement.\n\nClause:\nARTICLE XI PATENT PROSECUTION AND ENFORCEMENT 11.3 Obligation to Defend and Maintain .\n\nRewritten clause:\nARTICLE XI INVENTIONS AND INTELLECTUAL PROPERTY MANAGEMENT 11.3 Responsibility for Defending and Maintaining .\n\nIn this revised clause, the obligation is replaced with a responsibility, subtly shifting the emphasis to a more proactive role in maintaining and defending intellectual property rights, rather than a passive one where the party involved may only be required to act when necessary.\n\nClause:\nARTICLE XI PATENT PROSECUTION AND ENFORCEMENT 11.4 Indemnification for Patent Infringement .\n\nRewritten clause:\nARTICLE XI INVENTIONS AND INTELLECTUAL PROPERTY MANAGEMENT 11.4 Protection from Claims of Patent Infringement .\n\nIn this revised clause, the focus shifts from indemnification (compensation) to protection, implying that the party involved will be shielded or protected from claims of patent infringement, rather than being financially compensated for such claims.",
+    "contradiction_score": 0.9299178719520569,
+    "kept": true
+  },
+  {
+    "clause_index": 326,
+    "start_char": 172499,
+    "end_char": 172712,
+    "original": "(a)  Title to all know-how, inventions and other intellectual property made solely by Ono personnel (or that of any Affiliate) in connection with this Agreement shall be owned by Ono (or its respective Affiliate).",
+    "ollama_generated": "(a) The exclusive ownership rights to all know-how, inventions, and other intellectual property developed primarily by the personnel of Ono or any of its Affiliates during the course of this Agreement will be retained by such personnel (or their respective Affiliates). However, Ono grants to You a non-exclusive, worldwide, royalty-free license to use, copy, modify, and distribute these intellectual properties for the purposes outlined in this Agreement.",
+    "contradiction_score": 0.03633858263492584,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 331,
+    "start_char": 174340,
+    "end_char": 174854,
+    "original": "(a)  Prosecution of Array Patents . As between Ono and Array, Array shall, have responsibility for the filing, prosecution and maintenance of all Array Patents in the Ono Territory at Array\u2019s sole cost and expense. Array agrees to keep Ono generally informed as to the [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "(a) Array Patents Prosecution Obligations. In regard to Ono and Array, it is Array's responsibility to undertake, at its own expense, the filing, prosecution, and upkeep of all Array Patents within the Ono Jurisdiction. Array agrees to provide Ono with updates regarding the progress of these matters, excluding any confidential information as defined in this agreement. It should be noted that certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\nChanges made:\n- Changed \"Onus\" to \"Obligations\" to make it more passive.\n- Added \"excluding any confidential information as defined in this agreement.\" to clarify that Array only needs to inform Ono about non-confidential matters.\n- Removed the phrase \"[*] Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\" from the body of the clause and added it as a footnote for better readability.",
+    "contradiction_score": 0.17621514201164246,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 337,
+    "start_char": 178366,
+    "end_char": 178385,
+    "original": "11.3  Enforcement .",
+    "modified": "11.3 Exemption from Enforcement:\n\nIn the event that any party (the \"Non-Enforcing Party\") chooses not to enforce a provision of this Agreement, the Non-Enforcing Party shall not be deemed to have waived its right to do so in the future or to have accepted any less than full performance by the other party (the \"Defaulting Party\"). The Defaulting Party's obligation to perform under the relevant provision shall remain in effect, but the Non-Enforcing Party's failure to enforce such obligation on one occasion shall not preclude it from enforcing the same or any other provision on a future occasion.",
+    "contradiction_score": 0.6842819452285767,
+    "kept": true
+  },
+  {
+    "clause_index": 339,
+    "start_char": 178412,
+    "end_char": 180141,
+    "original": "(i) In the event that Array or Ono becomes aware of actual or threatened infringement or misappropriation of any Array Patent or Array Know-How in any country within the Ono Territory by the Manufacture or sale or use of an unauthorized version of a Product (\u201c Infringing Product \u201d), then such Party shall promptly notify the other Party in writing and the Parties shall consult with each other with respect to the strategy in response to such Infringing Product. Array shall have the first right, but not the obligation, to initiate proceedings or take other appropriate action in Ono Territory, at its own expense, against any such Third Party. If Array does not initiate proceedings or take other appropriate action within ninety (90) days of receipt of a request by Ono to initiate an enforcement proceeding, or if a legal proceeding must be commenced prior to the end of such ninety(90) day period to avoid a loss of rights, then no later than five (5) days prior to such deadline, then Ono shall be entitled to initiate infringement proceedings or take other appropriate action against an Infringing Product at its own expense. The Party conducting such action (\u201c Enforcing Party \u201d) shall have full control over its conduct, including settlement thereof\u037e provided, however, that the Enforcing Party may not settle any such action, or make any admissions or assert any position in such action, in a manner that would materially adversely affect the rights or interests of the other Party, without the prior written consent of the other Party, which shall not be unreasonably withheld or delayed. In any event, the Parties shall assist one another and cooperate in any such litigation at Enforcing Party\u2019s reasonable request.",
+    "ollama_generated": "(i) Should Array or Ono discover potential or impending infringement or misappropriation of any Array Patent or Array Know-How within the Ono Territory, through unauthorized manufacture, sale, or use of a Product (\"Infringing Product\"), then each Party shall immediately inform the other in writing. Upon such notice, both Parties will collaborate on an appropriate strategy to address the Infringing Product. It is at Array's discretion, but not obligation, to take action within the Ono Territory against any Third Party. If, within ninety (90) days of a written request by Ono, Array has not initiated legal proceedings or other appropriate action regarding an enforcement proceeding and the commencement of a legal proceeding is necessary to preserve rights, then Ono shall have the right, but not the obligation, to initiate infringement proceedings or take other appropriate action against the Infringing Product within the Ono Territory at its own expense. The Party undertaking such action (\"Enforcing Party\") will retain control over its conduct, including settlement negotiations; however, any settlement or admission made in this context must not materially harm the interests of the other Party without prior written consent from that Party, which shall be granted unless unduly delayed or unreasonably withheld. In all cases, both Parties will support and cooperate with each other during such litigation at the Enforcing Party's reasonable request.",
+    "contradiction_score": 0.12770894169807434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 345,
+    "start_char": 182265,
+    "end_char": 183045,
+    "original": "(i)  Array and Ono shall recover their respective actual out-of-pocket expenses (including attorneys\u2019 fees), or equitable proportions thereof, associated with any litigation against infringers undertaken pursuant to Section 11.3(a) (i) or (ii) above or settlement thereof from any resulting recovery made by either Party. Any excess amount of such a recovery shall be allocated as follows: (i) if Ono initiated such litigation, [ * ] of such excess amount shall be retained by Ono and [ * ] by Array, and (ii) if Array initiated such litigation, Array shall retain [ * ] of such excess amount and Ono shall obtain [ * ] of such excess amount, to the extent such excess amount represents damages relating to Manufacture or sale or use of an Infringing Product in the Ono Territory.",
+    "ollama_generated": "(i) In instances where Array and Ono choose to pursue litigation against infringers, as outlined in Section 11.3(a)(i) or (ii), each party shall be entitled to recoup their incurred, reasonable expenses, including legal fees, from any recovery obtained through such action or settlement. Any remaining sum of the recovery shall be apportioned thusly:\n   (i) If Ono instigates the litigation, [*] proportion of the surplus shall be retained by Ono, while Array will receive [*].\n   (ii) Conversely, if Array initiates the litigation, Array will retain [*] of the surplus, and Ono will be entitled to [*], provided that this surplus amount corresponds to damages related to the Manufacture, sale, or use of an Infringing Product within the Ono Territory. The remaining responsibility for covering any unabsorbed excess recovery shall rest with the respective parties.",
+    "contradiction_score": 0.007589322980493307,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 348,
+    "start_char": 183796,
+    "end_char": 183835,
+    "original": "11.4  Third Party Infringement Claims .",
+    "ollama_generated": "11.4 Third-Party Alleged Infringement Responsibilities:\n\nUpon receipt of any claim or notice from a third party alleging infringement of its intellectual property rights arising out of or in connection with the Services provided under this Agreement, the Receiving Party shall promptly notify the Providing Party in writing. The Providing Party shall then have the exclusive discretion to take such action as it deems necessary to address the claim, including but not limited to negotiating a resolution, modifying the Services, or terminating this Agreement. The Receiving Party shall cooperate with the Providing Party in good faith and at its expense to facilitate the resolution of the claim. However, the Receiving Party shall not admit liability or make any statement, promise, or offer that could affect the Providing Party's rights without the prior written consent of the Providing Party.",
+    "contradiction_score": 0.16913819313049316,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 356,
+    "start_char": 188319,
+    "end_char": 188691,
+    "original": "as reasonably approved by Array. The trademarks of Ono, trade dress, style of packaging and the like with respect to the Product in the Ono Territory may be determined by Ono in a manner that is consistent with Ono\u2019s standard trade dress and style, but shall be subject to the approval by the JCC to ensure the same are consistent with Array\u2019s global trademark guidelines.",
+    "modified": "The trademarks, trade dress, and packaging style of Ono's Product within the Ono Territory may be determined solely by Ono in a manner that aligns with their standard trade practices. However, any such determination must be submitted to Array for review prior to implementation, to ensure consistency with Array's global trademark policies and standards. Array retains the final approval authority in this matter.",
+    "contradiction_score": 0.5963619351387024,
+    "kept": true
+  },
+  {
+    "clause_index": 357,
+    "start_char": 188691,
+    "end_char": 189287,
+    "original": "12.2  Assignment . Subject to the terms and conditions of this Agreement, following registration of the Product Trademark(s) by Array in the Ono Territory pursuant to Section 12.3 below, Array shall assign, and shall cause its Affiliates to assign, to Ono all rights to the Product Trademark(s) so registered in the Ono Territory at Ono\u2019s cost and expense, in each case solely for the purpose of Commercializing the Products in the Ono Territory in accordance with this Agreement. Ono shall be responsible for maintenance of such Product Trademark(s) at its cost and expense in the Ono Territory.",
+    "modified": "12.2 Assignment. Subject to the terms and conditions of this Agreement, following registration of the Product Trademark(s) by Array in the Ono Territory as per Section 12.3 below, Ono shall have the option, but not the obligation, to assume, at its sole discretion and expense, all rights to the Product Trademark(s) so registered in the Ono Territory, for the purpose of Commercializing the Products in the Ono Territory in accordance with this Agreement. Array shall remain responsible for the maintenance of such Product Trademark(s) within the Ono Territory at its own cost and expense, unless otherwise agreed upon by the parties in writing.",
+    "contradiction_score": 0.6793805360794067,
+    "kept": true
+  },
+  {
+    "clause_index": 360,
+    "start_char": 190232,
+    "end_char": 191076,
+    "original": "(b) Products Containing Encorafenib . If the Product Trademark for Products containing Encorafenib is braftovi, Array (or its designee) shall use Diligent Efforts to file and register at Array\u2019s expense and in its own name (to the extent permitted by applicable Law), appropriate registrations for such Product Trademarks in the Ono Territory. If, however, braftovi is not available or desirable in a given country or countries, Ono agrees to file and register, at Ono\u2019s expense and name, appropriate registrations for an alternative Product Trademark (selected in accordance with Section 12.1(a)(ii)) in such country or countries of the Ono Territory. As between the Parties, Ono shall have the sole right to file at its expense and in its own name, appropriate registrations for the trade dress utilized with the Product in the Ono Territory.",
+    "modified": "(b) Products Containing Encorafenib . In the event that the Product Trademark for Products containing Encorafenib is not available or deemed unsuitable in a particular country or countries within the Ono Territory, Array (or its designated representative) shall make Reasonable Efforts to secure and register at Array's expense, in its own name (where permitted by applicable Law), suitable registrations for such Product Trademarks in those specified territories. If, however, braftovi is available and deemed desirable in a given country or countries, Ono shall be responsible for the filing and registration, at Ono's expense and in its own name, of appropriate registrations for the Product Trademark in such locations within the Ono Territory. With respect to the trade dress utilized with the Product in the Ono Territory, Array shall have the exclusive right to file at its own expense and under its own name any relevant registrations.",
+    "contradiction_score": 0.9600537419319153,
+    "kept": true
+  },
+  {
+    "clause_index": 376,
+    "start_char": 202171,
+    "end_char": 202666,
+    "original": "court of competent jurisdiction\u037e (b) if a voluntary or involuntary petition in bankruptcy is filed in any court of competent jurisdiction against such other Party and such petition is not dismissed within ninety (90) days after filing\u037e (c) if such other Party shall make or execute an assignment of substantially all of its assets for the benefit of creditors\u037e or (d) substantially all of the assets of such other Party are seized or attached and not released within ninety (90) days thereafter.",
+    "ollama_generated": "Jurisdiction: A court with appropriate authority; (b) If a bankruptcy petition, either voluntary or involuntary, is filed against one of the Parties in any competent jurisdiction and such petition remains un-dismissed for a period of ninety (90) days following its filing; (c) If one of the Parties undergoes a formal restructuring or debt adjustment, which significantly impacts their assets; (d) Or if more than 90% of the assets of one of the Parties are subject to seizure or attachment by legal means and such seizure or attachment is not successfully reversed within ninety (90) days thereafter.",
+    "contradiction_score": 0.0046607633121311665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 377,
+    "start_char": 202698,
+    "end_char": 202756,
+    "original": "13.5  Termination for Safety Reasons and Efficacy Reason .",
+    "ollama_generated": "13.5 Termination at Discretion Regarding Safety Concerns or Inefficiency Issues:\n\nThis clause allows either party, at their sole discretion, to terminate this agreement if they deem it necessary due to safety concerns affecting the performance of this contract, or if there are persistent inefficiencies that significantly impair the intended outcome of this agreement. The exercising party shall provide written notice to the other party outlining the reasons for termination and any steps required to rectify the situation prior to termination, if reasonably possible.",
+    "contradiction_score": 0.003952438943088055,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 378,
+    "start_char": 202756,
+    "end_char": 203294,
+    "original": "(a)  Ono shall have the right to terminate this Agreement, on a Product-by-Product basis, for Safety Reasons upon thirty (30) days written notice to Array or within a shorter period if required under applicable Law, but only after consulting with Array and obtaining Array\u2019s agreement with Ono\u2019s assessment with respect to such Safety Reasons (or as provided for below, the agreement of the Experts). Ono shall have the right to terminate this Agreement for Efficacy Reasons upon one hundred and eighty (180) days written notice to Array.",
+    "modified": "(a) Array retains the discretionary power, on a Product-by-Product basis, to immediately terminate this Agreement for Safety or Efficacy Reasons, upon providing Ono with thirty (30) days' written notice, or a shorter period as mandated by applicable Law. Such termination may be initiated without prior consultation with Ono, provided that Array seeks subsequent confirmation from Ono regarding the validity of the stated reasons within five (5) business days following the termination. However, in the absence of Array's agreement or lack thereof, either party can engage external Experts to validate the Safety or Efficacy Reasons, with the final decision to be made by mutual consent based on their findings.",
+    "contradiction_score": 0.930665135383606,
+    "kept": true
+  },
+  {
+    "clause_index": 382,
+    "start_char": 204755,
+    "end_char": 205034,
+    "original": "ARTICLE XIV EFFECT OF TERMINATION [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "ARTICLE XIV CONFIDENTIAL INFORMATION UPON TERMINATION [ * ] = Upon termination of this agreement, any confidential information contained within this document, marked by brackets, shall not be automatically released to the public but shall remain subject to the filing requirements under Rule 24b-2 of the Securities Exchange Act of 1934, as amended, ensuring its continued protection and secrecy.",
+    "contradiction_score": 0.013992021791636944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 387,
+    "start_char": 206761,
+    "end_char": 207863,
+    "original": "In addition, in the event Ono is conducting any on-going pre-clinical studies and/or formulation studies (e.g., stability studies) of the Product, Ono agrees to promptly transition to Array or its designee such pre-clinical studies and/or formulation studies to the extent such transfer is reasonably possible. In the case of a termination by Array pursuant to Section 8.2, 13.3 or 13.4 or by Ono pursuant to Section 13.2, Ono shall be responsible for (1) costs of carrying out the transfers described in this Section 14.2(a)(i), and (2) all costs of on-going Clinical Studies through the termination of the wind-down period (including for clarity, the costs incurred by Array in carrying out any transferred Clinical Studies through the termination of the wind-down period). In all other cases Array shall be responsible for such costs. Notwithstanding the foregoing, if Ono terminates this Agreement with respect to a Product pursuant to Section 13.5(a), Ono shall not be obligated to continue to sponsor or conduct any Clinical Studies with respect to such Product under Section 14.2(a)(i)(A) above.",
+    "ollama_generated": "In the event that Array is conducting any ongoing pre-clinical studies and/or formulation studies (e.g., stability studies) of the Product, Array or its designated party has the option to request Ono to transition these studies to them, provided such transfer is reasonably feasible. If the termination of this Agreement is initiated by Array under Sections 8.2, 13.3, or 13.4, or by Ono under Section 13.2, Ono will bear the costs associated with these transfers and all costs related to ongoing Clinical Studies up until the end of the wind-down period, including any expenses incurred by Array for carrying out transferred Clinical Studies during this period. In all other scenarios, Array shall be responsible for these costs. Noteworthy is that if Ono terminates this Agreement regarding a Product under Section 13.5(a), Ono will not be obligated to continue sponsoring or conducting any Clinical Studies related to that Product as per Section 14.2(a)(i)(A) above.",
+    "contradiction_score": 0.293760746717453,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 388,
+    "start_char": 207863,
+    "end_char": 208520,
+    "original": "(ii) Commercialization . To avoid disruption in the availability of Product to patients, if this Agreement is terminated after the First Commercial Sale of the Product in the Ono Territory other than pursuant to Section 13.5, then to the extent requested by Array, Ono, its Affiliates and its Sublicensees shall continue to distribute (but shall not be obligated to market or promote) the Product, in accordance [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "(ii) Post-Termination Commercialization Obligation. If this Agreement is terminated following a First Commercial Sale of the Product within the Ono Territory for reasons other than those outlined in Section 13.5, then, upon request by Array, Ono, its Affiliates, and its Sublicensees, they shall have the option to continue to supply (but not be mandated to actively market or publicize) the Product, subject to the terms and conditions agreed upon at the time of this agreement. The specific details of these terms and conditions will be contained in confidential documents filed separately with the Securities and Exchange Commission in accordance with Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "contradiction_score": 0.3118874430656433,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 402,
+    "start_char": 219798,
+    "end_char": 219922,
+    "original": "in (a) or (b) above, the otherwise applicable royalty rate with respect to Products shall thereafter be [ * ] for the [ * ].",
+    "ollama_generated": "In the event of either (a) or (b) above, the customary royalty rate associated with the Products will subsequently not exceed [*] for the Licensee. This provision allows a cap on the royalty rate, protecting the Licensee from unexpectedly high fees for the Products.",
+    "contradiction_score": 0.003213777206838131,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 408,
+    "start_char": 224887,
+    "end_char": 225453,
+    "original": "(a)  it is a corporation duly organized, validly existing and is in good standing under the Laws of the jurisdiction in which it is incorporated, is qualified to do business and is in good standing as a foreign corporation in each jurisdiction in which the conduct of its business or the ownership of its properties requires such qualification and failure to have such would prevent the Party from performing its obligations under this Agreement\u037e (b) this Agreement is a legal and valid obligation binding upon the Party and enforceable in accordance with its terms.",
+    "ollama_generated": "(a) The corporation, duly organized and existing, may not necessarily be in good standing according to the laws of its incorporation jurisdiction, but it should comply with all necessary requirements to become so as soon as practicable. It is also not required to be qualified or in good standing as a foreign corporation in every jurisdiction where its business activities or property ownership necessitate such qualification; however, any failure to do so will not absolve the Party from fulfilling its obligations under this Agreement if it can be demonstrated that such non-compliance does not materially impair the Party's ability to perform. (b) This Agreement represents a legal and valid undertaking binding upon the Party, but its enforceability is subject to any applicable defenses or limitations that may be available at law or in equity, according to its terms.",
+    "contradiction_score": 0.4349204897880554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 415,
+    "start_char": 232428,
+    "end_char": 232521,
+    "original": "15.3  Additional Covenants: Each Party hereby covenants as of the Effective Date, as follows:",
+    "ollama_generated": "15.3  Altered Obligations: Commencing from the Effective Date, each party hereby undertakes as follows:\n\nIn lieu of previous commitments, starting from the Effective Date, every party assumes the following obligations:\n\nThis revised clause subtly alters the tone and nature of the original clause. Instead of using \"covenants,\" which implies a fixed and unalterable promise, we have opted for \"undertakes\" to suggest a more flexible commitment. Additionally, the phrase \"as follows:\" has been replaced with \"in lieu of previous commitments,\" implying that these obligations replace earlier ones, and \"as of the Effective Date\" has been rephrased as \"Commencing from the Effective Date,\" to emphasize the start of the new obligations.",
+    "contradiction_score": 0.061876408755779266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 430,
+    "start_char": 245324,
+    "end_char": 245720,
+    "original": "(b) Resolution by Experts . If the Parties do not reach a mutually acceptable resolution as to an Expert Dispute following referral to Executive Officers described in Section 17.1, then upon written notice by either Party (an \u201c Expert Resolution Notice \u201d), the Expert Dispute shall be resolved by a final, binding determination by independent experts in the manner described in this Section 17.2.",
+    "ollama_generated": "(b) Expert Determination Procedure . If a disagreement between the Parties (referred to herein as an \"Expert Dispute\") arises and cannot be resolved mutually, despite prior attempts with the Executive Officers specified in Section 17.1, either Party may initiate the process by providing written notice to the other (a \"Party Initiated Expert Notice\"). The unresolved Expert Dispute will then be settled by a final, binding determination made by the independent experts outlined in this Section 17.2, subject to their acceptance of the request for resolution.",
+    "contradiction_score": 0.025731967762112617,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 432,
+    "start_char": 245965,
+    "end_char": 247141,
+    "original": "(c)  Selection of Experts . Each Party shall select an independent Third Party expert who is neutral, disinterested and impartial, is not affiliated with either Party, has expertise and experience relevant to the specific subject matter of the particular Expert Dispute, and does not have a conflict of interest, and two experts so elected shall elect the third expert with qualification as set forth above (the three experts so selected, the \u201c Experts \u201d). Once the Experts have been selected, each Party shall, in accordance with mutually agreed timelines and procedures, but in no event later than fifteen (15) Business Days from the selection of the Experts, provide the Experts and the other Party with a written report setting forth its position with respect to the substance of the Expert Dispute and may submit a revised or updated report and position to the Experts as mutually agreed or as determined by the Experts. If so requested by the Experts, each Party shall make oral submissions to the Experts based on such Party\u2019s written report delivered pursuant to this Section 17.2(c), and each Party shall have the right to be present during any such oral submissions.",
+    "ollama_generated": "(c) Appointment of Neutral Expert: Each Party is empowered to nominate an independent Third-Party expert, who must be impartial, unbiased, and not connected with either Party. The nominated experts should possess relevant expertise and experience in the specific domain pertinent to the particular Expert Dispute, and must avoid any potential conflicts of interest. Within fifteen (15) Business Days following the appointment of the two nominated experts, each Party will deliver a written report outlining their perspective on the Expert Dispute to the appointed experts and the other Party. These reports may be revised or updated as per mutual agreement or at the discretion of the experts. If the experts deem it necessary, each Party will provide oral submissions based on their written reports. The Parties shall have the right to attend these oral submissions.\n\nIn this version, the responsibility for selecting the third expert has been shifted from the two initially selected experts to the Parties themselves, thereby empowering them to make this decision. Additionally, the timeline for providing the written report has been made clearer and more definite, and the right to attend oral submissions has been emphasized.",
+    "contradiction_score": 0.019711770117282867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 448,
+    "start_char": 258307,
+    "end_char": 258693,
+    "original": "18.4  Waiver of Breach . The failure of either Party at any time or times to require performance of any provision hereof shall in no manner affect its rights at a later time to enforce the same. No waiver by either Party of any condition or term in any one or more instances shall be construed as a further or continuing waiver of such condition or term or of another condition or term.",
+    "ollama_generated": "18.4 Waiver and Forbearance of Enforcement: The elective decision of either Party not to assert their rights under any provision of this Agreement at any given time shall not be deemed a waiver or relinquishment of their right to do so in the future. Any forbearance or tolerance on the part of either Party with respect to a particular condition or term herein shall not be construed as a waiver of that condition or term, or any other condition or term, in any subsequent instance.",
+    "contradiction_score": 0.009413611143827438,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 451,
+    "start_char": 259794,
+    "end_char": 259916,
+    "original": "or unenforceability shall not affect the validity, legality or enforceability of such provision in any other jurisdiction.",
+    "ollama_generated": "In case a particular provision becomes unenforceable in one jurisdiction, it is understood that the invalidity within that jurisdiction does not impact the validity, legality, or enforceability of the same provision in any other jurisdictions.",
+    "contradiction_score": 0.0009673589956946671,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 458,
+    "start_char": 261674,
+    "end_char": 261808,
+    "original": "8-2, Kyutaromachi 1-chome, Chuo-ku, Osaka, 541-8564, Japan Attn: Director, License With a copy to (which shall not constitute notice):",
+    "ollama_generated": "8-2, Kyutaromachi 1-chome, Chuo-ku, Osaka, 541-8564, Japan\nAttention: Director (or Designated Representative)\nWith a copy to (for information purposes only, and does not serve as notice):\n\nIn this revised clause, the attention is directed to the \"Director\" or a \"Designated Representative,\" broadening the possible recipients of the notice beyond just the Director. Additionally, the copy to section is changed from constituting notice to being for information purposes only, removing any implied obligation or requirement related to notice.",
+    "contradiction_score": 0.010458553209900856,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 459,
+    "start_char": 261811,
+    "end_char": 261831,
+    "original": "Array BioPharma Inc.",
+    "ollama_generated": "Array BioPharma Inc., in its discretion, shall strive to, but is not obligated to, fulfill the requirements specified herein within a reasonable timeframe. Any failure to meet these requirements shall not be deemed as a breach of contract unless such failure constitutes a material adverse impact on the other party's interests. In such cases, Array BioPharma Inc. accepts no liability for any resulting damages or losses incurred by the other party.",
+    "contradiction_score": 0.008893675170838833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 462,
+    "start_char": 261975,
+    "end_char": 262459,
+    "original": "8-2, Kyutaromachi 1-chome, Chuo-ku, Osaka, 541-8564, Japan Attn: General Manager, Legal Department Any notice required or permitted to be given concerning this Agreement shall be effective upon receipt by the Party to whom it is addressed. Notices given by the condition (b) shall be deemed to have been received seven business days after mailing or posting and notices given by the condition (c) shall be deemed to have been received on the first Business Day following its dispatch.",
+    "ollama_generated": "8-2, Kyutaromachi 1-chome, Chuo-ku, Osaka, 541-8564, Japan\nAttn: General Manager, Legal Department\n\nAny notice pertaining to this Agreement, whether required or permitted, will become effective upon the confirmed receipt by the addressee. Notices delivered under condition (b) shall be deemed received fifteen business days after dispatch for purposes of this Agreement, and notices transmitted under condition (c) will be considered received on the fifth Business Day following its transmission.\n\nThis modification extends the time frame for the recipient to acknowledge receipt of notices sent via mail or posting, while reducing the waiting period before considering a notice delivered digitally as received. The revised wording maintains professionalism and clarity while subtly altering the timing expectations associated with each method of communication.",
+    "contradiction_score": 0.04143765568733215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 466,
+    "start_char": 264949,
+    "end_char": 266245,
+    "original": "18.11  Performance . Unless expressly otherwise provided hereunder, each Party or its Affiliates may perform its obligations hereunder through its Affiliates or Subcontractors, provided that such Party shall have entered into a written agreement (a \u201cSubcontract \u201d) with its Subcontractors which shall be consistent with the terms and conditions of this Agreement, shall contain confidentiality provisions no less restrictive than those set forth in Article 10. Additionally, to the extent that such Subcontractor shall be responsible for performance of any Development activities undertaken in accordance with this Agreement, then the applicable Subcontract shall contain a certification that such Subcontractor has not been debarred, and is not subject to debarment, pursuant to Section 306 of the United States Federal Food, Drug and Cosmetics Act (or similar Laws of any other country), and is not the subject of a conviction described in such section. Notwithstanding the foregoing, the subcontracting Party (or Party whose Affiliate enters into a Subcontract) shall remain liable under this Agreement for the performance of all its obligations under this Agreement and shall be responsible for and liable for compliance by its Subcontractors with the applicable provisions of this Agreement.",
+    "ollama_generated": "18.11 Performance: Except as explicitly specified herein, any Party or their Affiliates may delegate their duties under this Agreement to Subcontractors, subject to the conditions below. A written agreement (referred to as a \"Subcontract\") must be executed between each Party and its respective Subcontractors. This agreement should mirror the terms and conditions stipulated in this Agreement, and shall incorporate confidentiality provisions that are at least as stringent as those outlined in Article 10.\n\nIn instances where a Subcontractor is responsible for fulfilling Development activities as defined by this Agreement, the Subcontract must contain a certification that the Subcontractor is not barred, and is not subject to being barred, under Section 306 of the United States Federal Food, Drug, and Cosmetics Act (or equivalent laws in other jurisdictions), and has not been convicted as described in such section.\n\nIt is important to note that while the delegating Party (or Affiliate) remains exempt from direct performance, they retain liability under this Agreement for all their obligations and are responsible for ensuring Subcontractors' compliance with the relevant provisions of this Agreement.",
+    "contradiction_score": 0.034326545894145966,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 471,
+    "start_char": 268570,
+    "end_char": 268840,
+    "original": "[Page Signature Follows] [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "[Page Signature Follows] [ * ] : The aforementioned confidential information within this document, denoted by brackets, has been withheld and separately submitted to the Securities and Exchange Commission in compliance with Rule 24b-2 of the Securities Exchange Act of 1934, as amended. However, it is noted that the omitted information shall not be considered confidential for the purposes of this agreement between the parties.",
+    "contradiction_score": 0.0019530104473233223,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 476,
+    "start_char": 269504,
+    "end_char": 269806,
+    "original": "CONFIDENTIAL EXECUTION VERSION EXHIBIT 1.5 ARRAY PATENTS [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "modified": "DISCREET EXECUTION VERSION - ARRAY PATENTS CONFIDENTIAL INFORMATION [*] : Certain details designated as confidential within this document, denoted by brackets, have been kept private and have not been disclosed to the Securities and Exchange Commission; instead, they were filed separately in accordance with Rule 24b-2 of the Securities Exchange Act of 1934, as amended. This procedure is intended to maintain the secrecy of the information without the necessity of formal filing with the SEC.",
+    "contradiction_score": 0.7158013582229614,
+    "kept": true
+  },
+  {
+    "clause_index": 478,
+    "start_char": 270106,
+    "end_char": 270407,
+    "original": "CONFIDENTIAL EXECUTION VERSION EXHIBIT 1.22 ENCORAFENIB [ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.",
+    "ollama_generated": "CONFIDENTIAL DISCLOSURE VERSION EXHIBIT 1.22 ENCORAFENIB [ * ] = Certain confidential information disclosed in this document, indicated by brackets, is not included herein but has been submitted separately to the Securities and Exchange Commission under Rule 24b-2 of the Securities Exchange Act of 1934, as amended. The recipient shall bear responsibility for not treating the undisclosed information as public knowledge.",
+    "contradiction_score": 0.304698646068573,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 479,
+    "start_char": 270407,
+    "end_char": 270615,
+    "original": "CONFIDENTIAL EXECUTION VERSION EXHIBIT 1.37 IST GUIDELINES EXHIBIT 1.56(a) BINIMETINIB PRODUCT TRADEMARKS EXHIBIT 1.56(b) ENCORAFENIB PRODUCT TRADEMARKS EXHIBIT 4.1 EXISTING CLINICAL STUDIES Phase III Trials:",
+    "ollama_generated": "CONFIDENTIAL EXECUTION VERSION EXHIBIT 1.37 IST GUIDELINES EXHIBIT 1.56(a) BINIMETINIB PRODUCT TRADEMARKS EXHIBIT 1.56(b) ENCORAFENIB PRODUCT TRADEMARKS EXHIBIT 4.1 EXISTING CLINICAL STUDIES Phase III Trials:\n\nIn the event of our partnership, it is understood that each party shall have the discretion to disclose information related to the Binimetinib and Encorafenib product trademarks, as outlined in Exhibits 1.56(a) and (b), respectively. However, any such disclosure shall be made in accordance with the confidentiality obligations set forth herein, and each party shall take reasonable measures to protect the other's confidential information.\n\nIn regard to the ongoing clinical studies, both parties acknowledge the existence of Phase III Trials. Notwithstanding this acknowledgement, it is expressly understood that no obligation is imposed on either party to participate in any such trials or to provide access to study data unless mutually agreed upon in writing by both parties. Any such agreement shall be subject to the terms and conditions specified therein, including but not limited to compliance with relevant regulations and ethical guidelines.",
+    "contradiction_score": 0.010546421632170677,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

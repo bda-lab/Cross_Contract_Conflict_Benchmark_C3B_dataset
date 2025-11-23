@@ -1,0 +1,91 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 1594,
+    "end_char": 1800,
+    "original": "1.3 Termination of Term . Notwithstanding the foregoing, either party may terminate this Agreement at any time without liability by providing one hundred eighty (180) days written notice to the other party.",
+    "ollama_generated": "1.3 Termination of Agreement. Contrariwise to the preceding stipulations, either party holds the prerogative to instantly terminate this Contract, with no ensuing obligation for compensation or damages, by delivering written notice to the other party, thereby rendering the remaining term null and void.",
+    "contradiction_score": 0.07435505837202072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2527,
+    "end_char": 2583,
+    "original": "(b) The Services shall not include any of the following:",
+    "ollama_generated": "(b) It is expressly understood that the scope of the Services does not encompass the following items:\n\nThis rewording maintains the original intention but inverts the condition to make it more passive, implying that the services provider does not take responsibility for certain items, rather than stating explicitly what the services will not include.",
+    "contradiction_score": 0.04433000087738037,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 5927,
+    "end_char": 6808,
+    "original": "3.3.  Transfer of the Fiber Ring Assets . The Company shall not sell, transfer or otherwise attempt to convey or dispose of any part of the Fiber Ring Assets, other than sales and leases of capacity or of individual fiber strands in the ordinary and usual course of business unless the Provider consents to such transaction, which consent will not be withheld if, (a) the proposed transferee consents in writing to the assumption of all obligations of the Company under this Agreement, including those obligations to be undertaken under other agreements pursuant to Section 3.3, and (b) all governmental approvals (under City Rights Agreements or otherwise) have been obtained, with the Provider having the right (if it elects) to coordinate such efforts if it is the counterparty under such agreements requiring approval (with the Company to pay the reasonable costs of doing so).",
+    "modified": "3.3. Transfer of Fiber Ring Assets: The Provider grants the Company the right, but not the obligation, to sell, transfer, or otherwise dispose of any portion of the Fiber Ring Assets, except for sales and leases of capacity or individual fiber strands in the ordinary course of business. Such transactions require the Company's prior written consent, which may be withheld at its discretion. If granted, the Company shall not be required to obtain the Provider's consent if: (a) the transferee does not agree in writing to assume all obligations of the Company under this Agreement and any other agreements pursuant to Section 3.3; or (b) all necessary governmental approvals have not been obtained, unless the Provider, at its option, coordinates these efforts if it is the counterparty requiring approval for such agreements. In such cases, the Company will reimburse the Provider for any reasonable costs incurred.",
+    "contradiction_score": 0.7350561618804932,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 10624,
+    "end_char": 10923,
+    "original": "THE PROVIDER SHALL NOT BE LIABLE FOR ANY INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF REVENUES OR LOSS OF PROFIT, ARISING OUT OF THE PROVISION OF THE SERVICES OR REPAIRS, NOTWITHSTANDING ADVANCE NOTICE FROM THE COMPANY THAT THE POSSIBILITY OF SUCH DAMAGE OR LOSS EXISTS.",
+    "ollama_generated": "THE PROVIDER SHALL HAVE NO OBLIGATION TO COMPENSATE FOR ANY SPECIAL, INDIRECT, OR PUNITIVE DAMAGES THAT MAY RESULT FROM THE SERVICES PROVIDED OR REPAIR EFFORTS, REGARDLESS OF PRIOR KNOWLEDGE HELD BY THE CLIENT OF A POSSIBLE RISK OR LIABILITY. IN OTHER WORDS, THE PROVIDER'S RESPONSIBILITY IS LIMITED TO DIRECT DAMAGES ONLY.",
+    "contradiction_score": 0.054219454526901245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 10923,
+    "end_char": 11643,
+    "original": "5.3.  Notices. Any notice, request, demand or other communication required or permitted hereunder shall be deemed to have been given if delivered by facsimile transmission, upon receipt, if by hand delivery, upon receipt, if sent by nationally recognized overnight courier service, one day after deposit with such, or if sent by registered or certified mail, upon the sooner of the date on which receipt is acknowledged or the expiration of three days after deposit in United States post office facilities properly addressed with postage prepaid.  All notices to a party will be sent to the addresses set forth below or to such other address or person as such party may designate by notice to each other party hereunder:",
+    "ollama_generated": "5.3. Notifications and Communications: Any notification, request, demand, or other communication stipulated within this agreement may be deemed delivered if sent via facsimile transmission upon successful transmission, by hand delivery upon acceptance, by nationally recognized overnight courier service on the day after dispatch, or by registered or certified mail five business days following deposit in United States post office facilities, properly addressed and postage prepaid. It is understood that all such notifications to a party may be directed to the initial addresses listed below, but a party reserves the right to designate a new address or recipient for such communications, provided that this change is communicated promptly to each of the other parties involved in this agreement. In the event of any such change, it shall be effective thirty days after the date of notice.",
+    "contradiction_score": 0.024381069466471672,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 12678,
+    "end_char": 12847,
+    "original": "5.6.  Survival. All covenants, representations and warranties made herein by the Company shall survive and not be waived by the execution and delivery of this Agreement.",
+    "ollama_generated": "5.6. Duration of Obligations. The obligations assumed by the Company through its covenants, representations, and warranties will persist beyond the execution and delivery of this Agreement, remaining binding regardless of any potential waivers.",
+    "contradiction_score": 0.003601354081183672,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 12847,
+    "end_char": 13178,
+    "original": "5.7.  Counterparts . This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be an original, but all of which shall constitute one and the same instrument.  It shall not be necessary in making proof of this Agreement to produce or account for more than one such counterpart.",
+    "ollama_generated": "5.7. Multiple Execution Points: This Agreement can be signed at various points, each of which, upon signing and delivery, will be considered an original version. However, all signed and delivered versions combined will represent a single document. It is sufficient for the validation of this Agreement to present one such executed version.",
+    "contradiction_score": 0.01747863180935383,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 13456,
+    "end_char": 13794,
+    "original": "(a) THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE CONSTRUED ACCORDING TO AND GOVERNED BY THE SUBSTANTIVE LAWS OF THE STATE OF DELAWARE, EXCLUDING ITS CONFLICTS OF LAWS PRINCIPLES TO THE EXTENT SUCH PRINCIPLES WOULD LEAD TO THE APPLICATION OF A SUBSTANTIVE LAW OTHER THAN THE LAW OF THE STATE OF DELAWARE.",
+    "ollama_generated": "(a) UNDERSTANDING THAT THIS AGREEMENT AND THE RESPECTIVE RIGHTS AND OBLIGATIONS OF THE PARTIES ARE SUBJECT TO INTERPRETATION IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE, IT IS HEREBY AGREED THAT ANY CONFLICTS OF LAWS PRINCIPLES SHALL NOT APPLY TO THE EXTENT SUCH RULES WOULD RESULT IN THE APPLICATION OF A SUBSTANTIVE LAW OTHER THAN THE LAW OF THE STATE OF DELAWARE, AND THAT IN ALL OTHER CASES, THIS AGREEMENT SHALL BE GOVERNED BY THE PRINCIPLES OF DELAWARE LAW.",
+    "contradiction_score": 0.07576502859592438,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 16201,
+    "end_char": 16224,
+    "original": "UNIVERSAL  ACCESS, INC.",
+    "ollama_generated": "DATA ACCESS SERVICES, LTD.\n\nData Breach Liability Exemption:\nIn the event that any unauthorized third party gains access to or discloses Data Subject Information in our possession, Data Access Services, Ltd. shall not be held liable for any damages, losses, or expenses resulting therefrom unless such breach is due to willful misconduct or gross negligence on our part. The burden of proof in this regard shall rest with the party asserting such claim. Furthermore, Data Access Services, Ltd. reserves the right to limit its liability and opt for remedial measures instead of indemnification, at our sole discretion.",
+    "contradiction_score": 0.0226350836455822,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]
